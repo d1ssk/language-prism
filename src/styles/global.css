@@ -720,7 +720,7 @@ details p {
 .reader-toolbar .play-buttons { margin-left: 0; }
 .reader button { border: 0; border-radius: 0; }
 .reader #play-all { background: transparent; color: var(--accent); }
-.reader .play-buttons button, .reader .play-unit { padding: 0.25rem 0; }
+.reader .play-buttons button, .reader .play-unit, .reader .play-from { padding: 0.25rem 0; }
 .reader .play-buttons { gap: 1.25rem; }
 .audio-settings { margin-top: 0.5rem; }
 .audio-settings .player-controls { margin-top: 0.7rem; }
@@ -729,8 +729,9 @@ details p {
 #player-status { block-size: 3.2em; line-height: 1.6; overflow: auto; }
 .reader .unit { display: block; padding: 0; margin-block: 0 2rem; border: 0; }
 .reader .unit-section-title { font-size: 1.15rem; font-weight: 500; margin-block: 3rem 1.25rem; padding-top: 1.25rem; border-top: 1px solid var(--border); }
-.reader .unit-heading { display: block; margin-bottom: 0.5rem; }
-.play-unit { font-size: 0.8rem; }
+.reader .unit-heading { display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem 1rem; margin-bottom: 0.5rem; }
+.reader .unit-heading .unit-number { font-size: 0.8rem; letter-spacing: normal; }
+.play-unit, .play-from { font-size: 0.8rem; min-height: 40px; }
 .reader .unit-languages { gap: 0.4rem; }
 .reader .language-block {
   display: grid;

@@ -14,6 +14,8 @@ const t = (key: Parameters<typeof translate>[1], values?: Record<string, string 
 const l = (value: Parameters<typeof localize>[0]) => localize(value, locale);
 const languages = displayLanguages(locale, work.originalLanguage);
 const audioCount = Object.keys(work.availableAudio).length;
+const unitsWithAudio = work.units.map(unit => languages.some(lang => work.availableAudio[`${unit.id}/${lang.code}`]));
+const lastAudioUnitIndex = unitsWithAudio.lastIndexOf(true);
 const bibliography = work.type === 'library' ? work.bibliography : undefined;
 const pageTitle = bibliography ? `${bibliography.originalTitle} — ${bibliography.originalAuthor}` : l(work.title);
 ---
@@ -37,7 +39,11 @@ const pageTitle = bibliography ? `${bibliography.originalTitle} — ${bibliograp
     {audioCount > 0 && <noscript><p class="notice">{t('noScript')}</p></noscript>}
     <div class="units">{work.units.map((unit, index) => <article class="unit" id={unit.id}>
       {unit.heading && <h2 class="unit-section-title">{l(unit.heading)}</h2>}
-      <div class="unit-heading"><button class="play-unit" hidden data-unit={unit.id} disabled={!languages.some(lang => work.availableAudio[`${unit.id}/${lang.code}`])} aria-label={t('playUnitLabel', { count: index + 1 })}>{t('playUnit')}</button></div>
+      <div class="unit-heading">
+        <span class="unit-number">{index + 1}</span>
+        <button class="play-unit" hidden data-unit={unit.id} disabled={!unitsWithAudio[index]} aria-label={t('playUnitLabel', { count: index + 1 })}>{t('playUnit')}</button>
+        <button class="play-from" hidden disabled={index > lastAudioUnitIndex} aria-label={t('playFromLabel', { count: index + 1 })}>{t('playFrom')}</button>
+      </div>
       <div class="unit-languages">{languages.map(lang => unit.languages[lang.code]
         ? <LanguageBlock locale={locale} entry={unit.languages[lang.code]} code={lang.code} label={lang.native} dir={lang.dir} unitId={unit.id} audio={work.availableAudio[`${unit.id}/${lang.code}`]} isOriginal={work.type === 'library' && lang.code === work.originalLanguage} />
         : unit.noEquivalent?.[lang.code]

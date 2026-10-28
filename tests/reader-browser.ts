@@ -13,6 +13,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     await expect(noJs.locator(".reading-text")).toHaveCount(keys.length);
     await expect(noJs.locator("noscript audio")).toHaveCount(keys.length);
     await expect(noJs.locator(".reader-toolbar")).toBeHidden();
+    await expect(noJs.locator(".play-from:visible")).toHaveCount(0);
     await noJs.locator(".sentence-details summary").first().click();
     await expect(noJs.locator(".explanation").first()).toBeVisible();
   } finally { await noJs.close(); }
@@ -27,6 +28,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await expect(page.locator(".reader-toolbar")).toBeVisible();
       await expect(page.locator(".audio-button:enabled")).toHaveCount(keys.length);
       await expect(page.locator(".play-unit:enabled")).toHaveCount(work.units.length);
+      await expect(page.locator(".play-from:enabled")).toHaveCount(work.units.length);
       const displayCodes = locale === "en" ? ["en", "ja", "es", "fr", "de", "ru", "ar", "zh", "ko"] : LANGUAGE_CODES;
       expect(await page.locator(".reading-text").allTextContents()).toEqual(work.units.flatMap((u: any) => displayCodes.map(code => u.languages[code].text)));
       await expect(page.locator(".pronunciation-text")).toHaveCount(work.units.length * 2);
@@ -51,6 +53,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await expect(page.locator(".explanation").first()).toBeHidden();
       await page.screenshot({ path: path.join(screenshots, `${mode}-${locale}-reader-desktop.png`) });
       await page.setViewportSize({ width: 390, height: 844 });
+      await expect(page.locator("#u001 .play-from")).toBeVisible();
       await page.locator('#u001 [data-language="ar"] summary').click();
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
       await page.locator("h1").scrollIntoViewIfNeeded();
@@ -73,8 +76,16 @@ export async function checkReader(browser: Browser, origin: string, mode: string
   // Control media completion deterministically to exercise every queue transition.
   const context = await browser.newContext();
   await context.addInitScript(() => {
-    const state = { played: [] as string[], reject: false };
+    const state = {
+      played: [] as string[], reject: false,
+      actions: {} as Record<string, () => void>,
+    };
     (window as any).__mediaTest = state;
+    Object.defineProperty(navigator, "mediaSession", { value: {
+      metadata: null,
+      playbackState: "none",
+      setActionHandler(action: string, handler: () => void) { state.actions[action] = handler; },
+    } });
     HTMLMediaElement.prototype.play = function () {
       state.played.push(this.getAttribute("src") || "");
       return state.reject ? Promise.reject(new Error("test rejection")) : Promise.resolve();
@@ -94,6 +105,41 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     await mock.goto(`${origin}/ja/read/random-1/`);
     await setting(mock, "#gap", "0");
     await setting(mock, "#speed", "1.5");
+    // A zero-gap transition must run in the ended event, without waiting for a
+    // background timer. Notification pause/play must retain the current queue.
+    await mock.locator("#play-all").click();
+    expect(await mock.evaluate(() => navigator.mediaSession.playbackState)).toBe("playing");
+    expect(await mock.evaluate(() => navigator.mediaSession.metadata?.title)).toBe("ランダム 1");
+    expect(await mock.evaluate(() => {
+      document.querySelector("#audio-player")!.dispatchEvent(new Event("ended"));
+      return (window as any).__mediaTest.played.length;
+    })).toBe(2);
+    await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
+    expect(await mock.evaluate(() => navigator.mediaSession.playbackState)).toBe("paused");
+    await expect(mock.locator("#player-status")).toHaveText("再生を一時停止しました。");
+    await mock.evaluate(() => (window as any).__mediaTest.actions.play());
+    expect(await played()).toEqual(["u001/ja", "u001/en", "u001/en"]);
+    await ended();
+    expect(await played()).toEqual(["u001/ja", "u001/en", "u001/en", "u001/es"]);
+    await mock.evaluate(() => (window as any).__mediaTest.actions.stop());
+    expect(await mock.evaluate(() => navigator.mediaSession.playbackState)).toBe("none");
+    expect(await mock.evaluate(() => navigator.mediaSession.metadata)).toBeNull();
+
+    // Pausing between clips cancels the pending transition; resume starts the
+    // next clip once, and the old timer must not later advance it again.
+    await setting(mock, "#gap", "0.5");
+    await reset();
+    await mock.locator("#play-all").click();
+    await ended();
+    await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
+    await mock.waitForTimeout(650);
+    expect(await played()).toEqual(["u001/ja"]);
+    await mock.evaluate(() => (window as any).__mediaTest.actions.play());
+    await mock.waitForTimeout(650);
+    expect(await played()).toEqual(["u001/ja", "u001/en"]);
+    await mock.locator("#stop-audio").click();
+    await reset();
+    await setting(mock, "#gap", "0");
     const unitsTop = () => mock.locator(".units").evaluate(el => el.getBoundingClientRect().top + window.scrollY);
     const initialTop = await unitsTop();
     await mock.locator("#play-all").click();
@@ -138,6 +184,39 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     await mock.evaluate(() => { (window as any).__mediaTest.reject = true; });
     await mock.locator("#play-all").click();
     await expect(mock.locator("#player-status")).toContainText("再生できませんでした");
+    await mock.evaluate(() => { (window as any).__mediaTest.reject = false; });
+
+    // Starting partway through follows DOM order and retains the start position
+    // after a notification pause/resume, without including earlier groups.
+    await setting(mock, "#gap", "0");
+    await reset();
+    await mock.locator("#u002 .play-from").focus();
+    await mock.keyboard.press("Enter");
+    expect(await played()).toEqual([keys[9]]);
+    await expect(mock.locator("#player-status")).toContainText("2組目から再生中");
+    await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
+    await mock.evaluate(() => (window as any).__mediaTest.actions.play());
+    await expect(mock.locator("#player-status")).toContainText("2組目から再生中");
+    await ended();
+    expect(await played()).toEqual([keys[9], keys[9], keys[10]]);
+    await mock.locator("#stop-audio").click();
+
+    const tailUnit = work.units.at(-2).id;
+    for (const locale of ["ja", "en"]) {
+      await mock.goto(`${origin}/${locale}/read/random-1/`);
+      await setting(mock, "#gap", "0");
+      const order = locale === "ja" ? LANGUAGE_CODES : ["en", "ja", "es", "fr", "de", "ru", "ar", "zh", "ko"];
+      const expected = work.units.slice(-2).flatMap((unit: { id: string }) => order.map(code => `${unit.id}/${code}`));
+      await mock.locator(`#${tailUnit} .play-from`).click();
+      for (let i = 0; i < expected.length; i++) {
+        expect(await played()).toEqual(expected.slice(0, i + 1));
+        await expect(mock.locator("#player-status")).toContainText(`${i + 1} / ${expected.length}`);
+        await ended();
+      }
+      await expect(mock.locator("#stop-audio")).toBeDisabled();
+      await expect(mock.locator("#player-status")).toHaveText(locale === "ja" ? "再生が終わりました。" : "Playback finished.");
+    }
+    await mock.goto(`${origin}/ja/read/random-1/`);
 
     // Changing playback state must not move the sentences, including on mobile.
     await mock.evaluate(() => { (window as any).__mediaTest.reject = false; });
@@ -183,6 +262,10 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     await setting(mock, "#gap", "0");
     await mock.locator("#play-all").click();
     await expect.poll(played).toEqual(["u001/en"]);
+    await expect(mock.locator("#player-status")).toContainText("未生成 1 件はスキップ");
+    await mock.locator("#u001 .play-from").click();
+    expect(await played()).toEqual(["u001/en", "u001/en"]);
+    await expect(mock.locator("#player-status")).toContainText("1組目から再生中");
     await expect(mock.locator("#player-status")).toContainText("未生成 1 件はスキップ");
     await mock.locator("#stop-audio").click();
   } finally { await context.close(); }
