@@ -4,6 +4,71 @@ import fs from "node:fs";
 import { LANGUAGE_CODES } from "../src/lib/languages";
 import { ROOT } from "../scripts/build/paths";
 
+export async function checkAudioStream(browser: Browser, origin: string) {
+  const page = await browser.newPage();
+  const errors: string[] = [];
+  page.on("pageerror", error => errors.push(error.message));
+  await page.addInitScript(() => {
+    const state = { plays: 0 };
+    (window as any).__streamTest = state;
+    const play = HTMLMediaElement.prototype.play;
+    HTMLMediaElement.prototype.play = function () {
+      state.plays++;
+      return play.call(this);
+    };
+  });
+  try {
+    for (const locale of ["ja", "en"]) {
+      await page.goto(`${origin}/${locale}/read/random-1/`);
+      expect(await page.locator("#gap").inputValue()).toBe("0");
+      const units = page.locator(".unit");
+      const tail = units.nth(await units.count() - 2);
+      const first = await tail.locator("[data-audio]").first().getAttribute("data-audio-key");
+      await tail.locator(".play-from").click();
+      const audio = page.locator("#audio-player");
+      await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeGreaterThan(0.05);
+      const src = await audio.getAttribute("src");
+      expect(src).toMatch(/^blob:/);
+      // Cross a real clip boundary at accelerated speed. It must not call play
+      // again or replace the media element's source.
+      await audio.evaluate((el: HTMLAudioElement) => { el.playbackRate = 8; });
+      await expect.poll(() => page.locator('[data-audio][aria-current="true"]').getAttribute("data-audio-key"), { timeout: 15000 }).not.toBe(first);
+      expect(await audio.getAttribute("src")).toBe(src);
+      expect(await page.evaluate(() => (window as any).__streamTest.plays)).toBe(1);
+      await audio.evaluate((el: HTMLAudioElement) => { el.playbackRate = 1; el.pause(); });
+      await expect(page.locator("#player-status")).toHaveText(locale === "ja" ? "再生を一時停止しました。" : "Playback paused.");
+      await audio.evaluate((el: HTMLAudioElement) => el.play());
+      await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.duration)).toBeLessThan(Infinity);
+      await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = el.duration - 0.1; });
+      await expect(page.locator("#stop-audio")).toBeDisabled();
+      await expect(page.locator("#player-status")).toHaveText(locale === "ja" ? "再生が終わりました。" : "Playback finished.");
+    }
+
+    // A long article buffers a bounded window, then refills evicted audio when
+    // the user seeks back. The same source remains attached throughout.
+    await page.goto(`${origin}/ja/read/random-1/`);
+    let requests = 0;
+    page.on("request", request => { if (request.url().endsWith(".mp3")) requests++; });
+    await page.locator("#play-all").click();
+    const audio = page.locator("#audio-player");
+    await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.buffered.length ? el.buffered.end(el.buffered.length - 1) : 0), { timeout: 15000 }).toBeGreaterThanOrEqual(90);
+    expect(requests).toBeLessThan(100);
+    const src = await audio.getAttribute("src");
+    await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = 75; });
+    await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.buffered.start(0)), { timeout: 15000 }).toBeGreaterThan(30);
+    await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = 0; });
+    await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.currentTime), { timeout: 15000 }).toBeGreaterThan(0.05);
+    expect(await audio.getAttribute("src")).toBe(src);
+    await page.locator("#stop-audio").click();
+    expect(await audio.getAttribute("src")).toBeNull();
+    await page.locator('[data-audio-key="u002/ko"]').click();
+    await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeGreaterThan(0.05);
+    expect(await audio.getAttribute("src")).toMatch(/u002\/ko\.mp3$/);
+    await page.locator("#stop-audio").click();
+    expect(errors).toEqual([]);
+  } finally { await page.close(); }
+}
+
 export async function checkReader(browser: Browser, origin: string, mode: string, screenshots: string) {
   const work = JSON.parse(fs.readFileSync(path.join(ROOT, "content/public/practical/random-1/content.json"), "utf8"));
   const keys = work.units.flatMap((u: { id: string }) => LANGUAGE_CODES.map(code => `${u.id}/${code}`));
@@ -76,6 +141,8 @@ export async function checkReader(browser: Browser, origin: string, mode: string
   // Control media completion deterministically to exercise every queue transition.
   const context = await browser.newContext();
   await context.addInitScript(() => {
+    // This context verifies the per-clip fallback independently of MSE.
+    Object.defineProperty(window, "MediaSource", { value: undefined });
     const state = {
       played: [] as string[], reject: false,
       actions: {} as Record<string, () => void>,

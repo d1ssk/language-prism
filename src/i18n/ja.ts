@@ -53,6 +53,7 @@ export default {
   playFromLabel: "意味単位 {count} から記事の最後まで再生",
   playingFrom: "{count}組目から再生中",
   audioSettings: "再生速度・間隔",
+  backgroundHint: "バックグラウンドで連続再生するときは、文間を「なし」にしてください。間隔の変更は次の再生開始時に反映されます。",
   readingHint: "文の三角を開くと、単語・語法・文法の解説を読めます。",
   description: "複数の言語の表現を比較しながら学ぶ、個人の学習記録。",
   homeCompare:

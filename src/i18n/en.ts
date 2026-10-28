@@ -54,6 +54,7 @@ const messages: Record<keyof typeof ja, string> = {
   playFromLabel: "Play from meaning unit {count} to the end of the article",
   playingFrom: "Playing from group {count}",
   audioSettings: "Playback speed and interval",
+  backgroundHint: "For continuous background playback, set the interval to None. Interval changes apply the next time you start playback.",
   readingHint: "Open the triangle beside a sentence to read its vocabulary, usage and grammar notes.",
   description: "Personal study notes exploring expressions across languages.",
   homeCompare:

@@ -3,7 +3,7 @@ import { chromium, expect } from "@playwright/test";
 import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
-import { checkReader } from "./reader-browser";
+import { checkReader, checkAudioStream } from "./reader-browser";
 import { ROOT, inside } from "../scripts/build/paths";
 import { displayLanguages } from "../src/lib/languages";
 const screenshots = path.join(ROOT, ".cache/screenshots");
@@ -367,6 +367,7 @@ try {
       // Prepended passages retain old IDs; playback must follow text order, not ID order.
       const queueContext = await browser.newContext();
       await queueContext.addInitScript(() => {
+        Object.defineProperty(window, "MediaSource", { value: undefined });
         (window as any).__libraryPlayed = [];
         HTMLMediaElement.prototype.play = function () {
           (window as any).__libraryPlayed.push(this.getAttribute("src"));
@@ -392,6 +393,8 @@ try {
           await expect(queuePage.locator("#stop-audio")).toBeDisabled();
         }
       } finally { await queueContext.close(); }
+      await checkAudioStream(browser, site.url);
+      console.log(`${mode}: continuous MP3 stream, pause/resume, bounded buffering and seeking OK`);
       await checkReader(browser, site.url, mode, screenshots);
       console.log(`${mode}: bilingual navigation, serif block links, lists, reader, playback and mobile OK`);
     } finally {

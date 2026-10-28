@@ -1,4 +1,5 @@
 import { isUiLocale, translate, type MessageKey } from "../i18n";
+import { AudioStream } from "./audio-stream";
 const uiLanguage = document.documentElement.lang;
 const locale = isUiLocale(uiLanguage) ? uiLanguage : "ja";
 const t = (key: MessageKey, values?: Record<string, string | number>) => translate(locale, key, values);
@@ -21,6 +22,8 @@ if (reader && reader.querySelector("#audio-player")) {
   let paused = false;
   let skipped = "";
   let startUnit: number | undefined;
+  let stream: AudioStream | undefined;
+  let interval = 0;
   const session = navigator.mediaSession;
   const setPlaybackState = (state: MediaSessionPlaybackState) => {
     if (session) session.playbackState = state;
@@ -39,6 +42,8 @@ if (reader && reader.querySelector("#audio-player")) {
     generation++;
     active = waiting = paused = false;
     clearTimeout(timer);
+    stream?.dispose();
+    stream = undefined;
     audio.pause();
     audio.removeAttribute("src");
     audio.load();
@@ -52,17 +57,11 @@ if (reader && reader.querySelector("#audio-player")) {
     }
     if (message) status.textContent = message;
   };
-  const playCurrent = async () => {
-    if (!active) return;
-    const token = generation;
+  const showClip = () => {
     const button = queue[cursor];
-    clearTimeout(timer);
-    waiting = paused = false;
     clearHighlight();
     button.classList.add("playing");
     button.setAttribute("aria-current", "true");
-    audio.src = button.dataset.audio!;
-    audio.defaultPlaybackRate = audio.playbackRate = Number(speed.value);
     showCurrent();
     if (session && "MediaMetadata" in window) {
       session.metadata = new MediaMetadata({
@@ -71,6 +70,15 @@ if (reader && reader.querySelector("#audio-player")) {
         album: "language prism",
       });
     }
+  };
+  const playCurrent = async () => {
+    if (!active) return;
+    const token = generation;
+    clearTimeout(timer);
+    waiting = paused = false;
+    audio.src = queue[cursor].dataset.audio!;
+    audio.defaultPlaybackRate = audio.playbackRate = Number(speed.value);
+    showClip();
     // Keep the playlist's intent during the short pause between clips.
     setPlaybackState("playing");
     try { await audio.play(); }
@@ -84,7 +92,24 @@ if (reader && reader.querySelector("#audio-player")) {
     startUnit = fromUnit;
     cursor = 0;
     active = true;
+    interval = Number(gap.value);
     stopButton.disabled = false;
+    if (next.length > 1 && interval === 0 && AudioStream.supported()) {
+      const token = generation;
+      showClip();
+      stream = new AudioStream(audio, next.map(button => button.dataset.audio!), index => {
+        if (generation !== token || !active) return;
+        cursor = index;
+        showClip();
+        if (paused) status.textContent = t("paused");
+      }, () => { if (generation === token && active) stop(t("loadFailed")); });
+      audio.defaultPlaybackRate = audio.playbackRate = Number(speed.value);
+      setPlaybackState("playing");
+      void audio.play().catch(() => {
+        if (generation === token && active) stop(t("playbackFailed"));
+      });
+      return;
+    }
     void playCurrent();
   };
   buttons.forEach(button => button.addEventListener("click", () => start([button])));
@@ -151,13 +176,14 @@ if (reader && reader.querySelector("#audio-player")) {
   });
   audio.addEventListener("ended", () => {
     if (!active || waiting) return;
+    if (stream) { stop(t("finished") + skipped); return; }
     cursor++;
     if (cursor >= queue.length) { stop(t("finished") + skipped); return; }
     waiting = true;
     clearHighlight();
     status.textContent = t("waiting");
     const token = generation;
-    const delay = Number(gap.value) * 1000;
+    const delay = interval * 1000;
     // No timer task is necessary when the user selected continuous playback.
     if (delay === 0) { void playCurrent(); return; }
     timer = setTimeout(() => {

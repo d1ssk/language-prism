@@ -32,8 +32,8 @@ const pageTitle = bibliography ? `${bibliography.originalTitle} — ${bibliograp
       <div class="play-buttons"><button id="play-all" disabled={audioCount === 0}>{t('playAll')}</button><button id="stop-audio" disabled>{t('stop')}</button></div>
       <details class="audio-settings"><summary>{t('audioSettings')}</summary><div class="player-controls">
         <label>{t('speed')}<select id="speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
-        <label>{t('gap')}<select id="gap"><option value="0">{t('noGap')}</option>{[0.5, 1, 2, 3].map(value => <option value={value} selected={value === 0.5}>{t('seconds', { count: value })}</option>)}</select></label>
-      </div></details>
+        <label>{t('gap')}<select id="gap"><option value="0" selected>{t('noGap')}</option>{[0.5, 1, 2, 3].map(value => <option value={value}>{t('seconds', { count: value })}</option>)}</select></label>
+      </div><p>{t('backgroundHint')}</p></details>
       <div class="playback-status"><p id="player-status" role="status" aria-live="polite">{audioCount === 0 ? t('noAudio') : t('audioCount', { count: audioCount })}</p><audio id="audio-player" controls preload="none" aria-label={t('player')}></audio></div>
     </section>}
     {audioCount > 0 && <noscript><p class="notice">{t('noScript')}</p></noscript>}
