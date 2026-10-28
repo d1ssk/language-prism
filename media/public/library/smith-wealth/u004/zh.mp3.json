@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6a23d06a63389bf705de3f1adcb5adcd829851d1c13f00f4465f1b58ac06ea1a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "但是，按照现在经营这项业务的方式，不仅整个工作是一门专门的手艺，而且它还分成许多分支，其中大多数也各自成为专门的手艺。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9a0fc6a8665c44ef327d8ede7c327e192866eedfd34b30b2393016680381676",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:37:56.661963+00:00"
+}

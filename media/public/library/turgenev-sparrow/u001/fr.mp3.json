@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0ba8049257ca41d31c4701357a1700f594cadc328ab53b35baeabb2571bd74ed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je revenais de la chasse et marchais dans une allée du jardin. Mon chien courait devant moi.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4533b0b0d5ed79ad1c6b2900c3d328860e795162008cb2f9b7039cfe103e79d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:09:11.632709+00:00"
+}

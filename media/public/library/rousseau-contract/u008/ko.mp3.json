@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "40cb1e2180a7eaa00e2bb57e2b253198fa966982dd2a6b8a6ecda7b0fbf03b38",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "하지만 이 권리는 자연에서 나오지 않는다. 그러므로 그것은 합의에 기초한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f5ca375d17a4a3d0228d1983c150d7e6e73b97917d7c0659586b77b299921107",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:58:43.544042+00:00"
+}

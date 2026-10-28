@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2cd74947cad3eb5d2f92e6c482390a5e52510817642d69b167ac10f17de5d9fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "じっけんけっかをかいしゃくするときには、そくていのふたしかさをわすれてはいけません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "48fe2aaa936aa8063cf0aff45d7fa510eb53f785bd3004d3c9ba9ce8d369f5d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:59.772139+00:00"
+}

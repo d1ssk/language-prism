@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4fa02cbc8526d43c2b2d0dd1ccc44eb387c2d54a1ac2e9ff5d6aa25f7dd3f793",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Tu connais un café tranquille dans le coin où on pourrait discuter ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e4653efdb177ba5194e9907a0a350e3a5b9dfbf4b2d5117948991f5017f91fa5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:12.108207+00:00"
+}

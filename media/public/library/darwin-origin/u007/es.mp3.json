@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b0d50cf77ba09793fbbd97f4733e2fd480f13ef732a670592fae924fbef0495",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hay grandeza en esta visión de la vida, con sus diversas facultades, insuflada originalmente en unas pocas formas o en una sola;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b7212dbd1f662b7e0a23dedac5bc9b82a8bcf36dcd6fc85731e39e28f1881db",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:22:34.760700+00:00"
+}

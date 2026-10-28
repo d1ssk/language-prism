@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8e798886c52e303a890760c0dc216e03dac46c0452eb1ecf8b5a0b076e38b984",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "둘째는 검토하는 어려움을 하나하나 가능한 한 많이, 또 더 잘 해결하는 데 필요한 만큼의 작은 부분으로 나누는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "472b50368992239dc11497130e4de14c7342d72b5734d474cde0860623fa8efd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:28:55.345124+00:00"
+}

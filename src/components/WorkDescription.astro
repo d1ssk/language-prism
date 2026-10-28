@@ -1,0 +1,13 @@
+---
+import type { Content } from '../lib/schema';
+import { localize } from '../lib/localized';
+import { translate, type UiLocale } from '../i18n';
+interface Props { work: Content; locale: UiLocale }
+const { work, locale } = Astro.props;
+---
+<div class="work-description">
+  <p>{work.bibliography
+    ? `${localize(work.bibliography.title, locale)} — ${localize(work.bibliography.author, locale)}`
+    : localize(work.title, locale)}</p>
+  {work.excerpt && <p>{translate(locale, work.excerpt.isExcerpt ? 'excerpt' : 'fullText')}{work.excerpt.location && ` · ${localize(work.excerpt.location, locale)}`}</p>}
+</div>

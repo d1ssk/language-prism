@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "451fa1b0ab99c2fb46b3957b2584db4fdc14630a874f4dfb76be20cbbe715ffa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Faszinierende an der Wissenschaft ist, dass sie uns ermöglicht, Dinge grundlegend zu hinterfragen, die wir für selbstverständlich hielten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13601ce7fe283b741d63939854674cb8b38f0b4949679db8c4d47ffea7845fd2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:42:41.529657+00:00"
+}

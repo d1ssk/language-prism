@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b7669dd979dd97a85279d517cbf152732fd9e33da82775a8b7ac52dab8aeb38a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "내 생각에는 창조주가 물질에 새긴 법칙에 관해 우리가 아는 바와 더 잘 부합하는 것은,",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "97a14d86a6e4230b22e6dea2f762e6dda017835127113a6879eefe3c900961a7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:14:20.199198+00:00"
+}

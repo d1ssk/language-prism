@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ae1239756011b8245a72872b2275f28aa9a4d0d9bc44e1b2a66c89124fd44ba0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "纵然普通人创造的人世难以居住，恐怕也没有别的国度可以迁往。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ad0bc84563077d79f9fabc558df88b01db3c8a0a2aa9720bd678c75acbcdc62f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:55:45.763249+00:00"
+}

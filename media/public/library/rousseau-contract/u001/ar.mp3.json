@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c5717047521a4c03c6cea7390301c0aa46ec383744f38530f73a0d47e1ff1a8e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وُلد الإنسان حرًا، وهو في كل مكان مكبل بالأغلال.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "60cfe1e38e31f1de3236d7ad2068f1186ee6515c751eb918dbb25c7406117984",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:52:12.335530+00:00"
+}

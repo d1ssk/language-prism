@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b427509e339e78080c91fbc3641e7fdf51c1bf2aaa35f61ea285867ea8da8d94",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "心理学将建立在新的基础上，即每一种心智能力都必然经过逐步获得的过程。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7426c22feeb56b30a58d804a502297fef427c6d62490930adf6f7c837ee9be93",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:11:12.670879+00:00"
+}

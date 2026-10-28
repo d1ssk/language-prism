@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "50b3be24f478204b19b9fa4da3fafd4c39b3f0bcb0ec49b7e89590d2753df334",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es waren schließlich gewöhnliche Menschen, die man in den drei Häusern gegenüber und in den Häusern zu beiden Seiten erblickt.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "769599038be98edbc00507e06e96b628382d9698aa185a7bd3facc98be95efab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:54:29.740004+00:00"
+}

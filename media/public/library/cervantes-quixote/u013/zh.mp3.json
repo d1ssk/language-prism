@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "70d11aab5b299aeb63c1675aabade179dfc28eebcd62f5117ee927b2388cb2a4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "就这样，把能弄到的书全都搬回了家；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f3db2f54a1d699ff098f64c6a5387897cb6019916d52a02c3ee0e711bc2abab0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:55.530814+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0c7402e7ece1fda331d501eb3e160acf18cefa0c51234934e69ed80a39468bb0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Act by reason, and you clash with others.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cbdc1e3f8e3a5b52991b1866ae81847e1c9402dd84ac6829cd869114ae8aa49d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:55:58.039725+00:00"
+}

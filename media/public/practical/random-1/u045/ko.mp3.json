@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c80ac82403074bd143441df895f9c333a18fcad48e26d10cbf825e26554d6793",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 미술관에는 예전부터 보고 싶었던 작품이 전시되어 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b2295374f58884f8b76d27abae617a21c052f2815607c819c6e99cdf383ec435",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:38:33.589530+00:00"
+}

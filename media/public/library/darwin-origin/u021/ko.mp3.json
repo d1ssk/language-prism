@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f22583629c007d90b38d55fe9462475590a175ca7555d6e19c19de81ba07c6d7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "따라서 우리는 어느 정도 확신을 가지고, 마찬가지로 헤아릴 수 없이 긴 안정된 미래를 기대할 수 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e63f5b2297dae050025413037a9f743673b96645c741f866a1d8cecd3178f68b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:28:50.767111+00:00"
+}

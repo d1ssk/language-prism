@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "14bfeab6c2fca370eec7bd854c68028436eb384310499bb8b9e0981e9e0f6914",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Veränderlichkeit durch die indirekte und direkte Wirkung der äußeren Lebensbedingungen sowie durch Gebrauch und Nichtgebrauch;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7403eb23972e6a9b94d3d4c54ab9567914f2cdc04f57d279aa09342b7a168879",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:19:02.906829+00:00"
+}

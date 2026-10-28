@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0b45e0725edf17d180bade64ea14cee698845625e114b92908c1f68e583fc5bc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "おなじきょくでも、そのときのきぶんによってまったくちがってきこえることがあります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1880f20c538a728133993dc84c214ab0249640d8f6ee0eeb6caaed5b56f22f28",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:52.189458+00:00"
+}

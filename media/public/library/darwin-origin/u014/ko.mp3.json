@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8b5c684e3502fb46f3faaf5019f30d0989ceb358a60995ff0d9ec174c8a3c602",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "과거와 현재의 세계에 사는 생물의 발생과 멸종이 개체의 탄생과 죽음을 결정하는 것과 같은 이차적 원인에 따른다는 견해다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "03c1b32d421441e4e342355a69f26b17bda8e604615f6b5cd91984bf71e106d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:16:14.017221+00:00"
+}

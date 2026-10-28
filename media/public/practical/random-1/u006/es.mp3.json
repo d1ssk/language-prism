@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13109a4074b9bfa3040e4f44f2e6e649c4d4c90da525e8b1373d270075ada250",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Todo estaba delicioso. ¿Nos trae la cuenta, por favor?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ee04dcdb8da82b8c1ad6089ba879d12b1d2219c901c270e8bbda5957c77d6df5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:51.549847+00:00"
+}

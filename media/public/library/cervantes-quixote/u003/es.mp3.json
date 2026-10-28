@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "95397861c83d4fe5979826f9a0a2b4b8124be4cd95d20c9b485463ffa11a9456",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mismo,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7f7e6221f598253f40a268fa6919f92b496c89128aabeb4e902317bdda98cf30",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:08:42.454759+00:00"
+}

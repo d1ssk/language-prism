@@ -1,0 +1,2863 @@
+{
+  "schemaVersion": 1,
+  "id": "first-conversations",
+  "slug": "first-conversations",
+  "type": "practical",
+  "title": {
+    "ja": "初対面の会話",
+    "en": "Meeting someone new"
+  },
+  "description": {
+    "ja": "挨拶、呼び方、仕事、旅先、休日、隣の席、連絡先など、初対面のさまざまな場面で使う表現。",
+    "en": "Expressions for different first meetings: introductions, names, work, travel, free time, sitting nearby and exchanging contact details."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて作成した例文。既存の教材からの転載ではありません。",
+    "en": "Examples created with AI for this site, not reproduced from existing teaching materials."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み表記：OpenAI。",
+    "en": "Text and pronunciation readings: OpenAI."
+  },
+  "editorialNote": {
+    "ja": "挨拶、呼び方、仕事、旅先、休日、隣の席、連絡先など、初対面のさまざまな場面で使う表現。 各小見出しは独立した場面です。短い掛け合いと単独で使える表現を組み合わせており、記事全体が一続きの会話ではありません。本文と読み表記を収録し、音声は未生成です。専門家による校閲は受けていません。",
+    "en": "Expressions for different first meetings: introductions, names, work, travel, free time, sitting nearby and exchanging contact details. Each heading introduces an independent situation. Short exchanges are mixed with standalone expressions; the article is not one continuous conversation. Text and pronunciation readings are included; audio has not been generated. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "こんにちは。田中です。",
+          "ttsText": "こんにちは。たなかです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Hello. My name is Tanaka.",
+          "ttsText": "Hello. My name is Tanaka.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Hola. Me llamo Tanaka.",
+          "ttsText": "Hola. Me llamo Tanaka.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bonjour. Je m'appelle Tanaka.",
+          "ttsText": "Bonjour. Je m'appelle Tanaka.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Guten Tag. Ich heiße Tanaka.",
+          "ttsText": "Guten Tag. Ich heiße Tanaka.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Здравствуйте. Меня зовут Танака.",
+          "ttsText": "Здравствуйте. Меня зовут Танака.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "مرحبا، اسمي تاناكا.",
+          "ttsText": "مرحبا، اسمي تاناكا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Marḥaban, ismī Tānākā.",
+            "note": {
+              "ja": "Marḥaban, ismī は連読すると marḥaban ismī とつながります。",
+              "en": "In connected speech, Marḥaban, ismī is linked as marḥaban ismī."
+            }
+          }
+        },
+        "zh": {
+          "text": "您好，我姓田中。",
+          "ttsText": "您好，我姓田中。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín hǎo, wǒ xìng Tiánzhōng."
+          }
+        },
+        "ko": {
+          "text": "안녕하세요. 다나카라고 합니다.",
+          "ttsText": "안녕하세요. 다나카라고 합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "挨拶と住まい",
+        "en": "Introductions and where you live"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "はじめまして。アリです。",
+          "ttsText": "はじめまして。ありです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Nice to meet you. I'm Ali.",
+          "ttsText": "Nice to meet you. I'm Ali.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Mucho gusto. Me llamo Ali.",
+          "ttsText": "Mucho gusto. Me llamo Ali.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Enchanté. Je m'appelle Ali.",
+          "ttsText": "Enchanté. Je m'appelle Ali.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "アリを男性として Enchanté と書いています。女性の話者なら Enchantée です。",
+              "en": "Ali is male here, so the spelling is Enchanté; a female speaker writes Enchantée."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Freut mich, Sie kennenzulernen. Ich heiße Ali.",
+          "ttsText": "Freut mich, Sie kennenzulernen. Ich heiße Ali.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Очень приятно. Меня зовут Али.",
+          "ttsText": "Очень приятно. Меня зовут Али.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "تشرفت بلقائك، أنا علي.",
+          "ttsText": "تشرفت بلقائك، أنا علي.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tasharraftu biliqāʾika, ʾanā ʿAliyyun.",
+            "note": {
+              "ja": "liqāʾika は男性一人に話す形です。女性一人に話す場合は liqāʾiki になります。",
+              "en": "liqāʾika addresses one man; use liqāʾiki when addressing one woman."
+            }
+          }
+        },
+        "zh": {
+          "text": "很高兴认识您，我叫阿里。",
+          "ttsText": "很高兴认识您，我叫阿里。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hěn gāoxìng rènshi nín, wǒ jiào Ālǐ."
+          }
+        },
+        "ko": {
+          "text": "만나서 반갑습니다. 알리라고 합니다.",
+          "ttsText": "만나서 반갑습니다. 알리라고 합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "アリさん、今どちらにお住まいですか。",
+          "ttsText": "ありさん、いまどちらにおすまいですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Ali, where do you live now?",
+          "ttsText": "Ali, where do you live now?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Ali, ¿dónde vive ahora?",
+          "ttsText": "Ali, ¿dónde vive ahora?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Ali, où habitez-vous maintenant ?",
+          "ttsText": "Ali, où habitez-vous maintenant ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ali, wo wohnen Sie jetzt?",
+          "ttsText": "Ali, wo wohnen Sie jetzt?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Али, где вы сейчас живёте?",
+          "ttsText": "Али, где вы сейчас живёте?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "يا علي، أين تسكن الآن؟",
+          "ttsText": "يا علي، أين تسكن الآن؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Yā ʿAliyyu, ʾayna taskunu al-ʾāna?",
+            "note": {
+              "ja": "taskunu は男性一人に話す形です。女性一人に話す場合は taskunīna になります。 この文で区切って読むときの休止形：al-ʾāna → al-ʾān。 taskunu al-ʾāna は連読すると taskunu l-ʾāna とつながります。",
+              "en": "taskunu addresses one man; use taskunīna when addressing one woman. Pausal forms at the sentence breaks here: al-ʾāna → al-ʾān. In connected speech, taskunu al-ʾāna is linked as taskunu l-ʾāna."
+            }
+          }
+        },
+        "zh": {
+          "text": "阿里，您现在住在哪里？",
+          "ttsText": "阿里，您现在住在哪里？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ālǐ, nín xiànzài zhù zài nǎli?"
+          }
+        },
+        "ko": {
+          "text": "알리 씨, 지금 어디에 사세요?",
+          "ttsText": "알리 씨, 지금 어디에 사세요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "今は東京に住んでいます。",
+          "ttsText": "いまはとうきょうにすんでいます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I live in Tokyo now.",
+          "ttsText": "I live in Tokyo now.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Ahora vivo en Tokio.",
+          "ttsText": "Ahora vivo en Tokio.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "J'habite à Tokyo maintenant.",
+          "ttsText": "J'habite à Tokyo maintenant.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich wohne jetzt in Tokio.",
+          "ttsText": "Ich wohne jetzt in Tokio.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Сейчас я живу в Токио.",
+          "ttsText": "Сейчас я живу в Токио.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أسكن الآن في طوكيو.",
+          "ttsText": "أسكن الآن في طوكيو.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAskunu al-ʾāna fī Ṭūkyū.",
+            "note": {
+              "ja": "ʾAskunu al-ʾāna は連読すると ʾaskunu l-ʾāna とつながります。",
+              "en": "In connected speech, ʾAskunu al-ʾāna is linked as ʾaskunu l-ʾāna."
+            }
+          }
+        },
+        "zh": {
+          "text": "我现在住在东京。",
+          "ttsText": "我现在住在东京。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ xiànzài zhù zài Dōngjīng."
+          }
+        },
+        "ko": {
+          "text": "지금은 도쿄에 살고 있어요.",
+          "ttsText": "지금은 도쿄에 살고 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "どうお呼びすればいいですか。",
+          "ttsText": "どうおよびすればいいですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "What should I call you?",
+          "ttsText": "What should I call you?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Cómo prefiere que le llame?",
+          "ttsText": "¿Cómo prefiere que le llame?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Comment souhaitez-vous que je vous appelle ?",
+          "ttsText": "Comment souhaitez-vous que je vous appelle ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wie darf ich Sie nennen?",
+          "ttsText": "Wie darf ich Sie nennen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Как мне к вам обращаться?",
+          "ttsText": "Как мне к вам обращаться?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كيف أناديك؟",
+          "ttsText": "كيف أناديك؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kayfa ʾunādīka?",
+            "note": {
+              "ja": "ʾunādīka は男性一人に話す形です。女性一人には ʾunādīki を使います。 この文末で区切るときは ʾunādīka → ʾunādīk となります。",
+              "en": "ʾunādīka addresses one man; use ʾunādīki for one woman. At the end of this sentence, the pausal form is ʾunādīka → ʾunādīk."
+            }
+          }
+        },
+        "zh": {
+          "text": "我该怎么称呼您？",
+          "ttsText": "我该怎么称呼您？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ gāi zěnme chēnghu nín?"
+          }
+        },
+        "ko": {
+          "text": "어떻게 불러 드리면 될까요?",
+          "ttsText": "어떻게 불러 드리면 될까요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "呼び方を確かめる",
+        "en": "Asking what to call someone"
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "ミナと呼んでください。",
+          "ttsText": "みなとよんでください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Please call me Mina.",
+          "ttsText": "Please call me Mina.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Llámeme Mina, por favor.",
+          "ttsText": "Llámeme Mina, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Appelez-moi Mina.",
+          "ttsText": "Appelez-moi Mina.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Nennen Sie mich bitte Mina.",
+          "ttsText": "Nennen Sie mich bitte Mina.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Зовите меня Мина.",
+          "ttsText": "Зовите меня Мина.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نادني مينا، من فضلك.",
+          "ttsText": "نادني مينا، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Nādinī Mīnā, min faḍlika.",
+            "note": {
+              "ja": "Nādinī / faḍlika は男性一人に話す形です。女性一人には Nādīnī / faḍliki を使います。この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "Nādinī / faḍlika addresses one man; use Nādīnī / faḍliki for one woman. At the end of this sentence, faḍlika becomes faḍlik in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "叫我米娜就好。",
+          "ttsText": "叫我米娜就好。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Jiào wǒ Mǐnà jiù hǎo.",
+            "note": {
+              "ja": "この文では、発音時に wǒ Mǐnà → wó Mǐnà となります。",
+              "en": "In this sentence, the spoken form is wǒ Mǐnà → wó Mǐnà."
+            }
+          }
+        },
+        "ko": {
+          "text": "미나라고 불러 주세요.",
+          "ttsText": "미나라고 불러 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "お仕事は何をされていますか。",
+          "ttsText": "おしごとはなにをされていますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "What do you do for work?",
+          "ttsText": "What do you do for work?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿A qué se dedica?",
+          "ttsText": "¿A qué se dedica?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Qu'est-ce que vous faites dans la vie ?",
+          "ttsText": "Qu'est-ce que vous faites dans la vie ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Was machen Sie beruflich?",
+          "ttsText": "Was machen Sie beruflich?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Кем вы работаете?",
+          "ttsText": "Кем вы работаете?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "ما عملك؟",
+          "ttsText": "ما عملك؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mā ʿamaluka?",
+            "note": {
+              "ja": "ʿamaluka は男性一人に話す形です。女性一人に話す場合は ʿamaluki になります。 この文で区切って読むときの休止形：ʿamaluka → ʿamaluk。",
+              "en": "ʿamaluka addresses one man; use ʿamaluki when addressing one woman. Pausal forms at the sentence breaks here: ʿamaluka → ʿamaluk."
+            }
+          }
+        },
+        "zh": {
+          "text": "您做什么工作？",
+          "ttsText": "您做什么工作？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín zuò shénme gōngzuò?"
+          }
+        },
+        "ko": {
+          "text": "무슨 일을 하세요?",
+          "ttsText": "무슨 일을 하세요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "仕事と勉強",
+        "en": "Work and study"
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "大学で日本語を教えています。",
+          "ttsText": "だいがくでにほんごをおしえています。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I teach Japanese at a university.",
+          "ttsText": "I teach Japanese at a university.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Enseño japonés en una universidad.",
+          "ttsText": "Enseño japonés en una universidad.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "J'enseigne le japonais dans une université.",
+          "ttsText": "J'enseigne le japonais dans une université.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich unterrichte Japanisch an einer Universität.",
+          "ttsText": "Ich unterrichte Japanisch an einer Universität.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я преподаю японский язык в университете.",
+          "ttsText": "Я преподаю японский язык в университете.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أدرس اللغة اليابانية في جامعة.",
+          "ttsText": "أدرس اللغة اليابانية في جامعة.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾUdarrisu al-lughata al-yābāniyyata fī jāmiʿatin.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：jāmiʿatin → jāmiʿah。 ʾUdarrisu al-lughata al-yābāniyyata は連読すると ʾudarrisu l-lughata l-yābāniyyata とつながります。",
+              "en": "Pausal forms at the sentence breaks here: jāmiʿatin → jāmiʿah. In connected speech, ʾUdarrisu al-lughata al-yābāniyyata is linked as ʾudarrisu l-lughata l-yābāniyyata."
+            }
+          }
+        },
+        "zh": {
+          "text": "我在一所大学教日语。",
+          "ttsText": "我在一所大学教日语。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ zài yī suǒ dàxué jiāo Rìyǔ.",
+            "note": {
+              "ja": "この文では、発音時に yī suǒ → yì suǒ となります。",
+              "en": "In this sentence, the spoken forms are yī suǒ → yì suǒ."
+            }
+          }
+        },
+        "ko": {
+          "text": "대학교에서 일본어를 가르쳐요.",
+          "ttsText": "대학교에서 일본어를 가르쳐요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "そうなんですね。私は日本語を勉強しています。",
+          "ttsText": "そうなんですね。わたしはにほんごをべんきょうしています。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Oh, I see. I'm learning Japanese.",
+          "ttsText": "Oh, I see. I'm learning Japanese.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Ah, qué bien. Yo estoy estudiando japonés.",
+          "ttsText": "Ah, qué bien. Yo estoy estudiando japonés.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Ah, d'accord. Moi, j'apprends le japonais.",
+          "ttsText": "Ah, d'accord. Moi, j'apprends le japonais.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ach so. Ich lerne Japanisch.",
+          "ttsText": "Ach so. Ich lerne Japanisch.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Вот как. А я изучаю японский язык.",
+          "ttsText": "Вот как. А я изучаю японский язык.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "حقا؟ أنا أتعلم اليابانية.",
+          "ttsText": "حقا؟ أنا أتعلم اليابانية.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥaqqan? ʾAnā ʾataʿallamu al-yābāniyyata.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：Ḥaqqan → ḥaqqā、al-yābāniyyata → al-yābāniyyah。 ʾataʿallamu al-yābāniyyata は連読すると ʾataʿallamu l-yābāniyyata とつながります。",
+              "en": "Pausal forms at the sentence breaks here: Ḥaqqan → ḥaqqā; al-yābāniyyata → al-yābāniyyah. In connected speech, ʾataʿallamu al-yābāniyyata is linked as ʾataʿallamu l-yābāniyyata."
+            }
+          }
+        },
+        "zh": {
+          "text": "原来如此。我正在学日语。",
+          "ttsText": "原来如此。我正在学日语。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yuánlái rúcǐ. Wǒ zhèngzài xué Rìyǔ."
+          }
+        },
+        "ko": {
+          "text": "그렇군요. 저는 일본어를 공부하고 있어요.",
+          "ttsText": "그렇군요. 저는 일본어를 공부하고 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "どのくらい勉強していますか。",
+          "ttsText": "どのくらいべんきょうしていますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "How long have you been learning it?",
+          "ttsText": "How long have you been learning it?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Cuánto tiempo lleva estudiándolo?",
+          "ttsText": "¿Cuánto tiempo lleva estudiándolo?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Depuis combien de temps l'apprenez-vous ?",
+          "ttsText": "Depuis combien de temps l'apprenez-vous ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wie lange lernen Sie schon Japanisch?",
+          "ttsText": "Wie lange lernen Sie schon Japanisch?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Как давно вы его изучаете?",
+          "ttsText": "Как давно вы его изучаете?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "منذ متى تتعلمها؟",
+          "ttsText": "منذ متى تتعلمها؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mundhu matā tataʿallamuhā?",
+            "note": {
+              "ja": "tataʿallamuhā は男性一人に話す形です。女性一人に話す場合は tataʿallamīnahā になります。",
+              "en": "tataʿallamuhā addresses one man; use tataʿallamīnahā when addressing one woman."
+            }
+          }
+        },
+        "zh": {
+          "text": "您学了多久了？",
+          "ttsText": "您学了多久了？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín xué le duōjiǔ le?"
+          }
+        },
+        "ko": {
+          "text": "얼마나 오래 공부하셨어요?",
+          "ttsText": "얼마나 오래 공부하셨어요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "半年くらいです。",
+          "ttsText": "はんとしくらいです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "About six months.",
+          "ttsText": "About six months.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Unos seis meses.",
+          "ttsText": "Unos seis meses.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Depuis environ six mois.",
+          "ttsText": "Depuis environ six mois.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Seit etwa einem halben Jahr.",
+          "ttsText": "Seit etwa einem halben Jahr.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Примерно полгода.",
+          "ttsText": "Примерно полгода.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "منذ نحو ستة أشهر.",
+          "ttsText": "منذ نحو ستة أشهر.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mundhu naḥwi sittati ʾashhurin.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：ʾashhurin → ʾashhur。",
+              "en": "Pausal forms at the sentence breaks here: ʾashhurin → ʾashhur."
+            }
+          }
+        },
+        "zh": {
+          "text": "大概半年了。",
+          "ttsText": "大概半年了。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dàgài bàn nián le."
+          }
+        },
+        "ko": {
+          "text": "반년 정도 됐어요.",
+          "ttsText": "반년 정도 됐어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u019",
+      "languages": {
+        "ja": {
+          "text": "こちらにはお仕事でいらしたんですか。",
+          "ttsText": "こちらにはおしごとでいらしたんですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Are you here for work?",
+          "ttsText": "Are you here for work?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Está aquí por trabajo?",
+          "ttsText": "¿Está aquí por trabajo?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Vous êtes ici pour le travail ?",
+          "ttsText": "Vous êtes ici pour le travail ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Sind Sie beruflich hier?",
+          "ttsText": "Sind Sie beruflich hier?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Вы здесь по работе?",
+          "ttsText": "Вы здесь по работе?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل أنت هنا للعمل؟",
+          "ttsText": "هل أنت هنا للعمل؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal ʾanta hunā lil-ʿamali?",
+            "note": {
+              "ja": "ʾanta は男性一人に話す形です。女性一人には ʾanti を使います。 この文末で区切るときは lil-ʿamali → lil-ʿamal となります。",
+              "en": "ʾanta addresses one man; use ʾanti for one woman. At the end of this sentence, the pausal form is lil-ʿamali → lil-ʿamal."
+            }
+          }
+        },
+        "zh": {
+          "text": "您是来这里工作的吗？",
+          "ttsText": "您是来这里工作的吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín shì lái zhèli gōngzuò de ma?"
+          }
+        },
+        "ko": {
+          "text": "여기에는 일 때문에 오셨어요?",
+          "ttsText": "여기에는 일 때문에 오셨어요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "訪れた理由",
+        "en": "Reasons for visiting"
+      }
+    },
+    {
+      "id": "u020",
+      "languages": {
+        "ja": {
+          "text": "いいえ、休暇で来ています。",
+          "ttsText": "いいえ、きゅうかできています。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "No, I'm here on holiday.",
+          "ttsText": "No, I'm here on holiday.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No, estoy de vacaciones.",
+          "ttsText": "No, estoy de vacaciones.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Non, je suis en vacances.",
+          "ttsText": "Non, je suis en vacances.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Nein, ich bin im Urlaub hier.",
+          "ttsText": "Nein, ich bin im Urlaub hier.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Нет, я здесь в отпуске.",
+          "ttsText": "Нет, я здесь в отпуске.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لا، أنا هنا في إجازة.",
+          "ttsText": "لا، أنا هنا في إجازة.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā, ʾanā hunā fī ʾijāzatin.",
+            "note": {
+              "ja": "この文末で区切るときは ʾijāzatin → ʾijāzah となります。",
+              "en": "At the end of this sentence, the pausal form is ʾijāzatin → ʾijāzah."
+            }
+          }
+        },
+        "zh": {
+          "text": "不是，我是来度假的。",
+          "ttsText": "不是，我是来度假的。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù shì, wǒ shì lái dùjià de.",
+            "note": {
+              "ja": "この文では、発音時に Bù shì → Bú shì となります。",
+              "en": "In this sentence, the spoken form is Bù shì → Bú shì."
+            }
+          }
+        },
+        "ko": {
+          "text": "아니요, 휴가로 왔어요.",
+          "ttsText": "아니요, 휴가로 왔어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "休日はどんなことをしていますか。",
+          "ttsText": "きゅうじつはどんなことをしていますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "What do you do on your days off?",
+          "ttsText": "What do you do on your days off?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Qué hace en sus días libres?",
+          "ttsText": "¿Qué hace en sus días libres?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Qu'est-ce que vous faites pendant vos jours de repos ?",
+          "ttsText": "Qu'est-ce que vous faites pendant vos jours de repos ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Was machen Sie an Ihren freien Tagen?",
+          "ttsText": "Was machen Sie an Ihren freien Tagen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Что вы делаете в выходные?",
+          "ttsText": "Что вы делаете в выходные?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "ماذا تفعل في أيام العطلة؟",
+          "ttsText": "ماذا تفعل في أيام العطلة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mādhā tafʿalu fī ʾayyāmi al-ʿuṭlati?",
+            "note": {
+              "ja": "tafʿalu は男性一人に話す形です。女性一人に話す場合は tafʿalīna になります。 この文で区切って読むときの休止形：al-ʿuṭlati → al-ʿuṭlah。 ʾayyāmi al-ʿuṭlati は連読すると ʾayyāmi l-ʿuṭlati とつながります。",
+              "en": "tafʿalu addresses one man; use tafʿalīna when addressing one woman. Pausal forms at the sentence breaks here: al-ʿuṭlati → al-ʿuṭlah. In connected speech, ʾayyāmi al-ʿuṭlati is linked as ʾayyāmi l-ʿuṭlati."
+            }
+          }
+        },
+        "zh": {
+          "text": "您休息的时候一般做什么？",
+          "ttsText": "您休息的时候一般做什么？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín xiūxi de shíhou yībān zuò shénme?",
+            "note": {
+              "ja": "この文では、発音時に yībān → yìbān となります。",
+              "en": "In this sentence, the spoken forms are yībān → yìbān."
+            }
+          }
+        },
+        "ko": {
+          "text": "쉬는 날에는 뭘 하세요?",
+          "ttsText": "쉬는 날에는 뭘 하세요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "休日の過ごし方",
+        "en": "Free time"
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "よく散歩をします。あなたはどうですか。",
+          "ttsText": "よくさんぽをします。あなたはどうですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I often go for walks. How about you?",
+          "ttsText": "I often go for walks. How about you?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Suelo salir a pasear. ¿Y usted?",
+          "ttsText": "Suelo salir a pasear. ¿Y usted?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je me promène souvent. Et vous ?",
+          "ttsText": "Je me promène souvent. Et vous ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich gehe oft spazieren. Und Sie?",
+          "ttsText": "Ich gehe oft spazieren. Und Sie?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я часто гуляю. А вы?",
+          "ttsText": "Я часто гуляю. А вы?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أتنزه كثيرا. وأنت؟",
+          "ttsText": "أتنزه كثيرا. وأنت؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAtanazzahu kathīran. Waʾanta?",
+            "note": {
+              "ja": "ʾanta は男性一人に話す形です。女性一人に話す場合は ʾanti になります。 この文で区切って読むときの休止形：kathīran → kathīrā、Waʾanta → waʾant。",
+              "en": "ʾanta addresses one man; use ʾanti when addressing one woman. Pausal forms at the sentence breaks here: kathīran → kathīrā; Waʾanta → waʾant."
+            }
+          }
+        },
+        "zh": {
+          "text": "我经常散步。您呢？",
+          "ttsText": "我经常散步。您呢？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ jīngcháng sànbù. Nín ne?"
+          }
+        },
+        "ko": {
+          "text": "산책을 자주 해요. 그쪽은요?",
+          "ttsText": "산책을 자주 해요. 그쪽은요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "私は料理が好きです。",
+          "ttsText": "わたしはりょうりがすきです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I like cooking.",
+          "ttsText": "I like cooking.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Me gusta cocinar.",
+          "ttsText": "Me gusta cocinar.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "J'aime cuisiner.",
+          "ttsText": "J'aime cuisiner.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich koche gern.",
+          "ttsText": "Ich koche gern.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я люблю готовить.",
+          "ttsText": "Я люблю готовить.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أحب الطبخ.",
+          "ttsText": "أحب الطبخ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾUḥibbu aṭ-ṭabkha.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：aṭ-ṭabkha → aṭ-ṭabkh。 ʾUḥibbu aṭ-ṭabkha は連読すると ʾuḥibbu ṭ-ṭabkha とつながります。",
+              "en": "Pausal forms at the sentence breaks here: aṭ-ṭabkha → aṭ-ṭabkh. In connected speech, ʾUḥibbu aṭ-ṭabkha is linked as ʾuḥibbu ṭ-ṭabkha."
+            }
+          }
+        },
+        "zh": {
+          "text": "我喜欢做饭。",
+          "ttsText": "我喜欢做饭。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ xǐhuan zuòfàn."
+          }
+        },
+        "ko": {
+          "text": "저는 요리하는 걸 좋아해요.",
+          "ttsText": "저는 요리하는 걸 좋아해요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "こちらの席、空いていますか。",
+          "ttsText": "こちらのせき、あいていますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Is this seat taken?",
+          "ttsText": "Is this seat taken?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Está ocupado este asiento?",
+          "ttsText": "¿Está ocupado este asiento?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que cette place est libre ?",
+          "ttsText": "Est-ce que cette place est libre ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ist dieser Platz noch frei?",
+          "ttsText": "Ist dieser Platz noch frei?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Это место свободно?",
+          "ttsText": "Это место свободно?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل هذا المقعد شاغر؟",
+          "ttsText": "هل هذا المقعد شاغر؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal hādhā al-maqʿadu shāghirun?",
+            "note": {
+              "ja": "hādhā al-maqʿadu は連読で hādhā l-maqʿadu とつながります。 この文末で区切るときは shāghirun → shāghir となります。",
+              "en": "In connected speech, hādhā al-maqʿadu is linked as hādhā l-maqʿadu. At the end of this sentence, the pausal form is shāghirun → shāghir."
+            }
+          }
+        },
+        "zh": {
+          "text": "这个座位有人吗？",
+          "ttsText": "这个座位有人吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhège zuòwèi yǒu rén ma?"
+          }
+        },
+        "ko": {
+          "text": "이 자리 비어 있나요?",
+          "ttsText": "이 자리 비어 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "隣の席で話しかける",
+        "en": "Starting a conversation at a seat"
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "はい、どうぞ。",
+          "ttsText": "はい、どうぞ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "No, please go ahead.",
+          "ttsText": "No, please go ahead.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "直前の質問は「席がふさがっているか」を尋ねるので、空席なら否定で答えます。日本語の「空いていますか」への「はい」と同じ状況です。",
+              "en": "The preceding question asks whether the seat is occupied, so a negative reply means it is free. This matches the affirmative reply to the Japanese question asking whether it is free."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No, adelante.",
+          "ttsText": "No, adelante.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "直前の質問は「席がふさがっているか」を尋ねるので、空席なら否定で答えます。日本語の「空いていますか」への「はい」と同じ状況です。",
+              "en": "The preceding question asks whether the seat is occupied, so a negative reply means it is free. This matches the affirmative reply to the Japanese question asking whether it is free."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, allez-y.",
+          "ttsText": "Oui, allez-y.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, bitte.",
+          "ttsText": "Ja, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, садитесь.",
+          "ttsText": "Да, садитесь.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، تفضل.",
+          "ttsText": "نعم، تفضل.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, tafaḍḍal.",
+            "note": {
+              "ja": "tafaḍḍal は男性一人に話す形です。女性一人には tafaḍḍalī を使います。",
+              "en": "tafaḍḍal addresses one man; use tafaḍḍalī for one woman."
+            }
+          }
+        },
+        "zh": {
+          "text": "没有，请坐。",
+          "ttsText": "没有，请坐。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "直前の質問は「席がふさがっているか」を尋ねるので、空席なら否定で答えます。日本語の「空いていますか」への「はい」と同じ状況です。",
+              "en": "The preceding question asks whether the seat is occupied, so a negative reply means it is free. This matches the affirmative reply to the Japanese question asking whether it is free."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Méiyǒu, qǐng zuò."
+          }
+        },
+        "ko": {
+          "text": "네, 앉으세요.",
+          "ttsText": "네, 앉으세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u021",
+      "languages": {
+        "ja": {
+          "text": "連絡先を交換してもいいですか。",
+          "ttsText": "れんらくさきをこうかんしてもいいですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Could we exchange contact details?",
+          "ttsText": "Could we exchange contact details?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Podemos intercambiar nuestros datos de contacto?",
+          "ttsText": "¿Podemos intercambiar nuestros datos de contacto?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce qu'on peut échanger nos coordonnées ?",
+          "ttsText": "Est-ce qu'on peut échanger nos coordonnées ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Können wir unsere Kontaktdaten austauschen?",
+          "ttsText": "Können wir unsere Kontaktdaten austauschen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Можем мы обменяться контактами?",
+          "ttsText": "Можем мы обменяться контактами?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكننا تبادل معلومات الاتصال؟",
+          "ttsText": "هل يمكننا تبادل معلومات الاتصال؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinunā tabādulu maʿlūmāti al-ittiṣāli?",
+            "note": {
+              "ja": "maʿlūmāti al-ittiṣāli は連読で maʿlūmāti l-ittiṣāli とつながります。 この文末で区切るときは al-ittiṣāli → al-ittiṣāl となります。",
+              "en": "In connected speech, maʿlūmāti al-ittiṣāli is linked as maʿlūmāti l-ittiṣāli. At the end of this sentence, the pausal form is al-ittiṣāli → al-ittiṣāl."
+            }
+          }
+        },
+        "zh": {
+          "text": "我们可以交换联系方式吗？",
+          "ttsText": "我们可以交换联系方式吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen kěyǐ jiāohuàn liánxì fāngshì ma?",
+            "note": {
+              "ja": "この文では、発音時に kěyǐ → kéyǐ となります。",
+              "en": "In this sentence, the spoken form is kěyǐ → kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "연락처를 교환해도 될까요?",
+          "ttsText": "연락처를 교환해도 될까요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "連絡先を交換する",
+        "en": "Exchanging contact details"
+      }
+    },
+    {
+      "id": "u022",
+      "languages": {
+        "ja": {
+          "text": "もちろんです。メールアドレスをお伝えします。",
+          "ttsText": "もちろんです。めーるあどれすをおつたえします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Of course. I'll give you my email address.",
+          "ttsText": "Of course. I'll give you my email address.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Claro. Le doy mi correo electrónico.",
+          "ttsText": "Claro. Le doy mi correo electrónico.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bien sûr. Je vous donne mon adresse e-mail.",
+          "ttsText": "Bien sûr. Je vous donne mon adresse e-mail.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Natürlich. Ich gebe Ihnen meine E-Mail-Adresse.",
+          "ttsText": "Natürlich. Ich gebe Ihnen meine E-Mail-Adresse.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Конечно. Я дам вам адрес своей электронной почты.",
+          "ttsText": "Конечно. Я дам вам адрес своей электронной почты.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "بالطبع. سأعطيك عنوان بريدي الإلكتروني.",
+          "ttsText": "بالطبع. سأعطيك عنوان بريدي الإلكتروني.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Biṭ-ṭabʿi. Saʾuʿṭīka ʿunwāna barīdī al-ʾiliktrūniyyi.",
+            "note": {
+              "ja": "saʾuʿṭīka は男性一人に話す形です。女性一人には saʾuʿṭīki を使います。 barīdī al-ʾiliktrūniyyi は連読で barīdī l-ʾiliktrūniyyi とつながります。 この文末で区切るときは al-ʾiliktrūniyyi → al-ʾiliktrūniyy となります。",
+              "en": "saʾuʿṭīka addresses one man; use saʾuʿṭīki for one woman. In connected speech, barīdī al-ʾiliktrūniyyi is linked as barīdī l-ʾiliktrūniyyi. At the end of this sentence, the pausal form is al-ʾiliktrūniyyi → al-ʾiliktrūniyy."
+            }
+          }
+        },
+        "zh": {
+          "text": "当然可以，我把邮箱地址给您。",
+          "ttsText": "当然可以，我把邮箱地址给您。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dāngrán kěyǐ, wǒ bǎ yóuxiāng dìzhǐ gěi nín.",
+            "note": {
+              "ja": "この文では、発音時に kěyǐ / wǒ bǎ → kéyǐ / wó bǎ となります。",
+              "en": "In this sentence, the spoken form is kěyǐ / wǒ bǎ → kéyǐ / wó bǎ."
+            }
+          }
+        },
+        "ko": {
+          "text": "물론이죠. 이메일 주소를 알려 드릴게요.",
+          "ttsText": "물론이죠. 이메일 주소를 알려 드릴게요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "お話しできてよかったです。",
+          "ttsText": "おはなしできてよかったです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "It was nice talking to you.",
+          "ttsText": "It was nice talking to you.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Ha sido un placer hablar con usted.",
+          "ttsText": "Ha sido un placer hablar con usted.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "C'était un plaisir de discuter avec vous.",
+          "ttsText": "C'était un plaisir de discuter avec vous.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Es war schön, mit Ihnen zu sprechen.",
+          "ttsText": "Es war schön, mit Ihnen zu sprechen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Было приятно с вами поговорить.",
+          "ttsText": "Было приятно с вами поговорить.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "سعدت بالحديث معك.",
+          "ttsText": "سعدت بالحديث معك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Saʿidtu bil-ḥadīthi maʿaka.",
+            "note": {
+              "ja": "maʿaka は男性一人に話す形です。女性一人に話す場合は maʿaki になります。 この文で区切って読むときの休止形：maʿaka → maʿak。",
+              "en": "maʿaka addresses one man; use maʿaki when addressing one woman. Pausal forms at the sentence breaks here: maʿaka → maʿak."
+            }
+          }
+        },
+        "zh": {
+          "text": "很高兴能和您聊天。",
+          "ttsText": "很高兴能和您聊天。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hěn gāoxìng néng hé nín liáotiān."
+          }
+        },
+        "ko": {
+          "text": "이야기 나눌 수 있어서 좋았어요.",
+          "ttsText": "이야기 나눌 수 있어서 좋았어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "別れ際に",
+        "en": "Saying goodbye"
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "私もです。またお会いしましょう。",
+          "ttsText": "わたしもです。またおあいしましょう。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Likewise. I hope we meet again.",
+          "ttsText": "Likewise. I hope we meet again.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Igualmente. Espero que volvamos a vernos.",
+          "ttsText": "Igualmente. Espero que volvamos a vernos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Moi aussi. J'espère qu'on se reverra.",
+          "ttsText": "Moi aussi. J'espère qu'on se reverra.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich auch. Hoffentlich sehen wir uns wieder.",
+          "ttsText": "Ich auch. Hoffentlich sehen wir uns wieder.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Мне тоже. Надеюсь, мы ещё увидимся.",
+          "ttsText": "Мне тоже. Надеюсь, мы ещё увидимся.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "وأنا أيضا. أتمنى أن نلتقي مجددا.",
+          "ttsText": "وأنا أيضا. أتمنى أن نلتقي مجددا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Waʾanā ʾayḍan. ʾAtamannā ʾan naltaqiya mujaddadan.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：ʾayḍan → ʾayḍā、mujaddadan → mujaddadā。",
+              "en": "Pausal forms at the sentence breaks here: ʾayḍan → ʾayḍā; mujaddadan → mujaddadā."
+            }
+          }
+        },
+        "zh": {
+          "text": "我也是。希望下次再见。",
+          "ttsText": "我也是。希望下次再见。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ yě shì. Xīwàng xià cì zàijiàn."
+          }
+        },
+        "ko": {
+          "text": "저도요. 다음에 또 뵈어요.",
+          "ttsText": "저도요. 다음에 또 뵈어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    }
+  ]
+}

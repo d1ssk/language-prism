@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4fdbe4128777b4e845bc7695677baf9b61e388c30e067a967416e5f7d28a146f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "for the manner in which all organic beings are grouped, shows that the greater number of species of each genus, and all the species of many genera, have left no descendants, but have become utterly extinct.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "be61b71055acfc22299581bb12ff67cff89031e35a422f3e923bf2e13e2b394d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:21:47.116867+00:00"
+}

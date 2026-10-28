@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9b9c5ce678941a8eed4d17f05685d767380b381e4aebc14f82c2457395e0d5b0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오늘은 평소보다 조금 일찍 일어나서 아침에 여유가 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41307576d4ec70a74cf129d77a5cca0377d568b3181dacd587472381672b0657",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:15.013609+00:00"
+}

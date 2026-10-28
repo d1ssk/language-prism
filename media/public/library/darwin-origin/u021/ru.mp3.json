@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4a545ede6dfd9df8d2b75221fa50537107739f4c3b593b24d3604f536065ecba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Поэтому мы можем с некоторой уверенностью ожидать безопасного будущего столь же неизмеримой длительности.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d03901eeedbf5e1797e6dcd338216b5e94d6f7550d6b0f301b279e8319153756",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:28:21.281910+00:00"
+}

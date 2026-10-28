@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d5a7bce6c9f4ffaff8943669c83d1ff5b1b7691e6e2f37941261485eedd36d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Осенью года жэньсюй, в шестнадцатый день седьмого лунного месяца, учитель Су отправился с гостями на лодочную прогулку у подножия Красной скалы.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbe0a782e7e861262c691c0dcd688c82171b3add12bc7f7e5853338d82bf4848",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:00:54.301359+00:00"
+}

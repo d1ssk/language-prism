@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "190cc51fe70191106fc9cea43915d9e4c491c425c09e7bfc176ba0edaf4fe4ba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wer sein Boot mit dem Gefühl stakt, wird fortgerissen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4e463668fef0726dd32bf83948e47f3f08d977177f945e6f5db32ff85ffe4e1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:38.398193+00:00"
+}

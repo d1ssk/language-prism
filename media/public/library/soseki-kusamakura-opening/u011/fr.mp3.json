@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ed7a32fe911b2af496b8c446f1793aae7f3002688fa17f0815ab7cdd3e57092f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "S'il en existait un, il ne resterait qu'à partir pour un pays d'êtres sans humanité.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6601e3cd9631cbcdad0ff1df949cdc397afcfd2690c55beec1e899f0b1d8dd74",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:56:07.190834+00:00"
+}

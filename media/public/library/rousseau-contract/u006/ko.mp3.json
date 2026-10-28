@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f6bb2e8973fe286fc61ad961191322bf81de0455dc22c5cfd74311ee161b190f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "빼앗겼던 것과 같은 권리로 자유를 되찾는 것이므로, 되찾을 정당한 근거가 있거나, 애초에 빼앗을 정당한 근거가 없었던 셈이기 때문이다.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4076c672a620437022d0dc862a018a1e31fccb3401f256b1376e5c344359c5c9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:57:19.117535+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ac1e849ea70b90abb46884be4e8c0e551f00fd32d0381ccbe6c26e8e2fb475af",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I woke up a little early today, so I have some extra time this morning.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8185543e18850d25a9bb5c91d2325f0e066134c40ddd90c728ad6da5e9ad7726",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:52:46.555018+00:00"
+}

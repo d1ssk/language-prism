@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "39f702c936f2d82889fc36ea4c190d33e44fea0ef8d796d9ba90a8cd3d222d39",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사람은 반드시 합리적으로 행동하는 것은 아니며 감정과 습관에도 크게 영향을 받아요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ce8c0c209331e5baf0f30b488fdba54031d4e0616fdeeab76d6068a78d1cf903",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:39.156793+00:00"
+}

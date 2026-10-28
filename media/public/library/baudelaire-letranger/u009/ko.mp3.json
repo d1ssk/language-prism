@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5aa0793ca3b3a2745f0a9e4426307bbe265cb9be32279d043429fed91c463e55",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 황금은요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79b8aee3093804454a9231f0647ee05cee02030e3eb71ba2b8ab7150dbe32143",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:50:56.450226+00:00"
+}

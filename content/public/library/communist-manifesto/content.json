@@ -1,0 +1,1412 @@
+{
+  "schemaVersion": 1,
+  "id": "communist-manifesto",
+  "slug": "communist-manifesto",
+  "type": "library",
+  "title": {
+    "ja": "共産党宣言",
+    "en": "Manifesto of the Communist Party"
+  },
+  "description": {
+    "ja": "共産主義の宣言から、階級闘争と近代社会の二つの階級を述べる箇所。",
+    "en": "The declaration of communism followed by the account of class struggle and the two opposed classes of modern society."
+  },
+  "originalLanguage": "de",
+  "author": "Karl Marx / Friedrich Engels",
+  "bibliography": {
+    "originalTitle": "Manifest der Kommunistischen Partei",
+    "originalAuthor": "Karl Marx / Friedrich Engels",
+    "title": {
+      "ja": "共産党宣言",
+      "en": "Manifesto of the Communist Party"
+    },
+    "author": {
+      "ja": "カール・マルクス／フリードリヒ・エンゲルス",
+      "en": "Karl Marx / Friedrich Engels"
+    }
+  },
+  "sourceTitle": "German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)",
+  "sourceURL": "https://de.wikisource.org/wiki/Manifest_der_Kommunistischen_Partei_(1848)",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Karl Marx / Friedrich Engels。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Karl Marx / Friedrich Engels. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。1848年初版の綴りを保持しています。後年の序文・注は加えず、転記ページのページ番号は本文から除いています。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The spelling of the 1848 first edition is retained. Later prefaces and notes are not added; transcription page numbers are omitted."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "導入全文と第1章冒頭。「Ein Gespenst」から「Bourgeoisie und Proletariat」まで",
+      "en": "Complete introduction and opening of chapter I, from “Ein Gespenst” to “Bourgeoisie und Proletariat”"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "一つの幽霊がヨーロッパを歩き回っている。共産主義の幽霊である。古いヨーロッパのあらゆる権力、教皇と皇帝、メッテルニヒとギゾー、フランスの急進派とドイツの警察官たちが、この幽霊を追う神聖な狩りのために同盟している。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ひとつのゆうれいがよーろっぱをあるきまわっている。きょうさんしゅぎのゆうれいである。ふるいよーろっぱのあらゆるけんりょく、きょうこうとこうてい、めってるにひとぎぞー、ふらんすのきゅうしんはとどいつのけいさつかんたちが、このゆうれいをおうしんせいなかりのためにどうめいしている。"
+        },
+        "en": {
+          "text": "A ghost is roaming Europe: the ghost of communism. Every power of old Europe has joined a holy hunt against it—the Pope and the Tsar, Metternich and Guizot, French radicals and German police officers.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A ghost is roaming Europe: the ghost of communism. Every power of old Europe has joined a holy hunt against it—the Pope and the Tsar, Metternich and Guizot, French radicals and German police officers."
+        },
+        "es": {
+          "text": "Un fantasma recorre Europa: el fantasma del comunismo. Todos los poderes de la vieja Europa se han aliado en una cacería sagrada contra él: el papa y el zar, Metternich y Guizot, los radicales franceses y los policías alemanes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un fantasma recorre Europa: el fantasma del comunismo. Todos los poderes de la vieja Europa se han aliado en una cacería sagrada contra él: el papa y el zar, Metternich y Guizot, los radicales franceses y los policías alemanes."
+        },
+        "fr": {
+          "text": "Un fantôme parcourt l’Europe : le fantôme du communisme. Toutes les puissances de la vieille Europe se sont alliées pour une chasse sacrée contre lui : le pape et le tsar, Metternich et Guizot, les radicaux français et les policiers allemands.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un fantôme parcourt l’Europe : le fantôme du communisme. Toutes les puissances de la vieille Europe se sont alliées pour une chasse sacrée contre lui : le pape et le tsar, Metternich et Guizot, les radicaux français et les policiers allemands."
+        },
+        "de": {
+          "text": "Ein Gespenst geht um in Europa – das Gespenst des Kommunismus. Alle Mächte des alten Europa haben sich zu einer heiligen Hetzjagd gegen dies Gespenst verbündet, der Papst und der Czar, Metternich und Guizot, französische Radikale und deutsche Polizisten.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Czar はツァーリ。ここでの「神聖な狩り」は、列挙された勢力をまとめて描く比喩です。",
+              "en": "Czar means Tsar. The holy hunt is a metaphor grouping the listed powers together."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Ein Gespenst geht um in Europa – das Gespenst des Kommunismus. Alle Mächte des alten Europa haben sich zu einer heiligen Hetzjagd gegen dies Gespenst verbündet, der Papst und der Czar, Metternich und Guizot, französische Radikale und deutsche Polizisten."
+        },
+        "ru": {
+          "text": "По Европе бродит призрак — призрак коммунизма. Все силы старой Европы объединились в священной охоте на него: папа и царь, Меттерних и Гизо, французские радикалы и немецкие полицейские.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "По Европе бродит призрак — призрак коммунизма. Все силы старой Европы объединились в священной охоте на него: папа и царь, Меттерних и Гизо, французские радикалы и немецкие полицейские."
+        },
+        "ar": {
+          "text": "شَبَحٌ يَجُوبُ أُورُوبَّا: شَبَحُ الشُّيُوعِيَّةِ. تَحَالَفَتْ قُوَى أُورُوبَّا الْقَدِيمَةِ كُلُّهَا فِي مُطَارَدَةٍ مُقَدَّسَةٍ لِهَذَا الشَّبَحِ: الْبَابَا وَالْقَيْصَرُ، وَمِتِرْنِيخُ وَغِيزُو، وَالرَّادِيكَالِيُّونَ الْفَرَنْسِيُّونَ وَرِجَالُ الشُّرْطَةِ الْأَلْمَانُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "شَبَحٌ يَجُوبُ أُورُوبَّا: شَبَحُ الشُّيُوعِيَّةِ. تَحَالَفَتْ قُوَى أُورُوبَّا الْقَدِيمَةِ كُلُّهَا فِي مُطَارَدَةٍ مُقَدَّسَةٍ لِهَذَا الشَّبَحِ: الْبَابَا وَالْقَيْصَرُ، وَمِتِرْنِيخُ وَغِيزُو، وَالرَّادِيكَالِيُّونَ الْفَرَنْسِيُّونَ وَرِجَالُ الشُّرْطَةِ الْأَلْمَانُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Shabaḥun yajūbu ʾŪrūbbā: shabaḥu ash-shuyūʿiyyati. Taḥālafat quwā ʾŪrūbbā al-qadīmati kulluhā fī muṭāradatin muqaddasatin li-hādhā ash-shabaḥi: al-bābā wa-al-qayṣaru, wa-Mitirnīkhu wa-Ghīzū, wa-ar-rādīkāliyyūna al-faransiyyūna wa-rijālu ash-shurṭati al-ʾalmānu."
+          }
+        },
+        "zh": {
+          "text": "一个幽灵在欧洲游荡：共产主义的幽灵。旧欧洲的一切权力都联合起来，对这个幽灵展开神圣的追猎：教皇与沙皇，梅特涅与基佐，法国激进派与德国警察。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "一个幽灵在欧洲游荡：共产主义的幽灵。旧欧洲的一切权力都联合起来，对这个幽灵展开神圣的追猎：教皇与沙皇，梅特涅与基佐，法国激进派与德国警察。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī ge yōulíng zài Ōuzhōu yóudàng: gòngchǎnzhǔyì de yōulíng. Jiù Ōuzhōu de yīqiè quánlì dōu liánhé qǐlái, duì zhè ge yōulíng zhǎnkāi shénshèng de zhuīliè: jiàohuáng yǔ shāhuáng, Méitèniè yǔ Jīzuǒ, Fǎguó jījìnpài yǔ Déguó jǐngchá."
+          }
+        },
+        "ko": {
+          "text": "하나의 유령이 유럽을 떠돌고 있다. 공산주의의 유령이다. 옛 유럽의 모든 권력, 교황과 차르, 메테르니히와 기조, 프랑스 급진파와 독일 경찰관들이 이 유령을 쫓는 신성한 사냥을 위해 동맹했다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "하나의 유령이 유럽을 떠돌고 있다. 공산주의의 유령이다. 옛 유럽의 모든 권력, 교황과 차르, 메테르니히와 기조, 프랑스 급진파와 독일 경찰관들이 이 유령을 쫓는 신성한 사냥을 위해 동맹했다."
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "権力を握る敵から共産主義だとののしられなかった反対党が、どこにあるだろうか。より進歩的な反対派にも反動的な敵にも、共産主義という烙印を押す非難を投げ返さなかった反対党が、どこにあるだろうか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "けんりょくをにぎるてきからきょうさんしゅぎだとののしられなかったはんたいとうが、どこにあるだろうか。よりしんぽてきなはんたいはにもはんどうてきなてきにも、きょうさんしゅぎというらくいんをおすひなんをなげかえさなかったはんたいとうが、どこにあるだろうか。"
+        },
+        "en": {
+          "text": "Where is an opposition party that has not been denounced as communist by its ruling opponents? Where is one that has not hurled the branding accusation of communism back at more advanced opposition groups as well as at its reactionary enemies?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Where is an opposition party that has not been denounced as communist by its ruling opponents? Where is one that has not hurled the branding accusation of communism back at more advanced opposition groups as well as at its reactionary enemies?"
+        },
+        "es": {
+          "text": "¿Dónde está el partido de oposición al que sus adversarios gobernantes no hayan tachado de comunista? ¿Dónde el que no haya devuelto la acusación estigmatizadora de comunismo tanto a los opositores más avanzados como a sus enemigos reaccionarios?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "¿Dónde está el partido de oposición al que sus adversarios gobernantes no hayan tachado de comunista? ¿Dónde el que no haya devuelto la acusación estigmatizadora de comunismo tanto a los opositores más avanzados como a sus enemigos reaccionarios?"
+        },
+        "fr": {
+          "text": "Quel parti d’opposition n’a pas été décrié comme communiste par ses adversaires au pouvoir ? Quel parti n’a pas renvoyé l’accusation infamante de communisme aux opposants plus avancés comme à ses ennemis réactionnaires ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Quel parti d’opposition n’a pas été décrié comme communiste par ses adversaires au pouvoir ? Quel parti n’a pas renvoyé l’accusation infamante de communisme aux opposants plus avancés comme à ses ennemis réactionnaires ?"
+        },
+        "de": {
+          "text": "Wo ist die Oppositionspartei, die nicht von ihren regierenden Gegnern als kommunistisch verschrieen worden wäre, wo die Oppositionspartei, die den fortgeschritteneren Oppositionsleuten sowohl, wie ihren reaktionären Gegnern den brandmarkenden Vorwurf des Kommunismus nicht zurückgeschleudert hätte?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Wo ist …? を繰り返す反語で、そのような反対党は存在しないと主張しています。",
+              "en": "The repeated rhetorical question Wo ist …? asserts that no such opposition party exists."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Wo ist die Oppositionspartei, die nicht von ihren regierenden Gegnern als kommunistisch verschrieen worden wäre, wo die Oppositionspartei, die den fortgeschritteneren Oppositionsleuten sowohl, wie ihren reaktionären Gegnern den brandmarkenden Vorwurf des Kommunismus nicht zurückgeschleudert hätte?"
+        },
+        "ru": {
+          "text": "Где та оппозиционная партия, которую её правящие противники не объявляли коммунистической? Где та, которая не бросала в ответ клеймящее обвинение в коммунизме как более передовым оппозиционерам, так и своим реакционным врагам?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Где та оппозиционная партия, которую её правящие противники не объявляли коммунистической? Где та, которая не бросала в ответ клеймящее обвинение в коммунизме как более передовым оппозиционерам, так и своим реакционным врагам?"
+        },
+        "ar": {
+          "text": "أَيْنَ حِزْبُ الْمُعَارَضَةِ الَّذِي لَمْ يَصِمْهُ خُصُومُهُ الْحَاكِمُونَ بِالشُّيُوعِيَّةِ؟ وَأَيْنَ الْحِزْبُ الَّذِي لَمْ يَرُدَّ تُهْمَةَ الشُّيُوعِيَّةِ الْوَاصِمَةَ إِلَى الْمُعَارِضِينَ الْأَكْثَرِ تَقَدُّمًا وَإِلَى أَعْدَائِهِ الرَّجْعِيِّينَ عَلَى السَّوَاءِ؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "أَيْنَ حِزْبُ الْمُعَارَضَةِ الَّذِي لَمْ يَصِمْهُ خُصُومُهُ الْحَاكِمُونَ بِالشُّيُوعِيَّةِ؟ وَأَيْنَ الْحِزْبُ الَّذِي لَمْ يَرُدَّ تُهْمَةَ الشُّيُوعِيَّةِ الْوَاصِمَةَ إِلَى الْمُعَارِضِينَ الْأَكْثَرِ تَقَدُّمًا وَإِلَى أَعْدَائِهِ الرَّجْعِيِّينَ عَلَى السَّوَاءِ؟",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAyna ḥizbu al-muʿāraḍati alladhī lam yaṣimhu khuṣūmuhu al-ḥākimūna bi-ash-shuyūʿiyyati? Wa-ʾayna al-ḥizbu alladhī lam yarudda tuhmata ash-shuyūʿiyyati al-wāṣimata ʾilā al-muʿāriḍīna al-ʾakthari taqadduman wa-ʾilā ʾaʿdāʾihi ar-rajʿiyyīna ʿalā as-sawāʾi?"
+          }
+        },
+        "zh": {
+          "text": "哪个反对党没有被执政的对手斥为共产主义？又有哪个反对党没有把共产主义这项污名，回掷给更先进的反对派以及反动的敌人？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "哪个反对党没有被执政的对手斥为共产主义？又有哪个反对党没有把共产主义这项污名，回掷给更先进的反对派以及反动的敌人？",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǎ ge fǎnduìdǎng méiyǒu bèi zhízhèng de duìshǒu chì wéi gòngchǎnzhǔyì? Yòu yǒu nǎ ge fǎnduìdǎng méiyǒu bǎ gòngchǎnzhǔyì zhè xiàng wūmíng, huí zhì gěi gèng xiānjìn de fǎnduìpài yǐjí fǎndòng de dírén?"
+          }
+        },
+        "ko": {
+          "text": "권력을 잡은 적들에게 공산주의라는 비난을 받지 않은 반대당이 어디 있는가? 더 진보적인 반대파와 반동적인 적들에게 공산주의라는 낙인을 되던지지 않은 반대당이 어디 있는가?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "권력을 잡은 적들에게 공산주의라는 비난을 받지 않은 반대당이 어디 있는가? 더 진보적인 반대파와 반동적인 적들에게 공산주의라는 낙인을 되던지지 않은 반대당이 어디 있는가?"
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "この事実から、二つのことが明らかになる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "このじじつから、ふたつのことがあきらかになる。"
+        },
+        "en": {
+          "text": "Two things follow from this fact.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Two things follow from this fact."
+        },
+        "es": {
+          "text": "De este hecho se desprenden dos cosas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "De este hecho se desprenden dos cosas."
+        },
+        "fr": {
+          "text": "Deux choses découlent de ce fait.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Deux choses découlent de ce fait."
+        },
+        "de": {
+          "text": "Zweierlei geht aus dieser Thatsache hervor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Zweierlei geht aus dieser Thatsache hervor."
+        },
+        "ru": {
+          "text": "Из этого факта следуют два вывода.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Из этого факта следуют два вывода."
+        },
+        "ar": {
+          "text": "تَنْتُجُ عَنْ هَذِهِ الْحَقِيقَةِ نَتِيجَتَانِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تَنْتُجُ عَنْ هَذِهِ الْحَقِيقَةِ نَتِيجَتَانِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tantuju ʿan hādhihi al-ḥaqīqati natījatāni."
+          }
+        },
+        "zh": {
+          "text": "从这个事实可以得出两点。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "从这个事实可以得出两点。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Cóng zhè ge shìshí kěyǐ déchū liǎng diǎn."
+          }
+        },
+        "ko": {
+          "text": "이 사실에서 두 가지가 드러난다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이 사실에서 두 가지가 드러난다."
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "共産主義はすでに、ヨーロッパのすべての権力によって、一つの勢力として認められている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "きょうさんしゅぎはすでに、よーろっぱのすべてのけんりょくによって、ひとつのせいりょくとしてみとめられている。"
+        },
+        "en": {
+          "text": "Communism is already acknowledged as a power by all the powers of Europe.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Communism is already acknowledged as a power by all the powers of Europe."
+        },
+        "es": {
+          "text": "Todas las potencias europeas reconocen ya al comunismo como una fuerza.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Todas las potencias europeas reconocen ya al comunismo como una fuerza."
+        },
+        "fr": {
+          "text": "Le communisme est déjà reconnu comme une puissance par toutes les puissances européennes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le communisme est déjà reconnu comme une puissance par toutes les puissances européennes."
+        },
+        "de": {
+          "text": "Der Kommunismus wird bereits von allen europäischen Mächten als eine Macht anerkannt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Der Kommunismus wird bereits von allen europäischen Mächten als eine Macht anerkannt."
+        },
+        "ru": {
+          "text": "Коммунизм уже признан силой всеми европейскими державами.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Коммунизм уже признан силой всеми европейскими державами."
+        },
+        "ar": {
+          "text": "لَقَدِ اعْتَرَفَتْ جَمِيعُ الْقُوَى الْأُورُوبِّيَّةِ بِالشُّيُوعِيَّةِ قُوَّةً قَائِمَةً.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَقَدِ اعْتَرَفَتْ جَمِيعُ الْقُوَى الْأُورُوبِّيَّةِ بِالشُّيُوعِيَّةِ قُوَّةً قَائِمَةً.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Laqadi iʿtarafat jamīʿu al-quwā al-ʾūrūbbiyyati bi-ash-shuyūʿiyyati quwwatan qāʾimatan."
+          }
+        },
+        "zh": {
+          "text": "共产主义已经被欧洲所有权力承认为一股力量。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "共产主义已经被欧洲所有权力承认为一股力量。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Gòngchǎnzhǔyì yǐjīng bèi Ōuzhōu suǒyǒu quánlì chéngrèn wéi yī gǔ lìliàng."
+          }
+        },
+        "ko": {
+          "text": "공산주의는 이미 유럽의 모든 권력에 의해 하나의 세력으로 인정받고 있다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "공산주의는 이미 유럽의 모든 권력에 의해 하나의 세력으로 인정받고 있다."
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "共産主義者が、その見解、目的、傾向を全世界の前に公然と示し、共産主義の幽霊というおとぎ話に対して、党自身の宣言を突きつける時が来ている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "きょうさんしゅぎしゃが、そのけんかい、もくてき、けいこうをぜんせかいのまえにこうぜんとしめし、きょうさんしゅぎのゆうれいというおとぎばなしにたいして、とうじしんのせんげんをつきつけるときがきている。"
+        },
+        "en": {
+          "text": "It is high time for communists openly to set out their outlook, aims and tendencies before the whole world, and to confront tales of the ghost of communism with a manifesto of the party itself.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "It is high time for communists openly to set out their outlook, aims and tendencies before the whole world, and to confront tales of the ghost of communism with a manifesto of the party itself."
+        },
+        "es": {
+          "text": "Ya es hora de que los comunistas expongan abiertamente ante el mundo su visión, sus fines y sus tendencias, y opongan a los cuentos del fantasma del comunismo un manifiesto del propio partido.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ya es hora de que los comunistas expongan abiertamente ante el mundo su visión, sus fines y sus tendencias, y opongan a los cuentos del fantasma del comunismo un manifiesto del propio partido."
+        },
+        "fr": {
+          "text": "Il est grand temps que les communistes exposent ouvertement au monde leur manière de voir, leurs buts et leurs tendances, et opposent aux contes sur le fantôme du communisme un manifeste du parti lui-même.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Il est grand temps que les communistes exposent ouvertement au monde leur manière de voir, leurs buts et leurs tendances, et opposent aux contes sur le fantôme du communisme un manifeste du parti lui-même."
+        },
+        "de": {
+          "text": "Es ist hohe Zeit daß die Kommunisten ihre Anschauungsweise, ihre Zwecke, ihre Tendenzen vor der ganzen Welt offen darlegen, und den Mährchen vom Gespenst des Kommunismus ein Manifest der Partei selbst entgegenstellen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Es ist hohe Zeit daß die Kommunisten ihre Anschauungsweise, ihre Zwecke, ihre Tendenzen vor der ganzen Welt offen darlegen, und den Mährchen vom Gespenst des Kommunismus ein Manifest der Partei selbst entgegenstellen."
+        },
+        "ru": {
+          "text": "Давно пора коммунистам открыто изложить перед всем миром свои взгляды, цели и устремления и противопоставить сказкам о призраке коммунизма манифест самой партии.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Давно пора коммунистам открыто изложить перед всем миром свои взгляды, цели и устремления и противопоставить сказкам о призраке коммунизма манифест самой партии."
+        },
+        "ar": {
+          "text": "حَانَ الْوَقْتُ لِأَنْ يَعْرِضَ الشُّيُوعِيُّونَ عَلَنًا أَمَامَ الْعَالَمِ كُلِّهِ رُؤْيَتَهُمْ وَأَهْدَافَهُمْ وَاتِّجَاهَاتِهِمْ، وَأَنْ يُوَاجِهُوا حِكَايَاتِ شَبَحِ الشُّيُوعِيَّةِ بِبَيَانٍ لِلْحِزْبِ نَفْسِهِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "حَانَ الْوَقْتُ لِأَنْ يَعْرِضَ الشُّيُوعِيُّونَ عَلَنًا أَمَامَ الْعَالَمِ كُلِّهِ رُؤْيَتَهُمْ وَأَهْدَافَهُمْ وَاتِّجَاهَاتِهِمْ، وَأَنْ يُوَاجِهُوا حِكَايَاتِ شَبَحِ الشُّيُوعِيَّةِ بِبَيَانٍ لِلْحِزْبِ نَفْسِهِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥāna al-waqtu li-ʾan yaʿriḍa ash-shuyūʿiyyūna ʿalanan ʾamāma al-ʿālami kullihi ruʾyatahum wa-ʾahdāfahum wa-ittijāhātihim, wa-ʾan yuwājihū ḥikāyāti shabaḥi ash-shuyūʿiyyati bi-bayānin li-al-ḥizbi nafsihi."
+          }
+        },
+        "zh": {
+          "text": "共产党人早该向全世界公开自己的观点、目的和趋向，以党自身的宣言回应关于共产主义幽灵的传说。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "共产党人早该向全世界公开自己的观点、目的和趋向，以党自身的宣言回应关于共产主义幽灵的传说。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Gòngchǎndǎngrén zǎo gāi xiàng quán shìjiè gōngkāi zìjǐ de guāndiǎn, mùdì hé qūxiàng, yǐ dǎng zìshēn de xuānyán huíyìng guānyú gòngchǎnzhǔyì yōulíng de chuánshuō."
+          }
+        },
+        "ko": {
+          "text": "공산주의자들이 자신의 견해와 목적과 지향을 온 세계 앞에 공개하고, 공산주의 유령이라는 이야기에 당 자신의 선언을 맞세울 때가 되었다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "공산주의자들이 자신의 견해와 목적과 지향을 온 세계 앞에 공개하고, 공산주의 유령이라는 이야기에 당 자신의 선언을 맞세울 때가 되었다."
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "この目的のために、さまざまな国籍の共産主義者がロンドンに集まり、次の宣言を起草した。それは英語、フランス語、ドイツ語、イタリア語、フラマン語、デンマーク語で公表される。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "このもくてきのために、さまざまなこくせきのきょうさんしゅぎしゃがろんどんにあつまり、つぎのせんげんをきそうした。それはえいご、ふらんすご、どいつご、いたりあご、ふらまんご、でんまーくごでこうひょうされる。"
+        },
+        "en": {
+          "text": "For this purpose, communists of many nationalities gathered in London and drafted the following manifesto, which will be published in English, French, German, Italian, Flemish and Danish.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "For this purpose, communists of many nationalities gathered in London and drafted the following manifesto, which will be published in English, French, German, Italian, Flemish and Danish."
+        },
+        "es": {
+          "text": "Con este fin, comunistas de diversas nacionalidades se reunieron en Londres y redactaron el siguiente manifiesto, que se publicará en inglés, francés, alemán, italiano, flamenco y danés.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Con este fin, comunistas de diversas nacionalidades se reunieron en Londres y redactaron el siguiente manifiesto, que se publicará en inglés, francés, alemán, italiano, flamenco y danés."
+        },
+        "fr": {
+          "text": "À cette fin, des communistes de nationalités très diverses se sont réunis à Londres et ont rédigé le manifeste suivant, qui sera publié en anglais, français, allemand, italien, flamand et danois.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "À cette fin, des communistes de nationalités très diverses se sont réunis à Londres et ont rédigé le manifeste suivant, qui sera publié en anglais, français, allemand, italien, flamand et danois."
+        },
+        "de": {
+          "text": "Zu diesem Zweck haben sich Kommunisten der verschiedensten Nationalität in London versammelt und das folgende Manifest entworfen, das in englischer, französischer, deutscher, italienischer, flämmischer und dänischer Sprache veröffentlicht wird.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Zu diesem Zweck haben sich Kommunisten der verschiedensten Nationalität in London versammelt und das folgende Manifest entworfen, das in englischer, französischer, deutscher, italienischer, flämmischer und dänischer Sprache veröffentlicht wird."
+        },
+        "ru": {
+          "text": "Для этого коммунисты самых разных национальностей собрались в Лондоне и составили следующий манифест, который будет опубликован на английском, французском, немецком, итальянском, фламандском и датском языках.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Для этого коммунисты самых разных национальностей собрались в Лондоне и составили следующий манифест, который будет опубликован на английском, французском, немецком, итальянском, фламандском и датском языках."
+        },
+        "ar": {
+          "text": "لِهَذَا الْغَرَضِ اجْتَمَعَ شُيُوعِيُّونَ مِنْ جِنْسِيَّاتٍ مُتَنَوِّعَةٍ فِي لَنْدَنَ وَصَاغُوا الْبَيَانَ التَّالِيَ، الَّذِي سَيُنْشَرُ بِالْإِنْجِلِيزِيَّةِ وَالْفَرَنْسِيَّةِ وَالْأَلْمَانِيَّةِ وَالْإِيطَالِيَّةِ وَالْفَلَمَنْكِيَّةِ وَالدَّنْمَارْكِيَّةِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لِهَذَا الْغَرَضِ اجْتَمَعَ شُيُوعِيُّونَ مِنْ جِنْسِيَّاتٍ مُتَنَوِّعَةٍ فِي لَنْدَنَ وَصَاغُوا الْبَيَانَ التَّالِيَ، الَّذِي سَيُنْشَرُ بِالْإِنْجِلِيزِيَّةِ وَالْفَرَنْسِيَّةِ وَالْأَلْمَانِيَّةِ وَالْإِيطَالِيَّةِ وَالْفَلَمَنْكِيَّةِ وَالدَّنْمَارْكِيَّةِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Li-hādhā al-gharaḍi ijtamaʿa shuyūʿiyyūna min jinsiyyātin mutanawwiʿatin fī Landana wa-ṣāghū al-bayāna at-tāliya, alladhī sa-yunsharu bi-al-ʾinjilīziyyati wa-al-faransiyyati wa-al-ʾalmāniyyati wa-al-ʾīṭāliyyati wa-al-falamankiyyati wa-ad-danmārkiyyati."
+          }
+        },
+        "zh": {
+          "text": "为此，不同国籍的共产党人在伦敦集会，拟定了以下宣言，将以英语、法语、德语、意大利语、弗拉芒语和丹麦语发表。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "为此，不同国籍的共产党人在伦敦集会，拟定了以下宣言，将以英语、法语、德语、意大利语、弗拉芒语和丹麦语发表。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wèi cǐ, bùtóng guójí de gòngchǎndǎngrén zài Lúndūn jíhuì, nǐdìng le yǐxià xuānyán, jiāng yǐ Yīngyǔ, Fǎyǔ, Déyǔ, Yìdàlìyǔ, Fúlāmángyǔ hé Dānmàiyǔ fābiǎo."
+          }
+        },
+        "ko": {
+          "text": "이를 위해 여러 국적의 공산주의자들이 런던에 모여 다음 선언을 작성했다. 이 선언은 영어, 프랑스어, 독일어, 이탈리아어, 플라망어, 덴마크어로 발표될 것이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이를 위해 여러 국적의 공산주의자들이 런던에 모여 다음 선언을 작성했다. 이 선언은 영어, 프랑스어, 독일어, 이탈리아어, 플라망어, 덴마크어로 발표될 것이다."
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "これまでのあらゆる社会の歴史は、階級闘争の歴史である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "これまでのあらゆるしゃかいのれきしは、かいきゅうとうそうのれきしである。"
+        },
+        "en": {
+          "text": "The history of all society up to now is a history of class struggles.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The history of all society up to now is a history of class struggles."
+        },
+        "es": {
+          "text": "La historia de toda sociedad hasta hoy es una historia de luchas de clases.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La historia de toda sociedad hasta hoy es una historia de luchas de clases."
+        },
+        "fr": {
+          "text": "L’histoire de toute société jusqu’à présent est une histoire de luttes de classes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "L’histoire de toute société jusqu’à présent est une histoire de luttes de classes."
+        },
+        "de": {
+          "text": "Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここから第1章「Bourgeois und Proletarier」が始まります。",
+              "en": "Chapter I, Bourgeois und Proletarier, begins here."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen."
+        },
+        "ru": {
+          "text": "История всякого общества до сих пор есть история классовой борьбы.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "История всякого общества до сих пор есть история классовой борьбы."
+        },
+        "ar": {
+          "text": "تَارِيخُ كُلِّ مُجْتَمَعٍ حَتَّى الْآنَ هُوَ تَارِيخُ صِرَاعَاتٍ طَبَقِيَّةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تَارِيخُ كُلِّ مُجْتَمَعٍ حَتَّى الْآنَ هُوَ تَارِيخُ صِرَاعَاتٍ طَبَقِيَّةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tārīkhu kulli mujtamaʿin ḥattā al-ʾāna huwa tārīkhu ṣirāʿātin ṭabaqiyyatin."
+          }
+        },
+        "zh": {
+          "text": "迄今一切社会的历史，都是阶级斗争的历史。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "迄今一切社会的历史，都是阶级斗争的历史。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qìjīn yīqiè shèhuì de lìshǐ, dōu shì jiējí dòuzhēng de lìshǐ."
+          }
+        },
+        "ko": {
+          "text": "지금까지 모든 사회의 역사는 계급투쟁의 역사이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "지금까지 모든 사회의 역사는 계급투쟁의 역사이다."
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "自由民と奴隷、貴族と平民、領主と農奴、同業組合の親方と職人、要するに抑圧する者と抑圧される者は、絶えず対立し、時には隠れ、時には公然たる、途切れない闘争を続けてきた。その闘争はつねに、社会全体の革命的な変革か、闘争する階級の共倒れに終わった。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "じゆうみんとどれい、きぞくとへいみん、りょうしゅとのうど、どうぎょうくみあいのおやかたとしょくにん、ようするによくあつするものとよくあつされるものは、たえずたいりつし、ときにはかくれ、ときにはこうぜんたる、とぎれないとうそうをつづけてきた。そのとうそうはつねに、しゃかいぜんたいのかくめいてきなへんかくか、とうそうするかいきゅうのともだおれにおわった。"
+        },
+        "en": {
+          "text": "Free person and slave, patrician and plebeian, lord and serf, guild master and journeyman—in short, oppressors and oppressed—stood in constant opposition and carried on an uninterrupted struggle, sometimes hidden and sometimes open, that always ended in a revolutionary transformation of the whole society or in the shared downfall of the contending classes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Free person and slave, patrician and plebeian, lord and serf, guild master and journeyman—in short, oppressors and oppressed—stood in constant opposition and carried on an uninterrupted struggle, sometimes hidden and sometimes open, that always ended in a revolutionary transformation of the whole society or in the shared downfall of the contending classes."
+        },
+        "es": {
+          "text": "Libres y esclavos, patricios y plebeyos, señores y siervos, maestros gremiales y oficiales, en suma, opresores y oprimidos, mantuvieron una oposición constante y una lucha ininterrumpida, unas veces oculta y otras abierta, que terminó siempre en una transformación revolucionaria de toda la sociedad o en la ruina común de las clases enfrentadas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Libres y esclavos, patricios y plebeyos, señores y siervos, maestros gremiales y oficiales, en suma, opresores y oprimidos, mantuvieron una oposición constante y una lucha ininterrumpida, unas veces oculta y otras abierta, que terminó siempre en una transformación revolucionaria de toda la sociedad o en la ruina común de las clases enfrentadas."
+        },
+        "fr": {
+          "text": "Hommes libres et esclaves, patriciens et plébéiens, seigneurs et serfs, maîtres de corporation et compagnons, bref, oppresseurs et opprimés, se sont opposés sans cesse et ont mené une lutte ininterrompue, tantôt cachée, tantôt ouverte, qui finissait chaque fois par une transformation révolutionnaire de toute la société ou par la ruine commune des classes en lutte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Hommes libres et esclaves, patriciens et plébéiens, seigneurs et serfs, maîtres de corporation et compagnons, bref, oppresseurs et opprimés, se sont opposés sans cesse et ont mené une lutte ininterrompue, tantôt cachée, tantôt ouverte, qui finissait chaque fois par une transformation révolutionnaire de toute la société ou par la ruine commune des classes en lutte."
+        },
+        "de": {
+          "text": "Freier und Sklave, Patrizier und Plebejer, Baron und Leibeigner, Zunftbürger und Gesell, kurz, Unterdrücker und Unterdrückte standen in stetem Gegensatz zu einander, führten einen ununterbrochenen, bald versteckten bald offenen Kampf, einen Kampf, der jedesmal mit einer revolutionären Umgestaltung der ganzen Gesellschaft endete, oder mit dem gemeinsamen Untergang der kämpfenden Klassen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Freier und Sklave, Patrizier und Plebejer, Baron und Leibeigner, Zunftbürger und Gesell, kurz, Unterdrücker und Unterdrückte standen in stetem Gegensatz zu einander, führten einen ununterbrochenen, bald versteckten bald offenen Kampf, einen Kampf, der jedesmal mit einer revolutionären Umgestaltung der ganzen Gesellschaft endete, oder mit dem gemeinsamen Untergang der kämpfenden Klassen."
+        },
+        "ru": {
+          "text": "Свободный и раб, патриций и плебей, барон и крепостной, цеховой мастер и подмастерье — словом, угнетатели и угнетённые — постоянно противостояли друг другу, вели непрерывную, то скрытую, то открытую борьбу, которая всякий раз завершалась революционным преобразованием всего общества либо общей гибелью борющихся классов.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Свободный и раб, патриций и плебей, барон и крепостной, цеховой мастер и подмастерье — словом, угнетатели и угнетённые — постоянно противостояли друг другу, вели непрерывную, то скрытую, то открытую борьбу, которая всякий раз завершалась революционным преобразованием всего общества либо общей гибелью борющихся классов."
+        },
+        "ar": {
+          "text": "الْحُرُّ وَالْعَبْدُ، وَالنَّبِيلُ وَالْعَامِّيُّ، وَالسَّيِّدُ وَالْقِنُّ، وَمُعَلِّمُ الْحِرْفَةِ وَالْعَامِلُ الْمَاهِرُ، وَبِاخْتِصَارٍ الْمُضْطَهِدُونَ وَالْمُضْطَهَدُونَ، كَانُوا فِي تَعَارُضٍ دَائِمٍ وَخَاضُوا صِرَاعًا مُتَّصِلًا، خَفِيًّا تَارَةً وَعَلَنِيًّا تَارَةً، كَانَ يَنْتَهِي كُلَّ مَرَّةٍ بِتَحَوُّلٍ ثَوْرِيٍّ لِلْمُجْتَمَعِ كُلِّهِ أَوْ بِهَلَاكِ الطَّبَقَاتِ الْمُتَصَارِعَةِ مَعًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْحُرُّ وَالْعَبْدُ، وَالنَّبِيلُ وَالْعَامِّيُّ، وَالسَّيِّدُ وَالْقِنُّ، وَمُعَلِّمُ الْحِرْفَةِ وَالْعَامِلُ الْمَاهِرُ، وَبِاخْتِصَارٍ الْمُضْطَهِدُونَ وَالْمُضْطَهَدُونَ، كَانُوا فِي تَعَارُضٍ دَائِمٍ وَخَاضُوا صِرَاعًا مُتَّصِلًا، خَفِيًّا تَارَةً وَعَلَنِيًّا تَارَةً، كَانَ يَنْتَهِي كُلَّ مَرَّةٍ بِتَحَوُّلٍ ثَوْرِيٍّ لِلْمُجْتَمَعِ كُلِّهِ أَوْ بِهَلَاكِ الطَّبَقَاتِ الْمُتَصَارِعَةِ مَعًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥurru wa-al-ʿabdu, wa-an-nabīlu wa-al-ʿāmmiyyu, wa-as-sayyidu wa-al-qinnu, wa-muʿallimu al-ḥirfati wa-al-ʿāmilu al-māhiru, wa-bi-ikhtiṣārin al-muḍṭahidūna wa-al-muḍṭahadūna, kānū fī taʿāruḍin dāʾimin wa-khāḍū ṣirāʿan muttaṣilan, khafiyyan tāratan wa-ʿalaniyyan tāratan, kāna yantahī kulla marratin bi-taḥawwulin thawriyyin li-al-mujtamaʿi kullihi ʾaw bi-halāki aṭ-ṭabaqāti al-mutaṣāriʿati maʿan."
+          }
+        },
+        "zh": {
+          "text": "自由人与奴隶、贵族与平民、领主与农奴、行会师傅与帮工，总之，压迫者与被压迫者始终相互对立，进行着不断的斗争，时而隐蔽，时而公开。每次斗争都以整个社会的革命性变革，或者斗争各阶级的共同灭亡而告终。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "自由人与奴隶、贵族与平民、领主与农奴、行会师傅与帮工，总之，压迫者与被压迫者始终相互对立，进行着不断的斗争，时而隐蔽，时而公开。每次斗争都以整个社会的革命性变革，或者斗争各阶级的共同灭亡而告终。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zìyóurén yǔ núlì, guìzú yǔ píngmín, lǐngzhǔ yǔ nóngnú, hánghuì shīfu yǔ bānggōng, zǒngzhī, yāpòzhě yǔ bèi yāpòzhě shǐzhōng xiānghù duìlì, jìnxíngzhe bùduàn de dòuzhēng, shí’ér yǐnbì, shí’ér gōngkāi. Měi cì dòuzhēng dōu yǐ zhěng ge shèhuì de gémìngxìng biàngé, huòzhě dòuzhēng gè jiējí de gòngtóng mièwáng ér gàozhōng."
+          }
+        },
+        "ko": {
+          "text": "자유민과 노예, 귀족과 평민, 영주와 농노, 길드 장인과 직공, 요컨대 억압자와 피억압자는 끊임없이 대립하며 때로 숨은, 때로 공공연한 투쟁을 이어 왔다. 그 투쟁은 매번 사회 전체의 혁명적 변혁이나 서로 싸우는 계급들의 공동 몰락으로 끝났다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "자유민과 노예, 귀족과 평민, 영주와 농노, 길드 장인과 직공, 요컨대 억압자와 피억압자는 끊임없이 대립하며 때로 숨은, 때로 공공연한 투쟁을 이어 왔다. 그 투쟁은 매번 사회 전체의 혁명적 변혁이나 서로 싸우는 계급들의 공동 몰락으로 끝났다."
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "歴史の以前の時代には、ほとんどどこでも、社会がさまざまな身分に分かれ、社会的地位が多くの段階をなしている。古代ローマには貴族、騎士、平民、奴隷がおり、中世には封建領主、家臣、同業組合の親方、職人、農奴がおり、さらにほぼどの階級の中にも特有の階層があった。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "れきしのいぜんのじだいには、ほとんどどこでも、しゃかいがさまざまなみぶんにわかれ、しゃかいてきちいがおおくのだんかいをなしている。こだいろーまにはきぞく、きし、へいみん、どれいがおり、ちゅうせいにはほうけんりょうしゅ、かしん、どうぎょうくみあいのおやかた、しょくにん、のうどがおり、さらにほぼどのかいきゅうのなかにもとくゆうのかいそうがあった。"
+        },
+        "en": {
+          "text": "In earlier historical periods we find almost everywhere society fully divided into different estates, with many gradations of social rank. Ancient Rome had patricians, knights, plebeians and slaves; the Middle Ages had feudal lords, vassals, guild masters, journeymen and serfs, with further distinct gradations within almost every class.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "In earlier historical periods we find almost everywhere society fully divided into different estates, with many gradations of social rank. Ancient Rome had patricians, knights, plebeians and slaves; the Middle Ages had feudal lords, vassals, guild masters, journeymen and serfs, with further distinct gradations within almost every class."
+        },
+        "es": {
+          "text": "En épocas anteriores encontramos casi por todas partes una división completa de la sociedad en estamentos, con múltiples grados de posición social. En Roma había patricios, caballeros, plebeyos y esclavos; en la Edad Media, señores feudales, vasallos, maestros gremiales, oficiales y siervos, además de gradaciones particulares dentro de casi cada clase.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "En épocas anteriores encontramos casi por todas partes una división completa de la sociedad en estamentos, con múltiples grados de posición social. En Roma había patricios, caballeros, plebeyos y esclavos; en la Edad Media, señores feudales, vasallos, maestros gremiales, oficiales y siervos, además de gradaciones particulares dentro de casi cada clase."
+        },
+        "fr": {
+          "text": "Dans les époques antérieures, nous trouvons presque partout la société entièrement divisée en ordres, avec de multiples degrés de position sociale. Rome avait patriciens, chevaliers, plébéiens et esclaves ; le Moyen Âge, seigneurs féodaux, vassaux, maîtres de corporation, compagnons et serfs, et presque chaque classe comportait encore ses propres degrés.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dans les époques antérieures, nous trouvons presque partout la société entièrement divisée en ordres, avec de multiples degrés de position sociale. Rome avait patriciens, chevaliers, plébéiens et esclaves ; le Moyen Âge, seigneurs féodaux, vassaux, maîtres de corporation, compagnons et serfs, et presque chaque classe comportait encore ses propres degrés."
+        },
+        "de": {
+          "text": "In den früheren Epochen der Geschichte finden wir fast überall eine vollständige Gliederung der Gesellschaft in verschiedene Stände, eine mannichfaltige Abstufung der gesellschaftlichen Stellungen. Im alten Rom haben wir Patrizier, Ritter, Plebejer, Sklaven; im Mittelalter Feudalherren, Vasallen, Zunftbürger, Gesellen, Leibeigene, und noch dazu in fast jeder dieser Klassen wieder besondere Abstufungen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Stände は身分制の区分、Klassen は階級。原文は二つの語を使い分けています。",
+              "en": "Stände refers to estates or status orders, while Klassen means classes; the source uses both terms."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "In den früheren Epochen der Geschichte finden wir fast überall eine vollständige Gliederung der Gesellschaft in verschiedene Stände, eine mannichfaltige Abstufung der gesellschaftlichen Stellungen. Im alten Rom haben wir Patrizier, Ritter, Plebejer, Sklaven; im Mittelalter Feudalherren, Vasallen, Zunftbürger, Gesellen, Leibeigene, und noch dazu in fast jeder dieser Klassen wieder besondere Abstufungen."
+        },
+        "ru": {
+          "text": "В прежние эпохи почти повсюду обнаруживается полное расчленение общества на различные сословия, многообразная градация общественного положения. В древнем Риме были патриции, всадники, плебеи, рабы; в Средние века — феодалы, вассалы, цеховые мастера, подмастерья, крепостные, а почти внутри каждого класса — ещё особые подразделения.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "В прежние эпохи почти повсюду обнаруживается полное расчленение общества на различные сословия, многообразная градация общественного положения. В древнем Риме были патриции, всадники, плебеи, рабы; в Средние века — феодалы, вассалы, цеховые мастера, подмастерья, крепостные, а почти внутри каждого класса — ещё особые подразделения."
+        },
+        "ar": {
+          "text": "فِي الْعُصُورِ السَّابِقَةِ نَجِدُ فِي كُلِّ مَكَانٍ تَقْرِيبًا انْقِسَامَ الْمُجْتَمَعِ إِلَى مَرَاتِبَ مُخْتَلِفَةٍ وَتَدَرُّجًا مُتَنَوِّعًا لِلْمَكَانَاتِ الِاجْتِمَاعِيَّةِ. فَفِي رُومَا الْقَدِيمَةِ نُبَلَاءُ وَفُرْسَانٌ وَعَامَّةٌ وَعَبِيدٌ؛ وَفِي الْعُصُورِ الْوُسْطَى إِقْطَاعِيُّونَ وَتَابِعُونَ وَمُعَلِّمُو حِرَفٍ وَعُمَّالٌ مَهَرَةٌ وَأَقْنَانٌ، مَعَ تَدَرُّجَاتٍ خَاصَّةٍ دَاخِلَ كُلِّ طَبَقَةٍ تَقْرِيبًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "فِي الْعُصُورِ السَّابِقَةِ نَجِدُ فِي كُلِّ مَكَانٍ تَقْرِيبًا انْقِسَامَ الْمُجْتَمَعِ إِلَى مَرَاتِبَ مُخْتَلِفَةٍ وَتَدَرُّجًا مُتَنَوِّعًا لِلْمَكَانَاتِ الِاجْتِمَاعِيَّةِ. فَفِي رُومَا الْقَدِيمَةِ نُبَلَاءُ وَفُرْسَانٌ وَعَامَّةٌ وَعَبِيدٌ؛ وَفِي الْعُصُورِ الْوُسْطَى إِقْطَاعِيُّونَ وَتَابِعُونَ وَمُعَلِّمُو حِرَفٍ وَعُمَّالٌ مَهَرَةٌ وَأَقْنَانٌ، مَعَ تَدَرُّجَاتٍ خَاصَّةٍ دَاخِلَ كُلِّ طَبَقَةٍ تَقْرِيبًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fī al-ʿuṣūri as-sābiqati najidu fī kulli makānin taqrīban inqisāma al-mujtamaʿi ʾilā marātiba mukhtalifatin wa-tadarrujan mutanawwiʿan li-al-makānāti al-ijtimāʿiyyati. Fa-fī Rūmā al-qadīmati nubalāʾu wa-fursānun wa-ʿāmmatun wa-ʿabīdun; wa-fī al-ʿuṣūri al-wusṭā ʾiqṭāʿiyyūna wa-tābiʿūna wa-muʿallimū ḥirafin wa-ʿummālun maharatun wa-ʾaqnānun, maʿa tadarrujātin khāṣṣatin dākhila kulli ṭabaqatin taqrīban."
+          }
+        },
+        "zh": {
+          "text": "在以往的历史时代，几乎到处都能看到社会完整地划分为不同等级，社会地位又有多重层次。古罗马有贵族、骑士、平民和奴隶；中世纪有封建领主、附庸、行会师傅、帮工和农奴，而且几乎每个阶级内部又有特殊的层次。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "在以往的历史时代，几乎到处都能看到社会完整地划分为不同等级，社会地位又有多重层次。古罗马有贵族、骑士、平民和奴隶；中世纪有封建领主、附庸、行会师傅、帮工和农奴，而且几乎每个阶级内部又有特殊的层次。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài yǐwǎng de lìshǐ shídài, jīhū dàochù dōu néng kàndào shèhuì wánzhěng de huàfēn wéi bùtóng děngjí, shèhuì dìwèi yòu yǒu duōchóng céngcì. Gǔ Luómǎ yǒu guìzú, qíshì, píngmín hé núlì; zhōngshìjì yǒu fēngjiàn lǐngzhǔ, fùyōng, hánghuì shīfu, bānggōng hé nóngnú, érqiě jīhū měi ge jiējí nèibù yòu yǒu tèshū de céngcì."
+          }
+        },
+        "ko": {
+          "text": "이전 역사 시대에는 거의 어디서나 사회가 여러 신분으로 완전히 나뉘고 사회적 지위에 다양한 단계가 있음을 볼 수 있다. 고대 로마에는 귀족, 기사, 평민, 노예가 있었고, 중세에는 봉건영주, 가신, 길드 장인, 직공, 농노가 있었으며, 거의 모든 계급 안에도 별도의 단계가 있었다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이전 역사 시대에는 거의 어디서나 사회가 여러 신분으로 완전히 나뉘고 사회적 지위에 다양한 단계가 있음을 볼 수 있다. 고대 로마에는 귀족, 기사, 평민, 노예가 있었고, 중세에는 봉건영주, 가신, 길드 장인, 직공, 농노가 있었으며, 거의 모든 계급 안에도 별도의 단계가 있었다."
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "封建社会の崩壊から生まれた近代ブルジョア社会は、階級の対立をなくさなかった。ただ、新しい階級、新しい抑圧の条件、新しい闘争の形を、古いものに代えて置いただけである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ほうけんしゃかいのほうかいからうまれたきんだいぶるじょあしゃかいは、かいきゅうのたいりつをなくさなかった。ただ、あたらしいかいきゅう、あたらしいよくあつのじょうけん、あたらしいとうそうのかたちを、ふるいものにかえておいただけである。"
+        },
+        "en": {
+          "text": "Modern bourgeois society, emerging from the collapse of feudal society, has not abolished class antagonisms. It has merely put new classes, new conditions of oppression and new forms of struggle in place of the old.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Modern bourgeois society, emerging from the collapse of feudal society, has not abolished class antagonisms. It has merely put new classes, new conditions of oppression and new forms of struggle in place of the old."
+        },
+        "es": {
+          "text": "La sociedad burguesa moderna, surgida del hundimiento de la sociedad feudal, no ha eliminado los antagonismos de clase. Solo ha sustituido los antiguos por nuevas clases, nuevas condiciones de opresión y nuevas formas de lucha.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La sociedad burguesa moderna, surgida del hundimiento de la sociedad feudal, no ha eliminado los antagonismos de clase. Solo ha sustituido los antiguos por nuevas clases, nuevas condiciones de opresión y nuevas formas de lucha."
+        },
+        "fr": {
+          "text": "La société bourgeoise moderne, issue de la chute de la société féodale, n’a pas supprimé les antagonismes de classes. Elle a simplement remplacé les anciennes classes, conditions d’oppression et formes de lutte par de nouvelles.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La société bourgeoise moderne, issue de la chute de la société féodale, n’a pas supprimé les antagonismes de classes. Elle a simplement remplacé les anciennes classes, conditions d’oppression et formes de lutte par de nouvelles."
+        },
+        "de": {
+          "text": "Die aus dem Untergange der feudalen Gesellschaft hervorgegangene moderne bürgerliche Gesellschaft hat die Klassengegensätze nicht aufgehoben. Sie hat nur neue Klassen, neue Bedingungen der Unterdrückung, neue Gestaltungen des Kampfes an die Stelle der alten gesetzt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Die aus dem Untergange der feudalen Gesellschaft hervorgegangene moderne bürgerliche Gesellschaft hat die Klassengegensätze nicht aufgehoben. Sie hat nur neue Klassen, neue Bedingungen der Unterdrückung, neue Gestaltungen des Kampfes an die Stelle der alten gesetzt."
+        },
+        "ru": {
+          "text": "Современное буржуазное общество, возникшее из гибели феодального общества, не устранило классовых противоположностей. Оно лишь поставило новые классы, новые условия угнетения и новые формы борьбы на место старых.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Современное буржуазное общество, возникшее из гибели феодального общества, не устранило классовых противоположностей. Оно лишь поставило новые классы, новые условия угнетения и новые формы борьбы на место старых."
+        },
+        "ar": {
+          "text": "الْمُجْتَمَعُ الْبُرْجُوَازِيُّ الْحَدِيثُ، الَّذِي نَشَأَ مِنْ انْهِيَارِ الْمُجْتَمَعِ الْإِقْطَاعِيِّ، لَمْ يُلْغِ التَّنَاقُضَاتِ الطَّبَقِيَّةَ. بَلْ أَحَلَّ طَبَقَاتٍ جَدِيدَةً وَشُرُوطًا جَدِيدَةً لِلِاضْطِهَادِ وَأَشْكَالًا جَدِيدَةً لِلصِّرَاعِ مَحَلَّ الْقَدِيمَةِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْمُجْتَمَعُ الْبُرْجُوَازِيُّ الْحَدِيثُ، الَّذِي نَشَأَ مِنْ انْهِيَارِ الْمُجْتَمَعِ الْإِقْطَاعِيِّ، لَمْ يُلْغِ التَّنَاقُضَاتِ الطَّبَقِيَّةَ. بَلْ أَحَلَّ طَبَقَاتٍ جَدِيدَةً وَشُرُوطًا جَدِيدَةً لِلِاضْطِهَادِ وَأَشْكَالًا جَدِيدَةً لِلصِّرَاعِ مَحَلَّ الْقَدِيمَةِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-mujtamaʿu al-burjuwāziyyu al-ḥadīthu, alladhī nashaʾa min inhiyāri al-mujtamaʿi al-ʾiqṭāʿiyyi, lam yulghi at-tanāquḍāti aṭ-ṭabaqiyyata. Bal ʾaḥalla ṭabaqātin jadīdatan wa-shurūṭan jadīdatan li-al-iḍṭihādi wa-ʾashkālan jadīdatan li-aṣ-ṣirāʿi maḥalla al-qadīmati."
+          }
+        },
+        "zh": {
+          "text": "从封建社会崩溃中产生的现代资产阶级社会，并没有消除阶级对立。它只是以新的阶级、新的压迫条件和新的斗争形式，取代了旧的。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "从封建社会崩溃中产生的现代资产阶级社会，并没有消除阶级对立。它只是以新的阶级、新的压迫条件和新的斗争形式，取代了旧的。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Cóng fēngjiàn shèhuì bēngkuì zhōng chǎnshēng de xiàndài zīchǎnjiējí shèhuì, bìng méiyǒu xiāochú jiējí duìlì. Tā zhǐ shì yǐ xīn de jiējí, xīn de yāpò tiáojiàn hé xīn de dòuzhēng xíngshì, qǔdài le jiù de."
+          }
+        },
+        "ko": {
+          "text": "봉건사회의 붕괴에서 생겨난 근대 부르주아 사회는 계급 대립을 없애지 않았다. 다만 새로운 계급, 새로운 억압 조건, 새로운 투쟁 형태를 옛것 대신 놓았을 뿐이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "봉건사회의 붕괴에서 생겨난 근대 부르주아 사회는 계급 대립을 없애지 않았다. 다만 새로운 계급, 새로운 억압 조건, 새로운 투쟁 형태를 옛것 대신 놓았을 뿐이다."
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "しかし、私たちの時代、ブルジョアジーの時代を特徴づけるのは、階級の対立を単純化したことである。社会全体はますます、敵対する二つの大きな陣営、直接向かい合う二つの大階級、ブルジョアジーとプロレタリアートに分裂していく。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しかし、わたしたちのじだい、ぶるじょあじーのじだいをとくちょうづけるのは、かいきゅうのたいりつをたんじゅんかしたことである。しゃかいぜんたいはますます、てきたいするふたつのおおきなじんえい、ちょくせつむかいあうふたつのだいかいきゅう、ぶるじょあじーとぷろれたりあーとにぶんれつしていく。"
+        },
+        "en": {
+          "text": "Our age, the age of the bourgeoisie, is distinguished by having simplified class antagonisms. Society as a whole divides increasingly into two great hostile camps, two great classes confronting one another directly: bourgeoisie and proletariat.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Our age, the age of the bourgeoisie, is distinguished by having simplified class antagonisms. Society as a whole divides increasingly into two great hostile camps, two great classes confronting one another directly: bourgeoisie and proletariat."
+        },
+        "es": {
+          "text": "Nuestra época, la época de la burguesía, se distingue por haber simplificado los antagonismos de clase. La sociedad entera se divide cada vez más en dos grandes campos enemigos, dos grandes clases directamente enfrentadas: burguesía y proletariado.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nuestra época, la época de la burguesía, se distingue por haber simplificado los antagonismos de clase. La sociedad entera se divide cada vez más en dos grandes campos enemigos, dos grandes clases directamente enfrentadas: burguesía y proletariado."
+        },
+        "fr": {
+          "text": "Notre époque, celle de la bourgeoisie, se distingue pourtant par la simplification des antagonismes de classes. La société entière se divise de plus en plus en deux grands camps ennemis, deux grandes classes directement opposées : bourgeoisie et prolétariat.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Notre époque, celle de la bourgeoisie, se distingue pourtant par la simplification des antagonismes de classes. La société entière se divise de plus en plus en deux grands camps ennemis, deux grandes classes directement opposées : bourgeoisie et prolétariat."
+        },
+        "de": {
+          "text": "Unsere Epoche, die Epoche der Bourgeoisie, zeichnet sich jedoch dadurch aus, daß sie die Klassengegensätze vereinfacht hat. Die ganze Gesellschaft spaltet sich mehr und mehr in zwei große feindliche Lager, in zwei große einander direkt gegenüberstehende Klassen – Bourgeoisie und Proletariat.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この二分化は著者たちが提示する歴史的分析です。mehr und mehr は「ますます」を意味します。",
+              "en": "This polarization is the authors’ historical analysis. Mehr und mehr means increasingly."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Karl Marx / Friedrich Engels; German Wikisource — Manifest der Kommunistischen Partei, London, 1848 (first edition)"
+          },
+          "ttsText": "Unsere Epoche, die Epoche der Bourgeoisie, zeichnet sich jedoch dadurch aus, daß sie die Klassengegensätze vereinfacht hat. Die ganze Gesellschaft spaltet sich mehr und mehr in zwei große feindliche Lager, in zwei große einander direkt gegenüberstehende Klassen – Bourgeoisie und Proletariat."
+        },
+        "ru": {
+          "text": "Наша эпоха, эпоха буржуазии, отличается тем, что упростила классовые противоположности. Всё общество всё более раскалывается на два больших враждебных лагеря, на два больших класса, прямо противостоящих друг другу: буржуазию и пролетариат.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Наша эпоха, эпоха буржуазии, отличается тем, что упростила классовые противоположности. Всё общество всё более раскалывается на два больших враждебных лагеря, на два больших класса, прямо противостоящих друг другу: буржуазию и пролетариат."
+        },
+        "ar": {
+          "text": "يَتَمَيَّزُ عَصْرُنَا، عَصْرُ الْبُرْجُوَازِيَّةِ، بِأَنَّهُ بَسَّطَ التَّنَاقُضَاتِ الطَّبَقِيَّةَ. وَيَنْقَسِمُ الْمُجْتَمَعُ كُلُّهُ أَكْثَرَ فَأَكْثَرَ إِلَى مُعَسْكَرَيْنِ كَبِيرَيْنِ مُتَعَادِيَيْنِ، إِلَى طَبَقَتَيْنِ كَبِيرَتَيْنِ تَتَوَاجَهَانِ مُبَاشَرَةً: الْبُرْجُوَازِيَّةِ وَالْبُرُولِيتَارِيَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "يَتَمَيَّزُ عَصْرُنَا، عَصْرُ الْبُرْجُوَازِيَّةِ، بِأَنَّهُ بَسَّطَ التَّنَاقُضَاتِ الطَّبَقِيَّةَ. وَيَنْقَسِمُ الْمُجْتَمَعُ كُلُّهُ أَكْثَرَ فَأَكْثَرَ إِلَى مُعَسْكَرَيْنِ كَبِيرَيْنِ مُتَعَادِيَيْنِ، إِلَى طَبَقَتَيْنِ كَبِيرَتَيْنِ تَتَوَاجَهَانِ مُبَاشَرَةً: الْبُرْجُوَازِيَّةِ وَالْبُرُولِيتَارِيَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Yatamayyazu ʿaṣrunā, ʿaṣru al-burjuwāziyyati, bi-ʾannahu bassaṭa at-tanāquḍāti aṭ-ṭabaqiyyata. Wa-yanqasimu al-mujtamaʿu kulluhu ʾakthara fa-ʾakthara ʾilā muʿaskarayni kabīrayni mutaʿādiyayni, ʾilā ṭabaqatayni kabīratayni tatawājahāni mubāsharatan: al-burjuwāziyyati wa-al-burūlītāriyā."
+          }
+        },
+        "zh": {
+          "text": "然而，我们的时代，即资产阶级的时代，其特点在于简化了阶级对立。整个社会越来越分裂为两个敌对的大阵营、两个直接对立的大阶级：资产阶级和无产阶级。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "然而，我们的时代，即资产阶级的时代，其特点在于简化了阶级对立。整个社会越来越分裂为两个敌对的大阵营、两个直接对立的大阶级：资产阶级和无产阶级。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rán’ér, wǒmen de shídài, jí zīchǎnjiējí de shídài, qí tèdiǎn zàiyú jiǎnhuà le jiējí duìlì. Zhěng ge shèhuì yuèláiyuè fēnliè wéi liǎng ge díduì de dà zhènyíng, liǎng ge zhíjiē duìlì de dà jiējí: zīchǎnjiējí hé wúchǎnjiējí."
+          }
+        },
+        "ko": {
+          "text": "그러나 우리 시대, 부르주아지의 시대는 계급 대립을 단순화했다는 특징이 있다. 사회 전체는 점점 더 두 개의 거대한 적대 진영, 직접 맞서는 두 거대 계급인 부르주아지와 프롤레타리아트로 갈라진다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러나 우리 시대, 부르주아지의 시대는 계급 대립을 단순화했다는 특징이 있다. 사회 전체는 점점 더 두 개의 거대한 적대 진영, 직접 맞서는 두 거대 계급인 부르주아지와 프롤레타리아트로 갈라진다."
+        }
+      }
+    }
+  ]
+}

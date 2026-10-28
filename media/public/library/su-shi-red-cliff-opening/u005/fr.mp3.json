@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b61953a85e886f31f1d8eddaf8e9fe5b1c303452d62c1f604cb5d031661d7a28",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Une brume blanche s’étendait sur le fleuve, et l’éclat de l’eau rejoignait le ciel.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "60138944cf90950cbb3bc8133be4bf3fb220999720da15a0e3c22c8d982104ee",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:05:06.625592+00:00"
+}

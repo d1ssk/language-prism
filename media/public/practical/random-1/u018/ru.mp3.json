@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "446193c8aefde7a060150b2268b8e2fced653023f07ee4681b16785c87646973",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если завтра будет хорошая погода, может, съездим на машине к морю?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "84ee5268b2e2e0d4951356bb1f6864dadcd035ef713f3d35e3a8e1f3b2206fef",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:34.582936+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cb13ecc7d3aca58678431eb8f707d2d3c440fb71fa5caf44a93e6fb6d7af5497",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Me queda poca batería en el móvil, así que estoy buscando un enchufe cerca.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ff7d33e279a616a776cac96f6d4086d4b37789b3fa83a272ab695a42eac2ff3a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:47:55.232901+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ed2bf9a6b3d724468e4e0705eee3103aa753aeaec6ec13d6e9b809920f16b486",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn man ein fremdes Land besucht, merkt man, dass das, was man für selbstverständlich hält, nicht unbedingt überall gilt.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ea25b8748d0dc1204b413dc22885640632cf3cc7520250f7b5a94e36cf4afdf1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:54:56.690848+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0c9f614e0e61c55421f849811b2c66f74d18348f3d272b8aa51cffc18eb4dea9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— كنت سأحب الجمال طوعًا، في صورة إلهة خالدة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb0f92d27c34014dcc0fac02ae2d82801fd5b44088fe284723740f76928d3c46",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:50:27.594666+00:00"
+}

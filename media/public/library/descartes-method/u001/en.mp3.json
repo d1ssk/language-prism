@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "76af499cb5d00ce14e96ba64bdf6f9a876843663b246d3e53cc5ac25ad777a95",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The first rule was never to accept anything as true unless I clearly knew it to be so;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c6003bab312dffb39f5dcdab50dbed7cbb4b4f35c81cc91956bee8d9e86f6e81",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:25:19.428168+00:00"
+}

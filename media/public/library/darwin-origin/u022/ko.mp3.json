@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "34f131aa73c80e20dd760d367cb6353db1472cac4f2c96c2659609334465779a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또한 자연 선택은 오직 각 생물의 이익에 의해, 그리고 그 이익을 위해 작용하므로, 모든 신체적·정신적 자질은 완전함을 향해 나아가는 경향을 보일 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f7a61af3d685e28459d31f3ce0799603151a37d25046349c112d1fcce8a0267",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:30:19.451816+00:00"
+}

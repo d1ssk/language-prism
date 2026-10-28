@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4b82a1a4ff4f3f529de56b884e878787f4b2097d30b765c8d430bbb3b3522fb3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "こーひーをいっぱいください。さとうもみるくもいりません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0a5f38c5a570d56d112a7f09bc13f5014c03de4848e1f1c5b8d478efba7b73c6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:37.257872+00:00"
+}

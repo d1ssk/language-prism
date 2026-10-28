@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "93c632e9519dae169022564da799f21f13a44537c4ac8ad5cc5dcbefb92bf0c9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "说到底，还是对面三户、左右邻家那些时隐时现的普通人。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d109c36aa2a56b5e4af742e34b10ea33ab76f790b4e8c3a80dee8e117f16158a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:54:49.056071+00:00"
+}

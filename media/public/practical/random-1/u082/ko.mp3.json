@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "947c54c15ea55c40c9f53f0efdf445a5057473fcc065654402f7b59d1e05c729",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "언젠가는 직접 설계한 집에서 살면서 오랜 시간에 걸쳐 조금씩 손을 보고 싶어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f8f5666acf18c8b42a95eb12d6651d8b0c1fb1e08493a7ac7877c1bc75d471e7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:06:50.278962+00:00"
+}

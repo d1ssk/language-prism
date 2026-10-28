@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cfba6c47964873afa9b30229630f59a553ddfec8665cba247661689349d28081",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Цвета на этой картине сдержанные, но почему-то она производит сильное впечатление.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e72536e033f9ea0de9c521f19e8f8efaae94edc78f6f8b5fd9b76875e661b03f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:04.617788+00:00"
+}

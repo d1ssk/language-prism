@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "93941b0b46d08aee98a9b86939e6f6a7b1960103924a0266a29e658697364244",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Enfin, son jugement entièrement perdu, il en vint à la pensée la plus étrange qu'ait jamais conçue un fou au monde ;",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "45056c46b3cee38f8bda7b386219070fa5125fbb1966ca5dec32e024f4fe7e12",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:11:00.372460+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "abccc1bc18aa73a7e0f61ad2cf0e590b5ba80c24cd286ffb69ec88ec9f3aeb13",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "まちがえることをおそれずに、できるだけたくさんはなしてみたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3af11df2772ca2944d5d8545d74ad3c861d4ba77644401ca4f9e91cfd55bda0f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:32:31.710891+00:00"
+}

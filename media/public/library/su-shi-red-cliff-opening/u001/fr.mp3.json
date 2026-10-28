@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eaf4e24853e87c017747342f89c291c518f836b7ae75ec29a8a8bbe85e49d04d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "En automne de l’année renxu, le seizième jour du septième mois lunaire, maître Su alla se promener en barque avec ses invités au pied de la Falaise rouge.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "538c3b432096d39894f69dd2c119f4cf159c25d57b92b22d2e2b9a786c5edfc3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:00:36.258544+00:00"
+}

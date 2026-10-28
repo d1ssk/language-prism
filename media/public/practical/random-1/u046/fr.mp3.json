@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "14fb1fdae23fd1b3df7804bf4d1ca3ce0a3c2577a247b83d1d54eaf1c89fc09e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Les couleurs de ce tableau sont discrètes, mais il laisse pourtant une impression très forte.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e5684a6741e1cb230cea8b5ced0a18488751a6091a0f94739917df933fe20f0e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:38:52.782579+00:00"
+}

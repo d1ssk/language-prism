@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "41f661361af5c3d7a6f311c3043dc4f78a78750353cc0f2310860e839b93831b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "若有，也只能去一个没有人性的国度。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a46966d645db0e01786228f886bb290abdd712c2572b1d3ee621a8d687b300d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:56:27.106314+00:00"
+}

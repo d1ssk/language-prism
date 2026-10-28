@@ -1,0 +1,5078 @@
+{
+  "schemaVersion": 1,
+  "id": "asking-for-clarification",
+  "slug": "asking-for-clarification",
+  "type": "practical",
+  "title": {
+    "ja": "聞き返す・意味を確かめる",
+    "en": "Asking for clarification"
+  },
+  "description": {
+    "ja": "聞き直し、単語の意味、予約、締め切り、日付など、異なる状況で理解を確かめる表現。",
+    "en": "Expressions for checking understanding in different situations, including unclear speech, word meanings, reservations, deadlines and dates."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて作成した例文。既存の教材からの転載ではありません。",
+    "en": "Examples created with AI for this site, not reproduced from existing teaching materials."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み表記：OpenAI。",
+    "en": "Text and pronunciation readings: OpenAI."
+  },
+  "editorialNote": {
+    "ja": "聞き直し、単語の意味、予約、締め切り、日付など、異なる状況で理解を確かめる表現。 各小見出しは独立した場面です。短い掛け合いと単独で使える表現を組み合わせており、記事全体が一続きの会話ではありません。本文と読み表記を収録し、音声は未生成です。専門家による校閲は受けていません。",
+    "en": "Expressions for checking understanding in different situations, including unclear speech, word meanings, reservations, deadlines and dates. Each heading introduces an independent situation. Short exchanges are mixed with standalone expressions; the article is not one continuous conversation. Text and pronunciation readings are included; audio has not been generated. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "すみません、もう一度言っていただけますか。",
+          "ttsText": "すみません、もういちどいっていただけますか。",
+          "vocabulary": [
+            {
+              "term": "すみません",
+              "meaning": {
+                "ja": "相手に手間をかけることへの配慮を示す呼びかけ。聞き返す前置きです。",
+                "en": "A considerate opening acknowledging the trouble caused, before requesting repetition."
+              }
+            },
+            {
+              "term": "もう一度",
+              "meaning": {
+                "ja": "さらに一回、再び。直前に言われた内容の繰り返しを求めます。",
+                "en": "Once more, requesting a repeat of what was just said."
+              }
+            },
+            {
+              "term": "言っていただけますか",
+              "meaning": {
+                "ja": "言う行為を相手にしてもらえるか、丁寧に依頼する表現です。",
+                "en": "A polite request asking whether the listener could say it for the speaker."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "言う → 言って",
+              "explanation": {
+                "ja": "動詞 言う のて形は 言って です。その後ろに いただく を続け、相手が言う行為を自分が受けるものとして、へりくだって表現しています。",
+                "en": "The te-form of 言う is 言って. Following it with いただく humbly presents the listener’s speaking as an action received by the speaker."
+              }
+            },
+            {
+              "point": "いただけますか",
+              "explanation": {
+                "ja": "いただく の可能形 いただける を丁寧な疑問にしています。できるかを問う形で、実際には能力の試験でなく、もう一度言ってほしいという依頼を和らげます。",
+                "en": "This is a polite question built on potential いただける from いただく. Asking about possibility softens the request for repetition rather than testing ability."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "聞こえなかった場合にも、理解できず確認したい場合にも使えます。本文は相手の落ち度を断定せず、自分から丁寧に聞き返す表現です。",
+              "en": "This works when the speaker did not hear or needs another chance to understand. It politely requests repetition without asserting that the listener was at fault."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Sorry, could you say that again?",
+          "ttsText": "Sorry, could you say that again?",
+          "vocabulary": [
+            {
+              "term": "Sorry",
+              "meaning": {
+                "ja": "すみません。聞き返す際の配慮を示す短い前置きです。",
+                "en": "Sorry, a brief considerate opening before asking for repetition."
+              }
+            },
+            {
+              "term": "could you say",
+              "meaning": {
+                "ja": "言っていただけますか。could you と動詞の原形で丁寧に依頼します。",
+                "en": "Could you say, a polite request with could you and a base-form verb."
+              }
+            },
+            {
+              "term": "that again",
+              "meaning": {
+                "ja": "それをもう一度。that は直前の発言、again は繰り返しを指します。",
+                "en": "That again, with that referring to the preceding utterance and again requesting repetition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Could + you + say ...?",
+              "explanation": {
+                "ja": "法助動詞 could を主語 you の前に置き、後ろの say は原形です。ここで could は過去に言えたかを尋ねるのでなく、現在の依頼を丁寧にしています。",
+                "en": "Modal could precedes subject you, followed by base say. It makes a present request polite rather than asking about past ability to speak."
+              }
+            },
+            {
+              "point": "say + that + again",
+              "explanation": {
+                "ja": "say の目的語 that が、直前に相手が言った内容を受けます。again を後ろに置き、同じ内容を繰り返すよう求めています。say me とはせず、本文では内容を直接目的語にしています。",
+                "en": "Object that refers to what the listener just said. Final again asks for repetition. The direct object here is the content; the construction is not say me."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Sorry はここでは重大な謝罪というより、会話を止めて聞き返す配慮です。相手に同じ発言を求めるので、意味の別の説明まで必ず求めているわけではありません。",
+              "en": "Sorry is a considerate interruption here rather than necessarily a serious apology. The request is for repetition, not automatically for a different explanation of the meaning."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Disculpe, ¿podría repetirlo?",
+          "ttsText": "Disculpe, ¿podría repetirlo?",
+          "vocabulary": [
+            {
+              "term": "Disculpe",
+              "meaning": {
+                "ja": "すみません。disculpar の usted への命令形を丁寧な呼びかけに使います。",
+                "en": "Excuse me, using the usted imperative of disculpar as a polite opening."
+              }
+            },
+            {
+              "term": "podría",
+              "meaning": {
+                "ja": "poder の条件法。ここでは依頼を控えめにする形です。",
+                "en": "Conditional poder, here softening a request."
+              }
+            },
+            {
+              "term": "repetirlo",
+              "meaning": {
+                "ja": "それを繰り返す。repetir に目的語代名詞 lo が付いています。",
+                "en": "To repeat it, with object pronoun lo attached to repetir."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "¿podría + repetir ...?",
+              "explanation": {
+                "ja": "条件法 podría に不定詞 repetir を続け、繰り返してもらえるかと尋ねます。Disculpe と合わせ、主語を明示しない usted への丁寧な依頼として読めます。",
+                "en": "Conditional podría takes infinitive repetir to ask for repetition. Together with Disculpe, it reads as a polite request to understood usted."
+              }
+            },
+            {
+              "point": "repetir + lo",
+              "explanation": {
+                "ja": "不定詞の後ろに lo を付けて一語で書き、前の発言内容を受けます。lo は依頼相手を指すのではなく、繰り返してほしい内容を示す直接目的語です。",
+                "en": "Lo attaches after the infinitive as one written word, referring to the previous utterance. It marks the requested content as direct object, not the person addressed."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Disculpe と podría は丁寧な相手への組み合わせです。相手の発言を聞き返す場面で使い、ここでの条件法を過去の出来事として訳す必要はありません。",
+              "en": "Disculpe and podría consistently address the listener politely. In this request for repetition, the conditional need not be translated as a past event."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Excusez-moi, pourriez-vous répéter ?",
+          "ttsText": "Excusez-moi, pourriez-vous répéter ?",
+          "vocabulary": [
+            {
+              "term": "Excusez-moi",
+              "meaning": {
+                "ja": "すみません。excuser の vous への命令形に moi を続けた呼びかけです。",
+                "en": "Excuse me, with the vous imperative of excuser followed by moi."
+              }
+            },
+            {
+              "term": "pourriez-vous",
+              "meaning": {
+                "ja": "していただけますか。pouvoir の条件法と vous を倒置しています。",
+                "en": "Could you, inverting conditional pouvoir with vous."
+              }
+            },
+            {
+              "term": "répéter",
+              "meaning": {
+                "ja": "繰り返す。不定詞で、前に言われた内容をもう一度述べることです。",
+                "en": "To repeat, an infinitive referring to saying the previous content again."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Excusez + moi",
+              "explanation": {
+                "ja": "肯定命令の Excusez の後ろに目的語 moi を置き、ハイフンでつなぎます。本文では強い命令というより、聞き返す前の丁寧な定型表現として働きます。",
+                "en": "Affirmative imperative Excusez takes following object moi with a hyphen. Here the phrase functions as a polite opening before asking again rather than a forceful command."
+              }
+            },
+            {
+              "point": "pourriez-vous + répéter",
+              "explanation": {
+                "ja": "条件法 pourriez と主語 vous を倒置して質問にし、その後ろに不定詞 répéter を置きます。条件法は依頼を和らげ、繰り返す対象は前の発言から補います。",
+                "en": "Conditional pourriez is inverted with subject vous, followed by infinitive répéter. The conditional softens the request, and the preceding utterance supplies what should be repeated."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "vous は丁寧な一人にも複数にも使えます。本文は聞き返しの表現で、相手が間違えたと主張するのでなく、もう一度発言してほしいと求めています。",
+              "en": "Vous can address one person politely or several people. The sentence requests another saying of the utterance without claiming the listener made an error."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Entschuldigung, könnten Sie das noch einmal sagen?",
+          "ttsText": "Entschuldigung, könnten Sie das noch einmal sagen?",
+          "vocabulary": [
+            {
+              "term": "Entschuldigung",
+              "meaning": {
+                "ja": "すみません。会話を止めて聞き返す前の配慮を示す語です。",
+                "en": "Excuse me, a considerate opening before interrupting to ask again."
+              }
+            },
+            {
+              "term": "könnten Sie",
+              "meaning": {
+                "ja": "していただけますか。können の接続法II式で丁寧に依頼します。",
+                "en": "Could you, using subjunctive II können for a polite request."
+              }
+            },
+            {
+              "term": "das noch einmal sagen",
+              "meaning": {
+                "ja": "それをもう一度言う。das が発言内容、noch einmal が繰り返しです。",
+                "en": "Say that once more, with das the utterance and noch einmal the repetition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "könnten + Sie ... sagen",
+              "explanation": {
+                "ja": "法助動詞の接続法II式 könnten を先頭に置き、主語 Sie を続けます。本動詞 sagen は不定詞のまま文末に置く、助動詞と不定詞の組み合わせです。",
+                "en": "Subjunctive II modal könnten comes first, followed by subject Sie. Lexical sagen remains infinitive at the end in the modal–infinitive construction."
+              }
+            },
+            {
+              "point": "das + noch einmal",
+              "explanation": {
+                "ja": "das は前の発言を受ける対格目的語です。noch einmal は追加の一回を求め、何をもう一度言うかを、前のやり取りから理解します。",
+                "en": "Das is the accusative object referring to the prior utterance. Noch einmal requests one additional saying, with the dialogue supplying the content."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "接続法II式はここでは過去の能力でなく、今の依頼への配慮です。大文字の Sie を使い、丁寧な相手への聞き返しとして語形をそろえています。",
+              "en": "Subjunctive II conveys politeness in the current request here, not past ability. Capitalized Sie consistently marks polite address."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините, не могли бы вы повторить?",
+          "ttsText": "Извините, не могли бы вы повторить?",
+          "vocabulary": [
+            {
+              "term": "Извините",
+              "meaning": {
+                "ja": "すみません。丁寧な単数または複数の相手への命令形を呼びかけに使います。",
+                "en": "Excuse me, an imperative addressing one person politely or several people."
+              }
+            },
+            {
+              "term": "не могли бы вы",
+              "meaning": {
+                "ja": "していただけませんか。否定と бы を使って依頼を和らげます。",
+                "en": "Could you, using negation and бы to soften the request."
+              }
+            },
+            {
+              "term": "повторить",
+              "meaning": {
+                "ja": "繰り返す。ここでは相手の発言をもう一度言う完了体の不定詞です。",
+                "en": "To repeat, a perfective infinitive requesting another saying of the utterance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "не могли бы вы + 不定詞",
+              "explanation": {
+                "ja": "могли と бы による仮定的な形を否定疑問にし、повторить を続けます。形に過去語幹があっても、今の丁寧な依頼であり、以前できなかったかを追及する質問ではありません。",
+                "en": "The hypothetical могли бы is placed in a negative question and takes повторить. Despite the past-form stem, it is a polite current request, not an inquiry into a previous failure of ability."
+              }
+            },
+            {
+              "point": "вы と могли",
+              "explanation": {
+                "ja": "вы は丁寧な一人にも複数にも使い、どちらも複数形 могли です。повторить の目的語は省かれ、前に述べられた内容を繰り返すと理解します。",
+                "en": "Вы can address one person politely or several people, taking plural могли in either case. The object of повторить is omitted and understood as the prior utterance."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "не のある依頼ですが、相手に繰り返してほしいという肯定の行為を求めています。短い可能・不可能の返事だけより、実際にもう一度言うことが会話の目的です。",
+              "en": "Although the request contains не, it seeks the positive action of repeating. The conversational goal is another saying, not merely a brief statement of ability or inability."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا، هل يمكنك أن تعيد ما قلت؟",
+          "ttsText": "عفوا، هل يمكنك أن تعيد ما قلت؟",
+          "vocabulary": [
+            {
+              "term": "عفوا",
+              "meaning": {
+                "ja": "すみません。聞き返す前の丁寧な呼びかけです。",
+                "en": "Excuse me, a polite opening before asking for repetition."
+              }
+            },
+            {
+              "term": "هل يمكنك",
+              "meaning": {
+                "ja": "できますか。يمكن に聞き手を表す接尾辞 ك を付けた表現です。",
+                "en": "Is it possible for you, using يمكن with listener suffix ك."
+              }
+            },
+            {
+              "term": "أن تعيد ما قلت",
+              "meaning": {
+                "ja": "言ったことを繰り返すこと。ما قلت が繰り返す内容です。",
+                "en": "To repeat what you said, with ما قلت specifying the repeated content."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "يمكنك + أن تعيد",
+              "explanation": {
+                "ja": "可能を表す يمكنك に、أن と動詞を続けて実行する内容を示します。本文の読みでは tuʿīda となり、أن の後の接続法で、繰り返す行為を依頼しています。",
+                "en": "يمكنك expresses possibility and takes أن plus a verb to specify the action. Supplied tuʿīda is subjunctive after أن, forming the request to repeat."
+              }
+            },
+            {
+              "point": "ما قلت",
+              "explanation": {
+                "ja": "ما はここでは何をという独立の質問でなく、あなたが言ったことという関係表現です。قلت は二人称男性単数の過去形として、すでに相手が述べた内容を受けます。",
+                "en": "ما here is relative, what you said, rather than a separate direct question. قلت is second-person masculine singular past, referring to what the listener already uttered."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文の読みは男性一人への依頼です。能力の可能性を尋ねる形ですが、この会話では聞き取れなかった内容をもう一度言ってもらう丁寧な要求として働きます。",
+              "en": "The supplied reading addresses one man. Though phrased as a possibility question, it functions here as a polite request to repeat content the speaker did not catch."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan, hal yumkinuka ʾan tuʿīda mā qulta?",
+            "note": {
+              "ja": "yumkinuka / tuʿīda / qulta は男性一人に話す形です。女性一人に話す場合は yumkinuki / tuʿīdī / qulti になります。 この文で区切って読むときの休止形：qulta → qult。",
+              "en": "yumkinuka / tuʿīda / qulta addresses one man; use yumkinuki / tuʿīdī / qulti when addressing one woman. Pausal forms at the sentence breaks here: qulta → qult."
+            }
+          }
+        },
+        "zh": {
+          "text": "不好意思，您能再说一遍吗？",
+          "ttsText": "不好意思，您能再说一遍吗？",
+          "vocabulary": [
+            {
+              "term": "不好意思",
+              "meaning": {
+                "ja": "すみません。相手に手間をかけることへの配慮を示す前置きです。",
+                "en": "Excuse me, a considerate opening acknowledging the trouble caused."
+              }
+            },
+            {
+              "term": "您能",
+              "meaning": {
+                "ja": "あなたはできますか。您 は丁寧な相手、能 は可能を示します。",
+                "en": "Can you, with respectful 您 and possibility modal 能."
+              }
+            },
+            {
+              "term": "再说一遍",
+              "meaning": {
+                "ja": "もう一度言う。再 が反復、一遍 が発言を一回繰り返す単位です。",
+                "en": "Say it once more, with 再 for repetition and 一遍 for one complete repeat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "您 + 能 + 再说一遍 + 吗",
+              "explanation": {
+                "ja": "可能を表す 能 を動詞句の前に置き、文末の 吗 で質問にします。ここでは能力を確認するだけでなく、もう一度言ってほしいという丁寧な依頼です。",
+                "en": "能 precedes the verb phrase to express possibility, and final 吗 makes the question. Here it politely requests another saying rather than merely checking ability."
+              }
+            },
+            {
+              "point": "再 と 一遍",
+              "explanation": {
+                "ja": "再 を動詞 说 の前、一遍 を後ろに置き、発言をもう一回通して繰り返すことを求めます。说 の目的語は省かれ、直前の発言内容から補います。",
+                "en": "再 precedes 说 and 一遍 follows it, requesting one more complete saying. The object of 说 is omitted and recovered from the preceding utterance."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "不好意思 はここでは謝罪・遠慮の定型句です。您 と合わせて相手に配慮し、聞き返しを直接の命令より柔らかくしています。",
+              "en": "不好意思 is a conventional apologetic opening here. With 您, it shows consideration and makes asking again softer than a direct command."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù hǎoyìsi, nín néng zài shuō yī biàn ma?",
+            "note": {
+              "ja": "この文では、発音時に yī biàn → yí biàn となります。",
+              "en": "In this sentence, the spoken forms are yī biàn → yí biàn."
+            }
+          }
+        },
+        "ko": {
+          "text": "죄송하지만 다시 한번 말씀해 주시겠어요?",
+          "ttsText": "죄송하지만 다시 한번 말씀해 주시겠어요?",
+          "vocabulary": [
+            {
+              "term": "죄송하지만",
+              "meaning": {
+                "ja": "すみませんが。謝罪の形に -지만 を続け、依頼の前置きにします。",
+                "en": "Sorry, but, combining an apologetic form with -지만 as a request opening."
+              }
+            },
+            {
+              "term": "다시 한번",
+              "meaning": {
+                "ja": "もう一度。다시 は再び、한번 はここでは一回の繰り返しです。",
+                "en": "Once again, with 다시 meaning again and 한번 requesting another saying here."
+              }
+            },
+            {
+              "term": "말씀해 주시겠어요",
+              "meaning": {
+                "ja": "お話しいただけますか。말씀하다 と 주다 に尊敬・丁寧な疑問を重ねます。",
+                "en": "Would you say it for me, combining 말씀하다 and 주다 with honorific and polite questioning."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "죄송하다 + -지만",
+              "explanation": {
+                "ja": "죄송하다 の語幹に -지만 を付け、すみませんがという前置きを作ります。単なる反対内容の対比ではなく、相手に負担をかける依頼を切り出す配慮です。",
+                "en": "Attaching -지만 to 죄송하다 gives the opening sorry, but. It introduces a potentially burdensome request considerately rather than simply contrasting opposite facts."
+              }
+            },
+            {
+              "point": "말씀해 + 주시겠어요",
+              "explanation": {
+                "ja": "말씀하다 を -아/어 주다 と組み合わせ、相手に話す行為をしてもらう依頼にします。주다 に尊敬の -시- と -겠어요 が続き、相手の意向を丁寧に尋ねます。",
+                "en": "말씀하다 combines with -아/어 주다 to request the favor of speaking. 주다 takes honorific -시- and -겠어요 to ask the listener’s willingness politely."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は相手に敬意を示す聞き返しです。繰り返す内容と主語は会話から分かるので省かれ、自分が何を聞き逃したかを具体的に述べなくても使えます。",
+              "en": "This is a respectful request for repetition. The subject and repeated content are understood, so it can be used without specifying exactly what was missed."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "時刻を聞き直す",
+        "en": "Checking a time"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "明日は九時に集合です。",
+          "ttsText": "あしたはくじにしゅうごうです。",
+          "vocabulary": [
+            {
+              "term": "明日は",
+              "meaning": {
+                "ja": "明日という日を話題にする時間表現です。",
+                "en": "A time expression making tomorrow the topic."
+              }
+            },
+            {
+              "term": "九時に",
+              "meaning": {
+                "ja": "集合の時刻を示す句。に が動作の起こる時点を示します。",
+                "en": "Gives the meeting time, with に marking the event’s point in time."
+              }
+            },
+            {
+              "term": "集合です",
+              "meaning": {
+                "ja": "集まる予定を、名詞 集合 と丁寧な です で案内しています。",
+                "en": "Announces the gathering through noun 集合 and polite です."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "明日は……集合です",
+              "explanation": {
+                "ja": "未来の日を先に示し、集合という名詞述語で予定を案内します。です は丁寧な非過去形で、明日 という時間表現から未来の予定と分かります。",
+                "en": "Tomorrow is stated first, and the noun predicate announces the gathering. です is polite nonpast; 明日 establishes its future schedule reading."
+              }
+            },
+            {
+              "point": "九時に集合",
+              "explanation": {
+                "ja": "動作性のある名詞 集合 と時刻の 九時に を組み合わせています。本文は 九時です と時刻だけを述べる文でなく、何の時刻かを 集合 で示します。",
+                "en": "The action noun 集合 combines with time phrase 九時に. Unlike merely stating 九時です, the text identifies what takes place at that hour."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "参加者は会話の共有事項として省かれています。九時が午前か午後か、集合場所はどこかまでは本文にないので、必要なら追加で確認します。",
+              "en": "Participants are omitted as shared context. Morning versus evening and the meeting place are unspecified and can be clarified if needed."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "We're meeting at nine tomorrow.",
+          "ttsText": "We're meeting at nine tomorrow.",
+          "vocabulary": [
+            {
+              "term": "We're meeting",
+              "meaning": {
+                "ja": "私たちは集まる予定です。We are を短縮した現在進行形です。",
+                "en": "We are meeting, a contracted present progressive expressing an arrangement."
+              }
+            },
+            {
+              "term": "at nine",
+              "meaning": {
+                "ja": "九時に。時計の時刻の前に at を置きます。",
+                "en": "At nine, using at before the clock hour."
+              }
+            },
+            {
+              "term": "tomorrow",
+              "meaning": {
+                "ja": "明日。文末で予定の日を示す時間副詞です。",
+                "en": "Tomorrow, a final time adverb identifying the planned day."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "are + meeting で予定を述べる",
+              "explanation": {
+                "ja": "現在進行形は、本文のように未来の具体的な予定にも使います。tomorrow があるため今集合しているという意味ではなく、決まっている集まりの予定として読みます。",
+                "en": "The present progressive can express a specific future arrangement. Tomorrow rules out a meeting underway now and frames this as an arranged gathering."
+              }
+            },
+            {
+              "point": "at nine + tomorrow",
+              "explanation": {
+                "ja": "at nine が時刻、tomorrow が日を示します。tomorrow 自体の前に on を追加せず、二つの時間表現でいつ集まるかを具体化します。",
+                "en": "At nine gives the hour and tomorrow the day. No on is added before tomorrow; the two expressions together identify the arrangement’s timing."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "We は話し手を含む複数ですが、誰が全員含まれるかは文脈で分かります。九時の午前・午後や、集合場所はこの文には指定されていません。",
+              "en": "We includes the speaker, but context identifies the full group. The sentence gives neither a.m. versus p.m. nor a meeting place."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Mañana nos reunimos a las nueve.",
+          "ttsText": "Mañana nos reunimos a las nueve.",
+          "vocabulary": [
+            {
+              "term": "Mañana",
+              "meaning": {
+                "ja": "明日。ここでは冠詞のない時間副詞で、朝という名詞ではありません。",
+                "en": "Tomorrow, a time adverb without an article here, not the noun morning."
+              }
+            },
+            {
+              "term": "nos reunimos",
+              "meaning": {
+                "ja": "私たちは集まります。reunirse の一人称複数形です。",
+                "en": "We gather, the first-person plural of reunirse."
+              }
+            },
+            {
+              "term": "a las nueve",
+              "meaning": {
+                "ja": "九時に。a と定冠詞 las で時計の時刻を導きます。",
+                "en": "At nine, introducing the clock hour with a and article las."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "nos + reunimos",
+              "explanation": {
+                "ja": "代名詞を伴う動詞 reunirse の現在形を使います。主語 nosotros は語尾 -imos から分かるため省かれ、それに対応する代名詞 nos は動詞の前に置きます。",
+                "en": "The sentence uses pronominal reunirse in the present. Subject nosotros is recoverable from -imos and omitted, while matching pronoun nos precedes the verb."
+              }
+            },
+            {
+              "point": "現在形と Mañana",
+              "explanation": {
+                "ja": "現在形 reunimos で、明日の確定的な予定を述べています。Mañana が未来の日を示すため、この文は今集まっているという説明でも、過去の集合の報告でもありません。",
+                "en": "Present reunimos states a firm arrangement for tomorrow. Mañana establishes the future day, so this is neither a meeting underway now nor a report of a past gathering."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "reunimos は形だけなら現在と点過去で同じですが、本文は Mañana によって未来の予定です。集合場所や午前・午後は示されていません。",
+              "en": "Reunimos has the same surface form in the present and preterite, but Mañana makes this a future arrangement. Place and a.m. versus p.m. remain unspecified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Demain, on se retrouve à neuf heures.",
+          "ttsText": "Demain, on se retrouve à neuf heures.",
+          "vocabulary": [
+            {
+              "term": "Demain",
+              "meaning": {
+                "ja": "明日。文頭で予定の日を示す時間副詞です。",
+                "en": "Tomorrow, a time adverb opening the announcement of the day."
+              }
+            },
+            {
+              "term": "on se retrouve",
+              "meaning": {
+                "ja": "私たちは落ち合います。on と、代名動詞 se retrouver を使います。",
+                "en": "We meet up, using on with pronominal se retrouver."
+              }
+            },
+            {
+              "term": "à neuf heures",
+              "meaning": {
+                "ja": "九時に。à が時刻を導き、heures は複数です。",
+                "en": "At nine, with à introducing the time and plural heures."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "on + se retrouve",
+              "explanation": {
+                "ja": "会話の on がここでは私たちを指し、文法上は三人称単数の retrouve を取ります。se retrouver はこの場面で落ち合う・集まるという意味です。",
+                "en": "Conversational on means we here but grammatically takes third-person singular retrouve. Se retrouver means meet up in this setting."
+              }
+            },
+            {
+              "point": "現在形で明日の予定",
+              "explanation": {
+                "ja": "Demain が未来の日を示し、現在形 se retrouve で決まった予定を述べます。時間副詞を前に出しても、その後は主語 on、代名詞 se、動詞の順です。",
+                "en": "Demain gives the future day, while present se retrouve states an arrangement. After the fronted time adverb, the order remains subject on, pronoun se, then verb."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "on は一般の人を指すこともありますが、この集合の案内では話し手を含む私たちです。neuf heures だけでは午前か午後かまでは決まらず、場面で判断します。",
+              "en": "On can refer to people generally, but this arrangement includes the speaker. Neuf heures alone leaves morning versus evening to context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wir treffen uns morgen um neun Uhr.",
+          "ttsText": "Wir treffen uns morgen um neun Uhr.",
+          "vocabulary": [
+            {
+              "term": "Wir treffen uns",
+              "meaning": {
+                "ja": "私たちは会います、集まります。sich treffen の一人称複数です。",
+                "en": "We meet, the first-person plural of sich treffen."
+              }
+            },
+            {
+              "term": "morgen",
+              "meaning": {
+                "ja": "明日。小文字の時間副詞で、名詞の朝とは区別します。",
+                "en": "Tomorrow, a lowercase time adverb distinct from the noun morning."
+              }
+            },
+            {
+              "term": "um neun Uhr",
+              "meaning": {
+                "ja": "九時に。um が時計の時刻を導きます。",
+                "en": "At nine, with um introducing the clock hour."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wir + treffen + uns",
+              "explanation": {
+                "ja": "主語 Wir に対して現在形 treffen と代名詞 uns を使います。sich treffen はここでは互いに会う・落ち合うという意味で、uns が集合する私たちを受けます。",
+                "en": "Subject Wir takes present treffen and pronoun uns. Sich treffen here means meet one another, with uns referring back to the group."
+              }
+            },
+            {
+              "point": "現在形と morgen",
+              "explanation": {
+                "ja": "未来の予定を現在形で表し、morgen が明日と示します。定動詞 treffen は二番目にあり、その後の uns と二つの時間表現が予定を具体化しています。",
+                "en": "The present expresses a future arrangement, with morgen identifying tomorrow. Finite treffen is second, followed by uns and the time expressions specifying the plan."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "morgen は明日、Morgen は朝という名詞です。本文は翌日の九時の案内ですが、午前・午後や集合場所は別途文脈から補います。",
+              "en": "Lowercase morgen is tomorrow; Morgen is the noun morning. The text schedules nine the next day, leaving a.m. versus p.m. and place to context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Завтра встречаемся в девять.",
+          "ttsText": "Завтра встречаемся в девять.",
+          "vocabulary": [
+            {
+              "term": "Завтра",
+              "meaning": {
+                "ja": "明日。未来の日を示す時間副詞です。",
+                "en": "Tomorrow, a time adverb establishing a future day."
+              }
+            },
+            {
+              "term": "встречаемся",
+              "meaning": {
+                "ja": "私たちは会います。встречаться の一人称複数現在形です。",
+                "en": "We meet, first-person plural present встречаться."
+              }
+            },
+            {
+              "term": "в девять",
+              "meaning": {
+                "ja": "九時に。в と数 девять を用いる時刻表現です。",
+                "en": "At nine, a clock-time phrase using в and девять."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "主語を省いた встречаемся",
+              "explanation": {
+                "ja": "語尾から私たち мы が主語と分かるので、本文では代名詞を省いています。-ся のある встречаться を使い、参加者が互いに会う予定を述べます。",
+                "en": "The ending identifies subject мы, so the pronoun is omitted. The -ся verb встречаться describes the participants meeting each other."
+              }
+            },
+            {
+              "point": "Завтра と現在形",
+              "explanation": {
+                "ja": "不完了体の現在形ですが、Завтра が未来を示し、決まった予定として使われています。未来の話題でも、本文のように予定を現在形で案内できます。",
+                "en": "Although imperfective present, the verb with Завтра states a fixed future arrangement. A planned future event can be announced in the present as here."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "в девять は九時という時点で、九時間の長さではありません。午前・午後、集合場所、参加者の全員の名前はこの文に含まれていません。",
+              "en": "В девять gives the point nine o’clock, not nine hours. Morning versus evening, location, and the full participant list are not supplied."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "سنلتقي غدا في الساعة التاسعة.",
+          "ttsText": "سنلتقي غدا في الساعة التاسعة.",
+          "vocabulary": [
+            {
+              "term": "سنلتقي",
+              "meaning": {
+                "ja": "私たちは会う予定です。未来の سـ と一人称複数 نلتقي を組み合わせます。",
+                "en": "We will meet, combining future سـ with first-person plural نلتقي."
+              }
+            },
+            {
+              "term": "غدا",
+              "meaning": {
+                "ja": "明日。会う日を指定する時間の語です。",
+                "en": "Tomorrow, identifying the day of the meeting."
+              }
+            },
+            {
+              "term": "في الساعة التاسعة",
+              "meaning": {
+                "ja": "九時に。في と、序数で時刻を表す句です。",
+                "en": "At nine o’clock, using في and an ordinal hour expression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "سـ + نلتقي",
+              "explanation": {
+                "ja": "現在形 نلتقي に未来の接頭辞 سـ を付け、これから会うことを明示します。一人称複数は動詞の形で分かり、独立した نحن を置く必要はありません。",
+                "en": "Future prefix سـ attaches to present نلتقي to mark an upcoming meeting. The verb identifies first-person plural without a separate نحن."
+              }
+            },
+            {
+              "point": "غدا + في الساعة التاسعة",
+              "explanation": {
+                "ja": "غدا が日、في الساعة التاسعة が時刻を指定します。التاسعة は女性名詞 الساعة に合う女性形の序数で、午前か午後かは本文では明示されていません。",
+                "en": "غدا specifies the day and في الساعة التاسعة the hour. Feminine ordinal التاسعة agrees with feminine الساعة, while the sentence leaves a.m. versus p.m. unspecified."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この文では未来の印が動詞に明示されています。集合場所や誰が参加するかの全容までは述べず、話し手を含む複数が明日九時に会う予定を伝えます。",
+              "en": "Here the verb explicitly marks the future. The announcement gives a meeting tomorrow at nine for a group including the speaker, without full participants or location."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Sanaltaqī ghadan fī as-sāʿati at-tāsiʿati.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：at-tāsiʿati → at-tāsiʿah。 fī as-sāʿati at-tāsiʿati は連読すると fī s-sāʿati t-tāsiʿati とつながります。",
+              "en": "Pausal forms at the sentence breaks here: at-tāsiʿati → at-tāsiʿah. In connected speech, fī as-sāʿati at-tāsiʿati is linked as fī s-sāʿati t-tāsiʿati."
+            }
+          }
+        },
+        "zh": {
+          "text": "我们明天九点集合。",
+          "ttsText": "我们明天九点集合。",
+          "vocabulary": [
+            {
+              "term": "我们",
+              "meaning": {
+                "ja": "私たち。話し手を含む複数の参加者を示します。",
+                "en": "We, a group of participants including the speaker."
+              }
+            },
+            {
+              "term": "明天九点",
+              "meaning": {
+                "ja": "明日の九時。日を示す 明天 の後ろに時計の時刻を置きます。",
+                "en": "Tomorrow at nine, with day 明天 followed by the clock time."
+              }
+            },
+            {
+              "term": "集合",
+              "meaning": {
+                "ja": "集まる、集合する。この文の動作を表す述語です。",
+                "en": "To gather, the action predicate in this sentence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "我们 + 明天九点 + 集合",
+              "explanation": {
+                "ja": "主語の後に日と時刻を置き、最後に動詞 集合 を続けます。日という大きな時間単位から、九時という具体的な時刻へ順に述べています。",
+                "en": "After the subject come day and hour, then verb 集合. The time expression moves from the larger day unit to the specific clock hour."
+              }
+            },
+            {
+              "point": "未来の予定と動詞の形",
+              "explanation": {
+                "ja": "集合 自体は未来形に活用せず、明天 が未来の日を示します。本文では 会 や 要 を必ず付けなくても、会話の予定として明日の集合を伝えられます。",
+                "en": "集合 does not inflect for the future; 明天 supplies the future day. In this arrangement, the sentence can announce tomorrow’s gathering without necessarily adding 会 or 要."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "九点 は時刻で、集合する長さではありません。上午 や 晚上 がないため、午前九時か夜九時かや、集合場所は文脈で確認します。",
+              "en": "九点 is a clock time, not the gathering’s duration. Without 上午 or 晚上, morning versus evening and the location require context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen míngtiān jiǔ diǎn jíhé.",
+            "note": {
+              "ja": "この文では、発音時に jiǔ diǎn → jiú diǎn となります。",
+              "en": "In this sentence, the spoken forms are jiǔ diǎn → jiú diǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "내일 아홉 시에 모여요.",
+          "ttsText": "내일 아홉 시에 모여요.",
+          "vocabulary": [
+            {
+              "term": "내일",
+              "meaning": {
+                "ja": "明日。予定の日を示す時間表現です。",
+                "en": "Tomorrow, giving the planned day."
+              }
+            },
+            {
+              "term": "아홉 시에",
+              "meaning": {
+                "ja": "九時に。固有数詞 아홉 と時の 시 に 에 を付けます。",
+                "en": "At nine, with native numeral 아홉, hour marker 시, and temporal 에."
+              }
+            },
+            {
+              "term": "모여요",
+              "meaning": {
+                "ja": "集まります。모이다 の丁寧な会話形です。",
+                "en": "We gather, the polite conversational form of 모이다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "모이다 → 모여요",
+              "explanation": {
+                "ja": "語幹 모이- に -어요 を続けると、母音が縮まって 모여요 になります。主語は共有されている参加者として省かれ、ここでは私たちが集まる予定です。",
+                "en": "Stem 모이- combines with -어요 and contracts to 모여요. The understood participants are omitted as subject; here the group plans to gather."
+              }
+            },
+            {
+              "point": "내일 + 아홉 시에",
+              "explanation": {
+                "ja": "日を表す 내일 と時刻の 아홉 시에 を動詞の前に置きます。내일 自体には 에 を付けず、具体的な九時の後に時点の 에 を付けています。",
+                "en": "Day 내일 and clock time 아홉 시에 precede the verb. 내일 itself has no 에 here, while the specific hour takes temporal 에."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "未来の -겠- などはなくても、내일 によって明日の予定と分かります。午前・午後や、集合場所は本文にないため、必要に応じて確認します。",
+              "en": "Even without a future form such as -겠-, 내일 establishes tomorrow’s plan. Morning versus evening and the meeting location remain unspecified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "九時ですか、十時ですか。",
+          "ttsText": "くじですか、じゅうじですか。",
+          "vocabulary": [
+            {
+              "term": "九時",
+              "meaning": {
+                "ja": "九という時計の時刻。直前に案内された集合時刻の候補です。",
+                "en": "Nine o’clock, the meeting time announced immediately beforehand."
+              }
+            },
+            {
+              "term": "十時",
+              "meaning": {
+                "ja": "十という時計の時刻。聞き返しで示すもう一つの候補です。",
+                "en": "Ten o’clock, the other candidate offered in the clarification question."
+              }
+            },
+            {
+              "term": "ですか",
+              "meaning": {
+                "ja": "です に疑問の か を付け、時刻がそうかを丁寧に確認します。",
+                "en": "Polite です with question particle か, checking whether the time is so."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "九時ですか、十時ですか",
+              "explanation": {
+                "ja": "二つの時刻にそれぞれ ですか を付け、どちらなのかを尋ねます。単なる はい・いいえ より、九時です のように候補を特定する答えが明確です。",
+                "en": "Each of the two hours takes ですか, asking which is correct. A reply selecting one, such as 九時です, is clearer than simply yes or no."
+              }
+            },
+            {
+              "point": "共有される集合の話題",
+              "explanation": {
+                "ja": "集合は何時かという文脈があるので、集合は や 集合するのは を省いています。短い二つの名詞述語だけで、どの時刻を確認したいかが伝わります。",
+                "en": "The dialogue establishes the gathering, so 集合は or 集合するのは is omitted. The two short noun predicates suffice to clarify which hour is intended."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "相手が九時と言ったのか十時と言ったのかを聞き分けたい場面の表現です。集合予定を十時へ変更したいという提案ではなく、伝えられた時刻の確認として使っています。",
+              "en": "This fits checking whether the listener said nine or ten. In this dialogue it clarifies the announced time rather than proposing to reschedule the meeting to ten."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Nine or ten?",
+          "ttsText": "Nine or ten?",
+          "vocabulary": [
+            {
+              "term": "Nine",
+              "meaning": {
+                "ja": "九時。前の時刻の案内を受け、時計の九時と理解します。",
+                "en": "Nine, understood as nine o’clock from the preceding time announcement."
+              }
+            },
+            {
+              "term": "or",
+              "meaning": {
+                "ja": "それとも。質問の中で二つの時刻を選択肢として結びます。",
+                "en": "Or, linking the two hours as alternatives in the question."
+              }
+            },
+            {
+              "term": "ten",
+              "meaning": {
+                "ja": "十時。九時と区別して確かめるもう一つの候補です。",
+                "en": "Ten, the second candidate contrasted with nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Nine or ten?",
+              "explanation": {
+                "ja": "二つの数を or で結ぶ短い選択疑問です。前の集合時刻の話を受けているため、数の個数でなく、どちらの時刻かを尋ねていると分かります。",
+                "en": "The two numbers joined by or form a short alternative question. The meeting-time context establishes that they denote hours rather than quantities."
+              }
+            },
+            {
+              "point": "文の省略",
+              "explanation": {
+                "ja": "Is it at nine or at ten? のような文の、文脈で分かる部分を省いています。本文には主語も動詞もありませんが、会話では候補だけを挙げて自然に確認できます。",
+                "en": "Contextually known material from a fuller question such as Is it at nine or at ten? is omitted. Despite having no subject or verb, the alternatives alone naturally clarify the time."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "答えでは At nine のように時刻を特定できます。本文自体は午前・午後を追加せず、直前の予定について九時か十時かを聞き直しています。",
+              "en": "A reply such as At nine selects the time. The question adds no a.m. or p.m. information; it checks nine versus ten in the previously announced arrangement."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿A las nueve o a las diez?",
+          "ttsText": "¿A las nueve o a las diez?",
+          "vocabulary": [
+            {
+              "term": "A las nueve",
+              "meaning": {
+                "ja": "九時に。a と女性複数の定冠詞 las を使う時刻の句です。",
+                "en": "At nine, a clock-time phrase with a and feminine plural las."
+              }
+            },
+            {
+              "term": "o",
+              "meaning": {
+                "ja": "それとも。二つの候補のどちらかを尋ねる接続詞です。",
+                "en": "Or, a conjunction presenting alternatives."
+              }
+            },
+            {
+              "term": "a las diez",
+              "meaning": {
+                "ja": "十時に。九時に対して確認するもう一つの時刻です。",
+                "en": "At ten, the other hour being checked against nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "¿A las nueve o a las diez?",
+              "explanation": {
+                "ja": "同じ形の二つの時刻句を o で結び、どちらが正しいかを尋ねます。後半にも a las を繰り返し、各時刻を並行する候補として示しています。",
+                "en": "O joins two matching time phrases to ask which is correct. Repeating a las in the second phrase presents the hours as parallel alternatives."
+              }
+            },
+            {
+              "point": "集合の動詞を省略する",
+              "explanation": {
+                "ja": "前の nos reunimos という案内を受けているので、動詞と主語を繰り返していません。時刻を表す前置詞句だけでも、会話上の確認の質問として成立します。",
+                "en": "The preceding nos reunimos announcement supplies subject and verb, which are not repeated. The time prepositional phrases alone make a contextual clarification question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この o はまたはという選択を表し、九時から十時までという時間帯ではありません。答えは A las nueve など一方の時刻を示すと明確です。",
+              "en": "O marks a choice, not an interval from nine to ten. Selecting one time, such as A las nueve, gives a clear answer."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "À neuf heures ou à dix heures ?",
+          "ttsText": "À neuf heures ou à dix heures ?",
+          "vocabulary": [
+            {
+              "term": "À neuf heures",
+              "meaning": {
+                "ja": "九時に。à が時計の時刻を導きます。",
+                "en": "At nine, with à introducing the clock time."
+              }
+            },
+            {
+              "term": "ou",
+              "meaning": {
+                "ja": "それとも。二つの時刻を選択肢として結ぶ接続詞です。",
+                "en": "Or, the conjunction linking two time alternatives."
+              }
+            },
+            {
+              "term": "à dix heures",
+              "meaning": {
+                "ja": "十時に。九時と区別して確認する時刻句です。",
+                "en": "At ten, the time phrase contrasted with nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "À neuf heures ou à dix heures ?",
+              "explanation": {
+                "ja": "二つの前置詞句を ou で結んで確認します。neuf と dix はそれぞれ heures の数を指定し、二つの時刻のどちらかを求める質問です。",
+                "en": "Ou joins the two prepositional phrases for clarification. Neuf and dix each specify heures, and the question requests one of the two clock times."
+              }
+            },
+            {
+              "point": "動詞・主語の省略",
+              "explanation": {
+                "ja": "前の on se retrouve の予定が共有されているため、その主語と動詞を繰り返していません。時刻句だけを挙げることで、聞き取りたい部分に焦点を置いています。",
+                "en": "The preceding on se retrouve arrangement supplies the subject and verb, which are omitted. Giving only the time phrases focuses on the part needing clarification."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "選択の ou はアクセント記号なしです。場所を尋ねる où と区別し、ここではどこで集まるかでなく、九時か十時かを尋ねています。",
+              "en": "Choice conjunction ou has no accent. It differs from place interrogative où: the question asks nine versus ten, not where to meet."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Um neun oder um zehn?",
+          "ttsText": "Um neun oder um zehn?",
+          "vocabulary": [
+            {
+              "term": "Um neun",
+              "meaning": {
+                "ja": "九時に。um は時計の時刻を示す前置詞です。",
+                "en": "At nine, with um marking the clock hour."
+              }
+            },
+            {
+              "term": "oder",
+              "meaning": {
+                "ja": "それとも。二つの時刻を候補として結びます。",
+                "en": "Or, connecting two candidate times."
+              }
+            },
+            {
+              "term": "um zehn",
+              "meaning": {
+                "ja": "十時に。九時と並べて確認する時刻の句です。",
+                "en": "At ten, the time phrase offered alongside nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Um neun oder um zehn?",
+              "explanation": {
+                "ja": "二つの um の句を oder で結び、集合がどちらの時刻かを尋ねます。Uhr は時刻の文脈で分かるため省かれていますが、九時間・十時間の長さではありません。",
+                "en": "Oder joins two um phrases to ask which meeting hour is intended. Uhr is recoverable and omitted; the numbers are not durations of nine or ten hours."
+              }
+            },
+            {
+              "point": "省略された予定の文",
+              "explanation": {
+                "ja": "前の Wir treffen uns ... の主語・動詞を繰り返さず、確認したい時間句だけを残しています。独立した完全な平叙文ではなく、会話の中の短い選択疑問です。",
+                "en": "The answer omits subject and verb from preceding Wir treffen uns ..., retaining only the time phrases needing clarification. It is a short contextual alternative question rather than a full declarative sentence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "oder は候補を結ぶので、九時から十時までという範囲を示す von ... bis ... とは違います。返答は Um neun Uhr など、一方の時刻を選んで示せます。",
+              "en": "Oder links alternatives, unlike an interval with von ... bis .... A reply can select one time, such as Um neun Uhr."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "В девять или в десять?",
+          "ttsText": "В девять или в десять?",
+          "vocabulary": [
+            {
+              "term": "В девять",
+              "meaning": {
+                "ja": "九時に。в と девять で時計の時刻を表します。",
+                "en": "At nine, expressing a clock hour with в and девять."
+              }
+            },
+            {
+              "term": "или",
+              "meaning": {
+                "ja": "それとも。二つの候補を結ぶ接続詞です。",
+                "en": "Or, a conjunction linking alternatives."
+              }
+            },
+            {
+              "term": "в десять",
+              "meaning": {
+                "ja": "十時に。九時と区別して聞き返すもう一つの時刻です。",
+                "en": "At ten, the other clock time being checked against nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "В девять или в десять?",
+              "explanation": {
+                "ja": "同じ形の二つの時間句を или で結び、どちらの時刻かを確認します。時刻を導く в を後半にも付け、二つの候補を並べています。",
+                "en": "Или joins two matching time phrases to clarify which hour. В is repeated in the second phrase to present parallel candidates."
+              }
+            },
+            {
+              "point": "動詞を省いた確認",
+              "explanation": {
+                "ja": "前の встречаемся という集合の話題があるので、誰が何をするかを繰り返していません。具体的な時刻の候補だけを言うことで、聞き間違いの可能性を確かめます。",
+                "en": "The preceding встречаемся supplies who is doing what, so it is not repeated. Giving just the candidate hours checks a possible mishearing."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "или は選択肢を示し、九時から十時までという時間の範囲ではありません。В девять のように一方の時刻を答えると、どちらが正しいかが明確になります。",
+              "en": "Или marks alternatives, not a period from nine to ten. A reply such as В девять clearly selects the correct hour."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "في التاسعة أم في العاشرة؟",
+          "ttsText": "في التاسعة أم في العاشرة؟",
+          "vocabulary": [
+            {
+              "term": "في التاسعة",
+              "meaning": {
+                "ja": "九時に。في に女性形の序数 التاسعة を続けています。",
+                "en": "At nine, with في followed by feminine ordinal التاسعة."
+              }
+            },
+            {
+              "term": "أم",
+              "meaning": {
+                "ja": "それとも。疑問の中で二つの候補を対比します。",
+                "en": "Or, contrasting two alternatives within a question."
+              }
+            },
+            {
+              "term": "في العاشرة",
+              "meaning": {
+                "ja": "十時に。こちらも女性形の序数で時刻を表します。",
+                "en": "At ten, likewise using a feminine ordinal to express the hour."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "التاسعة と العاشرة",
+              "explanation": {
+                "ja": "時刻の الساعة が省かれ、女性形の序数だけで九時・十時を表しています。في の後の句は、前の集合の案内から時計の時刻だと分かります。",
+                "en": "الساعة is understood and omitted, leaving feminine ordinals for nine and ten. Context from the meeting announcement identifies the phrases after في as clock times."
+              }
+            },
+            {
+              "point": "候補を結ぶ أم",
+              "explanation": {
+                "ja": "أم を二つの時刻句の間に置き、九時なのか十時なのかと聞き返します。前の案内で集合の行為は共有されているので、本文には主語や集合の動詞を繰り返していません。",
+                "en": "أم between the two time phrases asks whether nine or ten is intended. The prior announcement supplies the gathering, so the subject and meeting verb are not repeated."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "九時か十時かを選ぶ質問で、九時から十時までという長さ・範囲ではありません。答えでは في التاسعة など一方の時刻を明示できます。",
+              "en": "This asks for a choice between nine and ten, not an interval from nine to ten. A reply can explicitly select one, such as في التاسعة."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fī at-tāsiʿati ʾam fī al-ʿāshirati?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-ʿāshirati → al-ʿāshirah。 fī at-tāsiʿati は連読すると fī t-tāsiʿati とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-ʿāshirati → al-ʿāshirah. In connected speech, fī at-tāsiʿati is linked as fī t-tāsiʿati."
+            }
+          }
+        },
+        "zh": {
+          "text": "是九点还是十点？",
+          "ttsText": "是九点还是十点？",
+          "vocabulary": [
+            {
+              "term": "是九点",
+              "meaning": {
+                "ja": "九時である。是 を用い、候補の時刻を提示します。",
+                "en": "Is nine o’clock, using 是 to present a candidate time."
+              }
+            },
+            {
+              "term": "还是",
+              "meaning": {
+                "ja": "それとも。疑問文で候補を並べる接続表現です。",
+                "en": "Or, a connector presenting alternatives in a question."
+              }
+            },
+            {
+              "term": "十点",
+              "meaning": {
+                "ja": "十時。九時と区別して確かめたいもう一つの時刻です。",
+                "en": "Ten o’clock, the other hour contrasted with nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "是 A 还是 B",
+              "explanation": {
+                "ja": "是九点还是十点 と、二つの時刻から正しいものを尋ねます。選択疑問の 还是 を使い、平叙文で選択肢を挙げる 或者 と機械的に置き換えない形です。",
+                "en": "是九点还是十点 asks which of the two hours is correct. It uses interrogative alternative connector 还是, rather than mechanically substituting declarative alternative 或者."
+              }
+            },
+            {
+              "point": "吗 を加えない選択疑問",
+              "explanation": {
+                "ja": "还是 が選択の質問を作るため、文末の 吗 は不要です。集合の話題は前の文から分かり、本文では二つの時刻だけを直接対比しています。",
+                "en": "还是 supplies the alternative question, so final 吗 is unnecessary. The gathering is understood from the preceding sentence, leaving the two hours in direct contrast."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "答えは 九点 のように時刻を選べます。本文の二つの 点 は時計の時を示し、九点から十点までという時間帯や、数の多少を尋ねているわけではありません。",
+              "en": "A reply can choose the time, such as 九点. Both instances of 点 mark clock hours, not a nine-to-ten interval or a question about quantity."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shì jiǔ diǎn háishi shí diǎn?",
+            "note": {
+              "ja": "この文では、発音時に jiǔ diǎn → jiú diǎn となります。",
+              "en": "In this sentence, the spoken forms are jiǔ diǎn → jiú diǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "아홉 시인가요, 열 시인가요?",
+          "ttsText": "아홉 시인가요, 열 시인가요?",
+          "vocabulary": [
+            {
+              "term": "아홉 시",
+              "meaning": {
+                "ja": "九時。固有数詞 아홉 と、時刻の 시 を使います。",
+                "en": "Nine o’clock, with native numeral 아홉 and hour marker 시."
+              }
+            },
+            {
+              "term": "열 시",
+              "meaning": {
+                "ja": "十時。열 は固有数詞の十で、時刻の数として使います。",
+                "en": "Ten o’clock, with native numeral 열 for the clock hour."
+              }
+            },
+            {
+              "term": "-인가요",
+              "meaning": {
+                "ja": "ですか。名詞に続けて丁寧に確認する疑問の形です。",
+                "en": "Is it, a polite questioning form attached to a noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "아홉 시인가요、열 시인가요",
+              "explanation": {
+                "ja": "二つの時刻にそれぞれ -인가요 を付け、どちらが正しいかを確かめます。接続詞のまたはを必ず挟まず、二つの質問を並べて選択を求めています。",
+                "en": "Each hour takes -인가요 to check which is correct. The two questions are placed side by side to request a choice without necessarily inserting a separate word for or."
+              }
+            },
+            {
+              "point": "名詞 + 이다 の疑問",
+              "explanation": {
+                "ja": "時刻の名詞句に 이다 をもとにした -인가요 を続けています。문을 여나요 のような動作の動詞でなく、時刻が九時か十時かという名詞の内容を確認する形です。",
+                "en": "The time noun phrases take -인가요, based on 이다. Unlike an action verb in 문을 여나요, it checks a noun value: whether the hour is nine or ten."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "集合の話題と参加者は省かれ、確認したい時刻に焦点を置いています。아홉 시예요 のように一方の時刻を答えると、どちらなのかが明確になります。",
+              "en": "The gathering and participants are omitted to focus on the time needing clarification. A reply such as 아홉 시예요 makes the correct choice clear."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "九時です。",
+          "ttsText": "くじです。",
+          "vocabulary": [
+            {
+              "term": "九時",
+              "meaning": {
+                "ja": "時計の九時。前の二つの候補から、九時を選んで確認しています。",
+                "en": "Nine o’clock, selecting nine from the two preceding alternatives."
+              }
+            },
+            {
+              "term": "です",
+              "meaning": {
+                "ja": "名詞の内容を丁寧に言い切る語。ここでは集合時刻を答えます。",
+                "en": "A polite copular ending, here stating the meeting time."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "九時 + です",
+              "explanation": {
+                "ja": "時刻の名詞 九時 に です を続け、九時が正しいと答えます。疑問の か を付けないので、もう一度質問するのでなく時刻を確定する返答です。",
+                "en": "です follows time noun 九時 to confirm nine as correct. Without question particle か, this states the time rather than asking again."
+              }
+            },
+            {
+              "point": "集合の話題を省く",
+              "explanation": {
+                "ja": "前の 九時ですか、十時ですか に応じ、集合時刻は に当たる部分を繰り返していません。共有された話題を省いても、どちらの時刻かという質問に直接答えられます。",
+                "en": "The reply to 九時ですか、十時ですか omits the understood topic, the meeting time. This directly answers which hour without repeating the shared context."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は九時を選ぶ返答で、集合の場所や午前・午後は補っていません。確認したい点が他にもあれば、時刻とは別に尋ねる必要があります。",
+              "en": "The reply selects nine without adding a place or a.m. versus p.m. Any other missing details require separate clarification."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "At nine.",
+          "ttsText": "At nine.",
+          "vocabulary": [
+            {
+              "term": "At",
+              "meaning": {
+                "ja": "時刻の前に使う前置詞。ここでは集合する時点を示します。",
+                "en": "The preposition for a clock time, here marking when the meeting occurs."
+              }
+            },
+            {
+              "term": "nine",
+              "meaning": {
+                "ja": "九時。前の Nine or ten? から選ばれた時刻です。",
+                "en": "Nine o’clock, selected from the preceding Nine or ten?."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "At + nine",
+              "explanation": {
+                "ja": "時計の時刻を at nine という前置詞句で答えています。前の短い質問には at がなくても、答えでは時点を示す at を付けた自然な形です。",
+                "en": "The answer is clock-time prepositional phrase at nine. Although the short preceding question lacks at, the reply naturally includes it to mark the time."
+              }
+            },
+            {
+              "point": "文脈に依存する短い返答",
+              "explanation": {
+                "ja": "We’re meeting at nine の主語と動詞を省いた形として理解できます。前の会話が集合を示すため、この句だけで何の時刻かが分かります。",
+                "en": "This can be understood with subject and verb omitted from We’re meeting at nine. The preceding dialogue identifies the meeting, so the phrase alone supplies its time."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "nine はここでは数の九個でなく時計の九時です。本文には in the morning などがないため、午前・午後の区別は会話の共有情報に委ねられています。",
+              "en": "Nine denotes a clock hour, not nine items. With no in the morning or similar phrase, a.m. versus p.m. depends on shared context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "A las nueve.",
+          "ttsText": "A las nueve.",
+          "vocabulary": [
+            {
+              "term": "A las",
+              "meaning": {
+                "ja": "時計の時刻を導く a と定冠詞 las の組み合わせです。",
+                "en": "A plus article las, introducing a clock time."
+              }
+            },
+            {
+              "term": "nueve",
+              "meaning": {
+                "ja": "九。ここでは九時として理解する数詞です。",
+                "en": "Nine, interpreted here as nine o’clock."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "a + las nueve",
+              "explanation": {
+                "ja": "時刻を a las nueve として示します。las は時間の horas が背景にある女性複数の形で、本文では nueve の前に置いて九時を表しています。",
+                "en": "The time is expressed as a las nueve. Feminine plural las reflects understood horas and precedes nueve in this clock-time phrase."
+              }
+            },
+            {
+              "point": "省略した集合の文",
+              "explanation": {
+                "ja": "前の ¿A las nueve o a las diez? に対し、正しい候補だけを返します。nos reunimos を繰り返さなくても、集合が九時だと明確に分かります。",
+                "en": "The reply returns only the correct candidate from ¿A las nueve o a las diez?. It makes the meeting time clear without repeating nos reunimos."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "九時からという起点や九時間の長さを述べる文ではなく、集合の時点を示します。午前・午後や場所についての新しい情報は加えていません。",
+              "en": "This gives the meeting point in time, not a starting interval or a nine-hour duration. It adds no morning/evening or location information."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "À neuf heures.",
+          "ttsText": "À neuf heures.",
+          "vocabulary": [
+            {
+              "term": "À",
+              "meaning": {
+                "ja": "時計の時刻を導く前置詞です。",
+                "en": "The preposition introducing a clock time."
+              }
+            },
+            {
+              "term": "neuf heures",
+              "meaning": {
+                "ja": "九時。neuf の後ろで heure を複数の heures にします。",
+                "en": "Nine o’clock, with plural heures after neuf."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "à + neuf heures",
+              "explanation": {
+                "ja": "前置詞 à に、数と時間名詞の neuf heures を続けます。時刻の質問に答える形で、九時間の長さを述べる表現ではありません。",
+                "en": "À takes number-plus-hour phrase neuf heures. This answers a time question rather than giving a duration of nine hours."
+              }
+            },
+            {
+              "point": "二つの候補から選ぶ返答",
+              "explanation": {
+                "ja": "前の À neuf heures ou à dix heures ? から、九時の句だけを返しています。on se retrouve という集合の部分は共有されているため省略できます。",
+                "en": "The reply selects the nine-o’clock phrase from À neuf heures ou à dix heures ?. The shared on se retrouve meeting clause can be omitted."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この返答は聞き取った時刻を確定します。du matin や du soir はないので、午前・午後の区別を新たに明示する文ではありません。",
+              "en": "The reply confirms the hour being clarified. It adds no du matin or du soir, so it does not newly specify morning versus evening."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Um neun Uhr.",
+          "ttsText": "Um neun Uhr.",
+          "vocabulary": [
+            {
+              "term": "Um",
+              "meaning": {
+                "ja": "時計の時刻を示す前置詞です。",
+                "en": "The preposition marking a clock time."
+              }
+            },
+            {
+              "term": "neun Uhr",
+              "meaning": {
+                "ja": "九時。時計の時刻ではこの形の Uhr を使います。",
+                "en": "Nine o’clock, using Uhr in this clock-time construction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "um + neun Uhr",
+              "explanation": {
+                "ja": "um の後ろに neun Uhr を置き、集合の時点を示します。数が九でも時刻の Uhr は Uhren にせず、九時間の neun Stunden と区別します。",
+                "en": "Um takes neun Uhr to give the meeting time. Clock-time Uhr does not become Uhren after nine and differs from duration neun Stunden."
+              }
+            },
+            {
+              "point": "省略された主語と動詞",
+              "explanation": {
+                "ja": "Wir treffen uns um neun Uhr のうち、確認したい時間句だけを返しています。前の Um neun oder um zehn? に対して九時を選ぶ、会話の短い応答です。",
+                "en": "Only the time phrase from Wir treffen uns um neun Uhr is supplied. It is a short contextual reply selecting nine from Um neun oder um zehn?."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文の返答は時刻を確認し、日付や集合場所は繰り返していません。午前か夜かも明示していないため、それらは前後の文脈で判断します。",
+              "en": "The reply confirms the hour without restating the date or meeting place. Morning versus evening is also left to context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "В девять.",
+          "ttsText": "В девять.",
+          "vocabulary": [
+            {
+              "term": "В",
+              "meaning": {
+                "ja": "時計の時刻を導く前置詞です。",
+                "en": "The preposition introducing a clock time."
+              }
+            },
+            {
+              "term": "девять",
+              "meaning": {
+                "ja": "九。本文では時計の九時として使います。",
+                "en": "Nine, used as a clock hour here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "в + девять",
+              "explanation": {
+                "ja": "前置詞 в と数詞 девять だけで九時にと表せます。集合の時点への返答であり、九時間の長さを報告しているのではありません。",
+                "en": "В with numeral девять expresses at nine. It answers when the gathering occurs rather than reporting a nine-hour duration."
+              }
+            },
+            {
+              "point": "前の質問を受ける省略",
+              "explanation": {
+                "ja": "В девять или в десять? に対し、一方の時刻句だけで応答します。встречаемся などの動詞と主語は共有されているので、本文では繰り返しません。",
+                "en": "The reply gives one time phrase from В девять или в десять?. The meeting verb and subject are shared context and need not be repeated."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "девять はここでは時刻を指しますが、утра や вечера は付いていません。朝か夜かを新たに指定せず、前の案内の九時を確認しています。",
+              "en": "Девять denotes the hour here, without утра or вечера. The reply confirms the previously announced nine rather than newly specifying morning or evening."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "في التاسعة.",
+          "ttsText": "في التاسعة.",
+          "vocabulary": [
+            {
+              "term": "في",
+              "meaning": {
+                "ja": "ここでは時刻を導く前置詞です。",
+                "en": "The preposition introducing the clock time here."
+              }
+            },
+            {
+              "term": "التاسعة",
+              "meaning": {
+                "ja": "第九の。時刻の الساعة が分かるので、女性形の序数だけで九時を示します。",
+                "en": "The ninth, a feminine ordinal denoting nine o’clock with الساعة understood."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "في + التاسعة",
+              "explanation": {
+                "ja": "時刻を表す الساعة を省いて في التاسعة と答えています。女性形の序数は省略された الساعة に対応し、前置詞の後なので属格の句になります。",
+                "en": "The answer omits الساعة in في التاسعة. The feminine ordinal matches understood الساعة and is genitive after the preposition."
+              }
+            },
+            {
+              "point": "集合の文を省略する",
+              "explanation": {
+                "ja": "直前の二択の質問から、正しい時刻の句だけを返しています。誰が何をするかは前の集合の案内から分かるため、独立した主語や動詞は書いていません。",
+                "en": "The reply selects the correct time phrase from the preceding alternatives. The prior meeting announcement supplies who does what, so no separate subject or verb is written."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は九時の確認で、午前・午後や場所の追加情報はありません。九時から十時までといった時間帯でなく、集合の一つの時点を答えています。",
+              "en": "This confirms nine without adding morning/evening or location. It gives a meeting point in time rather than an interval such as nine to ten."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fī at-tāsiʿati.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：at-tāsiʿati → at-tāsiʿah。 fī at-tāsiʿati は連読すると fī t-tāsiʿati とつながります。",
+              "en": "Pausal forms at the sentence breaks here: at-tāsiʿati → at-tāsiʿah. In connected speech, fī at-tāsiʿati is linked as fī t-tāsiʿati."
+            }
+          }
+        },
+        "zh": {
+          "text": "九点。",
+          "ttsText": "九点。",
+          "vocabulary": [
+            {
+              "term": "九",
+              "meaning": {
+                "ja": "九。直前の二つの候補から選ぶ時刻の数です。",
+                "en": "Nine, the hour number selected from the two preceding alternatives."
+              }
+            },
+            {
+              "term": "点",
+              "meaning": {
+                "ja": "時計の時を表す語。九点 で九時になります。",
+                "en": "The clock-hour marker, giving nine o’clock in 九点."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "九 + 点",
+              "explanation": {
+                "ja": "数の 九 に時計の時を表す 点 を付け、九時を示します。点 はここでは点や箇所という一般名詞の意味ではなく、時刻の単位です。",
+                "en": "九 combines with clock-hour 点 to express nine o’clock. 点 here marks the hour, not a general point or spot."
+              }
+            },
+            {
+              "point": "動詞・主語を省いた応答",
+              "explanation": {
+                "ja": "是九点还是十点？ に対し、九点 だけで正しい候補を示せます。是 や 集合 を繰り返さなくても、会話の中で集合時刻への回答と分かります。",
+                "en": "九点 alone selects the correct candidate from 是九点还是十点？. Repeating 是 or 集合 is unnecessary because the dialogue identifies the meeting-time answer."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文には 上午・晚上 などの時間帯の語がありません。九時を確認する短い返答なので、午前・午後や場所は別の共有情報から判断します。",
+              "en": "The text has no period word such as 上午 or 晚上. It briefly confirms nine, leaving morning/evening and location to other shared context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Jiǔ diǎn.",
+            "note": {
+              "ja": "この文では、発音時に Jiǔ diǎn → Jiú diǎn となります。",
+              "en": "In this sentence, the spoken forms are Jiǔ diǎn → Jiú diǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "아홉 시예요.",
+          "ttsText": "아홉 시예요.",
+          "vocabulary": [
+            {
+              "term": "아홉 시",
+              "meaning": {
+                "ja": "九時。時刻の 시 に固有数詞 아홉 を組み合わせます。",
+                "en": "Nine o’clock, combining native numeral 아홉 with hour marker 시."
+              }
+            },
+            {
+              "term": "-예요",
+              "meaning": {
+                "ja": "です。母音で終わる名詞の後に付く丁寧な会話の形です。",
+                "en": "The polite conversational copular ending after a vowel-final noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "시 + 예요",
+              "explanation": {
+                "ja": "시 は母音で終わるため、丁寧な叙述の形は 시예요 です。前の 시인가요 という質問に対し、答えでは叙述の語尾へ替えて時刻を確定します。",
+                "en": "Vowel-final 시 takes polite declarative 예요, giving 시예요. The answer changes interrogative 시인가요 to a declarative ending to confirm the time."
+              }
+            },
+            {
+              "point": "共有された集合の話題",
+              "explanation": {
+                "ja": "前の 아홉 시인가요, 열 시인가요? に対して、九時の名詞句だけで答えています。集合の主語や動作は会話から分かるため、繰り返していません。",
+                "en": "The reply supplies the nine-o’clock noun phrase for 아홉 시인가요, 열 시인가요?. The gathering’s subject and action are understood and not repeated."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "아홉 시 は九時という時刻で、아홉 시간 の九時間とは違います。本文は午前・午後を追加せず、九時か十時かという確認に答えています。",
+              "en": "아홉 시 is nine o’clock, unlike duration 아홉 시간. The reply answers nine versus ten without newly specifying morning or evening."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "もう少しゆっくり話していただけますか。",
+          "ttsText": "もうすこしゆっくりはなしていただけますか。",
+          "vocabulary": [
+            {
+              "term": "もう少し",
+              "meaning": {
+                "ja": "今よりさらに少し。速さを変えてほしい程度を控えめに示します。",
+                "en": "A little more, moderating the requested change from the current pace."
+              }
+            },
+            {
+              "term": "ゆっくり",
+              "meaning": {
+                "ja": "速さを落として。ここでは話す動作の仕方を示す副詞です。",
+                "en": "Slowly, an adverb describing how the listener should speak here."
+              }
+            },
+            {
+              "term": "話していただけますか",
+              "meaning": {
+                "ja": "話す行為をしてもらえるかと、へりくだって丁寧に依頼する形です。",
+                "en": "A humble, polite request asking whether the listener could speak for the speaker."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "もう少し + ゆっくり",
+              "explanation": {
+                "ja": "もう少し が、今の話し方より速さを少し下げるよう求めます。話す量を減らすのではなく、ゆっくり という動作の仕方の程度を調整しています。",
+                "en": "もう少し requests a small reduction in the current speaking pace. It modifies how slowly the action is done rather than asking for less content."
+              }
+            },
+            {
+              "point": "話す → 話していただけますか",
+              "explanation": {
+                "ja": "て形 話して に いただく の可能・丁寧疑問の形を続けます。相手の行為を自分が受けるものとして表すことで、直接 話してください と言うより控えめに依頼します。",
+                "en": "Te-form 話して is followed by the potential polite question of いただく. Presenting the listener’s action as a favor received makes the request more deferential than directly saying 話してください."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "聞き取るのに速すぎるときに使えます。同じ文を必ず最初から繰り返してほしいとは述べず、以後の話し方の速さを調整してもらう依頼です。",
+              "en": "This works when the pace is too fast to follow. It asks for a slower speaking pace, without necessarily requesting that the same sentence be repeated from the beginning."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Could you speak a little more slowly?",
+          "ttsText": "Could you speak a little more slowly?",
+          "vocabulary": [
+            {
+              "term": "Could you speak",
+              "meaning": {
+                "ja": "話していただけますか。could と原形 speak を使った丁寧な依頼です。",
+                "en": "Could you speak, a polite request with could and base speak."
+              }
+            },
+            {
+              "term": "a little",
+              "meaning": {
+                "ja": "少し。後ろの比較の程度を小さくする表現です。",
+                "en": "A little, moderating the size of the following comparison."
+              }
+            },
+            {
+              "term": "more slowly",
+              "meaning": {
+                "ja": "もっとゆっくり。副詞 slowly の比較の形です。",
+                "en": "More slowly, the comparative form of adverb slowly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Could + you + speak ...?",
+              "explanation": {
+                "ja": "法助動詞 could を主語の前に置き、後ろは原形 speak にします。ここでは過去に話せたかでなく、現在の相手への依頼を丁寧にする用法です。",
+                "en": "Could precedes the subject and takes base speak. Here it makes a current request polite rather than asking about past speaking ability."
+              }
+            },
+            {
+              "point": "a little + more slowly",
+              "explanation": {
+                "ja": "speak を修飾する副詞 slowly を more slowly にし、今より遅くという比較を表します。a little はその差を小さくし、少しだけ速さを下げてほしいと伝えます。",
+                "en": "Comparative adverb more slowly modifies speak relative to the current pace. A little reduces the requested difference, asking for only a small slowing down."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "speak は話す動作を述べ、本文には話す内容の目的語はありません。声の大きさや別の言語への切り替えを求めるのではなく、速さの調整を求めています。",
+              "en": "Speak denotes the speaking action without an expressed content object. The request concerns pace rather than volume or switching languages."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Podría hablar un poco más despacio?",
+          "ttsText": "¿Podría hablar un poco más despacio?",
+          "vocabulary": [
+            {
+              "term": "Podría",
+              "meaning": {
+                "ja": "poder の条件法。丁寧な usted への依頼を控えめにします。",
+                "en": "Conditional poder, softening a polite request to usted."
+              }
+            },
+            {
+              "term": "hablar",
+              "meaning": {
+                "ja": "話す。podría の後ろに置く不定詞です。",
+                "en": "To speak, the infinitive after podría."
+              }
+            },
+            {
+              "term": "un poco más despacio",
+              "meaning": {
+                "ja": "もう少しゆっくり。más despacio に un poco で程度を添えます。",
+                "en": "A little more slowly, with un poco moderating más despacio."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "¿Podría + hablar ...?",
+              "explanation": {
+                "ja": "条件法 podría に不定詞 hablar を続け、話してもらえるかと尋ねます。主語 usted は省かれていますが、この依頼では相手への丁寧な二人称として読みます。",
+                "en": "Conditional podría takes infinitive hablar to ask for the action. Subject usted is omitted but understood as the polite addressee in this request."
+              }
+            },
+            {
+              "point": "un poco + más despacio",
+              "explanation": {
+                "ja": "副詞 despacio に más を付けて今よりゆっくりと比較し、un poco でその差を控えめにします。話す速度を修飾する副詞なので、相手の性別による語尾変化はありません。",
+                "en": "Más makes despacio comparative, and un poco moderates the difference. The adverb modifies speaking pace without changing its ending for the listener’s gender."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "条件法はここでは丁寧さを表し、過去の場面を設定していません。声を大きくすることや、語彙を簡単にすることは本文では依頼していません。",
+              "en": "The conditional expresses politeness here without placing the request in the past. The text does not ask for a louder voice or simpler vocabulary."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Pourriez-vous parler un peu plus lentement ?",
+          "ttsText": "Pourriez-vous parler un peu plus lentement ?",
+          "vocabulary": [
+            {
+              "term": "Pourriez-vous",
+              "meaning": {
+                "ja": "していただけますか。pouvoir の条件法と主語 vous の倒置です。",
+                "en": "Could you, an inversion of conditional pouvoir and subject vous."
+              }
+            },
+            {
+              "term": "parler",
+              "meaning": {
+                "ja": "話す。pourriez の後の不定詞です。",
+                "en": "To speak, the infinitive following pourriez."
+              }
+            },
+            {
+              "term": "un peu plus lentement",
+              "meaning": {
+                "ja": "もう少しゆっくり。plus lentement という比較に un peu を添えます。",
+                "en": "A little more slowly, with un peu moderating comparative plus lentement."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Pourriez-vous + parler",
+              "explanation": {
+                "ja": "条件法 pourriez を主語 vous の前に置き、ハイフンでつなぎます。parler は不定詞で、条件法は今の依頼を丁寧にしています。",
+                "en": "Conditional pourriez precedes subject vous with a hyphen. Parler remains infinitive, and the conditional makes the current request polite."
+              }
+            },
+            {
+              "point": "plus lentement を un peu で調整する",
+              "explanation": {
+                "ja": "lentement は話す動作を修飾する副詞で、plus を付けて今より遅くと表します。un peu は少しだけという差を加え、相手に求める調整を和らげます。",
+                "en": "Adverb lentement modifies speaking, and plus makes it slower than the current pace. Un peu asks for only a small difference, softening the requested adjustment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "vous は丁寧な単数または複数の相手に使えます。lentement は副詞なので、相手の人数や性別に合わせて語尾を変えることはありません。",
+              "en": "Vous can address one person politely or several people. Lentement is an adverb and does not change its ending for the addressee’s number or gender."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Könnten Sie etwas langsamer sprechen?",
+          "ttsText": "Könnten Sie etwas langsamer sprechen?",
+          "vocabulary": [
+            {
+              "term": "Könnten Sie",
+              "meaning": {
+                "ja": "していただけますか。können の接続法II式による丁寧な質問です。",
+                "en": "Could you, a polite question using subjunctive II können."
+              }
+            },
+            {
+              "term": "etwas langsamer",
+              "meaning": {
+                "ja": "もう少しゆっくり。etwas が比較級 langsamer の差を控えめにします。",
+                "en": "A little more slowly, with etwas moderating comparative langsamer."
+              }
+            },
+            {
+              "term": "sprechen",
+              "meaning": {
+                "ja": "話す。法助動詞と組み合わせ、文末に置く不定詞です。",
+                "en": "To speak, the infinitive placed finally with the modal verb."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Könnten + Sie ... sprechen",
+              "explanation": {
+                "ja": "接続法II式の法助動詞が先頭、その後に主語 Sie が続きます。本動詞 sprechen は原形で文末に置かれ、相手に話す行為を丁寧に依頼しています。",
+                "en": "The subjunctive II modal comes first, followed by subject Sie. Lexical sprechen remains infinitive at the end, making a polite request for the listener’s speaking."
+              }
+            },
+            {
+              "point": "etwas + langsamer",
+              "explanation": {
+                "ja": "langsam の比較級 langsamer で今の話し方より遅くと示し、etwas で少しという程度を添えます。ここでは sprechen を修飾するため、名詞に一致する形容詞語尾は付きません。",
+                "en": "Comparative langsamer asks for a slower pace than now, and etwas adds a small degree. Modifying sprechen here, it takes no adjective agreement ending for a noun."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Könnten は過去の能力を問いただすのでなく、現在の依頼を和らげています。相手を表す Sie は丁寧な形で、人数が一人でも同じ können 系の形を使います。",
+              "en": "Könnten softens the present request rather than questioning past ability. Polite Sie takes the same modal form even for one addressee."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Не могли бы вы говорить немного медленнее?",
+          "ttsText": "Не могли бы вы говорить немного медленнее?",
+          "vocabulary": [
+            {
+              "term": "Не могли бы вы",
+              "meaning": {
+                "ja": "していただけませんか。否定疑問と бы で依頼を和らげる定型です。",
+                "en": "Could you, a negative question with бы used to soften a request."
+              }
+            },
+            {
+              "term": "говорить",
+              "meaning": {
+                "ja": "話す。不完了体の不定詞で、続く話し方を調整してほしいと求めます。",
+                "en": "To speak, an imperfective infinitive requesting an adjustment in ongoing speaking."
+              }
+            },
+            {
+              "term": "немного медленнее",
+              "meaning": {
+                "ja": "もう少しゆっくり。немного が比較の差を小さくします。",
+                "en": "A little more slowly, with немного moderating the comparative difference."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "не могли бы + вы + говорить",
+              "explanation": {
+                "ja": "могли と бы の仮定的な形に не を合わせ、丁寧に可能性を尋ねます。形の上では過去の語幹でも、ここでは今からの話し方を変えてほしいという依頼です。",
+                "en": "The hypothetical могли бы combines with не to ask politely about possibility. Despite the past-form stem, it requests a change in speaking from now on."
+              }
+            },
+            {
+              "point": "говорить + медленнее",
+              "explanation": {
+                "ja": "不完了体 говорить が話す行為の進め方を述べ、比較の медленнее が今より遅い速さを示します。немного が少しという差を加え、調整を控えめにします。",
+                "en": "Imperfective говорить frames how the speaking proceeds, and comparative медленнее asks for a slower pace. Немного makes the requested change small."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "繰り返してという完了体の повторить とは依頼の焦点が違い、本文は話す速さに注目します。вы への могли は、丁寧な一人にも複数にも使えます。",
+              "en": "The focus differs from perfective повторить, repeat: this requests a speaking pace. Могли with вы can address one person politely or several people."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكنك أن تتكلم ببطء أكثر قليلا؟",
+          "ttsText": "هل يمكنك أن تتكلم ببطء أكثر قليلا؟",
+          "vocabulary": [
+            {
+              "term": "هل يمكنك",
+              "meaning": {
+                "ja": "できますか。可能を尋ねる形で、相手への依頼を導きます。",
+                "en": "Can you, a possibility question introducing the request."
+              }
+            },
+            {
+              "term": "أن تتكلم",
+              "meaning": {
+                "ja": "話すこと。أن の後に話す動詞を続けています。",
+                "en": "To speak, with أن introducing the speaking verb."
+              }
+            },
+            {
+              "term": "ببطء أكثر قليلا",
+              "meaning": {
+                "ja": "もう少しゆっくり。ببطء は遅い速さ、أكثر は比較、قليلا は少しを示します。",
+                "en": "A little more slowly: ببطء gives slowness, أكثر comparison, and قليلا a small degree."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "يمكنك + أن تتكلم",
+              "explanation": {
+                "ja": "可能を表す يمكنك に أن と動詞を続け、求める行為を示します。既存の読み tatakallama は أن の後の接続法で、男性単数の相手への形です。",
+                "en": "يمكنك expresses possibility and takes أن plus the requested action. Supplied tatakallama is subjunctive after أن and addresses one male listener."
+              }
+            },
+            {
+              "point": "ببطء + أكثر + قليلا",
+              "explanation": {
+                "ja": "بـ を付けた بطء でゆっくりという動作の仕方を述べ、أكثر で今より遅くと比較します。قليلا は少しという差を添え、依頼する変化を小さくしています。",
+                "en": "بـ with بطء expresses speaking with slowness, and أكثر makes it more so than now. قليلا adds a small degree, moderating the requested change."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は話す速度についての依頼で、同じ内容を必ず最初から繰り返すとは述べていません。声を大きくしてほしい場合とも、求める調整が違います。",
+              "en": "The request concerns speaking speed, without necessarily asking for repetition from the beginning. It also differs from requesting greater volume."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinuka ʾan tatakallama bibuṭʾin ʾakthara qalīlan?",
+            "note": {
+              "ja": "yumkinuka / tatakallama は男性一人に話す形です。女性一人に話す場合は yumkinuki / tatakallamī になります。 この文で区切って読むときの休止形：qalīlan → qalīlā。",
+              "en": "yumkinuka / tatakallama addresses one man; use yumkinuki / tatakallamī when addressing one woman. Pausal forms at the sentence breaks here: qalīlan → qalīlā."
+            }
+          }
+        },
+        "zh": {
+          "text": "您能说慢一点吗？",
+          "ttsText": "您能说慢一点吗？",
+          "vocabulary": [
+            {
+              "term": "您能",
+              "meaning": {
+                "ja": "あなたはできますか。丁寧な 您 と可能の 能 を組み合わせます。",
+                "en": "Can you, combining respectful 您 and possibility modal 能."
+              }
+            },
+            {
+              "term": "说慢",
+              "meaning": {
+                "ja": "ゆっくり話す。说 の後ろの 慢 が、話す速さを示します。",
+                "en": "Speak slowly, with 慢 after 说 describing the speaking pace."
+              }
+            },
+            {
+              "term": "一点",
+              "meaning": {
+                "ja": "少し。ここでは遅さを少し増すよう求める程度表現です。",
+                "en": "A little, a degree expression requesting a small increase in slowness here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "说 + 慢一点",
+              "explanation": {
+                "ja": "動詞 说 の後ろに 慢一点 を置き、話す速さを今より少し遅くしてほしいと伝えます。一点 は話す内容が少ないという目的語でなく、慢 の程度を調整しています。",
+                "en": "慢一点 follows verb 说 and requests a slightly slower pace than now. 一点 modifies the degree of 慢, not a content object meaning a little to say."
+              }
+            },
+            {
+              "point": "能 ... 吗 による依頼",
+              "explanation": {
+                "ja": "能 を動詞句の前、疑問の 吗 を文末に置いて可能を尋ねます。この場面では単なる能力確認でなく、相手に速度を変えてもらう依頼として使います。",
+                "en": "能 before the verb phrase and final 吗 ask about possibility. In this situation the question requests a pace change rather than merely testing ability."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文に 再 や 一遍 はなく、同じ内容をもう一度言うことは明示していません。現在の速さを踏まえて、以後を少しゆっくり話すよう求める表現です。",
+              "en": "There is no 再 or 一遍 explicitly requesting repetition. The expression asks for slightly slower speaking relative to the current pace."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín néng shuō màn yīdiǎn ma?",
+            "note": {
+              "ja": "この文では、発音時に yīdiǎn → yìdiǎn となります。",
+              "en": "In this sentence, the spoken forms are yīdiǎn → yìdiǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "조금만 더 천천히 말씀해 주시겠어요?",
+          "ttsText": "조금만 더 천천히 말씀해 주시겠어요?",
+          "vocabulary": [
+            {
+              "term": "조금만 더",
+              "meaning": {
+                "ja": "もう少しだけ。조금 に限定の 만 を付け、더 で現在との差を示します。",
+                "en": "Just a little more, with restrictive 만 after 조금 and comparative 더."
+              }
+            },
+            {
+              "term": "천천히",
+              "meaning": {
+                "ja": "ゆっくり。話す動作の速さを修飾する副詞です。",
+                "en": "Slowly, an adverb modifying the speaking pace."
+              }
+            },
+            {
+              "term": "말씀해 주시겠어요",
+              "meaning": {
+                "ja": "お話しいただけますか。相手に敬意を示して行為を依頼します。",
+                "en": "Would you speak for me, respectfully requesting the listener’s action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "조금만 더 + 천천히",
+              "explanation": {
+                "ja": "더 が今よりさらにゆっくりと示し、조금만 はその差を少しだけに限定します。話す量でなく話し方の速さにかかり、依頼を控えめにしています。",
+                "en": "더 asks for a slower pace than now, while 조금만 limits the difference to just a little. It moderates speaking speed rather than the amount said."
+              }
+            },
+            {
+              "point": "말씀해 + 주시겠어요",
+              "explanation": {
+                "ja": "말씀하다 に -아/어 주다 を続け、話す行為を自分のためにしてもらう依頼にします。주다 に -시- と -겠어요 が付き、相手の意向を丁寧に尋ねています。",
+                "en": "말씀하다 combines with -아/어 주다 to request the favor of speaking. 주다 takes -시- and -겠어요 to ask the listener’s willingness politely."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "聞き取るために相手の話す速度を調整してほしい場面で使います。천천히 は副詞なので、相手の性別や人数で形を変える必要はありません。",
+              "en": "This suits asking for a manageable listening pace. 천천히 is an adverb and does not change for the listener’s gender or number."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "ゆっくり話してもらう",
+        "en": "Asking someone to slow down"
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "もちろんです。分からないところがあれば言ってください。",
+          "ttsText": "もちろんです。わからないところがあればいってください。",
+          "vocabulary": [
+            {
+              "term": "もちろんです",
+              "meaning": {
+                "ja": "相手の依頼を快く受け入れる返事。ここではゆっくり話すことを了承します。",
+                "en": "A ready acceptance, here agreeing to speak more slowly."
+              }
+            },
+            {
+              "term": "分からないところ",
+              "meaning": {
+                "ja": "理解できない箇所・点。ところ はここでは物理的な場所に限りません。",
+                "en": "A part or point not understood; ところ is not limited to a physical place here."
+              }
+            },
+            {
+              "term": "言ってください",
+              "meaning": {
+                "ja": "教えてください、知らせてください。相手に行動を求める丁寧な依頼です。",
+                "en": "Please tell me or let me know, a polite request for the listener’s action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "分からないところ + があれば",
+              "explanation": {
+                "ja": "否定形 分からない が名詞 ところ を修飾します。がある の条件形 があれば を続け、理解できない点が存在する場合という条件を作ります。",
+                "en": "Negative 分からない modifies noun ところ. Conditional があれば from がある adds the condition that such a point exists."
+              }
+            },
+            {
+              "point": "言う → 言ってください",
+              "explanation": {
+                "ja": "言う のて形 言って に ください を続け、分からない点を知らせるよう依頼します。誰に言うかは話し手だと分かるため、私に は省かれています。",
+                "en": "Te-form 言って of 言う takes ください to request notification of unclear points. 私に is omitted because the speaker is the understood recipient."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "相手が必ず分からないと決めつけず、もしあればと条件を置いています。聞き返してよいと伝え、相手が理解を確認しやすくする返答です。",
+              "en": "The condition does not assume the listener necessarily has trouble. It invites clarification and makes it easier for the listener to check their understanding."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Of course. Please tell me if anything is unclear.",
+          "ttsText": "Of course. Please tell me if anything is unclear.",
+          "vocabulary": [
+            {
+              "term": "Of course",
+              "meaning": {
+                "ja": "もちろんです。直前の依頼を快く受け入れる定型表現です。",
+                "en": "Of course, a conventional ready acceptance of the preceding request."
+              }
+            },
+            {
+              "term": "Please tell me",
+              "meaning": {
+                "ja": "私に教えてください。tell の相手を目的語 me で示します。",
+                "en": "Please tell me, with object me identifying the recipient of tell."
+              }
+            },
+            {
+              "term": "if anything is unclear",
+              "meaning": {
+                "ja": "何か不明なことがあれば。if が条件、anything がその範囲を示します。",
+                "en": "If anything is unclear, with if introducing a condition and anything leaving its scope open."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Please + tell + me",
+              "explanation": {
+                "ja": "主語 you を書かない命令形 tell に Please を添え、丁寧な依頼にしています。me は tell の受け手で、本文では tell to me と前置詞を加えません。",
+                "en": "Please softens imperative tell, whose understood subject is you. Me is the recipient object; this construction does not add to as tell to me."
+              }
+            },
+            {
+              "point": "if + anything + is unclear",
+              "explanation": {
+                "ja": "if 節が、どんな点でも不明ならという条件を示します。anything はこの節では単数として扱われるため、be 動詞は is です。unclear はその状態を表す形容詞です。",
+                "en": "The if-clause sets the condition that any point is unclear. Anything takes singular agreement here, hence is; unclear is the adjective describing its state."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "if 節はここでは条件で、何が不明かという間接疑問ではありません。分からないことがすでにあると断定せず、必要なら知らせてほしいと促します。",
+              "en": "The if-clause is conditional here, not an indirect question about what is unclear. It invites notification if needed without asserting that something is already unclear."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Por supuesto. Dígame si hay algo que no entiende.",
+          "ttsText": "Por supuesto. Dígame si hay algo que no entiende.",
+          "vocabulary": [
+            {
+              "term": "Por supuesto",
+              "meaning": {
+                "ja": "もちろんです。相手の依頼を了承する定型表現です。",
+                "en": "Of course, a conventional acceptance of the request."
+              }
+            },
+            {
+              "term": "Dígame",
+              "meaning": {
+                "ja": "私に教えてください。decir の usted への命令形に me を付けます。",
+                "en": "Tell me, the usted imperative of decir with attached me."
+              }
+            },
+            {
+              "term": "algo que no entiende",
+              "meaning": {
+                "ja": "相手が分からない何か。que 以下が algo の内容を限定します。",
+                "en": "Something the listener does not understand, with que introducing its description."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "diga + me → Dígame",
+              "explanation": {
+                "ja": "丁寧な usted への肯定命令 diga の後に me を付け、一語で書きます。もとの強勢を保つため Dígame とアクセント記号を付け、知らせる相手が話し手だと示します。",
+                "en": "Me attaches to affirmative usted imperative diga as one word. The written accent in Dígame preserves the original stress and identifies the speaker as recipient."
+              }
+            },
+            {
+              "point": "si hay algo que no entiende",
+              "explanation": {
+                "ja": "si が条件を導き、存在の hay に algo を続けます。que no entiende は algo を説明する関係節で、entiende は丁寧な相手 usted に対応する現在形です。",
+                "en": "Si introduces a condition, with existential hay followed by algo. Relative clause que no entiende describes algo, and entiende is present agreeing with polite usted."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は相手が理解できない点があるならという条件です。no は hay でなく entiende に付き、何もないという否定ではなく、理解できない内容があれば知らせるよう促します。",
+              "en": "The condition concerns a point the listener does not understand. No negates entiende rather than hay: it invites notification of unclear content, not a statement that nothing exists."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bien sûr. Dites-moi si quelque chose n'est pas clair.",
+          "ttsText": "Bien sûr. Dites-moi si quelque chose n'est pas clair.",
+          "vocabulary": [
+            {
+              "term": "Bien sûr",
+              "meaning": {
+                "ja": "もちろんです。相手の依頼に快く応じる表現です。",
+                "en": "Of course, a ready acceptance of the listener’s request."
+              }
+            },
+            {
+              "term": "Dites-moi",
+              "meaning": {
+                "ja": "私に教えてください。dire の vous への命令形と moi を使います。",
+                "en": "Tell me, using the vous imperative of dire with moi."
+              }
+            },
+            {
+              "term": "quelque chose n'est pas clair",
+              "meaning": {
+                "ja": "何かが明確でない。quelque chose は単数として扱います。",
+                "en": "Something is unclear, with quelque chose treated as singular."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dites + moi",
+              "explanation": {
+                "ja": "不規則動詞 dire の vous への命令形は dites です。肯定命令なので代名詞 moi は後ろに置いてハイフンでつなぎ、話し手へ知らせるよう求めます。",
+                "en": "The vous imperative of irregular dire is dites. In this affirmative command, moi follows with a hyphen and marks the speaker as recipient."
+              }
+            },
+            {
+              "point": "si quelque chose n'est pas clair",
+              "explanation": {
+                "ja": "si が条件を導き、quelque chose を主語にします。単数の est を n’ ... pas で否定し、clair はこのまとまりに対応する男性単数の形です。",
+                "en": "Si introduces the condition with subject quelque chose. Singular est is negated by n’ ... pas, and clair has the corresponding masculine singular form."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "si 節はここでは不明な点があればという条件です。相手の理解不足を断定せず、必要があれば遠慮なく知らせてよいと伝える返答になっています。",
+              "en": "The si-clause is a condition: if any point is unclear. The reply invites clarification as needed without assuming the listener has failed to understand."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Natürlich. Sagen Sie mir bitte, wenn etwas unklar ist.",
+          "ttsText": "Natürlich. Sagen Sie mir bitte, wenn etwas unklar ist.",
+          "vocabulary": [
+            {
+              "term": "Natürlich",
+              "meaning": {
+                "ja": "もちろんです。前の依頼を了承する返事です。",
+                "en": "Of course, accepting the preceding request."
+              }
+            },
+            {
+              "term": "Sagen Sie mir bitte",
+              "meaning": {
+                "ja": "私に教えてください。mir は伝える相手の一人称与格です。",
+                "en": "Please tell me, with first-person dative mir marking the recipient."
+              }
+            },
+            {
+              "term": "wenn etwas unklar ist",
+              "meaning": {
+                "ja": "何か不明なことがあれば。wenn で条件節を導きます。",
+                "en": "If something is unclear, a condition introduced by wenn."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Sagen + Sie + mir + bitte",
+              "explanation": {
+                "ja": "丁寧な命令では動詞 Sagen の後に Sie を置きます。伝える相手は与格 mir、bitte は依頼を和らげる語で、主節はこの形で相手に知らせるよう求めます。",
+                "en": "A polite imperative places Sie after Sagen. Dative mir marks the recipient and bitte softens the request to let the speaker know."
+              }
+            },
+            {
+              "point": "wenn ... ist の語順",
+              "explanation": {
+                "ja": "wenn が導く従属節では定動詞 ist を最後に置きます。etwas が主語、unklar が状態の補語で、何かが不明という場合を条件にしています。",
+                "en": "In the subordinate clause introduced by wenn, finite ist goes last. Etwas is the subject and unklar the state complement, giving the condition that something is unclear."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "mir は mich ではなく、sagen で相手を示す与格です。本文は具体的な不明点を先に決めず、どんな点でも理解しにくければ知らせるよう促しています。",
+              "en": "The recipient of sagen takes dative mir, not mich. The text leaves the unclear point unspecified and invites notification of any difficulty."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Конечно. Скажите, если что-то будет непонятно.",
+          "ttsText": "Конечно. Скажите, если что-то будет непонятно.",
+          "vocabulary": [
+            {
+              "term": "Конечно",
+              "meaning": {
+                "ja": "もちろんです。依頼を快く受ける返事です。",
+                "en": "Of course, readily accepting the request."
+              }
+            },
+            {
+              "term": "Скажите",
+              "meaning": {
+                "ja": "言ってください。сказать の丁寧な単数または複数への命令形です。",
+                "en": "Tell me, the imperative of сказать addressing one person politely or several people."
+              }
+            },
+            {
+              "term": "что-то будет непонятно",
+              "meaning": {
+                "ja": "何かが分かりにくければ。что-то は不特定の何かです。",
+                "en": "Something will be unclear, with что-то identifying an unspecified point."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Скажите + если 節",
+              "explanation": {
+                "ja": "完了体 сказать の命令形で、必要なときに知らせる一回の行為を求めます。伝える相手は話し手だと分かるため、мне は本文では省かれています。",
+                "en": "The imperative of perfective сказать requests an act of notification when needed. Recipient мне is omitted because the speaker is understood."
+              }
+            },
+            {
+              "point": "если что-то будет непонятно",
+              "explanation": {
+                "ja": "если が条件を導き、будет непонятно でこの先分からない状態が生じる場合を述べます。будет は быть の未来形で、前の会話に続く説明での不明点を想定しています。",
+                "en": "Если introduces the condition, and будет непонятно envisages something becoming unclear later. Будет is future быть, anticipating difficulties in the explanation to follow."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "否定の не を動詞に付ける形でなく、本文では непонятно という語で分かりにくい状態を表します。条件にすることで、不明点が必ず生じるとは断定していません。",
+              "en": "Rather than attaching не to a verb, the text expresses an unclear state with непонятно. The condition does not assert that a difficulty will necessarily occur."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "بالطبع. أخبرني إذا كان هناك شيء غير واضح.",
+          "ttsText": "بالطبع. أخبرني إذا كان هناك شيء غير واضح.",
+          "vocabulary": [
+            {
+              "term": "بالطبع",
+              "meaning": {
+                "ja": "もちろんです。相手の依頼を受け入れる定型表現です。",
+                "en": "Of course, a conventional acceptance of the request."
+              }
+            },
+            {
+              "term": "أخبرني",
+              "meaning": {
+                "ja": "私に知らせてください。命令形に目的語の ني を付けています。",
+                "en": "Tell me, an imperative with object suffix ني identifying the speaker."
+              }
+            },
+            {
+              "term": "شيء غير واضح",
+              "meaning": {
+                "ja": "明確でない何か。غير واضح が不明という性質を示します。",
+                "en": "Something unclear, with غير واضح describing a lack of clarity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أخبر + ني",
+              "explanation": {
+                "ja": "أخبر は男性一人への命令形で、後ろの ني が知らせる相手の私を示します。誰が理解できないかの質問ではなく、相手に必要な通知の行為を求めています。",
+                "en": "أخبر is a masculine singular imperative, and ني marks me as the recipient. It requests notification rather than asking who does not understand."
+              }
+            },
+            {
+              "point": "إذا كان هناك شيء غير واضح",
+              "explanation": {
+                "ja": "إذا が条件を導き、كان هناك شيء で何かがある場合を表します。كان を含んでもこの条件は今後の説明に適用でき、غير واضح がその何かを不明なものとして説明します。",
+                "en": "إذا introduces the condition, with كان هناك شيء expressing that something exists. Despite كان, the condition can apply to the explanation ahead; غير واضح characterizes that thing as unclear."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "غير はこの句で واضح の意味を否定し、直接 لا を動詞に付ける否定文とは違います。本文は不明点があると断定せず、もしあれば知らせてほしいという返答です。",
+              "en": "غير negates the quality واضح within the phrase, unlike verbal negation with لا. The reply invites notification if a point is unclear without asserting that one already is."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Biṭ-ṭabʿi. ʾAkhbirnī ʾidhā kāna hunāka shayʾun ghayru wāḍiḥin.",
+            "note": {
+              "ja": "ʾAkhbirnī は男性一人に話す形です。女性一人に話す場合は ʾAkhbirīnī になります。 この文で区切って読むときの休止形：Biṭ-ṭabʿi → biṭ-ṭabʿ、wāḍiḥin → wāḍiḥ。",
+              "en": "ʾAkhbirnī addresses one man; use ʾAkhbirīnī when addressing one woman. Pausal forms at the sentence breaks here: Biṭ-ṭabʿi → biṭ-ṭabʿ; wāḍiḥin → wāḍiḥ."
+            }
+          }
+        },
+        "zh": {
+          "text": "当然可以。有不明白的地方请告诉我。",
+          "ttsText": "当然可以。有不明白的地方请告诉我。",
+          "vocabulary": [
+            {
+              "term": "当然可以",
+              "meaning": {
+                "ja": "もちろんできます。相手の依頼を快く受け入れる返答です。",
+                "en": "Of course, expressing ready acceptance of the request."
+              }
+            },
+            {
+              "term": "不明白的地方",
+              "meaning": {
+                "ja": "理解できない点・箇所。的 が前の説明を名詞 地方 に結びます。",
+                "en": "A point or part not understood, with 的 linking the description to 地方."
+              }
+            },
+            {
+              "term": "请告诉我",
+              "meaning": {
+                "ja": "私に教えてください。请 で依頼し、我 が知らせる相手です。",
+                "en": "Please tell me, with 请 making the request and 我 marking the recipient."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "有 + 不明白的地方",
+              "explanation": {
+                "ja": "不明白 が 的 を介して 地方 を修飾し、理解できない箇所を表します。その前に 有 を置き、もしそうした点があればという条件的な前置きにしています。",
+                "en": "不明白 modifies 地方 through 的. Preceding 有 gives a conditional frame: if there is such a point."
+              }
+            },
+            {
+              "point": "有……请告诉我",
+              "explanation": {
+                "ja": "本文は 如果 を明示せず、前半の存在を条件として後半の依頼につなげます。告诉我 は知らせる相手を動詞の後ろに置き、何を知らせるかは前半から補います。",
+                "en": "Without explicit 如果, the first existential phrase supplies the condition for the request. 告诉我 places the recipient after the verb, with the content supplied by the first phrase."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "地方 はここでは地理的な場所でなく、説明の中の点・部分です。分かりにくい箇所を遠慮なく指摘してよいと伝え、相手の聞き返しを受け入れています。",
+              "en": "地方 here means a point or part of the explanation, not a geographic location. The reply welcomes the listener’s clarification of any difficult section."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dāngrán kěyǐ. Yǒu bù míngbai de dìfang qǐng gàosu wǒ.",
+            "note": {
+              "ja": "この文では、発音時に kěyǐ → kéyǐ となります。",
+              "en": "In this sentence, the spoken forms are kěyǐ → kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "물론이죠. 이해가 안 되는 부분이 있으면 말씀해 주세요.",
+          "ttsText": "물론이죠. 이해가 안 되는 부분이 있으면 말씀해 주세요.",
+          "vocabulary": [
+            {
+              "term": "물론이죠",
+              "meaning": {
+                "ja": "もちろんです。물론 に -이죠 を付け、当然応じると伝える返事です。",
+                "en": "Of course, using 물론 with -이죠 to convey ready agreement."
+              }
+            },
+            {
+              "term": "이해가 안 되는 부분",
+              "meaning": {
+                "ja": "理解できない部分。이해가 안 되다 が名詞 부분 を修飾します。",
+                "en": "A part not understood, with 이해가 안 되다 modifying 부분."
+              }
+            },
+            {
+              "term": "말씀해 주세요",
+              "meaning": {
+                "ja": "おっしゃってください、知らせてください。敬意を示して行為を依頼します。",
+                "en": "Please tell me, respectfully requesting the listener’s action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "안 되다 → 안 되는 부분",
+              "explanation": {
+                "ja": "理解ができないという 안 되다 を、連体形 안 되는 にして 부분 にかけます。そこへ存在の 있다 の条件形 있으면 を続け、不明点がある場合としています。",
+                "en": "안 되다 becomes modifier 안 되는 before 부분. Conditional 있으면 from existential 있다 then gives the condition that such a part exists."
+              }
+            },
+            {
+              "point": "있으면 + 말씀해 주세요",
+              "explanation": {
+                "ja": "-으면 で条件を示し、その場合は知らせるよう 말씀해 주세요 と依頼します。말씀하다 と -아/어 주다 の組み合わせで、相手に配慮しながら話す行為を求めています。",
+                "en": "-으면 gives the condition, followed by request 말씀해 주세요. 말씀하다 with -아/어 주다 respectfully asks the listener to provide the notification."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文の 부분 は内容の一部分で、理解できない点が必ずあるとは断定していません。条件の形で、必要なら質問や聞き返しをしてよいと促しています。",
+              "en": "부분 is a part of the content, and the sentence does not assume difficulty necessarily exists. The condition invites questions or clarification when needed."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "最後の部分が聞き取れませんでした。",
+          "ttsText": "さいごのぶぶんがききとれませんでした。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I didn't catch the last part.",
+          "ttsText": "I didn't catch the last part.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No he entendido la última parte.",
+          "ttsText": "No he entendido la última parte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je n'ai pas bien entendu la dernière partie.",
+          "ttsText": "Je n'ai pas bien entendu la dernière partie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich habe den letzten Teil nicht verstanden.",
+          "ttsText": "Ich habe den letzten Teil nicht verstanden.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я не расслышал последнюю часть.",
+          "ttsText": "Я не расслышал последнюю часть.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "話者を男性として расслышал を使っています。女性の話者なら расслышала です。",
+              "en": "The speaker is male (расслышал); a female speaker uses расслышала."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لم أسمع الجزء الأخير بوضوح.",
+          "ttsText": "لم أسمع الجزء الأخير بوضوح.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lam ʾasmaʿ al-juzʾa al-ʾakhīra biwuḍūḥin.",
+            "note": {
+              "ja": "ʾasmaʿ al-juzʾa al-ʾakhīra は連読で ʾasmaʿi l-juzʾa l-ʾakhīra とつながります。 この文末で区切るときは biwuḍūḥin → biwuḍūḥ となります。",
+              "en": "In connected speech, ʾasmaʿ al-juzʾa al-ʾakhīra is linked as ʾasmaʿi l-juzʾa l-ʾakhīra. At the end of this sentence, the pausal form is biwuḍūḥin → biwuḍūḥ."
+            }
+          }
+        },
+        "zh": {
+          "text": "最后那部分我没听清楚。",
+          "ttsText": "最后那部分我没听清楚。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zuìhòu nà bùfen wǒ méi tīng qīngchu."
+          }
+        },
+        "ko": {
+          "text": "마지막 부분을 잘 못 들었어요.",
+          "ttsText": "마지막 부분을 잘 못 들었어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "聞き取れなかった部分を伝える",
+        "en": "Saying which part you missed"
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "予約番号を教えてください、と言いました。",
+          "ttsText": "よやくばんごうをおしえてください、といいました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I said, “Could you tell me your reservation number?”",
+          "ttsText": "I said, “Could you tell me your reservation number?”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "He dicho: «¿Podría darme su número de reserva?»",
+          "ttsText": "He dicho: «¿Podría darme su número de reserva?»",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "J'ai dit : « Pourriez-vous me donner votre numéro de réservation ? »",
+          "ttsText": "J'ai dit : « Pourriez-vous me donner votre numéro de réservation ? »",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich habe gesagt: „Könnten Sie mir Ihre Buchungsnummer nennen?“",
+          "ttsText": "Ich habe gesagt: „Könnten Sie mir Ihre Buchungsnummer nennen?“",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я сказал: «Назовите, пожалуйста, номер вашей брони».",
+          "ttsText": "Я сказал: «Назовите, пожалуйста, номер вашей брони».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "話者を男性として сказал を使っています。女性の話者なら сказала です。",
+              "en": "The speaker is male (сказал); a female speaker uses сказала."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "قلت: «أعطني رقم الحجز، من فضلك».",
+          "ttsText": "قلت: «أعطني رقم الحجز، من فضلك».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Qultu: «ʾAʿṭinī raqma al-ḥajzi, min faḍlika».",
+            "note": {
+              "ja": "ʾAʿṭinī / faḍlika は男性一人に話す形です。女性一人には ʾAʿṭīnī / faḍliki を使います。 raqma al-ḥajzi は連読で raqma l-ḥajzi とつながります。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "ʾAʿṭinī / faḍlika addresses one man; use ʾAʿṭīnī / faḍliki for one woman. In connected speech, raqma al-ḥajzi is linked as raqma l-ḥajzi. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "我说的是：“请告诉我您的预订号码。”",
+          "ttsText": "我说的是：“请告诉我您的预订号码。”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ shuō de shì: “Qǐng gàosu wǒ nín de yùdìng hàomǎ.”"
+          }
+        },
+        "ko": {
+          "text": "예약 번호를 알려 달라고 말씀드렸어요.",
+          "ttsText": "예약 번호를 알려 달라고 말씀드렸어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "この単語はどういう意味ですか。",
+          "ttsText": "このたんごはどういういみですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "What does this word mean?",
+          "ttsText": "What does this word mean?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Qué significa esta palabra?",
+          "ttsText": "¿Qué significa esta palabra?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Que veut dire ce mot ?",
+          "ttsText": "Que veut dire ce mot ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Was bedeutet dieses Wort?",
+          "ttsText": "Was bedeutet dieses Wort?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Что означает это слово?",
+          "ttsText": "Что означает это слово?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "ما معنى هذه الكلمة؟",
+          "ttsText": "ما معنى هذه الكلمة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mā maʿnā hādhihi al-kalimati?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-kalimati → al-kalimah。 hādhihi al-kalimati は連読すると hādhihi l-kalimati とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-kalimati → al-kalimah. In connected speech, hādhihi al-kalimati is linked as hādhihi l-kalimati."
+            }
+          }
+        },
+        "zh": {
+          "text": "这个词是什么意思？",
+          "ttsText": "这个词是什么意思？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhège cí shì shénme yìsi?"
+          }
+        },
+        "ko": {
+          "text": "이 단어는 무슨 뜻인가요?",
+          "ttsText": "이 단어는 무슨 뜻인가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "単語の意味を尋ねる",
+        "en": "Asking what a word means"
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "「出口」という意味です。",
+          "ttsText": "「でぐち」といういみです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "It means “exit.”",
+          "ttsText": "It means “exit.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Significa «salida».",
+          "ttsText": "Significa «salida».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Il veut dire « sortie ».",
+          "ttsText": "Il veut dire « sortie ».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Es bedeutet „Ausgang“.",
+          "ttsText": "Es bedeutet „Ausgang“.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Оно означает «выход».",
+          "ttsText": "Оно означает «выход».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "معناها «مخرج».",
+          "ttsText": "معناها «مخرج».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Maʿnāhā «makhrajun».",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：makhrajun → makhraj。",
+              "en": "Pausal forms at the sentence breaks here: makhrajun → makhraj."
+            }
+          }
+        },
+        "zh": {
+          "text": "意思是“出口”。",
+          "ttsText": "意思是“出口”。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yìsi shì “chūkǒu”."
+          }
+        },
+        "ko": {
+          "text": "‘출구’라는 뜻이에요.",
+          "ttsText": "‘출구’라는 뜻이에요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "その単語を書いていただけますか。",
+          "ttsText": "そのたんごをかいていただけますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Could you write that word down?",
+          "ttsText": "Could you write that word down?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Podría escribir esa palabra?",
+          "ttsText": "¿Podría escribir esa palabra?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Pourriez-vous écrire ce mot ?",
+          "ttsText": "Pourriez-vous écrire ce mot ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Könnten Sie dieses Wort aufschreiben?",
+          "ttsText": "Könnten Sie dieses Wort aufschreiben?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Не могли бы вы написать это слово?",
+          "ttsText": "Не могли бы вы написать это слово?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكنك أن تكتب هذه الكلمة؟",
+          "ttsText": "هل يمكنك أن تكتب هذه الكلمة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinuka ʾan taktuba hādhihi al-kalimata?",
+            "note": {
+              "ja": "yumkinuka / taktuba は男性一人に話す形です。女性一人に話す場合は yumkinuki / taktubī になります。 この文で区切って読むときの休止形：al-kalimata → al-kalimah。 hādhihi al-kalimata は連読すると hādhihi l-kalimata とつながります。",
+              "en": "yumkinuka / taktuba addresses one man; use yumkinuki / taktubī when addressing one woman. Pausal forms at the sentence breaks here: al-kalimata → al-kalimah. In connected speech, hādhihi al-kalimata is linked as hādhihi l-kalimata."
+            }
+          }
+        },
+        "zh": {
+          "text": "您能把那个词写下来吗？",
+          "ttsText": "您能把那个词写下来吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín néng bǎ nàge cí xiě xiàlai ma?"
+          }
+        },
+        "ko": {
+          "text": "그 단어를 적어 주시겠어요?",
+          "ttsText": "그 단어를 적어 주시겠어요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "書き方と発音を確かめる",
+        "en": "Checking spelling and pronunciation"
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "はい、ここに書きますね。",
+          "ttsText": "はい、ここにかきますね。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, I'll write it here.",
+          "ttsText": "Yes, I'll write it here.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, la escribo aquí.",
+          "ttsText": "Sí, la escribo aquí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, je vais l'écrire ici.",
+          "ttsText": "Oui, je vais l'écrire ici.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, ich schreibe es hier auf.",
+          "ttsText": "Ja, ich schreibe es hier auf.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, сейчас напишу его здесь.",
+          "ttsText": "Да, сейчас напишу его здесь.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، سأكتبها هنا.",
+          "ttsText": "نعم، سأكتبها هنا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, saʾaktubuhā hunā."
+          }
+        },
+        "zh": {
+          "text": "可以，我写在这里。",
+          "ttsText": "可以，我写在这里。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Kěyǐ, wǒ xiě zài zhèli.",
+            "note": {
+              "ja": "この文では、発音時に Kěyǐ → Kéyǐ となります。",
+              "en": "In this sentence, the spoken forms are Kěyǐ → Kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "네, 여기에 적을게요.",
+          "ttsText": "네, 여기에 적을게요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "これはどう発音しますか。",
+          "ttsText": "これはどうはつおんしますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "How do you pronounce this?",
+          "ttsText": "How do you pronounce this?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Cómo se pronuncia esto?",
+          "ttsText": "¿Cómo se pronuncia esto?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Comment est-ce que cela se prononce ?",
+          "ttsText": "Comment est-ce que cela se prononce ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wie spricht man das aus?",
+          "ttsText": "Wie spricht man das aus?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Как это произносится?",
+          "ttsText": "Как это произносится?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كيف تنطق هذه الكلمة؟",
+          "ttsText": "كيف تنطق هذه الكلمة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kayfa tunṭaqu hādhihi al-kalimatu?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-kalimatu → al-kalimah。 hādhihi al-kalimatu は連読すると hādhihi l-kalimatu とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-kalimatu → al-kalimah. In connected speech, hādhihi al-kalimatu is linked as hādhihi l-kalimatu."
+            }
+          }
+        },
+        "zh": {
+          "text": "这个怎么读？",
+          "ttsText": "这个怎么读？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhège zěnme dú?"
+          }
+        },
+        "ko": {
+          "text": "이건 어떻게 발음하나요?",
+          "ttsText": "이건 어떻게 발음하나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "私の後に続けて言ってみてください。",
+          "ttsText": "わたしのあとにつづけていってみてください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Please try repeating after me.",
+          "ttsText": "Please try repeating after me.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Intente repetir después de mí.",
+          "ttsText": "Intente repetir después de mí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Essayez de répéter après moi.",
+          "ttsText": "Essayez de répéter après moi.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Versuchen Sie bitte, mir nachzusprechen.",
+          "ttsText": "Versuchen Sie bitte, mir nachzusprechen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Попробуйте повторить за мной.",
+          "ttsText": "Попробуйте повторить за мной.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "حاول أن تردد بعدي.",
+          "ttsText": "حاول أن تردد بعدي.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥāwil ʾan turaddida baʿdī.",
+            "note": {
+              "ja": "Ḥāwil / turaddida は男性一人に話す形です。女性一人に話す場合は Ḥāwilī / turaddidī になります。",
+              "en": "Ḥāwil / turaddida addresses one man; use Ḥāwilī / turaddidī when addressing one woman."
+            }
+          }
+        },
+        "zh": {
+          "text": "请跟着我读。",
+          "ttsText": "请跟着我读。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng gēnzhe wǒ dú."
+          }
+        },
+        "ko": {
+          "text": "저를 따라 말해 보세요.",
+          "ttsText": "저를 따라 말해 보세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "つまり、明日までに申し込めばいいんですね。",
+          "ttsText": "つまり、あしたまでにもうしこめばいいんですね。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "So I just need to sign up by tomorrow, right?",
+          "ttsText": "So I just need to sign up by tomorrow, right?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Entonces, basta con que me inscriba a más tardar mañana, ¿verdad?",
+          "ttsText": "Entonces, basta con que me inscriba a más tardar mañana, ¿verdad?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Donc, il suffit que je m'inscrive au plus tard demain, c'est bien ça ?",
+          "ttsText": "Donc, il suffit que je m'inscrive au plus tard demain, c'est bien ça ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich muss mich also spätestens morgen anmelden, richtig?",
+          "ttsText": "Ich muss mich also spätestens morgen anmelden, richtig?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "То есть мне нужно записаться не позднее завтра, верно?",
+          "ttsText": "То есть мне нужно записаться не позднее завтра, верно?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "إذن، يكفي أن أسجل في موعد أقصاه غدا، أليس كذلك؟",
+          "ttsText": "إذن، يكفي أن أسجل في موعد أقصاه غدا، أليس كذلك؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIdhan, yakfī ʾan ʾusajjila fī mawʿidin ʾaqṣāhu ghadan, ʾalaysa kadhālika?",
+            "note": {
+              "ja": "この文末で区切るときは kadhālika → kadhālik となります。",
+              "en": "At the end of this sentence, the pausal form is kadhālika → kadhālik."
+            }
+          }
+        },
+        "zh": {
+          "text": "也就是说，我最晚明天报名就行，对吗？",
+          "ttsText": "也就是说，我最晚明天报名就行，对吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yě jiù shì shuō, wǒ zuìwǎn míngtiān bàomíng jiù xíng, duì ma?"
+          }
+        },
+        "ko": {
+          "text": "그러니까 늦어도 내일까지 신청하면 되는 거죠?",
+          "ttsText": "그러니까 늦어도 내일까지 신청하면 되는 거죠?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "自分の理解を確かめる",
+        "en": "Checking your understanding"
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "はい、今日でなくても大丈夫です。",
+          "ttsText": "はい、きょうでなくてもだいじょうぶです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "That's right. It doesn't have to be today.",
+          "ttsText": "That's right. It doesn't have to be today.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, no hace falta que sea hoy.",
+          "ttsText": "Sí, no hace falta que sea hoy.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, ce n'est pas forcément aujourd'hui.",
+          "ttsText": "Oui, ce n'est pas forcément aujourd'hui.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Genau. Es muss nicht heute sein.",
+          "ttsText": "Genau. Es muss nicht heute sein.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, необязательно сегодня.",
+          "ttsText": "Да, необязательно сегодня.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، ليس من الضروري أن تسجل اليوم.",
+          "ttsText": "نعم، ليس من الضروري أن تسجل اليوم.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, laysa mina aḍ-ḍarūriyyi ʾan tusajjila al-yawma.",
+            "note": {
+              "ja": "tusajjila は男性一人に話す形です。女性一人には tusajjilī を使います。 mina aḍ-ḍarūriyyi は連読で mina ḍ-ḍarūriyyi とつながります。 この文末で区切るときは al-yawma → al-yawm となります。",
+              "en": "tusajjila addresses one man; use tusajjilī for one woman. In connected speech, mina aḍ-ḍarūriyyi is linked as mina ḍ-ḍarūriyyi. At the end of this sentence, the pausal form is al-yawma → al-yawm."
+            }
+          }
+        },
+        "zh": {
+          "text": "对，不一定要今天报名。",
+          "ttsText": "对，不一定要今天报名。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Duì, bù yīdìng yào jīntiān bàomíng.",
+            "note": {
+              "ja": "この文では、発音時に bù yīdìng → bù yídìng となります。",
+              "en": "In this sentence, the spoken form is bù yīdìng → bù yídìng."
+            }
+          }
+        },
+        "ko": {
+          "text": "네, 꼭 오늘이 아니어도 괜찮아요.",
+          "ttsText": "네, 꼭 오늘이 아니어도 괜찮아요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "「来週」というのは、月曜日からですか。",
+          "ttsText": "「らいしゅう」というのは、げつようびからですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "When you say “next week,” do you mean from Monday?",
+          "ttsText": "When you say “next week,” do you mean from Monday?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Cuando dice «la semana que viene», ¿se refiere a partir del lunes?",
+          "ttsText": "Cuando dice «la semana que viene», ¿se refiere a partir del lunes?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Quand vous dites « la semaine prochaine », c'est à partir de lundi ?",
+          "ttsText": "Quand vous dites « la semaine prochaine », c'est à partir de lundi ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Meinen Sie mit „nächste Woche“ ab Montag?",
+          "ttsText": "Meinen Sie mit „nächste Woche“ ab Montag?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Под «следующей неделей» вы имеете в виду начиная с понедельника?",
+          "ttsText": "Под «следующей неделей» вы имеете в виду начиная с понедельника?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل تقصد بقولك «الأسبوع القادم» ابتداء من يوم الاثنين؟",
+          "ttsText": "هل تقصد بقولك «الأسبوع القادم» ابتداء من يوم الاثنين؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal taqṣidu biqawlika «al-ʾusbūʿa al-qādima» ibtidāʾan min yawmi al-ithnayni?",
+            "note": {
+              "ja": "taqṣidu / biqawlika は男性一人に話す形です。女性一人には taqṣidīna / biqawliki を使います。 yawmi al-ithnayni は連読で yawmi l-ithnayni とつながります。 この文末で区切るときは al-ithnayni → al-ithnayn となります。",
+              "en": "taqṣidu / biqawlika addresses one man; use taqṣidīna / biqawliki for one woman. In connected speech, yawmi al-ithnayni is linked as yawmi l-ithnayni. At the end of this sentence, the pausal form is al-ithnayni → al-ithnayn."
+            }
+          }
+        },
+        "zh": {
+          "text": "您说的“下周”是指从星期一开始吗？",
+          "ttsText": "您说的“下周”是指从星期一开始吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín shuō de “xià zhōu” shì zhǐ cóng xīngqīyī kāishǐ ma?"
+          }
+        },
+        "ko": {
+          "text": "‘다음 주’라는 건 월요일부터라는 뜻인가요?",
+          "ttsText": "‘다음 주’라는 건 월요일부터라는 뜻인가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "日付の範囲を確かめる",
+        "en": "Clarifying a date range"
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "はい、月曜日からです。",
+          "ttsText": "はい、げつようびからです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, from Monday.",
+          "ttsText": "Yes, from Monday.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, a partir del lunes.",
+          "ttsText": "Sí, a partir del lunes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, à partir de lundi.",
+          "ttsText": "Oui, à partir de lundi.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, ab Montag.",
+          "ttsText": "Ja, ab Montag.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, с понедельника.",
+          "ttsText": "Да, с понедельника.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، من يوم الاثنين.",
+          "ttsText": "نعم، من يوم الاثنين.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, min yawmi al-ithnayni.",
+            "note": {
+              "ja": "yawmi al-ithnayni は連読で yawmi l-ithnayni とつながります。 この文末で区切るときは al-ithnayni → al-ithnayn となります。",
+              "en": "In connected speech, yawmi al-ithnayni is linked as yawmi l-ithnayni. At the end of this sentence, the pausal form is al-ithnayni → al-ithnayn."
+            }
+          }
+        },
+        "zh": {
+          "text": "对，从星期一开始。",
+          "ttsText": "对，从星期一开始。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Duì, cóng xīngqīyī kāishǐ."
+          }
+        },
+        "ko": {
+          "text": "네, 월요일부터예요.",
+          "ttsText": "네, 월요일부터예요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u019",
+      "languages": {
+        "ja": {
+          "text": "すみません、まだよく分かりません。別の言い方で説明していただけますか。",
+          "ttsText": "すみません、まだよくわかりません。べつのいいかたでせつめいしていただけますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Sorry, I still don't quite understand. Could you explain it another way?",
+          "ttsText": "Sorry, I still don't quite understand. Could you explain it another way?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Lo siento, todavía no lo entiendo bien. ¿Podría explicarlo de otra manera?",
+          "ttsText": "Lo siento, todavía no lo entiendo bien. ¿Podría explicarlo de otra manera?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Excusez-moi, je ne comprends toujours pas bien. Pourriez-vous l'expliquer autrement ?",
+          "ttsText": "Excusez-moi, je ne comprends toujours pas bien. Pourriez-vous l'expliquer autrement ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Entschuldigung, ich verstehe es noch nicht ganz. Könnten Sie es anders erklären?",
+          "ttsText": "Entschuldigung, ich verstehe es noch nicht ganz. Könnten Sie es anders erklären?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините, я всё ещё не совсем понимаю. Не могли бы вы объяснить по-другому?",
+          "ttsText": "Извините, я всё ещё не совсем понимаю. Не могли бы вы объяснить по-другому?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا، ما زلت لا أفهم جيدا. هل يمكنك أن تشرح بطريقة أخرى؟",
+          "ttsText": "عفوا، ما زلت لا أفهم جيدا. هل يمكنك أن تشرح بطريقة أخرى؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan, mā ziltu lā ʾafhamu jayyidan. Hal yumkinuka ʾan tashraḥa biṭarīqatin ʾukhrā?",
+            "note": {
+              "ja": "yumkinuka / tashraḥa は男性一人に話す形です。女性一人には yumkinuki / tashraḥī を使います。 最初の文末で区切るときは jayyidan → jayyidā となります。",
+              "en": "yumkinuka / tashraḥa addresses one man; use yumkinuki / tashraḥī for one woman. At the end of the first sentence, jayyidan becomes jayyidā in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "不好意思，我还是不太明白。您能换个说法解释一下吗？",
+          "ttsText": "不好意思，我还是不太明白。您能换个说法解释一下吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù hǎoyìsi, wǒ háishi bù tài míngbai. Nín néng huàn ge shuōfǎ jiěshì yīxià ma?",
+            "note": {
+              "ja": "この文では、発音時に bù tài / shuōfǎ jiěshì / yīxià → bú tài / shuōfá jiěshì / yíxià となります。",
+              "en": "In this sentence, the spoken form is bù tài / shuōfǎ jiěshì / yīxià → bú tài / shuōfá jiěshì / yíxià."
+            }
+          }
+        },
+        "ko": {
+          "text": "죄송하지만 아직 잘 모르겠어요. 다른 말로 설명해 주시겠어요?",
+          "ttsText": "죄송하지만 아직 잘 모르겠어요. 다른 말로 설명해 주시겠어요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "別の説明を頼む",
+        "en": "Asking for another explanation"
+      }
+    },
+    {
+      "id": "u020",
+      "languages": {
+        "ja": {
+          "text": "実際にやってみせますね。",
+          "ttsText": "じっさいにやってみせますね。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I'll show you how to do it.",
+          "ttsText": "I'll show you how to do it.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Le mostraré cómo se hace.",
+          "ttsText": "Le mostraré cómo se hace.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je vais vous montrer comment faire.",
+          "ttsText": "Je vais vous montrer comment faire.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich zeige Ihnen, wie es geht.",
+          "ttsText": "Ich zeige Ihnen, wie es geht.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я покажу вам, как это делается.",
+          "ttsText": "Я покажу вам, как это делается.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "سأريك كيف تفعل ذلك.",
+          "ttsText": "سأريك كيف تفعل ذلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Saʾurīka kayfa tafʿalu dhālika.",
+            "note": {
+              "ja": "saʾurīka / tafʿalu は男性一人に話す形です。女性一人には saʾurīki / tafʿalīna を使います。 この文末で区切るときは dhālika → dhālik となります。",
+              "en": "saʾurīka / tafʿalu addresses one man; use saʾurīki / tafʿalīna for one woman. At the end of this sentence, the pausal form is dhālika → dhālik."
+            }
+          }
+        },
+        "zh": {
+          "text": "我做给您看。",
+          "ttsText": "我做给您看。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ zuò gěi nín kàn."
+          }
+        },
+        "ko": {
+          "text": "제가 직접 보여 드릴게요.",
+          "ttsText": "제가 직접 보여 드릴게요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u021",
+      "languages": {
+        "ja": {
+          "text": "数字だけ、もう一度お願いします。",
+          "ttsText": "すうじだけ、もういちどおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Just the numbers again, please.",
+          "ttsText": "Just the numbers again, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Solo los números otra vez, por favor.",
+          "ttsText": "Solo los números otra vez, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Juste les chiffres encore une fois, s'il vous plaît.",
+          "ttsText": "Juste les chiffres encore une fois, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Nur die Zahlen noch einmal, bitte.",
+          "ttsText": "Nur die Zahlen noch einmal, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Повторите только цифры, пожалуйста.",
+          "ttsText": "Повторите только цифры, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أعد الأرقام فقط، من فضلك.",
+          "ttsText": "أعد الأرقام فقط، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAʿid al-ʾarqāma faqaṭ, min faḍlika.",
+            "note": {
+              "ja": "ʾAʿid / faḍlika は男性一人に話す形です。女性一人には ʾAʿīdī / faḍliki を使います。 ʾAʿid al-ʾarqāma は連読で ʾaʿidi l-ʾarqāma とつながります。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "ʾAʿid / faḍlika addresses one man; use ʾAʿīdī / faḍliki for one woman. In connected speech, ʾAʿid al-ʾarqāma is linked as ʾaʿidi l-ʾarqāma. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "请把数字再说一遍。",
+          "ttsText": "请把数字再说一遍。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng bǎ shùzì zài shuō yī biàn.",
+            "note": {
+              "ja": "この文では、発音時に Qǐng bǎ / yī biàn → Qíng bǎ / yí biàn となります。",
+              "en": "In this sentence, the spoken form is Qǐng bǎ / yī biàn → Qíng bǎ / yí biàn."
+            }
+          }
+        },
+        "ko": {
+          "text": "숫자만 다시 한번 말씀해 주세요.",
+          "ttsText": "숫자만 다시 한번 말씀해 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "必要な部分や時間を伝える",
+        "en": "Asking for specific help or time"
+      }
+    },
+    {
+      "id": "u022",
+      "languages": {
+        "ja": {
+          "text": "少し考える時間をください。",
+          "ttsText": "すこしかんがえるじかんをください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Please give me a moment to think.",
+          "ttsText": "Please give me a moment to think.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Déjeme un momento para pensar, por favor.",
+          "ttsText": "Déjeme un momento para pensar, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Laissez-moi un instant pour réfléchir, s'il vous plaît.",
+          "ttsText": "Laissez-moi un instant pour réfléchir, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Geben Sie mir bitte einen Moment zum Nachdenken.",
+          "ttsText": "Geben Sie mir bitte einen Moment zum Nachdenken.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Дайте мне немного времени подумать, пожалуйста.",
+          "ttsText": "Дайте мне немного времени подумать, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أعطني لحظة لأفكر، من فضلك.",
+          "ttsText": "أعطني لحظة لأفكر، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAʿṭinī laḥẓatan liʾufakkira, min faḍlika.",
+            "note": {
+              "ja": "ʾAʿṭinī / faḍlika は男性一人に話す形です。女性一人には ʾAʿṭīnī / faḍliki を使います。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "ʾAʿṭinī / faḍlika addresses one man; use ʾAʿṭīnī / faḍliki for one woman. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "请给我一点时间想想。",
+          "ttsText": "请给我一点时间想想。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng gěi wǒ yīdiǎn shíjiān xiǎngxiang.",
+            "note": {
+              "ja": "この文では、発音時に yīdiǎn → yìdiǎn となります。 「请给我」を一息で続ける読みでは qǐng gěi wǒ → qíng géi wǒ となります。",
+              "en": "In this sentence, the spoken form is yīdiǎn → yìdiǎn. When 请给我 is spoken as one phrase, qǐng gěi wǒ becomes qíng géi wǒ."
+            }
+          }
+        },
+        "ko": {
+          "text": "잠깐 생각할 시간을 주세요.",
+          "ttsText": "잠깐 생각할 시간을 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    }
+  ]
+}

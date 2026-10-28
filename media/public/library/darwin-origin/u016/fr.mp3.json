@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5506b6b6030294406a38deb1082ff611ee7a4db0d8de50bd01f66d1faab66ac1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "À en juger par le passé, nous pouvons déduire avec assurance qu'aucune espèce vivante ne transmettra sa forme inchangée à un avenir lointain.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5514a4232020bae3b9aa04dc30f71f79d5c5ce91c4442ef542cd46fe4f34ae97",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:19:22.731556+00:00"
+}

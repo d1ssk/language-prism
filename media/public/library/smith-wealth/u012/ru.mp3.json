@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b488e2723955259e3f509b6269874c11950de20d9dec1365fa847ed5e5df246b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Таким образом, на каждого приходилась десятая часть сорока восьми тысяч булавок, и можно было считать, что каждый производит четыре тысячи восемьсот булавок в день.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cb05e5febae36ccf2d8e23b9cf22f7943887f78253ab7bd8b695257d442e2146",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:47:52.407772+00:00"
+}

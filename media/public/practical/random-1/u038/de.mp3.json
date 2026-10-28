@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7e7c2e2b483602b0e7c4d093c818b79abfd080aff6c2a54fb3490b4e3e403cfa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe vor, heute selbst zu kochen, aber ich weiß noch nicht, was ich zubereiten soll.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d5bf6472013359618ee0670cf98a68e1362e224bb649efd3165130459bd9c3d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:33:24.393126+00:00"
+}

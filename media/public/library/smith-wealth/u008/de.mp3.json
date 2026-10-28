@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "08f4c3540603bf30c71668036ebf3ac82fa6b55de5b11847a4470bff7079a5c5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe eine kleine Manufaktur dieser Art gesehen, in der nur zehn Männer beschäftigt waren und einige deshalb zwei oder drei verschiedene Arbeitsgänge ausführten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13a876566cba638f8f6fd33e508bf6fbfafcba6906511db4c7c4134f51413485",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:43:45.839990+00:00"
+}

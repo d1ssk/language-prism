@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1a5257f123ff922ce3fe286de6fbb7e51e91c0b1878d3cb1e673cdc953d4737b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "И поскольку естественный отбор действует исключительно благодаря пользе для каждого существа и ради неё, все телесные и психические способности будут стремиться к совершенству.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cb7295118e23f91c9460cb5e444cd2d199ed5a8759abf5b53e9f3a8ef5ae8634",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:29:49.836260+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "65ff881f4b71ef6bb62f2d892a7cbbb109278fc7ab9458d73a141acc72817b62",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وكانت يخنة فيها لحم بقر أكثر قليلًا من لحم الضأن، ولحم مفروم متبل في معظم الأمسيات، وطبق «الأحزان والمتاعب» أيام السبت، وعدس أيام الجمعة، وفرخ حمام إضافي أيام الأحد، تستهلك ثلاثة أرباع موارده.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "553972844ae6185117e7fff5ed4d0c3190f4af66307dfca793855f6de22cf41a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:07:58.849002+00:00"
+}

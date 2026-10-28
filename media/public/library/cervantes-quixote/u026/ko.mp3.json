@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6e97f9de55ffa66c439461cda3d9b604dab99adbc79db62406aa91a6ac17d21",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이렇게 잠은 적게 자고 책은 너무 많이 읽은 탓에 뇌가 말라 버려 마침내 제정신을 잃었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bd94cb9040a18806d816b4f6367b7a12386736be9008af8cf1785372dd51852a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:57:00.626954+00:00"
+}

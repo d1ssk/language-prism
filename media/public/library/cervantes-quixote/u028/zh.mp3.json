@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a5272bbdc5de94d002fe49104952b8ed2aa953053d9f550d2ee0fc296566fbf9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "他深信书中那整套梦幻编造都是真实的，这念头在想象中扎根之深，使他觉得世上再没有比那些故事更确凿的历史了。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "37fff2d8bc18d3143003cc789fb74b1ee8f8b6f763e1883f5dce885e519e3bf1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:00:02.217702+00:00"
+}

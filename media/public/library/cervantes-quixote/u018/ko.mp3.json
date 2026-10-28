@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6c31a53ae478fc1aa23f72fd36a4d862853ebdeff929fbf5ef88ad081565d8a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이런 말들 때문에 가엾은 향사는 제정신을 잃고 그 뜻을 풀어내려 밤을 새웠다. 아리스토텔레스가 오직 그 일을 위해 되살아났더라도 그 뜻을 끄집어내거나 이해하지 못했을 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "36ca750e9a7ae3a618efae577bd058b76737c816a106ebdbb0ce19e8a48ffb10",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:44:39.000835+00:00"
+}

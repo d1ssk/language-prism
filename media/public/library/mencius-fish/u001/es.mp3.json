@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "187e5cc7c4382c598e87e78c9284f94c8b2ab0ee83c6abc485ce096b226d0a67",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El pescado es algo que deseo; la pata de oso también es algo que deseo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9025887bd2a3fc23d67b9d72ac4c284705b8c6f02b1719d924b0421e3a8aceb1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:02.490478+00:00"
+}

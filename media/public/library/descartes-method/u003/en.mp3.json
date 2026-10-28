@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "30acadc84190463fbfd8d042df1892e29213a2db66a4e13fa92ca647060baa6c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "and to include in my judgments only what presented itself to my mind so clearly and distinctly that I had no occasion to doubt it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4270cbbb2cc851501bceb54011be09264201abca7e89dba828f8f8f02d09ab9b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:54.277528+00:00"
+}

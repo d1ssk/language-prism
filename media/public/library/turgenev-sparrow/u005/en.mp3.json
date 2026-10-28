@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fdcbc8bb61c51a6f5a0043f78dce02e8fa74175c29511a9e46b5bb11a4d38011",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "My dog was slowly approaching it when suddenly an adult black-breasted sparrow burst from a nearby tree and dropped like a stone right in front of its muzzle; all ruffled and contorted, with a desperate, pitiful squeak, it hopped a couple of times toward the open, tooth-filled mouth.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b1078539e47834d31bd2e445667843ecd5c3032927e79921522a86a7634928a1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:14:14.965129+00:00"
+}

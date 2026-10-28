@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ccd6b01753229c1bff1966bac6adce28746fdd7e2f1995e92a4fd1051f0a6b04",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Так из войны природы, из голода и смерти непосредственно следует самое возвышенное, что мы способны представить, а именно возникновение высших животных.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4fc97e7780b2976c386205d58a49503723454360673b76a7992d883464f2e1f7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:21:51.554960+00:00"
+}

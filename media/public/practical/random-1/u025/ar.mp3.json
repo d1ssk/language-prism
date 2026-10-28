@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d9a3551c6d2629aa01ffdbf4476a2e42910eceba85df0d21f871f633b86bf686",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لا يزال لدي الكثير لأتعلمه في مكان عملي الجديد.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d4b8e39cf607478bb781b372fffb5d4ad562ec1bbf3c778dc5ae2d901393ad8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:26:28.770068+00:00"
+}

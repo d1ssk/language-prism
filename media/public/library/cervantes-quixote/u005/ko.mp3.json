@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1fa496c653449b2fc5b4a17231169b2476a91950fc8c4d12020613bd7ff5f156",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "집에는 마흔을 넘긴 가정부와 아직 스무 살이 되지 않은 조카딸이 있었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7da83315aae9e3feba5529fcd488df62fe8e097763acea13a230f6ba66547d94",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:10:44.701764+00:00"
+}

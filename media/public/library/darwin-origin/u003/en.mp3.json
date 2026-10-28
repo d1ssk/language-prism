@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c5557a972ca61a22214fafa06a71c3d3df606a9c2dac69da231be9b7588478e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "These laws, taken in the largest sense, being Growth with Reproduction; Inheritance which is almost implied by reproduction;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f54343cd111d521cded2d3507c2374c6a2908cf42088c87d5fcd337e17902d5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:17:42.383042+00:00"
+}

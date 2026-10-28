@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1a578f7e8523409bff4560618509a83969e301ab2a7d6d8d5e3d8faebc5382a5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Und die letzte war, überall so vollständige Aufzählungen und so umfassende Überprüfungen vorzunehmen, dass ich sicher sein konnte, nichts ausgelassen zu haben.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "686ad6f163681db3f3d7af270ed67eb764b00a9d518248a7441a1a2aac21beac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:31:53.154484+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9d8e2c02ab7dc90948a30cfdf4a894b1dd69541c5d01260e289ec2270c692b71",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— I hate it as you hate God.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "80833610e97b4b761d64997ffe680da66f81f929ae7a8b384e2504dfdbb41556",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:03.555782+00:00"
+}

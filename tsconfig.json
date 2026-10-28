@@ -1,0 +1,6 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "include": [".astro/types.d.ts", "src/**/*", "scripts/**/*", "tests/**/*", "config/**/*"],
+  "exclude": ["dist", "node_modules", "_misc", "d1ssk.github.io"],
+  "compilerOptions": { "resolveJsonModule": true, "esModuleInterop": true, "types": ["node"], "allowImportingTsExtensions": true }
+}

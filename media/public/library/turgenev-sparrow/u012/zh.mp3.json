@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b672a578496ad949d5f31b765a892026b6e392f326dbfb9afd13685a51ddec3c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我想，爱比死亡和对死亡的恐惧更强大。唯有靠它，唯有靠爱，生命才得以维系和运行。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5a0a363c2d84e38fd829bb7561d7404b6dd45a5086e9739fed5277b22755cda8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:23:33.405675+00:00"
+}

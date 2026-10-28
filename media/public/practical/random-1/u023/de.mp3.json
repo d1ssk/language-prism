@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f825c3a34af5ecd5dcfec7a1bd8e268e091bb37d2046613358b509a37ea3dfe8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Heute ist bei der Arbeit etwas Dringendes dazwischengekommen. Können wir unsere Pläne ändern?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82c406d3f3e9ad0a39156b44a822f622ab29d3ce908d56a603400e6084af96ea",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:20.797114+00:00"
+}

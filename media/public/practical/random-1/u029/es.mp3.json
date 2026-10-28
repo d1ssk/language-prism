@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4c07685b99b5a3b29dec49352d387fc59b81c329876b6b236b96c5af7aca6478",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No tenemos mucho tiempo antes de la fecha límite, así que debemos establecer prioridades.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aa161a2bab229d03046c93f98e672c8eeca4f65bc51ec512ea25103c01559134",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:28:21.181529+00:00"
+}

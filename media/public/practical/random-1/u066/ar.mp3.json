@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "60a42d546ab92c17df7d239aff7921ca36911fc398a56796b9919c74b0e84b8e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "حتى في خضم الحياة اليومية المزدحمة، أريد تخصيص وقت للتفكير بهدوء بمفردي.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1aaf4c848632c200db13f0de025a5e2b1edd67df28426f8de5fc81642f3e4364",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:53:36.088963+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fb5bca49ed26ca1d838023b36a3a916a62ae51e04406b83f6c7e0dce054f612d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In a village in La Mancha, whose name I do not care to recall, there lived not long ago a gentleman of the kind with a lance on a rack, an old leather shield, a lean horse and a swift greyhound.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a09a9553395ed9f50b56eab78c3e322bfb11eefac3604c1ad6d2f6cbc2dbdd30",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:05:03.876123+00:00"
+}

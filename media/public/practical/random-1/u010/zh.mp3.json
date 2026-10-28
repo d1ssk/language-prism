@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "75d1a8edbe07be76b31b9aa63babc4bd9dccf8bd1da9e78dad41e0d5a5c7eb3f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "单程票和往返票的价格相差多少？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2f5b95c84eda9ec5addba0b6067c8943ae3c0db43a5275ca689c1f9e37b27e70",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:13.710765+00:00"
+}

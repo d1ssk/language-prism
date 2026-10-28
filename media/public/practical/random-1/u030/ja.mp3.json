@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5bc16f5df22375c5bf80177f433f7a2edb1a581513ba8d9404ab84a9b9fb5434",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "あなたのいけんはさんこうになりますが、べつのかのうせいもかんがえてみたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "76e4e99ee1d5d7679411740343b5475462e41f358a0e105eb1c5849f9fa25b73",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:28:53.463200+00:00"
+}

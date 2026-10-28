@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a21b38d4b0931a0b2b7308e4768d9292e44d76d23e065a7469221cce6dc75f77",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "浩浩乎如凭虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f0dd68fe1506ed889d84716f9703ee1c1410f2118625a2ffb163ec175c437866",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:08:22.821086+00:00"
+}

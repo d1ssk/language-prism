@@ -1,0 +1,1281 @@
+{
+  "schemaVersion": 1,
+  "id": "lincoln-gettysburg-address",
+  "slug": "lincoln-gettysburg-address",
+  "type": "library",
+  "title": {
+    "ja": "ゲティスバーグ演説",
+    "en": "Gettysburg Address"
+  },
+  "description": {
+    "ja": "戦没者の犠牲を受け継ぎ、自由と人民による政治を守る決意を述べた演説。",
+    "en": "A speech committing the living to preserve freedom and government by the people in response to the sacrifice of the dead."
+  },
+  "originalLanguage": "en",
+  "author": "Abraham Lincoln",
+  "bibliography": {
+    "originalTitle": "Gettysburg Address",
+    "originalAuthor": "Abraham Lincoln",
+    "title": {
+      "ja": "ゲティスバーグ演説",
+      "en": "Gettysburg Address"
+    },
+    "author": {
+      "ja": "エイブラハム・リンカーン",
+      "en": "Abraham Lincoln"
+    }
+  },
+  "sourceTitle": "Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial",
+  "sourceURL": "https://wwws.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-inscribed.html",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Abraham Lincoln。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Abraham Lincoln. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。米国議会図書館が掲載するリンカーン記念堂の刻文の転記を採用しています。演説の各草稿を混ぜず、この本文の綴りと語句を保持しています。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The source is the Library of Congress transcription of the Lincoln Memorial inscription. Its wording and spelling are retained without combining different drafts."
+  },
+  "excerpt": {
+    "isExcerpt": false,
+    "location": {
+      "ja": "全文（リンカーン記念堂の刻文を転記した標準本文）",
+      "en": "Complete text: the standard text inscribed at the Lincoln Memorial"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "八十七年前、私たちの父祖はこの大陸に、自由のうちに生まれ、すべての人は平等につくられたという命題に捧げられた、新しい国を築きました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "はちじゅうななねんまえ、わたしたちのふそはこのたいりくに、じゆうのうちにうまれ、すべてのひとはびょうどうにつくられたというめいだいにささげられた、あたらしいくにをきずきました。"
+        },
+        "en": {
+          "text": "Fourscore and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "fourscore and seven は20×4＋7で87年。演説年の1863年から1776年の独立宣言へさかのぼります。",
+              "en": "Fourscore and seven means eighty-seven years, looking back from 1863 to the Declaration of Independence in 1776."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "Fourscore and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal."
+        },
+        "es": {
+          "text": "Hace ochenta y siete años, nuestros padres fundaron en este continente una nueva nación, concebida en la libertad y consagrada a la proposición de que todos los seres humanos son creados iguales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Hace ochenta y siete años, nuestros padres fundaron en este continente una nueva nación, concebida en la libertad y consagrada a la proposición de que todos los seres humanos son creados iguales."
+        },
+        "fr": {
+          "text": "Il y a quatre-vingt-sept ans, nos pères ont fait naître sur ce continent une nouvelle nation, conçue dans la liberté et vouée au principe selon lequel tous les êtres humains sont créés égaux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Il y a quatre-vingt-sept ans, nos pères ont fait naître sur ce continent une nouvelle nation, conçue dans la liberté et vouée au principe selon lequel tous les êtres humains sont créés égaux."
+        },
+        "de": {
+          "text": "Vor siebenundachtzig Jahren gründeten unsere Väter auf diesem Kontinent eine neue Nation, in Freiheit entstanden und dem Grundsatz verpflichtet, dass alle Menschen gleich geschaffen sind.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Vor siebenundachtzig Jahren gründeten unsere Väter auf diesem Kontinent eine neue Nation, in Freiheit entstanden und dem Grundsatz verpflichtet, dass alle Menschen gleich geschaffen sind."
+        },
+        "ru": {
+          "text": "Восемьдесят семь лет назад наши отцы создали на этом континенте новую нацию, зачатую в свободе и преданную положению о том, что все люди созданы равными.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Восемьдесят семь лет назад наши отцы создали на этом континенте новую нацию, зачатую в свободе и преданную положению о том, что все люди созданы равными."
+        },
+        "ar": {
+          "text": "قَبْلَ سَبْعَةٍ وَثَمَانِينَ عَامًا، أَنْشَأَ آبَاؤُنَا فِي هَذِهِ الْقَارَّةِ أُمَّةً جَدِيدَةً، وُلِدَتْ فِي الْحُرِّيَّةِ وَكُرِّسَتْ لِلْمَبْدَإِ الْقَائِلِ إِنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "قَبْلَ سَبْعَةٍ وَثَمَانِينَ عَامًا، أَنْشَأَ آبَاؤُنَا فِي هَذِهِ الْقَارَّةِ أُمَّةً جَدِيدَةً، وُلِدَتْ فِي الْحُرِّيَّةِ وَكُرِّسَتْ لِلْمَبْدَإِ الْقَائِلِ إِنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Qabla sabʿatin wa-thamānīna ʿāman, ʾanshaʾa ʾābāʾunā fī hādhihi al-qārrati ʾummatan jadīdatan, wulidat fī al-ḥurriyyati wa-kurrisat li-al-mabdaʾi al-qāʾili ʾinna jamīʿa al-bashari khuliqū mutasāwīna."
+          }
+        },
+        "zh": {
+          "text": "八十七年前，我们的先辈在这片大陆上建立了一个新国家，它孕育于自由，并献身于人人生而平等这一原则。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "八十七年前，我们的先辈在这片大陆上建立了一个新国家，它孕育于自由，并献身于人人生而平等这一原则。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bāshíqī nián qián, wǒmen de xiānbèi zài zhè piàn dàlù shàng jiànlì le yī ge xīn guójiā, tā yùnyù yú zìyóu, bìng xiànshēn yú rénrén shēng ér píngděng zhè yī yuánzé."
+          }
+        },
+        "ko": {
+          "text": "팔십칠 년 전, 우리 선조들은 이 대륙에 자유 속에서 태어나 모든 사람은 평등하게 창조되었다는 명제에 헌신하는 새로운 나라를 세웠습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "팔십칠 년 전, 우리 선조들은 이 대륙에 자유 속에서 태어나 모든 사람은 평등하게 창조되었다는 명제에 헌신하는 새로운 나라를 세웠습니다."
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "今、私たちは大きな内戦のさなかにいます。それは、この国、あるいは同じように生まれ同じ理念に捧げられたどの国であれ、長く存続できるのかを試す戦争です。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "いま、わたしたちはおおきなないせんのさなかにいます。それは、このくに、あるいはおなじようにうまれおなじりねんにささげられたどのくにであれ、ながくそんぞくできるのかをためすせんそうです。"
+        },
+        "en": {
+          "text": "Now we are engaged in a great civil war, testing whether that nation or any nation so conceived and so dedicated can long endure.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "Now we are engaged in a great civil war, testing whether that nation or any nation so conceived and so dedicated can long endure."
+        },
+        "es": {
+          "text": "Ahora estamos inmersos en una gran guerra civil, que pone a prueba si esa nación, o cualquier nación concebida y consagrada de ese modo, puede perdurar.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ahora estamos inmersos en una gran guerra civil, que pone a prueba si esa nación, o cualquier nación concebida y consagrada de ese modo, puede perdurar."
+        },
+        "fr": {
+          "text": "Nous sommes aujourd’hui engagés dans une grande guerre civile, qui met à l’épreuve la capacité de cette nation, ou de toute nation ainsi conçue et vouée à ce principe, à durer longtemps.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nous sommes aujourd’hui engagés dans une grande guerre civile, qui met à l’épreuve la capacité de cette nation, ou de toute nation ainsi conçue et vouée à ce principe, à durer longtemps."
+        },
+        "de": {
+          "text": "Nun befinden wir uns in einem großen Bürgerkrieg, der erprobt, ob diese Nation oder irgendeine so entstandene und diesem Grundsatz verpflichtete Nation lange bestehen kann.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nun befinden wir uns in einem großen Bürgerkrieg, der erprobt, ob diese Nation oder irgendeine so entstandene und diesem Grundsatz verpflichtete Nation lange bestehen kann."
+        },
+        "ru": {
+          "text": "Теперь мы вовлечены в великую гражданскую войну, которая проверяет, может ли эта нация, или любая нация, так зачатая и так преданная своему принципу, долго существовать.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Теперь мы вовлечены в великую гражданскую войну, которая проверяет, может ли эта нация, или любая нация, так зачатая и так преданная своему принципу, долго существовать."
+        },
+        "ar": {
+          "text": "وَنَحْنُ الْآنَ نَخُوضُ حَرْبًا أَهْلِيَّةً عَظِيمَةً، تَخْتَبِرُ مَا إِذَا كَانَتْ تِلْكَ الْأُمَّةُ، أَوْ أَيَّةُ أُمَّةٍ وُلِدَتْ وَكُرِّسَتْ عَلَى هَذَا النَّحْوِ، تَسْتَطِيعُ الْبَقَاءَ طَوِيلًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَنَحْنُ الْآنَ نَخُوضُ حَرْبًا أَهْلِيَّةً عَظِيمَةً، تَخْتَبِرُ مَا إِذَا كَانَتْ تِلْكَ الْأُمَّةُ، أَوْ أَيَّةُ أُمَّةٍ وُلِدَتْ وَكُرِّسَتْ عَلَى هَذَا النَّحْوِ، تَسْتَطِيعُ الْبَقَاءَ طَوِيلًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-naḥnu al-ʾāna nakhūḍu ḥarban ʾahliyyatan ʿaẓīmatan, takhtabiru mā ʾidhā kānat tilka al-ʾummatu, ʾaw ʾayyatu ʾummatin wulidat wa-kurrisat ʿalā hādhā an-naḥwi, tastaṭīʿu al-baqāʾa ṭawīlan."
+          }
+        },
+        "zh": {
+          "text": "如今，我们正经历一场伟大的内战，考验着这个国家，或者任何同样诞生、同样献身于这一原则的国家，能否长久存在。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "如今，我们正经历一场伟大的内战，考验着这个国家，或者任何同样诞生、同样献身于这一原则的国家，能否长久存在。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rújīn, wǒmen zhèng jīnglì yī chǎng wěidà de nèizhàn, kǎoyànzhe zhè ge guójiā, huòzhě rènhé tóngyàng dànshēng, tóngyàng xiànshēn yú zhè yī yuánzé de guójiā, néng fǒu chángjiǔ cúnzài."
+          }
+        },
+        "ko": {
+          "text": "지금 우리는 큰 내전을 치르고 있습니다. 이 전쟁은 이 나라, 또는 그처럼 태어나 그처럼 헌신하는 어떤 나라든 오래 존속할 수 있는지를 시험하고 있습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "지금 우리는 큰 내전을 치르고 있습니다. 이 전쟁은 이 나라, 또는 그처럼 태어나 그처럼 헌신하는 어떤 나라든 오래 존속할 수 있는지를 시험하고 있습니다."
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "私たちは、その戦争の大きな戦場の一つに集まっています。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしたちは、そのせんそうのおおきなせんじょうのひとつにあつまっています。"
+        },
+        "en": {
+          "text": "We are met on a great battlefield of that war.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "We are met on a great battlefield of that war."
+        },
+        "es": {
+          "text": "Nos hemos reunido en un gran campo de batalla de esa guerra.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nos hemos reunido en un gran campo de batalla de esa guerra."
+        },
+        "fr": {
+          "text": "Nous sommes réunis sur un grand champ de bataille de cette guerre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nous sommes réunis sur un grand champ de bataille de cette guerre."
+        },
+        "de": {
+          "text": "Wir sind auf einem großen Schlachtfeld dieses Krieges zusammengekommen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wir sind auf einem großen Schlachtfeld dieses Krieges zusammengekommen."
+        },
+        "ru": {
+          "text": "Мы собрались на великом поле битвы этой войны.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Мы собрались на великом поле битвы этой войны."
+        },
+        "ar": {
+          "text": "لَقَدِ اجْتَمَعْنَا فِي مَيْدَانٍ عَظِيمٍ مِنْ مَيَادِينِ تِلْكَ الْحَرْبِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَقَدِ اجْتَمَعْنَا فِي مَيْدَانٍ عَظِيمٍ مِنْ مَيَادِينِ تِلْكَ الْحَرْبِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Laqadi ijtamaʿnā fī maydānin ʿaẓīmin min mayādīni tilka al-ḥarbi."
+          }
+        },
+        "zh": {
+          "text": "我们聚集在这场战争的一处重要战场上。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我们聚集在这场战争的一处重要战场上。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen jùjí zài zhè chǎng zhànzhēng de yī chù zhòngyào zhànchǎng shàng."
+          }
+        },
+        "ko": {
+          "text": "우리는 그 전쟁의 큰 전장에 모였습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "우리는 그 전쟁의 큰 전장에 모였습니다."
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "私たちがここに来たのは、この国を生かすためにここで命を捧げた人々の永眠の地として、この戦場の一部を捧げるためです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしたちがここにきたのは、このくにをいかすためにここでいのちをささげたひとびとのえいみんのちとして、このせんじょうのいちぶをささげるためです。"
+        },
+        "en": {
+          "text": "We have come to dedicate a portion of that field as a final resting-place for those who here gave their lives that that nation might live.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "We have come to dedicate a portion of that field as a final resting-place for those who here gave their lives that that nation might live."
+        },
+        "es": {
+          "text": "Hemos venido a dedicar una parte de ese campo como lugar de descanso final para quienes aquí dieron la vida para que esa nación pudiera vivir.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Hemos venido a dedicar una parte de ese campo como lugar de descanso final para quienes aquí dieron la vida para que esa nación pudiera vivir."
+        },
+        "fr": {
+          "text": "Nous sommes venus consacrer une partie de ce terrain comme dernière demeure de ceux qui ont donné ici leur vie pour que cette nation puisse vivre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nous sommes venus consacrer une partie de ce terrain comme dernière demeure de ceux qui ont donné ici leur vie pour que cette nation puisse vivre."
+        },
+        "de": {
+          "text": "Wir sind gekommen, um einen Teil dieses Feldes als letzte Ruhestätte denen zu widmen, die hier ihr Leben gaben, damit diese Nation leben möge.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wir sind gekommen, um einen Teil dieses Feldes als letzte Ruhestätte denen zu widmen, die hier ihr Leben gaben, damit diese Nation leben möge."
+        },
+        "ru": {
+          "text": "Мы пришли посвятить часть этого поля как место последнего упокоения тем, кто здесь отдал жизнь, чтобы эта нация могла жить.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Мы пришли посвятить часть этого поля как место последнего упокоения тем, кто здесь отдал жизнь, чтобы эта нация могла жить."
+        },
+        "ar": {
+          "text": "جِئْنَا لِنُخَصِّصَ جُزْءًا مِنْ هَذَا الْمَيْدَانِ مَثْوًى أَخِيرًا لِمَنْ بَذَلُوا هُنَا حَيَاتَهُمْ لِكَيْ تَحْيَا تِلْكَ الْأُمَّةُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "جِئْنَا لِنُخَصِّصَ جُزْءًا مِنْ هَذَا الْمَيْدَانِ مَثْوًى أَخِيرًا لِمَنْ بَذَلُوا هُنَا حَيَاتَهُمْ لِكَيْ تَحْيَا تِلْكَ الْأُمَّةُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Jiʾnā li-nukhaṣṣiṣa juzʾan min hādhā al-maydāni mathwan ʾakhīran li-man badhalū hunā ḥayātahum li-kay taḥyā tilka al-ʾummatu."
+          }
+        },
+        "zh": {
+          "text": "我们来到这里，是要把这片战场的一部分献作长眠之地，安葬那些为了让这个国家生存而在此献出生命的人。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我们来到这里，是要把这片战场的一部分献作长眠之地，安葬那些为了让这个国家生存而在此献出生命的人。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen lái dào zhèli, shì yào bǎ zhè piàn zhànchǎng de yī bùfen xiàn zuò chángmián zhī dì, ānzàng nàxiē wèile ràng zhè ge guójiā shēngcún ér zài cǐ xiànchū shēngmìng de rén."
+          }
+        },
+        "ko": {
+          "text": "우리는 이 나라가 살아남도록 이곳에서 목숨을 바친 이들의 마지막 안식처로 이 전장의 일부를 봉헌하러 왔습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "우리는 이 나라가 살아남도록 이곳에서 목숨을 바친 이들의 마지막 안식처로 이 전장의 일부를 봉헌하러 왔습니다."
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "私たちがそうするのは、まったくふさわしく、当然のことです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしたちがそうするのは、まったくふさわしく、とうぜんのことです。"
+        },
+        "en": {
+          "text": "It is altogether fitting and proper that we should do this.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "It is altogether fitting and proper that we should do this."
+        },
+        "es": {
+          "text": "Es enteramente justo y apropiado que lo hagamos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Es enteramente justo y apropiado que lo hagamos."
+        },
+        "fr": {
+          "text": "Il est parfaitement juste et convenable que nous le fassions.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Il est parfaitement juste et convenable que nous le fassions."
+        },
+        "de": {
+          "text": "Es ist vollkommen angemessen und richtig, dass wir dies tun.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Es ist vollkommen angemessen und richtig, dass wir dies tun."
+        },
+        "ru": {
+          "text": "Совершенно уместно и правильно, что мы это делаем.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Совершенно уместно и правильно, что мы это делаем."
+        },
+        "ar": {
+          "text": "وَمِنَ اللَّائِقِ وَالصَّوَابِ تَمَامًا أَنْ نَفْعَلَ ذَلِكَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَمِنَ اللَّائِقِ وَالصَّوَابِ تَمَامًا أَنْ نَفْعَلَ ذَلِكَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-mina al-lāʾiqi wa-aṣ-ṣawābi tamāman ʾan nafʿala dhālika."
+          }
+        },
+        "zh": {
+          "text": "我们这样做，是完全合宜而恰当的。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我们这样做，是完全合宜而恰当的。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen zhèyàng zuò, shì wánquán héyí ér qiàdàng de."
+          }
+        },
+        "ko": {
+          "text": "우리가 그렇게 하는 것은 참으로 마땅하고 옳습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "우리가 그렇게 하는 것은 참으로 마땅하고 옳습니다."
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "しかし、より大きな意味では、私たちにはこの地を捧げることも、聖別することも、神聖にすることもできません。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しかし、よりおおきないみでは、わたしたちにはこのちをささげることも、せいべつすることも、しんせいにすることもできません。"
+        },
+        "en": {
+          "text": "But in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "dedicate / consecrate / hallow を反復し、式典での言葉より戦場での行為に重みを置いています。",
+              "en": "The sequence dedicate / consecrate / hallow gives greater weight to actions on the battlefield than to ceremonial words."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "But in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground."
+        },
+        "es": {
+          "text": "Pero, en un sentido más amplio, no podemos dedicar, no podemos consagrar, no podemos santificar este suelo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pero, en un sentido más amplio, no podemos dedicar, no podemos consagrar, no podemos santificar este suelo."
+        },
+        "fr": {
+          "text": "Mais, dans un sens plus large, nous ne pouvons dédier, nous ne pouvons consacrer, nous ne pouvons sanctifier cette terre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Mais, dans un sens plus large, nous ne pouvons dédier, nous ne pouvons consacrer, nous ne pouvons sanctifier cette terre."
+        },
+        "de": {
+          "text": "Doch in einem umfassenderen Sinne können wir diesen Boden nicht widmen, nicht weihen, nicht heiligen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Doch in einem umfassenderen Sinne können wir diesen Boden nicht widmen, nicht weihen, nicht heiligen."
+        },
+        "ru": {
+          "text": "Но в более широком смысле мы не можем посвятить, не можем освятить, не можем сделать священной эту землю.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Но в более широком смысле мы не можем посвятить, не можем освятить, не можем сделать священной эту землю."
+        },
+        "ar": {
+          "text": "وَلَكِنْ بِمَعْنًى أَوْسَعَ، لَا نَسْتَطِيعُ أَنْ نُكَرِّسَ هَذِهِ الْأَرْضَ، وَلَا أَنْ نُقَدِّسَهَا، وَلَا أَنْ نَجْعَلَهَا حَرَمًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَلَكِنْ بِمَعْنًى أَوْسَعَ، لَا نَسْتَطِيعُ أَنْ نُكَرِّسَ هَذِهِ الْأَرْضَ، وَلَا أَنْ نُقَدِّسَهَا، وَلَا أَنْ نَجْعَلَهَا حَرَمًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-lākin bi-maʿnan ʾawsaʿa, lā nastaṭīʿu ʾan nukarrisa hādhihi al-ʾarḍa, wa-lā ʾan nuqaddisahā, wa-lā ʾan najʿalahā ḥaraman."
+          }
+        },
+        "zh": {
+          "text": "但从更广的意义上说，我们无法奉献这片土地，无法将它祝圣，也无法使它神圣。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "但从更广的意义上说，我们无法奉献这片土地，无法将它祝圣，也无法使它神圣。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dàn cóng gèng guǎng de yìyì shàng shuō, wǒmen wúfǎ fèngxiàn zhè piàn tǔdì, wúfǎ jiāng tā zhùshèng, yě wúfǎ shǐ tā shénshèng."
+          }
+        },
+        "ko": {
+          "text": "그러나 더 큰 의미에서 우리는 이 땅을 봉헌할 수도, 축성할 수도, 거룩하게 할 수도 없습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러나 더 큰 의미에서 우리는 이 땅을 봉헌할 수도, 축성할 수도, 거룩하게 할 수도 없습니다."
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "ここで戦った勇敢な人々は、生きている者も死んだ者も、私たちの乏しい力では何も加えられず、何も減らせないほどに、すでにこの地を聖なるものにしました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ここでたたかったゆうかんなひとびとは、いきているものもしんだものも、わたしたちのとぼしいちからではなにもくわえられず、なにもへらせないほどに、すでにこのちをせいなるものにしました。"
+        },
+        "en": {
+          "text": "The brave men, living and dead who struggled here have consecrated it far above our poor power to add or detract.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "The brave men, living and dead who struggled here have consecrated it far above our poor power to add or detract."
+        },
+        "es": {
+          "text": "Los hombres valientes, vivos y muertos, que lucharon aquí la han consagrado mucho más allá de nuestra pobre capacidad de añadir o restar nada.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Los hombres valientes, vivos y muertos, que lucharon aquí la han consagrado mucho más allá de nuestra pobre capacidad de añadir o restar nada."
+        },
+        "fr": {
+          "text": "Les hommes courageux, vivants et morts, qui ont lutté ici l’ont consacrée bien au-delà de notre faible pouvoir d’y ajouter ou d’en retrancher quoi que ce soit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les hommes courageux, vivants et morts, qui ont lutté ici l’ont consacrée bien au-delà de notre faible pouvoir d’y ajouter ou d’en retrancher quoi que ce soit."
+        },
+        "de": {
+          "text": "Die tapferen Männer, lebend wie tot, die hier kämpften, haben ihn geweiht, weit über unsere geringe Macht hinaus, etwas hinzuzufügen oder wegzunehmen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die tapferen Männer, lebend wie tot, die hier kämpften, haben ihn geweiht, weit über unsere geringe Macht hinaus, etwas hinzuzufügen oder wegzunehmen."
+        },
+        "ru": {
+          "text": "Храбрецы, живые и мёртвые, сражавшиеся здесь, освятили её далеко за пределами наших слабых сил что-либо добавить или убавить.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Храбрецы, живые и мёртвые, сражавшиеся здесь, освятили её далеко за пределами наших слабых сил что-либо добавить или убавить."
+        },
+        "ar": {
+          "text": "فَالشُّجْعَانُ، الْأَحْيَاءُ مِنْهُمْ وَالْأَمْوَاتُ، الَّذِينَ كَافَحُوا هُنَا قَدْ قَدَّسُوهَا بِمَا يَتَجَاوَزُ كَثِيرًا قُدْرَتَنَا الضَّعِيفَةَ عَلَى الزِّيَادَةِ أَوِ النُّقْصَانِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "فَالشُّجْعَانُ، الْأَحْيَاءُ مِنْهُمْ وَالْأَمْوَاتُ، الَّذِينَ كَافَحُوا هُنَا قَدْ قَدَّسُوهَا بِمَا يَتَجَاوَزُ كَثِيرًا قُدْرَتَنَا الضَّعِيفَةَ عَلَى الزِّيَادَةِ أَوِ النُّقْصَانِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-ash-shujʿānu, al-ʾaḥyāʾu minhum wa-al-ʾamwātu, alladhīna kāfaḥū hunā qad qaddasūhā bi-mā yatajāwazu kathīran qudratanā aḍ-ḍaʿīfata ʿalā az-ziyādati ʾawi an-nuqṣāni."
+          }
+        },
+        "zh": {
+          "text": "在这里战斗过的勇士，无论生者还是死者，已经使这片土地神圣，远非我们微薄的力量所能增减。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "在这里战斗过的勇士，无论生者还是死者，已经使这片土地神圣，远非我们微薄的力量所能增减。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài zhèli zhàndòu guò de yǒngshì, wúlùn shēngzhě háishi sǐzhě, yǐjīng shǐ zhè piàn tǔdì shénshèng, yuǎn fēi wǒmen wēibó de lìliàng suǒ néng zēngjiǎn."
+          }
+        },
+        "ko": {
+          "text": "이곳에서 싸운 용감한 이들은 산 자든 죽은 자든, 우리의 미약한 힘으로 더하거나 덜할 수 없을 만큼 이미 이 땅을 성스럽게 했습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이곳에서 싸운 용감한 이들은 산 자든 죽은 자든, 우리의 미약한 힘으로 더하거나 덜할 수 없을 만큼 이미 이 땅을 성스럽게 했습니다."
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "世界は、私たちがここで語ることをさほど気にも留めず、長く覚えてもいないでしょう。しかし、彼らがここでしたことを忘れることは決してありません。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "せかいは、わたしたちがここでかたることをさほどきにもとめず、ながくおぼえてもいないでしょう。しかし、かれらがここでしたことをわすれることはけっしてありません。"
+        },
+        "en": {
+          "text": "The world will little note nor long remember what we say here, but it can never forget what they did here.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "The world will little note nor long remember what we say here, but it can never forget what they did here."
+        },
+        "es": {
+          "text": "El mundo apenas prestará atención ni recordará por mucho tiempo lo que aquí digamos, pero nunca podrá olvidar lo que ellos hicieron aquí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El mundo apenas prestará atención ni recordará por mucho tiempo lo que aquí digamos, pero nunca podrá olvidar lo que ellos hicieron aquí."
+        },
+        "fr": {
+          "text": "Le monde remarquera peu et ne se souviendra pas longtemps de ce que nous disons ici, mais il ne pourra jamais oublier ce qu’ils y ont fait.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le monde remarquera peu et ne se souviendra pas longtemps de ce que nous disons ici, mais il ne pourra jamais oublier ce qu’ils y ont fait."
+        },
+        "de": {
+          "text": "Die Welt wird kaum beachten und nicht lange erinnern, was wir hier sagen; doch sie kann niemals vergessen, was sie hier getan haben.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die Welt wird kaum beachten und nicht lange erinnern, was wir hier sagen; doch sie kann niemals vergessen, was sie hier getan haben."
+        },
+        "ru": {
+          "text": "Мир едва заметит и недолго будет помнить то, что мы здесь говорим, но никогда не сможет забыть того, что они здесь совершили.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Мир едва заметит и недолго будет помнить то, что мы здесь говорим, но никогда не сможет забыть того, что они здесь совершили."
+        },
+        "ar": {
+          "text": "لَنْ يَلْتَفِتَ الْعَالَمُ كَثِيرًا إِلَى مَا نَقُولُهُ هُنَا، وَلَنْ يَذْكُرَهُ طَوِيلًا، وَلَكِنَّهُ لَنْ يَسْتَطِيعَ أَبَدًا أَنْ يَنْسَى مَا فَعَلُوهُ هُنَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَنْ يَلْتَفِتَ الْعَالَمُ كَثِيرًا إِلَى مَا نَقُولُهُ هُنَا، وَلَنْ يَذْكُرَهُ طَوِيلًا، وَلَكِنَّهُ لَنْ يَسْتَطِيعَ أَبَدًا أَنْ يَنْسَى مَا فَعَلُوهُ هُنَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lan yaltafita al-ʿālamu kathīran ʾilā mā naqūluhu hunā, wa-lan yadhkurahu ṭawīlan, wa-lākinnahu lan yastaṭīʿa ʾabadan ʾan yansā mā faʿalūhu hunā."
+          }
+        },
+        "zh": {
+          "text": "世界不会多么留意，也不会长久记住我们在这里说的话，但它永远不会忘记他们在这里所做的事。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "世界不会多么留意，也不会长久记住我们在这里说的话，但它永远不会忘记他们在这里所做的事。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shìjiè bù huì duōme liúyì, yě bù huì chángjiǔ jìzhù wǒmen zài zhèli shuō de huà, dàn tā yǒngyuǎn bù huì wàngjì tāmen zài zhèli suǒ zuò de shì."
+          }
+        },
+        "ko": {
+          "text": "세상은 우리가 이곳에서 하는 말을 별로 주목하지도 오래 기억하지도 않겠지만, 그들이 이곳에서 한 일은 결코 잊을 수 없을 것입니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "세상은 우리가 이곳에서 하는 말을 별로 주목하지도 오래 기억하지도 않겠지만, 그들이 이곳에서 한 일은 결코 잊을 수 없을 것입니다."
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "むしろ、ここで戦った人々がこれまで気高く進めてきた未完の仕事に、ここで身を捧げるべきなのは、生きている私たちです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "むしろ、ここでたたかったひとびとがこれまでけだかくすすめてきたみかんのしごとに、ここでみをささげるべきなのは、いきているわたしたちです。"
+        },
+        "en": {
+          "text": "It is for us the living rather to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "It is for us the living rather to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced."
+        },
+        "es": {
+          "text": "Nos corresponde más bien a nosotros, los vivos, consagrarnos aquí a la obra inconclusa que quienes lucharon aquí han hecho avanzar tan noblemente hasta ahora.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nos corresponde más bien a nosotros, los vivos, consagrarnos aquí a la obra inconclusa que quienes lucharon aquí han hecho avanzar tan noblemente hasta ahora."
+        },
+        "fr": {
+          "text": "C’est plutôt à nous, les vivants, de nous consacrer ici à l’œuvre inachevée que ceux qui ont combattu ici ont jusqu’à présent si noblement fait avancer.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "C’est plutôt à nous, les vivants, de nous consacrer ici à l’œuvre inachevée que ceux qui ont combattu ici ont jusqu’à présent si noblement fait avancer."
+        },
+        "de": {
+          "text": "Vielmehr ist es an uns Lebenden, uns hier dem unvollendeten Werk zu widmen, das jene, die hier kämpften, bisher so edel vorangebracht haben.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Vielmehr ist es an uns Lebenden, uns hier dem unvollendeten Werk zu widmen, das jene, die hier kämpften, bisher so edel vorangebracht haben."
+        },
+        "ru": {
+          "text": "Скорее нам, живущим, надлежит посвятить себя здесь незавершённому делу, которое сражавшиеся здесь до сих пор столь благородно продвигали вперёд.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Скорее нам, живущим, надлежит посвятить себя здесь незавершённому делу, которое сражавшиеся здесь до сих пор столь благородно продвигали вперёд."
+        },
+        "ar": {
+          "text": "بَلْ عَلَيْنَا نَحْنُ الْأَحْيَاءَ أَنْ نَتَفَانَى هُنَا فِي الْعَمَلِ غَيْرِ الْمُكْتَمِلِ الَّذِي دَفَعَهُ إِلَى الْأَمَامِ بِكُلِّ نُبْلٍ أُولَئِكَ الَّذِينَ قَاتَلُوا هُنَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "بَلْ عَلَيْنَا نَحْنُ الْأَحْيَاءَ أَنْ نَتَفَانَى هُنَا فِي الْعَمَلِ غَيْرِ الْمُكْتَمِلِ الَّذِي دَفَعَهُ إِلَى الْأَمَامِ بِكُلِّ نُبْلٍ أُولَئِكَ الَّذِينَ قَاتَلُوا هُنَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Bal ʿalaynā naḥnu al-ʾaḥyāʾa ʾan natafānā hunā fī al-ʿamali ghayri al-muktamili alladhī dafaʿahu ʾilā al-ʾamāmi bi-kulli nublin ʾulāʾika alladhīna qātalū hunā."
+          }
+        },
+        "zh": {
+          "text": "倒是我们这些活着的人，应当在这里献身于尚未完成的事业，而在此战斗的人们已经如此高尚地推进了这项事业。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "倒是我们这些活着的人，应当在这里献身于尚未完成的事业，而在此战斗的人们已经如此高尚地推进了这项事业。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dào shì wǒmen zhèxiē huózhe de rén, yīngdāng zài zhèli xiànshēn yú shàng wèi wánchéng de shìyè, ér zài cǐ zhàndòu de rénmen yǐjīng rúcǐ gāoshàng de tuījìn le zhè xiàng shìyè."
+          }
+        },
+        "ko": {
+          "text": "오히려 살아 있는 우리가 이곳에서, 여기서 싸운 이들이 지금까지 그토록 고귀하게 진전시킨 미완의 과업에 헌신해야 합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "오히려 살아 있는 우리가 이곳에서, 여기서 싸운 이들이 지금까지 그토록 고귀하게 진전시킨 미완의 과업에 헌신해야 합니다."
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "私たちこそ、ここで目の前に残された大きな務めに身を捧げるべきです。栄誉ある死者たちが献身のかぎりを尽くした大義に、彼らからさらに深い献身を学ぶこと。彼らの死を無駄にしないと、ここで固く決意すること。この国が神のもとで自由の新たな誕生を迎え、人民の、人民による、人民のための政治が地上から消え去らないようにすることです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしたちこそ、ここでめのまえにのこされたおおきなつとめにみをささげるべきです。えいよあるししゃたちがけんしんのかぎりをつくしたたいぎに、かれらからさらにふかいけんしんをまなぶこと。かれらのしをむだにしないと、ここでかたくけついすること。このくにがかみのもとでじゆうのあらたなたんじょうをむかえ、じんみんの、じんみんによる、じんみんのためのせいじがちじょうからきえさらないようにすることです。"
+        },
+        "en": {
+          "text": "It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain, that this nation under God shall have a new birth of freedom, and that government of the people, by the people, for the people shall not perish from the earth.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "最後の長文は that 節を重ねて決意を述べています。日本語訳と韓国語訳では読みやすさのため複数の文に分けています。",
+              "en": "The final long sentence builds a commitment through repeated that clauses. Japanese and Korean divide it into several sentences for readability."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Abraham Lincoln; Library of Congress — Transcription of the standard text inscribed on the wall of the Lincoln Memorial"
+          },
+          "ttsText": "It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain, that this nation under God shall have a new birth of freedom, and that government of the people, by the people, for the people shall not perish from the earth."
+        },
+        "es": {
+          "text": "Nos corresponde más bien consagrarnos aquí a la gran tarea que nos queda: que de estos muertos honrados recibamos una devoción mayor por la causa a la que entregaron la medida plena y última de su entrega; que resolvamos firmemente aquí que estos muertos no hayan muerto en vano, que esta nación, bajo Dios, conozca un nuevo nacimiento de la libertad y que el gobierno del pueblo, por el pueblo y para el pueblo no desaparezca de la tierra.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nos corresponde más bien consagrarnos aquí a la gran tarea que nos queda: que de estos muertos honrados recibamos una devoción mayor por la causa a la que entregaron la medida plena y última de su entrega; que resolvamos firmemente aquí que estos muertos no hayan muerto en vano, que esta nación, bajo Dios, conozca un nuevo nacimiento de la libertad y que el gobierno del pueblo, por el pueblo y para el pueblo no desaparezca de la tierra."
+        },
+        "fr": {
+          "text": "C’est plutôt à nous de nous consacrer ici à la grande tâche qui nous reste : puiser auprès de ces morts honorés un dévouement accru à la cause pour laquelle ils ont donné l’ultime et pleine mesure de leur dévouement ; prendre ici la ferme résolution que ces morts ne soient pas morts en vain, que cette nation, sous Dieu, connaisse une nouvelle naissance de la liberté, et que le gouvernement du peuple, par le peuple et pour le peuple ne disparaisse pas de la terre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "C’est plutôt à nous de nous consacrer ici à la grande tâche qui nous reste : puiser auprès de ces morts honorés un dévouement accru à la cause pour laquelle ils ont donné l’ultime et pleine mesure de leur dévouement ; prendre ici la ferme résolution que ces morts ne soient pas morts en vain, que cette nation, sous Dieu, connaisse une nouvelle naissance de la liberté, et que le gouvernement du peuple, par le peuple et pour le peuple ne disparaisse pas de la terre."
+        },
+        "de": {
+          "text": "Vielmehr ist es an uns, uns hier der großen Aufgabe zu widmen, die vor uns liegt: von diesen geehrten Toten eine stärkere Hingabe an jene Sache zu empfangen, für die sie das letzte volle Maß ihrer Hingabe gaben; hier fest zu beschließen, dass diese Toten nicht vergebens gestorben sein sollen, dass diese Nation unter Gott eine neue Geburt der Freiheit erleben soll und dass die Regierung des Volkes, durch das Volk und für das Volk nicht von der Erde verschwinden soll.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Vielmehr ist es an uns, uns hier der großen Aufgabe zu widmen, die vor uns liegt: von diesen geehrten Toten eine stärkere Hingabe an jene Sache zu empfangen, für die sie das letzte volle Maß ihrer Hingabe gaben; hier fest zu beschließen, dass diese Toten nicht vergebens gestorben sein sollen, dass diese Nation unter Gott eine neue Geburt der Freiheit erleben soll und dass die Regierung des Volkes, durch das Volk und für das Volk nicht von der Erde verschwinden soll."
+        },
+        "ru": {
+          "text": "Скорее нам надлежит посвятить себя здесь великой задаче, которая остаётся перед нами: почерпнуть у этих почитаемых погибших ещё большую преданность делу, которому они отдали последнюю полную меру своей преданности; твёрдо решить здесь, что эти погибшие не умерли напрасно, что эта нация под Богом переживёт новое рождение свободы и что правление народа, силами народа и ради народа не исчезнет с лица земли.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Скорее нам надлежит посвятить себя здесь великой задаче, которая остаётся перед нами: почерпнуть у этих почитаемых погибших ещё большую преданность делу, которому они отдали последнюю полную меру своей преданности; твёрдо решить здесь, что эти погибшие не умерли напрасно, что эта нация под Богом переживёт новое рождение свободы и что правление народа, силами народа и ради народа не исчезнет с лица земли."
+        },
+        "ar": {
+          "text": "بَلْ عَلَيْنَا أَنْ نُكَرِّسَ أَنْفُسَنَا هُنَا لِلْمَهَمَّةِ الْعَظِيمَةِ الْبَاقِيَةِ أَمَامَنَا: أَنْ نَسْتَمِدَّ مِنْ هَؤُلَاءِ الْمَوْتَى الْمُكَرَّمِينَ مَزِيدًا مِنَ التَّفَانِي فِي الْقَضِيَّةِ الَّتِي بَذَلُوا لَهَا آخِرَ مَا عِنْدَهُمْ مِنْ تَفَانٍ؛ وَأَنْ نَعْزِمَ هُنَا عَزْمًا رَاسِخًا عَلَى أَلَّا يَكُونَ هَؤُلَاءِ الْمَوْتَى قَدْ مَاتُوا عَبَثًا، وَأَنْ تَشْهَدَ هَذِهِ الْأُمَّةُ فِي ظِلِّ اللَّهِ مِيلَادًا جَدِيدًا لِلْحُرِّيَّةِ، وَأَلَّا يَزُولَ مِنَ الْأَرْضِ حُكْمُ الشَّعْبِ بِالشَّعْبِ وَلِلشَّعْبِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "بَلْ عَلَيْنَا أَنْ نُكَرِّسَ أَنْفُسَنَا هُنَا لِلْمَهَمَّةِ الْعَظِيمَةِ الْبَاقِيَةِ أَمَامَنَا: أَنْ نَسْتَمِدَّ مِنْ هَؤُلَاءِ الْمَوْتَى الْمُكَرَّمِينَ مَزِيدًا مِنَ التَّفَانِي فِي الْقَضِيَّةِ الَّتِي بَذَلُوا لَهَا آخِرَ مَا عِنْدَهُمْ مِنْ تَفَانٍ؛ وَأَنْ نَعْزِمَ هُنَا عَزْمًا رَاسِخًا عَلَى أَلَّا يَكُونَ هَؤُلَاءِ الْمَوْتَى قَدْ مَاتُوا عَبَثًا، وَأَنْ تَشْهَدَ هَذِهِ الْأُمَّةُ فِي ظِلِّ اللَّهِ مِيلَادًا جَدِيدًا لِلْحُرِّيَّةِ، وَأَلَّا يَزُولَ مِنَ الْأَرْضِ حُكْمُ الشَّعْبِ بِالشَّعْبِ وَلِلشَّعْبِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Bal ʿalaynā ʾan nukarrisa ʾanfusanā hunā li-al-mahammati al-ʿaẓīmati al-bāqiyati ʾamāmanā: ʾan nastamidda min hāʾulāʾi al-mawtā al-mukarramīna mazīdan mina at-tafānī fī al-qaḍiyyati allatī badhalū lahā ʾākhira mā ʿindahum min tafānin; wa-ʾan naʿzima hunā ʿazman rāsikhan ʿalā ʾallā yakūna hāʾulāʾi al-mawtā qad mātū ʿabathan, wa-ʾan tashhada hādhihi al-ʾummatu fī ẓilli Allāhi mīlādan jadīdan li-al-ḥurriyyati, wa-ʾallā yazūla mina al-ʾarḍi ḥukmu ash-shaʿbi bi-ash-shaʿbi wa-li-ash-shaʿbi."
+          }
+        },
+        "zh": {
+          "text": "我们更应在这里献身于面前尚未完成的伟大任务：从这些受人尊敬的死者身上，汲取更深的献身精神，投身于他们为之献出最后全部忠诚的事业；在这里坚定决心，使这些死者没有白白牺牲，使这个国家在上帝之下迎来自由的新生，使民有、民治、民享的政府不从地上消失。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我们更应在这里献身于面前尚未完成的伟大任务：从这些受人尊敬的死者身上，汲取更深的献身精神，投身于他们为之献出最后全部忠诚的事业；在这里坚定决心，使这些死者没有白白牺牲，使这个国家在上帝之下迎来自由的新生，使民有、民治、民享的政府不从地上消失。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen gèng yīng zài zhèli xiànshēn yú miànqián shàng wèi wánchéng de wěidà rènwu: cóng zhèxiē shòu rén zūnjìng de sǐzhě shēn shàng, jíqǔ gèng shēn de xiànshēn jīngshén, tóushēn yú tāmen wèi zhī xiànchū zuìhòu quánbù zhōngchéng de shìyè; zài zhèli jiāndìng juéxīn, shǐ zhèxiē sǐzhě méiyǒu báibái xīshēng, shǐ zhè ge guójiā zài Shàngdì zhī xià yínglái zìyóu de xīnshēng, shǐ mín yǒu, mín zhì, mín xiǎng de zhèngfǔ bù cóng dì shàng xiāoshī."
+          }
+        },
+        "ko": {
+          "text": "오히려 우리는 이곳에서 눈앞에 남은 위대한 과업에 헌신해야 합니다. 명예로운 이 죽은 이들이 마지막 남은 헌신을 모두 바친 그 대의에 더욱 깊이 헌신할 마음을 그들에게서 얻어야 합니다. 이들이 헛되이 죽지 않았으며, 이 나라가 하나님 아래에서 자유의 새로운 탄생을 맞이하고, 국민의, 국민에 의한, 국민을 위한 정부가 지상에서 사라지지 않도록 하겠다고 이곳에서 굳게 결의해야 합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "오히려 우리는 이곳에서 눈앞에 남은 위대한 과업에 헌신해야 합니다. 명예로운 이 죽은 이들이 마지막 남은 헌신을 모두 바친 그 대의에 더욱 깊이 헌신할 마음을 그들에게서 얻어야 합니다. 이들이 헛되이 죽지 않았으며, 이 나라가 하나님 아래에서 자유의 새로운 탄생을 맞이하고, 국민의, 국민에 의한, 국민을 위한 정부가 지상에서 사라지지 않도록 하겠다고 이곳에서 굳게 결의해야 합니다."
+        }
+      }
+    }
+  ]
+}

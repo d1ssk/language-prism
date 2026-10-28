@@ -1,0 +1,30 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { withBase } from '../../lib/catalog';
+import { displayLanguages, languageName } from '../../lib/languages';
+import { UI_LOCALES, translate, type UiLocale } from '../../i18n';
+export function getStaticPaths() { return UI_LOCALES.map(locale => ({ params: { locale }, props: { locale } })); }
+interface Props { locale: UiLocale }
+const { locale } = Astro.props;
+const t = (key: Parameters<typeof translate>[1]) => translate(locale, key);
+const [accuracyBeforeLink, accuracyAfterLink] = t('homeAccuracy').split('{chatterbox}');
+---
+<Layout locale={locale}>
+  <section class="hero">
+    <h1>language prism</h1>
+    <div class="home-prose">
+      <p>{t('homeCompare')}</p>
+      <p>{t('homePersonal')}</p>
+      <p>{translate(locale, 'homeLanguages', { languages: new Intl.ListFormat(locale, { style: 'long', type: 'conjunction' }).format(displayLanguages(locale).map(lang => languageName(lang.code, locale))) })}</p>
+      <p>{accuracyBeforeLink}<a href="https://github.com/resemble-ai/chatterbox" rel="noreferrer">Chatterbox</a>{accuracyAfterLink}</p>
+      <p>{t('homeCollections')}</p>
+      <p>{t('homeLibrary')}</p>
+      <p><a class="guide-link" href={withBase(`${locale}/guide/`)}>{t('guideTitle')}</a></p>
+    </div>
+  </section>
+  <nav class="collection-links" aria-label={t('collections')}>
+    <a href={withBase(`${locale}/practical/`)}>Practical <span aria-hidden="true">→</span></a>
+    <a href={withBase(`${locale}/grammar/`)}>Grammar <span aria-hidden="true">→</span></a>
+    <a href={withBase(`${locale}/library/`)}>Library <span aria-hidden="true">→</span></a>
+  </nav>
+</Layout>

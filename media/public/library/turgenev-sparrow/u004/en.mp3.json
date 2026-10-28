@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47aace3877a3b8bd0d404b57c41c2b2c0db78f8c3b0ea7d49ca8f88188f4d577",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It had fallen from its nest—the wind was shaking the birches along the avenue violently—and sat motionless, helplessly spreading its little wings, whose feathers had barely begun to grow.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aa3dcf15d9fb7960358564d1e8d92c2b79fd713fd14cd7e8e3bbfdb6d866617d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:12:09.436932+00:00"
+}

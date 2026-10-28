@@ -1,0 +1,4238 @@
+{
+  "schemaVersion": 1,
+  "slug": "turgenev-sparrow",
+  "type": "library",
+  "sourceURL": "https://ru.wikisource.org/wiki/Воробей_(Тургенев)",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。原文の著者と収録元を明記しています。",
+    "en": "The original work is in the public domain. Its author and the transcription source are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)。収録元：Викитека — Воробей; Полное собрание сочинений и писем, т. 10, Наука, 1982, с. 142. Written April 1878; first published 1882.。他言語訳・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883). Source: Викитека — Воробей; Полное собрание сочинений и писем, т. 10, Наука, 1982, с. 142. Written April 1878; first published 1882.. New translations and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文は出典に従い、学習・再生のため意味単位に分けています。他言語訳は本サイト用の新しい訳で、既存の翻訳版から転載したものではありません。解説・読み・音声を含め専門家による校閲は行っていません。",
+    "en": "The original follows the cited source and is divided into units for study and playback. Other-language versions are new translations for this site, not copies of published translations. Translations, explanations, readings and audio have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "id": "turgenev-sparrow",
+  "title": {
+    "ja": "ツルゲーネフ『雀』",
+    "en": "Turgenev — The Sparrow"
+  },
+  "description": {
+    "ja": "雛を守る雀を描く散文詩の全文。",
+    "en": "The complete prose poem about a sparrow protecting its young."
+  },
+  "originalLanguage": "ru",
+  "author": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)",
+  "sourceTitle": "Викитека — Воробей; Полное собрание сочинений и писем, т. 10, Наука, 1982, с. 142. Written April 1878; first published 1882.",
+  "excerpt": {
+    "isExcerpt": false,
+    "location": ""
+  },
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "私は狩りから帰るところで、庭の並木道を歩いていた。犬は私の前を走っていた。",
+          "ttsText": "わたしはかりからかえるところで、にわのなみきみちをあるいていた。いぬはわたしのまえをはしっていた。",
+          "vocabulary": [
+            {
+              "term": "並木道",
+              "meaning": {
+                "ja": "両側に木が並ぶ道。",
+                "en": "A path lined with trees."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜ていた",
+              "explanation": {
+                "ja": "帰路で同時に続いていた歩行と犬の走りを描く。",
+                "en": "Describes the ongoing walk and the dog’s simultaneous running."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I was returning from a hunt and walking along an avenue in the garden. My dog was running ahead of me.",
+          "ttsText": "I was returning from a hunt and walking along an avenue in the garden. My dog was running ahead of me.",
+          "vocabulary": [
+            {
+              "term": "avenue",
+              "meaning": {
+                "ja": "ここでは木の並ぶ庭の道。大通りではない。",
+                "en": "Here a tree-lined garden path, not a city thoroughfare."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "was returning … was running",
+              "explanation": {
+                "ja": "過去進行形で、出来事の背景となる継続中の動きを描く。",
+                "en": "The past progressive sets the scene through actions already in progress."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Volvía de cazar y caminaba por una alameda del jardín. Mi perro corría delante de mí.",
+          "ttsText": "Volvía de cazar y caminaba por una alameda del jardín. Mi perro corría delante de mí.",
+          "vocabulary": [
+            {
+              "term": "alameda",
+              "meaning": {
+                "ja": "並木のある遊歩道。",
+                "en": "A tree-lined walk."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "volvía, caminaba, corría",
+              "explanation": {
+                "ja": "半過去形が、後の出来事の背景になる継続中の行動を表す。",
+                "en": "The imperfect forms describe ongoing actions that form the background to the later event."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Je revenais de la chasse et marchais dans une allée du jardin. Mon chien courait devant moi.",
+          "ttsText": "Je revenais de la chasse et marchais dans une allée du jardin. Mon chien courait devant moi.",
+          "vocabulary": [
+            {
+              "term": "allée",
+              "meaning": {
+                "ja": "庭園などの通路、並木道。",
+                "en": "A path or avenue in a garden."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "revenais, marchais, courait",
+              "explanation": {
+                "ja": "半過去で物語の背景を描く。いずれもその時進行していた動き。",
+                "en": "The imperfect forms establish the narrative background through ongoing movement."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich kam von der Jagd zurück und ging die Allee im Garten entlang. Mein Hund lief vor mir her.",
+          "ttsText": "Ich kam von der Jagd zurück und ging die Allee im Garten entlang. Mein Hund lief vor mir her.",
+          "vocabulary": [
+            {
+              "term": "Allee",
+              "meaning": {
+                "ja": "両側に木が並んだ道。",
+                "en": "A tree-lined avenue."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "die Allee … entlang",
+              "explanation": {
+                "ja": "後置された entlang はここで対格を取り、道に沿う移動を表す。",
+                "en": "Postposed entlang takes the accusative here and describes movement along the path."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я возвращался с охоты и шел по аллее сада. Собака бежала впереди меня.",
+          "ttsText": "Я возвращался с охоты и шел по аллее сада. Собака бежала впереди меня.",
+          "vocabulary": [
+            {
+              "term": "аллея",
+              "meaning": {
+                "ja": "庭や公園の並木道。",
+                "en": "A tree-lined path in a garden or park."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "возвращался / шел / бежала",
+              "explanation": {
+                "ja": "不完了体の過去形が背景の継続した動作を描く。шел は出典の表記を保持している。",
+                "en": "Imperfective past forms portray ongoing background actions. Шел retains the source’s spelling."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كنت عائدا من الصيد، أسير في ممر تصطف الأشجار على جانبيه في الحديقة. وكان كلبي يجري أمامي.",
+          "ttsText": "كنت عائدا من الصيد، أسير في ممر تصطف الأشجار على جانبيه في الحديقة. وكان كلبي يجري أمامي.",
+          "vocabulary": [
+            {
+              "term": "تصطف الأشجار",
+              "meaning": {
+                "ja": "木々が並んでいる。",
+                "en": "The trees stand in rows."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كان كلبي يجري",
+              "explanation": {
+                "ja": "كان に未完了形 يجري を続け、過去に進行していた動きを表す。",
+                "en": "Kāna followed by the imperfect yajrī describes an ongoing action in the past."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kuntu ʿāʾidan mina aṣ-ṣaydi, ʾasīru fī mamarrin taṣṭaffu al-ʾashjāru ʿalā jānibayhi fī al-ḥadīqati. Wa-kāna kalbī yajrī ʾamāmī."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我打猎回来，正沿着花园里的林荫道走。我的狗跑在我前面。",
+          "ttsText": "我打猎回来，正沿着花园里的林荫道走。我的狗跑在我前面。",
+          "vocabulary": [
+            {
+              "term": "林荫道",
+              "meaning": {
+                "ja": "木陰のある並木道。",
+                "en": "A shaded, tree-lined path."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "正沿着……走",
+              "explanation": {
+                "ja": "正 が進行中であることを示し、沿着 が移動する経路を導く。",
+                "en": "正 marks an action in progress; 沿着 introduces the route followed."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ dǎliè huílái, zhèng yánzhe huāyuán lǐ de línyīndào zǒu. Wǒ de gǒu pǎo zài wǒ qiánmiàn."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "나는 사냥에서 돌아오며 정원의 가로수 길을 걷고 있었다. 내 개는 내 앞에서 달리고 있었다.",
+          "ttsText": "나는 사냥에서 돌아오며 정원의 가로수 길을 걷고 있었다. 내 개는 내 앞에서 달리고 있었다.",
+          "vocabulary": [
+            {
+              "term": "가로수 길",
+              "meaning": {
+                "ja": "並木道。",
+                "en": "A tree-lined path."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-고 있었다",
+              "explanation": {
+                "ja": "過去のある時点で動作が続いていたことを示し、物語の背景を作る。",
+                "en": "Marks an action continuing at a past time and establishes the narrative background."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "突然、犬は歩みを緩め、前方に獲物を嗅ぎつけたかのように、忍び足で進み始めた。",
+          "ttsText": "とつぜん、いぬはあゆみをゆるめ、ぜんぽうにえものをかぎつけたかのように、しのびあしですすみはじめた。",
+          "vocabulary": [
+            {
+              "term": "嗅ぎつける",
+              "meaning": {
+                "ja": "においを感じ取って居場所を知る。",
+                "en": "To detect something’s presence by scent."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "かのように",
+              "explanation": {
+                "ja": "語り手の推測として、犬の振る舞いを説明する。",
+                "en": "Presents the narrator’s inference about the dog’s behavior."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Suddenly it slowed its pace and began to creep forward, as though it had scented game ahead.",
+          "ttsText": "Suddenly it slowed its pace and began to creep forward, as though it had scented game ahead.",
+          "vocabulary": [
+            {
+              "term": "game",
+              "meaning": {
+                "ja": "狩猟の対象になる野生動物。不可算用法。",
+                "en": "Wild animals hunted for sport or food; uncountable here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "as though it had scented",
+              "explanation": {
+                "ja": "過去完了は、忍び足になるより前に獲物を察知したという推測を示す。",
+                "en": "The past perfect imagines detecting the scent before the dog began creeping."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "De pronto redujo el paso y empezó a avanzar sigilosamente, como si hubiera olfateado alguna presa delante de sí.",
+          "ttsText": "De pronto redujo el paso y empezó a avanzar sigilosamente, como si hubiera olfateado alguna presa delante de sí.",
+          "vocabulary": [
+            {
+              "term": "sigilosamente",
+              "meaning": {
+                "ja": "音を立てず、ひそかに。",
+                "en": "Stealthily, without making noise."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "como si hubiera olfateado",
+              "explanation": {
+                "ja": "como si＋接続法過去完了で、においを感じたかのような様子を表す。",
+                "en": "Como si plus the pluperfect subjunctive expresses an imagined prior detection of a scent."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Soudain, il ralentit le pas et se mit à avancer furtivement, comme s’il avait flairé du gibier devant lui.",
+          "ttsText": "Soudain, il ralentit le pas et se mit à avancer furtivement, comme s’il avait flairé du gibier devant lui.",
+          "vocabulary": [
+            {
+              "term": "gibier",
+              "meaning": {
+                "ja": "狩りの獲物となる動物。",
+                "en": "Game animals."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se mit à avancer",
+              "explanation": {
+                "ja": "se mettre à＋不定詞で行動の開始を表す。mit は単純過去。",
+                "en": "Se mettre à plus an infinitive marks the start of an action; mit is past historic."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Plötzlich verlangsamte er seine Schritte und begann zu schleichen, als hätte er vor sich Wild gewittert.",
+          "ttsText": "Plötzlich verlangsamte er seine Schritte und begann zu schleichen, als hätte er vor sich Wild gewittert.",
+          "vocabulary": [
+            {
+              "term": "Wild wittern",
+              "meaning": {
+                "ja": "獲物のにおいを感じ取る。",
+                "en": "To scent game."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "als hätte er … gewittert",
+              "explanation": {
+                "ja": "接続法IIの過去形で、語り手が推測した原因を示す。",
+                "en": "The past subjunctive II presents the cause as the narrator’s inference."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Вдруг она уменьшила свои шаги и начала красться, как бы зачуяв перед собою дичь.",
+          "ttsText": "Вдруг она уменьшила свои шаги и начала красться, как бы зачуяв перед собою дичь.",
+          "vocabulary": [
+            {
+              "term": "дичь",
+              "meaning": {
+                "ja": "狩りの獲物となる野生動物。",
+                "en": "Wild game."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "как бы зачуяв",
+              "explanation": {
+                "ja": "как бы は「まるで」。完了体の副動詞 зачуяв が、先ににおいを察知したような様子を示す。",
+                "en": "Как бы means as though; the perfective adverbial participle зачуяв suggests an earlier detection of scent."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وفجأة أبطأ خطواته وبدأ يتسلل، كأنه شم رائحة طريدة أمامه.",
+          "ttsText": "وفجأة أبطأ خطواته وبدأ يتسلل، كأنه شم رائحة طريدة أمامه.",
+          "vocabulary": [
+            {
+              "term": "طريدة",
+              "meaning": {
+                "ja": "狩りで追われる獲物。",
+                "en": "Quarry or prey pursued in a hunt."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "بدأ يتسلل",
+              "explanation": {
+                "ja": "بدأ に未完了形を続け、「忍び寄り始めた」という動作の開始を示す。",
+                "en": "Badaʾa followed by the imperfect means began to creep."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-fajʾatan ʾabṭaʾa khuṭuwātihi wa-badaʾa yatasallalu, ka-ʾannahu shamma rāʾiḥata ṭarīdatin ʾamāmahu."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "忽然，它放慢了脚步，开始悄悄向前走，好像闻到了前方猎物的气味。",
+          "ttsText": "忽然，它放慢了脚步，开始悄悄向前走，好像闻到了前方猎物的气味。",
+          "vocabulary": [
+            {
+              "term": "放慢脚步",
+              "meaning": {
+                "ja": "歩く速さを落とす。",
+                "en": "To slow one’s pace."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "闻到了",
+              "explanation": {
+                "ja": "結果補語 到 が、ただ嗅ぐのではなく、においを感じ取ったことを示す。",
+                "en": "The result complement 到 marks successful detection of the scent."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hūrán, tā fàngmàn le jiǎobù, kāishǐ qiāoqiāo xiàng qián zǒu, hǎoxiàng wéndào le qiánfāng lièwù de qìwèi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "갑자기 개는 걸음을 늦추더니, 앞에 있는 사냥감의 냄새를 맡기라도 한 듯 살금살금 나아가기 시작했다.",
+          "ttsText": "갑자기 개는 걸음을 늦추더니, 앞에 있는 사냥감의 냄새를 맡기라도 한 듯 살금살금 나아가기 시작했다.",
+          "vocabulary": [
+            {
+              "term": "살금살금",
+              "meaning": {
+                "ja": "気づかれないようにそっと動く様子。",
+                "en": "Stealthily, in small quiet movements."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-기 시작했다",
+              "explanation": {
+                "ja": "動詞の名詞化 -기 に 시작했다 を続け、動作の開始を示す。",
+                "en": "Nominalizing -기 plus 시작했다 marks the beginning of an action."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "並木道の先を見ると、くちばしの周りが黄色く、頭に産毛のある若い雀が目に入った。",
+          "ttsText": "なみきみちのさきをみると、くちばしのまわりがきいろく、あたまにうぶげのあるわかいすずめがめにはいった。",
+          "vocabulary": [
+            {
+              "term": "産毛",
+              "meaning": {
+                "ja": "雛の頭にある柔らかい羽毛。",
+                "en": "The soft down on a young bird’s head."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜を見ると",
+              "explanation": {
+                "ja": "視線を向けた結果、新しいものに気づいたという発見を示す。",
+                "en": "Introduces a discovery resulting from looking."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I looked along the avenue and saw a young sparrow with yellow around its beak and down on its head.",
+          "ttsText": "I looked along the avenue and saw a young sparrow with yellow around its beak and down on its head.",
+          "vocabulary": [
+            {
+              "term": "down",
+              "meaning": {
+                "ja": "雛などに生える柔らかい羽毛。",
+                "en": "Soft feathers, especially on a young bird."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "with yellow … and down …",
+              "explanation": {
+                "ja": "with 以下の二つの名詞句が、雀の外見を付け加えている。",
+                "en": "The two noun phrases after with add visible details about the sparrow."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Miré a lo largo de la alameda y vi un gorrión joven, con un tono amarillo alrededor del pico y plumón en la cabeza.",
+          "ttsText": "Miré a lo largo de la alameda y vi un gorrión joven, con un tono amarillo alrededor del pico y plumón en la cabeza.",
+          "vocabulary": [
+            {
+              "term": "plumón",
+              "meaning": {
+                "ja": "柔らかい羽毛、綿毛。",
+                "en": "Soft downy feathers."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "alrededor del pico",
+              "explanation": {
+                "ja": "alrededor de は「〜の周りに」。del は de と el の縮約。",
+                "en": "Alrededor de means around; del contracts de and el."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Je regardai le long de l’allée et aperçus un jeune moineau, avec du jaune autour du bec et du duvet sur la tête.",
+          "ttsText": "Je regardai le long de l’allée et aperçus un jeune moineau, avec du jaune autour du bec et du duvet sur la tête.",
+          "vocabulary": [
+            {
+              "term": "duvet",
+              "meaning": {
+                "ja": "雛などの柔らかい羽毛。",
+                "en": "Soft down on a bird."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "aperçus",
+              "explanation": {
+                "ja": "apercevoir の一人称単数の単純過去で、ふと目に入った出来事を示す。",
+                "en": "The first-person singular past historic of apercevoir marks the moment of catching sight of something."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich blickte die Allee entlang und sah einen jungen Spatz mit gelben Stellen am Schnabel und Flaum auf dem Kopf.",
+          "ttsText": "Ich blickte die Allee entlang und sah einen jungen Spatz mit gelben Stellen am Schnabel und Flaum auf dem Kopf.",
+          "vocabulary": [
+            {
+              "term": "Flaum",
+              "meaning": {
+                "ja": "柔らかい羽毛。",
+                "en": "Soft down."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "einen jungen Spatz",
+              "explanation": {
+                "ja": "男性名詞 Spatz を対格に置き、不定冠詞と形容詞も対格にする。",
+                "en": "The masculine noun Spatz is accusative, with matching article and adjective endings."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я глянул вдоль аллеи и увидел молодого воробья с желтизной около клюва и пухом на голове.",
+          "ttsText": "Я глянул вдоль аллеи и увидел молодого воробья с желтизной около клюва и пухом на голове.",
+          "vocabulary": [
+            {
+              "term": "пух",
+              "meaning": {
+                "ja": "柔らかい羽毛、産毛。",
+                "en": "Soft down."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "с желтизной … и пухом",
+              "explanation": {
+                "ja": "с＋造格が雀の特徴を示す。二つの造格名詞が一つの前置詞を共有する。",
+                "en": "С plus the instrumental describes features; both instrumental nouns share the same preposition."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "نظرت على امتداد الممر، فرأيت عصفورا صغيرا حول منقاره صفرة وعلى رأسه زغب.",
+          "ttsText": "نظرت على امتداد الممر، فرأيت عصفورا صغيرا حول منقاره صفرة وعلى رأسه زغب.",
+          "vocabulary": [
+            {
+              "term": "زغب",
+              "meaning": {
+                "ja": "雛の柔らかい羽毛。",
+                "en": "The soft down of a young bird."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "حول منقاره صفرة",
+              "explanation": {
+                "ja": "場所句を先に置いた名詞文で、くちばしの周りの黄色みを描く。",
+                "en": "A nominal clause with a fronted location phrase describes the yellow around the beak."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naẓartu ʿalā imtidādi al-mamarri, fa-raʾaytu ʿuṣfūran ṣaghīran ḥawla minqārihi ṣufratun wa-ʿalā raʾsihi zaghabun."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我顺着林荫道望去，看见一只幼小的麻雀，嘴边带着黄色，头上长着绒毛。",
+          "ttsText": "我顺着林荫道望去，看见一只幼小的麻雀，嘴边带着黄色，头上长着绒毛。",
+          "vocabulary": [
+            {
+              "term": "绒毛",
+              "meaning": {
+                "ja": "柔らかく細い羽毛。",
+                "en": "Soft, fine down."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "长着绒毛",
+              "explanation": {
+                "ja": "长 はここでは zhǎng。「生える」という動詞に 着 をつけ、外見の状態を示す。",
+                "en": "长 is zhǎng, to grow; 着 presents the resulting visible state."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ shùnzhe línyīndào wàng qù, kànjiàn yī zhī yòuxiǎo de máquè, zuǐbiān dàizhe huángsè, tóu shàng zhǎngzhe róngmáo."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "가로수 길을 따라 눈길을 돌리자, 부리 둘레가 노랗고 머리에 솜털이 난 어린 참새가 보였다.",
+          "ttsText": "가로수 길을 따라 눈길을 돌리자, 부리 둘레가 노랗고 머리에 솜털이 난 어린 참새가 보였다.",
+          "vocabulary": [
+            {
+              "term": "솜털",
+              "meaning": {
+                "ja": "柔らかい産毛。",
+                "en": "Soft down."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-자 … 보였다",
+              "explanation": {
+                "ja": "-자 が前の動作に続く発見を導き、보였다 は自然に目に入ったことを表す。",
+                "en": "-자 introduces a discovery following the first action; 보였다 means it came into view."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "雛は巣から落ちていた。風が並木道の白樺を激しく揺らしていたのだ。生えかけの小さな翼を頼りなく広げ、身じろぎもせずに座っていた。",
+          "ttsText": "ひなはすからおちていた。かぜがなみきみちのしらかばをはげしくゆらしていたのだ。はえかけのちいさなつばさをたよりなくひろげ、みじろぎもせずにすわっていた。",
+          "vocabulary": [
+            {
+              "term": "生えかけ",
+              "meaning": {
+                "ja": "生え始めているが、十分には育っていないこと。",
+                "en": "Only beginning to grow, not yet fully developed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "身じろぎもせずに",
+              "explanation": {
+                "ja": "小さな動きさえしないことを、も で強調する。",
+                "en": "Mo emphasizes the absence of even the slightest movement."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "It had fallen from its nest—the wind was shaking the birches along the avenue violently—and sat motionless, helplessly spreading its little wings, whose feathers had barely begun to grow.",
+          "ttsText": "It had fallen from its nest—the wind was shaking the birches along the avenue violently—and sat motionless, helplessly spreading its little wings, whose feathers had barely begun to grow.",
+          "vocabulary": [
+            {
+              "term": "birches",
+              "meaning": {
+                "ja": "白い樹皮で知られる白樺の木々。",
+                "en": "Birch trees, known for their pale bark."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "had fallen / sat",
+              "explanation": {
+                "ja": "過去完了で先に起きた転落を、単純過去で発見した時の姿勢を示す。",
+                "en": "The past perfect places the fall earlier; the simple past describes its posture when found."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Se había caído del nido —el viento sacudía con fuerza los abedules de la alameda— y permanecía inmóvil, extendiendo indefenso sus alitas, cuyas plumas apenas empezaban a crecer.",
+          "ttsText": "Se había caído del nido —el viento sacudía con fuerza los abedules de la alameda— y permanecía inmóvil, extendiendo indefenso sus alitas, cuyas plumas apenas empezaban a crecer.",
+          "vocabulary": [
+            {
+              "term": "abedules",
+              "meaning": {
+                "ja": "白樺の木々。",
+                "en": "Birch trees."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se había caído",
+              "explanation": {
+                "ja": "過去完了により、語り手が発見するより前に巣から落ちたことを示す。",
+                "en": "The pluperfect places the fall before the narrator’s discovery."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Il était tombé du nid — le vent secouait fortement les bouleaux de l’allée — et restait immobile, écartant sans défense ses petites ailes dont les plumes commençaient à peine à pousser.",
+          "ttsText": "Il était tombé du nid — le vent secouait fortement les bouleaux de l’allée — et restait immobile, écartant sans défense ses petites ailes dont les plumes commençaient à peine à pousser.",
+          "vocabulary": [
+            {
+              "term": "à peine",
+              "meaning": {
+                "ja": "ようやく、ほとんど〜していない。",
+                "en": "Barely; only just."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dont les plumes",
+              "explanation": {
+                "ja": "dont が ailes を受け、「その翼の羽毛」という所属関係を作る。",
+                "en": "Dont refers back to ailes and expresses possession: the feathers of those wings."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Er war aus dem Nest gefallen — der Wind schüttelte die Birken der Allee heftig — und saß reglos da, die kleinen, kaum befiederten Flügel hilflos abgespreizt.",
+          "ttsText": "Er war aus dem Nest gefallen — der Wind schüttelte die Birken der Allee heftig — und saß reglos da, die kleinen, kaum befiederten Flügel hilflos abgespreizt.",
+          "vocabulary": [
+            {
+              "term": "kaum befiedert",
+              "meaning": {
+                "ja": "羽毛がまだほとんど生えていない。",
+                "en": "Barely feathered."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "war … gefallen",
+              "explanation": {
+                "ja": "sein を助動詞とする過去完了で、観察より前の落下を表す。",
+                "en": "The pluperfect with sein places the fall before the observation."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Он упал из гнезда (ветер сильно качал березы аллеи) и сидел неподвижно, беспомощно растопырив едва прораставшие крылышки.",
+          "ttsText": "Он упал из гнезда (ветер сильно качал березы аллеи) и сидел неподвижно, беспомощно растопырив едва прораставшие крылышки.",
+          "vocabulary": [
+            {
+              "term": "крылышки",
+              "meaning": {
+                "ja": "крылья の指小形で、小さな翼を表す。",
+                "en": "A diminutive of крылья, suggesting tiny wings."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "растопырив",
+              "explanation": {
+                "ja": "完了体の副動詞で、翼を広げた結果の姿勢を示す。主節の主語 он と一致する。",
+                "en": "A perfective adverbial participle describing the resulting spread-wing posture; it shares the subject он."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كان قد سقط من العش، وكانت الريح تهز أشجار البتولا في الممر بشدة، فجلس بلا حراك، يبسط في عجز جناحيه الصغيرين اللذين بالكاد بدأ ريشهما ينبت.",
+          "ttsText": "كان قد سقط من العش، وكانت الريح تهز أشجار البتولا في الممر بشدة، فجلس بلا حراك، يبسط في عجز جناحيه الصغيرين اللذين بالكاد بدأ ريشهما ينبت.",
+          "vocabulary": [
+            {
+              "term": "بلا حراك",
+              "meaning": {
+                "ja": "身動きせず。",
+                "en": "Without movement."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كان قد سقط",
+              "explanation": {
+                "ja": "كان قد＋完了形で、観察した過去の時点より前に起きた転落を示す。",
+                "en": "Kāna qad plus the perfect places the fall before the past moment of observation."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kāna qad saqaṭa mina al-ʿushshi, wa-kānati ar-rīḥu tahuzzu ʾashjāra al-batūlā fī al-mamarri bi-shiddatin, fa-jalasa bi-lā ḥarākin, yabsuṭu fī ʿajzin janāḥayhi aṣ-ṣaghīrayni alladhayni bi-al-kādi badaʾa rīshuhumā yanbutu."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "它从巢里掉了下来——风正猛烈地摇着林荫道两旁的白桦树——一动不动地坐着，无助地张开羽毛才刚开始长出的小翅膀。",
+          "ttsText": "它从巢里掉了下来——风正猛烈地摇着林荫道两旁的白桦树——一动不动地坐着，无助地张开羽毛才刚开始长出的小翅膀。",
+          "vocabulary": [
+            {
+              "term": "无助",
+              "meaning": {
+                "ja": "助けがなく、どうすることもできない。",
+                "en": "Helpless."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一动不动",
+              "explanation": {
+                "ja": "同じ動詞を繰り返す固定表現で、少しも動かないこと。",
+                "en": "A fixed repetition pattern meaning not to move at all."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Tā cóng cháo lǐ diào le xiàlái — fēng zhèng měngliè de yáozhe línyīndào liǎngpáng de báihuàshù — yī dòng bù dòng de zuòzhe, wúzhù de zhāngkāi yǔmáo cái gāng kāishǐ zhǎng chū de xiǎo chìbǎng."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "참새는 둥지에서 떨어진 것이었다. 바람이 가로수 길의 자작나무들을 세차게 흔들고 있었다. 깃털이 겨우 돋기 시작한 작은 날개를 힘없이 벌린 채 꼼짝 않고 앉아 있었다.",
+          "ttsText": "참새는 둥지에서 떨어진 것이었다. 바람이 가로수 길의 자작나무들을 세차게 흔들고 있었다. 깃털이 겨우 돋기 시작한 작은 날개를 힘없이 벌린 채 꼼짝 않고 앉아 있었다.",
+          "vocabulary": [
+            {
+              "term": "자작나무",
+              "meaning": {
+                "ja": "白樺。",
+                "en": "A birch tree."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "벌린 채",
+              "explanation": {
+                "ja": "-ㄴ 채 は翼を広げたまま、その状態を保っていたことを示す。",
+                "en": "-ㄴ 채 indicates that the spread-wing position was maintained."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "私の犬がゆっくり雛に近づくと、突然、近くの木から胸の黒い親雀が飛び出し、犬の鼻先へ石のように落ちてきた。全身の羽を逆立て、取り乱した姿で、必死の痛ましい声を上げながら、牙の並ぶ開いた口へ向かって二度ほど跳ねた。",
+          "ttsText": "わたしのいぬがゆっくりひなにちかづくと、とつぜん、ちかくのきからむねのくろいおやすずめがとびだし、いぬのはなさきへいしのようにおちてきた。ぜんしんのはねをさかだて、とりみだしたすがたで、ひっしのいたましいこえをあげながら、きばのならぶひらいたくちへむかってにどほどはねた。",
+          "vocabulary": [
+            {
+              "term": "親雀",
+              "meaning": {
+                "ja": "原文の старый は若い雛に対する成鳥。親の性別は確定していない。",
+                "en": "The adult sparrow contrasted with the young bird; the parent’s sex is not established."
+              }
+            },
+            {
+              "term": "鼻先",
+              "meaning": {
+                "ja": "犬の鼻のすぐ前。危険の間近まで飛び込んだことを強調する。",
+                "en": "Directly in front of the dog’s nose, emphasizing proximity to danger."
+              }
+            },
+            {
+              "term": "羽を逆立てる",
+              "meaning": {
+                "ja": "恐怖や威嚇で羽毛を立たせる。",
+                "en": "To raise the feathers in fear or threat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "二度ほど",
+              "explanation": {
+                "ja": "原文の раза два に対応し、回数のおおよその見積もりを表す。",
+                "en": "Renders раза два, an approximate count of about two times."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "My dog was slowly approaching it when suddenly an adult black-breasted sparrow burst from a nearby tree and dropped like a stone right in front of its muzzle; all ruffled and contorted, with a desperate, pitiful squeak, it hopped a couple of times toward the open, tooth-filled mouth.",
+          "ttsText": "My dog was slowly approaching it when suddenly an adult black-breasted sparrow burst from a nearby tree and dropped like a stone right in front of its muzzle; all ruffled and contorted, with a desperate, pitiful squeak, it hopped a couple of times toward the open, tooth-filled mouth.",
+          "vocabulary": [
+            {
+              "term": "muzzle",
+              "meaning": {
+                "ja": "犬などの鼻と口が突き出た部分。",
+                "en": "The projecting nose-and-mouth part of an animal’s face."
+              }
+            },
+            {
+              "term": "black-breasted",
+              "meaning": {
+                "ja": "胸の羽毛が黒い。",
+                "en": "Having black feathers on the breast."
+              }
+            },
+            {
+              "term": "a couple of times",
+              "meaning": {
+                "ja": "ここではおよそ二回。",
+                "en": "Here, approximately twice."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "was approaching … when",
+              "explanation": {
+                "ja": "進行中の動作を when 以下の突然の出来事が遮る構文。",
+                "en": "An ongoing action is interrupted by the sudden event introduced by when."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Mi perro se acercaba lentamente, cuando de pronto un gorrión adulto de pecho negro se lanzó desde un árbol cercano y cayó como una piedra justo delante de su hocico; todo erizado y desencajado, dando un chillido desesperado y lastimero, saltó un par de veces hacia aquellas fauces abiertas y llenas de dientes.",
+          "ttsText": "Mi perro se acercaba lentamente, cuando de pronto un gorrión adulto de pecho negro se lanzó desde un árbol cercano y cayó como una piedra justo delante de su hocico; todo erizado y desencajado, dando un chillido desesperado y lastimero, saltó un par de veces hacia aquellas fauces abiertas y llenas de dientes.",
+          "vocabulary": [
+            {
+              "term": "fauces",
+              "meaning": {
+                "ja": "動物の開いた口を表す文学的な複数名詞。",
+                "en": "A literary plural noun for an animal’s jaws."
+              }
+            },
+            {
+              "term": "erizado",
+              "meaning": {
+                "ja": "羽が逆立った状態の。",
+                "en": "With feathers standing on end."
+              }
+            },
+            {
+              "term": "un par de veces",
+              "meaning": {
+                "ja": "二回ほど。",
+                "en": "A couple of times."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se acercaba … cuando",
+              "explanation": {
+                "ja": "半過去が進行中の動作を、点過去 se lanzó が割り込む出来事を示す。",
+                "en": "The imperfect gives the ongoing approach; the preterite se lanzó introduces the interrupting event."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Mon chien s’approchait lentement de lui lorsque, soudain, un moineau adulte à la poitrine noire se précipita d’un arbre voisin et tomba comme une pierre juste devant son museau ; tout hérissé, défiguré, poussant un cri désespéré et plaintif, il fit deux bonds environ vers la gueule ouverte, pleine de dents.",
+          "ttsText": "Mon chien s’approchait lentement de lui lorsque, soudain, un moineau adulte à la poitrine noire se précipita d’un arbre voisin et tomba comme une pierre juste devant son museau ; tout hérissé, défiguré, poussant un cri désespéré et plaintif, il fit deux bonds environ vers la gueule ouverte, pleine de dents.",
+          "vocabulary": [
+            {
+              "term": "hérissé",
+              "meaning": {
+                "ja": "羽毛などが逆立った。",
+                "en": "With feathers or hair standing on end."
+              }
+            },
+            {
+              "term": "se précipita",
+              "meaning": {
+                "ja": "飛び込んだ、勢いよく身を投げた。se précipiter の単純過去。",
+                "en": "Rushed or hurled itself; past historic of se précipiter."
+              }
+            },
+            {
+              "term": "gueule",
+              "meaning": {
+                "ja": "動物の口。人に使うと粗野な響きになる。",
+                "en": "An animal’s mouth; coarse when used of a person."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "deux bonds environ",
+              "explanation": {
+                "ja": "environ を数の後ろに置き、約二回の跳躍という意味にする。",
+                "en": "Environ after the quantity makes the count approximate: about two hops."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Mein Hund näherte sich ihm langsam, als plötzlich ein erwachsener Spatz mit schwarzer Brust von einem nahen Baum herabstürzte und wie ein Stein unmittelbar vor seiner Schnauze landete; völlig zerzaust und entstellt hüpfte er mit verzweifeltem, kläglichem Piepsen etwa zweimal auf das offene, zähnebewehrte Maul zu.",
+          "ttsText": "Mein Hund näherte sich ihm langsam, als plötzlich ein erwachsener Spatz mit schwarzer Brust von einem nahen Baum herabstürzte und wie ein Stein unmittelbar vor seiner Schnauze landete; völlig zerzaust und entstellt hüpfte er mit verzweifeltem, kläglichem Piepsen etwa zweimal auf das offene, zähnebewehrte Maul zu.",
+          "vocabulary": [
+            {
+              "term": "Schnauze / Maul",
+              "meaning": {
+                "ja": "犬の鼻口部／口。",
+                "en": "An animal’s muzzle / mouth."
+              }
+            },
+            {
+              "term": "herabstürzte",
+              "meaning": {
+                "ja": "上から勢いよく落ちてきた。",
+                "en": "Plunged down from above."
+              }
+            },
+            {
+              "term": "kläglich",
+              "meaning": {
+                "ja": "痛ましい、哀れな響きの。",
+                "en": "Pitiful or plaintive."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "auf … zu",
+              "explanation": {
+                "ja": "auf＋対格の後に zu を置き、口へ向かう移動を表す。",
+                "en": "Auf plus the accusative followed by zu expresses movement toward the mouth."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Моя собака медленно приближалась к нему, как вдруг, сорвавшись с близкого дерева, старый черногрудый воробей камнем упал перед самой ее мордой — и весь взъерошенный, искаженный, с отчаянным и жалким писком прыгнул раза два в направлении зубастой раскрытой пасти.",
+          "ttsText": "Моя собака медленно приближалась к нему, как вдруг, сорвавшись с близкого дерева, старый черногрудый воробей камнем упал перед самой ее мордой — и весь взъерошенный, искаженный, с отчаянным и жалким писком прыгнул раза два в направлении зубастой раскрытой пасти.",
+          "vocabulary": [
+            {
+              "term": "камнем",
+              "meaning": {
+                "ja": "石のように。камень の造格が比喩的な様態を表す。",
+                "en": "Like a stone; the instrumental of камень describes manner by comparison."
+              }
+            },
+            {
+              "term": "сорвавшись",
+              "meaning": {
+                "ja": "身を急に離し、飛び出して。主語は親雀。",
+                "en": "Breaking away or darting off; the subject is the adult sparrow."
+              }
+            },
+            {
+              "term": "взъерошенный",
+              "meaning": {
+                "ja": "羽毛が逆立って乱れた。",
+                "en": "Ruffled, with feathers standing on end."
+              }
+            },
+            {
+              "term": "пасть",
+              "meaning": {
+                "ja": "動物の口。ここでは牙を強調している。",
+                "en": "An animal’s mouth, here emphasizing its teeth."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "раза два",
+              "explanation": {
+                "ja": "通常の два раза と語順を逆にすると、約二回という概数になる。",
+                "en": "Reversing the normal два раза gives an approximate number: about twice."
+              }
+            },
+            {
+              "point": "как вдруг …",
+              "explanation": {
+                "ja": "進行中の近づく動作に、突然の飛び込みが割り込む。приближалась は不完了体、упал・прыгнул は完了体。",
+                "en": "An ongoing approach is interrupted by a sudden descent. Приближалась is imperfective, while упал and прыгнул are perfective."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "старый は雛と対比された成鳥。原文の男性形は воробей の文法上の性にもよるため、父鳥と断定していません。",
+              "en": "Старый contrasts the adult with the fledgling. Masculine forms also follow the grammatical gender of воробей, so the translation does not identify it specifically as the father."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كان كلبي يقترب منه ببطء، حين اندفع فجأة عصفور بالغ أسود الصدر من شجرة قريبة، وسقط كالحجر أمام خطمه مباشرة؛ وبريش منتفش وهيئة مشوهة، أطلق زقزقة يائسة موجعة وقفز نحو مرتين باتجاه الفم المفتوح المليء بالأسنان.",
+          "ttsText": "كان كلبي يقترب منه ببطء، حين اندفع فجأة عصفور بالغ أسود الصدر من شجرة قريبة، وسقط كالحجر أمام خطمه مباشرة؛ وبريش منتفش وهيئة مشوهة، أطلق زقزقة يائسة موجعة وقفز نحو مرتين باتجاه الفم المفتوح المليء بالأسنان.",
+          "vocabulary": [
+            {
+              "term": "خطمه",
+              "meaning": {
+                "ja": "その鼻先。ـه は犬を指す。",
+                "en": "Its muzzle; the suffix refers to the dog."
+              }
+            },
+            {
+              "term": "بريش منتفش",
+              "meaning": {
+                "ja": "羽毛を逆立てて。",
+                "en": "With ruffled feathers."
+              }
+            },
+            {
+              "term": "زقزقة يائسة",
+              "meaning": {
+                "ja": "必死で絶望的な小鳥の鳴き声。",
+                "en": "A desperate chirp."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "نحو مرتين",
+              "explanation": {
+                "ja": "نحو はここでは「およそ」。مرتين は「二回」の双数形。",
+                "en": "Naḥwa here means approximately; marratayn is the dual form meaning two times."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kāna kalbī yaqtaribu minhu bi-buṭʾin, ḥīna indafaʿa fajʾatan ʿuṣfūrun bālighun ʾaswadu aṣ-ṣadri min shajaratin qarībatin, wa-saqaṭa ka-al-ḥajari ʾamāma khaṭmihi mubāsharatan; wa-bi-rīshin muntafishin wa-hayʾatin mushawwahatin, ʾaṭlaqa zaqzaqatan yāʾisatan mūjiʿatan wa-qafaza naḥwa marratayni bi-ittijāhi al-fami al-maftūḥi al-malīʾi bi-al-ʾasnāni."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我的狗正慢慢走近它，忽然，一只黑胸脯的老麻雀从附近的树上猛扑下来，像石头一样落在狗的鼻子正前方；它浑身羽毛竖起，模样都变了，发出绝望而凄切的叫声，朝那张布满牙齿的大口跳了两下。",
+          "ttsText": "我的狗正慢慢走近它，忽然，一只黑胸脯的老麻雀从附近的树上猛扑下来，像石头一样落在狗的鼻子正前方；它浑身羽毛竖起，模样都变了，发出绝望而凄切的叫声，朝那张布满牙齿的大口跳了两下。",
+          "vocabulary": [
+            {
+              "term": "凄切",
+              "meaning": {
+                "ja": "悲痛で痛ましい声の様子。",
+                "en": "Plaintive and sorrowful."
+              }
+            },
+            {
+              "term": "猛扑下来",
+              "meaning": {
+                "ja": "勢いよく上から飛びかかる。",
+                "en": "To swoop or lunge down forcefully."
+              }
+            },
+            {
+              "term": "朝……跳",
+              "meaning": {
+                "ja": "ある方向へ跳ぶ。朝はここでは cháo。",
+                "en": "To hop toward something; 朝 is cháo here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "像石头一样",
+              "explanation": {
+                "ja": "像……一样 の比較で、落下の速さと勢いを石にたとえる。",
+                "en": "像…一样 compares the speed and force of the descent to a stone."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ de gǒu zhèng mànmàn zǒujìn tā, hūrán, yī zhī hēi xiōngpú de lǎo máquè cóng fùjìn de shù shàng měngpū xiàlái, xiàng shítou yīyàng luò zài gǒu de bízi zhèng qiánfāng; tā húnshēn yǔmáo shù qǐ, múyàng dōu biàn le, fāchū juéwàng ér qīqiè de jiàoshēng, cháo nà zhāng bùmǎn yáchǐ de dà kǒu tiào le liǎng xià."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "내 개가 천천히 다가가자, 갑자기 가까운 나무에서 가슴이 검은 다 자란 참새가 몸을 날려 개의 코앞에 돌처럼 떨어졌다. 깃털을 온통 곤두세우고 모습이 일그러진 채, 절박하고 애처로운 소리를 내며 이빨이 가득한 벌어진 입을 향해 두 번쯤 뛰었다.",
+          "ttsText": "내 개가 천천히 다가가자, 갑자기 가까운 나무에서 가슴이 검은 다 자란 참새가 몸을 날려 개의 코앞에 돌처럼 떨어졌다. 깃털을 온통 곤두세우고 모습이 일그러진 채, 절박하고 애처로운 소리를 내며 이빨이 가득한 벌어진 입을 향해 두 번쯤 뛰었다.",
+          "vocabulary": [
+            {
+              "term": "다 자란 참새",
+              "meaning": {
+                "ja": "成長した親雀。原文は親の性別を指定していない。",
+                "en": "The adult parent sparrow; the original does not specify its sex."
+              }
+            },
+            {
+              "term": "곤두세우고",
+              "meaning": {
+                "ja": "羽毛などをぴんと立てて。",
+                "en": "With feathers raised on end."
+              }
+            },
+            {
+              "term": "코앞",
+              "meaning": {
+                "ja": "鼻先。比喩的にも「すぐ目の前」。",
+                "en": "Right in front of the nose; also figuratively very close."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "두 번쯤",
+              "explanation": {
+                "ja": "数量に -쯤 を付け、約二回という意味にする。",
+                "en": "-쯤 after a quantity makes it approximate: about twice."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "雀は救おうとして飛び込み、自分の体で雛をかばった……だが、その小さな体は恐怖で震え、声は荒くかすれ、動きが止まりかけた。自分の身を犠牲にしていたのだ！",
+          "ttsText": "すずめはすくおうとしてとびこみ、じぶんのからだでひなをかばった。だが、そのちいさなからだはきょうふでふるえ、こえはあらくかすれ、うごきがとまりかけた。じぶんのみをぎせいにしていたのだ。",
+          "vocabulary": [
+            {
+              "term": "かばう",
+              "meaning": {
+                "ja": "危険を引き受けて守る。",
+                "en": "To shield another by taking the danger oneself."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "救おうとして",
+              "explanation": {
+                "ja": "意志形＋とする で、救おうという試みや目的を示す。",
+                "en": "The volitional plus to suru expresses the attempt or intention to rescue."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "It rushed to the rescue and shielded its young with its own body… but its whole little body shook with terror, its tiny voice grew wild and hoarse, and it was nearly motionless; it was sacrificing itself!",
+          "ttsText": "It rushed to the rescue and shielded its young with its own body… but its whole little body shook with terror, its tiny voice grew wild and hoarse, and it was nearly motionless; it was sacrificing itself!",
+          "vocabulary": [
+            {
+              "term": "hoarse",
+              "meaning": {
+                "ja": "声がかすれた。",
+                "en": "Rough or strained in voice."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "was sacrificing itself",
+              "explanation": {
+                "ja": "進行形が、その瞬間に続いていた自己犠牲を強調する。再帰代名詞は雀自身を指す。",
+                "en": "The progressive emphasizes the self-sacrifice unfolding at that moment; itself refers to the sparrow."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Se precipitó a salvar a su cría y la cubrió con su propio cuerpo… pero todo su cuerpecillo temblaba de terror, su vocecita se volvió salvaje y ronca, y estaba a punto de quedarse inmóvil: ¡se estaba sacrificando!",
+          "ttsText": "Se precipitó a salvar a su cría y la cubrió con su propio cuerpo… pero todo su cuerpecillo temblaba de terror, su vocecita se volvió salvaje y ronca, y estaba a punto de quedarse inmóvil: ¡se estaba sacrificando!",
+          "vocabulary": [
+            {
+              "term": "cría",
+              "meaning": {
+                "ja": "動物の子。",
+                "en": "An animal’s offspring."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "temblaba de terror",
+              "explanation": {
+                "ja": "de が震えの原因を示す。半過去は続いている身体反応を描く。",
+                "en": "De marks the cause of the trembling; the imperfect presents a continuing bodily reaction."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Il s’était élancé pour sauver son petit et l’avait couvert de son corps… mais tout son petit corps tremblait de terreur, sa voix menue devenait sauvage et rauque, il se figeait ; il se sacrifiait !",
+          "ttsText": "Il s’était élancé pour sauver son petit et l’avait couvert de son corps… mais tout son petit corps tremblait de terreur, sa voix menue devenait sauvage et rauque, il se figeait ; il se sacrifiait !",
+          "vocabulary": [
+            {
+              "term": "rauque",
+              "meaning": {
+                "ja": "かすれた、荒れた声の。",
+                "en": "Hoarse or rough in voice."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se sacrifiait",
+              "explanation": {
+                "ja": "再帰動詞 se sacrifier の半過去で、自己犠牲の続いている場面を描く。",
+                "en": "The imperfect of the reflexive se sacrifier depicts the ongoing act of self-sacrifice."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Er stürzte herbei, um sein Junges zu retten, und schirmte es mit seinem eigenen Körper ab … doch sein ganzer kleiner Leib bebte vor Entsetzen, sein Stimmchen wurde wild und heiser, er erstarrte beinahe; er opferte sich selbst!",
+          "ttsText": "Er stürzte herbei, um sein Junges zu retten, und schirmte es mit seinem eigenen Körper ab … doch sein ganzer kleiner Leib bebte vor Entsetzen, sein Stimmchen wurde wild und heiser, er erstarrte beinahe; er opferte sich selbst!",
+          "vocabulary": [
+            {
+              "term": "sein Junges",
+              "meaning": {
+                "ja": "その雛。形容詞 jung を名詞化した形。",
+                "en": "Its young; a nominalized form of jung."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "vor Entsetzen",
+              "explanation": {
+                "ja": "vor＋与格が、震えなどの身体反応を引き起こす感情を示す。",
+                "en": "Vor plus the dative names the emotion causing a bodily reaction such as trembling."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Он ринулся спасать, он заслонил собою свое детище… но всё его маленькое тело трепетало от ужаса, голосок одичал и охрип, он замирал, он жертвовал собою!",
+          "ttsText": "Он ринулся спасать, он заслонил собою свое детище… но всё его маленькое тело трепетало от ужаса, голосок одичал и охрип, он замирал, он жертвовал собою!",
+          "vocabulary": [
+            {
+              "term": "детище",
+              "meaning": {
+                "ja": "子、愛しい我が子。愛着を帯びた語。",
+                "en": "One’s offspring, with an affectionate or emotionally charged tone."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "жертвовал собою",
+              "explanation": {
+                "ja": "жертвовать は犠牲にするものを造格に置く。собою は自己を指す再帰代名詞の造格。",
+                "en": "Жертвовать takes the instrumental for what is sacrificed; собою is the instrumental reflexive pronoun."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "اندفع لينقذ فرخه وحماه بجسده… لكن جسمه الصغير كله كان يرتجف من الرعب، وصار صوته الضئيل وحشيا أجش، وكاد يتجمد؛ كان يضحي بنفسه!",
+          "ttsText": "اندفع لينقذ فرخه وحماه بجسده… لكن جسمه الصغير كله كان يرتجف من الرعب، وصار صوته الضئيل وحشيا أجش، وكاد يتجمد؛ كان يضحي بنفسه!",
+          "vocabulary": [
+            {
+              "term": "يضحي بنفسه",
+              "meaning": {
+                "ja": "自分自身を犠牲にする。",
+                "en": "Sacrifices himself."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "لينقذ",
+              "explanation": {
+                "ja": "目的を表す لِـ に接続法の動詞が続き、「救うために」となる。",
+                "en": "The purpose particle li- followed by the subjunctive means in order to save."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Indafaʿa li-yunqidha farkhahu wa-ḥamāhu bi-jasadihi… lākinna jismahu aṣ-ṣaghīra kullahu kāna yartajifu mina ar-ruʿbi, wa-ṣāra ṣawtuhu aḍ-ḍaʾīlu waḥshiyyan ʾajashsha, wa-kāda yatajammadu; kāna yuḍaḥḥī bi-nafsihi!"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "它冲上前去救自己的孩子，用身体把它护住……可是，它小小的身躯因恐惧而颤抖，细弱的声音变得狂乱而嘶哑，身体几乎僵住；它在牺牲自己！",
+          "ttsText": "它冲上前去救自己的孩子，用身体把它护住……可是，它小小的身躯因恐惧而颤抖，细弱的声音变得狂乱而嘶哑，身体几乎僵住；它在牺牲自己！",
+          "vocabulary": [
+            {
+              "term": "嘶哑",
+              "meaning": {
+                "ja": "声が荒くかすれていること。",
+                "en": "Hoarse."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "把它护住",
+              "explanation": {
+                "ja": "把 構文で守る対象を先に示し、住 がその対象をしっかり守る結果を表す。",
+                "en": "把 foregrounds the protected object; 住 marks securing it in a protected state."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Tā chōng shàng qián qù jiù zìjǐ de háizi, yòng shēntǐ bǎ tā hùzhù… kěshì, tā xiǎoxiǎo de shēnqū yīn kǒngjù ér chàndǒu, xìruò de shēngyīn biànde kuángluàn ér sīyǎ, shēntǐ jīhū jiāngzhù; tā zài xīshēng zìjǐ!"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "참새는 새끼를 구하려고 달려들어 제 몸으로 감쌌다. 그러나 작은 몸 전체가 공포로 떨렸고, 가느다란 목소리는 사납게 갈라졌으며, 몸이 굳어 버릴 듯했다. 제 몸을 희생하고 있었다!",
+          "ttsText": "참새는 새끼를 구하려고 달려들어 제 몸으로 감쌌다. 그러나 작은 몸 전체가 공포로 떨렸고, 가느다란 목소리는 사납게 갈라졌으며, 몸이 굳어 버릴 듯했다. 제 몸을 희생하고 있었다!",
+          "vocabulary": [
+            {
+              "term": "갈라지다",
+              "meaning": {
+                "ja": "ここでは声がかすれ、荒れること。",
+                "en": "Here, for the voice to crack or become hoarse."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "구하려고",
+              "explanation": {
+                "ja": "-려고 が行動の目的を示す。雛を救うために飛び込んだ。",
+                "en": "-려고 expresses purpose: rushing in to save the fledgling."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "雀には、犬がどれほど巨大な怪物に見えたことだろう！",
+          "ttsText": "すずめには、いぬがどれほどきょだいなかいぶつにみえたことだろう。",
+          "vocabulary": [
+            {
+              "term": "怪物",
+              "meaning": {
+                "ja": "恐ろしい巨大な存在。ここでは雀から見た犬。",
+                "en": "A terrifying creature, here the dog seen from the sparrow’s perspective."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "どれほど〜ことだろう",
+              "explanation": {
+                "ja": "程度の大きさに対する感嘆と想像を表す。",
+                "en": "An exclamatory pattern expressing imagined intensity."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "What an enormous monster the dog must have seemed to it!",
+          "ttsText": "What an enormous monster the dog must have seemed to it!",
+          "vocabulary": [
+            {
+              "term": "must have seemed",
+              "meaning": {
+                "ja": "〜に見えたに違いない。過去への推量。",
+                "en": "Surely appeared; a deduction about the past."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "What an enormous monster …!",
+              "explanation": {
+                "ja": "What＋名詞句を前置する感嘆構文。疑問文の語順にはしない。",
+                "en": "An exclamation fronting What plus a noun phrase, without question-word inversion."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¡Qué monstruo tan enorme debió de parecerle el perro!",
+          "ttsText": "¡Qué monstruo tan enorme debió de parecerle el perro!",
+          "vocabulary": [
+            {
+              "term": "parecerle",
+              "meaning": {
+                "ja": "その雀にとって〜に見える。le が経験者を示す。",
+                "en": "To seem to the sparrow; le marks the experiencer."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "debió de parecerle",
+              "explanation": {
+                "ja": "deber de＋不定詞で、犬がどう見えたかを過去について推測する。",
+                "en": "Deber de plus an infinitive expresses a deduction about how the dog must have looked."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Quel monstre gigantesque le chien devait lui paraître !",
+          "ttsText": "Quel monstre gigantesque le chien devait lui paraître !",
+          "vocabulary": [
+            {
+              "term": "gigantesque",
+              "meaning": {
+                "ja": "巨大な。",
+                "en": "Gigantic."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "devait lui paraître",
+              "explanation": {
+                "ja": "devoir が義務ではなく推測を表し、lui が雀の視点を示す。",
+                "en": "Devoir expresses inference rather than obligation; lui gives the sparrow’s perspective."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Was für ein gewaltiges Ungeheuer musste ihm der Hund erscheinen!",
+          "ttsText": "Was für ein gewaltiges Ungeheuer musste ihm der Hund erscheinen!",
+          "vocabulary": [
+            {
+              "term": "Ungeheuer",
+              "meaning": {
+                "ja": "怪物。",
+                "en": "A monster."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "musste ihm … erscheinen",
+              "explanation": {
+                "ja": "müssen が推量を示し、与格 ihm がそう感じる雀を指す。",
+                "en": "Müssen expresses a deduction; dative ihm identifies the sparrow as the experiencer."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Каким громадным чудовищем должна была ему казаться собака!",
+          "ttsText": "Каким громадным чудовищем должна была ему казаться собака!",
+          "vocabulary": [
+            {
+              "term": "чудовище",
+              "meaning": {
+                "ja": "恐ろしい怪物。",
+                "en": "A monster."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "каким … чудовищем",
+              "explanation": {
+                "ja": "казаться は述語名詞を造格に置く。должна была は犬を主語とし、ここでは推量を示す。",
+                "en": "Казаться takes an instrumental predicate noun; должна была agrees with собака and expresses a deduction here."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "يا له من وحش هائل لا بد أن الكلب بدا له كذلك!",
+          "ttsText": "يا له من وحش هائل لا بد أن الكلب بدا له كذلك!",
+          "vocabulary": [
+            {
+              "term": "وحش هائل",
+              "meaning": {
+                "ja": "巨大で恐ろしい怪物。",
+                "en": "An enormous monster."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "لا بد أن",
+              "explanation": {
+                "ja": "ここでは義務ではなく、雀の視点を想像した強い推測を表す。",
+                "en": "Here this expresses a strong inference about the sparrow’s perspective, not an obligation."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Yā lahu min waḥshin hāʾilin lā budda ʾanna al-kalba badā lahu kadhālika!"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "在它眼里，那条狗一定像个多么庞大的怪物啊！",
+          "ttsText": "在它眼里，那条狗一定像个多么庞大的怪物啊！",
+          "vocabulary": [
+            {
+              "term": "在它眼里",
+              "meaning": {
+                "ja": "それの立場・見方からすると。",
+                "en": "In its eyes; from its perspective."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "多么……啊",
+              "explanation": {
+                "ja": "程度を強調する感嘆表現。ここでは犬の大きさへの驚きを表す。",
+                "en": "An exclamatory pattern emphasizing degree, here the dog’s immense size."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài tā yǎn lǐ, nà tiáo gǒu yīdìng xiàng ge duōme pángdà de guàiwù a!"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "참새에게 개는 얼마나 거대한 괴물로 보였을까!",
+          "ttsText": "참새에게 개는 얼마나 거대한 괴물로 보였을까!",
+          "vocabulary": [
+            {
+              "term": "괴물",
+              "meaning": {
+                "ja": "恐ろしい異形の存在。",
+                "en": "A monster."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "보였을까",
+              "explanation": {
+                "ja": "過去形に推量的な疑問をつけ、雀の感じた恐ろしさを想像する。",
+                "en": "A speculative question about the past conveys the narrator imagining the sparrow’s fear."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "それでも雀は、高い安全な枝にじっとしてはいられなかった……その意志よりも強い力が、そこから雀を突き落としたのだ。",
+          "ttsText": "それでもすずめは、たかいあんぜんなえだにじっとしてはいられなかった。そのいしよりもつよいちからが、そこからすずめをつきおとしたのだ。",
+          "vocabulary": [
+            {
+              "term": "意志",
+              "meaning": {
+                "ja": "自分で選び行動しようとする心の働き。",
+                "en": "The will: the capacity to choose and act deliberately."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜てはいられなかった",
+              "explanation": {
+                "ja": "その状態を続けることに耐えられなかった、という内的な切迫を示す。",
+                "en": "Expresses being unable to bear remaining in that state."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "And yet it could not stay on its high, safe branch… A force stronger than its own will had cast it down from there.",
+          "ttsText": "And yet it could not stay on its high, safe branch… A force stronger than its own will had cast it down from there.",
+          "vocabulary": [
+            {
+              "term": "will",
+              "meaning": {
+                "ja": "ここでは意志。未来を表す助動詞ではない。",
+                "en": "Here the noun meaning volition, not the future auxiliary."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "stronger than its own will",
+              "explanation": {
+                "ja": "比較級が、行動を促す力と自分の意志を比べている。",
+                "en": "The comparative measures the compelling force against the bird’s own will."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Y, sin embargo, no pudo quedarse en su rama alta y segura… Una fuerza más poderosa que su voluntad lo había arrojado de allí.",
+          "ttsText": "Y, sin embargo, no pudo quedarse en su rama alta y segura… Una fuerza más poderosa que su voluntad lo había arrojado de allí.",
+          "vocabulary": [
+            {
+              "term": "sin embargo",
+              "meaning": {
+                "ja": "それにもかかわらず。",
+                "en": "Nevertheless; and yet."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "más poderosa que",
+              "explanation": {
+                "ja": "形容詞の比較級で、力が自らの意志を上回ることを示す。",
+                "en": "A comparative adjective phrase states that the force exceeds its own will."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Et pourtant, il n’avait pu rester sur sa branche haute et sûre… Une force plus puissante que sa volonté l’en avait précipité.",
+          "ttsText": "Et pourtant, il n’avait pu rester sur sa branche haute et sûre… Une force plus puissante que sa volonté l’en avait précipité.",
+          "vocabulary": [
+            {
+              "term": "volonté",
+              "meaning": {
+                "ja": "自ら選んで行動する意志。",
+                "en": "Will or volition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "l’en avait précipité",
+              "explanation": {
+                "ja": "l’ は雀、en は枝の上からという起点を受ける。",
+                "en": "L’ refers to the bird; en replaces the point of origin, from that branch."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Und dennoch konnte er nicht auf seinem hohen, sicheren Ast sitzen bleiben … Eine Kraft, stärker als sein Wille, hatte ihn von dort hinabgestoßen.",
+          "ttsText": "Und dennoch konnte er nicht auf seinem hohen, sicheren Ast sitzen bleiben … Eine Kraft, stärker als sein Wille, hatte ihn von dort hinabgestoßen.",
+          "vocabulary": [
+            {
+              "term": "Wille",
+              "meaning": {
+                "ja": "意志。",
+                "en": "Will; volition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "sitzen bleiben",
+              "explanation": {
+                "ja": "二つの不定詞で「座ったままでいる」。助動詞 konnte が可能性を否定する。",
+                "en": "The paired infinitives mean to remain seated; konnte with nicht denies that possibility."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "И все-таки он не мог усидеть на своей высокой, безопасной ветке… Сила, сильнее его воли, сбросила его оттуда.",
+          "ttsText": "И все-таки он не мог усидеть на своей высокой, безопасной ветке… Сила, сильнее его воли, сбросила его оттуда.",
+          "vocabulary": [
+            {
+              "term": "усидеть",
+              "meaning": {
+                "ja": "座ったまま、ある場所にじっと留まることができる。",
+                "en": "To manage to remain seated or stay in place."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "сильнее его воли",
+              "explanation": {
+                "ja": "сильнее は比較級。比較対象の воля を属格 воли に置く。",
+                "en": "Сильнее is a comparative; its standard of comparison, воля, appears in the genitive воли."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "ومع ذلك لم يستطع البقاء على غصنه العالي الآمن… لقد دفعته من هناك قوة أقوى من إرادته.",
+          "ttsText": "ومع ذلك لم يستطع البقاء على غصنه العالي الآمن… لقد دفعته من هناك قوة أقوى من إرادته.",
+          "vocabulary": [
+            {
+              "term": "إرادته",
+              "meaning": {
+                "ja": "その意志。",
+                "en": "Its will."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "قوة أقوى من",
+              "explanation": {
+                "ja": "أقوى は比較形で、من が比較対象を導く。主語 قوة は動詞の後ろにある。",
+                "en": "ʾAqwā is comparative and min introduces the standard; the subject quwwa follows the verb."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-maʿa dhālika lam yastaṭiʿ al-baqāʾa ʿalā ghuṣnihi al-ʿālī al-ʾāmini… la-qad dafaʿathu min hunāka quwwatun ʾaqwā min ʾirādatihi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "然而，它还是无法安坐在那根高高的、安全的树枝上……一种比自身意志更强的力量，把它从那里推了下来。",
+          "ttsText": "然而，它还是无法安坐在那根高高的、安全的树枝上……一种比自身意志更强的力量，把它从那里推了下来。",
+          "vocabulary": [
+            {
+              "term": "意志",
+              "meaning": {
+                "ja": "自分で行動を決める心の働き。",
+                "en": "Will or volition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "比……更强",
+              "explanation": {
+                "ja": "比 が比較対象を導き、更 が程度の差を強調する。",
+                "en": "比 introduces the comparison; 更 emphasizes the greater degree."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ránʾér, tā háishi wúfǎ ānzuò zài nà gēn gāogāo de, ānquán de shùzhī shàng… yī zhǒng bǐ zìshēn yìzhì gèng qiáng de lìliang, bǎ tā cóng nàlǐ tuī le xiàlái."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그런데도 참새는 높고 안전한 가지에 가만히 앉아 있을 수 없었다. 자신의 의지보다 더 강한 힘이 그곳에서 참새를 내던진 것이었다.",
+          "ttsText": "그런데도 참새는 높고 안전한 가지에 가만히 앉아 있을 수 없었다. 자신의 의지보다 더 강한 힘이 그곳에서 참새를 내던진 것이었다.",
+          "vocabulary": [
+            {
+              "term": "의지",
+              "meaning": {
+                "ja": "自ら行動を決める心の働き。",
+                "en": "Will; volition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "의지보다 더 강한",
+              "explanation": {
+                "ja": "보다 が比較対象を示し、더 が「さらに」を加える。",
+                "en": "보다 marks the standard of comparison and 더 means more."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "私のトレゾールは立ち止まり、後ずさりした……犬もまた、その力を認めたらしかった。",
+          "ttsText": "わたしのとれぞおるはたちどまり、あとずさりした。いぬもまた、そのちからをみとめたらしかった。",
+          "vocabulary": [
+            {
+              "term": "トレゾール",
+              "meaning": {
+                "ja": "語り手の犬の名前。",
+                "en": "The narrator’s dog’s name."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "らしかった",
+              "explanation": {
+                "ja": "犬の動きから推測したことを表す。心の中を直接知ったとはしていない。",
+                "en": "Marks an inference from the dog’s behavior, not direct access to its thoughts."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "My Trezor stopped and backed away… Apparently, he too had recognized that force.",
+          "ttsText": "My Trezor stopped and backed away… Apparently, he too had recognized that force.",
+          "vocabulary": [
+            {
+              "term": "backed away",
+              "meaning": {
+                "ja": "後ろへ下がった。",
+                "en": "Moved backward away from something."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "he too",
+              "explanation": {
+                "ja": "too が「犬までも」という追加・並行の意味を与える。",
+                "en": "Too adds the dog as another being recognizing the force."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Mi Trezor se detuvo y retrocedió… Al parecer, también él había reconocido aquella fuerza.",
+          "ttsText": "Mi Trezor se detuvo y retrocedió… Al parecer, también él había reconocido aquella fuerza.",
+          "vocabulary": [
+            {
+              "term": "al parecer",
+              "meaning": {
+                "ja": "どうやら、見たところ。",
+                "en": "Apparently; it seems."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "también él",
+              "explanation": {
+                "ja": "主語 él を明示し、犬もまたその力を認めたことを強調する。",
+                "en": "The explicit subject él with también emphasizes that the dog too acknowledged the force."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Mon Trezor s’arrêta, recula… Lui aussi, semblait-il, avait reconnu cette force.",
+          "ttsText": "Mon Trezor s’arrêta, recula… Lui aussi, semblait-il, avait reconnu cette force.",
+          "vocabulary": [
+            {
+              "term": "reculer",
+              "meaning": {
+                "ja": "後ろへ下がる。",
+                "en": "To move backward."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "semblait-il",
+              "explanation": {
+                "ja": "挿入句で「見たところ」を表し、語り手の推測であることを示す。",
+                "en": "A parenthetical expression meaning it seemed, marking the narrator’s inference."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Mein Trezor blieb stehen und wich zurück … Offenbar hatte auch er diese Kraft erkannt.",
+          "ttsText": "Mein Trezor blieb stehen und wich zurück … Offenbar hatte auch er diese Kraft erkannt.",
+          "vocabulary": [
+            {
+              "term": "zurückweichen",
+              "meaning": {
+                "ja": "後ずさりする。",
+                "en": "To retreat or recoil."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "blieb stehen",
+              "explanation": {
+                "ja": "bleiben＋不定詞で、その場で立ち止まった状態を示す。",
+                "en": "Bleiben plus the infinitive stehen means to stop and remain standing."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Мой Трезор остановился, попятился… Видно, и он признал эту силу.",
+          "ttsText": "Мой Трезор остановился, попятился… Видно, и он признал эту силу.",
+          "vocabulary": [
+            {
+              "term": "попятился",
+              "meaning": {
+                "ja": "後ずさりした。",
+                "en": "Backed away."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Видно, и он",
+              "explanation": {
+                "ja": "Видно は挿入語で「どうやら」。и は он の前で「彼もまた」を意味する。",
+                "en": "Видно is parenthetical apparently; и before он means he too."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "توقف كلبي تريزور وتراجع… ويبدو أنه هو أيضا اعترف بتلك القوة.",
+          "ttsText": "توقف كلبي تريزور وتراجع… ويبدو أنه هو أيضا اعترف بتلك القوة.",
+          "vocabulary": [
+            {
+              "term": "تراجع",
+              "meaning": {
+                "ja": "後退した。",
+                "en": "Retreated."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "اعترف بتلك القوة",
+              "explanation": {
+                "ja": "اعترف بـ は認める、承認する。ここでは力の存在を認めるという意味。",
+                "en": "Iʿtarafa bi- means to acknowledge, here to recognize the force."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tawaqqafa kalbī Trīzūr wa-tarājaʿa… wa-yabdū ʾannahu huwa ʾayḍan iʿtarafa bi-tilka al-quwwati."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我的特雷佐尔停了下来，往后退去……看来，它也承认了这种力量。",
+          "ttsText": "我的特雷佐尔停了下来，往后退去……看来，它也承认了这种力量。",
+          "vocabulary": [
+            {
+              "term": "特雷佐尔",
+              "meaning": {
+                "ja": "犬の名前 Трезор の音写。",
+                "en": "A transcription of the dog’s name, Trezor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "看来",
+              "explanation": {
+                "ja": "観察から導いた推測を文の前に置く表現。",
+                "en": "Introduces an inference based on what was observed."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ de Tèléizuǒʾěr tíng le xiàlái, wǎng hòu tuì qù… kànlái, tā yě chéngrèn le zhè zhǒng lìliang."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "내 트레조르는 멈춰 서서 뒷걸음질쳤다. 보아하니 그 힘을 개도 알아본 모양이었다.",
+          "ttsText": "내 트레조르는 멈춰 서서 뒷걸음질쳤다. 보아하니 그 힘을 개도 알아본 모양이었다.",
+          "vocabulary": [
+            {
+              "term": "뒷걸음질치다",
+              "meaning": {
+                "ja": "後ずさりする。",
+                "en": "To back away."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-ㄴ 모양이었다",
+              "explanation": {
+                "ja": "観察した様子を根拠に、そうだったらしいと推測する。",
+                "en": "Expresses a past inference based on visible evidence."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "私は戸惑う犬を急いで呼び戻し、畏敬の念を抱いてその場を去った。",
+          "ttsText": "わたしはとまどういぬをいそいでよびもどし、いけいのねんをいだいてそのばをさった。",
+          "vocabulary": [
+            {
+              "term": "畏敬",
+              "meaning": {
+                "ja": "圧倒されながら深く尊敬する気持ち。",
+                "en": "Deep respect mixed with awe."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "念を抱いて",
+              "explanation": {
+                "ja": "感情を保ちながら、その場を去ったことを表す。",
+                "en": "Describes the feeling accompanying the departure."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I hastened to call back the bewildered dog and went away in awe.",
+          "ttsText": "I hastened to call back the bewildered dog and went away in awe.",
+          "vocabulary": [
+            {
+              "term": "in awe",
+              "meaning": {
+                "ja": "深い畏敬を感じて。",
+                "en": "Feeling profound wonder and respect."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "hastened to call back",
+              "explanation": {
+                "ja": "hasten to＋不定詞で、急いで行動したことを表す。",
+                "en": "Hasten to plus an infinitive means to act quickly."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Me apresuré a llamar al perro desconcertado y me alejé lleno de reverencia.",
+          "ttsText": "Me apresuré a llamar al perro desconcertado y me alejé lleno de reverencia.",
+          "vocabulary": [
+            {
+              "term": "desconcertado",
+              "meaning": {
+                "ja": "戸惑い、どうしてよいか分からない。",
+                "en": "Bewildered or disconcerted."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "me apresuré a",
+              "explanation": {
+                "ja": "apresurarse a＋不定詞は急いで〜すること。",
+                "en": "Apresurarse a plus an infinitive means to hurry to do something."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Je me hâtai de rappeler le chien déconcerté et m’éloignai, saisi de respect.",
+          "ttsText": "Je me hâtai de rappeler le chien déconcerté et m’éloignai, saisi de respect.",
+          "vocabulary": [
+            {
+              "term": "rappeler",
+              "meaning": {
+                "ja": "ここでは犬を呼び戻す。",
+                "en": "Here, to call the dog back."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "saisi de respect",
+              "explanation": {
+                "ja": "過去分詞 saisi が主語 je の感情的な状態を補足する。",
+                "en": "The past participle saisi adds the emotional state of the subject je."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich beeilte mich, den verstörten Hund zurückzurufen, und ging voller Ehrfurcht davon.",
+          "ttsText": "Ich beeilte mich, den verstörten Hund zurückzurufen, und ging voller Ehrfurcht davon.",
+          "vocabulary": [
+            {
+              "term": "Ehrfurcht",
+              "meaning": {
+                "ja": "畏敬、深い尊敬。",
+                "en": "Awe or reverence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "zurückzurufen",
+              "explanation": {
+                "ja": "分離動詞 zurückrufen の zu不定詞。zu は前綴りと動詞の間に入る。",
+                "en": "The zu-infinitive of separable zurückrufen inserts zu between the prefix and verb."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я поспешил отозвать смущенного пса — и удалился, благоговея.",
+          "ttsText": "Я поспешил отозвать смущенного пса — и удалился, благоговея.",
+          "vocabulary": [
+            {
+              "term": "благоговея",
+              "meaning": {
+                "ja": "畏敬の念を抱きながら。",
+                "en": "Feeling reverence or awe."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "поспешил отозвать",
+              "explanation": {
+                "ja": "поспешить＋不定詞で「急いで〜する」。благоговея は同じ主語の心情を表す副動詞。",
+                "en": "Поспешить plus an infinitive means to hasten to do something; благоговея is an adverbial participle describing the same subject’s feeling."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أسرعت أستدعي الكلب المرتبك، ثم انصرفت مفعما بالإجلال.",
+          "ttsText": "أسرعت أستدعي الكلب المرتبك، ثم انصرفت مفعما بالإجلال.",
+          "vocabulary": [
+            {
+              "term": "الإجلال",
+              "meaning": {
+                "ja": "深く敬う気持ち。",
+                "en": "Profound reverence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "مفعما بالإجلال",
+              "explanation": {
+                "ja": "対格の حال が、去っていく語り手の心情を付け加える。",
+                "en": "An accusative circumstantial expression describes the narrator’s state while leaving."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAsraʿtu ʾastadʿī al-kalba al-murtabika, thumma inṣaraftu mufʿaman bi-al-ʾijlāli."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我赶紧把困惑的狗唤回来，怀着敬畏离开了。",
+          "ttsText": "我赶紧把困惑的狗唤回来，怀着敬畏离开了。",
+          "vocabulary": [
+            {
+              "term": "敬畏",
+              "meaning": {
+                "ja": "深い敬意に圧倒される気持ちを伴うこと。",
+                "en": "Reverence mixed with awe."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "怀着敬畏",
+              "explanation": {
+                "ja": "怀着＋感情の名詞で、その気持ちを抱きながら行動すること。",
+                "en": "怀着 plus an emotion describes the feeling accompanying an action."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ gǎnjǐn bǎ kùnhuò de gǒu huàn huílái, huáizhe jìngwèi líkāi le."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "나는 당황한 개를 서둘러 불러들이고, 경외심을 품은 채 그곳을 떠났다.",
+          "ttsText": "나는 당황한 개를 서둘러 불러들이고, 경외심을 품은 채 그곳을 떠났다.",
+          "vocabulary": [
+            {
+              "term": "경외심",
+              "meaning": {
+                "ja": "畏敬の念。",
+                "en": "A sense of awe and reverence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "품은 채",
+              "explanation": {
+                "ja": "-ㄴ 채 が、敬意を心に抱いた状態で立ち去ったことを示す。",
+                "en": "-ㄴ 채 indicates that the feeling was maintained during the departure."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "そう、笑わないでほしい。私はあの小さな勇敢な鳥と、愛に駆られたその行動に、畏敬の念を抱いたのだ。",
+          "ttsText": "そう、わらわないでほしい。わたしはあのちいさなゆうかんなとりと、あいにかられたそのこうどうに、いけいのねんをいだいたのだ。",
+          "vocabulary": [
+            {
+              "term": "駆られる",
+              "meaning": {
+                "ja": "強い感情によって行動に向かわせられる。",
+                "en": "To be impelled by a strong feeling."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "笑わないでほしい",
+              "explanation": {
+                "ja": "否定の依頼に ほしい を添え、読み手に真剣に受け取るよう求める。",
+                "en": "A negative request with hoshii asks the reader to take the statement seriously."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Yes; do not laugh. I felt reverence for that little heroic bird, for its surge of love.",
+          "ttsText": "Yes; do not laugh. I felt reverence for that little heroic bird, for its surge of love.",
+          "vocabulary": [
+            {
+              "term": "surge of love",
+              "meaning": {
+                "ja": "一気に湧き上がって行動へ向かわせる愛情。",
+                "en": "A sudden rush of love that impels action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "for …, for …",
+              "explanation": {
+                "ja": "前置詞を繰り返し、敬意の対象である鳥とその衝動を順に強調する。",
+                "en": "Repeating for emphasizes both the bird and its loving impulse as objects of reverence."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Sí; no se rían. Sentí reverencia por aquella pequeña ave heroica, por su impulso de amor.",
+          "ttsText": "Sí; no se rían. Sentí reverencia por aquella pequeña ave heroica, por su impulso de amor.",
+          "vocabulary": [
+            {
+              "term": "impulso",
+              "meaning": {
+                "ja": "内側から行動を促す衝動。",
+                "en": "An impulse or inner drive."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "no se rían",
+              "explanation": {
+                "ja": "ustedes に対する否定命令。接続法現在 rían を用いる。",
+                "en": "A negative command addressed to ustedes, formed with the present subjunctive rían."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Oui ; ne riez pas. J’éprouvais de la révérence pour ce petit oiseau héroïque, pour son élan d’amour.",
+          "ttsText": "Oui ; ne riez pas. J’éprouvais de la révérence pour ce petit oiseau héroïque, pour son élan d’amour.",
+          "vocabulary": [
+            {
+              "term": "élan",
+              "meaning": {
+                "ja": "気持ちの高まりに伴う勢い、衝動。",
+                "en": "An upsurge or impulse of feeling."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ne riez pas",
+              "explanation": {
+                "ja": "vous に対する否定命令で、読者へ直接語りかける。",
+                "en": "A negative imperative addressed to vous, speaking directly to the reader."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ja; lachen Sie nicht. Ich empfand Ehrfurcht vor diesem kleinen, heldenhaften Vogel, vor seinem Liebesdrang.",
+          "ttsText": "Ja; lachen Sie nicht. Ich empfand Ehrfurcht vor diesem kleinen, heldenhaften Vogel, vor seinem Liebesdrang.",
+          "vocabulary": [
+            {
+              "term": "Liebesdrang",
+              "meaning": {
+                "ja": "愛情から生じる強い衝動。",
+                "en": "A powerful impulse of love."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Ehrfurcht vor",
+              "explanation": {
+                "ja": "Ehrfurcht は vor＋与格で敬意の対象を導く。",
+                "en": "Ehrfurcht takes vor plus the dative to introduce the object of reverence."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Да; не смейтесь. Я благоговел перед той маленькой героической птицей, перед любовным ее порывом.",
+          "ttsText": "Да; не смейтесь. Я благоговел перед той маленькой героической птицей, перед любовным ее порывом.",
+          "vocabulary": [
+            {
+              "term": "порыв",
+              "meaning": {
+                "ja": "強い感情から生じる突発的な衝動。",
+                "en": "A sudden impulse arising from strong emotion."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "не смейтесь",
+              "explanation": {
+                "ja": "複数または丁寧な相手への否定命令。語り手が読者に直接呼びかける。",
+                "en": "A plural or polite negative imperative directly addressing the reader."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "نعم، لا تضحكوا. لقد شعرت بالإجلال أمام ذلك الطائر الصغير البطل، وأمام اندفاعه بدافع الحب.",
+          "ttsText": "نعم، لا تضحكوا. لقد شعرت بالإجلال أمام ذلك الطائر الصغير البطل، وأمام اندفاعه بدافع الحب.",
+          "vocabulary": [
+            {
+              "term": "بدافع الحب",
+              "meaning": {
+                "ja": "愛情に動かされて。",
+                "en": "Motivated by love."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "لا تضحكوا",
+              "explanation": {
+                "ja": "禁止の لا に接続する二人称複数の要求法で、語尾の ن が落ちる。",
+                "en": "Prohibitive lā takes the second-person plural jussive, which drops the final n."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, lā taḍḥakū. La-qad shaʿartu bi-al-ʾijlāli ʾamāma dhālika aṭ-ṭāʾiri aṣ-ṣaghīri al-baṭali, wa-ʾamāma indifāʿihi bi-dāfiʿi al-ḥubbi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "是的，请别笑。我敬畏那只小小的、英勇的鸟，也敬畏它那出于爱的冲动。",
+          "ttsText": "是的，请别笑。我敬畏那只小小的、英勇的鸟，也敬畏它那出于爱的冲动。",
+          "vocabulary": [
+            {
+              "term": "出于",
+              "meaning": {
+                "ja": "〜を動機・原因として。",
+                "en": "Arising from; motivated by."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "请别笑",
+              "explanation": {
+                "ja": "请 で丁寧さを加え、别＋動詞で否定の依頼を作る。",
+                "en": "请 adds politeness; 别 plus a verb forms a negative request."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shì de, qǐng bié xiào. Wǒ jìngwèi nà zhī xiǎoxiǎo de, yīngyǒng de niǎo, yě jìngwèi tā nà chūyú ài de chōngdòng."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그렇다. 웃지 말아 달라. 나는 그 작고 용감한 새와, 사랑에서 솟아난 그 충동 앞에 경외심을 느꼈다.",
+          "ttsText": "그렇다. 웃지 말아 달라. 나는 그 작고 용감한 새와, 사랑에서 솟아난 그 충동 앞에 경외심을 느꼈다.",
+          "vocabulary": [
+            {
+              "term": "솟아나다",
+              "meaning": {
+                "ja": "内側から湧き出る。",
+                "en": "To spring or well up."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "웃지 말아 달라",
+              "explanation": {
+                "ja": "禁止の -지 말다 に依頼を加え、読者に笑わないよう求める。",
+                "en": "Adds a request to prohibitive -지 말다, asking the reader not to laugh."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "愛は死よりも、死への恐怖よりも強い、と私は思った。ただ愛によって、ただ愛だけによって、生命は支えられ、動かされているのだ。",
+          "ttsText": "あいはしよりも、しへのきょうふよりもつよい、とわたしはおもった。ただあいによって、ただあいだけによって、せいめいはささえられ、うごかされているのだ。",
+          "vocabulary": [
+            {
+              "term": "生命",
+              "meaning": {
+                "ja": "個々の生き物の命と、生の営みを含む語。",
+                "en": "Life, including living existence and its ongoing activity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "愛によって",
+              "explanation": {
+                "ja": "生命を支え動かす力を示す。反復が結論を強調する。",
+                "en": "Identifies the force sustaining and moving life; repetition emphasizes the conclusion."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Love, I thought, is stronger than death and the fear of death. By it alone, by love alone, life is sustained and set in motion.",
+          "ttsText": "Love, I thought, is stronger than death and the fear of death. By it alone, by love alone, life is sustained and set in motion.",
+          "vocabulary": [
+            {
+              "term": "sustained",
+              "meaning": {
+                "ja": "保たれ、支えられている。",
+                "en": "Kept alive or supported."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "by it alone, by love alone",
+              "explanation": {
+                "ja": "it を love と言い換えて繰り返し、愛だけがその力だという主張を強調する。",
+                "en": "The repetition restates it as love and emphasizes love as the sole sustaining force."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "El amor, pensé, es más fuerte que la muerte y el miedo a la muerte. Solo por él, solo por el amor, la vida se sostiene y se mueve.",
+          "ttsText": "El amor, pensé, es más fuerte que la muerte y el miedo a la muerte. Solo por él, solo por el amor, la vida se sostiene y se mueve.",
+          "vocabulary": [
+            {
+              "term": "sostenerse",
+              "meaning": {
+                "ja": "保たれる、支えられる。",
+                "en": "To be sustained or supported."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "solo por él, solo por el amor",
+              "explanation": {
+                "ja": "él は el amor を指す。前置詞句の反復で結論を強める。",
+                "en": "Él refers to el amor; repeating the prepositional phrase strengthens the conclusion."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "L’amour, pensais-je, est plus fort que la mort et la peur de la mort. Par lui seul, par l’amour seul, la vie se maintient et se met en mouvement.",
+          "ttsText": "L’amour, pensais-je, est plus fort que la mort et la peur de la mort. Par lui seul, par l’amour seul, la vie se maintient et se met en mouvement.",
+          "vocabulary": [
+            {
+              "term": "se maintenir",
+              "meaning": {
+                "ja": "存続する、保たれる。",
+                "en": "To endure or be sustained."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "pensais-je",
+              "explanation": {
+                "ja": "主語と動詞を倒置した挿入句で、語り手の考えを示す。",
+                "en": "An inverted parenthetical clause marks the statement as the narrator’s thought."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Die Liebe, dachte ich, ist stärker als der Tod und die Angst vor dem Tod. Nur durch sie, nur durch die Liebe wird das Leben getragen und in Bewegung gesetzt.",
+          "ttsText": "Die Liebe, dachte ich, ist stärker als der Tod und die Angst vor dem Tod. Nur durch sie, nur durch die Liebe wird das Leben getragen und in Bewegung gesetzt.",
+          "vocabulary": [
+            {
+              "term": "in Bewegung setzen",
+              "meaning": {
+                "ja": "動き出させる。",
+                "en": "To set in motion."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "wird … getragen und … gesetzt",
+              "explanation": {
+                "ja": "一つの助動詞 wird を共有する二つの受動態。生命を動かす力を愛として描く。",
+                "en": "Two passive predicates share wird, presenting love as the force sustaining and moving life."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Любовь, думал я, сильнее смерти и страха смерти. Только ею, только любовью держится и движется жизнь.",
+          "ttsText": "Любовь, думал я, сильнее смерти и страха смерти. Только ею, только любовью держится и движется жизнь.",
+          "vocabulary": [
+            {
+              "term": "держится",
+              "meaning": {
+                "ja": "保たれる、支えられている。",
+                "en": "Is sustained or held together."
+              }
+            },
+            {
+              "term": "движется",
+              "meaning": {
+                "ja": "動く、前へ進む。держится と対になり、生命の存続と活動を示す。",
+                "en": "Moves; paired with держится, it expresses both continuance and activity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "только ею, только любовью",
+              "explanation": {
+                "ja": "造格 ею が愛を受け、любовью と言い換えて強調する。жизнь は二つの動詞の共通の主語。",
+                "en": "Instrumental ею refers to love and is restated as любовью for emphasis. Жизнь is the shared subject of both verbs."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "الحب، فكرت، أقوى من الموت ومن الخوف من الموت. به وحده، بالحب وحده، تقوم الحياة وتتحرك.",
+          "ttsText": "الحب، فكرت، أقوى من الموت ومن الخوف من الموت. به وحده، بالحب وحده، تقوم الحياة وتتحرك.",
+          "vocabulary": [
+            {
+              "term": "تقوم الحياة",
+              "meaning": {
+                "ja": "生命が成り立ち、支えられる。",
+                "en": "Life is sustained or stands."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "به وحده، بالحب وحده",
+              "explanation": {
+                "ja": "代名詞を名詞 الحب として言い直し、وحده を反復して愛だけを強調する。",
+                "en": "The pronoun is restated as al-ḥubb, and repeating waḥdahu emphasizes love alone."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥubbu, fakkartu, ʾaqwā mina al-mawti wa-mina al-khawfi mina al-mawti. Bihi waḥdahu, bi-al-ḥubbi waḥdahu, taqūmu al-ḥayātu wa-tataḥarraku."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我想，爱比死亡和对死亡的恐惧更强大。唯有靠它，唯有靠爱，生命才得以维系和运行。",
+          "ttsText": "我想，爱比死亡和对死亡的恐惧更强大。唯有靠它，唯有靠爱，生命才得以维系和运行。",
+          "vocabulary": [
+            {
+              "term": "维系",
+              "meaning": {
+                "ja": "つなぎとめ、保つ。",
+                "en": "To maintain or hold together."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "唯有……才……",
+              "explanation": {
+                "ja": "必要条件を強調し、愛によってこそ生命が保たれると述べる。",
+                "en": "Emphasizes a necessary condition: only through love can life be sustained."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ xiǎng, ài bǐ sǐwáng hé duì sǐwáng de kǒngjù gèng qiángdà. Wéiyǒu kào tā, wéiyǒu kào ài, shēngmìng cái déyǐ wéixì hé yùnxíng."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "사랑은 죽음보다, 죽음에 대한 두려움보다 강하다고 나는 생각했다. 오직 그것으로, 오직 사랑으로만 삶은 지탱되고 움직인다.",
+          "ttsText": "사랑은 죽음보다, 죽음에 대한 두려움보다 강하다고 나는 생각했다. 오직 그것으로, 오직 사랑으로만 삶은 지탱되고 움직인다.",
+          "vocabulary": [
+            {
+              "term": "지탱되다",
+              "meaning": {
+                "ja": "支えられ、維持される。",
+                "en": "To be sustained or supported."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "사랑으로만",
+              "explanation": {
+                "ja": "手段を示す -으로 に限定の -만 を加え、「愛だけによって」とする。",
+                "en": "Instrumental -으로 plus restrictive -만 means by love alone."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "一八七八年四月。",
+          "ttsText": "せんはっぴゃくななじゅうはちねんしがつ。",
+          "vocabulary": [
+            {
+              "term": "四月",
+              "meaning": {
+                "ja": "本文末尾に付された執筆時期。",
+                "en": "The month in the date appended to the work."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "年月のみの文",
+              "explanation": {
+                "ja": "述語を省き、執筆時期を独立して示す。",
+                "en": "An independent date line omits a predicate."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "April 1878.",
+          "ttsText": "April 1878.",
+          "vocabulary": [
+            {
+              "term": "April",
+              "meaning": {
+                "ja": "本文末尾の執筆月。",
+                "en": "The composition month appended to the work."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "month + year",
+              "explanation": {
+                "ja": "英語ではここで月を年より先に置く。",
+                "en": "The month precedes the year in this English date line."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Abril de 1878.",
+          "ttsText": "Abril de 1878.",
+          "vocabulary": [
+            {
+              "term": "abril",
+              "meaning": {
+                "ja": "四月。",
+                "en": "April."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "mes + de + año",
+              "explanation": {
+                "ja": "月と年を de で結ぶ。",
+                "en": "De links the month and the year."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Avril 1878.",
+          "ttsText": "Avril 1878.",
+          "vocabulary": [
+            {
+              "term": "avril",
+              "meaning": {
+                "ja": "四月。",
+                "en": "April."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "mois + année",
+              "explanation": {
+                "ja": "月の後に年を置き、間に前置詞を入れない。",
+                "en": "The year follows the month without a preposition."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "April 1878.",
+          "ttsText": "April 1878.",
+          "vocabulary": [
+            {
+              "term": "April",
+              "meaning": {
+                "ja": "四月。",
+                "en": "April."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Monat + Jahr",
+              "explanation": {
+                "ja": "月名は名詞として大文字で書く。",
+                "en": "The month name is capitalized as a noun."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Апрель, 1878 г.",
+          "ttsText": "Апрель, 1878 г.",
+          "vocabulary": [
+            {
+              "term": "г.",
+              "meaning": {
+                "ja": "год（年）の略記。",
+                "en": "An abbreviation of год, year."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": {
+                "ja": "独立した日付",
+                "en": "Independent date line"
+              },
+              "explanation": {
+                "ja": "本文末尾の日付を出典通りに残している。",
+                "en": "The closing date is retained as written in the source."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Иван Сергеевич Тургенев / Ivan Turgenev (1818–1883)"
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أبريل ١٨٧٨.",
+          "ttsText": "أبريل ١٨٧٨.",
+          "vocabulary": [
+            {
+              "term": "أبريل",
+              "meaning": {
+                "ja": "四月。",
+                "en": "April."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "التاريخ",
+              "explanation": {
+                "ja": "月名に年を続け、本文末尾の執筆時期を示す。",
+                "en": "The month followed by the year gives the composition date."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAbrīl, ʾalfun wa-thamānumiʾatin wa-thamāniyatun wa-sabʿūna."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "一八七八年四月。",
+          "ttsText": "一八七八年四月。",
+          "vocabulary": [
+            {
+              "term": "年",
+              "meaning": {
+                "ja": "年を示す日付の単位。",
+                "en": "The date unit for a year."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "年＋月",
+              "explanation": {
+                "ja": "年を先に、月を後に置く。",
+                "en": "The year precedes the month."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī bā qī bā nián sì yuè."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "1878년 4월.",
+          "ttsText": "1878년 4월.",
+          "vocabulary": [
+            {
+              "term": "년 / 월",
+              "meaning": {
+                "ja": "年／月を表す日付の単位。",
+                "en": "Date units for year / month."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "년 + 월",
+              "explanation": {
+                "ja": "年の後に月を置き、それぞれに単位を添える。",
+                "en": "The year precedes the month, each followed by its unit."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/turgenev-sparrow/u013/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ],
+  "bibliography": {
+    "originalTitle": "Воробей",
+    "originalAuthor": "Иван Сергеевич Тургенев",
+    "title": {
+      "ja": "雀",
+      "en": "The Sparrow"
+    },
+    "author": {
+      "ja": "イワン・ツルゲーネフ",
+      "en": "Ivan Turgenev"
+    }
+  }
+}

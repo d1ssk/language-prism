@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7dc15e8a843ba9154132fdc60dc82514c66d6f0babbf5816421ab53c39d970d8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La misma canción puede sonar completamente diferente según cómo te sientas.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3fd65753071b5f7fda29c85c141761c8d593b5cb0d299e8c96b14eae0b7ef9be",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:00.043293+00:00"
+}

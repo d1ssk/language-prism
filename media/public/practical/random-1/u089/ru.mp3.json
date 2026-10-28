@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3c9df775d936f2dcc9a9ec25eb9af89a50146885dae3236cb3c31b6de0017a4d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Когда постепенно начинаешь понимать разговоры, которые поначалу были непонятны, это вдохновляет продолжать учиться.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "834ec6df89fea610d7f546f0fd7258f90231bc2d801f09885d9655d0e9462b8f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:12:54.688288+00:00"
+}

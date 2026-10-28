@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f7f17cf3a8450c05707ad3b0b16883dfb9f5634bbf4e191e413ac51b20ede7d9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "高到足以导致生存斗争的增长率，以及由此产生的自然选择，后者带来性状的分歧和较少改进的形态的灭绝。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dc333278cc169125ae9c37fc57719c6565e85db70e3dc306d77c3db824c01a5f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:20:51.798507+00:00"
+}

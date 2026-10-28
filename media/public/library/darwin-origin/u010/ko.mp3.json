@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "51288d9ba2afd5023f40858bd9e230e77de2fdd71fef13e4e5e677f0e9f9b7b9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "심리학은 각각의 정신적 힘과 능력이 단계적으로 획득되어야 한다는 새로운 토대 위에 세워질 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7bc99ff61b17b85d33f45028802385ad2dc46f707f201e024fc43519ea29fe13",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:11:18.461171+00:00"
+}

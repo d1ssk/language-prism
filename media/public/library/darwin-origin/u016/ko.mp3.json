@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c496fcd11e5dbb9d055779969fde9631be50c7b76c620c2ff9188058baf98c6c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "과거로 미루어 보면, 현존하는 어느 종도 자신의 모습을 변함없이 먼 미래에 전하지는 않으리라고 확신을 가지고 추론할 수 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "554efdbfe622bdccc973a56540653ad2d14893ac1fed584fa41ec68842937095",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:20:20.277138+00:00"
+}

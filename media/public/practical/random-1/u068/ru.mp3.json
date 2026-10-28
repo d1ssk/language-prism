@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "10d4e959e3516f73b16d7a3cc71cfc652cfef5040b17e2de21ebea547afb1606",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Когда посещаешь незнакомую страну, понимаешь, что привычные для тебя вещи не обязательно являются общепринятыми.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1037296760c65d97cfbeca372d893ef7f13557ceef618e3973e802bd73e97394",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:55:03.008934+00:00"
+}

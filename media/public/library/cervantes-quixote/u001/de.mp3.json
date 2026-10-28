@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47f09ddcc95191755fb6a64c4213f746ea4b87077fea163ca3fee20e7fa0fc2c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In einem Dorf der Mancha, an dessen Namen ich mich nicht erinnern will, lebte vor nicht langer Zeit ein Landedelmann von der Art mit einer Lanze im Gestell, einem alten Lederschild, einem mageren Pferd und einem schnellen Windhund.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b9c78cd60c48fab710464fc1ec695fc075391ee2cb52b1a33bfab1faa503d151",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:05:38.602343+00:00"
+}

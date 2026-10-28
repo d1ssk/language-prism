@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47ed22261637a2500e688a489bc936c533720d1c603b899b468a15cacb7c7afb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "둘 다 얻을 수 없다면 삶을 버리고 의로움을 택한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f897db2679d30f98d05cb450a7201a51337007512a0ab7f5268ef2772b959f9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:02:29.057051+00:00"
+}

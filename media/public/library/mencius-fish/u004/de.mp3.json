@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b948b4f6fff68b3b90262bed81e5d412b52cd15e44c000c941e7ea57b757009c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ich nicht beides zugleich haben kann, gebe ich das Leben auf und wähle die Rechtschaffenheit.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5c2efae30ab9d4bfca8503cc73ea4065be85204247b816f8b5d72a1a391d340b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:02:10.346552+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "81dd6559a6e1dc056f21c4cfc6103f43ff15880b063a72e7daa3ad580f7e1008",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 我没有父亲，没有母亲，也没有姐妹或兄弟。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3ec47edc45867ac51555be4ae415249afcb41328ebce6841f56b9206c40ccc62",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:48:12.472016+00:00"
+}

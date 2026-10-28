@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2a44a1575ab8294a630997abefc7f097daeba04f511c66e67f5d6fd7777e04ac",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "темп увеличения численности, столь высокий, что он ведёт к борьбе за жизнь, а вслед за ней — к естественному отбору, влекущему расхождение признаков и вымирание менее усовершенствованных форм.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "378cea853e40e8815f3816b9163b171f3a6df486474fb33d6f59aea2c96482ae",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:20:31.099570+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "21a5885bebd53950978f51c0b0933053cedb1a303ff6959c4d8782d45a00bc12",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ein Mann zieht den Draht aus; ein anderer richtet ihn gerade; ein dritter schneidet ihn; ein vierter spitzt ihn zu; ein fünfter schleift das obere Ende, damit es den Kopf aufnehmen kann;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5c7837ca2bdeb0c3eb0f2748f33d7dc9f6f64a13290fbf336a34edb6a4609dd9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:38:46.695064+00:00"
+}

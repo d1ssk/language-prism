@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38d7cb8180219fbb4f27c08dcc3bdc0cee7a0e126c6564f13ee8d32a329dea9a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Treffen wir uns um sechs Uhr abends an den Fahrkartensperren im Bahnhof.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8911b13c990d760979c2bef57b7b1234cc7e2c73d06c24dc03e81be09ff91052",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:09.726977+00:00"
+}

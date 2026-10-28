@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "49f8c9b96f29c9d07d4bc002f32273bd3934b06cc27ceb0df4c23a92a28b8ff0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وفجأة أبطأ خطواته وبدأ يتسلل، كأنه شم رائحة طريدة أمامه.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "58f528ad4d0f2aad4ceaa17bc4174108eee5122c31cca1c5c6c7e8355213e131",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:10:32.091370+00:00"
+}

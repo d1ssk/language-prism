@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "788401d10f1497b0c2655b821c7951bc7c72123c566790558fa6f81c07b54430",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 그림은 색채가 절제되어 있지만 이상하게도 강한 인상을 남겨요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f0f5bf2c8df947a99e9f40e523b6943b584fb9aebe74fa4315f6183c9a70d373",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:18.083536+00:00"
+}

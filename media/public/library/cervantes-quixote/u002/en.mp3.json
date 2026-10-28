@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c3fcb5b481726218de57567b97b54dc8fdb393765f6c2c888b4819e390136541",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A stew with rather more beef than mutton, chopped dressed meat most evenings, “griefs and troubles” on Saturdays, lentils on Fridays and an extra young pigeon on Sundays consumed three quarters of his resources.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "429dad609a495fc6fcb86d5805e039c7ec4bfa50112752d3bddb47f5604e42d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:06:49.430224+00:00"
+}

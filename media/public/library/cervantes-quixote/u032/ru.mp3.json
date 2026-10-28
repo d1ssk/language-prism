@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bb3a9e9e32d2c83adc34c4ba4c8347a69d40574344c96892f96f0cec3682ab2a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Но больше всех он любил Рейнальдоса де Монтальбана, особенно когда тот выходил из замка грабить всех встречных или за морем похищал золотого идола Магомета, как рассказывает его история.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fe982b57823924eada57373362f5e98caceacf6e5d88f48270969c9e23f29261",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:08:09.114079+00:00"
+}

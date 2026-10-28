@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b230590dc99e4c82dca7699b77258f570719263b882715ff2623ba49f2e311e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "우리 향사는 나이가 쉰에 가까웠다. 골격은 튼튼하되 몸에 살이 없고 얼굴도 야위었으며, 아주 일찍 일어나고 사냥을 좋아했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0b4594ae52682a0c1538cfe89c2da5e7018cb8999af5ae9fb90b3967e7f582c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:12:48.821113+00:00"
+}

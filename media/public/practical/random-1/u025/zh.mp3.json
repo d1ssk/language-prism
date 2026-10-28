@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "34f7d9413446230c0e8ac4053abb6cef0214db7a27d3ad3a27651cc75488581a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在新的工作单位，我还有很多东西需要学习。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "931132cad71782adabe55534f7edb74b8f40fe6f0867f1790dfd6308b7ec8c92",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:26:31.979777+00:00"
+}

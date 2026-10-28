@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "888d7f984b60d09c045aa02c6f404ce32e2f3cd5f7a77db52f3ff60fd3f2a797",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Апрель, 1878 г.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fba542e98d37a79b447460c183f81f9a8b7a9cd4ed3b3425f14e200aa6c2972a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:23:56.874887+00:00"
+}

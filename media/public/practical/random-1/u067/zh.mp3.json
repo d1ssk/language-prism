@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0617205fec28586f06474adf1fc14dac069471dd18a7209e4f957ac019decb0a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "有时候，只有试着把自己的想法说出来，才会发现一些以前没意识到的事情。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dd5aa8152e1f818a7902f0b54117adf1c60b88ca8e0b7f3fe3b7a51f6ae64a12",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:54:23.714827+00:00"
+}

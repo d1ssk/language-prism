@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "56ffbebd5fd344e947efb488b614ced28a09b0498e615e4a62e1bbb4e1c1e046",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich denke, es ist wichtig, jeden Tag ein bisschen eine Fremdsprache zu benutzen, um besser zu werden.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "302fdecc9b0ab7fcb8f943c489aded69f4bab4dad1bf8c383b8ab577f677b1f1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:32:07.536682+00:00"
+}

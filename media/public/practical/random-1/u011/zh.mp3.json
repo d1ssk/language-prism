@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8ed1817e43608e458d7f396b6a5d66e666190ef47918c7b7b13f8f4996440f1c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我到了之前预订的酒店，现在可以办理入住吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f4701e6b5a464c7f891610629daf8afddac8e2ca793666ebf346df237f9cf85",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:46.934209+00:00"
+}

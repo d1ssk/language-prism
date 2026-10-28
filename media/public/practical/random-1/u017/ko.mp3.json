@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ddbbba5001a45be34e72054c465c8a55f7166662162e9aa62e5cca68996292d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오늘은 날씨가 좋아서 조금 돌아서 걸어 집에 가고 싶어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a2b305c3a598410f24591a3c5bec217141a2376e95ff6ce70f5eaf7606815f4f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:15.051021+00:00"
+}

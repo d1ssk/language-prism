@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c0952fa63cbc9dc31a65ee7884fad53f214d10dca28f0dc5df0eaa80640e107e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il y a beaucoup de circulation, donc je risque d'arriver avec une dizaine de minutes de retard.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "752c1b20a0a2cbc735eebc36109659566fb83909214e22924bd6fd379c252ce5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:38.812438+00:00"
+}

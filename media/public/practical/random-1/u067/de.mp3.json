@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ef20df77e13f2c7c92fff2d9b38c3c3d933f2968993ae14186c304267b33adc5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Manchmal merke ich erst, was ich wirklich denke, wenn ich versuche, es in Worte zu fassen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fdcff0f36b7c769ba94db126472d68c691ee43413e1ebd29131d60e5cd115436",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:54:08.315894+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "881565de3c286a8dd4995e173856ad91f95399a1f67fea99adca052adbc03a85",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Воображение его наполнилось всем, что он вычитывал в книгах: чарами, ссорами, битвами, вызовами, ранами, ухаживаниями, любовью, бурями и немыслимыми нелепостями;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "048a438b71eae1e775ccab8a556c4fe584c69e23b5231d8585030fc4964c1694",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:58:13.478135+00:00"
+}

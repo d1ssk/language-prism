@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4350b6f1c353723863c42f56b702e54f9aa53e2c498be2419302c6a28288ede5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또 이런 구절도 읽었다. “그대의 신성으로 말미암아 별들로 그대를 신성하게 굳세게 하는 높은 하늘은 그대의 위대함이 누릴 만한 자격을 그대가 누릴 자격이 있게 합니다.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "87f258ee1c614913eff98f67e5cc4a1cb7618d137839967f92bde57a4a03f6fc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:42:35.345418+00:00"
+}

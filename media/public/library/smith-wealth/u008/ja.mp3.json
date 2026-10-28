@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "60e8526229e153f667a356ca214688962f42e61a0ef3c07f81eff8e7c1cb56af",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしはこのしゅのちいさなこうじょうをみたことがある。そこにはじゅうにんしかやとわれておらず、そのためなんにんかはふたつかみっつのことなるさぎょうをおこなっていた。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0bdf14ec83b9ba7135eecf2337b7b2e353116db79c12f38052c087c5cd43d5f4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:43:11.712437+00:00"
+}

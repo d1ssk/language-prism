@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a418d890fcfd684ba6fda84816b556a0a3eb35d7991d68d5584a4c4df757b36",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "His curiosity and folly went so far that he sold many hanegas of arable land to buy books of chivalry to read,",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "464ee93d2bfee15cb7f84ca49fe1bfa12effafb68d392fb88e5467f99df5ad30",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:35:32.949813+00:00"
+}

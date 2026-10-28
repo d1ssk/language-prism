@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e7074468218c0891facf6ad9f81def8e3f565c457579b0bbbe73effa22516aa0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— No tengo padre, ni madre, ni hermana, ni hermano.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3b7f351f672586d8edfca5aa717394622a2c221e2c066280f69b4320444a0256",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:47:58.250270+00:00"
+}

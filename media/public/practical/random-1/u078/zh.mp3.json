@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "37774a0eb0d0471314de1ef211b182d67d22f74a81ac5149df7b7099d0267930",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我觉得，花时间思考那些没有简单答案的问题，本身就是有价值的。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "81eea0b498529da5c1c7bd0b44e0c82d1a67ac9a91cd222282482700f03f9be4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:07.228760+00:00"
+}

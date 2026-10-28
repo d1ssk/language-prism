@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d908ec52f68a0439e0fecfead430103fb466bb4ba4861d8e889cc0382a799934",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Todos los que cultivan las artes son dignos de estima porque traen sosiego al mundo humano y enriquecen el corazón de las personas.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6bad87891508355945f84d4886da1902718218622853405e87dd09721d2c3ffa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:59:42.795409+00:00"
+}

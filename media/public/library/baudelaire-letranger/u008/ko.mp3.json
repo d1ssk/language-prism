@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f6c766afd74cec07d81d2e4727f52a22949329449de66e840f1bc2f56c4f580c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 여신으로서, 불멸의 존재로서라면 기꺼이 사랑하겠어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "576cbe7be6dfb514367ca33903507482956d281390065baa9f74482447ba7a4c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:50:39.823351+00:00"
+}

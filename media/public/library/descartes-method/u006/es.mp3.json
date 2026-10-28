@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2cad068373cddf4c09fa31eed9d7af5c96405c3445575026e4f9626c4a2653ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "para ascender poco a poco, como por grados, al conocimiento de los más compuestos, suponiendo incluso un orden entre aquellos que no se preceden naturalmente unos a otros.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3914b807327a3c782e56736e0371eb6325e0f19262818554a6e2d9f2e928190d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:30:20.057751+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "461eca5a91efac9a3e0c3a0bbb37de1fedca04dd9b35326b6ad18281f5f9e03f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وكان يقول إن السيد روي دياث كان فارسا ممتازا، لكنه لا يقارن بفارس السيف المشتعل، الذي شطر بضربة عكسية واحدة عملاقين شرسين هائلين.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ad1d37df7ed4a0a98cfef70acace2ea6ee2bd82403b50d49c0fde524545cfdd4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:01:32.636980+00:00"
+}

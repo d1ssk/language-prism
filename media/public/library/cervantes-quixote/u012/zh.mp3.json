@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9fc35892fd4729503ce92e01ba4ed8187e02ef53452f0495d6b6205f17ad5e5c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "他的好奇与痴迷竟到了这样的地步：卖掉许多哈内加的耕地，去买骑士小说来读，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7e12fbe2b893982b6ba9cc2dafecb585d0c8a5cf1c55b6384a7a6a02a5a82fe0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:19.515914+00:00"
+}

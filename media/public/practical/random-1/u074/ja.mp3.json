@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5e588ccedd30ea6c13b3f194bca4d61aa41256282a2f3de603f6318e267de6ce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ちょうきてきなもくひょうをもつことはたいせつですが、いまこのしゅんかんをたのしむこともわすれたくありません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6e28d15fb6c1e2b8ec43a2bc99c418a5bfd4bb55a7d3c3c97b405f26f3ff680e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:59:03.136562+00:00"
+}

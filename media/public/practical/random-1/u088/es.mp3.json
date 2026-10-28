@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "39421eb9a31e2420e711bbbe142e4d99179ce5ba6806539607eaaf21b3c090be",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Incluso para expresar el mismo significado, la forma más natural de decir algo puede variar mucho de un idioma a otro.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f67a2e963c748b093a9aab625c747a97f6674843206c428b56d5ba787052a58e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:11:35.406291+00:00"
+}

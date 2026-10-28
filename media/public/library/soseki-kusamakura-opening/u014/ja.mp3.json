@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "07a6f93abd5a88cec53672199f622cb221978ebf47b1420cefce7dc649c5156f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ここにしじんというてんしょくができて、ここにがかというしめいがくだる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eee3357db23c30182cd1a4b376f8a520066296715aadb2b1d2b6777b22b6cb4d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:58:42.514732+00:00"
+}

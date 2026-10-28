@@ -1,0 +1,32 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCatalog, withBase } from '../../../lib/catalog';
+import { localize } from '../../../lib/localized';
+import { libraryPlans } from '../../../data/library-plans';
+import { UI_LOCALES, translate, type UiLocale } from '../../../i18n';
+export function getStaticPaths() { return UI_LOCALES.map(locale => ({ params: { locale }, props: { locale } })); }
+interface Props { locale: UiLocale }
+const { locale } = Astro.props;
+const t = (key: Parameters<typeof translate>[1]) => translate(locale, key);
+const l = (value: Parameters<typeof localize>[0]) => localize(value, locale);
+const publishedIds = new Set(getCatalog()
+  .filter(work => work.type === 'library' && work.scope === 'public' && work.publicationStatus === 'ready')
+  .map(work => work.id));
+const pendingPlans = libraryPlans.filter(plan => !publishedIds.has(plan.id));
+---
+<Layout locale={locale} pagePath="library/plans/" title={t('libraryPlansTitle')} description={t('libraryPlansDescription')}>
+  <a class="back-link" href={withBase(`${locale}/library/`)}>{t('libraryPlansBack')}</a>
+  <header class="work-header"><h1>{t('libraryPlansTitle')}</h1></header>
+  <article class="library-plans">
+    <p>{t('libraryPlansIntro')}</p>
+    <ul class="plans-list">
+      {pendingPlans.map(plan => <li id={plan.id}>
+        <h2>{l(plan.title)}</h2>
+        <p class="plan-metadata">{l(plan.metadata)}</p>
+        <p class="plan-passage">{t('libraryPlansPassageLabel')}{l(plan.passage)}</p>
+        <p class="plan-description">{t('libraryPlansContentLabel')}{l(plan.description)}</p>
+        {plan.note && <p class="plan-note">{t('libraryPlansNoteLabel')}{l(plan.note)}</p>}
+      </li>)}
+    </ul>
+  </article>
+</Layout>

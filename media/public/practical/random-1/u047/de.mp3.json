@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13b828bf4f3137d741b765285aa813227c6fcfdd3409d20f2992f026b67098ca",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Der Roman, den ich vor Kurzem gelesen habe, beschäftigt mich noch lange nach dem Lesen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "02fe3de7542101f37bd085e80e90c21f7683e3438bceb6a7a7b7e58678571fad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:39.749392+00:00"
+}

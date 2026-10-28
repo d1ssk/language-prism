@@ -1,0 +1,1132 @@
+{
+  "schemaVersion": 1,
+  "id": "caesar-gaul",
+  "slug": "caesar-gaul",
+  "type": "library",
+  "title": {
+    "ja": "ガリア戦記",
+    "en": "The Gallic War"
+  },
+  "description": {
+    "ja": "ガリアの三分割、諸民族の違いと各地域の地理を述べる冒頭。",
+    "en": "The opening description of the three divisions of Gaul, their peoples and their geography."
+  },
+  "originalLanguage": "la",
+  "author": "Gaius Iulius Caesar",
+  "bibliography": {
+    "originalTitle": "Commentarii de bello Gallico",
+    "originalAuthor": "Gaius Iulius Caesar",
+    "title": {
+      "ja": "ガリア戦記",
+      "en": "The Gallic War"
+    },
+    "author": {
+      "ja": "ガイウス・ユリウス・カエサル",
+      "en": "Gaius Julius Caesar"
+    }
+  },
+  "sourceTitle": "Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV",
+  "sourceURL": "https://www.gutenberg.org/cache/epub/218/pg218-images.html",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Gaius Iulius Caesar。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Gaius Iulius Caesar. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。ラテン語原文の綴りと、第1章後半を囲む角括弧を保持しています。民族についての評価はカエサルの記述として訳しています。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. Latin spelling and the square brackets around the latter part of the chapter are retained. Assessments of peoples are translated as Caesar’s account."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1巻第1章全文",
+      "en": "Book I, chapter 1, complete"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "ガリア全体は三つの部分に分かれている。一つにはベルガエ人、別の一つにはアクイタニ人、第三の部分には、彼ら自身の言葉でケルタエ、私たちの言葉ではガリと呼ばれる人々が住んでいる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "がりあぜんたいはみっつのぶぶんにわかれている。ひとつにはべるがえじん、べつのひとつにはあくいたにじん、だいさんのぶぶんには、かれらじしんのことばでけるたえ、わたしたちのことばではがりとよばれるひとびとがすんでいる。"
+        },
+        "en": {
+          "text": "Gaul as a whole is divided into three parts. The Belgae inhabit one, the Aquitani another, and the third is inhabited by those called Celts in their own language and Gauls in ours.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Gaul as a whole is divided into three parts. The Belgae inhabit one, the Aquitani another, and the third is inhabited by those called Celts in their own language and Gauls in ours."
+        },
+        "es": {
+          "text": "La Galia en su conjunto está dividida en tres partes: una la habitan los belgas, otra los aquitanos y la tercera quienes en su propia lengua se llaman celtas y en la nuestra galos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La Galia en su conjunto está dividida en tres partes: una la habitan los belgas, otra los aquitanos y la tercera quienes en su propia lengua se llaman celtas y en la nuestra galos."
+        },
+        "fr": {
+          "text": "La Gaule entière est divisée en trois parties : l’une est habitée par les Belges, une autre par les Aquitains, la troisième par ceux qui, dans leur langue, se nomment Celtes et dans la nôtre Gaulois.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La Gaule entière est divisée en trois parties : l’une est habitée par les Belges, une autre par les Aquitains, la troisième par ceux qui, dans leur langue, se nomment Celtes et dans la nôtre Gaulois."
+        },
+        "de": {
+          "text": "Ganz Gallien ist in drei Teile gegliedert: einen bewohnen die Belger, einen anderen die Aquitaner und den dritten jene, die in ihrer eigenen Sprache Kelten, in unserer Gallier heißen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ganz Gallien ist in drei Teile gegliedert: einen bewohnen die Belger, einen anderen die Aquitaner und den dritten jene, die in ihrer eigenen Sprache Kelten, in unserer Gallier heißen."
+        },
+        "ru": {
+          "text": "Вся Галлия разделена на три части: одну населяют белги, другую аквитаны, третью — те, кто на собственном языке зовутся кельтами, а на нашем — галлами.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Вся Галлия разделена на три части: одну населяют белги, другую аквитаны, третью — те, кто на собственном языке зовутся кельтами, а на нашем — галлами."
+        },
+        "ar": {
+          "text": "تَنْقَسِمُ غَالِيَا كُلُّهَا إِلَى ثَلَاثَةِ أَقْسَامٍ؛ يَسْكُنُ الْبِلْجُ أَحَدَهَا، وَالْأَكْوِيتَانُ قِسْمًا آخَرَ، وَيَسْكُنُ الثَّالِثَ مَنْ يُسَمَّوْنَ فِي لُغَتِهِمْ كِلْتًا وَفِي لُغَتِنَا غَالِيِّينَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تَنْقَسِمُ غَالِيَا كُلُّهَا إِلَى ثَلَاثَةِ أَقْسَامٍ؛ يَسْكُنُ الْبِلْجُ أَحَدَهَا، وَالْأَكْوِيتَانُ قِسْمًا آخَرَ، وَيَسْكُنُ الثَّالِثَ مَنْ يُسَمَّوْنَ فِي لُغَتِهِمْ كِلْتًا وَفِي لُغَتِنَا غَالِيِّينَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tanqasimu Ghāliyā kulluhā ʾilā thalāthati ʾaqsāmin; yaskunu al-bilju ʾaḥadahā, wa-al-ʾakwītānu qisman ʾākhara, wa-yaskunu ath-thālitha man yusammawna fī lughatihim kiltan wa-fī lughatinā ghāliyyīna."
+          }
+        },
+        "zh": {
+          "text": "整个高卢分为三个部分：一部分住着比利其人，另一部分住着阿奎塔尼人，第三部分的居民在自己的语言中称为凯尔特人，在我们的语言中称为高卢人。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "整个高卢分为三个部分：一部分住着比利其人，另一部分住着阿奎塔尼人，第三部分的居民在自己的语言中称为凯尔特人，在我们的语言中称为高卢人。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhěng ge Gāolú fēn wéi sān ge bùfen: yī bùfen zhùzhe Bǐlìqí rén, lìng yī bùfen zhùzhe Ākuítǎní rén, dì sān bùfen de jūmín zài zìjǐ de yǔyán zhōng chēng wéi Kǎi’ěrtè rén, zài wǒmen de yǔyán zhōng chēng wéi Gāolú rén."
+          }
+        },
+        "ko": {
+          "text": "갈리아 전체는 세 부분으로 나뉜다. 한 곳에는 벨가이족, 다른 곳에는 아퀴타니족, 세 번째에는 자기네 말로는 켈타이, 우리 말로는 갈리라고 불리는 사람들이 산다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "갈리아 전체는 세 부분으로 나뉜다. 한 곳에는 벨가이족, 다른 곳에는 아퀴타니족, 세 번째에는 자기네 말로는 켈타이, 우리 말로는 갈리라고 불리는 사람들이 산다."
+        },
+        "la": {
+          "text": "GALLIA est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "nostra は「私たちの」で、ここではローマ人の言語、ラテン語を指します。",
+              "en": "Nostra means our; here it refers to the Romans’ language, Latin."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "これらの人々はみな、言語、慣習、法律において互いに異なる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "これらのひとびとはみな、げんご、かんしゅう、ほうりつにおいてたがいにことなる。"
+        },
+        "en": {
+          "text": "All these peoples differ from one another in language, customs and laws.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "All these peoples differ from one another in language, customs and laws."
+        },
+        "es": {
+          "text": "Todos estos pueblos difieren entre sí en lengua, costumbres y leyes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Todos estos pueblos difieren entre sí en lengua, costumbres y leyes."
+        },
+        "fr": {
+          "text": "Tous ces peuples diffèrent entre eux par la langue, les coutumes et les lois.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Tous ces peuples diffèrent entre eux par la langue, les coutumes et les lois."
+        },
+        "de": {
+          "text": "Alle diese Völker unterscheiden sich in Sprache, Gebräuchen und Gesetzen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Alle diese Völker unterscheiden sich in Sprache, Gebräuchen und Gesetzen."
+        },
+        "ru": {
+          "text": "Все эти народы различаются языком, обычаями и законами.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Все эти народы различаются языком, обычаями и законами."
+        },
+        "ar": {
+          "text": "وَتَخْتَلِفُ هَذِهِ الشُّعُوبُ كُلُّهَا فِي اللُّغَةِ وَالْعَادَاتِ وَالْقَوَانِينِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَتَخْتَلِفُ هَذِهِ الشُّعُوبُ كُلُّهَا فِي اللُّغَةِ وَالْعَادَاتِ وَالْقَوَانِينِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-takhtalifu hādhihi ash-shuʿūbu kulluhā fī al-lughati wa-al-ʿādāti wa-al-qawānīni."
+          }
+        },
+        "zh": {
+          "text": "这些民族的语言、习俗和法律各不相同。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "这些民族的语言、习俗和法律各不相同。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhèxiē mínzú de yǔyán, xísú hé fǎlǜ gè bù xiāngtóng."
+          }
+        },
+        "ko": {
+          "text": "이들은 모두 언어와 관습과 법률이 서로 다르다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이들은 모두 언어와 관습과 법률이 서로 다르다."
+        },
+        "la": {
+          "text": "Hi omnes lingua, institutis, legibus inter se differunt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "ガルムナ川はガリ人とアクイタニ人を、マトロナ川とセクアナ川はガリ人とベルガエ人を隔てている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "がるむながわはがりじんとあくいたにじんを、まとろながわとせくあながわはがりじんとべるがえじんをへだてている。"
+        },
+        "en": {
+          "text": "The Garumna separates the Gauls from the Aquitani, and the Matrona and Sequana separate them from the Belgae.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The Garumna separates the Gauls from the Aquitani, and the Matrona and Sequana separate them from the Belgae."
+        },
+        "es": {
+          "text": "El Garumna separa a los galos de los aquitanos, y el Matrona y el Sequana los separan de los belgas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El Garumna separa a los galos de los aquitanos, y el Matrona y el Sequana los separan de los belgas."
+        },
+        "fr": {
+          "text": "La Garumna sépare les Gaulois des Aquitains, et la Matrona et la Sequana les séparent des Belges.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La Garumna sépare les Gaulois des Aquitains, et la Matrona et la Sequana les séparent des Belges."
+        },
+        "de": {
+          "text": "Die Garumna trennt die Gallier von den Aquitanern, die Matrona und die Sequana von den Belgern.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die Garumna trennt die Gallier von den Aquitanern, die Matrona und die Sequana von den Belgern."
+        },
+        "ru": {
+          "text": "Гарумна отделяет галлов от аквитанов, а Матрона и Секвана — от белгов.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Гарумна отделяет галлов от аквитанов, а Матрона и Секвана — от белгов."
+        },
+        "ar": {
+          "text": "يَفْصِلُ نَهْرُ غَارُومْنَا الْغَالِيِّينَ عَنِ الْأَكْوِيتَانِ، وَيَفْصِلُهُمْ نَهْرَا مَاتْرُونَا وَسِيكْوَانَا عَنِ الْبِلْجِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "يَفْصِلُ نَهْرُ غَارُومْنَا الْغَالِيِّينَ عَنِ الْأَكْوِيتَانِ، وَيَفْصِلُهُمْ نَهْرَا مَاتْرُونَا وَسِيكْوَانَا عَنِ الْبِلْجِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Yafṣilu nahru Ghārūmnā al-ghāliyyīna ʿani al-ʾakwītāni, wa-yafṣiluhum nahrā Mātrūnā wa-Sīkwānā ʿani al-bilji."
+          }
+        },
+        "zh": {
+          "text": "加鲁姆纳河将高卢人与阿奎塔尼人分开，马特罗纳河和塞夸纳河将高卢人与比利其人分开。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "加鲁姆纳河将高卢人与阿奎塔尼人分开，马特罗纳河和塞夸纳河将高卢人与比利其人分开。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Jiālǔmǔnà hé jiāng Gāolú rén yǔ Ākuítǎní rén fēnkāi, Mǎtèluónà hé hé Sàikuānà hé jiāng Gāolú rén yǔ Bǐlìqí rén fēnkāi."
+          }
+        },
+        "ko": {
+          "text": "가룸나강은 갈리족과 아퀴타니족을, 마트로나강과 세콰나강은 갈리족과 벨가이족을 갈라놓는다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "가룸나강은 갈리족과 아퀴타니족을, 마트로나강과 세콰나강은 갈리족과 벨가이족을 갈라놓는다."
+        },
+        "la": {
+          "text": "Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Garumna・Matrona・Sequana は、それぞれ現在のガロンヌ川・マルヌ川・セーヌ川に当たります。",
+              "en": "Garumna, Matrona and Sequana correspond to the modern Garonne, Marne and Seine."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "彼らのうち最も勇猛なのはベルガエ人である。属州の文化や文明から最も遠く離れ、精神を軟弱にする品々を運ぶ商人が訪れることが最も少なく、ライン川の向こうに住むゲルマニ人に最も近く、彼らと絶えず戦っているからだ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "かれらのうちもっともゆうもうなのはべるがえじんである。ぞくしゅうのぶんかやぶんめいからもっともとおくはなれ、せいしんをなんじゃくにするしなじなをはこぶしょうにんがおとずれることがもっともすくなく、らいんがわのむこうにすむげるまにじんにもっともちかく、かれらとたえずたたかっているからだ。"
+        },
+        "en": {
+          "text": "The bravest of all are the Belgae, because they are furthest from the culture and civilization of the province; merchants visit them least often with goods that soften men’s spirits; and they are nearest to the Germans across the Rhine, with whom they wage war continually.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The bravest of all are the Belgae, because they are furthest from the culture and civilization of the province; merchants visit them least often with goods that soften men’s spirits; and they are nearest to the Germans across the Rhine, with whom they wage war continually."
+        },
+        "es": {
+          "text": "Los más valientes de todos son los belgas, porque están más alejados de la cultura y civilización de la provincia; los mercaderes los visitan con menor frecuencia llevando productos que ablandan el ánimo; y son los más cercanos a los germanos de la otra orilla del Rin, con quienes guerrean continuamente.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Los más valientes de todos son los belgas, porque están más alejados de la cultura y civilización de la provincia; los mercaderes los visitan con menor frecuencia llevando productos que ablandan el ánimo; y son los más cercanos a los germanos de la otra orilla del Rin, con quienes guerrean continuamente."
+        },
+        "fr": {
+          "text": "Les plus courageux sont les Belges, parce qu’ils sont les plus éloignés de la culture et de la civilisation de la province, que les marchands leur apportent le moins souvent des produits qui amollissent les esprits, et qu’ils sont les plus proches des Germains au-delà du Rhin, avec lesquels ils guerroient sans cesse.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les plus courageux sont les Belges, parce qu’ils sont les plus éloignés de la culture et de la civilisation de la province, que les marchands leur apportent le moins souvent des produits qui amollissent les esprits, et qu’ils sont les plus proches des Germains au-delà du Rhin, avec lesquels ils guerroient sans cesse."
+        },
+        "de": {
+          "text": "Am tapfersten sind die Belger, weil sie am weitesten von Kultur und Zivilisation der Provinz entfernt sind, Händler sie am seltensten mit Waren besuchen, die den Mut verweichlichen, und sie den Germanen jenseits des Rheins am nächsten sind, mit denen sie ständig Krieg führen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Am tapfersten sind die Belger, weil sie am weitesten von Kultur und Zivilisation der Provinz entfernt sind, Händler sie am seltensten mit Waren besuchen, die den Mut verweichlichen, und sie den Germanen jenseits des Rheins am nächsten sind, mit denen sie ständig Krieg führen."
+        },
+        "ru": {
+          "text": "Самые храбрые из всех — белги, поскольку они дальше всего от культуры и цивилизации провинции; купцы реже всего приезжают к ним с товарами, размягчающими дух; и они ближе всего к германцам за Рейном, с которыми непрерывно воюют.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Самые храбрые из всех — белги, поскольку они дальше всего от культуры и цивилизации провинции; купцы реже всего приезжают к ним с товарами, размягчающими дух; и они ближе всего к германцам за Рейном, с которыми непрерывно воюют."
+        },
+        "ar": {
+          "text": "وَأَشْجَعُهُمْ جَمِيعًا الْبِلْجُ، لِأَنَّهُمْ أَبْعَدُهُمْ عَنْ ثَقَافَةِ الْوِلَايَةِ وَحَضَارَتِهَا، وَأَقَلُّهُمْ زِيَارَةً مِنَ التُّجَّارِ الَّذِينَ يَجْلِبُونَ مَا يُلَيِّنُ النُّفُوسَ، وَأَقْرَبُهُمْ إِلَى الْجِرْمَانِ السَّاكِنِينَ وَرَاءَ الرَّايْنِ، الَّذِينَ يُحَارِبُونَهُمْ بِاسْتِمْرَارٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَأَشْجَعُهُمْ جَمِيعًا الْبِلْجُ، لِأَنَّهُمْ أَبْعَدُهُمْ عَنْ ثَقَافَةِ الْوِلَايَةِ وَحَضَارَتِهَا، وَأَقَلُّهُمْ زِيَارَةً مِنَ التُّجَّارِ الَّذِينَ يَجْلِبُونَ مَا يُلَيِّنُ النُّفُوسَ، وَأَقْرَبُهُمْ إِلَى الْجِرْمَانِ السَّاكِنِينَ وَرَاءَ الرَّايْنِ، الَّذِينَ يُحَارِبُونَهُمْ بِاسْتِمْرَارٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾashjaʿuhum jamīʿan al-bilju, li-ʾannahum ʾabʿaduhum ʿan thaqāfati al-wilāyati wa-ḥaḍāratihā, wa-ʾaqalluhum ziyāratan mina at-tujjāri alladhīna yajlibūna mā yulayyinu an-nufūsa, wa-ʾaqrabuhum ʾilā al-jirmāni as-sākinīna warāʾa ar-rāyni, alladhīna yuḥāribūnahum bi-istimrārin."
+          }
+        },
+        "zh": {
+          "text": "其中最勇猛的是比利其人，因为他们离行省的文化和文明最远，商人很少来访，带来那些使意志软弱的货物；他们又最靠近住在莱茵河对岸的日耳曼人，并与之不断交战。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "其中最勇猛的是比利其人，因为他们离行省的文化和文明最远，商人很少来访，带来那些使意志软弱的货物；他们又最靠近住在莱茵河对岸的日耳曼人，并与之不断交战。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qízhōng zuì yǒngměng de shì Bǐlìqí rén, yīnwèi tāmen lí xíngshěng de wénhuà hé wénmíng zuì yuǎn, shāngrén hěn shǎo láifǎng, dài lái nàxiē shǐ yìzhì ruǎnruò de huòwù; tāmen yòu zuì kàojìn zhù zài Láiyīn hé duì’àn de Rì’ěrmàn rén, bìng yǔ zhī bùduàn jiāozhàn."
+          }
+        },
+        "ko": {
+          "text": "이들 가운데 가장 용맹한 것은 벨가이족이다. 속주의 문화와 문명에서 가장 멀리 떨어져 있고, 정신을 나약하게 하는 물건을 가져오는 상인들의 방문이 가장 드물며, 라인강 너머의 게르마니족과 가장 가까이 살면서 끊임없이 싸우기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이들 가운데 가장 용맹한 것은 벨가이족이다. 속주의 문화와 문명에서 가장 멀리 떨어져 있고, 정신을 나약하게 하는 물건을 가져오는 상인들의 방문이 가장 드물며, 라인강 너머의 게르마니족과 가장 가까이 살면서 끊임없이 싸우기 때문이다."
+        },
+        "la": {
+          "text": "Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「文化・文明」と武勇を対比するのはカエサルの評価です。effeminandos は女性化を弱体化と結び付ける当時の表現です。",
+              "en": "The contrast between civilization and military courage is Caesar’s assessment. Effeminandos links feminization with weakening in the language of the period."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "同じ理由で、ヘルウェティ人も武勇においてほかのガリ人に勝る。ゲルマニ人を自分たちの領土から追い払ったり、自ら彼らの領土で戦ったりして、ほとんど毎日のように戦っているからである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "おなじりゆうで、へるうぇてぃじんもぶゆうにおいてほかのがりじんにまさる。げるまにじんをじぶんたちのりょうどからおいはらったり、みずからかれらのりょうどでたたかったりして、ほとんどまいにちのようにたたかっているからである。"
+        },
+        "en": {
+          "text": "For the same reason the Helvetii also surpass the other Gauls in courage, since they fight the Germans almost daily, either keeping them out of their own territory or waging war in theirs.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "For the same reason the Helvetii also surpass the other Gauls in courage, since they fight the Germans almost daily, either keeping them out of their own territory or waging war in theirs."
+        },
+        "es": {
+          "text": "Por la misma razón, los helvecios superan en valor a los demás galos, pues combaten casi a diario con los germanos, ya impidiéndoles entrar en sus tierras, ya llevando la guerra a las de ellos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Por la misma razón, los helvecios superan en valor a los demás galos, pues combaten casi a diario con los germanos, ya impidiéndoles entrar en sus tierras, ya llevando la guerra a las de ellos."
+        },
+        "fr": {
+          "text": "Pour la même raison, les Helvètes surpassent aussi les autres Gaulois en courage : ils combattent les Germains presque chaque jour, soit pour les tenir hors de leur territoire, soit pour leur faire la guerre chez eux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pour la même raison, les Helvètes surpassent aussi les autres Gaulois en courage : ils combattent les Germains presque chaque jour, soit pour les tenir hors de leur territoire, soit pour leur faire la guerre chez eux."
+        },
+        "de": {
+          "text": "Aus demselben Grund übertreffen auch die Helvetier die übrigen Gallier an Tapferkeit, denn sie kämpfen fast täglich mit den Germanen, indem sie diese aus dem eigenen Gebiet fernhalten oder selbst in deren Gebiet Krieg führen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Aus demselben Grund übertreffen auch die Helvetier die übrigen Gallier an Tapferkeit, denn sie kämpfen fast täglich mit den Germanen, indem sie diese aus dem eigenen Gebiet fernhalten oder selbst in deren Gebiet Krieg führen."
+        },
+        "ru": {
+          "text": "По той же причине гельветы превосходят прочих галлов доблестью: они почти ежедневно сражаются с германцами, то не допуская их на свою землю, то воюя на их территории.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "По той же причине гельветы превосходят прочих галлов доблестью: они почти ежедневно сражаются с германцами, то не допуская их на свою землю, то воюя на их территории."
+        },
+        "ar": {
+          "text": "وَلِهَذَا السَّبَبِ يَفُوقُ الْهِلْفِيتِيُّونَ سَائِرَ الْغَالِيِّينَ شَجَاعَةً؛ إِذْ يُقَاتِلُونَ الْجِرْمَانَ كُلَّ يَوْمٍ تَقْرِيبًا، إِمَّا لِمَنْعِهِمْ مِنْ دُخُولِ أَرْضِهِمْ، وَإِمَّا لِخَوْضِ الْحَرْبِ فِي أَرْضِ الْجِرْمَانِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَلِهَذَا السَّبَبِ يَفُوقُ الْهِلْفِيتِيُّونَ سَائِرَ الْغَالِيِّينَ شَجَاعَةً؛ إِذْ يُقَاتِلُونَ الْجِرْمَانَ كُلَّ يَوْمٍ تَقْرِيبًا، إِمَّا لِمَنْعِهِمْ مِنْ دُخُولِ أَرْضِهِمْ، وَإِمَّا لِخَوْضِ الْحَرْبِ فِي أَرْضِ الْجِرْمَانِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-li-hādhā as-sababi yafūqu al-hilfītiyyūna sāʾira al-ghāliyyīna shajāʿatan; ʾidh yuqātilūna al-jirmāna kulla yawmin taqrīban, ʾimmā li-manʿihim min dukhūli ʾarḍihim, wa-ʾimmā li-khawḍi al-ḥarbi fī ʾarḍi al-jirmāni."
+          }
+        },
+        "zh": {
+          "text": "同样，赫尔维提人也比其他高卢人更勇武，因为他们几乎每天与日耳曼人作战，或阻止对方进入自己的领土，或在对方的领土上交战。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "同样，赫尔维提人也比其他高卢人更勇武，因为他们几乎每天与日耳曼人作战，或阻止对方进入自己的领土，或在对方的领土上交战。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Tóngyàng, Hè’ěrwéití rén yě bǐ qítā Gāolú rén gèng yǒngwǔ, yīnwèi tāmen jīhū měi tiān yǔ Rì’ěrmàn rén zuòzhàn, huò zǔzhǐ duìfāng jìnrù zìjǐ de lǐngtǔ, huò zài duìfāng de lǐngtǔ shàng jiāozhàn."
+          }
+        },
+        "ko": {
+          "text": "같은 이유로 헬베티족도 다른 갈리족보다 용맹하다. 게르마니족이 자기 영토에 들어오지 못하게 하거나 그들의 영토에서 전쟁을 벌이면서 거의 날마다 싸우기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "같은 이유로 헬베티족도 다른 갈리족보다 용맹하다. 게르마니족이 자기 영토에 들어오지 못하게 하거나 그들의 영토에서 전쟁을 벌이면서 거의 날마다 싸우기 때문이다."
+        },
+        "la": {
+          "text": "Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "［その一つ、ガリ人が住むと述べた地域は、ロダヌス川から始まり、ガルムナ川、大洋、ベルガエ人の領土に囲まれ、セクアニ人とヘルウェティ人の側ではライン川にも達し、北へ向かっている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そのひとつ、がりじんがすむとのべたちいきは、ろだぬすがわからはじまり、がるむながわ、たいよう、べるがえじんのりょうどにかこまれ、せくあにじんとへるうぇてぃじんのがわではらいんがわにもたっし、きたへむかっている。"
+        },
+        "en": {
+          "text": "[One of these parts, said to be occupied by the Gauls, begins at the Rhodanus and is bounded by the Garumna, the ocean and the territory of the Belgae; on the side of the Sequani and Helvetii it also reaches the Rhine, and it faces north.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "[One of these parts, said to be occupied by the Gauls, begins at the Rhodanus and is bounded by the Garumna, the ocean and the territory of the Belgae; on the side of the Sequani and Helvetii it also reaches the Rhine, and it faces north."
+        },
+        "es": {
+          "text": "[Una de estas partes, la que se ha dicho que ocupan los galos, comienza en el Ródano, está delimitada por el Garumna, el océano y el territorio de los belgas, alcanza también el Rin por el lado de los secuanos y los helvecios, y mira al norte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "[Una de estas partes, la que se ha dicho que ocupan los galos, comienza en el Ródano, está delimitada por el Garumna, el océano y el territorio de los belgas, alcanza también el Rin por el lado de los secuanos y los helvecios, y mira al norte."
+        },
+        "fr": {
+          "text": "[L’une de ces parties, que les Gaulois occupent comme on l’a dit, commence au Rhône ; elle est délimitée par la Garumna, l’océan et le territoire des Belges, atteint aussi le Rhin du côté des Séquanes et des Helvètes, et regarde vers le nord.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "[L’une de ces parties, que les Gaulois occupent comme on l’a dit, commence au Rhône ; elle est délimitée par la Garumna, l’océan et le territoire des Belges, atteint aussi le Rhin du côté des Séquanes et des Helvètes, et regarde vers le nord."
+        },
+        "de": {
+          "text": "[Einer dieser Teile, den nach unserer Aussage die Gallier bewohnen, beginnt an der Rhone, wird von der Garumna, dem Ozean und dem Gebiet der Belger begrenzt, reicht auf der Seite der Sequaner und Helvetier auch bis zum Rhein und ist nach Norden gerichtet.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "[Einer dieser Teile, den nach unserer Aussage die Gallier bewohnen, beginnt an der Rhone, wird von der Garumna, dem Ozean und dem Gebiet der Belger begrenzt, reicht auf der Seite der Sequaner und Helvetier auch bis zum Rhein und ist nach Norden gerichtet."
+        },
+        "ru": {
+          "text": "[Одна из этих частей, которую, как сказано, занимают галлы, начинается от Родана, ограничена Гарумной, океаном и землями белгов, со стороны секванов и гельветов достигает также Рейна и обращена к северу.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "[Одна из этих частей, которую, как сказано, занимают галлы, начинается от Родана, ограничена Гарумной, океаном и землями белгов, со стороны секванов и гельветов достигает также Рейна и обращена к северу."
+        },
+        "ar": {
+          "text": "[يَبْدَأُ أَحَدُ هَذِهِ الْأَقْسَامِ، الَّذِي قِيلَ إِنَّ الْغَالِيِّينَ يَسْكُنُونَهُ، مِنْ نَهْرِ رُودَانُوسَ، وَتَحُدُّهُ غَارُومْنَا وَالْمُحِيطُ وَأَرْضُ الْبِلْجِ، وَيَبْلُغُ الرَّايْنَ مِنْ جِهَةِ السِّيكْوَانِ وَالْهِلْفِيتِيِّينَ، وَيَتَّجِهُ شَمَالًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "[يَبْدَأُ أَحَدُ هَذِهِ الْأَقْسَامِ، الَّذِي قِيلَ إِنَّ الْغَالِيِّينَ يَسْكُنُونَهُ، مِنْ نَهْرِ رُودَانُوسَ، وَتَحُدُّهُ غَارُومْنَا وَالْمُحِيطُ وَأَرْضُ الْبِلْجِ، وَيَبْلُغُ الرَّايْنَ مِنْ جِهَةِ السِّيكْوَانِ وَالْهِلْفِيتِيِّينَ، وَيَتَّجِهُ شَمَالًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "[Yabdaʾu ʾaḥadu hādhihi al-ʾaqsāmi, alladhī qīla ʾinna al-ghāliyyīna yaskunūnahu, min nahri Rūdānūsa, wa-taḥudduhu Ghārūmnā wa-al-muḥīṭu wa-ʾarḍu al-bilji, wa-yablughu ar-rāyna min jihati as-sīkwāni wa-al-hilfītiyyīna, wa-yattajihu shamālan."
+          }
+        },
+        "zh": {
+          "text": "［其中所说由高卢人居住的那一部分，从罗达努斯河开始，以加鲁姆纳河、大洋和比利其人的领土为界，在塞夸尼人和赫尔维提人一侧也延伸到莱茵河，面向北方。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "［其中所说由高卢人居住的那一部分，从罗达努斯河开始，以加鲁姆纳河、大洋和比利其人的领土为界，在塞夸尼人和赫尔维提人一侧也延伸到莱茵河，面向北方。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "［Qízhōng suǒ shuō yóu Gāolú rén jūzhù de nà yī bùfen, cóng Luódánǔsī hé kāishǐ, yǐ Jiālǔmǔnà hé, dàyáng hé Bǐlìqí rén de lǐngtǔ wéi jiè, zài Sàikuāní rén hé Hè’ěrwéití rén yī cè yě yánshēn dào Láiyīn hé, miànxiàng běifāng."
+          }
+        },
+        "ko": {
+          "text": "［그중 갈리족이 차지한다고 말한 지역은 로다누스강에서 시작하여 가룸나강, 대양, 벨가이족의 영토로 둘러싸이고, 세콰니족과 헬베티족 쪽에서는 라인강에도 이르며 북쪽을 향한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "［그중 갈리족이 차지한다고 말한 지역은 로다누스강에서 시작하여 가룸나강, 대양, 벨가이족의 영토로 둘러싸이고, 세콰니족과 헬베티족 쪽에서는 라인강에도 이르며 북쪽을 향한다."
+        },
+        "la": {
+          "text": "[Eorum una, pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この単位から章末までの角括弧は、採用したラテン語本文にあるものです。",
+              "en": "The square brackets from this unit to the chapter’s end are present in the adopted Latin text."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "ベルガエ人の地域はガリアの最も遠い境界から始まり、ライン川下流部へ広がり、北と日の出の方角を向いている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "べるがえじんのちいきはがりあのもっともとおいきょうかいからはじまり、らいんがわかりゅうぶへひろがり、きたとひのでのほうがくをむいている。"
+        },
+        "en": {
+          "text": "The Belgae’s territory begins at Gaul’s furthest boundaries, extends to the lower Rhine and faces north and the rising sun.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The Belgae’s territory begins at Gaul’s furthest boundaries, extends to the lower Rhine and faces north and the rising sun."
+        },
+        "es": {
+          "text": "El territorio de los belgas comienza en los confines de la Galia, se extiende hasta el bajo Rin y mira al norte y al sol naciente.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El territorio de los belgas comienza en los confines de la Galia, se extiende hasta el bajo Rin y mira al norte y al sol naciente."
+        },
+        "fr": {
+          "text": "Le territoire des Belges commence aux confins de la Gaule, s’étend vers le cours inférieur du Rhin et regarde vers le nord et le soleil levant.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le territoire des Belges commence aux confins de la Gaule, s’étend vers le cours inférieur du Rhin et regarde vers le nord et le soleil levant."
+        },
+        "de": {
+          "text": "Das Gebiet der Belger beginnt an Galliens äußersten Grenzen, reicht bis an den unteren Rhein und ist nach Norden und zum Sonnenaufgang gerichtet.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Das Gebiet der Belger beginnt an Galliens äußersten Grenzen, reicht bis an den unteren Rhein und ist nach Norden und zum Sonnenaufgang gerichtet."
+        },
+        "ru": {
+          "text": "Земли белгов начинаются у крайних границ Галлии, простираются до нижнего Рейна и обращены к северу и восходу солнца.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Земли белгов начинаются у крайних границ Галлии, простираются до нижнего Рейна и обращены к северу и восходу солнца."
+        },
+        "ar": {
+          "text": "تَبْدَأُ أَرْضُ الْبِلْجِ مِنْ أَقْصَى حُدُودِ غَالِيَا، وَتَمْتَدُّ إِلَى الْجُزْءِ الْأَسْفَلِ مِنَ الرَّايْنِ، وَتَتَّجِهُ نَحْوَ الشَّمَالِ وَمَطْلِعِ الشَّمْسِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تَبْدَأُ أَرْضُ الْبِلْجِ مِنْ أَقْصَى حُدُودِ غَالِيَا، وَتَمْتَدُّ إِلَى الْجُزْءِ الْأَسْفَلِ مِنَ الرَّايْنِ، وَتَتَّجِهُ نَحْوَ الشَّمَالِ وَمَطْلِعِ الشَّمْسِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tabdaʾu ʾarḍu al-bilji min ʾaqṣā ḥudūdi Ghāliyā, wa-tamtaddu ʾilā al-juzʾi al-ʾasfali mina ar-rāyni, wa-tattajihu naḥwa ash-shamāli wa-maṭliʿi ash-shamsi."
+          }
+        },
+        "zh": {
+          "text": "比利其人的领土从高卢最远的边界开始，延伸到莱茵河下游，朝向北方和日出的方向。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "比利其人的领土从高卢最远的边界开始，延伸到莱茵河下游，朝向北方和日出的方向。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bǐlìqí rén de lǐngtǔ cóng Gāolú zuì yuǎn de biānjiè kāishǐ, yánshēn dào Láiyīn hé xiàyóu, cháoxiàng běifāng hé rìchū de fāngxiàng."
+          }
+        },
+        "ko": {
+          "text": "벨가이족의 땅은 갈리아의 먼 경계에서 시작하여 라인강 하류까지 뻗고, 북쪽과 해 뜨는 쪽을 향한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "벨가이족의 땅은 갈리아의 먼 경계에서 시작하여 라인강 하류까지 뻗고, 북쪽과 해 뜨는 쪽을 향한다."
+        },
+        "la": {
+          "text": "Belgae ab extremis Galliae finibus oriuntur, pertinent ad inferiorem partem fluminis Rheni, spectant in septentrionem et orientem solem.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "アクイタニアはガルムナ川からピレネー山脈とヒスパニアに面する大洋の部分まで広がり、日の入りと北との間の方角を向いている。］",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "あくいたにあはがるむながわからぴれねーさんみゃくとひすぱにあにめんするたいようのぶぶんまでひろがり、ひのいりときたとのあいだのほうがくをむいている。"
+        },
+        "en": {
+          "text": "Aquitania stretches from the Garumna to the Pyrenees and the part of the ocean adjoining Hispania; it faces between sunset and north.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Aquitania stretches from the Garumna to the Pyrenees and the part of the ocean adjoining Hispania; it faces between sunset and north.]"
+        },
+        "es": {
+          "text": "Aquitania se extiende desde el Garumna hasta los Pirineos y la parte del océano junto a Hispania; mira entre el poniente y el norte.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Aquitania se extiende desde el Garumna hasta los Pirineos y la parte del océano junto a Hispania; mira entre el poniente y el norte.]"
+        },
+        "fr": {
+          "text": "L’Aquitaine s’étend de la Garumna aux Pyrénées et à la partie de l’océan qui borde l’Hispanie ; elle regarde entre le couchant et le nord.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "L’Aquitaine s’étend de la Garumna aux Pyrénées et à la partie de l’océan qui borde l’Hispanie ; elle regarde entre le couchant et le nord.]"
+        },
+        "de": {
+          "text": "Aquitanien erstreckt sich von der Garumna bis zu den Pyrenäen und dem an Hispanien grenzenden Teil des Ozeans; es blickt zwischen Sonnenuntergang und Norden.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Aquitanien erstreckt sich von der Garumna bis zu den Pyrenäen und dem an Hispanien grenzenden Teil des Ozeans; es blickt zwischen Sonnenuntergang und Norden.]"
+        },
+        "ru": {
+          "text": "Аквитания простирается от Гарумны до Пиренеев и той части океана, которая примыкает к Испании; она обращена между закатом и севером.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Аквитания простирается от Гарумны до Пиренеев и той части океана, которая примыкает к Испании; она обращена между закатом и севером.]"
+        },
+        "ar": {
+          "text": "تَمْتَدُّ أَكْوِيتَانِيَا مِنْ غَارُومْنَا إِلَى جِبَالِ الْبِيرِينِيهِ وَجُزْءِ الْمُحِيطِ الْمُجَاوِرِ لِهِسْبَانِيَا، وَتَتَّجِهُ بَيْنَ مَغْرِبِ الشَّمْسِ وَالشَّمَالِ.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تَمْتَدُّ أَكْوِيتَانِيَا مِنْ غَارُومْنَا إِلَى جِبَالِ الْبِيرِينِيهِ وَجُزْءِ الْمُحِيطِ الْمُجَاوِرِ لِهِسْبَانِيَا، وَتَتَّجِهُ بَيْنَ مَغْرِبِ الشَّمْسِ وَالشَّمَالِ.]",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tamtaddu ʾAkwītāniyā min Ghārūmnā ʾilā jibāli al-bīrīnihi wa-juzʾi al-muḥīṭi al-mujāwiri li-Hisbāniyā, wa-tattajihu bayna maghribi ash-shamsi wa-ash-shamāli.]"
+          }
+        },
+        "zh": {
+          "text": "阿奎塔尼亚从加鲁姆纳河延伸到比利牛斯山脉，以及邻接希斯帕尼亚的那部分大洋；它朝向日落与北方之间。］",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "阿奎塔尼亚从加鲁姆纳河延伸到比利牛斯山脉，以及邻接希斯帕尼亚的那部分大洋；它朝向日落与北方之间。］",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ākuítǎníyà cóng Jiālǔmǔnà hé yánshēn dào Bǐlìniúsī shānmài, yǐjí línjiē Xīsīpàníyà de nà bùfen dàyáng; tā cháoxiàng rìluò yǔ běifāng zhī jiān.］"
+          }
+        },
+        "ko": {
+          "text": "아퀴타니아는 가룸나강에서 피레네산맥과 히스파니아에 인접한 대양 부분까지 뻗고, 해 지는 쪽과 북쪽 사이를 향한다.］",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "아퀴타니아는 가룸나강에서 피레네산맥과 히스파니아에 인접한 대양 부분까지 뻗고, 해 지는 쪽과 북쪽 사이를 향한다.］"
+        },
+        "la": {
+          "text": "Aquitania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam pertinet; spectat inter occasum solis et septentriones.]",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Gaius Iulius Caesar; Project Gutenberg #218 — C. Iuli Caesaris De Bello Gallico, I–IV"
+          }
+        }
+      }
+    }
+  ]
+}

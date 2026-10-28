@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47ef04afbe6bf4a6b43d9532b79f838dd01e234ebf323d6619453c9e9c8db072",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "영화의 결말은 예상 밖이었지만 이야기 전체를 돌아보면 납득이 돼요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "11aa74a74bafbb179ba2c8d44344085df8980d2a37866ceaff9f903c4f3cc33a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:47.677443+00:00"
+}

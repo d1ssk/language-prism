@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fb6a4d55247818de6cedb8b1be7a710dba8e22ed585c65b561ca91428171a0b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "결국 그는 독서에 너무 몰두한 나머지 밤에는 해 질 때부터 날 밝을 때까지, 낮에는 날 밝을 때부터 해 질 때까지 책을 읽었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2a191b6aafb00082d65eb2cedfa4a815b21216e37e01d0783a8dfe3133011477",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:56:07.332750+00:00"
+}

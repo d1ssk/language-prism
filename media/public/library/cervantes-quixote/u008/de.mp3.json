@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5cd535fce7bc181f4a75a996ac1eb6ec24c74bd2b5cc50fb3f4d19dceaaacb4c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Man sagt, er habe Quijada oder Quesada geheißen, worüber die Autoren dieser Geschichte etwas uneins sind; glaubhafte Vermutungen lassen jedoch auf Quijano schließen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "074b72e6bf31defc61fbba1acb59efa0ef6bb3a1cd97faddf8afdaa82030f6f5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:31:22.160365+00:00"
+}

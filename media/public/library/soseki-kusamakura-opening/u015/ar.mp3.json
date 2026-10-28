@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "75fe7582bb6eb9a2082ae2230941c99939791d72a5cf9a8f94a2a3889f98206f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كل أهل الفن جديرون بالتقدير لأنهم يضفون السكينة على عالم البشر ويثرون قلوب الناس.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "524fa6f6acf6acb7bf8f4dc1c39a9b9d31a180d91b0ce9d4b5f02964dac76d79",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:00:14.892903+00:00"
+}

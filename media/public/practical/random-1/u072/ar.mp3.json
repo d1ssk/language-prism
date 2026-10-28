@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7699e6ca6a9b8e5b7c5124724b4832ad3ed1acb40b1db71a4fe972e84a4da7d8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أحيانًا يصبح شيء كان يبدو صعبًا حتى الأمس واضحًا فجأة في لحظة ما.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2151506dfffaba3143634082896c1c5578c7f38ef8469c71f9d2919989f39687",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:03.636450+00:00"
+}

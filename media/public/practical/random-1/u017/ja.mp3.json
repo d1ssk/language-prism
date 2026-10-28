@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "afb1895a4614e7cadcbc9ea96e4949f0f780093a76c3f9cfa384f5c024056345",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "きょうはてんきがいいので、すこしとおまわりしてあるいてかえりたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d54b2eebfa065d416a8f3fc790ab98465e7b767f15686104eba5ac37c09a8f42",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:21:40.431012+00:00"
+}

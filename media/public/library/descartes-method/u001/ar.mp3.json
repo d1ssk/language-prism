@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "938e531cad0f258021512c0f7244bfba0359c38af670c9ee860f3b80bd4241e4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كانت القاعدة الأولى ألا أقبل أي شيء على أنه حق ما لم أعرف بوضوح أنه كذلك؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eda76f953d407bd07db09380cd9402225c10886651445d4336e9878bffcbc541",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:25:50.438127+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c638a13a1544322dd380a3ec01e27ebe1eaecdb15bc5696c9d87c15645adae3c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "다른 이들의 주인이라고 생각하는 사람이 오히려 그들보다 더한 노예이기도 하다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "40079080bd587c2ae05456bfcc9bf2b2b0a01b8fe4a14220306d61a57522668a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:53:00.591501+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c70093544e9bc5e5dfe748e363787b40604826bcc79a3c5b0c936645d0ca77aa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "изготовление головки требует двух или трёх отдельных операций; её насаживание — особая работа; отбеливание булавок — другая; даже вкалывание их в бумагу составляет самостоятельное занятие;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "328f8a96d1be04cc889cf5cc41bb74b3d62aa6867488a055c6d59a933d73602f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:40:31.889722+00:00"
+}

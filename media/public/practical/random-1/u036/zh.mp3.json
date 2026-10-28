@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "953f797610d4f6b635cdfd81e23246cea9fd84a8c83558e66b6051fc2fc7926f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我觉得要提高外语水平，每天练习一点很重要。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "817f461d9b9157549d25e8354a133adeafc5bbe3d08e9c31c0aab8101e62f021",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:32:22.874038+00:00"
+}

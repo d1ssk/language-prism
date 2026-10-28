@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e7a9ce982c3bbfe8ac5be94925a052a068a4ebf24921fa31774c5bff133c24b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "y así el importante trabajo de hacer un alfiler queda dividido en unas dieciocho operaciones distintas, que en algunas fábricas realizan manos diferentes, aunque en otras un mismo hombre ejecuta a veces dos o tres.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3ebe7bd75540f0337a5045370de9982f5fa486d7a84d595cf672b182efd79dfc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:41:42.588453+00:00"
+}

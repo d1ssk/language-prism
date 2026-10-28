@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "53457e3274a3a180d2cad299630f0c1c04a4ac6e87ac53962663182ed1b9402a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "而在现存物种中，能将任何形式的后代留到极遥远的未来的，也将寥寥无几；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3ac07462dad83efaf98ff9c7ca4a5d6497e095ae9dcd0d47634b5bd9a455bf25",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:21:16.313560+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9cdc2a89cc9e60e987ec3e15e87f49c543cf0bc858f1b9593178966558ef5565",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Uno estira el alambre; otro lo endereza; un tercero lo corta; un cuarto le saca punta; un quinto pule la parte superior para colocar la cabeza;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "60ff2ba5fb10a286b73fb9d972d619d278c68f9ff0d30eb220177680c97ed21f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:38:28.470894+00:00"
+}

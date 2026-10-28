@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7c86fed4c009757677071cf00d8efe5ff6f08467f52161acba85524f5ebf7e38",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "We can so far take a prophetic glance into futurity as to foretel that it will be the common and widely-spread species, belonging to the larger and dominant groups, which will ultimately prevail and procreate new and dominant species.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f6c4a6e30d362996a1470d8b20f8ab094110ce089c59b7aac119881bd454760a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:23:26.591314+00:00"
+}

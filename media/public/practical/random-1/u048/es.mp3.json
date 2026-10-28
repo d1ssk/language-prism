@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a714cd29c80ed0309ed30c5587bf90a213b0d28d1176a1ed18033788d7acd685",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El final de la película fue inesperado, pero tiene sentido cuando repasas toda la historia.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5fdca801c7e1f219d15e588e0b9a3fb929ec4508bf104ec3a0c8aa56ad40aa0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:16.558659+00:00"
+}

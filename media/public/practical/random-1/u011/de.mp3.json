@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "34c6f16f7231b97bc45090fa6e41286f43e9f5858bbf7bda6f9f8ef37b71aae0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich bin in dem Hotel angekommen, in dem ich reserviert habe. Kann ich jetzt einchecken?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b5c8be08f9e0f129de4968d82702b06c7064d85bebc41e25f4f2a83f71552b6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:35.385661+00:00"
+}

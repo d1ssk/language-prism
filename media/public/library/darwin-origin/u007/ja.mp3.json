@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f6d996b9ea86451076a3c4049fbabde36dd7a0c7ed9b7651a4aef3f8fee46414",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "せいめいとそのさまざまなちからが、はじめにしょうすうのけいたい、あるいはただひとつのけいたいにふきこまれたという、このせいめいかんにはそうだいさがある。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "64327425fb93894914e5c1f5e5a2e9ccc6fd920b1778e1b7d541e916b2c4329b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:22:22.256183+00:00"
+}

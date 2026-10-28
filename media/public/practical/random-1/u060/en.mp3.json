@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "23b9737d385871ba717dc4b654d6f13c3aff929abbb533d64aa1c8610fffe888",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I don't have any cash with me, so it would be helpful if I could pay electronically.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c937f8c1f7abc0587cc41976b853f50c7dee2bf186a5240c4a139460398ab442",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:48:56.785247+00:00"
+}

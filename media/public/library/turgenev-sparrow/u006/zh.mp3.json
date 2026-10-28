@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c3862173f4aab1348e1cee35e516738bfd51e77f060e1212325b020a7d08e679",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "它冲上前去救自己的孩子，用身体把它护住……可是，它小小的身躯因恐惧而颤抖，细弱的声音变得狂乱而嘶哑，身体几乎僵住；它在牺牲自己！",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d8e7a540206f42a3ab63b8e10b82a4a8d83f828f497a0729d377cec13e928ac2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:17:52.602395+00:00"
+}

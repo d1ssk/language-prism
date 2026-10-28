@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d7ca3a6c2692e5c76fded494c626acc6d0708014414ef92cc23c09fe0c3b274f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "D'habitude, j'aime passer du temps seul, mais parfois j'ai envie de discuter pendant des heures avec mes amis.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eea3ac4d06575abd9f40917d097c178dda412a81fed4b4a2c7175abb259ef0a4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:45.378217+00:00"
+}

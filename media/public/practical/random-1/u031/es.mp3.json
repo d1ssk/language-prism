@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "789863c3f27dea3d5c5f5a65e5d12409905997f36a172361ebe4182dc629c62d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Te enviaré una explicación más detallada por correo electrónico más tarde.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fbf30683cd176082d70e1595740c687f0563743920e584f0b4df9d4de88a5034",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:29:35.539897+00:00"
+}

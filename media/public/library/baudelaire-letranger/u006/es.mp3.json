@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7fb1980a32638b6354441e8982ae00b39819ab0c346222b2b666b23beeb64d15",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Ignoro en qué latitud se encuentra.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6eaf5878136f8beb6343725ebf9b8996811a1bddd8015edbcd27b0696c0cc526",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:28.244438+00:00"
+}

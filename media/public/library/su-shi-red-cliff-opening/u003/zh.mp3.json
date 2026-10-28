@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "701ea5cb04ec17a9a8fcb3cc15e62cc7fec118097a81eecb3d8b99a1dca76d28",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "举酒嘱客，诵《明月》之诗，歌《窈窕》之章。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "56d4e03725ebf4238a2a7840d723d5ec03e3eeb06a2e3dd4c3c226b3ef6e9244",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:03:29.136504+00:00"
+}

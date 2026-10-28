@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "58bbef1e6d03503a98e1ab37581936f3b71d66ad3c5e3e657e3e7eba90c91689",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وامتلأ خياله بكل ما قرأه في الكتب من سحر وخصومات ومعارك وتحديات وجروح وغزل وحب وعواصف وسخافات مستحيلة؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "53a987864289447a44ef85a74e3f97b6b683150af3307bdbf7714cd760cc72a2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:58:22.431649+00:00"
+}

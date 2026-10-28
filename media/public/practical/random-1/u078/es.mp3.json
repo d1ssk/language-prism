@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1332d193bf041be41088342af0da584d828bb4c9c8141af398c3219f7d92b555",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Creo que dedicar tiempo a reflexionar sobre preguntas que no tienen respuestas fáciles tiene valor en sí mismo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "122c4d9095d90f7f32ab93fc7b04e6793aa95f4e97c4a7cc1dc3e975dc2d520a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:02:33.527314+00:00"
+}

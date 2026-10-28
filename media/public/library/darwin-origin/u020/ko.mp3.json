@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "be84fa3c6e62fc09bdaccc60d557081c19d67ebb44b01c4375fe5f5123cfb97e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "현존하는 모든 생명 형태가 실루리아기보다 훨씬 전에 살았던 생물의 직계 후손이므로, 우리는 정상적인 세대의 계승이 한 번도 끊긴 적이 없으며 어떤 대격변도 온 세계를 황폐하게 하지는 않았다고 확신할 수 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c6a8cabd9b1b2139413339916c0d5a3a91187656a7549a3d61da57c6259d8512",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:27:21.710685+00:00"
+}

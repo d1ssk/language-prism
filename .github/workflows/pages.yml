@@ -1,0 +1,64 @@
+name: Deploy public archive to GitHub Pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Read GitHub Pages configuration
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Install dependencies
+        run: npm ci
+      - name: Check types and templates
+        run: npm run check
+      - name: Validate public content
+        run: npm run validate:content
+      - name: Run tests
+        run: npm test
+      - name: Build public site
+        run: npm run build:public
+        env:
+          PRISM_BASE: ${{ steps.pages.outputs.base_path }}/
+          PRISM_SITE: ${{ steps.pages.outputs.origin }}
+      - name: Check publication boundaries
+        run: npm run privacy:check
+      - name: Upload public site only
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist/public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "62dd61e289d594b44afc5042bb35197bab561dbdd857e45b369b1884e2699238",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "带上武器和马走遍世界，寻找冒险，亲自实践他在书中读到的游侠骑士们所做的一切，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2a196f388506edb8630da23869decaefac6bf7e04857f617f52530879a15dddd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:14:25.014076+00:00"
+}

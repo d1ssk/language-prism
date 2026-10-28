@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "63879b423eec46fbb618353c521b825d6d168ba7a64e6e25aafd9cbe59fa141f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "さいきんよんだしょうせつは、よみおわってからもずっとこころにのこっています。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a67753daf15220e38c4425aa184318911432dd7bfa4fd4d629f035a0c18be47d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:22.499686+00:00"
+}

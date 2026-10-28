@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ef431719a2c6ad2941e30acf0b9e2d15e3e1104952f70f210a17f733081ae1e6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "亲手制作一样东西之后，就会开始注意到平时容易忽略的细节。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4492d0ee6141d8d5f55a0d219ab9bbe20f7b4a4e8aeacb22abbe21ffff4bea99",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:08:23.690301+00:00"
+}

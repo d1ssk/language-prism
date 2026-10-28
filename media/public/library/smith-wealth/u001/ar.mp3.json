@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c28373a93d80b35f3af37d5b23c59608a08b3d60c3d2045853eedc4600150144",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لنأخذ إذن مثالًا من صناعة بسيطة جدًا، لكن تقسيم العمل فيها حظي كثيرًا بالاهتمام، وهي صناعة الدبابيس:",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8fd8f97ff2f8213dbbbb2affa45d29821089d2eb931e3531a5475580cff84fd7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:33:24.443829+00:00"
+}

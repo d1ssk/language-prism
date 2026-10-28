@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "17b1969ded25005304e5557f2f4c5b327efd6d228d00643819c12224244aa3b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "셋째는 가장 단순하고 가장 알기 쉬운 대상부터 시작하여, 순서에 따라 생각을 이끌어 가는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "76ad3c7192578a6aff50d2f4063a018786d8b64890d1c6d436f7bef60a27f28b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:29:53.548954+00:00"
+}

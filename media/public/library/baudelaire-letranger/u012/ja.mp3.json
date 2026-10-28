@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e93002c2da369c6d7a3e8811e02f3bf9c4e6bea0d46d155de5b4439b128d076e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "くもをあいしています。すぎてゆくくもを。あそこに。あのすばらしいくもを。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f57a23d1f4614c87cdfda5e72309716b1dbf56f358c9897980f53453e2837e3e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:54.511408+00:00"
+}

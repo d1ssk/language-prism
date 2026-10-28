@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e3a7e6938f9550c760a382862dcfdbd77ee1716f4666ce1c169fcd1d2a3756c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Psychology will be based on a new foundation, that of the necessary acquirement of each mental power and capacity by gradation.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c39592f7909ae1c74c65ac6ab0268bc03ea57dbbb5b09cac2c458b2852047767",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:10:30.237516+00:00"
+}

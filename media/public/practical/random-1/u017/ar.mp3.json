@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eab0f9e654d5bd38a66f47c45ee28805506e27fe3f48b921f1e5e1c2c8af3130",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الطقس جميل اليوم، لذلك أود أن أسلك طريقًا أطول وأعود إلى المنزل سيرًا على الأقدام.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e277feb218aab275b13091d08b3165be6f172cbf239ef23e35f2ad78127a287a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:08.551697+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0314cf118f14bde77017aa6aa76b4ce571808bda208d90acc742fa3dcedeabd2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "기술이 발전할수록 우리는 그것을 무엇을 위해 사용하는지 더 깊이 생각해야 해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5bf2267a90fa5f0cbdf2a0ef58086b468e8a7306f334c3e3ac618930cacc2279",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:02:16.673483+00:00"
+}

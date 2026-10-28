@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e86d45f78f1a0fd0f41ccc52ce47da5b8dda237ad442a9b8c1781fd981ca5d5d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Selbst wenn ich scheitere, halte ich es nicht für vergeblich, solange ich etwas daraus lernen kann.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7f8d270f6e2876a4cd3bbdf138334f4bf43f8cc5d272c710490184b28d76e5bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:33.845351+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4c055cb1ce5922da2db1137dbd8b1273a2ff0fde8f507de13ee4426c8759b511",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "然而，这项权利并非来自自然，因此它建立在约定之上。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "04831081c4d33285a97af657d7db48a6adb6dc7b77a312e6a4f8e24d1577baf7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:58:38.186818+00:00"
+}

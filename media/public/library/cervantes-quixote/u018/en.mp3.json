@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "23613f2d31691fd5f37bcdda629782cbe67fa9ea83ab6675e83c59d356a66836",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Such arguments drove the poor gentleman out of his wits, and he lay awake trying to unravel their meaning, which Aristotle himself could not have extracted or understood had he risen from the dead solely for that purpose.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f327a8ee952abe56877f8c4e0c8e818c0e9d97a68cc0cd58202acd9ac55f914f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:43:02.694413+00:00"
+}

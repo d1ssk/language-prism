@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d2a86a869d01875b6a578056e60d417b579994e7ad1dbec3463b7ff65341a12a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러나 현재 이 일이 이루어지는 방식에서는 전체 작업이 하나의 전문 직업일 뿐 아니라 여러 부문으로 나뉘며, 그 대부분도 각각 전문 직업이 된다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e6fb7df48b0922f46d8b997494c72535766439a7be8432e299a5ce3825a427c6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:38:05.467494+00:00"
+}

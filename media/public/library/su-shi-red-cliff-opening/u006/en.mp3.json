@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "641d3fce8945d62db855e9e1ca203d6370c4c050daa594fdc2cb527ed8810998",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "We let our reed-like skiff drift where it would, crossing the vast and boundless expanse of water.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6e092bc293a0297d8747a150c1ea5b5a33033da1d391f4b211a6f0fc6355573f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:05:41.187923+00:00"
+}

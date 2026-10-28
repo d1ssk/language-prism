@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f437d6e29baf9e26d97f995fabd9833a259806c9cc8a88e2adb497481c0cd9a9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Даже если потерпеть неудачу, это не напрасно, если удастся чему-то научиться.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f7db6c82d48d2c4a7cba55be8a70929b09dc88f78c1cc2f1c8d16b8311a1096b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:39.020188+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d1778b857ccef2ff7e1694b91db2067fda5eb423f8c187b2036643b0e2eb67ae",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В далёком будущем я вижу открытые области для гораздо более важных исследований.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "daa55e5219bbfce7313be3da4c0d08fbe7d50d668803edc7eb82bc24f3f2bf37",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:10:01.257445+00:00"
+}

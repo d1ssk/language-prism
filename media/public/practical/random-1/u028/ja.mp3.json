@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c3c39fbb1fed30c200db672ce7ecbfb5a6089c80396132dc43b6e6301d277cb0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "さきほどおくったふぁいるをかくにんして、きになるてんがあればおしえてください。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4239c93a6d0ffa07d519b495ec45ca6657c42f7ab77bda6437286d37772c647d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:27:30.500589+00:00"
+}

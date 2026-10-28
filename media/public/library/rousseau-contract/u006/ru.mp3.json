@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e460c05e6432ee9a8948f4948ee4df59b60c7fc99128bf19b8245ebe6729cf6f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ведь, возвращая себе свободу по тому же праву, по которому её у него отняли, он либо имеет основание вернуть её, либо не было основания её отнимать».",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "702edd4c30fc499d9679c41c1d6c58c97cb55b87dbe8403f409ee4d95c855ec0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:56:48.558556+00:00"
+}

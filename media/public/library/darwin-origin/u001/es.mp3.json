@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6ef18ff81b2ca297f6de77f4ad43368cdf9a4ca8a0b3e42d82802888c9183166",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es interesante contemplar una ribera enmarañada, cubierta de numerosas plantas de muchas clases, con pájaros que cantan en los arbustos, diversos insectos que revolotean y gusanos que se arrastran por la tierra húmeda,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "adda644504fc8712f58fdbaf486549d5c20ce5e6d8335bb733824e5862221f05",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:14:45.775216+00:00"
+}

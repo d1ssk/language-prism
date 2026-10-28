@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "651c7734516e98ef9464307a3ab81641069eaf8a6d8ec068f8386c6420acb136",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando uno comprende que es difícil vivir adondequiera que se mude, nace la poesía y surge la pintura.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bc2aed45b8e3eb535a9f27a79e87aef008337198cc1935454b93ebb461a010d2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:59:07.657647+00:00"
+}

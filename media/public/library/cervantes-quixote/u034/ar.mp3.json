@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "51c6743ce1d4812a90f59ac10b1b2b0e53fbf997b56db60aa99b6365607baf9b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وأخيرا، وقد زال عقله تماما، خطر له أغرب خاطر خطر لمجنون في العالم؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f79061554860a93a3580017a759d632d3f86e4818f78f46f4cb7cab3b814b282",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:11:30.754003+00:00"
+}

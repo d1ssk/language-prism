@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ef50860db284dabb514e52fec89dbccf843d267562a2147e132bd9065985040c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "可以再说一遍你刚才说的话吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2b40b50884a4df5167db0248a156629b5d293ed274c9757f88a3a719a1d66c47",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:31:40.895632+00:00"
+}

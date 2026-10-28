@@ -1,0 +1,61 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { withBase } from '../../lib/catalog';
+import { UI_LOCALES, translate, type UiLocale, type MessageKey } from '../../i18n';
+export function getStaticPaths() { return UI_LOCALES.map(locale => ({ params: { locale }, props: { locale } })); }
+interface Props { locale: UiLocale }
+const { locale } = Astro.props;
+const t = (key: MessageKey) => translate(locale, key);
+const symbols: [string, MessageKey][] = [
+  ['a / i / u', 'guideShortVowels'],
+  ['ā / ī / ū', 'guideLongVowels'],
+  ['ay / aw', 'guideDiphthongs'],
+  ['ḥ', 'guideHConsonant'],
+  ['ṣ / ḍ / ṭ / ẓ', 'guideEmphatics'],
+  ['ʿ / ʾ', 'guideAynHamza'],
+  ['sh / kh / th / dh / gh', 'guideDigraphs'],
+  ['yy / khkh', 'guideDoubling'],
+];
+const references: [string, MessageKey][] = [
+  ['https://www.loc.gov/catdir/cpso/romanization/arabic.pdf', 'guideRefArabic'],
+  ['https://madinaharabic.com/free-content/grammar/lesson-3/part-7', 'guideRefArticle'],
+  ['https://web.mit.edu/jinzhang/www/pinyin/tones/', 'guideRefPinyin'],
+];
+---
+<Layout locale={locale} pagePath="guide/" title={t('guideTitle')} description={t('guideDescription')}>
+  <a class="back-link" href={withBase(`${locale}/`)}>{t('backHome')}</a>
+  <header class="work-header"><h1>{t('guideTitle')}</h1></header>
+  <article class="study-guide">
+    <p>{t('guideIntro')}</p>
+    <section id="reading">
+      <h2>{t('guideCompareTitle')}</h2>
+      <p>{t('guideCompareText')}</p><p>{t('guideOrderText')}</p>
+    </section>
+    <section id="arabic">
+      <h2>{t('guideArabicTitle')}</h2>
+      <p>{t('guideArabicIntro')}</p>
+      <table>
+        <thead><tr><th scope="col">{t('guideNotation')}</th><th scope="col">{t('guideMeaning')}</th></tr></thead>
+        <tbody>{symbols.map(([symbol, key]) => <tr><th scope="row"><bdi dir="ltr">{symbol}</bdi></th><td>{t(key)}</td></tr>)}</tbody>
+      </table>
+      <p>{t('guideArabicEndings')}</p><p>{t('guideArabicArticle')}</p>
+    </section>
+    <section id="pinyin">
+      <h2>{t('guideChineseTitle')}</h2>
+      <p>{t('guideChineseIntro')}</p><p>{t('guideChineseTones')}</p><p>{t('guideChineseExamples')}</p>
+    </section>
+    <section id="audio">
+      <h2>{t('guideAudioTitle')}</h2>
+      <p>{t('guideAudioControls')}</p><p>{t('guideAudioSettings')}</p><p>{t('guideAudioAccuracy')}</p>
+    </section>
+    <section id="editorial">
+      <h2>{t('guideEditorialTitle')}</h2>
+      <p>{t('guideEditorialText')}</p><p>{t('guideLibraryText')}</p>
+    </section>
+    <section id="references">
+      <h2>{t('guideReferencesTitle')}</h2>
+      <p>{t('guideReferencesIntro')}</p>
+      <ul>{references.map(([url, key]) => <li><a href={url} rel="noreferrer">{t(key)}</a></li>)}</ul>
+    </section>
+  </article>
+</Layout>

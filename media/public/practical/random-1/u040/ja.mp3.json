@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9275e5e4425189613d661a6e214db3336157465fdf6eb25bbd759fd2ca35deaa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "たべものをむだにしないために、かいもののまえにこんだてをかんがえるようにしています。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "99b3d774d2fd4af428590e9e3297494a3905109ab1fadf01b93b3b2535e11add",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:34:25.002537+00:00"
+}

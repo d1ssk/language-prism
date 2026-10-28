@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6dc98d74395456c895f41bdb7e28c9289b722436a79eec7370f1856881fa6841",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كان كلبي يقترب منه ببطء، حين اندفع فجأة عصفور بالغ أسود الصدر من شجرة قريبة، وسقط كالحجر أمام خطمه مباشرة؛ وبريش منتفش وهيئة مشوهة، أطلق زقزقة يائسة موجعة وقفز نحو مرتين باتجاه الفم المفتوح المليء بالأسنان.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "045dfa2713c5c4e8f5dac8f4e578addbc7175b9f6c70dc7af42cd8293530d71b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:15:47.353613+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b2e56dfdfb5af7a012394a3e38f0ea4f507a54372a1b530e63f658fb2feb39a9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The novel I read recently has stayed with me long after I finished it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6dcb8abd7a6aabe70a5dbd3a2d91cab25fbac8e5e6fae34f602a04d50d6e5d35",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:25.835279+00:00"
+}

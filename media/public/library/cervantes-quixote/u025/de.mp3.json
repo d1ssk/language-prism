@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4cfbb5233fffd5adf50624b73b3a429091922f9705d832a2b5a8b5f6fbcc24d4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Kurz, er versank so sehr in seine Lektüre, dass er die Nächte vom Abend bis zum Morgen und die Tage vom Morgen bis zum Abend mit Lesen verbrachte;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "badb17485dd2ddf3f01eedcac7b8ab26bc5eb317dc725eaeae4b05ad4386608f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:55:34.883354+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8a95f1e22dd21ce52c6e5444c89667e483517262e886afa2470afe252d0c0431",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich kann nicht dafür sorgen, dass alles nach Plan läuft, aber ich möchte das Gefühl bewahren, meine eigenen Entscheidungen zu treffen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "29677ca0a48a8983796c5fc4ec0772744f43ccd265aed0c75987e853c4360593",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:09:50.813952+00:00"
+}

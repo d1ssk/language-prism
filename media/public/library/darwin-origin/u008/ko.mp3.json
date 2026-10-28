@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7acf9c96b92a7b3ac0593c7797ec801678b5633dde038e3407c84537a991c28a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그리고 이 행성이 변함없는 중력 법칙에 따라 계속 돌고 있는 동안, 그토록 단순한 시작에서 끝없이 많고 지극히 아름다우며 경이로운 형태들이 진화해 왔고 지금도 진화하고 있다는 관점에도 장엄함이 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "136168ab089412ddeaca918ab80e0d7f6ca35268777570d6b003d8ca7c06b133",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:25:05.569598+00:00"
+}

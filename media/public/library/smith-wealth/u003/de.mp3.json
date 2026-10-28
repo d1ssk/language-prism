@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "57db9ec9779ac1d738ec8e6dc6d58e34582471f979889b74631895f330281463",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "könnte vielleicht selbst mit größtem Fleiß kaum eine Stecknadel am Tag herstellen und gewiss keine zwanzig.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8d34d5aa4788514007965108021479c15077414afc32de68e2725e4a3a3b8aed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:36:00.337991+00:00"
+}

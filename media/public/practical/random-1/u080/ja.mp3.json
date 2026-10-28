@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ed69857bd3fd9478c1dd2543d6108e0ce906f70e61b6e9b308b652b8bbdb1cd3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "もしじゆうにいちねんかんやすめるとしたら、せかいのいろいろなばしょをたびしてみたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2587ba58c19fb83e1f5e0e23c3d4f08db883a16fce092f9135f45dd13d6abf0d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:04:13.076174+00:00"
+}

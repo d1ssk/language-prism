@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c045fddd255301fa296c6060f6c58d382d8e289b0f4338179d688df68ee2f9db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Y, sin embargo, no pudo quedarse en su rama alta y segura… Una fuerza más poderosa que su voluntad lo había arrojado de allí.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f6ec1a6c9f8056ccc50dbc9dfe47562b84f4e673af7b28982675f365bcb7c1c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:19:06.694842+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ef03fd68001ef0f6963559866b9a9a4d10146e5ec97e9966a6214225cba49451",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Plötzlich verlangsamte er seine Schritte und begann zu schleichen, als hätte er vor sich Wild gewittert.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed5fa7d082eefa6d5c11c9ff9c3b19169f9fd102465ed71fe14a4d974f0eed39",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:10:20.645235+00:00"
+}

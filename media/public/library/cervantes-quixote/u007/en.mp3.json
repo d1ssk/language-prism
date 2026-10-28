@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "40d9fe4988fbad96f156a2d44c484528174690a384796cf17885677bdba2ecba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Our gentleman was approaching fifty: he had a sturdy frame, little flesh and a lean face, rose very early and loved hunting.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4d2eb4a084e380a6f07f13060b09617325caa2a7e9ab53b62666286c833a58c7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:11:53.878847+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fe3f7e97c3e818fa7592f52d2ff3a0e9a4eb37d67935153134ed2e63f519bf88",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "是过去和现在世界上的生物的产生与灭绝，都源于次级原因，就像决定个体出生和死亡的原因一样。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "991ffeb3e49b35da00739832ac8d65fca29a761915ada0cb7980e8b5ac3b6864",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:15:58.334734+00:00"
+}

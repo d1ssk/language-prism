@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e85d2ebaef93a5b08ecb988638a0732b1f48eb111f358c4b65e766174ebc0f70",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وفي الرطل الواحد أكثر من أربعة آلاف دبوس متوسط الحجم.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "55a2601e6d01bf31fe99d278c7ed0fb0a9725f80dd51d982773f8b52dc75ad85",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:46:09.920920+00:00"
+}

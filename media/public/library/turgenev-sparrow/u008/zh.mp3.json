@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0dcc3aee2ada4ab519faa0f3230c299728c57c3d3b1a72b0addf22b506d1846a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "然而，它还是无法安坐在那根高高的、安全的树枝上……一种比自身意志更强的力量，把它从那里推了下来。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1b985e54903eedb11299c9b94e0c5fe856337a7372f0d33f3990db401970feee",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:19:45.477490+00:00"
+}

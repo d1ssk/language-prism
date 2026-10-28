@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fdd7fdf5f2a14d3830dfa8f8f67151a36d5a09414edf944a9e0160d2115e3d03",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 친구들은요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "66813993ce53110f122f269fdfd144a714436bd67927c8537d0d963730b273da",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:48:29.456588+00:00"
+}

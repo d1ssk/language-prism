@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "65ceedbca518a3d462a2deb1476c6e7ebaf449b9819f0f944c11711dd7707466",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Prenons donc un exemple dans une manufacture fort modeste, mais où la division du travail a très souvent été remarquée : le métier de fabricant d'épingles.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5b4d33b91c71456ca29d159ac8bf3d9c8689bf923317cdd34d6441dbb5828486",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:32:59.305589+00:00"
+}

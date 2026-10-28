@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "04b07c392cf37b2173b1c6e3f8fcae9ed0edcfd6b80ff8d9d21fc318529c1496",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Am liebsten aber war ihm Reinaldos von Montalbán, besonders wenn er ihn aus seiner Burg ausziehen und alle Begegnenden berauben sah, oder jenseits des Meeres jenes ganz goldene Götzenbild Mohammeds stehlen, wie seine Geschichte berichtet.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "379b89e78303095b1a40382b1a3092a1ac4f4e854a18020e575736ceadc690ce",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:07:46.870360+00:00"
+}

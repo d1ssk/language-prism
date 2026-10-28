@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b9c7ee9133789bff8328c2698f126879d4d6bce58fba83cebeff1a1fb5a738ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "My Trezor stopped and backed away… Apparently, he too had recognized that force.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "21b0156b493c22b4a10d5a0b1164f8df7e5736a4efd843d57951aec0a96d6af0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:02.975932+00:00"
+}

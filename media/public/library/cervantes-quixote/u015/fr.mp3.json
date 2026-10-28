@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "32506c10563e373393c893d38ae35223c90750ca0ff09493b22b4de89b43aa6a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "surtout lorsqu'il lisait ces galanteries et lettres d'amour, où il trouvait souvent écrit :",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0cc0f0559f6574a08a176c14f5d8a19b7900e30197fdd617948266eb4e115ac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:39:05.256105+00:00"
+}

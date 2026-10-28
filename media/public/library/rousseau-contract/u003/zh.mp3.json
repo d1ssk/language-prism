@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "30f60c05e3d3881001370b68392651c38a36228d2dea3483499bc25b6076e3b9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这种变化是怎样发生的？我不知道。什么能使它具有正当性？我相信我能够解答这个问题。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c65dce209659694f9e670e75dd0594d394fb8664d9d52057669c71bfcc53ca0f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:53:55.694580+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5317ff9eacd7a2d74353edc1e3b58fbe11cb8b9ce23104a09597a28bb3f921d7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Man muss nun wissen, dass dieser Edelmann sich in seinen müßigen Stunden, die den größten Teil des Jahres ausmachten, der Lektüre von Ritterromanen hingab,",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d3532a101366fa1181b8ed79eedabc4a6b323b7fd20e0322d6d9289b7fe1da0e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:33:40.992374+00:00"
+}

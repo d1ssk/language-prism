@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "55c3f1f13eb8456b9030af0c9eb9b98d7b37e671e408430e61bc1d6427ad2f58",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Decía él que el Cid Rui Díaz había sido muy buen caballero; pero que no tenía que ver con el Caballero de la Ardiente Espada, que de solo un revés había partido por medio dos fieros y descomunales gigantes.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9a1c6f16ad79c431786a8402861ff599a30a9b3b6721f9000ae0e40ca40c16eb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:00:45.291822+00:00"
+}

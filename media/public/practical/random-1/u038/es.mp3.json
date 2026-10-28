@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b00c1b5bee9836634e3f7a35a78ac32e39b66effcd4ae8c7ad105ae5af163ff0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hoy pienso cocinar en casa, pero todavía no he decidido qué preparar.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "80a46e133d7ed1f33fa8fa94e99ab2a27bd2173fbb12c21b2f66087580f30d5d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:33:16.945192+00:00"
+}

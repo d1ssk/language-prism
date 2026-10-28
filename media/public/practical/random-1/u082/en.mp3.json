@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ce2fdf1184072141d6c0c49bab2387d4cd9e7be3eb69ae9bb33cdd657ab4557c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Someday, I'd like to live in a house I designed myself and gradually improve it over the years.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "24203eadfd502b5a96d87d18bf87bc926b7f263ed024a09c5b95889a578111c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:06:05.453307+00:00"
+}

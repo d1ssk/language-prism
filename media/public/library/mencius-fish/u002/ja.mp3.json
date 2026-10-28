@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e2be103251810cd7dff0148f10b3b3628d55b643f318efbbba59899f3568a1b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "りょうほうをどうじにえられないなら、うおをすててくまのてのひらをとる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "af316c7109f429be5956a37523ca9036215431f142af2541bf08e34e69b63d0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:32.391938+00:00"
+}

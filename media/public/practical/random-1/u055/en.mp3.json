@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2cd6e503284b46cc8e4572faa338a461455dd96ef29d7839f40213834d695ace",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "When a program doesn't behave as expected, I first check whether I can reproduce the problem.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b32d3d99b4bfc9c82f60e949d6d7dd148b1f2fa27c4d1482f77c8ecaa34c9f4d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:45:43.516643+00:00"
+}

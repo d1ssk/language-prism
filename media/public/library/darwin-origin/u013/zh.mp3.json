@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6d616e47a45349eb0ec553a7f0d9a00f78cb121d729ba9abe3138c69fcbed5eb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在我看来，更符合我们对造物主赋予物质的法则的认识的，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d5c1eb404e791c61ee59e5d60155de899bca64747241123932cb2b48be66c642",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:14:10.916009+00:00"
+}

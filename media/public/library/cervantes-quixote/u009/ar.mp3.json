@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "807c07d24a7e2e488e2f28ec9411e1d722218109ccdac9331b07554e2f6f9dc6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لكن هذا لا يهم قصتنا كثيرا؛ يكفي ألا ينحرف سردها قيد أنملة عن الحقيقة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e05893c7e34dc800032eaab331b0a7eaa6c11d6b81d1d17733e3304e0ad63a2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:49.564194+00:00"
+}

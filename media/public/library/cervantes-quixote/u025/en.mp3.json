@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4ddf2430d183ed5ee5fc84b1bff4b4e541ba948ce9d9f0f1f00d1a97bd92e97a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In short, he became so immersed in reading that his nights passed in reading from dusk till dawn, and his days from dawn till dusk;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6ea5316b8b6cd037be1e94381ad65de43de15eb1355a177cac686b20ceccff18",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:55:09.617307+00:00"
+}

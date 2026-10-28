@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "478f1930f3849fa9bf96fe466a63e17631303bcc6c0fb0c0d0f2337d50101582",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Он говорил, что Сид Руй Диас был превосходным рыцарем, но куда ему до Рыцаря Пылающего Меча, одним обратным взмахом разрубившего надвое двух свирепых громадных великанов.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bda7ca941d794e344385bf42074c836dc410dac3f6d52ce67bf7f09f8252f214",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:01:20.769490+00:00"
+}

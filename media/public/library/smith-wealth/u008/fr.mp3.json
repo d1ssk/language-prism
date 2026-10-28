@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "009300636b172bc55c7243bd613902613802a95c3c0fb745c3584d4a919984e1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J'ai vu une petite manufacture de ce genre, où seuls dix hommes étaient employés et où certains exécutaient donc deux ou trois opérations distinctes.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "30736b0d9fa10fc355ee090d56a6f90d9cfea25c2327e12905381dc4bfb27523",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:43:37.165453+00:00"
+}

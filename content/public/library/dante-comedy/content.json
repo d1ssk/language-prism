@@ -1,0 +1,1264 @@
+{
+  "schemaVersion": 1,
+  "id": "dante-comedy",
+  "slug": "dante-comedy",
+  "type": "library",
+  "title": {
+    "ja": "神曲",
+    "en": "The Divine Comedy"
+  },
+  "description": {
+    "ja": "暗い森で道を失った語り手が、丘の光を見て恐ろしい道を振り返る冒頭。",
+    "en": "The opening passage: lost in a dark wood, the narrator sees light on a hill and looks back at the fearful passage."
+  },
+  "originalLanguage": "it",
+  "author": "Dante Alighieri",
+  "bibliography": {
+    "originalTitle": "Divina Commedia",
+    "originalAuthor": "Dante Alighieri",
+    "title": {
+      "ja": "神曲",
+      "en": "The Divine Comedy"
+    },
+    "author": {
+      "ja": "ダンテ・アリギエーリ",
+      "en": "Dante Alighieri"
+    }
+  },
+  "sourceTitle": "Italian Wikisource — Divina Commedia / Inferno / Canto I",
+  "sourceURL": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_I",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Dante Alighieri。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Dante Alighieri. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。原文は3行ずつの詩節で区切り、改行と採用本文の表記を保持しています。翻訳は散文訳です。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The original retains its tercets, line breaks and source spelling. Translations are in prose."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "「地獄篇」第1歌、第1〜27行",
+      "en": "Inferno, Canto I, lines 1–27"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "私たちの人生の道の半ばで、私は暗い森の中にいることに気づいた。まっすぐな道を見失っていたのだ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしたちのじんせいのみちのなかばで、わたしはくらいもりのなかにいることにきづいた。まっすぐなみちをみうしなっていたのだ。"
+        },
+        "en": {
+          "text": "Halfway along the road of our life, I found myself in a dark wood, for the straight way had been lost.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Halfway along the road of our life, I found myself in a dark wood, for the straight way had been lost."
+        },
+        "es": {
+          "text": "A mitad del camino de nuestra vida, me encontré en un bosque oscuro, pues había perdido la senda recta.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A mitad del camino de nuestra vida, me encontré en un bosque oscuro, pues había perdido la senda recta."
+        },
+        "fr": {
+          "text": "À mi-chemin du voyage de notre vie, je me retrouvai dans une forêt obscure, car la voie droite était perdue.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "À mi-chemin du voyage de notre vie, je me retrouvai dans une forêt obscure, car la voie droite était perdue."
+        },
+        "de": {
+          "text": "Auf halbem Weg unseres Lebens fand ich mich in einem dunklen Wald wieder, denn der gerade Weg war verloren.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Auf halbem Weg unseres Lebens fand ich mich in einem dunklen Wald wieder, denn der gerade Weg war verloren."
+        },
+        "ru": {
+          "text": "На середине пути нашей жизни я оказался в тёмном лесу, ибо прямой путь был утрачен.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "На середине пути нашей жизни я оказался в тёмном лесу, ибо прямой путь был утрачен."
+        },
+        "ar": {
+          "text": "فِي مُنْتَصَفِ طَرِيقِ حَيَاتِنَا وَجَدْتُ نَفْسِي فِي غَابَةٍ مُظْلِمَةٍ، إِذْ ضَاعَ الطَّرِيقُ الْمُسْتَقِيمُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "فِي مُنْتَصَفِ طَرِيقِ حَيَاتِنَا وَجَدْتُ نَفْسِي فِي غَابَةٍ مُظْلِمَةٍ، إِذْ ضَاعَ الطَّرِيقُ الْمُسْتَقِيمُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fī muntaṣafi ṭarīqi ḥayātinā wajadtu nafsī fī ghābatin muẓlimatin, ʾidh ḍāʿa aṭ-ṭarīqu al-mustaqīmu."
+          }
+        },
+        "zh": {
+          "text": "在人生旅途的中途，我发现自己身处一片幽暗的森林，因为我已迷失了正道。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "在人生旅途的中途，我发现自己身处一片幽暗的森林，因为我已迷失了正道。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài rénshēng lǚtú de zhōngtú, wǒ fāxiàn zìjǐ shēn chǔ yī piàn yōuàn de sēnlín, yīnwèi wǒ yǐ míshī le zhèngdào."
+          }
+        },
+        "ko": {
+          "text": "우리 인생길의 중간에서 나는 어두운 숲속에 있는 자신을 발견했다. 곧은 길을 잃어버렸기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "우리 인생길의 중간에서 나는 어두운 숲속에 있는 자신을 발견했다. 곧은 길을 잃어버렸기 때문이다."
+        },
+        "it": {
+          "text": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「nostra vita（私たちの人生）」から「mi ritrovai（私は気づいた）」へ移り、人間一般の旅と個人の体験を重ねています。",
+              "en": "The shift from nostra vita (our life) to mi ritrovai (I found myself) places an individual experience within a shared human journey."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "ああ、その森がどのようなものだったかを語るのは、なんと難しいことか。荒々しく険しく、思い出すだけでも恐れがよみがえる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ああ、そのもりがどのようなものだったかをかたるのは、なんとむずかしいことか。あらあらしくけわしく、おもいだすだけでもおそれがよみがえる。"
+        },
+        "en": {
+          "text": "Ah, how hard it is to tell what that wood was like, so wild, harsh and formidable that the thought of it renews my fear!",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ah, how hard it is to tell what that wood was like, so wild, harsh and formidable that the thought of it renews my fear!"
+        },
+        "es": {
+          "text": "¡Ah, qué difícil es decir cómo era aquel bosque, tan salvaje, áspero y temible que recordarlo renueva mi miedo!",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "¡Ah, qué difícil es decir cómo era aquel bosque, tan salvaje, áspero y temible que recordarlo renueva mi miedo!"
+        },
+        "fr": {
+          "text": "Ah ! Qu’il est difficile de dire ce qu’était cette forêt, sauvage, âpre et redoutable, dont le souvenir ravive ma peur !",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ah ! Qu’il est difficile de dire ce qu’était cette forêt, sauvage, âpre et redoutable, dont le souvenir ravive ma peur !"
+        },
+        "de": {
+          "text": "Ach, wie schwer ist es zu sagen, wie dieser Wald war, so wild, rau und unwegsam, dass schon der Gedanke daran meine Furcht erneuert!",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ach, wie schwer ist es zu sagen, wie dieser Wald war, so wild, rau und unwegsam, dass schon der Gedanke daran meine Furcht erneuert!"
+        },
+        "ru": {
+          "text": "Ах, как трудно рассказать, каков был этот лес, дикий, суровый и непроходимый: одна мысль о нём вновь рождает страх!",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ах, как трудно рассказать, каков был этот лес, дикий, суровый и непроходимый: одна мысль о нём вновь рождает страх!"
+        },
+        "ar": {
+          "text": "آهِ، مَا أَصْعَبَ وَصْفَ تِلْكَ الْغَابَةِ، الْمُتَوَحِّشَةِ الْوَعْرَةِ الْمُخِيفَةِ، الَّتِي يُجَدِّدُ تَذَكُّرُهَا خَوْفِي!",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "آهِ، مَا أَصْعَبَ وَصْفَ تِلْكَ الْغَابَةِ، الْمُتَوَحِّشَةِ الْوَعْرَةِ الْمُخِيفَةِ، الَّتِي يُجَدِّدُ تَذَكُّرُهَا خَوْفِي!",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾĀhi, mā ʾaṣʿaba waṣfa tilka al-ghābati, al-mutawaḥḥishati al-waʿrati al-mukhīfati, allatī yujaddidu tadhakkuruhā khawfī!"
+          }
+        },
+        "zh": {
+          "text": "啊，要说清那片森林的模样是多么困难！它荒蛮、险恶而难行，仅仅回想就使恐惧重生。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "啊，要说清那片森林的模样是多么困难！它荒蛮、险恶而难行，仅仅回想就使恐惧重生。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "A, yào shuōqīng nà piàn sēnlín de múyàng shì duōme kùnnan! Tā huāngyě, xiǎnè ér nánxíng, jǐnjǐn huíxiǎng jiù shǐ kǒngjù chóngshēng."
+          }
+        },
+        "ko": {
+          "text": "아, 그 숲이 어떤 곳이었는지 말하기란 얼마나 어려운가! 거칠고 험하고 무서워서, 생각만 해도 두려움이 되살아난다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "아, 그 숲이 어떤 곳이었는지 말하기란 얼마나 어려운가! 거칠고 험하고 무서워서, 생각만 해도 두려움이 되살아난다."
+        },
+        "it": {
+          "text": "Ahi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "その苦しさは、死にもほとんど劣らない。だが、そこで見いだした善を語るために、目にしたほかのことも語ろう。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そのくるしさは、しにもほとんどおとらない。だが、そこでみいだしたぜんをかたるために、めにしたほかのこともかたろう。"
+        },
+        "en": {
+          "text": "So bitter is it that death is scarcely more so; but to tell of the good I found there, I shall speak of the other things I saw.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "So bitter is it that death is scarcely more so; but to tell of the good I found there, I shall speak of the other things I saw."
+        },
+        "es": {
+          "text": "Tan amarga es que la muerte apenas lo es más; pero, para hablar del bien que allí encontré, contaré las otras cosas que vi.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Tan amarga es que la muerte apenas lo es más; pero, para hablar del bien que allí encontré, contaré las otras cosas que vi."
+        },
+        "fr": {
+          "text": "Elle est si amère que la mort l’est à peine davantage ; mais pour parler du bien que j’y trouvai, je dirai les autres choses que j’y vis.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Elle est si amère que la mort l’est à peine davantage ; mais pour parler du bien que j’y trouvai, je dirai les autres choses que j’y vis."
+        },
+        "de": {
+          "text": "So bitter ist er, dass der Tod kaum bitterer ist; doch um von dem Guten zu erzählen, das ich dort fand, will ich auch von den anderen Dingen sprechen, die ich sah.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "So bitter ist er, dass der Tod kaum bitterer ist; doch um von dem Guten zu erzählen, das ich dort fand, will ich auch von den anderen Dingen sprechen, die ich sah."
+        },
+        "ru": {
+          "text": "Он так горек, что смерть едва ли горше; но, чтобы рассказать о благе, которое я там обрёл, я поведаю и о прочем, что увидел.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Он так горек, что смерть едва ли горше; но, чтобы рассказать о благе, которое я там обрёл, я поведаю и о прочем, что увидел."
+        },
+        "ar": {
+          "text": "مَرَارَتُهَا شَدِيدَةٌ حَتَّى إِنَّ الْمَوْتَ لَا يَكَادُ يَفُوقُهَا؛ وَلَكِنْ لِأَرْوِيَ الْخَيْرَ الَّذِي وَجَدْتُهُ هُنَاكَ، سَأَذْكُرُ مَا رَأَيْتُهُ مِنْ أُمُورٍ أُخْرَى.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "مَرَارَتُهَا شَدِيدَةٌ حَتَّى إِنَّ الْمَوْتَ لَا يَكَادُ يَفُوقُهَا؛ وَلَكِنْ لِأَرْوِيَ الْخَيْرَ الَّذِي وَجَدْتُهُ هُنَاكَ، سَأَذْكُرُ مَا رَأَيْتُهُ مِنْ أُمُورٍ أُخْرَى.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Marāratuhā shadīdatun ḥattā ʾinna al-mawta lā yakādu yafūquhā; wa-lākin li-ʾarwiya al-khayra alladhī wajadtuhu hunāka, sa-ʾadhkuru mā raʾaytuhu min ʾumūrin ʾukhrā."
+          }
+        },
+        "zh": {
+          "text": "它如此苦涩，死亡也不过稍胜一筹；但为了讲述我在那里发现的善，我还要说说所见的其他事物。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "它如此苦涩，死亡也不过稍胜一筹；但为了讲述我在那里发现的善，我还要说说所见的其他事物。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Tā rúcǐ kǔsè, sǐwáng yě bùguò shāo shèng yī chóu; dàn wèile jiǎngshù wǒ zài nàli fāxiàn de shàn, wǒ hái yào shuōshuo suǒ jiàn de qítā shìwù."
+          }
+        },
+        "ko": {
+          "text": "그 쓰라림은 죽음과도 거의 다르지 않다. 그러나 그곳에서 발견한 선을 이야기하려고, 내가 본 다른 것들도 말하리라.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그 쓰라림은 죽음과도 거의 다르지 않다. 그러나 그곳에서 발견한 선을 이야기하려고, 내가 본 다른 것들도 말하리라."
+        },
+        "it": {
+          "text": "Tant’è amara che poco è più morte;\nma per trattar del ben ch’i’ vi trovai,\ndirò de l’altre cose ch’i’ v’ ho scorte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "どうしてそこに入ったのか、私にはうまく語れない。真の道を離れたとき、私はそれほど深い眠りにとらわれていた。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "どうしてそこにはいったのか、わたしにはうまくかたれない。しんのみちをはなれたとき、わたしはそれほどふかいねむりにとらわれていた。"
+        },
+        "en": {
+          "text": "I cannot rightly tell how I entered it, so full of sleep was I at the moment when I abandoned the true way.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "I cannot rightly tell how I entered it, so full of sleep was I at the moment when I abandoned the true way."
+        },
+        "es": {
+          "text": "No sé explicar bien cómo entré allí, tan lleno de sueño estaba en el momento en que abandoné el camino verdadero.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "No sé explicar bien cómo entré allí, tan lleno de sueño estaba en el momento en que abandoné el camino verdadero."
+        },
+        "fr": {
+          "text": "Je ne saurais bien dire comment j’y entrai, tant j’étais plein de sommeil au moment où j’abandonnai la vraie voie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Je ne saurais bien dire comment j’y entrai, tant j’étais plein de sommeil au moment où j’abandonnai la vraie voie."
+        },
+        "de": {
+          "text": "Ich kann nicht recht erzählen, wie ich hineingeriet, so sehr war ich vom Schlaf erfüllt, als ich den wahren Weg verließ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ich kann nicht recht erzählen, wie ich hineingeriet, so sehr war ich vom Schlaf erfüllt, als ich den wahren Weg verließ."
+        },
+        "ru": {
+          "text": "Я не могу толком сказать, как вошёл туда: настолько я был объят сном в тот миг, когда оставил истинный путь.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Я не могу толком сказать, как вошёл туда: настолько я был объят сном в тот миг, когда оставил истинный путь."
+        },
+        "ar": {
+          "text": "لَا أَسْتَطِيعُ أَنْ أَرْوِيَ بِوُضُوحٍ كَيْفَ دَخَلْتُهَا، فَقَدْ كُنْتُ غَارِقًا فِي النَّوْمِ حِينَ تَرَكْتُ الطَّرِيقَ الْحَقَّ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَا أَسْتَطِيعُ أَنْ أَرْوِيَ بِوُضُوحٍ كَيْفَ دَخَلْتُهَا، فَقَدْ كُنْتُ غَارِقًا فِي النَّوْمِ حِينَ تَرَكْتُ الطَّرِيقَ الْحَقَّ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā ʾastaṭīʿu ʾan ʾarwiya bi-wuḍūḥin kayfa dakhaltuhā, fa-qad kuntu ghāriqan fī an-nawmi ḥīna taraktu aṭ-ṭarīqa al-ḥaqqa."
+          }
+        },
+        "zh": {
+          "text": "我说不清自己怎样走进了那里；离开真正的道路时，我是那样昏昏欲睡。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我说不清自己怎样走进了那里；离开真正的道路时，我是那样昏昏欲睡。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ shuō bù qīng zìjǐ zěnyàng zǒu jìn le nàli; líkāi zhēnzhèng de dàolù shí, wǒ shì nàyàng hūnhūnyùshuì."
+          }
+        },
+        "ko": {
+          "text": "어떻게 그곳에 들어갔는지 제대로 말할 수 없다. 참된 길을 떠났을 때 나는 그토록 깊은 잠에 빠져 있었다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "어떻게 그곳에 들어갔는지 제대로 말할 수 없다. 참된 길을 떠났을 때 나는 그토록 깊은 잠에 빠져 있었다."
+        },
+        "it": {
+          "text": "Io non so ben ridir com’i’ v’intrai,\ntant’era pien di sonno a quel punto\nche la verace via abbandonai.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "やがて私は丘のふもとに着いた。そこは、恐れで私の心を刺し貫いた谷が尽きるところだった。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "やがてわたしはおかのふもとについた。そこは、おそれでわたしのこころをさしつらぬいたたにがつきるところだった。"
+        },
+        "en": {
+          "text": "But then I reached the foot of a hill, where the valley ended that had pierced my heart with fear,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "But then I reached the foot of a hill, where the valley ended that had pierced my heart with fear,"
+        },
+        "es": {
+          "text": "Pero después llegué al pie de una colina, donde terminaba aquel valle que me había traspasado el corazón de miedo,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pero después llegué al pie de una colina, donde terminaba aquel valle que me había traspasado el corazón de miedo,"
+        },
+        "fr": {
+          "text": "Mais lorsque j’arrivai au pied d’une colline, là où finissait cette vallée qui m’avait percé le cœur de peur,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Mais lorsque j’arrivai au pied d’une colline, là où finissait cette vallée qui m’avait percé le cœur de peur,"
+        },
+        "de": {
+          "text": "Doch als ich an den Fuß eines Hügels kam, wo jenes Tal endete, das mein Herz mit Furcht durchbohrt hatte,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Doch als ich an den Fuß eines Hügels kam, wo jenes Tal endete, das mein Herz mit Furcht durchbohrt hatte,"
+        },
+        "ru": {
+          "text": "Но когда я подошёл к подножию холма, где кончалась долина, пронзившая моё сердце страхом,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Но когда я подошёл к подножию холма, где кончалась долина, пронзившая моё сердце страхом,"
+        },
+        "ar": {
+          "text": "وَلَكِنْ حِينَ بَلَغْتُ سَفْحَ تَلٍّ، حَيْثُ يَنْتَهِي ذَلِكَ الْوَادِي الَّذِي طَعَنَ قَلْبِي بِالْخَوْفِ،",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَلَكِنْ حِينَ بَلَغْتُ سَفْحَ تَلٍّ، حَيْثُ يَنْتَهِي ذَلِكَ الْوَادِي الَّذِي طَعَنَ قَلْبِي بِالْخَوْفِ،",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-lākin ḥīna balaghtu safḥa tallin, ḥaythu yantahī dhālika al-wādī alladhī ṭaʿana qalbī bi-al-khawfi,"
+          }
+        },
+        "zh": {
+          "text": "后来我到了一个山丘脚下，那里正是那条使我心中充满恐惧的山谷的尽头，",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "后来我到了一个山丘脚下，那里正是那条使我心中充满恐惧的山谷的尽头，",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hòulái wǒ dào le yī ge shānqiū jiǎoxià, nàli zhèng shì nà tiáo shǐ wǒ xīn zhōng chōngmǎn kǒngjù de shāngǔ de jìntóu,"
+          }
+        },
+        "ko": {
+          "text": "그러나 마침내 언덕 기슭에 이르렀다. 두려움으로 내 심장을 꿰찔렀던 골짜기가 끝나는 곳이었다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러나 마침내 언덕 기슭에 이르렀다. 두려움으로 내 심장을 꿰찔렀던 골짜기가 끝나는 곳이었다."
+        },
+        "it": {
+          "text": "Ma poi ch’i’ fui al piè d’un colle giunto,\nlà dove terminava quella valle\nche m’avea di paura il cor compunto,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この詩節の構文は次の詩節の「guardai（私は見た）」へ続きます。",
+              "en": "The syntax of this tercet continues into guardai (I looked) in the next tercet."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "私は上を見た。丘の肩はすでに、どの道でも人をまっすぐ導く天体の光をまとっていた。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしはうえをみた。おかのかたはすでに、どのみちでもひとをまっすぐみちびくてんたいのひかりをまとっていた。"
+        },
+        "en": {
+          "text": "I looked up and saw its shoulders already clothed in the rays of the heavenly body that guides people straight along every road.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "I looked up and saw its shoulders already clothed in the rays of the heavenly body that guides people straight along every road."
+        },
+        "es": {
+          "text": "miré hacia arriba y vi sus hombros ya vestidos con los rayos del astro que guía rectamente a los hombres por todos los caminos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "miré hacia arriba y vi sus hombros ya vestidos con los rayos del astro que guía rectamente a los hombres por todos los caminos."
+        },
+        "fr": {
+          "text": "je levai les yeux et vis ses épaules déjà revêtues des rayons de l’astre qui guide chacun droit par tous les chemins.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "je levai les yeux et vis ses épaules déjà revêtues des rayons de l’astre qui guide chacun droit par tous les chemins."
+        },
+        "de": {
+          "text": "blickte ich hinauf und sah seine Schultern schon von den Strahlen des Gestirns bekleidet, das die Menschen auf jedem Weg gerade führt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "blickte ich hinauf und sah seine Schultern schon von den Strahlen des Gestirns bekleidet, das die Menschen auf jedem Weg gerade führt."
+        },
+        "ru": {
+          "text": "я поднял глаза и увидел его плечи, уже одетые лучами светила, которое верно ведёт людей по всем дорогам.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "я поднял глаза и увидел его плечи, уже одетые лучами светила, которое верно ведёт людей по всем дорогам."
+        },
+        "ar": {
+          "text": "رَفَعْتُ نَظَرِي وَرَأَيْتُ كَتِفَيْهِ قَدِ اكْتَسَيَا بِأَشِعَّةِ الْجِرْمِ السَّمَاوِيِّ الَّذِي يَهْدِي النَّاسَ فِي كُلِّ دَرْبٍ هِدَايَةً مُسْتَقِيمَةً.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "رَفَعْتُ نَظَرِي وَرَأَيْتُ كَتِفَيْهِ قَدِ اكْتَسَيَا بِأَشِعَّةِ الْجِرْمِ السَّمَاوِيِّ الَّذِي يَهْدِي النَّاسَ فِي كُلِّ دَرْبٍ هِدَايَةً مُسْتَقِيمَةً.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Rafaʿtu naẓarī wa-raʾaytu katifayhi qadi iktasayā bi-ʾashiʿʿati al-jirmi as-samāwiyyi alladhī yahdī an-nāsa fī kulli darbin hidāyatan mustaqīmatan."
+          }
+        },
+        "zh": {
+          "text": "我抬头望去，看见山肩已披上那天体的光芒，它在每条路上引人正行。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我抬头望去，看见山肩已披上那天体的光芒，它在每条路上引人正行。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ táitóu wàng qù, kànjiàn shānjiān yǐ pī shàng nà tiāntǐ de guāngmáng, tā zài měi tiáo lù shàng yǐn rén zhèng xíng."
+          }
+        },
+        "ko": {
+          "text": "고개를 들어 보니 언덕의 어깨는 이미 어느 길에서나 사람을 바르게 이끄는 천체의 빛을 입고 있었다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "고개를 들어 보니 언덕의 어깨는 이미 어느 길에서나 사람을 바르게 이끄는 천체의 빛을 입고 있었다."
+        },
+        "it": {
+          "text": "guardai in alto e vidi le sue spalle\nvestite già de’ raggi del pianeta\nche mena dritto altrui per ogne calle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでの pianeta は太陽を指します。現代天文学の「惑星」という分類で訳すと意味がずれます。",
+              "en": "Here pianeta refers to the sun; the modern astronomical category of planet would be misleading."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "すると恐れが少し静まった。あれほど苦しんだ夜のあいだ、心の湖に居座っていた恐れだった。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "するとおそれがすこししずまった。あれほどくるしんだよるのあいだ、こころのみずうみにいすわっていたおそれだった。"
+        },
+        "en": {
+          "text": "Then the fear grew a little quieter, the fear that had lingered in the lake of my heart throughout the night I had passed in such distress.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Then the fear grew a little quieter, the fear that had lingered in the lake of my heart throughout the night I had passed in such distress."
+        },
+        "es": {
+          "text": "Entonces se calmó un poco el miedo que había permanecido en el lago de mi corazón durante la noche que pasé con tanta angustia.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Entonces se calmó un poco el miedo que había permanecido en el lago de mi corazón durante la noche que pasé con tanta angustia."
+        },
+        "fr": {
+          "text": "Alors s’apaisa un peu la peur qui avait demeuré dans le lac de mon cœur durant la nuit passée en si grande détresse.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Alors s’apaisa un peu la peur qui avait demeuré dans le lac de mon cœur durant la nuit passée en si grande détresse."
+        },
+        "de": {
+          "text": "Da legte sich die Furcht ein wenig, die im See meines Herzens während jener Nacht so großen Leids geblieben war.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Da legte sich die Furcht ein wenig, die im See meines Herzens während jener Nacht so großen Leids geblieben war."
+        },
+        "ru": {
+          "text": "Тогда немного утих страх, который оставался в озере моего сердца всю ночь, проведённую в таком мучении.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Тогда немного утих страх, который оставался в озере моего сердца всю ночь, проведённую в таком мучении."
+        },
+        "ar": {
+          "text": "عِنْدَئِذٍ هَدَأَ قَلِيلًا ذَلِكَ الْخَوْفُ الَّذِي لَبِثَ فِي بُحَيْرَةِ قَلْبِي طَوَالَ اللَّيْلَةِ الَّتِي قَضَيْتُهَا فِي ذَلِكَ الْعَذَابِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "عِنْدَئِذٍ هَدَأَ قَلِيلًا ذَلِكَ الْخَوْفُ الَّذِي لَبِثَ فِي بُحَيْرَةِ قَلْبِي طَوَالَ اللَّيْلَةِ الَّتِي قَضَيْتُهَا فِي ذَلِكَ الْعَذَابِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿIndaʾidhin hadaʾa qalīlan dhālika al-khawfu alladhī labitha fī buḥayrati qalbī ṭawāla al-laylati allatī qaḍaytuhā fī dhālika al-ʿadhābi."
+          }
+        },
+        "zh": {
+          "text": "这时，恐惧稍稍平息了；在那痛苦难熬的一夜，它始终盘踞在我的心湖中。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "这时，恐惧稍稍平息了；在那痛苦难熬的一夜，它始终盘踞在我的心湖中。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè shí, kǒngjù shāoshāo píngxī le; zài nà tòngkǔ nán’áo de yī yè, tā shǐzhōng pánjù zài wǒ de xīnhú zhōng."
+          }
+        },
+        "ko": {
+          "text": "그러자 두려움이 조금 가라앉았다. 그토록 괴롭게 보낸 밤 내내 내 마음의 호수에 머물렀던 두려움이었다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러자 두려움이 조금 가라앉았다. 그토록 괴롭게 보낸 밤 내내 내 마음의 호수에 머물렀던 두려움이었다."
+        },
+        "it": {
+          "text": "Allor fu la paura un poco queta,\nche nel lago del cor m’era durata\nla notte ch’i’ passai con tanta pieta.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "荒海から岸へ抜け出した者が、息を切らしながら危険な水面を振り返り、じっと見つめるように、",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "あらうみからきしへぬけだしたものが、いきをきらしながらきけんなすいめんをふりかえり、じっとみつめるように、"
+        },
+        "en": {
+          "text": "And as someone who, breathless, has escaped the open sea onto the shore turns back toward the dangerous waters and stares,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "And as someone who, breathless, has escaped the open sea onto the shore turns back toward the dangerous waters and stares,"
+        },
+        "es": {
+          "text": "Y como quien, jadeante, ha salido del mar a la orilla y se vuelve a mirar fijamente las aguas peligrosas,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Y como quien, jadeante, ha salido del mar a la orilla y se vuelve a mirar fijamente las aguas peligrosas,"
+        },
+        "fr": {
+          "text": "Et comme celui qui, le souffle haletant, est sorti de la mer sur le rivage, se retourne vers l’eau périlleuse et la regarde,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Et comme celui qui, le souffle haletant, est sorti de la mer sur le rivage, se retourne vers l’eau périlleuse et la regarde,"
+        },
+        "de": {
+          "text": "Und wie jemand, der mit keuchendem Atem aus dem Meer ans Ufer gelangt ist, sich zum gefährlichen Wasser umwendet und es betrachtet,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Und wie jemand, der mit keuchendem Atem aus dem Meer ans Ufer gelangt ist, sich zum gefährlichen Wasser umwendet und es betrachtet,"
+        },
+        "ru": {
+          "text": "И как тот, кто, задыхаясь, выбрался из моря на берег, оборачивается к опасной воде и смотрит на неё,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "И как тот, кто, задыхаясь, выбрался из моря на берег, оборачивается к опасной воде и смотрит на неё,"
+        },
+        "ar": {
+          "text": "وَكَمَنْ خَرَجَ مِنَ الْبَحْرِ إِلَى الشَّاطِئِ لَاهِثًا، ثُمَّ الْتَفَتَ إِلَى الْمِيَاهِ الْخَطِرَةِ وَحَدَّقَ فِيهَا،",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَكَمَنْ خَرَجَ مِنَ الْبَحْرِ إِلَى الشَّاطِئِ لَاهِثًا، ثُمَّ الْتَفَتَ إِلَى الْمِيَاهِ الْخَطِرَةِ وَحَدَّقَ فِيهَا،",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ka-man kharaja mina al-baḥri ʾilā ash-shāṭiʾi lāhithan, thumma iltafata ʾilā al-miyāhi al-khaṭirati wa-ḥaddaqa fīhā,"
+          }
+        },
+        "zh": {
+          "text": "正如一个从大海逃上岸的人，喘着气，回头凝望那危险的海水，",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "正如一个从大海逃上岸的人，喘着气，回头凝望那危险的海水，",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhèng rú yī ge cóng dàhǎi táo shàng àn de rén, chuǎnzhe qì, huítóu níngwàng nà wēixiǎn de hǎishuǐ,"
+          }
+        },
+        "ko": {
+          "text": "마치 거친 바다에서 해안으로 빠져나온 사람이 숨을 헐떡이며 위험한 물을 돌아보고 응시하듯,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "마치 거친 바다에서 해안으로 빠져나온 사람이 숨을 헐떡이며 위험한 물을 돌아보고 응시하듯,"
+        },
+        "it": {
+          "text": "E come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l’acqua perigliosa e guata,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "come で始まる比喩は、次の詩節の così と対応します。",
+              "en": "The comparison introduced by come is completed by così in the next tercet."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "まだ逃げ続けていた私の心も、後ろを向いて、かつて誰ひとり生きて通したことのない道を見返した。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "まだにげつづけていたわたしのこころも、うしろをむいて、かつてだれひとりいきてとおしたことのないみちをみかえした。"
+        },
+        "en": {
+          "text": "so my mind, still fleeing, turned back to look again at the passage that had never yet let anyone pass alive.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "so my mind, still fleeing, turned back to look again at the passage that had never yet let anyone pass alive."
+        },
+        "es": {
+          "text": "así mi ánimo, que aún huía, se volvió para contemplar de nuevo el paso que jamás había dejado salir con vida a nadie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "así mi ánimo, que aún huía, se volvió para contemplar de nuevo el paso que jamás había dejado salir con vida a nadie."
+        },
+        "fr": {
+          "text": "ainsi mon esprit, qui fuyait encore, se retourna pour regarder ce passage qui n’avait jamais laissé personne en vie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ainsi mon esprit, qui fuyait encore, se retourna pour regarder ce passage qui n’avait jamais laissé personne en vie."
+        },
+        "de": {
+          "text": "so wandte sich mein Geist, der noch immer floh, zurück, um jenen Durchgang zu betrachten, der noch nie jemanden lebend hindurchgelassen hatte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "so wandte sich mein Geist, der noch immer floh, zurück, um jenen Durchgang zu betrachten, der noch nie jemanden lebend hindurchgelassen hatte."
+        },
+        "ru": {
+          "text": "так и мой дух, всё ещё бежавший, обернулся, чтобы вновь взглянуть на проход, который ещё никогда никого не пропускал живым.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "так и мой дух, всё ещё бежавший, обернулся, чтобы вновь взглянуть на проход, который ещё никогда никого не пропускал живым."
+        },
+        "ar": {
+          "text": "كَذَلِكَ الْتَفَتَتْ رُوحِي، الَّتِي كَانَتْ لَا تَزَالُ تَفِرُّ، لِتَنْظُرَ مَرَّةً أُخْرَى إِلَى الْمَمَرِّ الَّذِي لَمْ يَتْرُكْ أَحَدًا حَيًّا قَطُّ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "كَذَلِكَ الْتَفَتَتْ رُوحِي، الَّتِي كَانَتْ لَا تَزَالُ تَفِرُّ، لِتَنْظُرَ مَرَّةً أُخْرَى إِلَى الْمَمَرِّ الَّذِي لَمْ يَتْرُكْ أَحَدًا حَيًّا قَطُّ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kadhālika iltafatat rūḥī, allatī kānat lā tazālu tafirru, li-tanẓura marratan ʾukhrā ʾilā al-mamarri alladhī lam yatruk ʾaḥadan ḥayyan qaṭṭu."
+          }
+        },
+        "zh": {
+          "text": "我的心也一样，仍在逃离，却又转过头，回望那条从未让任何人活着通过的险路。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我的心也一样，仍在逃离，却又转过头，回望那条从未让任何人活着通过的险路。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ de xīn yě yīyàng, réng zài táolí, què yòu zhuǎn guò tóu, huíwàng nà tiáo cóng wèi ràng rènhé rén huózhe tōngguò de xiǎnlù."
+          }
+        },
+        "ko": {
+          "text": "여전히 도망치던 내 마음도 뒤를 돌아보며, 누구도 살아서 지나가게 한 적 없는 그 길을 다시 바라보았다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "여전히 도망치던 내 마음도 뒤를 돌아보며, 누구도 살아서 지나가게 한 적 없는 그 길을 다시 바라보았다."
+        },
+        "it": {
+          "text": "così l’animo mio, ch’ancor fuggiva,\nsi volse a retro a rimirar lo passo\nche non lasciò già mai persona viva.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Dante Alighieri; Italian Wikisource — Divina Commedia / Inferno / Canto I"
+          }
+        }
+      }
+    }
+  ]
+}

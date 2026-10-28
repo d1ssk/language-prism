@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6e896e33a713d2e7a9fc08053736a41673ebd199e650b85f29c5c14509cc083e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "科学的魅力在于，它能让我们从根本上重新审视那些曾经被认为理所当然的事情。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8c86a55c7a89b1c816bdbb4cee9110f3aea9bfbc8021b6996506783ea3d9385e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:00.560116+00:00"
+}

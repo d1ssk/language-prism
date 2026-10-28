@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b0feab38e3ac3a96f8f96e6b00678a170770aeda5c3b6d85f2ea176bbe5e62d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "같은 의미를 전달하더라도 언어에 따라 자연스러운 표현 방식이 크게 달라질 수 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb8b7e89eac4d16498a8efa29967a92c2536e484a9a1108a159a7a72b20e51ee",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:12:16.350405+00:00"
+}

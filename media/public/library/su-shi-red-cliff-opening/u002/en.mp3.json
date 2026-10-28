@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff9577d6c56a33961faf010741264832b64cb90aa83c6c54bde23722c5e3ed3a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A clear breeze came gently, and no waves rose on the water.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f861e2f6f896396e0c9f6f580f6a57f21d3f71c8d2684d327019bb13557ad896",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:01:33.360449+00:00"
+}

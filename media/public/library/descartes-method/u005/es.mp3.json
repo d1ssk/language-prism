@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "308280d1c0d6b243d3a68d4833b62a386011529257b0b74a05240a33f9df55d1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La tercera era conducir mis pensamientos por orden, comenzando por los objetos más simples y más fáciles de conocer,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9e568e51bc2314c26840aa2a155fbe9032d0fcbb97f4cc243dfa08ebf65b555",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:29:13.453271+00:00"
+}

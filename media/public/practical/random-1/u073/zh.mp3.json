@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f679a3b72afdb42330c8a8a17641e549731413652e9bb98986905900a9b8bda3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "即使失败了，只要能从中学到东西，我就觉得不算白费。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d68b2ce12cd6dfa4ee1804ce9195eff2c285a21f3783b7a3f66344a0190f185",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:51.486827+00:00"
+}

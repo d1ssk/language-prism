@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "46bd8619422db7516fecdf7a7e78f38f08f2770edfc0d329a4122f0bb8acd13b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ومن بينها أعجبته أكثر كتب فيليسيانو دي سيلفا المشهور، إذ بدا له وضوح نثره وتلك الحجج المتشابكة كأنها درر؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ebb5cf2f3bdb3f6a24696234a4f26f31acf3ce43040dbd22e6ecbf0c6c5c4184",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:38:22.739774+00:00"
+}

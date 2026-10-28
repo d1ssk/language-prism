@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dbefb0aefe76b9944bb36fca0ad1659f0f0a3aeeb843cb70b169d1dce3ac4143",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A veces me preocupa pensar en el futuro, pero también me ilusionan las nuevas posibilidades.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ec4fa537d7d1c232067696bd0ceb7291d2ac8811c7faad7c66fc031c897c5a4d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:52:31.378240+00:00"
+}

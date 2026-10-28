@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f09d6326cf2c986b66321a65b14f9164972a2d883d74be8d8bd481a46827bf1c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Чем дальше развиваются технологии, тем важнее задумываться о том, ради чего мы их используем.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0ef61ae40759dcd53770898fd0a7f540f635d7ed16f50ad1d15485af3757696c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:02:01.149776+00:00"
+}

@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": 1,
+  "id": "descartes-method",
+  "slug": "descartes-method",
+  "type": "library",
+  "title": {
+    "ja": "方法序説",
+    "en": "Discourse on the Method"
+  },
+  "description": {
+    "ja": "第2部の四つの規則。明証、分割、順序、枚挙。",
+    "en": "The four rules in Part 2: evidence, division, order and enumeration."
+  },
+  "originalLanguage": "fr",
+  "author": "René Descartes",
+  "bibliography": {
+    "originalTitle": "Discours de la méthode",
+    "originalAuthor": "René Descartes",
+    "title": {
+      "ja": "方法序説",
+      "en": "Discourse on the Method"
+    },
+    "author": {
+      "ja": "ルネ・デカルト",
+      "en": "René Descartes"
+    }
+  },
+  "sourceTitle": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie",
+  "sourceURL": "https://fr.wikisource.org/wiki/Discours_de_la_méthode_(éd._Cousin)/Deuxième_partie",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。著者と採用した原典を明記しています。",
+    "en": "The original work is in the public domain; the author and the source used are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：René Descartes。収録元：Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie。他言語訳・読み・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: René Descartes. Source: Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie. New translations, readings and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他の8言語は本サイト用に新しく訳しています。既存の翻訳版は転載していません。訳・読み・解説・生成音声は専門家未校閲です。フランス語の étoit、connoître など、採用版の旧綴りを本文に残しています。音声入力のみ対応する現代綴りに調整しています。",
+    "en": "The original is divided into meaning units. The other eight versions are new translations for this site, not copies of published translations. Translations, readings, notes and generated audio have not been reviewed by specialists. Historical French spellings such as étoit and connoître are retained in the display text; only the speech input uses their modern equivalents."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第2部。「Le premier étoit」から「ne rien omettre」までの四規則。",
+      "en": "Part 2, the four rules from “Le premier étoit” to “ne rien omettre.”"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "第一の規則は、明らかに真であると認識したのでなければ、どんなものも決して真として受け入れないことだった。",
+          "ttsText": "だいいちのきそくは、あきらかにしんであるとにんしきしたのでなければ、どんなものもけっしてしんとしてうけいれないことだった。",
+          "vocabulary": [
+            {
+              "term": "明らかに",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "The first rule was never to accept anything as true unless I clearly knew it to be so;",
+          "ttsText": "The first rule was never to accept anything as true unless I clearly knew it to be so;",
+          "vocabulary": [
+            {
+              "term": "clearly",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "La primera regla era no aceptar nunca nada como verdadero sin conocer con evidencia que lo era;",
+          "ttsText": "La primera regla era no aceptar nunca nada como verdadero sin conocer con evidencia que lo era;",
+          "vocabulary": [
+            {
+              "term": "con evidencia",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Le premier étoit de ne recevoir jamais aucune chose pour vraie que je ne la connusse évidemment être telle ;",
+          "ttsText": "Le premier était de ne recevoir jamais aucune chose pour vraie que je ne la connusse évidemment être telle ;",
+          "vocabulary": [
+            {
+              "term": "évidemment",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Le premier は第一の規則を指します。que je ne la connusse … は古い制限的な構文で、「明らかにそうだと知るのでなければ」。connusse は connaître の接続法半過去です。",
+              "en": "Le premier refers to the first rule. The older restrictive construction que je ne la connusse … means “unless I knew it clearly to be so.” Connusse is the imperfect subjunctive of connaître."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Die erste Regel war, niemals etwas als wahr anzunehmen, solange ich nicht klar erkannte, dass es wahr war;",
+          "ttsText": "Die erste Regel war, niemals etwas als wahr anzunehmen, solange ich nicht klar erkannte, dass es wahr war;",
+          "vocabulary": [
+            {
+              "term": "klar",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Первое правило состояло в том, чтобы никогда не принимать ничего за истину, пока я не познаю с очевидностью, что это так;",
+          "ttsText": "Первое правило состояло в том, чтобы никогда не принимать ничего за истину, пока я не познаю с очевидностью, что это так;",
+          "vocabulary": [
+            {
+              "term": "с очевидностью",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كانت القاعدة الأولى ألا أقبل أي شيء على أنه حق ما لم أعرف بوضوح أنه كذلك؛",
+          "ttsText": "كانت القاعدة الأولى ألا أقبل أي شيء على أنه حق ما لم أعرف بوضوح أنه كذلك؛",
+          "vocabulary": [
+            {
+              "term": "بوضوح",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kānat al-qāʿidatu al-ūlā allā aqbala ayya shayʾin ʿalā annahu ḥaqqun mā lam aʿrif bi-wuḍūḥin annahu kadhālika;",
+            "note": {
+              "ja": "末尾の kadhālika は、そこで区切る場合 kadhālik と読みます。",
+              "en": "At a pause here, final kadhālika is pronounced kadhālik."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "第一条规则是，除非我清楚地认识到某事确实如此，否则绝不把它当作真实的来接受；",
+          "ttsText": "第一条规则是，除非我清楚地认识到某事确实如此，否则绝不把它当作真实的来接受；",
+          "vocabulary": [
+            {
+              "term": "清楚",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dì yī tiáo guīzé shì, chúfēi wǒ qīngchu de rènshi dào mǒu shì quèshí rúcǐ, fǒuzé jué bù bǎ tā dàngzuò zhēnshí de lái jiēshòu;",
+            "note": {
+              "ja": "第一の一は序数なので yī のままです。",
+              "en": "The 一 in 第一 remains yī because it is part of an ordinal."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "첫째 규칙은 어떤 것이 참임을 명백히 알지 못하는 한, 결코 그것을 참으로 받아들이지 않는 것이었다.",
+          "ttsText": "첫째 규칙은 어떤 것이 참임을 명백히 알지 못하는 한, 결코 그것을 참으로 받아들이지 않는 것이었다.",
+          "vocabulary": [
+            {
+              "term": "명백히",
+              "meaning": {
+                "ja": "ここでは、真であることを明瞭に認識すること。",
+                "en": "Here, clearly recognizing something as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "つまり、性急な判断と先入観を注意深く避けること、",
+          "ttsText": "つまり、せいきゅうなはんだんとせんにゅうかんをちゅういぶかくさけること、",
+          "vocabulary": [
+            {
+              "term": "先入観",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "that is, carefully to avoid hasty judgment and preconception,",
+          "ttsText": "that is, carefully to avoid hasty judgment and preconception,",
+          "vocabulary": [
+            {
+              "term": "preconception",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "es decir, evitar cuidadosamente la precipitación y los prejuicios,",
+          "ttsText": "es decir, evitar cuidadosamente la precipitación y los prejuicios,",
+          "vocabulary": [
+            {
+              "term": "prejuicios",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "c’est-à-dire, d’éviter soigneusement la précipitation et la prévention,",
+          "ttsText": "c’est-à-dire, d’éviter soigneusement la précipitation et la prévention,",
+          "vocabulary": [
+            {
+              "term": "prévention",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "prévention はここでは予防措置ではなく、前もって抱く判断・先入観です。précipitation は十分考えないまま急いで結論を出すこと。",
+              "en": "Prévention here means prejudgment or preconception, not a preventive measure. Précipitation is rushing to a judgment."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "das heißt, sorgfältig Übereilung und Vorurteile zu vermeiden,",
+          "ttsText": "das heißt, sorgfältig Übereilung und Vorurteile zu vermeiden,",
+          "vocabulary": [
+            {
+              "term": "Vorurteile",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "то есть тщательно избегать поспешности и предубеждения,",
+          "ttsText": "то есть тщательно избегать поспешности и предубеждения,",
+          "vocabulary": [
+            {
+              "term": "предубеждения",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أي أن أتجنب بعناية التسرع والأحكام المسبقة،",
+          "ttsText": "أي أن أتجنب بعناية التسرع والأحكام المسبقة،",
+          "vocabulary": [
+            {
+              "term": "الأحكام المسبقة",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ay an atajannaba bi-ʿināyatin at-tasarruʿa wa-al-aḥkāma al-musbaqata,",
+            "note": {
+              "ja": "末尾の al-musbaqata は、そこで区切る場合 al-musbaqah と読みます。",
+              "en": "At a pause here, final al-musbaqata is pronounced al-musbaqah."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "也就是说，要谨慎地避免仓促判断和先入之见，",
+          "ttsText": "也就是说，要谨慎地避免仓促判断和先入之见，",
+          "vocabulary": [
+            {
+              "term": "先入之见",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yě jiù shì shuō, yào jǐnshèn de bìmiǎn cāngcù pànduàn hé xiānrùzhījiàn,"
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "즉 성급한 판단과 선입견을 신중히 피하고,",
+          "ttsText": "즉 성급한 판단과 선입견을 신중히 피하고,",
+          "vocabulary": [
+            {
+              "term": "선입견",
+              "meaning": {
+                "ja": "吟味するより前に抱いている判断。",
+                "en": "A judgment already held before examination."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "そして、疑う余地がまったくないほど明晰かつ判明に精神に現れるものだけを、自分の判断に含めることだった。",
+          "ttsText": "そして、うたがうよちがまったくないほどめいせきかつはんめいにせいしんにあらわれるものだけを、じぶんのはんだんにふくめることだった。",
+          "vocabulary": [
+            {
+              "term": "判断",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "and to include in my judgments only what presented itself to my mind so clearly and distinctly that I had no occasion to doubt it.",
+          "ttsText": "and to include in my judgments only what presented itself to my mind so clearly and distinctly that I had no occasion to doubt it.",
+          "vocabulary": [
+            {
+              "term": "judgments",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "y no incluir en mis juicios sino lo que se presentara a mi mente con tanta claridad y distinción que no tuviera motivo alguno para ponerlo en duda.",
+          "ttsText": "y no incluir en mis juicios sino lo que se presentara a mi mente con tanta claridad y distinción que no tuviera motivo alguno para ponerlo en duda.",
+          "vocabulary": [
+            {
+              "term": "juicios",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "et de ne comprendre rien de plus en mes jugements que ce qui se présenteroit si clairement et si distinctement à mon esprit, que je n’eusse aucune occasion de le mettre en doute.",
+          "ttsText": "et de ne comprendre rien de plus en mes jugements que ce qui se présenterait si clairement et si distinctement à mon esprit, que je n’eusse aucune occasion de le mettre en doute.",
+          "vocabulary": [
+            {
+              "term": "jugements",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "comprendre は「理解する」ではなく「含める」。si … que は程度と結果を結びます。n’eusse は avoir の接続法半過去です。",
+              "en": "Comprendre means “include” here. Si … que links degree to result. N’eusse is the negated imperfect subjunctive of avoir."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "und in meine Urteile nur das aufzunehmen, was sich meinem Geist so klar und deutlich zeigte, dass ich keinerlei Anlass hatte, daran zu zweifeln.",
+          "ttsText": "und in meine Urteile nur das aufzunehmen, was sich meinem Geist so klar und deutlich zeigte, dass ich keinerlei Anlass hatte, daran zu zweifeln.",
+          "vocabulary": [
+            {
+              "term": "Urteile",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "и включать в свои суждения лишь то, что представлялось моему уму настолько ясно и отчётливо, что у меня не оставалось никакого повода сомневаться в этом.",
+          "ttsText": "и включать в свои суждения лишь то, что представлялось моему уму настолько ясно и отчётливо, что у меня не оставалось никакого повода сомневаться в этом.",
+          "vocabulary": [
+            {
+              "term": "суждения",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وألا أدرج في أحكامي إلا ما يتجلى لعقلي بوضوح وتميز لا يتركان لي أي مجال للشك فيه.",
+          "ttsText": "وألا أدرج في أحكامي إلا ما يتجلى لعقلي بوضوح وتميز لا يتركان لي أي مجال للشك فيه.",
+          "vocabulary": [
+            {
+              "term": "أحكامي",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-allā udrija fī aḥkāmī illā mā yatajallā li-ʿaqlī bi-wuḍūḥin wa-tamayyuzin lā yatrukāni lī ayya majālin li-ash-shakki fīhi.",
+            "note": {
+              "ja": "末尾の fīhi は、そこで区切る場合 fīh と読みます。",
+              "en": "At a pause here, final fīhi is pronounced fīh."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "并且在我的判断中，只纳入那些清晰而分明地呈现在我心中、使我毫无理由怀疑的东西。",
+          "ttsText": "并且在我的判断中，只纳入那些清晰而分明地呈现在我心中、使我毫无理由怀疑的东西。",
+          "vocabulary": [
+            {
+              "term": "判断",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bìngqiě zài wǒ de pànduàn zhōng, zhǐ nàrù nàxiē qīngxī ér fēnmíng de chéngxiàn zài wǒ xīn zhōng, shǐ wǒ háo wú lǐyóu huáiyí de dōngxi.",
+            "note": {
+              "ja": "使我の shǐ wǒ は shí wǒ と発音します。",
+              "en": "使我, shǐ wǒ, is spoken as shí wǒ."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "또한 내 정신에 아주 명석하고 판명하게 나타나서 의심할 여지가 전혀 없는 것만을 판단에 포함하는 것이었다.",
+          "ttsText": "또한 내 정신에 아주 명석하고 판명하게 나타나서 의심할 여지가 전혀 없는 것만을 판단에 포함하는 것이었다.",
+          "vocabulary": [
+            {
+              "term": "판단",
+              "meaning": {
+                "ja": "何を真と認めるかについての決定。",
+                "en": "Decisions about what is accepted as true."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "第二の規則は、検討する難問を一つ一つ、できるだけ多くの、しかもよりよく解くために必要なだけの小部分に分けることだった。",
+          "ttsText": "だいにのきそくは、けんとうするなんもんをひとつひとつ、できるだけおおくの、しかもよりよくとくためにひつようなだけのしょうぶぶんにわけることだった。",
+          "vocabulary": [
+            {
+              "term": "小部分",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "The second was to divide each difficulty I examined into as many parts as possible and as necessary to resolve it better.",
+          "ttsText": "The second was to divide each difficulty I examined into as many parts as possible and as necessary to resolve it better.",
+          "vocabulary": [
+            {
+              "term": "parts",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "La segunda era dividir cada una de las dificultades que examinara en tantas partes como fuera posible y como hiciera falta para resolverlas mejor.",
+          "ttsText": "La segunda era dividir cada una de las dificultades que examinara en tantas partes como fuera posible y como hiciera falta para resolverlas mejor.",
+          "vocabulary": [
+            {
+              "term": "partes",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Le second, de diviser chacune des difficultés que j’examinerois, en autant de parcelles qu’il se pourroit, et qu’il seroit requis pour les mieux résoudre.",
+          "ttsText": "Le second, de diviser chacune des difficultés que j’examinerais, en autant de parcelles qu’il se pourrait, et qu’il serait requis pour les mieux résoudre.",
+          "vocabulary": [
+            {
+              "term": "parcelles",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "autant … que は数量の対応。il seroit requis は「必要とされるだろう」という受身で、単に細分化するのでなく解決に必要な分割を求めています。",
+              "en": "Autant … que correlates quantities. Il seroit requis is passive, “would be required”: the rule calls for divisions needed to solve the difficulty, not subdivision for its own sake."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Die zweite war, jede untersuchte Schwierigkeit in so viele Teile zu zerlegen, wie es möglich und zu ihrer besseren Lösung nötig wäre.",
+          "ttsText": "Die zweite war, jede untersuchte Schwierigkeit in so viele Teile zu zerlegen, wie es möglich und zu ihrer besseren Lösung nötig wäre.",
+          "vocabulary": [
+            {
+              "term": "Teile",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Второе — разделять каждую рассматриваемую трудность на столько частей, сколько возможно и сколько требуется для её лучшего разрешения.",
+          "ttsText": "Второе — разделять каждую рассматриваемую трудность на столько частей, сколько возможно и сколько требуется для её лучшего разрешения.",
+          "vocabulary": [
+            {
+              "term": "частей",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "والثانية أن أقسم كل صعوبة أفحصها إلى أكبر عدد ممكن من الأجزاء، وبالقدر اللازم لحلها على نحو أفضل.",
+          "ttsText": "والثانية أن أقسم كل صعوبة أفحصها إلى أكبر عدد ممكن من الأجزاء، وبالقدر اللازم لحلها على نحو أفضل.",
+          "vocabulary": [
+            {
+              "term": "الأجزاء",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ath-thāniyatu an uqassima kulla ṣuʿūbatin afḥaṣuhā ilā akbari ʿadadin mumkinin mina al-ajzāʾi, wa-bi-al-qadri al-lāzimi li-ḥallihā ʿalā naḥwin afḍala.",
+            "note": {
+              "ja": "末尾の afḍala は、そこで区切る場合 afḍal と読みます。",
+              "en": "At a pause here, final afḍala is pronounced afḍal."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "第二条是，把我考察的每一个难题，分成尽可能多、并且为更好地解决它所需要的若干小部分。",
+          "ttsText": "第二条是，把我考察的每一个难题，分成尽可能多、并且为更好地解决它所需要的若干小部分。",
+          "vocabulary": [
+            {
+              "term": "小部分",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dì èr tiáo shì, bǎ wǒ kǎochá de měi yī ge nántí, fēn chéng jǐn kěnéng duō, bìngqiě wèi gèng hǎo de jiějué tā suǒ xūyào de ruògān xiǎo bùfen.",
+            "note": {
+              "ja": "一个は yí ge、尽可能の尽は jǐn と読みます。",
+              "en": "一个 is spoken as yí ge. 尽 in 尽可能 is jǐn."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "둘째는 검토하는 어려움을 하나하나 가능한 한 많이, 또 더 잘 해결하는 데 필요한 만큼의 작은 부분으로 나누는 것이었다.",
+          "ttsText": "둘째는 검토하는 어려움을 하나하나 가능한 한 많이, 또 더 잘 해결하는 데 필요한 만큼의 작은 부분으로 나누는 것이었다.",
+          "vocabulary": [
+            {
+              "term": "작은 부분",
+              "meaning": {
+                "ja": "問題を解きやすくするための分割単位。",
+                "en": "Smaller divisions that make a problem easier to resolve."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "第三の規則は、最も単純で最も認識しやすい対象から始め、順序に従って自分の思考を進めること、",
+          "ttsText": "だいさんのきそくは、もっともたんじゅんでもっともにんしきしやすいたいしょうからはじめ、じゅんじょにしたがってじぶんのしこうをすすめること、",
+          "vocabulary": [
+            {
+              "term": "順序",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "The third was to guide my thoughts in order, beginning with the simplest objects and those easiest to know,",
+          "ttsText": "The third was to guide my thoughts in order, beginning with the simplest objects and those easiest to know,",
+          "vocabulary": [
+            {
+              "term": "order",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "La tercera era conducir mis pensamientos por orden, comenzando por los objetos más simples y más fáciles de conocer,",
+          "ttsText": "La tercera era conducir mis pensamientos por orden, comenzando por los objetos más simples y más fáciles de conocer,",
+          "vocabulary": [
+            {
+              "term": "orden",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Le troisième, de conduire par ordre mes pensées, en commençant par les objets les plus simples et les plus aisés à connoître,",
+          "ttsText": "Le troisième, de conduire par ordre mes pensées, en commençant par les objets les plus simples et les plus aisés à connaître,",
+          "vocabulary": [
+            {
+              "term": "ordre",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "en commençant はジェロンディフで、思考を進める方法を示します。les plus … は最上級。connoître は現代の connaître に相当します。",
+              "en": "En commençant is a gerund construction showing how to proceed. Les plus … forms a superlative. Connoître corresponds to modern connaître."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Die dritte war, meine Gedanken geordnet zu führen, angefangen bei den einfachsten und am leichtesten zu erkennenden Gegenständen,",
+          "ttsText": "Die dritte war, meine Gedanken geordnet zu führen, angefangen bei den einfachsten und am leichtesten zu erkennenden Gegenständen,",
+          "vocabulary": [
+            {
+              "term": "geordnet",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Третье — вести свои мысли по порядку, начиная с предметов самых простых и самых лёгких для познания,",
+          "ttsText": "Третье — вести свои мысли по порядку, начиная с предметов самых простых и самых лёгких для познания,",
+          "vocabulary": [
+            {
+              "term": "по порядку",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "والثالثة أن أقود أفكاري بترتيب، مبتدئًا بالأشياء الأبسط والأسهل معرفة،",
+          "ttsText": "والثالثة أن أقود أفكاري بترتيب، مبتدئًا بالأشياء الأبسط والأسهل معرفة،",
+          "vocabulary": [
+            {
+              "term": "بترتيب",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ath-thālithatu an aqūda afkārī bi-tartībin, mubtadiʾan bi-al-ashyāʾi al-absaṭi wa-al-ashali maʿrifatan,",
+            "note": {
+              "ja": "mubtadiʾan は男性の語り手に合わせた形です。女性なら mubtadiʾatan。 末尾の maʿrifatan は、そこで区切る場合 maʿrifah と読みます。",
+              "en": "Mubtadiʾan agrees with a male narrator; a female narrator would use mubtadiʾatan. At a pause here, final maʿrifatan is pronounced maʿrifah."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "第三条是，按顺序引导我的思想，从最简单、最容易认识的对象开始，",
+          "ttsText": "第三条是，按顺序引导我的思想，从最简单、最容易认识的对象开始，",
+          "vocabulary": [
+            {
+              "term": "顺序",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dì sān tiáo shì, àn shùnxù yǐndǎo wǒ de sīxiǎng, cóng zuì jiǎndān, zuì róngyì rènshi de duìxiàng kāishǐ,"
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "셋째는 가장 단순하고 가장 알기 쉬운 대상부터 시작하여, 순서에 따라 생각을 이끌어 가는 것이었다.",
+          "ttsText": "셋째는 가장 단순하고 가장 알기 쉬운 대상부터 시작하여, 순서에 따라 생각을 이끌어 가는 것이었다.",
+          "vocabulary": [
+            {
+              "term": "순서",
+              "meaning": {
+                "ja": "思考を進めるときの配列や手順。",
+                "en": "An arrangement or sequence in which thought proceeds."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "それによって、段を上るように少しずつ最も複雑なものの認識に至り、自然には前後関係のないものの間にさえ順序を想定することだった。",
+          "ttsText": "それによって、だんをのぼるようにすこしずつもっともふくざつなもののにんしきにいたり、しぜんにはぜんごかんけいのないもののあいだにさえじゅんじょをそうていすることだった。",
+          "vocabulary": [
+            {
+              "term": "少しずつ",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "to rise little by little, as if by steps, to knowledge of the most complex, even supposing an order among things that do not naturally precede one another.",
+          "ttsText": "to rise little by little, as if by steps, to knowledge of the most complex, even supposing an order among things that do not naturally precede one another.",
+          "vocabulary": [
+            {
+              "term": "little by little",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "para ascender poco a poco, como por grados, al conocimiento de los más compuestos, suponiendo incluso un orden entre aquellos que no se preceden naturalmente unos a otros.",
+          "ttsText": "para ascender poco a poco, como por grados, al conocimiento de los más compuestos, suponiendo incluso un orden entre aquellos que no se preceden naturalmente unos a otros.",
+          "vocabulary": [
+            {
+              "term": "poco a poco",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "pour monter peu à peu comme par degrés jusques à la connoissance des plus composés, et supposant même de l’ordre entre ceux qui ne se précèdent point naturellement les uns les autres.",
+          "ttsText": "pour monter peu à peu comme par degrés jusqu’à la connaissance des plus composés, et supposant même de l’ordre entre ceux qui ne se précèdent point naturellement les uns les autres.",
+          "vocabulary": [
+            {
+              "term": "peu à peu",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "pour monter は目的を示します。les plus composés は前の objets を受ける名詞的な表現。ne … point は強い否定です。",
+              "en": "Pour monter states a purpose. Les plus composés stands for the most complex objects, carrying over objets. Ne … point is an emphatic negative."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "um nach und nach, gleichsam stufenweise, zur Erkenntnis der zusammengesetztesten aufzusteigen und sogar zwischen Dingen eine Ordnung anzunehmen, die von Natur aus nicht aufeinander folgen.",
+          "ttsText": "um nach und nach, gleichsam stufenweise, zur Erkenntnis der zusammengesetztesten aufzusteigen und sogar zwischen Dingen eine Ordnung anzunehmen, die von Natur aus nicht aufeinander folgen.",
+          "vocabulary": [
+            {
+              "term": "nach und nach",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "чтобы постепенно, словно по ступеням, подниматься к познанию самых сложных, предполагая порядок даже между теми, которые по природе не предшествуют друг другу.",
+          "ttsText": "чтобы постепенно, словно по ступеням, подниматься к познанию самых сложных, предполагая порядок даже между теми, которые по природе не предшествуют друг другу.",
+          "vocabulary": [
+            {
+              "term": "постепенно",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لأرتقي شيئًا فشيئًا، كأنني أصعد درجات، إلى معرفة أكثرها تركيبًا، مفترضًا ترتيبًا حتى بين الأشياء التي لا يسبق بعضها بعضًا بطبيعتها.",
+          "ttsText": "لأرتقي شيئًا فشيئًا، كأنني أصعد درجات، إلى معرفة أكثرها تركيبًا، مفترضًا ترتيبًا حتى بين الأشياء التي لا يسبق بعضها بعضًا بطبيعتها.",
+          "vocabulary": [
+            {
+              "term": "شيئًا فشيئًا",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Li-artaqiya shayʾan fa-shayʾan, ka-annanī aṣʿadu darajātin, ilā maʿrifati aktharihā tarkīban, muftariḍan tartīban ḥattā bayna al-ashyāʾi allatī lā yasbiqu baʿḍuhā baʿḍan bi-ṭabīʿatihā.",
+            "note": {
+              "ja": "muftariḍan は男性の語り手の形。女性なら muftariḍatan です。",
+              "en": "Muftariḍan refers to a male narrator; a female narrator uses muftariḍatan."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "以便一步一步、仿佛登台阶一般，上升到对最复杂对象的认识，甚至在那些本来没有先后关系的事物之间也假定一种顺序。",
+          "ttsText": "以便一步一步、仿佛登台阶一般，上升到对最复杂对象的认识，甚至在那些本来没有先后关系的事物之间也假定一种顺序。",
+          "vocabulary": [
+            {
+              "term": "一步一步",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǐbiàn yī bù yī bù, fǎngfú dēng táijiē yībān, shàngshēng dào duì zuì fùzá duìxiàng de rènshi, shènzhì zài nàxiē běnlái méiyǒu xiānhòu guānxi de shìwù zhījiān yě jiǎdìng yī zhǒng shùnxù.",
+            "note": {
+              "ja": "一步は yí bù、一般は yìbān、一种は yì zhǒng と発音します。",
+              "en": "一步 is spoken as yí bù, 一般 as yìbān, and 一种 as yì zhǒng."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그리하여 계단을 오르듯 조금씩 가장 복잡한 것의 인식에 이르고, 자연적으로 앞뒤 관계가 없는 것들 사이에도 순서를 가정하는 것이었다.",
+          "ttsText": "그리하여 계단을 오르듯 조금씩 가장 복잡한 것의 인식에 이르고, 자연적으로 앞뒤 관계가 없는 것들 사이에도 순서를 가정하는 것이었다.",
+          "vocabulary": [
+            {
+              "term": "조금씩",
+              "meaning": {
+                "ja": "段階を追って進むこと。",
+                "en": "Proceeding gradually through stages."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "最後の規則は、何も見落としていないと確信できるほど完全な枚挙と全般的な見直しを、あらゆる場合に行うことだった。",
+          "ttsText": "さいごのきそくは、なにもみおとしていないとかくしんできるほどかんぜんなまいきょとぜんぱんてきなみなおしを、あらゆるばあいにおこなうことだった。",
+          "vocabulary": [
+            {
+              "term": "見落とし",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "And the last was everywhere to make enumerations so complete and reviews so comprehensive that I could be certain of omitting nothing.",
+          "ttsText": "And the last was everywhere to make enumerations so complete and reviews so comprehensive that I could be certain of omitting nothing.",
+          "vocabulary": [
+            {
+              "term": "omitting",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Y la última era hacer en todas partes enumeraciones tan completas y revisiones tan generales que tuviera la seguridad de no omitir nada.",
+          "ttsText": "Y la última era hacer en todas partes enumeraciones tan completas y revisiones tan generales que tuviera la seguridad de no omitir nada.",
+          "vocabulary": [
+            {
+              "term": "omitir",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Et le dernier, de faire partout des dénombrements si entiers et des revues si générales, que je fusse assuré de ne rien omettre.",
+          "ttsText": "Et le dernier, de faire partout des dénombrements si entiers et des revues si générales, que je fusse assuré de ne rien omettre.",
+          "vocabulary": [
+            {
+              "term": "omettre",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "si … que は「非常に…なので〜」。fusse は être の接続法半過去です。ne rien omettre では rien が不定詞の前に置かれます。",
+              "en": "Si … que connects degree with result. Fusse is the imperfect subjunctive of être. In ne rien omettre, rien precedes the infinitive."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Discours de la méthode, éd. Victor Cousin, Levrault, 1824, tome I, deuxième partie"
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Und die letzte war, überall so vollständige Aufzählungen und so umfassende Überprüfungen vorzunehmen, dass ich sicher sein konnte, nichts ausgelassen zu haben.",
+          "ttsText": "Und die letzte war, überall so vollständige Aufzählungen und so umfassende Überprüfungen vorzunehmen, dass ich sicher sein konnte, nichts ausgelassen zu haben.",
+          "vocabulary": [
+            {
+              "term": "ausgelassen",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "И последнее — повсюду делать настолько полные перечисления и настолько всеобъемлющие обзоры, чтобы быть уверенным, что ничто не упущено.",
+          "ttsText": "И последнее — повсюду делать настолько полные перечисления и настолько всеобъемлющие обзоры, чтобы быть уверенным, что ничто не упущено.",
+          "vocabulary": [
+            {
+              "term": "упущено",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "والأخيرة أن أجري في كل موضع إحصاءات كاملة ومراجعات شاملة إلى حد يضمن لي أنني لم أغفل شيئًا.",
+          "ttsText": "والأخيرة أن أجري في كل موضع إحصاءات كاملة ومراجعات شاملة إلى حد يضمن لي أنني لم أغفل شيئًا.",
+          "vocabulary": [
+            {
+              "term": "أغفل",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-al-akhīratu an ujriya fī kulli mawḍiʿin iḥṣāʾātin kāmilatan wa-murājaʿātin shāmilatan ilā ḥaddin yaḍmanu lī annanī lam ughfil shayʾan.",
+            "note": {
+              "ja": "文末 shayʾan は、休止時には shayʾā となります。",
+              "en": "Sentence-final shayʾan becomes shayʾā at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "最后一条是，在所有情况下都进行如此完整的列举和如此全面的复查，使我确信没有遗漏任何东西。",
+          "ttsText": "最后一条是，在所有情况下都进行如此完整的列举和如此全面的复查，使我确信没有遗漏任何东西。",
+          "vocabulary": [
+            {
+              "term": "遗漏",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zuìhòu yī tiáo shì, zài suǒyǒu qíngkuàng xià dōu jìnxíng rúcǐ wánzhěng de lièjǔ hé rúcǐ quánmiàn de fùchá, shǐ wǒ quèxìn méiyǒu yílòu rènhé dōngxi.",
+            "note": {
+              "ja": "一条は yì tiáo、所有は suóyǒu、使我是 shí wǒ と発音します。",
+              "en": "一条 is spoken as yì tiáo, 所有 as suóyǒu, and 使我 as shí wǒ."
+            }
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "마지막은 어느 경우에나 완전한 열거와 전반적인 검토를 하여, 아무것도 빠뜨리지 않았음을 확신할 수 있게 하는 것이었다.",
+          "ttsText": "마지막은 어느 경우에나 완전한 열거와 전반적인 검토를 하여, 아무것도 빠뜨리지 않았음을 확신할 수 있게 하는 것이었다.",
+          "vocabulary": [
+            {
+              "term": "빠뜨리지",
+              "meaning": {
+                "ja": "確認すべきものを抜かすこと。",
+                "en": "Leaving out something that should be checked."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/descartes-method/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e9d9d78782a131a0f173a53f6f11fd9c770a528ce07e6c9a03b164a5412889e2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un homme étire le fil ; un autre le redresse ; un troisième le coupe ; un quatrième l'affûte ; un cinquième en polit le haut pour recevoir la tête ;",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3b655fc6704a975d11b604c7ea126b2056c4a201067026c70078f29c9b00185b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:38:35.577235+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3e1db5498d0de2e8858de85afc01560e87aab52a1c0a07245bb284f521d3946",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pero si todos hubieran trabajado por separado e independientemente, sin que ninguno hubiera sido formado en este oficio específico, sin duda cada uno no habría podido hacer veinte alfileres al día, y quizá ni uno;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1e52c8ab0c5c4be6f721a919938a559b41c6319d256122fdea47e22eccce02b8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:48:49.606322+00:00"
+}

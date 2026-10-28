@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "98860d00487d33f7edf231325402be2e445d08915f475096fd10011e5dfbbe9f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "并思考这些构造精巧的生命形态，虽然彼此如此不同，又以如此复杂的方式相互依存，却全都由我们周围起作用的规律产生。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4a0e2ebb93968bdc1465a9874d5dcb412cb0347779a995b7ef80492290627a23",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:17:18.548669+00:00"
+}

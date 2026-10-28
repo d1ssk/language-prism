@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fc6e0c5d41bec6ff98e7d6844fb3319459936dd7bd66ecf4aaa4dd0b409a3da1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "因为，它凭借夺走其自由的同一种权利重获自由，那么，要么它有理由夺回自由，要么当初就没有理由夺走它的自由。”",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "caecf0766d28d875463abaf57af67a5bb5bf08613eb319fabe0e60febe4d0c49",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:57:09.552601+00:00"
+}

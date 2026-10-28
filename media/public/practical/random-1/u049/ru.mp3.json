@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "641c9529a353ae646aa1c522d7c6b90e714ee7de2c5ff81f66313e83946ce9e7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Одна и та же песня может звучать совершенно по-разному в зависимости от настроения.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c1d242e602af1f26b23eb8aeb721a5ce7c9938ac9efe1172c47a12ace611512a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:11.335004+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "59cc771f98a6bc849f06be6360e039357327eec1d39c9f3b9156e699e02651ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "但这对我们的故事无关紧要；只要叙述丝毫不偏离事实就够了。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "090697fed09c7ffb19ae9c9884590601d0069fcd5132e1dbabd68ec7f9ce656a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:54.580778+00:00"
+}

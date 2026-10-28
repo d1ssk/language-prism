@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "28ac7c236d956d5209cf74c26fedcf0fddf104e5db0543406bd876314b290833",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J'ai eu un imprévu urgent au travail aujourd'hui. Est-ce qu'on peut changer nos plans ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "24ab400ea8a56d0f2d8ddd3387c18083ebc55c58d194304af2bd09216c75a032",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:15.800406+00:00"
+}

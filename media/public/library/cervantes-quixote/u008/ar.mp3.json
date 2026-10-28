@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c590da1d76f59cd33d08c9c5f4ac797d38e7a2dc7a3babf8a0e0f65c94419ed3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "يقال إن لقبه كان كيخادا أو كيسادا، إذ يختلف في ذلك بعض من يكتبون عن هذه القصة، وإن كانت تخمينات معقولة توحي بأن اسمه كان كيخانو.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "48cbb8376cb8592bb0d404845e036b8569a0a4b17d8d1919440e07be29e411a4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:31:44.232898+00:00"
+}

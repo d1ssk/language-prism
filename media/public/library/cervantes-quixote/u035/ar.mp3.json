@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "29dde86e14c7dc9e0187c8d6fb23610815e4dbd273623432482ffb04658526b1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وهو أنه رأى من المناسب والضروري، لزيادة شرفه وخدمة بلاده معا، أن يصير فارسا جوالا،",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b2ed8a564bd1d960674df8aa54f08c29efc399abab25b368f7fc94bda5e1fb43",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:12:47.143071+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a1ad92bb58504d243f70a99eb2a62c1fd5ca7e5f91709634bbbf0b7fbf448b8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I don't just want to own the finished product; I also want to be involved in the process of making it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eba9cc197db0ba4c144bcb27052151f57e677c078fbfaf5ad7255d47a236bc44",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:06:59.627718+00:00"
+}

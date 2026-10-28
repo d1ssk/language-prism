@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7aec7f2d24084a613e8b23c98a705e64c8331b60070d320690e26017b426d3aa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die Liebe, dachte ich, ist stärker als der Tod und die Angst vor dem Tod. Nur durch sie, nur durch die Liebe wird das Leben getragen und in Bewegung gesetzt.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "94ee3e3255fb38dd40b81d63d988fc5f0307aed9de575d44d3c32f7b4d1a8866",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:23:05.981659+00:00"
+}

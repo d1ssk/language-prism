@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a748d3ff8500c9b288ccea756bf9c8d6f9021ce0599cdb14a92a8295c5cbe4f5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "둘 다 얻을 수 없다면 물고기를 버리고 곰의 발바닥을 택한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d89b77a328a0eeafbcc4d4573472da02a1864bb82b0db3d532128d44fc590d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:01:07.303743+00:00"
+}

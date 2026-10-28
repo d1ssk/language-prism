@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "be0bef0a8d681c1aa6a09dfe587bf49904525422b5354894f6ba3ae47e6e4b4a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "최근에 읽은 소설은 다 읽은 뒤에도 계속 마음에 남아 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "37150037af62f72e42be6b1c5d5da463213c9272285fcf962b6798610952bd11",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:00.003862+00:00"
+}

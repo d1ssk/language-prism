@@ -1,0 +1,61 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import LanguageBlock from '../../../components/LanguageBlock.astro';
+import WorkDescription from '../../../components/WorkDescription.astro';
+import { getCatalog, withBase } from '../../../lib/catalog';
+import { displayLanguages } from '../../../lib/languages';
+import { localize } from '../../../lib/localized';
+import type { CatalogEntry } from '../../../lib/schema';
+import { UI_LOCALES, translate, type UiLocale } from '../../../i18n';
+export function getStaticPaths() { return UI_LOCALES.flatMap(locale => getCatalog().map(work => ({ params: { locale, slug: work.slug }, props: { locale, work } }))); }
+interface Props { locale: UiLocale; work: CatalogEntry }
+const { locale, work } = Astro.props;
+const t = (key: Parameters<typeof translate>[1], values?: Record<string, string | number>) => translate(locale, key, values);
+const l = (value: Parameters<typeof localize>[0]) => localize(value, locale);
+const languages = displayLanguages(locale, work.originalLanguage);
+const audioCount = Object.keys(work.availableAudio).length;
+const bibliography = work.type === 'library' ? work.bibliography : undefined;
+const pageTitle = bibliography ? `${bibliography.originalTitle} — ${bibliography.originalAuthor}` : l(work.title);
+---
+<Layout locale={locale} pagePath={`read/${work.slug}/`} title={pageTitle} description={l(work.description)}>
+  <a class="back-link" href={withBase(`${locale}/${work.type}/`)}>{t('backCollection')}</a>
+  <header class="work-header">
+    <div class="work-label">{work.scope === 'private' && <span class="badge">{t('private')}</span>}{work.publicationStatus !== 'ready' && <span class="badge">{work.publicationStatus}</span>}</div>
+    <h1>{bibliography ? <bdi lang={work.originalLanguage}>{pageTitle}</bdi> : pageTitle}</h1>
+    {work.type === 'library' && <WorkDescription work={work} locale={locale} />}
+  </header>
+  <div class="reader" id="reader">
+    {audioCount === 0 && <p class="notice">{t('noAudio')}</p>}
+    {audioCount > 0 && <section class="reader-toolbar" aria-label={t('readerSettings')} hidden>
+      <div class="play-buttons"><button id="play-all" disabled={audioCount === 0}>{t('playAll')}</button><button id="stop-audio" disabled>{t('stop')}</button></div>
+      <details class="audio-settings"><summary>{t('audioSettings')}</summary><div class="player-controls">
+        <label>{t('speed')}<select id="speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
+        <label>{t('gap')}<select id="gap"><option value="0">{t('noGap')}</option>{[0.5, 1, 2, 3].map(value => <option value={value} selected={value === 0.5}>{t('seconds', { count: value })}</option>)}</select></label>
+      </div></details>
+      <div class="playback-status"><p id="player-status" role="status" aria-live="polite">{audioCount === 0 ? t('noAudio') : t('audioCount', { count: audioCount })}</p><audio id="audio-player" controls preload="none" aria-label={t('player')}></audio></div>
+    </section>}
+    {audioCount > 0 && <noscript><p class="notice">{t('noScript')}</p></noscript>}
+    <div class="units">{work.units.map((unit, index) => <article class="unit" id={unit.id}>
+      {unit.heading && <h2 class="unit-section-title">{l(unit.heading)}</h2>}
+      <div class="unit-heading"><button class="play-unit" hidden data-unit={unit.id} disabled={!languages.some(lang => work.availableAudio[`${unit.id}/${lang.code}`])} aria-label={t('playUnitLabel', { count: index + 1 })}>{t('playUnit')}</button></div>
+      <div class="unit-languages">{languages.map(lang => unit.languages[lang.code]
+        ? <LanguageBlock locale={locale} entry={unit.languages[lang.code]} code={lang.code} label={lang.native} dir={lang.dir} unitId={unit.id} audio={work.availableAudio[`${unit.id}/${lang.code}`]} isOriginal={work.type === 'library' && lang.code === work.originalLanguage} />
+        : unit.noEquivalent?.[lang.code]
+          ? <section class="language-block no-equivalent" data-language={lang.code} aria-label={lang.native}>
+              <details><summary class="no-equivalent-label"><bdi lang={lang.code} dir={lang.dir}>{lang.native}</bdi> — {t('noEquivalent')}</summary><p>{l(unit.noEquivalent[lang.code])}</p></details>
+            </section>
+          : <section class="language-block missing-language" data-language={lang.code}><p>{t('pending')}</p></section>)}</div>
+    </article>)}</div>
+  </div>
+    <details class="source-details"><summary>{t('sourceInfo')}</summary>
+      {work.editorialNote && <p>{l(work.editorialNote)}</p>}
+      <dl>
+        <div><dt>{t('source')}</dt><dd>{work.sourceURL ? <a href={work.sourceURL} rel="noreferrer">{work.sourceTitle}</a> : work.sourceTitle}</dd></div>
+        {work.excerpt && <div><dt>{t('coverage')}</dt><dd>{t(work.excerpt.isExcerpt ? 'excerpt' : 'fullText')}{work.excerpt.location && ` · ${l(work.excerpt.location)}`}</dd></div>}
+        <div><dt>{t('rights')}</dt><dd>{l(work.rights)}</dd></div><div><dt>{t('license')}</dt><dd>{work.license}</dd></div><div><dt>{t('attribution')}</dt><dd>{l(work.attribution)}</dd></div>
+        <div><dt>{t('translation')}</dt><dd>{t('reviewInfo')} {[...new Set(work.units.flatMap(u => Object.values(u.languages).map(e => e.translation.attribution)))].join(' / ')}</dd></div>
+        <div><dt>{t('updated')}</dt><dd>{t('dates', { updated: work.updatedAt, created: work.createdAt })}</dd></div>
+      </dl>
+    </details>
+</Layout>
+<script>import '../../../lib/reader';</script>

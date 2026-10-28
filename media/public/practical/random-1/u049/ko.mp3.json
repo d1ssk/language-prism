@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a07a799435b5ef1158a44f30c11b7566f60d6b86d267b7fcca9fa42452278009",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "같은 노래라도 그때의 기분에 따라 전혀 다르게 들릴 때가 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "88fd4913a4b7ac106dcf2681fbd658b95ceb504e2078330a290e4193dec44f6e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:24.365780+00:00"
+}

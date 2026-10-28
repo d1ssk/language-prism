@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "41791508d04e71ed7313c270c560afee335c97a3e30df95b2a84b20bdfbf8f64",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "양고기보다 쇠고기가 조금 더 들어간 스튜, 거의 매일 저녁의 양념한 다진 고기, 토요일의 ‘슬픔과 고난’, 금요일의 렌틸콩, 일요일에 덧붙이는 어린 비둘기 한 마리가 재산의 사분의 삼을 먹어 치웠다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9f674c5e01ccba0913cc2a28e8fcae6c1a9eb320c32ff71e894bbceadd40b7d2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:08:24.208309+00:00"
+}

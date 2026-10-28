@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d0d3b388d13851902a6d83b4fb418cee179661ec7e80f59d1b4cc97b855ef66f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "denn die Gruppierung aller Lebewesen zeigt, dass die Mehrzahl der Arten jeder Gattung und sämtliche Arten vieler Gattungen keine Nachkommen hinterlassen haben, sondern völlig ausgestorben sind.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9c92359ac7c790837c8b62f08461f1233ef86c0d9153dafdd1ed1349508c18c6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:22:21.633779+00:00"
+}

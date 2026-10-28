@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "85f46dc9689d4c4cf9f30811826eba6853ce7c8f34ea8a0a64225e1f81b7068b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The weather is nice today, so I'd like to take a longer route and walk home.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7f4323431751192bd4fe5a61e4b7b9ca222f0ed6ea201157c097a46677d6b5f1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:21:44.151363+00:00"
+}

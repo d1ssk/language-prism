@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "126e4765a087b14ac0369ff62c58d3a8acfe4d7301ce4f77435c37faa5ccfc07",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le paysage de ce parc change tellement au fil des saisons que je ne me lasse jamais d'y revenir.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3929bec2dd597504fc832f9fd7bf75a3e50a1ee6b24d64c32c1d61f791fe6356",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:37:27.589902+00:00"
+}

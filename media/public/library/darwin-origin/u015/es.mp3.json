@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7915c1e23bf6cfffbe3a597acbcb900daad5fb79aaed34f4ee42bc0f6b7696d6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando veo a todos los seres no como creaciones particulares, sino como descendientes directos de unos pocos seres que vivieron mucho antes de depositarse el primer estrato del sistema silúrico, me parecen ennoblecidos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "11aa8657d9575e1d9fe516357cc691c8243a08e452ca7291ee450957b246ee7e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:17:03.532752+00:00"
+}

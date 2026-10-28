@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e44d197c7d3e49ee0fc9ef54a7ba043cb95a8da1dea16af45e03d2542cd744e2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mi Trezor se detuvo y retrocedió… Al parecer, también él había reconocido aquella fuerza.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3b7ceb613195a6534c1e8c50aae6e38ecaa0e6c911c3ff10d14192ea6d842f39",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:09.141205+00:00"
+}

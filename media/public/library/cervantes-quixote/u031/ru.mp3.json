@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c733a1352146f1e7482d97b73815422a4005798a69f410f63d469e5502a1b204",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Он очень хвалил великана Морганте: хотя тот и принадлежал к великанскому роду, где все спесивы и грубы, он один был приветлив и благовоспитан.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5de0d33b7a82399cc23a15c6b42c9b105a74f8a967a9e7f015300bafedf32f61",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:05:03.978911+00:00"
+}

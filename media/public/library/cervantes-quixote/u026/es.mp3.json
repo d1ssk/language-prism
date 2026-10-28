@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dc81d0707fcc862e555a471d95810e597ba9ef5b9109f95ba5793b0df21655f9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "y así del poco dormir y del mucho leer se le secó el celebro de manera, que vino a perder el juicio.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f94f58b21b4713e53d4fb2c4a9519d9a74533b1ab68bf863c78ed5989302c801",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:56:25.843541+00:00"
+}

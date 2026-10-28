@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4c72c07a4a290137f7f41cd658ea82550fc18fd494388e85ef3a65686cb311b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그런데도 참새는 높고 안전한 가지에 가만히 앉아 있을 수 없었다. 자신의 의지보다 더 강한 힘이 그곳에서 참새를 내던진 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3be3701faf8142d4fd8a402ae8380d417badbeb5f2aa8164e51c084ebbadff4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:19:53.399543+00:00"
+}

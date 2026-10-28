@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fe4835f365b9eb7ae7e7f50df44afb07f8259dcf381f1a8f6dbe12f922d5d4a3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Excuse me, could you take a picture of me with this building in the background?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb1abc85ee390b41684883cdbd49f0f5441c333404aa64de69f0ca9914a75d9c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:52.429327+00:00"
+}

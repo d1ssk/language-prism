@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2548b1114485b77cf48604b4429174e1a2523e218af8df4bcfee638f32414bcf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "حين أنظر إلى جميع الكائنات لا بوصفها مخلوقات أوجدت على حدة، بل ذرية مباشرة لكائنات قليلة عاشت قبل ترسب أول طبقة من النظام السيلوري بزمن طويل، تبدو لي أرفع شأنا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9bd008d4013fbc9f4b7960b1316b0a99af51b0cc5da4e52671500ecc2026fb5d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:18:09.513236+00:00"
+}

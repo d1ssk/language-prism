@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a738fd8d8820ff8ede6ec9124bfb73ffbd7fd90ac3bff6578c670da58a762dee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그중에서도 유명한 펠리시아노 데 실바의 작품이 가장 마음에 들었다. 명료한 문장과 그 복잡하게 얽힌 논리가 더없이 훌륭해 보였기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3e5eedd7d7e86cbeab540230e70f368c8d75fe6802b4e3317690992048ae2841",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:38:43.943113+00:00"
+}

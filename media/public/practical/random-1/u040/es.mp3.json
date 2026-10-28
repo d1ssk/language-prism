@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b01e95ba6d1995b41e27e681566f51e1755368523b652797b34bcbe806c9e3de",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Para no desperdiciar comida, intento planificar las comidas antes de ir a comprar.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f5eb54ed13b2d364fea6d7d1b8e58da2de1394db6ae1eea11e23b01721e3c360",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:34:34.632411+00:00"
+}

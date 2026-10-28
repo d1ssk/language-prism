@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2bea44f3ec53b7e0389d93925b3e930c2bb225a406920a25270b0076e2afa5df",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I hastened to call back the bewildered dog and went away in awe.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "55173e3e6ff2694e5ba7fa563027d2944d04e63bb277763500a3cea83e488c77",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:52.023595+00:00"
+}

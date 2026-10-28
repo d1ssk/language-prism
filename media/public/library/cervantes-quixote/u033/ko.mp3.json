@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1ccea37acb8154849bc9c6413c57fa6ddf31fd4a25e0dcfe266cd7125d14213d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "배신자 갈랄론을 실컷 걷어찰 수만 있다면 자기 가정부를 내주고 조카딸까지 덤으로 얹었을 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b8d986984ae44b00e4ca972df19cddd41c310d91d9f67eb8f4d6d38ed97e8b7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:10:29.666137+00:00"
+}

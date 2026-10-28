@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1afaf49f0fd0c8db5b92f71f679a7ac37c87df684965785ad67e1e760f2b3372",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ces dix personnes pouvaient donc fabriquer ensemble plus de quarante-huit mille épingles par jour.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2aca34c20d01352d91133f452c0dcb6e9df56296f27e12a1a974291b871fee48",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:46:36.044133+00:00"
+}

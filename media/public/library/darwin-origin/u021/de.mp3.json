@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "09b25d788cf3d2295a0c2dbef3c65953e738e3ed5bea66572d7e2a7fd87b23f2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Daher dürfen wir mit einiger Zuversicht einer sicheren Zukunft von ebenso unermesslicher Dauer entgegensehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f8a5e9dd78a52abe4f4a10545194d8e1cd2a4c0859c3183c9d32bc90bb2c2cfd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:28:07.409209+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b662a63725bedc1625a0f64c67d30bfd37c913e55f155281036a5c159d530928",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Here the vocation of the poet comes into being; here the mission of the painter descends upon us.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "de15bb1c4d86ee62629a2edd2a9f301e53086c8862e28640f19ac45ec22c12fa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:58:47.580693+00:00"
+}

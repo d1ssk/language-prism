@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f902cbe6c734f5b01ddc21dea5391b7c4f6bfc8d90809ca79106c70b18740712",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "じぶんのてでなにかをつくってみると、ふだんはいしきしないさいぶにまでめがむくようになります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "be1baefed99a6f78c23bf1bb615496ccdcbb58b8fabe588484d2460b853b775e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:07:40.976065+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "70a9fcebc97cf3f46bedea8aa14a3625dc1bcf178e0243a9b32c1e746d7f469a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "es decir, ciertamente ni la doscientas cuarentava parte, quizá ni la cuatro mil ochocientava parte, de lo que ahora pueden producir gracias a una adecuada división y combinación de sus diferentes operaciones.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "195239c109b0bb3e484da115d95404f71c28ef52dd6fb4e984fc6905b99896af",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:50:33.378215+00:00"
+}

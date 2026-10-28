@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bec3f5c84759d617bef660530d0df6932de60785d07b55f97b7cbc72c02cfcd5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "رأيك مفيد، لكنني أود أيضًا النظر في احتمالات أخرى.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cccfe2291a92f010d6187df8ee3aaad91fb038385eb091716a490b2cdf7ec8d8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:29:18.586169+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "04ed0da25e7a11ed77c28ac824c110588d4ecd0b45a42a21daa0a87327cbb93a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "它从巢里掉了下来——风正猛烈地摇着林荫道两旁的白桦树——一动不动地坐着，无助地张开羽毛才刚开始长出的小翅膀。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0a0dea95c20498918beb8cc428215c528c1010da5657f3cedcf66ae8d11a6297",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:13:18.887335+00:00"
+}

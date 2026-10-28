@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b1434ab32988d8f7d09e90b20b9ca25e60fee8005520104151f829a715cf6acd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es ist interessant, eine dicht verwachsene Böschung zu betrachten, bedeckt mit zahlreichen Pflanzen vieler Arten, mit Vögeln, die in den Büschen singen, verschiedenen umherfliegenden Insekten und Würmern, die durch die feuchte Erde kriechen,",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "97d062fd38258fba1728dfe1e92486e78fb593ca000d20db8683e2c821354ee5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:15:05.282862+00:00"
+}

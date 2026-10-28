@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "847f2ce791a19f8619025fbf8243c0771af255e006978f21beab309519fea78c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Люди не всегда действуют рационально; эмоции и привычки тоже сильно влияют на их поведение.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f60014a9f2aecb2de57d5e595c13ff4a88d666e7cd6be94ee941e8c1ab9968a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:22.033196+00:00"
+}

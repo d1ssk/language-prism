@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "18be4d25f0e5b444a4fc285c45bf908e3cff30be62397334ae43ae0f36d58d15",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "استيقظت اليوم مبكرًا قليلًا، ولذلك لدي وقت إضافي هذا الصباح.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "367e304724e47d1782d0c8d3d4d11549c20b3f62ae7ac20001802f715c735b2b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:07.997230+00:00"
+}

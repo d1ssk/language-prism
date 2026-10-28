@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ec27dd27f90999ac4e693a68b3eca974060d13ec8063066eaba5ebc71991dde8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "c’est-à-dire, d’éviter soigneusement la précipitation et la prévention,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d91c13672eca19e3063c0584b9fec985950aea1382773cba676414a64b3cd88f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:20.883027+00:00"
+}

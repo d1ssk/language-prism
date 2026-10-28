@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9bf0b2adc2f546c9c9ca512848025b7cd43c354ed343155c3c39d8f04b01f4cd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В последнее время мне не хватает физической активности, поэтому хочется бегать три раза в неделю.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9e902768967b55f6461a8a1ef7b5eff56e0f20010147697ff7e2e2ce47d8c817",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:35:35.347188+00:00"
+}

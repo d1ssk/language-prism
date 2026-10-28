@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d1ec4cc2b315be21910288d982f94eef7847eafcfc0c049905d2a4fc33769371",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いちまいのあしのようなこぶねのゆくままにまかせ、はてしなくひろがるみなもをわたった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2ffe83f6434b6512f08e081087072a393c660f9b537b6ac08fefcbc0bebbca37",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:05:36.266823+00:00"
+}

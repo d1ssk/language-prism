@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "76793c3e1ec18eb8e95c5817dd3f6bbd6eec962347c8c63deb7fcbcff76b91de",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "얼마 뒤 달이 동쪽 산 위로 떠올라 두수와 우수 사이를 천천히 거닐었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6e3e5926997ad9fbaf567932155906dbe7db7c2394f8b597764d913f950981f0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:04:41.051243+00:00"
+}

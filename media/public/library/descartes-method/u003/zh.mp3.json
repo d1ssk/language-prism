@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ea8d1e40154a65c64e6e2f27a0fbdc2c75feed954762319e560fa4cdcd1ce5e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "并且在我的判断中，只纳入那些清晰而分明地呈现在我心中、使我毫无理由怀疑的东西。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4af74ca0ed8522e52be63f9d1a12570f588b37cfe83e559ca3730d689e9e5ab2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:27:42.836703+00:00"
+}

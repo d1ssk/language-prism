@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2184b94e24ecf8aa6a6602e39a2064a0ed6709a2541d8ee2c07189a45e7bd1ce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Иной считает себя господином других и тем не менее оказывается ещё большим рабом, чем они.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b4dddbc5576925fe364a57082dce06096d6314f70a1afaf9b5bfe9f0f8fdd621",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:52:46.565919+00:00"
+}

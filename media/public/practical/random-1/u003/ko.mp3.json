@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0fd77e8f9114850507da37ae4ec8f55dd28b40bd982771383da85a66ebc1660b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 근처에 조용히 이야기할 수 있는 카페를 아세요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ad2c736b2d9108b874808f9615405c86689a1b9d7fd9b453be1aa5f8a4aed957",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:31.410079+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3828d777442318e6e88ba8c8a0134459e2e88c83613c352dfbf674d6b4d521d7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "가로수 길을 따라 눈길을 돌리자, 부리 둘레가 노랗고 머리에 솜털이 난 어린 참새가 보였다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e9cc6d4d1f5a6af5f2389cfecd22b693bf7493ca070e0a4369ca8964ae087c19",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:11:49.706853+00:00"
+}

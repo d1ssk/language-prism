@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d10e2a2e7bb380716ae130fa244d0de400c73921cc8325d634e079677284d3d8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "바쁜 일상 속에서도 혼자 조용히 생각하는 시간은 소중히 여기고 싶어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab35ed57208dbded052f958a54083f51de2f8d69cb958d6820145d3cf8d60076",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:53:46.326487+00:00"
+}

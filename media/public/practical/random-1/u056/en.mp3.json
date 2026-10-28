@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9f7223a40237f5e715b3eaeece811e9c36077f355903cfae3e3713a7b96a2923",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I regularly back up my important data so that I don't lose it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0d31be16c377a9b88b2fd7f9ee6aa57941a986fce55d3465bf78d874bee32fed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:46:32.405031+00:00"
+}

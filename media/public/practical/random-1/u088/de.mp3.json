@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "89202f93d2e061e9d3a630f8846827dc6254144359e1aaa23d7a471cec8188b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Selbst wenn man dieselbe Bedeutung ausdrückt, kann sich die natürlichste Formulierung von Sprache zu Sprache stark unterscheiden.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "51e8c5b99f8e76220b4ec6135c7794184ce6c1c6b14923527c947e421b2aafb1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:11:50.093424+00:00"
+}

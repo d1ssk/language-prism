@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff5f9e2d8739448931b09381823274b71dc0afc7e18ba7eaffec9204bd0218ed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "虽然他们很穷，因而必要的机器也配备得很不充分，但只要努力工作，合起来一天就能制造大约十二磅的针。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4c33833b39b422ee3dd8d6cc368eae059d131ddc7f5970b1a3367b773d9b07ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:45:35.258985+00:00"
+}

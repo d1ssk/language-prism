@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "880198058a0f0b24e2639454822ce6c14cf226080b87a8ecec033c26488a2e06",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ce week-end, j'aimerais faire une randonnée en montagne et passer du temps au calme dans la nature.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2098e0e59463392203fc864bf1af1ab15855385bc229c295e7f394643e6449b4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:36:45.429457+00:00"
+}

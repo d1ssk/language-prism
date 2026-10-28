@@ -1,0 +1,2953 @@
+{
+  "schemaVersion": 1,
+  "id": "greetings",
+  "slug": "greetings",
+  "type": "practical",
+  "title": {
+    "ja": "挨拶",
+    "en": "Greetings"
+  },
+  "description": {
+    "ja": "時間帯の挨拶、感謝、お詫び、別れ、歓迎、お祝い、食事の挨拶。言語ごとの使い方の違いも扱います。",
+    "en": "Greetings by time of day, thanks, apologies, farewells, welcomes, celebrations and meals, with differences in usage across languages."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて編集した基本表現と使用場面のメモ。",
+    "en": "Basic expressions and usage notes edited with AI for this site."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み・補足：OpenAI。使用場面の参考資料は該当項目に記載。",
+    "en": "Text, readings and notes: OpenAI. Usage references are listed with the relevant items."
+  },
+  "editorialNote": {
+    "ja": "各組は同じ場面で使える表現を比べたもので、直訳や完全な対応を意味しません。同じ使い方の定型表現を載せない言語には、その理由を示しています。音声は未生成です。専門家による校閲は受けていません。",
+    "en": "Each set compares expressions for a situation, not literal or exact equivalents. Where no set expression with the same usage is listed, a reason is shown. Audio has not been generated. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "おはようございます。",
+          "ttsText": "おはようございます。",
+          "vocabulary": [
+            {
+              "term": "おはよう",
+              "meaning": {
+                "ja": "朝に会った相手に使う挨拶。親しい相手にはこれだけでも使えます。",
+                "en": "A greeting when meeting someone in the morning; it can stand alone with someone familiar."
+              }
+            },
+            {
+              "term": "ございます",
+              "meaning": {
+                "ja": "この挨拶を丁寧にする部分。「おはようございます」全体で覚えると使いやすい表現です。",
+                "en": "The part that makes this greeting polite; learning おはようございます as a complete expression is useful."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "おはようございます",
+              "explanation": {
+                "ja": "主語や「朝」という名詞を加えず、この形だけで挨拶が成立します。「ございます」までが丁寧な定型句なので、さらに「です」を付ける必要はありません。",
+                "en": "This expression is a complete greeting without a subject or an added noun meaning 'morning.' ございます is already part of the polite formula, so an extra です is unnecessary."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "先生、職場の人、初対面の相手などにも使える丁寧な形です。親しい友人や家族との「おはよう」と、相手との関係に応じて使い分けます。",
+              "en": "This polite form suits teachers, colleagues and people you are meeting for the first time. Choose between it and familiar おはよう according to your relationship with the listener."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Good morning.",
+          "ttsText": "Good morning.",
+          "vocabulary": [
+            {
+              "term": "good",
+              "meaning": {
+                "ja": "良い。ここでは朝の挨拶を作る形容詞。",
+                "en": "Good; the adjective used to form this morning greeting."
+              }
+            },
+            {
+              "term": "morning",
+              "meaning": {
+                "ja": "朝、午前中。挨拶ではこの語の前に in the を置きません。",
+                "en": "The morning part of the day; this greeting does not put in the before it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Good morning",
+              "explanation": {
+                "ja": "形容詞 good＋名詞 morning からなる定型の挨拶です。主語や動詞がなくても成立し、It is a good morning. のように天候や朝の様子を説明する文とは働きが異なります。",
+                "en": "This fixed greeting consists of adjective good plus noun morning. It works without a subject or verb, unlike a descriptive statement such as It is a good morning."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "親しい相手にも改まった場面にも使えます。返答も Good morning. でよく、会話では Morning! と短くすることもあります。",
+              "en": "It works in both familiar and more formal settings. Good morning is also an appropriate reply; conversational speech may shorten it to Morning!"
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Buenos días.",
+          "ttsText": "Buenos días.",
+          "vocabulary": [
+            {
+              "term": "buenos",
+              "meaning": {
+                "ja": "bueno（良い）の男性複数形。後ろの días に一致します。",
+                "en": "Masculine plural of bueno, 'good,' agreeing with días."
+              }
+            },
+            {
+              "term": "días",
+              "meaning": {
+                "ja": "día（日）の複数形。día は -a で終わりますが男性名詞です。",
+                "en": "Plural of día, 'day'; despite its ending in -a, día is masculine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Buenos días",
+              "explanation": {
+                "ja": "形容詞と名詞を男性複数でそろえた定型の挨拶です。この複数形は聞き手が複数という意味ではなく、一人に対しても同じ形で使います。主語・動詞は必要ありません。",
+                "en": "This fixed greeting uses a masculine plural adjective and noun. The plural does not mean that several people are being addressed: the same form is used to one person. No subject or verb is needed."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "朝の挨拶として広く使われます。地域によって単数の Buen día. も使われるため、それを単に誤りとは扱いません。",
+              "en": "This is a widely used morning greeting. Singular Buen día is also used regionally and should not simply be treated as an error."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "FundéuRAE — buenos días/buen día",
+              "url": "https://www.fundeu.es/consulta/buenos-dias-o-buen-dia-673/"
+            }
+          ]
+        },
+        "fr": {
+          "text": "Bonjour.",
+          "ttsText": "Bonjour.",
+          "vocabulary": [
+            {
+              "term": "bonjour",
+              "meaning": {
+                "ja": "朝から日中、人に会ったときの挨拶。「おはよう」「こんにちは」に当たります。",
+                "en": "A greeting when meeting someone in the morning or daytime, corresponding to 'good morning' or 'hello.'"
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Bonjour",
+              "explanation": {
+                "ja": "一語で使う定型の挨拶で、主語や動詞、冠詞は付けません。綴りの中に bon（良い）と jour（日）が見えますが、挨拶では bonjour と続けて書きます。",
+                "en": "This is a one-word greeting without a subject, verb or article. Although bon ('good') and jour ('day') are recognizable within it, the greeting is written as the single word bonjour."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の「おはよう」と「こんにちは」の両方の場面に使えるため、この教材でも朝と昼に同じ表現を載せています。Bonjour, Madame. のように呼びかけを添えることもできます。",
+              "en": "It covers situations corresponding to both Japanese おはよう and こんにちは, so this material lists it for morning and daytime. A form of address can be added, as in Bonjour, Madame."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Guten Morgen.",
+          "ttsText": "Guten Morgen.",
+          "vocabulary": [
+            {
+              "term": "guten",
+              "meaning": {
+                "ja": "gut（良い）の活用形。この挨拶では語尾が -en になります。",
+                "en": "An inflected form of gut, 'good'; it takes the ending -en in this greeting."
+              }
+            },
+            {
+              "term": "Morgen",
+              "meaning": {
+                "ja": "朝を表す男性名詞。名詞なので頭文字を大文字にします。",
+                "en": "A masculine noun meaning 'morning,' capitalized because it is a noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Guten Morgen",
+              "explanation": {
+                "ja": "朝の挨拶として固定した、男性単数対格の名詞句です。「よい朝をお祈りします」という Ich wünsche dir einen guten Morgen. の目的語と対応する形で、単独の挨拶でも guten を使います。",
+                "en": "This morning greeting is a fixed masculine singular accusative noun phrase. Its form corresponds to the object in Ich wünsche dir einen guten Morgen, 'I wish you a good morning,' and the standalone greeting likewise uses guten."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "相手が一人でも複数でも同じ形です。Morgen は「朝」ですが、小文字の morgen は「明日」という副詞なので、書くときに区別します。",
+              "en": "The same form addresses one person or several. Capitalized Morgen means 'morning'; lowercase morgen is the adverb 'tomorrow,' so the distinction matters in writing."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Доброе утро.",
+          "ttsText": "Доброе утро.",
+          "vocabulary": [
+            {
+              "term": "доброе",
+              "meaning": {
+                "ja": "добрый（良い）の中性単数形。後ろの утро に合わせた形。",
+                "en": "Neuter singular of добрый, 'good,' agreeing with утро."
+              }
+            },
+            {
+              "term": "утро",
+              "meaning": {
+                "ja": "朝を表す中性名詞。",
+                "en": "A neuter noun meaning 'morning.'"
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Доброе утро",
+              "explanation": {
+                "ja": "形容詞を名詞の性・数に一致させた定型の挨拶です。утро が中性単数なので доброе を使い、話し手や聞き手の性別によって形を替えることはありません。",
+                "en": "This fixed greeting makes the adjective agree with the noun in gender and number. Утро is neuter singular, so the adjective is доброе; its form does not change with the speaker's or listener's gender."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "朝に会ったときに使い、返事も Доброе утро. で構いません。「こんばんは」の Добрый вечер. では、名詞 вечер が男性なので形容詞の形も変わります。",
+              "en": "Use it when meeting someone in the morning; Доброе утро is also an appropriate reply. In Добрый вечер, 'good evening,' the masculine noun вечер requires a different adjective form."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "صباح الخير.",
+          "ttsText": "صباح الخير.",
+          "vocabulary": [
+            {
+              "term": "صباح",
+              "meaning": {
+                "ja": "朝。挨拶を構成する最初の名詞。",
+                "en": "Morning; the first noun in the greeting."
+              }
+            },
+            {
+              "term": "الخير",
+              "meaning": {
+                "ja": "善、良いこと。定冠詞 الـ が付いた名詞。",
+                "en": "Goodness or good things; a noun with the definite article الـ."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "صباح الخير",
+              "explanation": {
+                "ja": "名詞を二つつないだイダーファ（属格構文）で、直訳すると「善の朝」。前の صباح には定冠詞を付けず、後ろの الخير は属格となり、読みでは al-khayri です。形容詞で「良い朝」と言う構造とは異なります。",
+                "en": "This is an iḍāfa, a noun-plus-genitive construction, literally 'morning of goodness.' The first noun صباح has no article; the second, الخير, is genitive, read al-khayri. It is not a noun modified by an adjective meaning 'good.'"
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この挨拶自体には相手の性別や人数を示す接尾辞がありません。返答には صباح النور（光の朝）という定型表現も使われます。",
+              "en": "The greeting itself has no suffix marking the listener's gender or number. صباح النور, literally 'morning of light,' is also used as a conventional reply."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ṣabāḥu al-khayri.",
+            "note": {
+              "ja": "Ṣabāḥu al-khayri は連読で ṣabāḥu l-khayri、文末で区切ると ṣabāḥu l-khayr となります。",
+              "en": "In connected speech, Ṣabāḥu al-khayri becomes ṣabāḥu l-khayri; at the end of the greeting it is ṣabāḥu l-khayr."
+            }
+          }
+        },
+        "zh": {
+          "text": "早上好。",
+          "ttsText": "早上好。",
+          "vocabulary": [
+            {
+              "term": "早上",
+              "meaning": {
+                "ja": "朝。ここでは挨拶をする時間帯。",
+                "en": "Morning; the time of day referred to by the greeting."
+              }
+            },
+            {
+              "term": "好",
+              "meaning": {
+                "ja": "良い、よい状態である。挨拶を構成する後半の語。",
+                "en": "Good or well; the second element of the greeting."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "早上好",
+              "explanation": {
+                "ja": "時間帯の 早上 に 好 を続けた定型の挨拶です。英語の Good morning と語の並びが逆になっています。この形で成立するので、間に 是 を入れません。",
+                "en": "This fixed greeting puts the time expression 早上 before 好, reversing the order found in English Good morning. The formula is complete as it stands; 是 is not inserted between the two parts."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "朝に使う挨拶で、返答も 早上好。とできます。親しい会話では 早！という短い挨拶もあります。",
+              "en": "This is a morning greeting, and 早上好 is also a suitable reply. Familiar conversation may use the shorter 早!"
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zǎoshang hǎo."
+          }
+        },
+        "ko": {
+          "text": "안녕하세요.",
+          "ttsText": "안녕하세요.",
+          "vocabulary": [
+            {
+              "term": "안녕하다",
+              "meaning": {
+                "ja": "無事である、安らかである。挨拶のもとになる語。",
+                "en": "To be well or at peace; the word underlying the greeting."
+              }
+            },
+            {
+              "term": "-세요",
+              "meaning": {
+                "ja": "相手への敬意と丁寧さを含む語尾。この文では挨拶の一部として使います。",
+                "en": "An ending combining respect for the person addressed with politeness; here it is part of a greeting."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "안녕하세요",
+              "explanation": {
+                "ja": "안녕하다 に尊敬の -시- と丁寧な語尾が組み合わさった定型表現です。「あなた」に当たる主語を加える必要はなく、この形だけで相手に挨拶できます。",
+                "en": "This fixed expression combines 안녕하다 with honorific -시- and a polite ending. No subject corresponding to 'you' is required; the expression works as a greeting by itself."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "朝・昼・夜に共通して使える丁寧な挨拶です。この例でも時間帯を直訳せず、自然な 안녕하세요 を載せています。普通の挨拶として言うとき、相手に詳しい健康状態の説明を求めているわけではありません。",
+              "en": "This polite greeting works in the morning, daytime and evening, so it is used here without literally translating the time of day. As an ordinary greeting, it does not request a detailed account of the listener's health."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Ministry for Ethnic Communities — Greetings in Korean",
+              "url": "https://www.ethniccommunities.govt.nz/resources/information-and-resources-in-other-languages/greetings-in-different-languages/greetings-in-korean"
+            }
+          ]
+        }
+      },
+      "heading": {
+        "ja": "朝に会ったとき",
+        "en": "Meeting in the morning"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "こんにちは。",
+          "ttsText": "こんにちは。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Hello.",
+          "ttsText": "Hello.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Hola.",
+          "ttsText": "Hola.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bonjour.",
+          "ttsText": "Bonjour.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Bonjour は朝から日中の挨拶に使えます。この2つの場面では同じ表現を載せています。",
+              "en": "Bonjour works as a morning or daytime greeting, so the same expression is listed for both contexts."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Guten Tag.",
+          "ttsText": "Guten Tag.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Здравствуйте.",
+          "ttsText": "Здравствуйте.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "مرحبا.",
+          "ttsText": "مرحبا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Marḥaban.",
+            "note": {
+              "ja": "この挨拶を単独で言うとき、marḥaban は marḥabā と読むことがあります。",
+              "en": "When the greeting stands alone, marḥaban may be read as marḥabā in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "你好。",
+          "ttsText": "你好。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ hǎo.",
+            "note": {
+              "ja": "この挨拶では、発音時に Nǐ hǎo → Ní hǎo となります。",
+              "en": "In this greeting, the spoken form is Nǐ hǎo → Ní hǎo."
+            }
+          }
+        },
+        "ko": {
+          "text": "안녕하세요.",
+          "ttsText": "안녕하세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "朝・昼・夜のいずれにも使える丁寧な挨拶です。この例では時間帯別の直訳を作らず、안녕하세요 を共通して載せています。",
+              "en": "This polite greeting can be used in the morning, daytime or evening. The same 안녕하세요 is used here instead of constructing separate literal translations."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Ministry for Ethnic Communities — Greetings in Korean",
+              "url": "https://www.ethniccommunities.govt.nz/resources/information-and-resources-in-other-languages/greetings-in-different-languages/greetings-in-korean"
+            }
+          ]
+        }
+      },
+      "heading": {
+        "ja": "日中・一般的な挨拶",
+        "en": "A daytime or general greeting"
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "こんばんは。",
+          "ttsText": "こんばんは。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Good evening.",
+          "ttsText": "Good evening.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Buenas noches.",
+          "ttsText": "Buenas noches.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Buenas noches は夜に会ったときにも、寝る前や夜の別れ際にも使います。",
+              "en": "Buenas noches is used both when meeting in the evening and when saying good night."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bonsoir.",
+          "ttsText": "Bonsoir.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Guten Abend.",
+          "ttsText": "Guten Abend.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Добрый вечер.",
+          "ttsText": "Добрый вечер.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "مساء الخير.",
+          "ttsText": "مساء الخير.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Masāʾu al-khayri.",
+            "note": {
+              "ja": "Masāʾu al-khayri は連読で masāʾu l-khayri、文末で区切ると masāʾu l-khayr となります。",
+              "en": "In connected speech, Masāʾu al-khayri becomes masāʾu l-khayri; in pause it ends in l-khayr."
+            }
+          }
+        },
+        "zh": {
+          "text": "晚上好。",
+          "ttsText": "晚上好。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǎnshang hǎo."
+          }
+        },
+        "ko": {
+          "text": "안녕하세요.",
+          "ttsText": "안녕하세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "朝・昼・夜のいずれにも使える丁寧な挨拶です。この例では時間帯別の直訳を作らず、안녕하세요 を共通して載せています。",
+              "en": "This polite greeting can be used in the morning, daytime or evening. The same 안녕하세요 is used here instead of constructing separate literal translations."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Ministry for Ethnic Communities — Greetings in Korean",
+              "url": "https://www.ethniccommunities.govt.nz/resources/information-and-resources-in-other-languages/greetings-in-different-languages/greetings-in-korean"
+            }
+          ]
+        }
+      },
+      "heading": {
+        "ja": "夜に会ったとき",
+        "en": "Meeting in the evening"
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "おやすみなさい。",
+          "ttsText": "おやすみなさい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Good night.",
+          "ttsText": "Good night.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Buenas noches.",
+          "ttsText": "Buenas noches.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bonne nuit.",
+          "ttsText": "Bonne nuit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gute Nacht.",
+          "ttsText": "Gute Nacht.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Спокойной ночи.",
+          "ttsText": "Спокойной ночи.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "تصبح على خير.",
+          "ttsText": "تصبح على خير.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tuṣbiḥu ʿalā khayrin.",
+            "note": {
+              "ja": "男性一人には tuṣbiḥu、女性一人には tuṣbiḥīna を使います。文末の khayrin は休止時 khayr です。",
+              "en": "Use tuṣbiḥu for one man and tuṣbiḥīna for one woman. The final khayrin becomes khayr in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "晚安。",
+          "ttsText": "晚安。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǎn'ān."
+          }
+        },
+        "ko": {
+          "text": "안녕히 주무세요.",
+          "ttsText": "안녕히 주무세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでは相手を敬う 안녕히 주무세요 を選んでいます。親しい相手には 잘 자요、さらにくだけた場面では 잘 자 も使います。",
+              "en": "The respectful 안녕히 주무세요 is used here. With someone close, 잘 자요 or the more informal 잘 자 is also used."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "寝る前に",
+        "en": "Before going to bed"
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "お元気ですか。",
+          "ttsText": "おげんきですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "How are you?",
+          "ttsText": "How are you?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Cómo está?",
+          "ttsText": "¿Cómo está?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Comment allez-vous ?",
+          "ttsText": "Comment allez-vous ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wie geht es Ihnen?",
+          "ttsText": "Wie geht es Ihnen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Как у вас дела?",
+          "ttsText": "Как у вас дела?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كيف حالك؟",
+          "ttsText": "كيف حالك؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kayfa ḥāluka?",
+            "note": {
+              "ja": "ḥāluka は男性一人に、ḥāluki は女性一人に尋ねる形です。文末で区切ると、どちらも ḥāluk となります。",
+              "en": "ḥāluka addresses one man and ḥāluki one woman; either becomes ḥāluk in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "你好吗？",
+          "ttsText": "你好吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "文法的に正しい挨拶ですが、親しい人との会話では「最近怎么样？」のように具体的に近況を尋ねることもあります。",
+              "en": "This is a valid greeting; with someone familiar, 最近怎么样？ is another way to ask how things have been recently."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ hǎo ma?",
+            "note": {
+              "ja": "この挨拶では、発音時に Nǐ hǎo ma → Ní hǎo ma となります。",
+              "en": "In this greeting, the spoken form is Nǐ hǎo ma → Ní hǎo ma."
+            }
+          }
+        },
+        "ko": {
+          "text": "잘 지내세요?",
+          "ttsText": "잘 지내세요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "近況を尋ねる・答える",
+        "en": "Asking how someone is"
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "はい、元気です。ありがとうございます。",
+          "ttsText": "はい、げんきです。ありがとうございます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I'm well, thank you.",
+          "ttsText": "I'm well, thank you.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Estoy bien, gracias.",
+          "ttsText": "Estoy bien, gracias.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je vais bien, merci.",
+          "ttsText": "Je vais bien, merci.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Mir geht es gut, danke.",
+          "ttsText": "Mir geht es gut, danke.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Хорошо, спасибо.",
+          "ttsText": "Хорошо, спасибо.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أنا بخير، شكرا.",
+          "ttsText": "أنا بخير، شكرا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAnā bikhayrin, shukran.",
+            "note": {
+              "ja": "文末の shukran は休止形では shukrā となります。",
+              "en": "The final shukran has the pausal form shukrā."
+            }
+          }
+        },
+        "zh": {
+          "text": "我很好，谢谢。",
+          "ttsText": "我很好，谢谢。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ hěn hǎo, xièxie.",
+            "note": {
+              "ja": "この挨拶では、発音時に Wǒ hěn hǎo → Wó hén hǎo となります。",
+              "en": "In this greeting, the spoken form is Wǒ hěn hǎo → Wó hén hǎo."
+            }
+          }
+        },
+        "ko": {
+          "text": "네, 잘 지내요. 감사합니다.",
+          "ttsText": "네, 잘 지내요. 감사합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "ありがとうございます。",
+          "ttsText": "ありがとうございます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Thank you.",
+          "ttsText": "Thank you.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Gracias.",
+          "ttsText": "Gracias.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Merci.",
+          "ttsText": "Merci.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Danke.",
+          "ttsText": "Danke.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Спасибо.",
+          "ttsText": "Спасибо.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "شكرا.",
+          "ttsText": "شكرا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Shukran.",
+            "note": {
+              "ja": "shukran の休止形は shukrā です。",
+              "en": "The pausal form of shukran is shukrā."
+            }
+          }
+        },
+        "zh": {
+          "text": "谢谢。",
+          "ttsText": "谢谢。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xièxie."
+          }
+        },
+        "ko": {
+          "text": "감사합니다.",
+          "ttsText": "감사합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "感謝する・返す",
+        "en": "Giving and receiving thanks"
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "どういたしまして。",
+          "ttsText": "どういたしまして。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "You're welcome.",
+          "ttsText": "You're welcome.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "De nada.",
+          "ttsText": "De nada.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je vous en prie.",
+          "ttsText": "Je vous en prie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gern geschehen.",
+          "ttsText": "Gern geschehen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Пожалуйста.",
+          "ttsText": "Пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا.",
+          "ttsText": "عفوا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan.",
+            "note": {
+              "ja": "ʿafwan の休止形は ʿafwā です。",
+              "en": "The pausal form of ʿafwan is ʿafwā."
+            }
+          }
+        },
+        "zh": {
+          "text": "不客气。",
+          "ttsText": "不客气。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù kèqi.",
+            "note": {
+              "ja": "この挨拶では、発音時に Bù kèqi → Bú kèqi となります。",
+              "en": "In this greeting, the spoken form is Bù kèqi → Bú kèqi."
+            }
+          }
+        },
+        "ko": {
+          "text": "별말씀을요.",
+          "ttsText": "별말씀을요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "감사합니다 への自然な返答の一つです。아니에요 と控えめに返すこともあります。",
+              "en": "One natural response to 감사합니다; 아니에요 is another modest reply."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "ごめんなさい。",
+          "ttsText": "ごめんなさい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I'm sorry.",
+          "ttsText": "I'm sorry.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Lo siento.",
+          "ttsText": "Lo siento.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je suis désolé.",
+          "ttsText": "Je suis désolé.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "男性の話者なら désolé、女性の話者なら désolée と書きます。発音は同じです。",
+              "en": "A male speaker writes désolé; a female speaker writes désolée. The pronunciation is the same."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Es tut mir leid.",
+          "ttsText": "Es tut mir leid.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините.",
+          "ttsText": "Извините.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "آسف.",
+          "ttsText": "آسف.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾĀsifun.",
+            "note": {
+              "ja": "男性の話者は ʾāsifun、女性の話者は ʾāsifatun。休止形はそれぞれ ʾāsif / ʾāsifah です。",
+              "en": "A male speaker uses ʾāsifun and a female speaker ʾāsifatun; the pausal forms are ʾāsif / ʾāsifah."
+            }
+          }
+        },
+        "zh": {
+          "text": "对不起。",
+          "ttsText": "对不起。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Duìbuqǐ."
+          }
+        },
+        "ko": {
+          "text": "미안해요.",
+          "ttsText": "미안해요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "謝る・謝罪を受ける",
+        "en": "Apologizing and accepting an apology"
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "大丈夫ですよ。",
+          "ttsText": "だいじょうぶですよ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "That's all right.",
+          "ttsText": "That's all right.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No pasa nada.",
+          "ttsText": "No pasa nada.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Ce n'est pas grave.",
+          "ttsText": "Ce n'est pas grave.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Das macht nichts.",
+          "ttsText": "Das macht nichts.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Ничего страшного.",
+          "ttsText": "Ничего страшного.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لا بأس.",
+          "ttsText": "لا بأس.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā baʾsa.",
+            "note": {
+              "ja": "文末で区切ると lā baʾsa → lā baʾs となります。",
+              "en": "In pause, lā baʾsa becomes lā baʾs."
+            }
+          }
+        },
+        "zh": {
+          "text": "没关系。",
+          "ttsText": "没关系。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Méi guānxi."
+          }
+        },
+        "ko": {
+          "text": "괜찮아요.",
+          "ttsText": "괜찮아요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "すみません。",
+          "ttsText": "すみません。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでは謝罪ではなく、人に話しかけたり注意を向けてもらったりする場面です。",
+              "en": "Here this gets someone’s attention rather than apologizing."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Excuse me.",
+          "ttsText": "Excuse me.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Disculpe.",
+          "ttsText": "Disculpe.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Excusez-moi.",
+          "ttsText": "Excusez-moi.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Entschuldigung.",
+          "ttsText": "Entschuldigung.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините.",
+          "ttsText": "Извините.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا.",
+          "ttsText": "عفوا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan.",
+            "note": {
+              "ja": "ʿafwan の休止形は ʿafwā です。",
+              "en": "The pausal form of ʿafwan is ʿafwā."
+            }
+          }
+        },
+        "zh": {
+          "text": "不好意思。",
+          "ttsText": "不好意思。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù hǎoyìsi."
+          }
+        },
+        "ko": {
+          "text": "실례합니다.",
+          "ttsText": "실례합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "声をかけるとき",
+        "en": "Getting someone’s attention"
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "さようなら。",
+          "ttsText": "さようなら。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Goodbye.",
+          "ttsText": "Goodbye.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Adiós.",
+          "ttsText": "Adiós.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Au revoir.",
+          "ttsText": "Au revoir.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Auf Wiedersehen.",
+          "ttsText": "Auf Wiedersehen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "До свидания.",
+          "ttsText": "До свидания.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "مع السلامة.",
+          "ttsText": "مع السلامة.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Maʿa as-salāmati.",
+            "note": {
+              "ja": "Maʿa as-salāmati は連読で maʿa s-salāmati、休止形では maʿa s-salāmah となります。",
+              "en": "Maʿa as-salāmati links as maʿa s-salāmati, or maʿa s-salāmah in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "再见。",
+          "ttsText": "再见。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zàijiàn."
+          }
+        },
+        "ko": {
+          "text": "안녕히 가세요.",
+          "ttsText": "안녕히 가세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "相手が去り、自分がその場に残るときの挨拶です。自分が去り相手が残るときは 안녕히 계세요 と言います。",
+              "en": "Use this when the other person leaves and you stay. If you leave and the other person stays, say 안녕히 계세요."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "別れるとき",
+        "en": "Saying goodbye"
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "また明日。",
+          "ttsText": "またあした。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "See you tomorrow.",
+          "ttsText": "See you tomorrow.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Hasta mañana.",
+          "ttsText": "Hasta mañana.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "À demain.",
+          "ttsText": "À demain.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Bis morgen.",
+          "ttsText": "Bis morgen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "До завтра.",
+          "ttsText": "До завтра.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "إلى الغد.",
+          "ttsText": "إلى الغد.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIlā al-ghadi.",
+            "note": {
+              "ja": "ʾIlā al-ghadi は連読で ʾilā l-ghadi、休止形では ʾilā l-ghad となります。",
+              "en": "ʾIlā al-ghadi links as ʾilā l-ghadi, or ʾilā l-ghad in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "明天见。",
+          "ttsText": "明天见。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Míngtiān jiàn."
+          }
+        },
+        "ko": {
+          "text": "내일 봐요.",
+          "ttsText": "내일 봐요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "また会う約束",
+        "en": "Until next time"
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "お元気で。",
+          "ttsText": "おげんきで。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Take care.",
+          "ttsText": "Take care.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Cuídese.",
+          "ttsText": "Cuídese.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Prenez soin de vous.",
+          "ttsText": "Prenez soin de vous.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Passen Sie auf sich auf.",
+          "ttsText": "Passen Sie auf sich auf.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Берегите себя.",
+          "ttsText": "Берегите себя.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "اعتن بنفسك.",
+          "ttsText": "اعتن بنفسك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Iʿtani binafsika.",
+            "note": {
+              "ja": "男性一人には iʿtani binafsika、女性一人には iʿtanī binafsiki と言います。文末の binafsika の休止形は binafsik です。",
+              "en": "Use iʿtani binafsika for one man and iʿtanī binafsiki for one woman. The final binafsika becomes binafsik in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "保重。",
+          "ttsText": "保重。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bǎozhòng."
+          }
+        },
+        "ko": {
+          "text": "몸조심하세요.",
+          "ttsText": "몸조심하세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "相手の無事を願う",
+        "en": "Wishing someone well"
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "お久しぶりです。",
+          "ttsText": "おひさしぶりです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Long time no see.",
+          "ttsText": "Long time no see.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Cuánto tiempo sin vernos.",
+          "ttsText": "Cuánto tiempo sin vernos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Ça fait longtemps.",
+          "ttsText": "Ça fait longtemps.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Lange nicht gesehen.",
+          "ttsText": "Lange nicht gesehen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Давно не виделись.",
+          "ttsText": "Давно не виделись.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لم نلتق منذ وقت طويل.",
+          "ttsText": "لم نلتق منذ وقت طويل.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lam naltaqi mundhu waqtin ṭawīlin.",
+            "note": {
+              "ja": "文末の ṭawīlin は休止形で ṭawīl となります。",
+              "en": "The final ṭawīlin becomes ṭawīl in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "好久不见。",
+          "ttsText": "好久不见。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hǎojiǔ bù jiàn.",
+            "note": {
+              "ja": "この挨拶では、発音時に Hǎojiǔ bù jiàn → Háojiǔ bú jiàn となります。",
+              "en": "In this greeting, the spoken form is Hǎojiǔ bù jiàn → Háojiǔ bú jiàn."
+            }
+          }
+        },
+        "ko": {
+          "text": "오랜만이에요.",
+          "ttsText": "오랜만이에요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "久しぶりに会う",
+        "en": "Meeting after a long time"
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "ようこそ。",
+          "ttsText": "ようこそ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Welcome.",
+          "ttsText": "Welcome.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Le damos la bienvenida.",
+          "ttsText": "Le damos la bienvenida.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでは迎える側が「私たちはあなたを歓迎します」と言う形です。短く言う場合は相手に合わせて Bienvenido / Bienvenida などを使います。",
+              "en": "Here the welcoming party says “We welcome you.” A shorter greeting uses Bienvenido / Bienvenida, matching the person addressed."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bienvenue.",
+          "ttsText": "Bienvenue.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Herzlich willkommen.",
+          "ttsText": "Herzlich willkommen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Добро пожаловать.",
+          "ttsText": "Добро пожаловать.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أهلا وسهلا.",
+          "ttsText": "أهلا وسهلا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAhlan wa sahlan.",
+            "note": {
+              "ja": "この挨拶の最後を区切ると sahlan → sahlā となります。",
+              "en": "At the end of this greeting, sahlan becomes sahlā in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "欢迎。",
+          "ttsText": "欢迎。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Huānyíng."
+          }
+        },
+        "ko": {
+          "text": "어서 오세요.",
+          "ttsText": "어서 오세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "迎えるとき",
+        "en": "Welcoming someone"
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "お誕生日おめでとうございます。",
+          "ttsText": "おたんじょうびおめでとうございます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Happy birthday.",
+          "ttsText": "Happy birthday.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Feliz cumpleaños.",
+          "ttsText": "Feliz cumpleaños.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Joyeux anniversaire.",
+          "ttsText": "Joyeux anniversaire.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Alles Gute zum Geburtstag.",
+          "ttsText": "Alles Gute zum Geburtstag.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "С днём рождения.",
+          "ttsText": "С днём рождения.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عيد ميلاد سعيد.",
+          "ttsText": "عيد ميلاد سعيد.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿĪdu mīlādin saʿīdun.",
+            "note": {
+              "ja": "文末の saʿīdun は休止形で saʿīd となります。",
+              "en": "The final saʿīdun becomes saʿīd in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "生日快乐。",
+          "ttsText": "生日快乐。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shēngrì kuàilè."
+          }
+        },
+        "ko": {
+          "text": "생일 축하합니다.",
+          "ttsText": "생일 축하합니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "誕生日を祝う",
+        "en": "Birthday wishes"
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "あけましておめでとうございます。",
+          "ttsText": "あけましておめでとうございます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Happy New Year.",
+          "ttsText": "Happy New Year.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Feliz Año Nuevo.",
+          "ttsText": "Feliz Año Nuevo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bonne année.",
+          "ttsText": "Bonne année.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Frohes neues Jahr.",
+          "ttsText": "Frohes neues Jahr.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "С Новым годом.",
+          "ttsText": "С Новым годом.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كل عام وأنتم بخير.",
+          "ttsText": "كل عام وأنتم بخير.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "新年のほか、祝祭日などにも使われる挨拶です。新年だけに限定された表現ではありません。",
+              "en": "This greeting is also used for festivals and other celebrations; it is not exclusive to New Year."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kullu ʿāmin waʾantum bikhayrin.",
+            "note": {
+              "ja": "ʾantum は複数の相手への形です。一人の男性なら ʾanta、女性なら ʾanti にできます。文末の bikhayrin の休止形は bikhayr です。",
+              "en": "ʾantum addresses a group; for one man or woman, ʾanta or ʾanti can be used. The final bikhayrin becomes bikhayr in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "新年快乐。",
+          "ttsText": "新年快乐。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xīnnián kuàilè."
+          }
+        },
+        "ko": {
+          "text": "새해 복 많이 받으세요.",
+          "ttsText": "새해 복 많이 받으세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "新年の挨拶",
+        "en": "New Year greetings"
+      }
+    },
+    {
+      "id": "u019",
+      "heading": {
+        "ja": "食事を始める本人の挨拶",
+        "en": "A greeting said by the person about to eat"
+      },
+      "languages": {
+        "ja": {
+          "text": "いただきます。",
+          "ttsText": "いただきます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "食べ始める本人が言う挨拶です。食事を受け取ることへの感謝を表し、相手に「おいしく食べてください」と勧める言葉とは区別します。",
+              "en": "A greeting said by the person about to eat, expressing gratitude for receiving the meal. It differs from wishing someone else an enjoyable meal."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Japan National Tourism Organization — Mots",
+              "url": "https://www.japan.travel/fr/fr/savoir-vivre-au-japon/mots/"
+            },
+            {
+              "title": "Japan Foundation — Nihongo de Care-Navi: shokuji",
+              "url": "https://eng.nihongodecarenavi.jp/eng/entry_3803.html"
+            }
+          ]
+        },
+        "ko": {
+          "text": "잘 먹겠습니다.",
+          "ttsText": "잘 먹겠습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "食事を用意した人や、ごちそうしてくれる人への感謝を込めた食前の言葉です。日本語の「いただきます」と使う範囲が完全に同じという意味ではありません。",
+              "en": "Said before eating, with gratitude to someone providing or treating you to the meal. Its range of use is not claimed to be identical to Japanese itadakimasu."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "noEquivalent": {
+        "en": {
+          "ja": "食べ始める本人が毎回述べる「いただきます」と同じ使い方の定型句は、ここでは載せていません。Enjoy your meal は相手に食事を楽しんでもらう言葉で、話す人の役割が異なります。",
+          "en": "No formula used by the eater in the same way as itadakimasu is listed here. “Enjoy your meal” is addressed to someone who will eat, so the speaker’s role differs."
+        },
+        "es": {
+          "ja": "Buen provecho は食べる相手への言葉です。ここでは、食べ始める本人が言う「いただきます」の訳としては載せていません。",
+          "en": "Buen provecho wishes someone an enjoyable meal. It is not listed here as a translation of the eater’s own itadakimasu."
+        },
+        "fr": {
+          "ja": "Bon appétit は相手に食事を楽しんでもらう言葉です。食べ始める本人が感謝を表す「いただきます」とは使い方が異なるため、ここでは訳文として載せていません。",
+          "en": "Bon appétit wishes others an enjoyable meal. Its use differs from the eater’s expression of gratitude in itadakimasu, so it is not listed as its translation here."
+        },
+        "de": {
+          "ja": "Guten Appetit は一緒に食べる人などに向けた言葉です。ここでは、食べ始める本人の「いただきます」に一対一で対応する訳としては載せていません。",
+          "en": "Guten Appetit is a wish addressed to others, including fellow diners. It is not listed here as a one-to-one equivalent of the eater’s itadakimasu."
+        },
+        "ru": {
+          "ja": "Приятного аппетита は食べる相手への言葉です。ここでは、食べ始める本人が言う「いただきます」と同じ役割の挨拶としては載せていません。",
+          "en": "Приятного аппетита wishes someone an enjoyable meal. It is not listed here as having the same role as the eater’s own itadakimasu."
+        },
+        "ar": {
+          "ja": "食前の言葉は宗教や家庭の習慣によって異なります。ここでは、それらを日本語の「いただきます」と一対一で対応させず、共通の訳文は載せていません。",
+          "en": "Words before a meal depend on religious and family practices. They are not treated here as one-to-one equivalents of itadakimasu, and no single translation is listed."
+        },
+        "zh": {
+          "ja": "「我开动了」のような直訳的な表現を、日本語と同じ頻度・場面で使う定型挨拶とはみなしていません。家庭や地域の言い方の違いもあるため、ここでは対応する訳文を載せていません。",
+          "en": "A rendering such as 我开动了 is not treated here as a routine greeting with the same range of use as itadakimasu. With family and regional practices also varying, no equivalent is listed here."
+        }
+      }
+    },
+    {
+      "id": "u020",
+      "heading": {
+        "ja": "食事を用意してくれた相手へのお礼",
+        "en": "Thanking someone for the meal"
+      },
+      "languages": {
+        "ja": {
+          "text": "ごちそうさまでした。",
+          "ttsText": "ごちそうさまでした。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Thank you for the meal.",
+          "ttsText": "Thank you for the meal.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Gracias por la comida.",
+          "ttsText": "Gracias por la comida.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Merci pour le repas.",
+          "ttsText": "Merci pour le repas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Vielen Dank für das Essen.",
+          "ttsText": "Vielen Dank für das Essen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Спасибо за угощение.",
+          "ttsText": "Спасибо за угощение.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "شكرا على الطعام.",
+          "ttsText": "شكرا على الطعام.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Shukran ʿalā aṭ-ṭaʿāmi.",
+            "note": {
+              "ja": "ʿalā aṭ-ṭaʿāmi は連読で ʿalā ṭ-ṭaʿāmi、文末で区切ると ʿalā ṭ-ṭaʿām となります。",
+              "en": "ʿAlā aṭ-ṭaʿāmi links as ʿalā ṭ-ṭaʿāmi, or ʿalā ṭ-ṭaʿām in pause."
+            }
+          }
+        },
+        "zh": {
+          "text": "谢谢您的款待。",
+          "ttsText": "谢谢您的款待。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xièxie nín de kuǎndài."
+          }
+        },
+        "ko": {
+          "text": "잘 먹었습니다.",
+          "ttsText": "잘 먹었습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "この組は、ごちそうしてくれた相手にお礼を言う場面です。日本語の「ごちそうさま」を食後に言うすべての場面と一対一に対応するわけではありません。",
+              "en": "This set is specifically for thanking someone who provided the meal. It does not claim a one-to-one equivalent for every use of Japanese gochisōsama after eating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    }
+  ]
+}

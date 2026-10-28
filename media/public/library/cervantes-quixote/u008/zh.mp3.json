@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a90610ff06a2fd8e073b35c3fb8a16c12b0133bcb5162b53dfc47e1e367ef37c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "有人说他姓基哈达，也有人说姓克萨达，记述此事的作者们在这一点上略有分歧；不过，据合理的推测，他似乎叫基哈诺。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "31e76c8c09e2d1714a22a2dd4b2c8d4fbe20e2708be916deec3e3b9797471933",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:31:56.064516+00:00"
+}

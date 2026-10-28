@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "14b717319fd2ce375093a0e3ea16c1ee423b0e2404ef2eeae1d60c3342c1e00f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "모든 생물을 개별적인 창조물이 아니라 실루리아계의 첫 지층이 쌓이기 훨씬 전에 살았던 몇몇 생물의 직계 후손으로 볼 때, 내게는 그들이 더욱 고귀해 보인다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "208d337a41dd201c5fde212d2ce4bd6ec53bd2a5c120245fc2dd6074793565d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:18:41.582846+00:00"
+}

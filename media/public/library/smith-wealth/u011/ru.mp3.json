@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "db187822154f205e137ecf4369b094408b3baa47b9489367015f44c1c2c920d1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Следовательно, эти десять человек могли вместе производить свыше сорока восьми тысяч булавок в день.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2921e61f3b9d1e476e3e1c8ab104c70759440f2ea4261b7f9e2be5a966ae150d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:46:47.292874+00:00"
+}

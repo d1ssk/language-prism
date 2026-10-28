@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1775b6bf579fc420f58692bbf4d62e1820b678032121084adeed796f90bca414",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La vie est ce que je désire, mais il est des choses que je désire plus que la vie ; c'est pourquoi je ne cherche pas à la conserver à tout prix.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "20ed14404dfbebf91d034579155f32ab504a778260de6457e9ffef95d9bfccf3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:03:01.296832+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5cdcb8962a13f724a458cd7b184920418330554b8b30706f56b58eee3f9927b5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Excuse me, about how long does it take to walk to the station from here?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5b694aa132df1a2453547cad7d27de5b6d6df3c98bde9d21ffa53758bc279db3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:16:14.511868+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bfbcc26102bf2f09b561d67a3d3f7e561c64ce1e420e249193358018d20df8a2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Tous ceux qui pratiquent les arts sont dignes d'estime parce qu'ils apportent la sérénité au monde des hommes et enrichissent leur cœur.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbca4c259b9b4cee83e04118fc14cdb43e9b8fd2e255fd92a0a25667a64fa681",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:59:49.013764+00:00"
+}

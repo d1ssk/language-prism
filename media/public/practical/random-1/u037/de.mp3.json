@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "22106339aee2363937130c27990f0652424bdfab4d226bcfe87f82cc6ccb90d2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich möchte so viel wie möglich sprechen, ohne Angst vor Fehlern zu haben.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "34059e0c58686aad0bd8269bb599f9e4fde58c19b3a7b2f88dfbf79ca3e58c18",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:32:47.361719+00:00"
+}

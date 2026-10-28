@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b313137b313b4cd75d29187c12ead9865793680b068b9cfd71ad09c779108e56",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "deshaciendo todo género de agravio, y poniéndose en ocasiones y peligros, donde, acabándolos, cobrase eterno nombre y fama.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "410f0df3d90c35a6f8a98823da0b0b1a1bfc6343f28ae31215016c30e2baf44c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:14:56.549328+00:00"
+}

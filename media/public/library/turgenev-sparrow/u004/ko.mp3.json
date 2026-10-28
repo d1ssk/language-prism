@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3f0af35658666ca767aa49a7ffd15994f8ef5a56c0e6fdf2ff6907ca7e5d45a7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "참새는 둥지에서 떨어진 것이었다. 바람이 가로수 길의 자작나무들을 세차게 흔들고 있었다. 깃털이 겨우 돋기 시작한 작은 날개를 힘없이 벌린 채 꼼짝 않고 앉아 있었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "af6a7cb31c1479d56fdc2f976613a552dcf48131a832f854f6186845d3efa454",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:13:30.002468+00:00"
+}

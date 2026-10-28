@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a78baef252005588bd1d31e2130fe50095e05228373081c378c4b6f7f592f527",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "실례지만 여기서 역까지 걸어서 몇 분 정도 걸리나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "35788f1098ba82a2d3ef1ec356e8c3bdee36c310e29ffa0b175bd5e35ed881d8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:16:40.770658+00:00"
+}

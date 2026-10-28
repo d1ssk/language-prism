@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "26fa58a998440c1a9600e1daebb086d18671df3e4d12746867fe6f8db6b041a5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I'd like a cup of coffee, please. No sugar or milk.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bb001d7eed6948e9521412e4ca31b4869124bc269f9e27525c4c2ceb6af629d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:42.487844+00:00"
+}

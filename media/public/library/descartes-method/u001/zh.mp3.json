@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cf2807fecb365600842960f999e0ab67f9add31d4cb347b6cb7661a33226c1a5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "第一条规则是，除非我清楚地认识到某事确实如此，否则绝不把它当作真实的来接受；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bdc46aae294ef710c99888854043daa8701ebf9cf31ea0cafcd3d2a5dea06bad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:25:57.452058+00:00"
+}

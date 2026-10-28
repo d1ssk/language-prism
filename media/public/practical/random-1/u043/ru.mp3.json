@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0448d2dcae30e5bd29e09fa8313872b7e2a919da1e6044659eb0096c9999ebfd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "На выходных хочется сходить в горы и спокойно провести время на природе.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3402278f637302d78da302b513091718c2426d9d14e0be45bece93e82d1b8eec",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:36:54.861076+00:00"
+}

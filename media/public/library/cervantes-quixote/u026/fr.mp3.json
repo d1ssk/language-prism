@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e18db36a31b39de4eb0edff50663c8bea7b2eef32dd9c7bcc0aba5de95d3449d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et ainsi, à force de peu dormir et de trop lire, son cerveau se dessécha au point qu'il perdit la raison.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "02c500c196284d6dae5fbf3bf0da12f0c2a5c17a03899850e22401463b20674a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:56:31.867336+00:00"
+}

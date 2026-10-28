@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ab3779732f8f8815871cda31e18e84f0945ed2d316532d31ebda2e69a2887da3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si te empeñas en salirte con la tuya, la vida se vuelve estrecha.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c1e3ef1213a07e8638ac58fac0e354648957b8ff1da98da1a18deeb0e7b33e0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:59.960214+00:00"
+}

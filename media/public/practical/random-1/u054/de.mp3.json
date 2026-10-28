@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6848627d28631364602044d436f8605ae9b1f68f4af8f09f63c52bc28aafca0d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Um zu verstehen, wie Computer funktionieren, muss man sich sowohl mit der Hardware als auch mit der Software beschäftigen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "54ff166c8f8f071cab8ab91f57f58aa4ee29d8f1b0ae329f348ef35b2b85382f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:45:06.008626+00:00"
+}

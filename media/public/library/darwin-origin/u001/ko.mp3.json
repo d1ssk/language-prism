@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "694196bcf1f31613a88aa6ba52d1198b5a23dadc23c47b06f5ffb3e926ad777a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여러 종류의 수많은 식물이 뒤엉켜 덮인 둑을 바라보는 것은 흥미롭다. 덤불에서는 새들이 노래하고, 여러 곤충이 날아다니며, 축축한 흙 속에서는 벌레들이 기어 다닌다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dc58b2070a99a8f2a8aae8c7d7ecfc74c0fc6c380124074495c1ba1ce84a580b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:15:50.503030+00:00"
+}

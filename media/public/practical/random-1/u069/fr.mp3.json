@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38d1c6b7fd5d7d34f7adb6515ba3071a8ae6c3da91d5dec565e304a43ace9a57",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Même quand on ne comprend pas parfaitement la langue de l'autre, l'envie de se comprendre peut quand même se transmettre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "602919241770365c532869a5b0123236880142c7d6625984dfdcabb4ae26fca9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:55:44.411600+00:00"
+}

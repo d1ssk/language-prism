@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dcaf3115606d6b8e2226499810738720a4d02cd6faa6a1f2fda7cb2c090fb535",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "내 개가 천천히 다가가자, 갑자기 가까운 나무에서 가슴이 검은 다 자란 참새가 몸을 날려 개의 코앞에 돌처럼 떨어졌다. 깃털을 온통 곤두세우고 모습이 일그러진 채, 절박하고 애처로운 소리를 내며 이빨이 가득한 벌어진 입을 향해 두 번쯤 뛰었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "52326e2de0f270fea7f7b6b89ab88e858324c661043c3cfa3b0c36636fd2933c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:16:18.265346+00:00"
+}

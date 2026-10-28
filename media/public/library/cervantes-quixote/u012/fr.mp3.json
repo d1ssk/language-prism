@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9b9811d397d02487d4e1e6b5af5431fca59042e0def44a5638c825eec5e09621",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et sa curiosité et son égarement allèrent si loin qu'il vendit de nombreuses hanègues de terre à semer pour acheter des romans de chevalerie à lire,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c57db2c60a82a2bf315d911d44502f42d21e03c7be51c8c82fcfec655fe37bbb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:35:49.233095+00:00"
+}

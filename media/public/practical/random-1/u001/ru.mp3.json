@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ceb52048ee866fb0fd80bc60aedb96b4f4995f45f5e3616fb2aec7bf9b27d1d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Сегодня удалось проснуться немного раньше, поэтому утром у меня больше свободного времени.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5e64638ebdf9fd5d31ccb9852dcf958341d4b5cd1c86a92198c5fce332c24b5e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:03.199596+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8e6fee2f6ce8beb8bade2bb2ba6a002821bbdf4b986f7d91bdd332f95c74408a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Well! What do you love, then, extraordinary stranger?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c21e484c73dd76c794e5cb7c3f287c39a66442bb210fc80c66d0e95c4a73529f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:26.528857+00:00"
+}

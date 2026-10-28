@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0ce8eb259796bdff68435549651d72db68b922f5388958d6c42cac97f938f6d2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Chaque personne produisant ainsi le dixième de quarante-huit mille épingles pouvait être considérée comme en fabriquant quatre mille huit cents par jour.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "842208eedd37c1e326a8405f455d943a2f5f3c32cb3ffeb5ebc4764c87293f80",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:47:33.556831+00:00"
+}

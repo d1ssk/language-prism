@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e2d553562e4ca0b7bf769963bee451b9b01d43da4f0fdae40612a6408d78d735",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "que la aparición y la extinción de los habitantes pasados y presentes del mundo se hayan debido a causas secundarias, semejantes a las que determinan el nacimiento y la muerte del individuo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d56a12969e4520bece89cfd3479ffdb26f810c3c513e25339ae85882f78c986a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:14:53.984942+00:00"
+}

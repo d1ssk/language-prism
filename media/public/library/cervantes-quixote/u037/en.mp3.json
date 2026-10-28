@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b1ac6ec4b457fc40323233d09728e33cc651f4864fa419ff379973aa2dc60ef3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "righting every kind of wrong and putting himself into trials and dangers, through overcoming which he would win an everlasting name and fame.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a3403967a4984ad7f5025682b723d3dfdac872982dfe52f636d64cc0a57ddf37",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:14:48.262880+00:00"
+}

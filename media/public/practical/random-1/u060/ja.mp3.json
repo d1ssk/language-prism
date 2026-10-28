@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "52c958d7e4aea0547d404971d5f4756f14a898a17780fda2d35c07c168383700",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "げんきんをもっていないので、でんしけっさいがつかえるとたすかります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d41b821c0a13515e9ae9e4fee9c91af2cae9fe33b52fee51f70bf3508a6d3a89",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:48:52.267157+00:00"
+}

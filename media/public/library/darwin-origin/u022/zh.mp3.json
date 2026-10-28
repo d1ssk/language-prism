@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c5a7c7e5854cc2093f4907522e3f0e2261e4d3afca2884497b7a60ddd80c058b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "而且，由于自然选择只依靠并服务于每个生物自身的利益，一切身体和心智禀赋都将趋向完善。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0c31ea5298c1a56001a1fc0370fca38997ecb83bcb63f84d8b75f410c2c97e7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:30:08.987586+00:00"
+}

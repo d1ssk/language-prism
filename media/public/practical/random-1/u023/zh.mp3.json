@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "63d8982228d715d830a708231212610fac072fbfa3ab1cbf41bccdf8c8686f37",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "今天工作上突然有急事，我们可以改一下计划吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0d4035b23052ea3a7d8341d8dd83d0e4527a675d86b8645da431f36e931567b0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:32.640045+00:00"
+}

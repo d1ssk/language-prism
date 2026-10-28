@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "11dd9b96df61724687fcf11126f89504dffb71f430b2dd3e158a50c0ecc3dc36",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La psicología se asentará sobre un nuevo fundamento: la adquisición necesaria de cada facultad y capacidad mental por grados.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0923293b41c9cc24524343b28102443e1a617f2b7a5ed7e59096235528d5db6f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:10:37.589336+00:00"
+}

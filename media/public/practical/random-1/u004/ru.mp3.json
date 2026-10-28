@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8f49aeee3b77ceea4695e84ff9693e6fc772cfac56d56a0e5b08acd40ea3edfb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Мне, пожалуйста, чашку кофе. Без сахара и молока.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3788f2b609ceddda08f57e3a08ade1e988b6928288ce17a610e0ef9bf3ffd890",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:59.417160+00:00"
+}

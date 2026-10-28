@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0aaa04bd1a19ad729b822a50505d960c583fbae8a15b1769b0efd42eb47e3fb8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "白露横江，水光接天。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82dd8ac992c1ad9eb661a3f81b1a5cf2e5ab544b1e2db5239b26df0c6cb8ef93",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:05:26.446391+00:00"
+}

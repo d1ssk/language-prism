@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "id": "declaration-independence",
+  "slug": "declaration-independence",
+  "type": "library",
+  "title": {
+    "ja": "アメリカ独立宣言",
+    "en": "Declaration of Independence"
+  },
+  "description": {
+    "ja": "人間の権利、統治される者の同意、政府を変える権利についての冒頭部分。",
+    "en": "The opening statement on human rights, consent of the governed and the right to change government."
+  },
+  "originalLanguage": "en",
+  "author": "Second Continental Congress",
+  "bibliography": {
+    "originalTitle": "Declaration of Independence",
+    "originalAuthor": "Second Continental Congress",
+    "title": {
+      "ja": "アメリカ独立宣言",
+      "en": "Declaration of Independence"
+    },
+    "author": {
+      "ja": "第二次大陸会議",
+      "en": "Second Continental Congress"
+    }
+  },
+  "sourceTitle": "National Archives — Declaration of Independence: A Transcription (Stone engraving)",
+  "sourceURL": "https://www.archives.gov/founding-docs/declaration-transcript",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Second Continental Congress。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Second Continental Congress. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。国立公文書館のStone版刻文の転記を採用。原文の大文字表記、綴り、二重ハイフンを保持し、長文を意味の区切りで分割しています。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The text follows the National Archives transcription of the Stone engraving. Capitalization, spelling and double hyphens are retained; the long passage is divided at semantic boundaries."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "冒頭「When in the Course」から「their future security」まで",
+      "en": "From “When in the Course” to “their future security”"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "人間の出来事の成り行きの中で、ある人民がほかの人民と結んできた政治的なつながりを解き、自然の法と自然の神の法によって認められる独立した対等の地位を、地上の諸勢力の間に占める必要が生じることがある。そのとき、人類の意見をしかるべく尊重するならば、分離へと自らを促す理由を明らかにしなければならない。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "にんげんのできごとのなりゆきのなかで、あるじんみんがほかのじんみんとむすんできたせいじてきなつながりをとき、しぜんのほうとしぜんのかみのほうによってみとめられるどくりつしたたいとうのちいを、ちじょうのしょせいりょくのあいだにしめるひつようがしょうじることがある。そのとき、じんるいのいけんをしかるべくそんちょうするならば、ぶんりへとみずからをうながすりゆうをあきらかにしなければならない。"
+        },
+        "en": {
+          "text": "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "one people は「一人」ではなく一つの人民・政治共同体。長い when 節の後に、主節の主語 a decent respect が現れます。",
+              "en": "One people denotes a political community, not one person. The main-clause subject a decent respect follows the long when clause."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
+          },
+          "ttsText": "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+        },
+        "es": {
+          "text": "Cuando, en el curso de los acontecimientos humanos, un pueblo necesita disolver los vínculos políticos que lo han unido a otro y ocupar entre las potencias de la tierra la posición separada e igual a la que le dan derecho las leyes de la naturaleza y del Dios de la naturaleza, el debido respeto a las opiniones de la humanidad exige que exponga las causas que lo impulsan a separarse.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Cuando, en el curso de los acontecimientos humanos, un pueblo necesita disolver los vínculos políticos que lo han unido a otro y ocupar entre las potencias de la tierra la posición separada e igual a la que le dan derecho las leyes de la naturaleza y del Dios de la naturaleza, el debido respeto a las opiniones de la humanidad exige que exponga las causas que lo impulsan a separarse."
+        },
+        "fr": {
+          "text": "Lorsque, dans le cours des événements humains, un peuple doit dissoudre les liens politiques qui l’ont uni à un autre et prendre parmi les puissances de la terre la place distincte et égale que lui accordent les lois de la nature et du Dieu de la nature, le respect dû aux opinions de l’humanité exige qu’il expose les causes qui le poussent à la séparation.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Lorsque, dans le cours des événements humains, un peuple doit dissoudre les liens politiques qui l’ont uni à un autre et prendre parmi les puissances de la terre la place distincte et égale que lui accordent les lois de la nature et du Dieu de la nature, le respect dû aux opinions de l’humanité exige qu’il expose les causes qui le poussent à la séparation."
+        },
+        "de": {
+          "text": "Wenn es im Lauf menschlicher Ereignisse für ein Volk nötig wird, die politischen Bande zu lösen, die es mit einem anderen verbunden haben, und unter den Mächten der Erde die selbstständige und gleiche Stellung einzunehmen, zu der die Gesetze der Natur und ihres Gottes es berechtigen, verlangt angemessene Achtung vor den Meinungen der Menschheit, die Gründe für die Trennung darzulegen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wenn es im Lauf menschlicher Ereignisse für ein Volk nötig wird, die politischen Bande zu lösen, die es mit einem anderen verbunden haben, und unter den Mächten der Erde die selbstständige und gleiche Stellung einzunehmen, zu der die Gesetze der Natur und ihres Gottes es berechtigen, verlangt angemessene Achtung vor den Meinungen der Menschheit, die Gründe für die Trennung darzulegen."
+        },
+        "ru": {
+          "text": "Когда в ходе человеческих событий народу становится необходимо разорвать политические узы, соединявшие его с другим, и занять среди земных держав отдельное и равное положение, на которое дают ему право законы природы и Бога природы, должное уважение к мнению человечества требует объявить причины, побуждающие его к отделению.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Когда в ходе человеческих событий народу становится необходимо разорвать политические узы, соединявшие его с другим, и занять среди земных держав отдельное и равное положение, на которое дают ему право законы природы и Бога природы, должное уважение к мнению человечества требует объявить причины, побуждающие его к отделению."
+        },
+        "ar": {
+          "text": "عِنْدَمَا يَصِيرُ مِنَ الضَّرُورِيِّ فِي مَجْرَى الْأَحْدَاثِ الْبَشَرِيَّةِ أَنْ يَحُلَّ شَعْبٌ الرَّوَابِطَ السِّيَاسِيَّةَ الَّتِي وَصَلَتْهُ بِشَعْبٍ آخَرَ، وَأَنْ يَتَّخِذَ بَيْنَ قُوَى الْأَرْضِ مَكَانَةً مُسْتَقِلَّةً وَمُتَسَاوِيَةً تُخَوِّلُهَا لَهُ قَوَانِينُ الطَّبِيعَةِ وَإِلَهِ الطَّبِيعَةِ، فَإِنَّ الِاحْتِرَامَ الْوَاجِبَ لِآرَاءِ الْبَشَرِيَّةِ يَقْتَضِي أَنْ يُعْلِنَ الْأَسْبَابَ الَّتِي تَدْفَعُهُ إِلَى الِانْفِصَالِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "عِنْدَمَا يَصِيرُ مِنَ الضَّرُورِيِّ فِي مَجْرَى الْأَحْدَاثِ الْبَشَرِيَّةِ أَنْ يَحُلَّ شَعْبٌ الرَّوَابِطَ السِّيَاسِيَّةَ الَّتِي وَصَلَتْهُ بِشَعْبٍ آخَرَ، وَأَنْ يَتَّخِذَ بَيْنَ قُوَى الْأَرْضِ مَكَانَةً مُسْتَقِلَّةً وَمُتَسَاوِيَةً تُخَوِّلُهَا لَهُ قَوَانِينُ الطَّبِيعَةِ وَإِلَهِ الطَّبِيعَةِ، فَإِنَّ الِاحْتِرَامَ الْوَاجِبَ لِآرَاءِ الْبَشَرِيَّةِ يَقْتَضِي أَنْ يُعْلِنَ الْأَسْبَابَ الَّتِي تَدْفَعُهُ إِلَى الِانْفِصَالِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿIndamā yaṣīru mina aḍ-ḍarūriyyi fī majrā al-ʾaḥdāthi al-bashariyyati ʾan yaḥulla shaʿbun ar-rawābiṭa as-siyāsiyyata allatī waṣalathu bi-shaʿbin ʾākhara, wa-ʾan yattakhidha bayna quwā al-ʾarḍi makānatan mustaqillatan wa-mutasāwiyatan tukhawwiluhā lahu qawānīnu aṭ-ṭabīʿati wa-ʾilāhi aṭ-ṭabīʿati, fa-ʾinna al-iḥtirāma al-wājiba li-ʾārāʾi al-bashariyyati yaqtaḍī ʾan yuʿlina al-ʾasbāba allatī tadfaʿuhu ʾilā al-infiṣāli."
+          }
+        },
+        "zh": {
+          "text": "在人类事务的发展过程中，当一个民族必须解除曾把它同另一个民族联系起来的政治纽带，并在世界各强国之间取得自然法和自然之神的法赋予它的独立而平等的地位时，对人类意见应有的尊重，要求它说明促使自己分离的原因。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "在人类事务的发展过程中，当一个民族必须解除曾把它同另一个民族联系起来的政治纽带，并在世界各强国之间取得自然法和自然之神的法赋予它的独立而平等的地位时，对人类意见应有的尊重，要求它说明促使自己分离的原因。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài rénlèi shìwù de fāzhǎn guòchéng zhōng, dāng yī ge mínzú bìxū jiěchú céng bǎ tā tóng lìng yī ge mínzú liánxì qǐlái de zhèngzhì niǔdài, bìng zài shìjiè gè qiángguó zhī jiān qǔdé zìránfǎ hé zìrán zhī shén de fǎ fùyǔ tā de dúlì ér píngděng de dìwèi shí, duì rénlèi yìjiàn yīng yǒu de zūnzhòng, yāoqiú tā shuōmíng cùshǐ zìjǐ fēnlí de yuányīn."
+          }
+        },
+        "ko": {
+          "text": "인간사의 흐름에서 한 인민이 다른 인민과 맺어 온 정치적 유대를 풀고, 자연법과 자연의 신의 법이 부여하는 독립적이고 평등한 지위를 지상의 여러 세력 사이에서 차지해야 할 때가 있다. 그때 인류의 의견에 대한 마땅한 존중은 그들이 분리를 택하게 된 이유를 밝힐 것을 요구한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "인간사의 흐름에서 한 인민이 다른 인민과 맺어 온 정치적 유대를 풀고, 자연법과 자연의 신의 법이 부여하는 독립적이고 평등한 지위를 지상의 여러 세력 사이에서 차지해야 할 때가 있다. 그때 인류의 의견에 대한 마땅한 존중은 그들이 분리를 택하게 된 이유를 밝힐 것을 요구한다."
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "私たちは次の真理を自明と考える。すべての人は平等につくられ、創造主から一定の譲り渡すことのできない権利を与えられており、その中には生命、自由、幸福の追求があるということである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "わたしたちはつぎのしんりをじめいとかんがえる。すべてのひとはびょうどうにつくられ、そうぞうしゅからいっていのゆずりわたすことのできないけんりをあたえられており、そのなかにはせいめい、じゆう、こうふくのついきゅうがあるということである。"
+        },
+        "en": {
+          "text": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "unalienable は譲渡できないという意味。幸福そのものの保証ではなく、幸福を追求する権利を挙げています。",
+              "en": "Unalienable means incapable of being transferred away. The passage names a right to pursue happiness, not a guarantee of happiness."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
+          },
+          "ttsText": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+        },
+        "es": {
+          "text": "Consideramos evidentes estas verdades: que todos los seres humanos son creados iguales, que su Creador los dota de ciertos derechos inalienables y que entre ellos están la vida, la libertad y la búsqueda de la felicidad.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Consideramos evidentes estas verdades: que todos los seres humanos son creados iguales, que su Creador los dota de ciertos derechos inalienables y que entre ellos están la vida, la libertad y la búsqueda de la felicidad."
+        },
+        "fr": {
+          "text": "Nous tenons pour évidentes ces vérités : tous les êtres humains sont créés égaux ; leur Créateur les a dotés de certains droits inaliénables, parmi lesquels la vie, la liberté et la recherche du bonheur.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nous tenons pour évidentes ces vérités : tous les êtres humains sont créés égaux ; leur Créateur les a dotés de certains droits inaliénables, parmi lesquels la vie, la liberté et la recherche du bonheur."
+        },
+        "de": {
+          "text": "Wir halten diese Wahrheiten für selbstverständlich: Alle Menschen sind gleich geschaffen, ihr Schöpfer hat sie mit gewissen unveräußerlichen Rechten ausgestattet, darunter Leben, Freiheit und das Streben nach Glück.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wir halten diese Wahrheiten für selbstverständlich: Alle Menschen sind gleich geschaffen, ihr Schöpfer hat sie mit gewissen unveräußerlichen Rechten ausgestattet, darunter Leben, Freiheit und das Streben nach Glück."
+        },
+        "ru": {
+          "text": "Мы считаем самоочевидными следующие истины: все люди созданы равными, их Создатель наделил их определёнными неотчуждаемыми правами, среди которых жизнь, свобода и стремление к счастью.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Мы считаем самоочевидными следующие истины: все люди созданы равными, их Создатель наделил их определёнными неотчуждаемыми правами, среди которых жизнь, свобода и стремление к счастью."
+        },
+        "ar": {
+          "text": "نَعُدُّ هَذِهِ الْحَقَائِقَ بَدِيهِيَّةً: أَنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ، وَأَنَّ خَالِقَهُمْ مَنَحَهُمْ حُقُوقًا مُعَيَّنَةً لَا يَجُوزُ التَّنَازُلُ عَنْهَا، وَأَنَّ مِنْ بَيْنِهَا الْحَيَاةَ وَالْحُرِّيَّةَ وَالسَّعْيَ إِلَى السَّعَادَةِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "نَعُدُّ هَذِهِ الْحَقَائِقَ بَدِيهِيَّةً: أَنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ، وَأَنَّ خَالِقَهُمْ مَنَحَهُمْ حُقُوقًا مُعَيَّنَةً لَا يَجُوزُ التَّنَازُلُ عَنْهَا، وَأَنَّ مِنْ بَيْنِهَا الْحَيَاةَ وَالْحُرِّيَّةَ وَالسَّعْيَ إِلَى السَّعَادَةِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿuddu hādhihi al-ḥaqāʾiqa badīhiyyatan: ʾanna jamīʿa al-bashari khuliqū mutasāwīna, wa-ʾanna khāliqahum manaḥahum ḥuqūqan muʿayyanatan lā yajūzu at-tanāzulu ʿanhā, wa-ʾanna min baynihā al-ḥayāta wa-al-ḥurriyyata wa-as-saʿya ʾilā as-saʿādati."
+          }
+        },
+        "zh": {
+          "text": "我们认为这些真理不言而喻：人人生而平等，造物主赋予他们某些不可转让的权利，其中包括生命、自由和追求幸福。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "我们认为这些真理不言而喻：人人生而平等，造物主赋予他们某些不可转让的权利，其中包括生命、自由和追求幸福。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen rènwéi zhèxiē zhēnlǐ bù yán ér yù: rénrén shēng ér píngděng, Zàowùzhǔ fùyǔ tāmen mǒuxiē bù kě zhuǎnràng de quánlì, qízhōng bāokuò shēngmìng, zìyóu hé zhuīqiú xìngfú."
+          }
+        },
+        "ko": {
+          "text": "우리는 다음 진리를 자명하다고 여긴다. 모든 사람은 평등하게 창조되었으며, 창조주로부터 양도할 수 없는 일정한 권리를 받았고, 그 가운데에는 생명, 자유, 행복의 추구가 있다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "우리는 다음 진리를 자명하다고 여긴다. 모든 사람은 평등하게 창조되었으며, 창조주로부터 양도할 수 없는 일정한 권리를 받았고, 그 가운데에는 생명, 자유, 행복의 추구가 있다."
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "これらの権利を確保するために、人々の間に政府が設けられ、その正当な権力は統治される者の同意に由来する。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "これらのけんりをかくほするために、ひとびとのあいだにせいふがもうけられ、そのせいとうなけんりょくはとうちされるもののどういにゆらいする。"
+        },
+        "en": {
+          "text": "--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "governed は統治される人々。deriving は政府の権力の由来を説明します。",
+              "en": "The governed are the people subject to government; deriving explains the source of governmental power."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
+          },
+          "ttsText": "--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,"
+        },
+        "es": {
+          "text": "Para garantizar estos derechos se instituyen gobiernos entre los seres humanos, cuyos poderes legítimos proceden del consentimiento de los gobernados.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Para garantizar estos derechos se instituyen gobiernos entre los seres humanos, cuyos poderes legítimos proceden del consentimiento de los gobernados."
+        },
+        "fr": {
+          "text": "Pour garantir ces droits, des gouvernements sont institués parmi les êtres humains ; leurs pouvoirs légitimes viennent du consentement des gouvernés.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pour garantir ces droits, des gouvernements sont institués parmi les êtres humains ; leurs pouvoirs légitimes viennent du consentement des gouvernés."
+        },
+        "de": {
+          "text": "Zur Sicherung dieser Rechte werden unter den Menschen Regierungen eingesetzt, deren rechtmäßige Gewalt aus der Zustimmung der Regierten hervorgeht.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Zur Sicherung dieser Rechte werden unter den Menschen Regierungen eingesetzt, deren rechtmäßige Gewalt aus der Zustimmung der Regierten hervorgeht."
+        },
+        "ru": {
+          "text": "Для обеспечения этих прав люди учреждают правительства, чья законная власть происходит от согласия управляемых.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Для обеспечения этих прав люди учреждают правительства, чья законная власть происходит от согласия управляемых."
+        },
+        "ar": {
+          "text": "وَلِضَمَانِ هَذِهِ الْحُقُوقِ تُنْشَأُ حُكُومَاتٌ بَيْنَ الْبَشَرِ، تَسْتَمِدُّ سُلُطَاتِهَا الْمَشْرُوعَةَ مِنْ رِضَا الْمَحْكُومِينَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَلِضَمَانِ هَذِهِ الْحُقُوقِ تُنْشَأُ حُكُومَاتٌ بَيْنَ الْبَشَرِ، تَسْتَمِدُّ سُلُطَاتِهَا الْمَشْرُوعَةَ مِنْ رِضَا الْمَحْكُومِينَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-li-ḍamāni hādhihi al-ḥuqūqi tunshaʾu ḥukūmātun bayna al-bashari, tastamiddu suluṭātihā al-mashrūʿata min riḍā al-maḥkūmīna."
+          }
+        },
+        "zh": {
+          "text": "为了保障这些权利，人们建立政府，政府的正当权力来自被统治者的同意。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "为了保障这些权利，人们建立政府，政府的正当权力来自被统治者的同意。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wèile bǎozhàng zhèxiē quánlì, rénmen jiànlì zhèngfǔ, zhèngfǔ de zhèngdàng quánlì láizì bèi tǒngzhìzhě de tóngyì."
+          }
+        },
+        "ko": {
+          "text": "이 권리를 보장하기 위해 사람들 사이에 정부가 세워지며, 그 정당한 권력은 통치받는 이들의 동의에서 나온다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이 권리를 보장하기 위해 사람들 사이에 정부가 세워지며, 그 정당한 권력은 통치받는 이들의 동의에서 나온다."
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "いかなる政体であれ、これらの目的を損なうものとなるとき、人民にはそれを変更し、あるいは廃止して、新しい政府を設ける権利がある。その基礎をしかるべき原則の上に据え、その権力を、自らの安全と幸福を最もよく実現できると思われる形に組み立てる権利である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "いかなるせいたいであれ、これらのもくてきをそこなうものとなるとき、じんみんにはそれをへんこうし、あるいははいしして、あたらしいせいふをもうけるけんりがある。そのきそをしかるべきげんそくのうえにすえ、そのけんりょくを、みずからのあんぜんとこうふくをもっともよくじつげんできるとおもわれるかたちにくみたてるけんりである。"
+        },
+        "en": {
+          "text": "--That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
+          },
+          "ttsText": "--That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness."
+        },
+        "es": {
+          "text": "Siempre que una forma de gobierno destruya estos fines, el pueblo tiene derecho a modificarla o abolirla e instituir un nuevo gobierno, asentándolo sobre los principios y organizando sus poderes de la forma que juzgue más adecuada para lograr su seguridad y felicidad.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Siempre que una forma de gobierno destruya estos fines, el pueblo tiene derecho a modificarla o abolirla e instituir un nuevo gobierno, asentándolo sobre los principios y organizando sus poderes de la forma que juzgue más adecuada para lograr su seguridad y felicidad."
+        },
+        "fr": {
+          "text": "Chaque fois qu’une forme de gouvernement détruit ces fins, le peuple a le droit de la modifier ou de l’abolir et d’instituer un nouveau gouvernement, en le fondant sur les principes et en organisant ses pouvoirs de la manière qui lui paraît la plus propre à assurer sa sécurité et son bonheur.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Chaque fois qu’une forme de gouvernement détruit ces fins, le peuple a le droit de la modifier ou de l’abolir et d’instituer un nouveau gouvernement, en le fondant sur les principes et en organisant ses pouvoirs de la manière qui lui paraît la plus propre à assurer sa sécurité et son bonheur."
+        },
+        "de": {
+          "text": "Sobald irgendeine Regierungsform diese Ziele zerstört, hat das Volk das Recht, sie zu ändern oder abzuschaffen und eine neue Regierung einzusetzen, sie auf solche Grundsätze zu gründen und ihre Gewalten so zu ordnen, wie es ihm zur Verwirklichung seiner Sicherheit und seines Glücks am geeignetsten erscheint.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Sobald irgendeine Regierungsform diese Ziele zerstört, hat das Volk das Recht, sie zu ändern oder abzuschaffen und eine neue Regierung einzusetzen, sie auf solche Grundsätze zu gründen und ihre Gewalten so zu ordnen, wie es ihm zur Verwirklichung seiner Sicherheit und seines Glücks am geeignetsten erscheint."
+        },
+        "ru": {
+          "text": "Когда какая-либо форма правления становится губительной для этих целей, народ вправе изменить или упразднить её и учредить новое правительство, положив в его основу такие принципы и устроив его власть так, как сочтёт наиболее подходящим для обеспечения своей безопасности и счастья.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Когда какая-либо форма правления становится губительной для этих целей, народ вправе изменить или упразднить её и учредить новое правительство, положив в его основу такие принципы и устроив его власть так, как сочтёт наиболее подходящим для обеспечения своей безопасности и счастья."
+        },
+        "ar": {
+          "text": "وَكُلَّمَا صَارَ أَيُّ شَكْلٍ مِنَ الْحُكْمِ هَادِمًا لِهَذِهِ الْغَايَاتِ، كَانَ مِنْ حَقِّ الشَّعْبِ تَغْيِيرُهُ أَوْ إِلْغَاؤُهُ وَإِنْشَاءُ حُكُومَةٍ جَدِيدَةٍ، يُقِيمُ أَسَاسَهَا عَلَى مَبَادِئَ وَيُنَظِّمُ سُلُطَاتِهَا بِصُورَةٍ يَرَاهَا أَقْدَرَ عَلَى تَحْقِيقِ أَمْنِهِ وَسَعَادَتِهِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَكُلَّمَا صَارَ أَيُّ شَكْلٍ مِنَ الْحُكْمِ هَادِمًا لِهَذِهِ الْغَايَاتِ، كَانَ مِنْ حَقِّ الشَّعْبِ تَغْيِيرُهُ أَوْ إِلْغَاؤُهُ وَإِنْشَاءُ حُكُومَةٍ جَدِيدَةٍ، يُقِيمُ أَسَاسَهَا عَلَى مَبَادِئَ وَيُنَظِّمُ سُلُطَاتِهَا بِصُورَةٍ يَرَاهَا أَقْدَرَ عَلَى تَحْقِيقِ أَمْنِهِ وَسَعَادَتِهِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-kullamā ṣāra ʾayyu shaklin mina al-ḥukmi hādiman li-hādhihi al-ghāyāti, kāna min ḥaqqi ash-shaʿbi taghyīruhu ʾaw ʾilghāʾuhu wa-ʾinshāʾu ḥukūmatin jadīdatin, yuqīmu ʾasāsahā ʿalā mabādiʾa wa-yunaẓẓimu suluṭātihā bi-ṣūratin yarāhā ʾaqdara ʿalā taḥqīqi ʾamnihi wa-saʿādatihi."
+          }
+        },
+        "zh": {
+          "text": "任何政体一旦破坏这些目的，人民就有权改变或废除它，并建立新的政府，以他们认为最能实现自身安全和幸福的原则为基础，按相应形式组织政府的权力。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "任何政体一旦破坏这些目的，人民就有权改变或废除它，并建立新的政府，以他们认为最能实现自身安全和幸福的原则为基础，按相应形式组织政府的权力。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rènhé zhèngtǐ yīdàn pòhuài zhèxiē mùdì, rénmín jiù yǒu quán gǎibiàn huò fèichú tā, bìng jiànlì xīn de zhèngfǔ, yǐ tāmen rènwéi zuì néng shíxiàn zìshēn ānquán hé xìngfú de yuánzé wéi jīchǔ, àn xiāngyìng xíngshì zǔzhī zhèngfǔ de quánlì."
+          }
+        },
+        "ko": {
+          "text": "어떤 정부 형태든 이 목적을 해치게 되면, 인민은 그것을 바꾸거나 폐지하고 새로운 정부를 세울 권리가 있다. 자신들의 안전과 행복을 가장 잘 실현할 것으로 여기는 원칙에 기초를 두고 그에 맞는 형태로 권력을 조직할 권리이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "어떤 정부 형태든 이 목적을 해치게 되면, 인민은 그것을 바꾸거나 폐지하고 새로운 정부를 세울 권리가 있다. 자신들의 안전과 행복을 가장 잘 실현할 것으로 여기는 원칙에 기초를 두고 그에 맞는 형태로 권력을 조직할 권리이다."
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "確かに慎慮は、長く確立してきた政府を軽微で一時的な理由から変えるべきではないと教える。実際、あらゆる経験が示すとおり、人間は災いに耐えられる間は、慣れ親しんだ政体を廃して自らを正すよりも、耐え忍ぶ傾向にある。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "たしかにしんりょは、ながくかくりつしてきたせいふをけいびでいちじてきなりゆうからかえるべきではないとおしえる。じっさい、あらゆるけいけんがしめすとおり、にんげんはわざわいにたえられるあいだは、なれしたしんだせいたいをはいしてみずからをただすよりも、たえしのぶけいこうにある。"
+        },
+        "en": {
+          "text": "Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "while はここでは「〜している間」。長く続いた政府の変更には慎重であるべきだという留保です。",
+              "en": "While here means for as long as. The sentence qualifies the preceding argument by urging caution about changing established government."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
+          },
+          "ttsText": "Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed."
+        },
+        "es": {
+          "text": "La prudencia dicta, en efecto, que los gobiernos establecidos desde hace mucho no deben cambiarse por causas leves y pasajeras; y toda experiencia muestra que la humanidad está más dispuesta a sufrir, mientras los males sean soportables, que a hacerse justicia aboliendo las formas a las que está acostumbrada.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La prudencia dicta, en efecto, que los gobiernos establecidos desde hace mucho no deben cambiarse por causas leves y pasajeras; y toda experiencia muestra que la humanidad está más dispuesta a sufrir, mientras los males sean soportables, que a hacerse justicia aboliendo las formas a las que está acostumbrada."
+        },
+        "fr": {
+          "text": "La prudence dicte certes de ne pas changer des gouvernements établis depuis longtemps pour des causes légères et passagères ; toute expérience montre ainsi que les humains sont plus enclins à souffrir, tant que les maux sont supportables, qu’à se faire justice en abolissant les formes auxquelles ils sont habitués.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La prudence dicte certes de ne pas changer des gouvernements établis depuis longtemps pour des causes légères et passagères ; toute expérience montre ainsi que les humains sont plus enclins à souffrir, tant que les maux sont supportables, qu’à se faire justice en abolissant les formes auxquelles ils sont habitués."
+        },
+        "de": {
+          "text": "Die Klugheit gebietet zwar, lange bestehende Regierungen nicht aus geringfügigen und vorübergehenden Gründen zu ändern; entsprechend zeigt alle Erfahrung, dass die Menschen eher Leiden ertragen, solange es erträglich ist, als sich durch Abschaffung der gewohnten Formen selbst Recht zu verschaffen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die Klugheit gebietet zwar, lange bestehende Regierungen nicht aus geringfügigen und vorübergehenden Gründen zu ändern; entsprechend zeigt alle Erfahrung, dass die Menschen eher Leiden ertragen, solange es erträglich ist, als sich durch Abschaffung der gewohnten Formen selbst Recht zu verschaffen."
+        },
+        "ru": {
+          "text": "Осмотрительность, конечно, велит не менять давно установившиеся правительства по незначительным и преходящим причинам; весь опыт показывает, что люди скорее склонны терпеть, пока зло терпимо, чем восстанавливать свои права, упраздняя привычные формы.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Осмотрительность, конечно, велит не менять давно установившиеся правительства по незначительным и преходящим причинам; весь опыт показывает, что люди скорее склонны терпеть, пока зло терпимо, чем восстанавливать свои права, упраздняя привычные формы."
+        },
+        "ar": {
+          "text": "إِنَّ التَّعَقُّلَ يَقْضِي بِأَلَّا تُغَيَّرَ الْحُكُومَاتُ الرَّاسِخَةُ مُنْذُ زَمَنٍ طَوِيلٍ لِأَسْبَابٍ تَافِهَةٍ وَعَابِرَةٍ؛ وَتُظْهِرُ التَّجَارِبُ كُلُّهَا أَنَّ الْبَشَرَ أَمْيَلُ إِلَى تَحَمُّلِ الشُّرُورِ مَا دَامَتْ مُحْتَمَلَةً مِنْ إِنْصَافِ أَنْفُسِهِمْ بِإِلْغَاءِ الْأَشْكَالِ الَّتِي اعْتَادُوهَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "إِنَّ التَّعَقُّلَ يَقْضِي بِأَلَّا تُغَيَّرَ الْحُكُومَاتُ الرَّاسِخَةُ مُنْذُ زَمَنٍ طَوِيلٍ لِأَسْبَابٍ تَافِهَةٍ وَعَابِرَةٍ؛ وَتُظْهِرُ التَّجَارِبُ كُلُّهَا أَنَّ الْبَشَرَ أَمْيَلُ إِلَى تَحَمُّلِ الشُّرُورِ مَا دَامَتْ مُحْتَمَلَةً مِنْ إِنْصَافِ أَنْفُسِهِمْ بِإِلْغَاءِ الْأَشْكَالِ الَّتِي اعْتَادُوهَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾInna at-taʿaqqula yaqḍī bi-ʾallā tughayyara al-ḥukūmātu ar-rāsikhatu mundhu zamanin ṭawīlin li-ʾasbābin tāfihatin wa-ʿābiratin; wa-tuẓhiru at-tajāribu kulluhā ʾanna al-bashara ʾamyalu ʾilā taḥammuli ash-shurūri mā dāmat muḥtamalatan min ʾinṣāfi ʾanfusihim bi-ʾilghāʾi al-ʾashkāli allatī iʿtādūhā."
+          }
+        },
+        "zh": {
+          "text": "审慎确实要求，不应因轻微而短暂的原因改变长期建立的政府；一切经验也表明，只要苦难尚可忍受，人们更倾向于忍受，而不是废除已经习惯的政体来纠正自身处境。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "审慎确实要求，不应因轻微而短暂的原因改变长期建立的政府；一切经验也表明，只要苦难尚可忍受，人们更倾向于忍受，而不是废除已经习惯的政体来纠正自身处境。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shěnshèn quèshí yāoqiú, bù yīng yīn qīngwēi ér duǎnzàn de yuányīn gǎibiàn chángqī jiànlì de zhèngfǔ; yīqiè jīngyàn yě biǎomíng, zhǐyào kǔnàn shàng kě rěnshòu, rénmen gèng qīngxiàng yú rěnshòu, ér bù shì fèichú yǐjīng xíguàn de zhèngtǐ lái jiūzhèng zìshēn chǔjìng."
+          }
+        },
+        "ko": {
+          "text": "신중함은 오래 확립된 정부를 사소하고 일시적인 이유로 바꾸지 말라고 가르친다. 모든 경험이 보여 주듯, 사람들은 고통을 참을 수 있는 동안에는 익숙한 정부 형태를 폐지하여 스스로 바로잡기보다 견디는 쪽으로 기운다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "신중함은 오래 확립된 정부를 사소하고 일시적인 이유로 바꾸지 말라고 가르친다. 모든 경험이 보여 주듯, 사람들은 고통을 참을 수 있는 동안에는 익숙한 정부 형태를 폐지하여 스스로 바로잡기보다 견디는 쪽으로 기운다."
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "しかし、長く続く権力の濫用と権利の侵害が、変わらず同じ目的を追い、人民を絶対的な専制のもとに置く意図を示すとき、そのような政府を倒し、将来の安全のために新たな守りを設けることは、人民の権利であり義務である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しかし、ながくつづくけんりょくのらんようとけんりのしんがいが、かわらずおなじもくてきをおい、じんみんをぜったいてきなせんせいのもとにおくいとをしめすとき、そのようなせいふをたおし、しょうらいのあんぜんのためにあらたなまもりをもうけることは、じんみんのけんりでありぎむである。"
+        },
+        "en": {
+          "text": "But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
+          },
+          "ttsText": "But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security."
+        },
+        "es": {
+          "text": "Pero cuando una larga serie de abusos y usurpaciones, persiguiendo invariablemente el mismo objetivo, revela el propósito de someterlos a un despotismo absoluto, es su derecho y su deber derribar ese gobierno y establecer nuevas garantías para su seguridad futura.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pero cuando una larga serie de abusos y usurpaciones, persiguiendo invariablemente el mismo objetivo, revela el propósito de someterlos a un despotismo absoluto, es su derecho y su deber derribar ese gobierno y establecer nuevas garantías para su seguridad futura."
+        },
+        "fr": {
+          "text": "Mais lorsqu’une longue suite d’abus et d’usurpations, poursuivant invariablement le même objet, révèle le dessein de les soumettre à un despotisme absolu, ils ont le droit et le devoir de renverser ce gouvernement et d’établir de nouvelles garanties pour leur sécurité future.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Mais lorsqu’une longue suite d’abus et d’usurpations, poursuivant invariablement le même objet, révèle le dessein de les soumettre à un despotisme absolu, ils ont le droit et le devoir de renverser ce gouvernement et d’établir de nouvelles garanties pour leur sécurité future."
+        },
+        "de": {
+          "text": "Wenn aber eine lange Reihe von Missbräuchen und Übergriffen, die unverändert dasselbe Ziel verfolgt, die Absicht erkennen lässt, sie unter einen absoluten Despotismus zu zwingen, ist es ihr Recht und ihre Pflicht, eine solche Regierung abzuwerfen und neue Sicherungen für ihre künftige Sicherheit zu schaffen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wenn aber eine lange Reihe von Missbräuchen und Übergriffen, die unverändert dasselbe Ziel verfolgt, die Absicht erkennen lässt, sie unter einen absoluten Despotismus zu zwingen, ist es ihr Recht und ihre Pflicht, eine solche Regierung abzuwerfen und neue Sicherungen für ihre künftige Sicherheit zu schaffen."
+        },
+        "ru": {
+          "text": "Но когда длинная череда злоупотреблений и узурпаций, неизменно преследующих одну цель, обнаруживает замысел подчинить их абсолютному деспотизму, их право и обязанность — свергнуть такое правительство и установить новые гарантии своей будущей безопасности.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Но когда длинная череда злоупотреблений и узурпаций, неизменно преследующих одну цель, обнаруживает замысел подчинить их абсолютному деспотизму, их право и обязанность — свергнуть такое правительство и установить новые гарантии своей будущей безопасности."
+        },
+        "ar": {
+          "text": "وَلَكِنْ عِنْدَمَا تَكْشِفُ سِلْسِلَةٌ طَوِيلَةٌ مِنَ التَّجَاوُزَاتِ وَالِاغْتِصَابَاتِ، تَسْعَى بِثَبَاتٍ إِلَى الْهَدَفِ نَفْسِهِ، عَنْ قَصْدٍ لِإِخْضَاعِهِمْ لِاسْتِبْدَادٍ مُطْلَقٍ، فَمِنْ حَقِّهِمْ وَمِنْ وَاجِبِهِمْ أَنْ يُطِيحُوا بِتِلْكَ الْحُكُومَةِ وَيُقِيمُوا ضَمَانَاتٍ جَدِيدَةً لِأَمْنِهِمُ الْمُقْبِلِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَلَكِنْ عِنْدَمَا تَكْشِفُ سِلْسِلَةٌ طَوِيلَةٌ مِنَ التَّجَاوُزَاتِ وَالِاغْتِصَابَاتِ، تَسْعَى بِثَبَاتٍ إِلَى الْهَدَفِ نَفْسِهِ، عَنْ قَصْدٍ لِإِخْضَاعِهِمْ لِاسْتِبْدَادٍ مُطْلَقٍ، فَمِنْ حَقِّهِمْ وَمِنْ وَاجِبِهِمْ أَنْ يُطِيحُوا بِتِلْكَ الْحُكُومَةِ وَيُقِيمُوا ضَمَانَاتٍ جَدِيدَةً لِأَمْنِهِمُ الْمُقْبِلِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-lākin ʿindamā takshifu silsilatun ṭawīlatun mina at-tajāwuzāti wa-al-ightiṣābāti, tasʿā bi-thabātin ʾilā al-hadafi nafsihi, ʿan qaṣdin li-ʾikhḍāʿihim li-istibdādin muṭlaqin, fa-min ḥaqqihim wa-min wājibihim ʾan yuṭīḥū bi-tilka al-ḥukūmati wa-yuqīmū ḍamānātin jadīdatan li-ʾamnihimu al-muqbili."
+          }
+        },
+        "zh": {
+          "text": "但是，当一连串滥权和侵夺始终追求同一目标，表明要把人民置于绝对专制之下时，推翻这样的政府，并为未来的安全设立新的保障，就是人民的权利，也是人民的义务。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "但是，当一连串滥权和侵夺始终追求同一目标，表明要把人民置于绝对专制之下时，推翻这样的政府，并为未来的安全设立新的保障，就是人民的权利，也是人民的义务。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dànshì, dāng yī liánchuàn lànquán hé qīnduó shǐzhōng zhuīqiú tóng yī mùbiāo, biǎomíng yào bǎ rénmín zhì yú juéduì zhuānzhì zhī xià shí, tuīfān zhèyàng de zhèngfǔ, bìng wèi wèilái de ānquán shèlì xīn de bǎozhàng, jiù shì rénmín de quánlì, yě shì rénmín de yìwù."
+          }
+        },
+        "ko": {
+          "text": "그러나 오랜 권력 남용과 권리 침해가 한결같은 목적을 추구하여 인민을 절대적 전제 아래 두려는 의도를 드러낼 때, 그러한 정부를 무너뜨리고 미래의 안전을 위한 새로운 보장을 마련하는 것은 인민의 권리이자 의무이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러나 오랜 권력 남용과 권리 침해가 한결같은 목적을 추구하여 인민을 절대적 전제 아래 두려는 의도를 드러낼 때, 그러한 정부를 무너뜨리고 미래의 안전을 위한 새로운 보장을 마련하는 것은 인민의 권리이자 의무이다."
+        }
+      }
+    }
+  ]
+}

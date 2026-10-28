@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0121bb82cd2c3c39034492ab7824dceac47d0dfd676f13400e92e0a7f03b565e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Всё было очень вкусно. Можно счёт, пожалуйста?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "77bb63e9ee921a6de43ee6802c950a3c162f36616a803c1fe6b36b4a69e2d2c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:59.041139+00:00"
+}

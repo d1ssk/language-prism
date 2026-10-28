@@ -1,0 +1,30 @@
+---
+import type { Translation } from '../lib/schema';
+import { withBase } from '../lib/catalog';
+import { localize } from '../lib/localized';
+import { translate, type UiLocale } from '../i18n';
+interface Props { locale: UiLocale; entry: Translation; code: string; label: string; dir: string; unitId: string; audio?: string; isOriginal?: boolean }
+const { locale, entry, code, label, dir, unitId, audio, isOriginal = false } = Astro.props;
+const t = (key: Parameters<typeof translate>[1], values?: Record<string, string | number>) => translate(locale, key, values);
+const l = (value: Parameters<typeof localize>[0]) => localize(value, locale);
+const method = { original: t('original'), human: t('human'), 'ai-assisted': t('aiAssisted'), provided: t('provided') }[entry.translation.method];
+---
+<section class="language-block" data-language={code} aria-label={label}>
+  <button class="audio-button" hidden disabled={!audio} data-audio={audio ? withBase(audio) : undefined} data-audio-key={`${unitId}/${code}`} data-code={code} data-label={label} aria-label={t(audio ? 'playLabel' : 'missingLabel', { unit: unitId, language: label })} title={audio ? t('playLabel', { unit: unitId, language: label }) : t('audioMissing')}><svg class="play-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M10 8 L16 12 L10 16 Z" fill="currentColor"/></svg></button>
+  <details class="sentence-details">
+    <summary aria-label={`${entry.text} — ${t('explanation')}`}><svg class="disclosure-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg><span class:list={['reading-text', { 'original-text': isOriginal }]} lang={code} dir={dir}>{entry.text}</span></summary>
+    <div class="explanation">
+      {entry.pronunciation && <section class="pronunciation">
+        <h3>{t(entry.pronunciation.system === 'pinyin' ? 'pinyin' : 'arabicRomanization')}</h3>
+        <p class="pronunciation-text" lang={code === 'ar' ? 'ar-Latn' : 'zh-Latn-pinyin'} dir="ltr">{entry.pronunciation.text}</p>
+        {entry.pronunciation.note && <p class="pronunciation-note">{l(entry.pronunciation.note)}</p>}
+      </section>}
+      {entry.vocabulary.length > 0 && <section><h3>{t('vocabulary')}</h3><dl>{entry.vocabulary.map(v => <div><dt lang={code} dir={dir}>{v.term}</dt><dd>{l(v.meaning)}</dd></div>)}</dl></section>}
+      {entry.grammar.length > 0 && <section><h3>{t('grammar')}</h3><dl>{entry.grammar.map(g => <div><dt>{l(g.point)}</dt><dd>{l(g.explanation)}</dd></div>)}</dl></section>}
+      {entry.notes.length > 0 && <section><h3>{t('notes')}</h3>{entry.notes.map(note => <p>{l(note)}</p>)}</section>}
+      {!!entry.references?.length && <section><h3>{t('references')}</h3><ul>{entry.references.map(ref => <li><a href={ref.url} rel="noreferrer">{ref.title}</a></li>)}</ul></section>}
+      <p class="review-label">{method} · {t(entry.translation.reviewStatus === 'reviewed' ? 'reviewed' : 'unreviewed')}{audio && entry.audio?.qualityStatus !== 'reviewed' ? ` · ${t('audioUnreviewed')}` : ''}</p>
+    </div>
+  </details>
+  {audio && <noscript><audio controls preload="none" src={withBase(audio)} aria-label={t('playLabel', { unit: unitId, language: label })}></audio></noscript>}
+</section>

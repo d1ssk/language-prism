@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "908c20d681a0676f562c761b62c5db6d3d02da155c57c7aabf5409d4dfe129ef",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It was, after all, ordinary people, glimpsed in the three houses opposite and the houses on either side.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d2b09faad6ef2d636f0d473a145d9c1ba317994455ab58370f38a24f0d464f20",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:54:12.955671+00:00"
+}

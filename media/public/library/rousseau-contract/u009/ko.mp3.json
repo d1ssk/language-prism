@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f23e29e51a09ca75432294a84895229f058f5a776f4bea0a74020b2b3f5629dd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "문제는 그러한 합의가 무엇인지 알아내는 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82553c4bf871a8952ccd022a683d603c911531a494ef8792772d7f6912b76f76",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:59:12.330568+00:00"
+}

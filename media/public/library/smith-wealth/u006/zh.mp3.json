@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bdb7de97e319be2293d3ade64a3fec1fd3e39b8da383171b718888f32bca90ea",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "制造针头需要两三道独立工序，装上针头是一项专门工作，把针弄白是另一项，甚至把针插进纸里也自成一门手艺；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e3a0b8544f41f9b33ad3713395e6326f1f2cdce7044fbee2248c7b93125b7d87",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:40:53.874004+00:00"
+}

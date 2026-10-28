@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a68a6ba3339bcba7646083cfae3a1dcc167bf2e9f7f7d631909e5e8da42052b6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It rushed to the rescue and shielded its young with its own body… but its whole little body shook with terror, its tiny voice grew wild and hoarse, and it was nearly motionless; it was sacrificing itself!",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "15ad1f9d5b1699d94f5b0d10e4d4c3675b6f67d1a0dc03f854511b4c316de4c9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:16:38.520268+00:00"
+}

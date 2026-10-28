@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4eb528fdaa4cfe648f61edab6f2b5d99eebee11db6d5ebef0a35415ffa2de0b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "나는 이런 종류의 작은 공장을 본 적이 있는데, 거기에는 열 명만 고용되어 있어서 몇몇은 두세 가지 서로 다른 공정을 맡았다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5e4e9bc82d51d9caf875f34b6d3a6a4a356e1e73148fd3d6d39fa3dfff318d3e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:44:17.865229+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c95896b98d45dce45a9f0576ae11e97b27d6618dfd7ef20a192b352257e4ac8e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "他家里有一个四十多岁的女管家，还有一个不到二十岁的侄女或外甥女，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fe2b4be8d3f3e361859bc04eeb3f6cb04315039faafad42c8d9c82168154fb38",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:10:39.414217+00:00"
+}

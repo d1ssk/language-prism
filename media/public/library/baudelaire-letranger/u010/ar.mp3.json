@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3c07e6f20b14249b63d0c7c00ae15ba991e538435705240b617529b05c1f01a0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— أكرهه كما تكره الله.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "87be1254e4e8225a1555b90ebcff632dfc2ef27f33a1ec2b97fcee5e5dc0970e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:15.124473+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "04ca174598c60034d2a054b7bb25ce24d4f9c8a3e55b3f84592827bf2c7de384",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La mort est aussi ce que je déteste, mais il est des choses que je déteste plus que la mort ; c'est pourquoi il est des périls que je n'évite pas.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "770172a82da89aea70a113958dfb72a81677280aa1617dc9b08b12feb6eb9b64",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:04:04.292330+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d82dc2702658a82d4a4c76496c26445d649159544c025ebf2a7ef35d9469062c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如果明天天气好的话，我们开车去海边怎么样？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e91ea991f5cdceb44c38ca30d9321d74e57e61b16aa1d53ac5b717cf325c414b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:42.140770+00:00"
+}

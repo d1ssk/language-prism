@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5fdfa5d26b276b4dd22f513a960867dc82a1458b9afef1c3905661c574ddfa5d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "임술년 가을, 음력 칠월 열엿샛날, 소자는 손님들과 배를 띄워 적벽 아래에서 노닐었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f3eb4ab6e076787cae171903e5da29637e40c3df803d4c1238577995ff2959af",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:01:23.519253+00:00"
+}

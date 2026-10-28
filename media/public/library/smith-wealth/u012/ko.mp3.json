@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b0f73bd81f4415b02ef5f202d857a17eb576e39d2fcb286426b8d75277bc482a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "따라서 각 사람이 사만 팔천 개의 십분의 일을 만든 셈이므로, 한 사람당 하루에 사천팔백 개의 핀을 만든 것으로 볼 수 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2520f68995cbbcaf39d403895868197391071cf61e897b8b9eb5f610ee3d88d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:48:15.496376+00:00"
+}

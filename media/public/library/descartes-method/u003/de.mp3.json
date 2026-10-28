@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6196db2ebbbc088e43b93eb4e6a2b338f42dc0d1731204ff6beb722fb21d22ef",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "und in meine Urteile nur das aufzunehmen, was sich meinem Geist so klar und deutlich zeigte, dass ich keinerlei Anlass hatte, daran zu zweifeln.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "97f56aca34da2d7853559b03a1e9e5b806bf621b377a110e227dc80a4b63cf91",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:27:19.553009+00:00"
+}

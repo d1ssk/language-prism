@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "37998afde43c59e82182677e65352a7c421f63fcf59f933225fbc2b5d2a87c23",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Eines Tages möchte ich diese Sprachen nutzen können, um mich ganz natürlich mit Menschen aus aller Welt zu unterhalten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ff13f31ff97fc5ede5acfab518725727c4477e33b937a4f223f323f17e875f2f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:13:41.344983+00:00"
+}

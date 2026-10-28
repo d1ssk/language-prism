@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "43b7c1d041fb96ef0925538c8429a313264be944810a52617fa4891e5162354f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "쉽게 답이 나오지 않는 문제에 시간을 들여 생각하는 것 자체에 가치가 있다고 생각해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "abbb2eef7bffaec1daad84d86e19693bdd6a00e0980c1b71288a734c1ae953e4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:13.207631+00:00"
+}

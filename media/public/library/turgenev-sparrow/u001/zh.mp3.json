@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "da3c42599defa9404866a8749d30bee45db55e3ab7df246c2c7641ab5abc7f70",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我打猎回来，正沿着花园里的林荫道走。我的狗跑在我前面。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "deadca40247812ba8e3cd5862bee26a217e161caeea91dd5bb8f11495eb71ae1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:09:34.696243+00:00"
+}

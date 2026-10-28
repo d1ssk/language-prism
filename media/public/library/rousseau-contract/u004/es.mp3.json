@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cf27edac8a94d7e24a9610f9a6c4ec60de5afbfbbcb7b96f0c5246ddc493cb64",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si no considerara más que la fuerza y el efecto que de ella se deriva, diría:",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4c68101cefd2892651432b5406e8e81b698ed8f41810abaecf3f90c84445920",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:54:16.882051+00:00"
+}

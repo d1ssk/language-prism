@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8fefda4d6b0bcbd227712bc81f49283cfc2af2af6c8279a75d3891c76fc00d8e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "他对堂贝利亚尼斯造成和承受的伤很不满意，因为他想，不论医治他的高手多么高明，他的脸和全身总该布满伤疤和痕迹；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "70c348c021fe88e615e87ff68f9d66f5444b0e87e87d865730cf3bb6c92c6ecb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:46:16.988793+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "00398ef429d4aa3c3dc5635096c41c49a60d89eabf777af956611c96822d3214",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ひとのよをつくったものはかみでもなければおにでもない。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "36cb5cf194a47ace6c4b953dfc404cbe6c27598b7a7e8904fdaa91c43eae14f9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:53:38.523413+00:00"
+}

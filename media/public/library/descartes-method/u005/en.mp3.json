@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cbb28241ff397cd43ff9b6e2ccee318b015f1067a805e38b9512e6c08cf0fa7e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The third was to guide my thoughts in order, beginning with the simplest objects and those easiest to know,",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0db920b6cb24cc1b155db129e856bf08df1c7582f47c155637441d18df1e747e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:29:07.329051+00:00"
+}

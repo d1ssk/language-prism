@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "579f160cf68f868082b03c4e0d367d2686e44d690c1260c3f10e2ee2482ac874",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die Farben dieses Gemäldes sind zurückhaltend, aber es hinterlässt auf seltsame Weise einen starken Eindruck.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d2b4f8546a32d5b20e07e22582bc44e7c410aca6b3124c599cfb39d05f20586",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:38:58.876507+00:00"
+}

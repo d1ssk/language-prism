@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d14f7e0efd5a31cf2a735d2356e2ffa3a12a570b147beaa8e0809aaa6add05fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这个公园的景色随着季节变化很大，所以来多少次都不会腻。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e9ba5be1ac701c7eaae1667ba56aeb5a5092286968da896466bbe9348e0af624",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:37:52.871342+00:00"
+}

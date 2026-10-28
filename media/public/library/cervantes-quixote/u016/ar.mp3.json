@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bb18efbb5051c8e23c8d040e7dfd61e80a6756f88c81624c32a6588d10270b84",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "«إن علة اللامعقول الذي يلحق بعقلي تضعف عقلي إلى حد يجعل من المعقول أن أشكو جمالك».",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "89787c429b758618874bfd108567901fadfc59fa34f331e0b4772fe37d035fa0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:40:33.014786+00:00"
+}

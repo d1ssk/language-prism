@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4121b5b61c285bc94b16cffca5d1449c74469b4b228d9728457e0b90078f6148",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وكان يثني كثيرا على العملاق مورغانتي، لأنه مع انتمائه إلى جنس العمالقة المتكبرين والفظين جميعا، كان وحده ودودا حسن التربية.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "51d57fa066b26ce0eec7bf64c94e923ddb7b3fbe8af489eaad3f145bfed2a69c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:05:15.721789+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f2e241829e5d6a7042b7565dff622c42ff38d8d64cc375431a90bfd1a0987198",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사랑은 죽음보다, 죽음에 대한 두려움보다 강하다고 나는 생각했다. 오직 그것으로, 오직 사랑으로만 삶은 지탱되고 움직인다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1a4bc3025255d83990eb02af37f46f641e54ac398ae4d7125e7012701ffc0b6e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:23:41.677170+00:00"
+}

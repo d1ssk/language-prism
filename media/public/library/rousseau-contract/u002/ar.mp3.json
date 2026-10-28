@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3c9afb76131b8c3cae0b27156d7eda6b5c38a5c7945e6104b00cd2ca7d193444",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "قد يظن المرء نفسه سيد الآخرين، لكنه مع ذلك أشد عبودية منهم.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "da2771a5fb8ba7b0ac4b744cf3635e55d0e02acce4e17eacc809b35b994b2c0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:52:51.735395+00:00"
+}

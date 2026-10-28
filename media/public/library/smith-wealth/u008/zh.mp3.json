@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a51be8039c8932601015efb0ceddfc41f00cd56c24089d5513901938593ee23d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我见过一家这种小工场，那里只雇了十个人，所以其中有些人要做两三道不同的工序。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "33c074b6752d13276b5cfcbce4a27428cf195d8a036db9c8b08c58322878d8f1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:44:10.654864+00:00"
+}

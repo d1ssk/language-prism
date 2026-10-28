@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "92fd0302d759ff458205d84e62c496523a20c615464775369aee5cf82c993731",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si pudiera tomarme un año entero libre, me encantaría viajar a diferentes lugares del mundo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "22be8e253edb8e57e77bee6be0f8182269b69f77cdb31dc06d71d94137e21d6e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:04:22.285526+00:00"
+}

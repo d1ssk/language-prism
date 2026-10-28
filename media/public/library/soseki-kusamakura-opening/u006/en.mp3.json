@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c711ca2783ce40fb8f9fc0aaaa19f15cb6cd028bb33c1afd82fdd07bed9d4ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "When that difficulty grows, one longs to move somewhere more peaceful.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ae3f99dd2fd71318e494fc9e837bbf54691a40f5fa044198b6ee63475a649cbd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:59.671932+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f09efa10bea9b04238eff8cd1f70357dd1650493819a07dc94f1a6d4c509b916",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しかし、このけんりはしぜんからしょうじるものではない。したがって、それはやくそくごとにもとづいている。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ea65bd50282150a9360c9c94fe1ce54e725029ff56befbbcc7b3f3c18db762ee",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:58:06.537991+00:00"
+}

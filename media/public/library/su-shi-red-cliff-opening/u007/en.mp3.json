@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5aa7daa72d646c026eff5f702c132d7d425aba0b3f5822067002886093f7d324",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In that boundless openness, it was as though we were riding the wind through empty space, not knowing where we would come to rest; buoyant and drifting, as though we had left the world behind to stand alone, transforming into immortals and ascending to their realm.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "344541d3e3af77e8226096d01a64347c57f3edff52b657b84a984b037a588150",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:06:58.687923+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5369df4baa957049091a454c4d2b819cd6bdcd3a91bebf5c85d033243c9e8d1b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "직접 손으로 무언가를 만들어 보면 평소에는 의식하지 않았던 세세한 부분까지 눈에 들어오게 돼요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "90f6e68931b7282998c5b71d33774ed4f159a5a011da4af6074721ac4c75ce93",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:08:29.992016+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ec3d35d9e14008657c80ee319e3aec70ee0c72c37f7fc7c090a94680002fb7d3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "“So long as a people is compelled to obey and does obey, it does well; as soon as it can throw off the yoke and does so, it does better still;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "85077ecaac4bdb46a17a80e5fe72c54630fd5969a4f43b72089fac25e007e0a6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:54:57.963216+00:00"
+}

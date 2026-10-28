@@ -1,0 +1,4481 @@
+{
+  "schemaVersion": 1,
+  "slug": "soseki-kusamakura-opening",
+  "type": "library",
+  "sourceURL": "https://www.aozora.gr.jp/cards/000148/files/776_14941.html",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。原文の著者と収録元を明記しています。",
+    "en": "The original work is in the public domain. Its author and the transcription source are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：夏目漱石 / Natsume Sōseki。収録元：青空文庫 — 草枕（図書カード No.776）。他言語訳・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: 夏目漱石 / Natsume Sōseki. Source: 青空文庫 — 草枕（図書カード No.776）. New translations and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文は出典に従い、学習・再生のため意味単位に分けています。他言語訳は本サイト用の新しい訳で、既存の翻訳版から転載したものではありません。解説・読み・音声を含め専門家による校閲は行っていません。",
+    "en": "The original follows the cited source and is divided into units for study and playback. Other-language versions are new translations for this site, not copies of published translations. Translations, explanations, readings and audio have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "id": "soseki-kusamakura-opening",
+  "title": {
+    "ja": "夏目漱石『草枕』— 冒頭",
+    "en": "Natsume Sōseki — Kusamakura: Opening"
+  },
+  "description": {
+    "ja": "世の住みにくさから芸術の使命へと考えが進む、第一章の冒頭。",
+    "en": "The opening of chapter one, moving from the difficulty of human life to the calling of the arts."
+  },
+  "originalLanguage": "ja",
+  "author": "夏目漱石 / Natsume Sōseki",
+  "sourceTitle": "青空文庫 — 草枕（図書カード No.776）",
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第一章の冒頭5段落。「山路を登りながら」から「人の心を豊かにするが故に尊とい。」まで。",
+      "en": "The first five paragraphs of chapter one, from 山路を登りながら to 人の心を豊かにするが故に尊とい。"
+    }
+  },
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "山路を登りながら、こう考えた。",
+          "ttsText": "やまみちをのぼりながら、こうかんがえた。",
+          "vocabulary": [
+            {
+              "term": "山路",
+              "meaning": {
+                "ja": "山の中の道。出典のルビは「やまみち」です。",
+                "en": "A path in the mountains; the source gives the reading yamamichi."
+              }
+            },
+            {
+              "term": "登る",
+              "meaning": {
+                "ja": "低い所から高い所へ進む。ここでは山路を上がっていく動作。",
+                "en": "To ascend from a lower to a higher place; here, to climb along the mountain path."
+              }
+            },
+            {
+              "term": "こう",
+              "meaning": {
+                "ja": "このように。ここでは後に続く思考の内容を予告します。",
+                "en": "In this way; here it points forward to the thoughts that follow."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "山路を登りながら",
+              "explanation": {
+                "ja": "「を」は登る経路を示します。「登る」の連用形「登り」＋「ながら」で、山路を登る動作と思考が同時に進むことを表します。この文では同じ人物が両方を行います。",
+                "en": "を marks the route being climbed. The stem 登り of 登る plus ながら presents climbing and thinking as simultaneous actions carried out by the same person."
+              }
+            },
+            {
+              "point": "こう考えた",
+              "explanation": {
+                "ja": "「考えた」は「考える」の過去形。主語は省略されていますが、語り手自身の行為として読めます。「こう」の具体的な内容は、次の「智に働けば角が立つ」から示されます。",
+                "en": "考えた is the past form of 考える. The subject is omitted but is understood as the narrator. The content anticipated by こう begins in the next unit, 智に働けば角が立つ."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "冒頭はまず山路を登る場面を置き、続いて語り手の思考へ移ります。この一文を、後続の考察への導入として読むと「こう」の働きが明確になります。",
+              "en": "The opening first sets the scene of climbing a mountain path, then moves into the narrator's reflections. Reading this sentence as an introduction to those reflections clarifies the role of こう."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "As I climbed the mountain path, I thought as follows.",
+          "ttsText": "As I climbed the mountain path, I thought as follows.",
+          "vocabulary": [
+            {
+              "term": "climbed",
+              "meaning": {
+                "ja": "climb（登る）の過去形。ここでは道を歩いて上がること。",
+                "en": "Past of climb; here, to walk upward along a path."
+              }
+            },
+            {
+              "term": "mountain path",
+              "meaning": {
+                "ja": "山道。mountain が名詞 path の種類を説明します。",
+                "en": "A path in the mountains; mountain modifies the noun path."
+              }
+            },
+            {
+              "term": "as follows",
+              "meaning": {
+                "ja": "次のように。この後に示す内容を導く定型表現。",
+                "en": "In the following way; a fixed expression introducing what comes next."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "As I climbed the mountain path",
+              "explanation": {
+                "ja": "ここでの as は時を表す接続詞で「登っているときに」。先頭の節を背景として、主節の思考と同時に進む動作を示します。原因を表す「〜なので」という読みではありません。",
+                "en": "As is a temporal conjunction here, meaning 'while.' The opening clause provides an action taking place alongside the thought in the main clause; as is not causal in this sentence."
+              }
+            },
+            {
+              "point": "I thought as follows",
+              "explanation": {
+                "ja": "thought は think の不規則な過去形です。as follows は定型なので、主語 I に合わせて as follow とはしません。次の文以降に思考の内容が示されます。",
+                "en": "Thought is the irregular past of think. As follows is fixed and does not become as follow to agree with I. The content of the thought appears in the following sentences."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "原文で省略されている主語を I として明示しています。as follows は、この後にまとまった思考の内容を示す、やや書き言葉的な導入です。",
+              "en": "The translation explicitly supplies I where the Japanese omits the subject. As follows is a somewhat formal written introduction to the extended reflections that come next."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Mientras subía por el sendero de la montaña, pensé lo siguiente.",
+          "ttsText": "Mientras subía por el sendero de la montaña, pensé lo siguiente.",
+          "vocabulary": [
+            {
+              "term": "subía",
+              "meaning": {
+                "ja": "subir（上る）の線過去。この文では語り手が上っている途中の動作。",
+                "en": "Imperfect of subir, 'to ascend'; here it describes the narrator's climb in progress."
+              }
+            },
+            {
+              "term": "sendero",
+              "meaning": {
+                "ja": "徒歩で通る小道、山道。de la montaña が山の道だと説明します。",
+                "en": "A footpath or trail; de la montaña specifies a mountain setting."
+              }
+            },
+            {
+              "term": "lo siguiente",
+              "meaning": {
+                "ja": "次に述べること。思考の内容を先に予告する表現。",
+                "en": "What follows; an expression anticipating the content of the thought."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Mientras subía por el sendero",
+              "explanation": {
+                "ja": "mientras は「〜している間に」。線過去 subía が継続中の背景を示し、主節の点過去 pensé が思考を一つの出来事として提示します。por は通っている経路を示します。",
+                "en": "Mientras means 'while.' Imperfect subía supplies the ongoing background, while preterite pensé presents the thought as an event. Por marks the route being followed."
+              }
+            },
+            {
+              "point": "pensé lo siguiente",
+              "explanation": {
+                "ja": "pensé は pensar の一人称単数点過去で、主語 yo は省略されています。中性の lo が siguiente を名詞のように働かせ、まとまり全体が pensé の目的語になります。",
+                "en": "Pensé is first-person singular preterite of pensar, with yo omitted. Neuter lo makes siguiente function nominally, and the entire phrase is the object of pensé."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "subía だけでは一人称にも三人称にもなりますが、後半の pensé と文脈から語り手の動作と分かります。lo siguiente は、次に続く一連の考察を指しています。",
+              "en": "Subía alone could be first or third person, but pensé and the context identify the climber as the narrator. Lo siguiente points forward to the series of reflections that follows."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "En montant le sentier de montagne, je pensai ceci.",
+          "ttsText": "En montant le sentier de montagne, je pensai ceci.",
+          "vocabulary": [
+            {
+              "term": "montant",
+              "meaning": {
+                "ja": "monter（上る）の現在分詞。en とともに動作の背景を示します。",
+                "en": "Present participle of monter, 'to ascend'; with en, it supplies the background action."
+              }
+            },
+            {
+              "term": "sentier de montagne",
+              "meaning": {
+                "ja": "山の小道。de montagne が道の種類を説明します。",
+                "en": "A mountain trail; de montagne describes the type of path."
+              }
+            },
+            {
+              "term": "ceci",
+              "meaning": {
+                "ja": "このこと。ここでは後に続く思考の内容を指します。",
+                "en": "This; here it anticipates the content of the thought that follows."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "En montant le sentier de montagne",
+              "explanation": {
+                "ja": "en＋現在分詞のジェロンディフで、「山道を上りながら」という同時の動作を示します。上る人は主節の主語 je と同じです。現在分詞という名称でも、動作の時は主節と結び付いて過去になります。",
+                "en": "En plus a present participle forms a gerund expressing the simultaneous action 'while climbing the mountain trail.' Its subject is the main-clause je. Despite the name 'present participle,' its time is understood relative to the past main clause."
+              }
+            },
+            {
+              "point": "je pensai ceci",
+              "explanation": {
+                "ja": "pensai は penser の一人称単数・単純過去。物語の出来事を述べる書き言葉の形です。ceci はその目的語で、まだ述べていない思考の内容を指します。",
+                "en": "Pensai is the first-person singular passé simple of penser, a written narrative past form. Ceci is its object and points to the thoughts about to be presented."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日常会話では単純過去 pensai より複合過去 j'ai pensé を使うのが普通です。この訳は小説の語りに合わせた文体を選んでいます。",
+              "en": "Ordinary conversation normally uses the passé composé j'ai pensé rather than pensai. This translation chooses a register suited to literary narration."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          },
+          "references": [
+            {
+              "title": "Lawless French — Present Participle / Gerund",
+              "url": "https://www.lawlessfrench.com/grammar/present-participle/"
+            },
+            {
+              "title": "Dictionnaire de l’Académie française — penser: conjugaison",
+              "url": "https://www.dictionnaire-academie.fr/conjuguer/A9P1375"
+            }
+          ]
+        },
+        "de": {
+          "text": "Während ich den Bergpfad hinaufstieg, dachte ich Folgendes.",
+          "ttsText": "Während ich den Bergpfad hinaufstieg, dachte ich Folgendes.",
+          "vocabulary": [
+            {
+              "term": "Bergpfad",
+              "meaning": {
+                "ja": "山道。Berg（山）と Pfad（小道）からなる男性名詞。",
+                "en": "Mountain path; a masculine compound of Berg, 'mountain,' and Pfad, 'path.'"
+              }
+            },
+            {
+              "term": "hinaufstieg",
+              "meaning": {
+                "ja": "hinaufsteigen（上っていく）の過去形。",
+                "en": "Past tense of hinaufsteigen, 'to climb upward.'"
+              }
+            },
+            {
+              "term": "Folgendes",
+              "meaning": {
+                "ja": "次のこと。形容詞に由来する名詞化された語で、大文字で書きます。",
+                "en": "The following; a nominalized adjective, therefore written with a capital letter."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Während ich den Bergpfad hinaufstieg",
+              "explanation": {
+                "ja": "während は「〜している間に」という従属節を導き、定動詞 hinaufstieg は節末に来ます。分離動詞の前つづり hinauf- もここでは動詞と一語になります。den Bergpfad は上る経路を示す対格です。",
+                "en": "Während introduces a subordinate clause meaning 'while,' placing finite hinaufstieg at its end. The separable prefix hinauf- stays attached in this position. Accusative den Bergpfad marks the path being climbed."
+              }
+            },
+            {
+              "point": "…, dachte ich Folgendes",
+              "explanation": {
+                "ja": "先頭の従属節全体が主文の第1位置を占めるため、その後は定動詞 dachte、主語 ich の順です。dachte は denken の過去形。中性単数対格の Folgendes が考えた内容を表します。",
+                "en": "The initial subordinate clause occupies the first position of the main clause, so finite dachte comes next, before subject ich. Dachte is the past of denken. Neuter singular accusative Folgendes expresses the content of the thought."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Folgendes は後続の考察を予告します。二つの動詞を過去形にして、山道を登る場面と思考を物語の中の出来事として描いています。",
+              "en": "Folgendes anticipates the reflections that follow. Both verbs use the narrative past to present the climb and the thought as events in the story."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Поднимаясь по горной тропе, я думал вот о чём.",
+          "ttsText": "Поднимаясь по горной тропе, я думал вот о чём.",
+          "vocabulary": [
+            {
+              "term": "поднимаясь",
+              "meaning": {
+                "ja": "подниматься（上る）の副動詞形。「上りながら」。",
+                "en": "Adverbial participle of подниматься, 'to ascend': 'while climbing.'"
+              }
+            },
+            {
+              "term": "горная тропа",
+              "meaning": {
+                "ja": "山の小道。本文では по に続いて горной тропе となっています。",
+                "en": "A mountain trail; after по, the phrase appears as горной тропе."
+              }
+            },
+            {
+              "term": "думал",
+              "meaning": {
+                "ja": "думать（考える）の過去・男性単数形。",
+                "en": "Masculine singular past of думать, 'to think.'"
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Поднимаясь по горной тропе",
+              "explanation": {
+                "ja": "不完了体の副動詞 поднимаясь は、主節の主語 я が思考と同時に行う動作を表します。経路を示す по はここで与格を取り、女性名詞と形容詞が горной тропе になります。",
+                "en": "The imperfective adverbial participle поднимаясь expresses an action simultaneous with the thought and carried out by the same subject, я. По marks the route and takes the dative here, giving feminine горной тропе."
+              }
+            },
+            {
+              "point": "я думал вот о чём",
+              "explanation": {
+                "ja": "думать о＋前置格で「〜について考える」。что は о の後で чём になります。вот о чём は、これから述べる考えの内容へ読者の注意を向ける形です。",
+                "en": "Думать о plus the prepositional case means 'think about.' Что becomes чём after о. Вот о чём directs the reader's attention to the content about to follow."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "думал は男性の語り手に対応する形です。また不完了体を使うため、山道を登りながら思考が続いている場面として読めます。",
+              "en": "Думал corresponds to a male narrator. Its imperfective aspect also presents the thinking as an ongoing activity during the climb."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "بينما كنت أصعد الدرب الجبلي، فكرت على هذا النحو.",
+          "ttsText": "بينما كنت أصعد الدرب الجبلي، فكرت على هذا النحو.",
+          "vocabulary": [
+            {
+              "term": "أصعد",
+              "meaning": {
+                "ja": "صعد（上る）の一人称単数未完了形。ここでは「私は上る」。",
+                "en": "First-person singular imperfect of صعد, 'to ascend': 'I climb.'"
+              }
+            },
+            {
+              "term": "الدرب الجبلي",
+              "meaning": {
+                "ja": "山の小道。جبلي は「山の、山地の」という形容詞。",
+                "en": "The mountain trail; جبلي is an adjective meaning 'mountain' or 'mountainous.'"
+              }
+            },
+            {
+              "term": "على هذا النحو",
+              "meaning": {
+                "ja": "このように、この仕方で。ここでは後続する思考の内容を導きます。",
+                "en": "In this manner; here it introduces the thoughts that follow."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "بينما كنت أصعد الدرب الجبلي",
+              "explanation": {
+                "ja": "بينما は「〜している間に」。過去の كنت と未完了形 أصعد を組み合わせ、過去に続いていた登る動作を表します。الدرب は経路を示す目的語で、形容詞 الجبلي も男性単数・定・対格で一致します。",
+                "en": "بينما means 'while.' Past كنت combines with imperfect أصعد to express climbing in progress in the past. الدرب is the path as object, and الجبلي agrees as masculine singular, definite and accusative."
+              }
+            },
+            {
+              "point": "فكرت على هذا النحو",
+              "explanation": {
+                "ja": "فكرت は فكّر（考える）の過去形で、読み fakkartu の -tu が「私」を表します。على の後の النحو は属格。هذا が「この」と指し、後に述べる考察へつなぎます。",
+                "en": "فكرت is the past of فكّر, 'to think'; -tu in fakkartu marks 'I.' النحو is genitive after على. هذا means 'this,' linking the expression to the reflections about to follow."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "独立した「私」の代名詞 أنا はありませんが、كنت・أصعد・فكرت の読みから一人称だと分かります。この一人称の動詞形は、話者の性別によって変わりません。",
+              "en": "There is no independent pronoun أنا, 'I,' but the readings of كنت, أصعد and فكرت identify the first person. These first-person verb forms do not change with the speaker's gender."
+            }
+          ],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "baynamā kuntu ʾaṣʿadu ad-darba al-jabaliyya, fakkartu ʿalā hādhā an-naḥwi.",
+            "note": {
+              "ja": "الدرب の冠詞は d に同化して ad-darba、النحو では n に同化して an-naḥwi となります。最後で休止すると an-naḥw と読みます。",
+              "en": "The article assimilates to d in الدرب, giving ad-darba, and to n in النحو, giving an-naḥwi. At the final pause, the latter is read an-naḥw."
+            }
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "沿着山路往上走时，我这样想道。",
+          "ttsText": "沿着山路往上走时，我这样想道。",
+          "vocabulary": [
+            {
+              "term": "沿着",
+              "meaning": {
+                "ja": "〜に沿って。ここでは歩く経路を示します。",
+                "en": "Along; here it introduces the route of the walk."
+              }
+            },
+            {
+              "term": "往上走",
+              "meaning": {
+                "ja": "上へ歩いていく。往上 が進む方向を表します。",
+                "en": "To walk upward; 往上 specifies the direction of movement."
+              }
+            },
+            {
+              "term": "这样想道",
+              "meaning": {
+                "ja": "このように思った。想道 は思考内容を導く、物語で使われる表現。",
+                "en": "To think as follows; 想道 introduces the content of a thought in narration."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "沿着山路往上走时",
+              "explanation": {
+                "ja": "「山路に沿って上へ歩く」という動詞句の後に 时 を置き、主節の思考が起こる時を示します。登る人は後半の 我 と同じと理解されます。",
+                "en": "时 follows the phrase 'walk upward along the mountain path' to indicate when the thought occurs. The person walking is understood to be the same 我 as in the main clause."
+              }
+            },
+            {
+              "point": "我这样想道",
+              "explanation": {
+                "ja": "我 が主語、这样 が「このように」と思考の内容を予告します。想道 の形自体は過去に活用しておらず、出来事の時は物語の文脈から理解します。",
+                "en": "我 is the subject, and 这样 means 'in this way,' anticipating the thought's content. 想道 does not inflect for past tense; the time of the event is understood from the narrative context."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "想道 の 道 は「道、道路」という意味ではなく、思考の言葉を導く表現の一部です。こうした書き言葉の導入によって、次の文から語り手の考察に移ります。",
+              "en": "道 in 想道 does not mean 'road'; it forms part of an expression introducing the words of a thought. This written narrative introduction leads into the narrator's reflections in the next sentence."
+            }
+          ],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yánzhe shānlù wǎng shàng zǒu shí, wǒ zhèyàng xiǎngdào."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "산길을 오르며 이렇게 생각했다.",
+          "ttsText": "산길을 오르며 이렇게 생각했다.",
+          "vocabulary": [
+            {
+              "term": "산길",
+              "meaning": {
+                "ja": "山道。산（山）と 길（道）を組み合わせた語。",
+                "en": "A mountain path, combining 산, 'mountain,' and 길, 'road/path.'"
+              }
+            },
+            {
+              "term": "오르다",
+              "meaning": {
+                "ja": "上る、高い所へ進む。文中では 오르며。",
+                "en": "To ascend or move upward; it appears as 오르며 here."
+              }
+            },
+            {
+              "term": "이렇게",
+              "meaning": {
+                "ja": "このように。後に続く思考の内容を指します。",
+                "en": "In this way; it points forward to the content of the thought."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "산길을 오르며",
+              "explanation": {
+                "ja": "산길 に目的格助詞 을 を付けて上る経路を示します。오르다 の語幹に -며 を付け、登る動作と思考が同時に進むことを表します。",
+                "en": "Object particle 을 marks 산길 as the path being climbed. Adding -며 to the stem of 오르다 presents climbing and thinking as simultaneous actions."
+              }
+            },
+            {
+              "point": "이렇게 생각했다",
+              "explanation": {
+                "ja": "생각했다 は 생각하다（考える）の過去を表す形で、해요体の会話ではなく平叙の書き言葉です。主語は省略されていますが、文脈から語り手自身と読めます。",
+                "en": "생각했다 is the past form of 생각하다, 'to think,' in a plain narrative style rather than conversational 해요 style. The subject is omitted but understood as the narrator."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "이렇게 が次に続く考察を予告します。原文と同様に「私」を明示せず、登る動作から内面の思考へとつないでいます。",
+              "en": "이렇게 anticipates the reflections that follow. Like the Japanese, this version leaves 'I' unstated and moves from the physical act of climbing into the narrator's thoughts."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "智に働けば角が立つ。",
+          "ttsText": "ちにはたらけばかどがたつ。",
+          "vocabulary": [
+            {
+              "term": "角が立つ",
+              "meaning": {
+                "ja": "人間関係に摩擦が生じる。",
+                "en": "To cause friction or offend others."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "働けば",
+              "explanation": {
+                "ja": "「働く」の仮定形＋ば。ここでは理知を働かせると、という一般的な条件です。",
+                "en": "The conditional form of 働く plus ば states a general consequence of acting through intellect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「智」は理知。「角が立つ」は文字どおり角が生えることではなく、人づきあいが円滑でなくなる比喩です。",
+              "en": "智 means intellect or reason. 角が立つ is a metaphor for social friction, not the literal growth of corners."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Act by reason, and you clash with others.",
+          "ttsText": "Act by reason, and you clash with others.",
+          "vocabulary": [
+            {
+              "term": "clash",
+              "meaning": {
+                "ja": "衝突する、対立する。",
+                "en": "To come into conflict."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Act …, and …",
+              "explanation": {
+                "ja": "命令形＋and の形で「そうすれば〜」という一般的な帰結を述べています。",
+                "en": "An imperative followed by and presents a general consequence: if you do this, that follows."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si te guías por la razón, chocas con los demás.",
+          "ttsText": "Si te guías por la razón, chocas con los demás.",
+          "vocabulary": [
+            {
+              "term": "chocar con",
+              "meaning": {
+                "ja": "〜と衝突する。",
+                "en": "To clash with."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Si te guías",
+              "explanation": {
+                "ja": "si＋現在形で一般的な条件を示します。guiarse は何かを指針にすることです。",
+                "en": "Si plus the present states a general condition; guiarse means to take something as a guide."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si l’on agit par la raison, on se heurte aux autres.",
+          "ttsText": "Si l’on agit par la raison, on se heurte aux autres.",
+          "vocabulary": [
+            {
+              "term": "se heurter à",
+              "meaning": {
+                "ja": "〜にぶつかる、衝突する。",
+                "en": "To clash with; run up against."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "on se heurte aux autres",
+              "explanation": {
+                "ja": "on は一般的な人を指し、aux は à＋les の縮約です。",
+                "en": "On refers to people generally; aux contracts à plus les."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wer dem Verstand folgt, eckt an.",
+          "ttsText": "Wer dem Verstand folgt, eckt an.",
+          "vocabulary": [
+            {
+              "term": "anecken",
+              "meaning": {
+                "ja": "人と摩擦を起こす。",
+                "en": "To cause offence or friction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wer …, …",
+              "explanation": {
+                "ja": "wer による主語節が「理性に従う人は」という一般論を作ります。",
+                "en": "A wer-clause forms the subject: whoever follows reason."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если руководствоваться рассудком, заденешь других.",
+          "ttsText": "Если руководствоваться рассудком, заденешь других.",
+          "vocabulary": [
+            {
+              "term": "рассудок",
+              "meaning": {
+                "ja": "理性、分別。",
+                "en": "Reason; rational judgment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Если руководствоваться",
+              "explanation": {
+                "ja": "不定形で一般的な条件を示し、後半の二人称単数は人一般を指しています。",
+                "en": "The infinitive expresses a general condition; the second person in the result refers to people generally."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "إذا احتكمت إلى العقل، اصطدمت بالآخرين.",
+          "ttsText": "إذا احتكمت إلى العقل، اصطدمت بالآخرين.",
+          "vocabulary": [
+            {
+              "term": "العقل",
+              "meaning": {
+                "ja": "理性、知性。",
+                "en": "Reason; intellect."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "إذا احتكمت",
+              "explanation": {
+                "ja": "إذا の後の完了形は、ここでは過去の出来事でなく一般的な条件を表します。",
+                "en": "After إذا, the perfect form expresses a general condition here rather than a past event."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾidhā iḥtakamta ʾilā al-ʿaqli, iṣṭadamta bi-al-ʾākharīna."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "凭理智行事，就容易与人起冲突。",
+          "ttsText": "凭理智行事，就容易与人起冲突。",
+          "vocabulary": [
+            {
+              "term": "理智",
+              "meaning": {
+                "ja": "理性、知性。",
+                "en": "Reason; rational judgment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "凭 … 就 …",
+              "explanation": {
+                "ja": "凭 は根拠・頼るもの、就 はその条件から生じる結果を示します。",
+                "en": "凭 identifies what one relies on; 就 introduces the resulting consequence."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Píng lǐzhì xíngshì, jiù róngyì yǔ rén qǐ chōngtū."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이성에 따라 행동하면 남과 부딪친다.",
+          "ttsText": "이성에 따라 행동하면 남과 부딪친다.",
+          "vocabulary": [
+            {
+              "term": "이성",
+              "meaning": {
+                "ja": "理性。",
+                "en": "Reason; intellect."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "행동하면",
+              "explanation": {
+                "ja": "動詞＋-면 で一般的な条件を表します。",
+                "en": "The verb ending -면 states a general condition."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "情に棹させば流される。",
+          "ttsText": "じょうにさおさせばながされる。",
+          "vocabulary": [
+            {
+              "term": "棹さす",
+              "meaning": {
+                "ja": "舟を棹で進める。ここでは情に乗って進む比喩。",
+                "en": "To propel a boat with a pole; here a metaphor for following emotion."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "流される",
+              "explanation": {
+                "ja": "「流す」の受身形で、自分で制御できず流れに運ばれることを示します。",
+                "en": "The passive of 流す presents being carried along without control."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この「棹さす」は流れに逆らう意味ではありません。舟の比喩が、情に身を任せる危うさにつながります。",
+              "en": "棹さす here does not mean resisting the current. The boating image suggests the danger of giving oneself over to emotion."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Pole your boat with emotion, and you are swept away.",
+          "ttsText": "Pole your boat with emotion, and you are swept away.",
+          "vocabulary": [
+            {
+              "term": "swept away",
+              "meaning": {
+                "ja": "押し流される。",
+                "en": "Carried off by a strong current."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "are swept away",
+              "explanation": {
+                "ja": "受動態で、感情という流れに運ばれる側の状態を表します。",
+                "en": "The passive presents the person as carried along by emotion as if by a current."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si impulsas tu barca con los sentimientos, la corriente te arrastra.",
+          "ttsText": "Si impulsas tu barca con los sentimientos, la corriente te arrastra.",
+          "vocabulary": [
+            {
+              "term": "arrastrar",
+              "meaning": {
+                "ja": "引きずる、押し流す。",
+                "en": "To drag or sweep away."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "la corriente te arrastra",
+              "explanation": {
+                "ja": "corriente を主語にして、原文の受身を流れの働きとして表しています。",
+                "en": "The current becomes the subject, expressing the original passive through the force carrying the person away."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si l’on pousse sa barque à la perche des sentiments, on se laisse emporter.",
+          "ttsText": "Si l’on pousse sa barque à la perche des sentiments, on se laisse emporter.",
+          "vocabulary": [
+            {
+              "term": "perche",
+              "meaning": {
+                "ja": "舟を進める棹。",
+                "en": "A pole used to propel a boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se laisser emporter",
+              "explanation": {
+                "ja": "se laisser＋不定詞で、身を任せて運ばれることを表します。",
+                "en": "Se laisser plus an infinitive expresses allowing oneself to be carried away."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wer sein Boot mit dem Gefühl stakt, wird fortgerissen.",
+          "ttsText": "Wer sein Boot mit dem Gefühl stakt, wird fortgerissen.",
+          "vocabulary": [
+            {
+              "term": "staken",
+              "meaning": {
+                "ja": "棹で舟を進める。",
+                "en": "To propel a boat with a pole."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "wird fortgerissen",
+              "explanation": {
+                "ja": "werden＋過去分詞で動作の受動を作っています。",
+                "en": "Werden plus a past participle forms the passive."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если править лодкой шестом чувств, тебя унесёт течением.",
+          "ttsText": "Если править лодкой шестом чувств, тебя унесёт течением.",
+          "vocabulary": [
+            {
+              "term": "шест",
+              "meaning": {
+                "ja": "棹、長い棒。",
+                "en": "A pole."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "тебя унесёт течением",
+              "explanation": {
+                "ja": "非人称的な構文で、тебя が運ばれる人、течением が運ぶ力を表します。",
+                "en": "This impersonal construction makes тебя the person carried away and течением the force doing so."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "إذا دفعت قاربك بعصا العاطفة، جرفك التيار.",
+          "ttsText": "إذا دفعت قاربك بعصا العاطفة، جرفك التيار.",
+          "vocabulary": [
+            {
+              "term": "التيار",
+              "meaning": {
+                "ja": "水の流れ。",
+                "en": "A current."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "جرفك التيار",
+              "explanation": {
+                "ja": "動詞 جرف に付く ك が目的語「あなた」、التيار が後置された主語です。",
+                "en": "The suffix ك is the object you; التيار is the following subject."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾidhā dafaʿta qāribaka bi-ʿaṣā al-ʿāṭifati, jarafaka at-tayyāru."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "以感情为篙撑船，就会被水流冲走。",
+          "ttsText": "以感情为篙撑船，就会被水流冲走。",
+          "vocabulary": [
+            {
+              "term": "篙",
+              "meaning": {
+                "ja": "舟を進める長い棹。",
+                "en": "A long pole for propelling a boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "以感情为篙",
+              "explanation": {
+                "ja": "以 A 为 B は「AをBとする」。被 は後半の受身を作ります。",
+                "en": "以 A 为 B means to take A as B; 被 forms the passive in the second clause."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǐ gǎnqíng wéi gāo chēngchuán, jiù huì bèi shuǐliú chōngzǒu."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "감정을 삿대 삼아 배를 저으면 물살에 휩쓸린다.",
+          "ttsText": "감정을 삿대 삼아 배를 저으면 물살에 휩쓸린다.",
+          "vocabulary": [
+            {
+              "term": "삿대",
+              "meaning": {
+                "ja": "舟を進める棹。",
+                "en": "A pole for propelling a boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "삿대 삼아",
+              "explanation": {
+                "ja": "삼다 は「〜とする」。感情を棹に見立てています。",
+                "en": "삼다 means to take as; emotion is imagined as the pole."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "意地を通せば窮屈だ。",
+          "ttsText": "いじをとおせばきゅうくつだ。",
+          "vocabulary": [
+            {
+              "term": "意地を通す",
+              "meaning": {
+                "ja": "自分の考えや態度を押し通す。",
+                "en": "To insist on one’s own way."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "通せば窮屈だ",
+              "explanation": {
+                "ja": "条件形に状態の評価を続け、意志を貫くことの代償を述べます。",
+                "en": "The conditional is followed by a judgment of the resulting state, expressing the cost of insisting."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Insist on your own way, and life becomes cramped.",
+          "ttsText": "Insist on your own way, and life becomes cramped.",
+          "vocabulary": [
+            {
+              "term": "cramped",
+              "meaning": {
+                "ja": "窮屈な、ゆとりのない。",
+                "en": "Confined; lacking room."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "life becomes cramped",
+              "explanation": {
+                "ja": "原文で省略される主語を life と補い、生活全体の窮屈さとして訳しています。",
+                "en": "Life supplies an implicit subject, making the restriction apply to life as a whole."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si te empeñas en salirte con la tuya, la vida se vuelve estrecha.",
+          "ttsText": "Si te empeñas en salirte con la tuya, la vida se vuelve estrecha.",
+          "vocabulary": [
+            {
+              "term": "salirse con la suya",
+              "meaning": {
+                "ja": "自分の思いどおりにする。",
+                "en": "To have one’s own way."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se vuelve estrecha",
+              "explanation": {
+                "ja": "volverse＋形容詞で状態の変化を表します。",
+                "en": "Volverse plus an adjective expresses a change of state."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si l’on s’obstine à imposer sa volonté, on se sent à l’étroit.",
+          "ttsText": "Si l’on s’obstine à imposer sa volonté, on se sent à l’étroit.",
+          "vocabulary": [
+            {
+              "term": "à l’étroit",
+              "meaning": {
+                "ja": "窮屈に。",
+                "en": "Cramped; confined."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "s’obstiner à",
+              "explanation": {
+                "ja": "s’obstiner は à＋不定詞を取り、ある行為に固執することを表します。",
+                "en": "S’obstiner takes à plus an infinitive for the action one persists in."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wer auf seinem Willen beharrt, fühlt sich eingeengt.",
+          "ttsText": "Wer auf seinem Willen beharrt, fühlt sich eingeengt.",
+          "vocabulary": [
+            {
+              "term": "beharren auf",
+              "meaning": {
+                "ja": "〜に固執する。",
+                "en": "To insist on."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "auf seinem Willen",
+              "explanation": {
+                "ja": "beharren auf は与格を取り、seinem Willen となります。",
+                "en": "Beharren auf takes the dative, hence seinem Willen."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если стоять на своём, жить станет тесно.",
+          "ttsText": "Если стоять на своём, жить станет тесно.",
+          "vocabulary": [
+            {
+              "term": "стоять на своём",
+              "meaning": {
+                "ja": "自分の意見を押し通す。",
+                "en": "To stand one’s ground or insist on one’s way."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "жить станет тесно",
+              "explanation": {
+                "ja": "不定形 жить と状態語 тесно で、暮らしが窮屈になることを表します。",
+                "en": "The infinitive жить and state word тесно express life becoming constricted."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "إذا أصررت على رأيك، ضاقت بك الحياة.",
+          "ttsText": "إذا أصررت على رأيك، ضاقت بك الحياة.",
+          "vocabulary": [
+            {
+              "term": "أصررت",
+              "meaning": {
+                "ja": "固執した。",
+                "en": "Insisted."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ضاقت بك الحياة",
+              "explanation": {
+                "ja": "直訳は「人生があなたには狭くなった」。窮屈さを空間の比喩で表します。",
+                "en": "Literally, life became narrow for you; restriction is expressed through a spatial metaphor."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾidhā ʾaṣrarta ʿalā raʾyika, ḍāqat bika al-ḥayātu."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "若坚持一意孤行，日子就过得局促。",
+          "ttsText": "若坚持一意孤行，日子就过得局促。",
+          "vocabulary": [
+            {
+              "term": "局促",
+              "meaning": {
+                "ja": "窮屈でゆとりがない。",
+                "en": "Cramped; constrained."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "过得局促",
+              "explanation": {
+                "ja": "得 の後に状態を述べ、日々をどう過ごすかを説明します。",
+                "en": "得 introduces a description of how life is lived."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ruò jiānchí yīyìgūxíng, rìzi jiù guò de júcù."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "고집을 끝까지 밀고 나가면 삶이 갑갑해진다.",
+          "ttsText": "고집을 끝까지 밀고 나가면 삶이 갑갑해진다.",
+          "vocabulary": [
+            {
+              "term": "고집",
+              "meaning": {
+                "ja": "意地、頑固さ。",
+                "en": "Stubbornness; insistence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "갑갑해진다",
+              "explanation": {
+                "ja": "形容詞に -아/어지다 を付け、「窮屈になる」という変化を表します。",
+                "en": "-아/어지다 turns the adjective into a change of state: becoming constrained."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "とかくに人の世は住みにくい。",
+          "ttsText": "とかくにひとのよはすみにくい。",
+          "vocabulary": [
+            {
+              "term": "とかくに",
+              "meaning": {
+                "ja": "何かにつけて、どうしても。",
+                "en": "In any case; one way or another."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "住みにくい",
+              "explanation": {
+                "ja": "動詞の連用形＋にくいで、その動作の難しさを示します。",
+                "en": "The verb stem plus にくい expresses difficulty in performing the action."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "One way or another, the human world is hard to live in.",
+          "ttsText": "One way or another, the human world is hard to live in.",
+          "vocabulary": [
+            {
+              "term": "one way or another",
+              "meaning": {
+                "ja": "どうあっても、何かにつけて。",
+                "en": "In one manner or another; however things turn out."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "hard to live in",
+              "explanation": {
+                "ja": "live in の目的語が主語 the human world に対応する形です。",
+                "en": "The subject the human world corresponds to the object of in in the infinitive phrase."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "De un modo u otro, es difícil vivir en el mundo de los hombres.",
+          "ttsText": "De un modo u otro, es difícil vivir en el mundo de los hombres.",
+          "vocabulary": [
+            {
+              "term": "de un modo u otro",
+              "meaning": {
+                "ja": "どうあっても。",
+                "en": "One way or another."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "es difícil vivir",
+              "explanation": {
+                "ja": "es＋形容詞＋不定詞で、行為の難しさを述べます。",
+                "en": "Es plus an adjective and infinitive evaluates the difficulty of an action."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "D’une manière ou d’une autre, il est difficile de vivre dans le monde des hommes.",
+          "ttsText": "D’une manière ou d’une autre, il est difficile de vivre dans le monde des hommes.",
+          "vocabulary": [
+            {
+              "term": "difficile",
+              "meaning": {
+                "ja": "難しい。",
+                "en": "Difficult."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "il est difficile de vivre",
+              "explanation": {
+                "ja": "形式的な主語 il と de＋不定詞で、生活の難しさを述べます。",
+                "en": "The impersonal il and de plus an infinitive express the difficulty of living."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "So oder so ist es schwer, in der Menschenwelt zu leben.",
+          "ttsText": "So oder so ist es schwer, in der Menschenwelt zu leben.",
+          "vocabulary": [
+            {
+              "term": "so oder so",
+              "meaning": {
+                "ja": "どちらにしても。",
+                "en": "Either way."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "es ist schwer, … zu leben",
+              "explanation": {
+                "ja": "形式主語 es が後続の不定詞句を先取りしています。",
+                "en": "The anticipatory subject es points forward to the infinitive phrase."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Как ни крути, в мире людей жить трудно.",
+          "ttsText": "Как ни крути, в мире людей жить трудно.",
+          "vocabulary": [
+            {
+              "term": "как ни крути",
+              "meaning": {
+                "ja": "どう考えても、結局。",
+                "en": "Whichever way one looks at it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "жить трудно",
+              "explanation": {
+                "ja": "不定形と状態語で、特定の主語を置かずに一般論を述べます。",
+                "en": "An infinitive and a state word express a general observation without a personal subject."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "على أي حال، يصعب العيش في عالم البشر.",
+          "ttsText": "على أي حال، يصعب العيش في عالم البشر.",
+          "vocabulary": [
+            {
+              "term": "عالم البشر",
+              "meaning": {
+                "ja": "人間の世界。",
+                "en": "The human world."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "يصعب العيش",
+              "explanation": {
+                "ja": "動名詞 العيش が「難しい」という動詞 يصعب の主語になります。",
+                "en": "The verbal noun العيش is the subject of يصعب, to be difficult."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿalā ʾayyi ḥālin, yaṣʿubu al-ʿayshu fī ʿālami al-bashari."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "总而言之，人世实在难以安居。",
+          "ttsText": "总而言之，人世实在难以安居。",
+          "vocabulary": [
+            {
+              "term": "人世",
+              "meaning": {
+                "ja": "人の世。",
+                "en": "The human world."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "难以安居",
+              "explanation": {
+                "ja": "难以＋動詞で、行為を実現する難しさを表します。",
+                "en": "难以 plus a verb expresses difficulty in accomplishing the action."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zǒngéryánzhī, rénshì shízài nányǐ ānjū."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이래저래 사람 사는 세상은 살기 어렵다.",
+          "ttsText": "이래저래 사람 사는 세상은 살기 어렵다.",
+          "vocabulary": [
+            {
+              "term": "이래저래",
+              "meaning": {
+                "ja": "あれこれ、どうあっても。",
+                "en": "One way or another."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "살기 어렵다",
+              "explanation": {
+                "ja": "動詞に -기 を付けて名詞化し、어렵다 で難しさを述べます。",
+                "en": "-기 nominalizes the verb, allowing 어렵다 to describe its difficulty."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "住みにくさが高じると、安い所へ引き越したくなる。",
+          "ttsText": "すみにくさがこうじると、やすいところへひきこしたくなる。",
+          "vocabulary": [
+            {
+              "term": "安い所",
+              "meaning": {
+                "ja": "ここでは価格の安い所ではなく、心が安らぐ所。",
+                "en": "Here, a peaceful place, rather than a place with low prices."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "引き越したくなる",
+              "explanation": {
+                "ja": "動詞＋たいの連用形に「なる」を続け、望む気持ちが生まれることを表します。",
+                "en": "The adverbial form of the desiderative たい plus なる expresses coming to want something."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "When that difficulty grows, one longs to move somewhere more peaceful.",
+          "ttsText": "When that difficulty grows, one longs to move somewhere more peaceful.",
+          "vocabulary": [
+            {
+              "term": "long to",
+              "meaning": {
+                "ja": "強く〜したいと願う。",
+                "en": "To desire strongly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "somewhere more peaceful",
+              "explanation": {
+                "ja": "somewhere を形容詞句が後ろから修飾しています。",
+                "en": "The adjective phrase more peaceful follows and modifies somewhere."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Cuando esa dificultad aumenta, entran ganas de mudarse a un lugar tranquilo.",
+          "ttsText": "Cuando esa dificultad aumenta, entran ganas de mudarse a un lugar tranquilo.",
+          "vocabulary": [
+            {
+              "term": "mudarse",
+              "meaning": {
+                "ja": "引っ越す。",
+                "en": "To move house."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "entran ganas de",
+              "explanation": {
+                "ja": "「〜したい気持ちが生じる」という非人称的な言い回しです。",
+                "en": "This expression means that a desire to do something arises."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Quand cette difficulté s’accroît, on a envie de déménager dans un lieu paisible.",
+          "ttsText": "Quand cette difficulté s’accroît, on a envie de déménager dans un lieu paisible.",
+          "vocabulary": [
+            {
+              "term": "paisible",
+              "meaning": {
+                "ja": "平穏な、安らかな。",
+                "en": "Peaceful."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "avoir envie de",
+              "explanation": {
+                "ja": "envie de＋不定詞で、したいという気持ちを表します。",
+                "en": "Envie de plus an infinitive expresses the desire to do something."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wird diese Schwierigkeit größer, möchte man an einen friedlicheren Ort ziehen.",
+          "ttsText": "Wird diese Schwierigkeit größer, möchte man an einen friedlicheren Ort ziehen.",
+          "vocabulary": [
+            {
+              "term": "ziehen",
+              "meaning": {
+                "ja": "ここでは引っ越す。",
+                "en": "Here, to move to a new home."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wird …, möchte man …",
+              "explanation": {
+                "ja": "接続詞なしの条件節では定動詞を先頭に置きます。",
+                "en": "A conditional clause without a conjunction places the finite verb first."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Когда эта трудность усиливается, хочется перебраться в более спокойное место.",
+          "ttsText": "Когда эта трудность усиливается, хочется перебраться в более спокойное место.",
+          "vocabulary": [
+            {
+              "term": "перебраться",
+              "meaning": {
+                "ja": "別の場所へ移る。",
+                "en": "To move or relocate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "хочется перебраться",
+              "explanation": {
+                "ja": "非人称の хочется に不定形を続け、自然に湧く願望を表します。",
+                "en": "Impersonal хочется plus an infinitive expresses an arising desire."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "حين تشتد هذه الصعوبة، تنشأ الرغبة في الانتقال إلى مكان أكثر طمأنينة.",
+          "ttsText": "حين تشتد هذه الصعوبة، تنشأ الرغبة في الانتقال إلى مكان أكثر طمأنينة.",
+          "vocabulary": [
+            {
+              "term": "طمأنينة",
+              "meaning": {
+                "ja": "安心、心の安らぎ。",
+                "en": "Peace of mind; tranquillity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "الرغبة في الانتقال",
+              "explanation": {
+                "ja": "「移ることへの願い」。في の後に動名詞 الانتقال を置きます。",
+                "en": "The desire to move: في is followed by the verbal noun الانتقال."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ḥīna tashtaddu hādhihi aṣ-ṣuʿūbatu, tanshaʾu ar-raghbatu fī al-intiqāli ʾilā makānin ʾakthara ṭumaʾnīnatan."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "当这种难处越来越深，就想搬到一个安宁的地方。",
+          "ttsText": "当这种难处越来越深，就想搬到一个安宁的地方。",
+          "vocabulary": [
+            {
+              "term": "安宁",
+              "meaning": {
+                "ja": "心安らかで穏やかな。",
+                "en": "Peaceful; tranquil."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "越来越深",
+              "explanation": {
+                "ja": "越来越＋形容詞で、程度が次第に増すことを表します。",
+                "en": "越来越 plus an adjective marks a progressively increasing degree."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dāng zhè zhǒng nánchu yuèláiyuè shēn, jiù xiǎng bān dào yī gè ānníng de dìfang."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "살기 어려움이 심해지면 마음 편한 곳으로 옮겨 가고 싶어진다.",
+          "ttsText": "살기 어려움이 심해지면 마음 편한 곳으로 옮겨 가고 싶어진다.",
+          "vocabulary": [
+            {
+              "term": "마음 편한",
+              "meaning": {
+                "ja": "心が安らぐ。",
+                "en": "Peaceful; putting the mind at ease."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "싶어진다",
+              "explanation": {
+                "ja": "-고 싶다 に変化を表す -어지다 が付き、願望が生じることを示します。",
+                "en": "The desiderative -고 싶다 combines with -어지다 to express coming to want something."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。",
+          "ttsText": "どこへこしてもすみにくいとさとったとき、しがうまれて、えができる。",
+          "vocabulary": [
+            {
+              "term": "悟る",
+              "meaning": {
+                "ja": "深く理解する、思い至る。",
+                "en": "To realize or understand deeply."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "どこへ越しても",
+              "explanation": {
+                "ja": "疑問語＋てもで「どこであっても」という譲歩・無限定を表します。",
+                "en": "An interrogative plus ても expresses concession or unrestricted scope: wherever one moves."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "原文の「生れて」を保っています。読みは「うまれて」、「画」は「え」です。住みにくさへの気づきから芸術が生まれるという展開です。",
+              "en": "The original spelling 生れて is retained; it is read umarete, and 画 is read e. The passage turns from the difficulty of living toward the birth of art."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "夏目漱石 / Natsume Sōseki"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "When one realizes that life is hard wherever one moves, poetry is born and painting comes into being.",
+          "ttsText": "When one realizes that life is hard wherever one moves, poetry is born and painting comes into being.",
+          "vocabulary": [
+            {
+              "term": "come into being",
+              "meaning": {
+                "ja": "生まれる、成立する。",
+                "en": "To begin to exist."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "wherever one moves",
+              "explanation": {
+                "ja": "wherever は移動先を限定せず、「どこへ移っても」を表します。",
+                "en": "Wherever leaves the destination unrestricted: no matter where one moves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Cuando uno comprende que es difícil vivir adondequiera que se mude, nace la poesía y surge la pintura.",
+          "ttsText": "Cuando uno comprende que es difícil vivir adondequiera que se mude, nace la poesía y surge la pintura.",
+          "vocabulary": [
+            {
+              "term": "surgir",
+              "meaning": {
+                "ja": "生まれる、現れる。",
+                "en": "To arise; emerge."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "adondequiera que se mude",
+              "explanation": {
+                "ja": "行き先を限定しない表現で、接続法 mude を用います。",
+                "en": "This unrestricted destination construction takes the subjunctive mude."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Quand on comprend qu’il est difficile de vivre où que l’on s’installe, la poésie naît et la peinture prend forme.",
+          "ttsText": "Quand on comprend qu’il est difficile de vivre où que l’on s’installe, la poésie naît et la peinture prend forme.",
+          "vocabulary": [
+            {
+              "term": "prendre forme",
+              "meaning": {
+                "ja": "形になる。",
+                "en": "To take shape."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "où que l’on s’installe",
+              "explanation": {
+                "ja": "où que＋接続法で、場所を限定しない譲歩を表します。",
+                "en": "Où que plus the subjunctive expresses an unrestricted place: wherever."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wenn man erkennt, dass das Leben überall schwer ist, wohin man auch zieht, entstehen Dichtung und Malerei.",
+          "ttsText": "Wenn man erkennt, dass das Leben überall schwer ist, wohin man auch zieht, entstehen Dichtung und Malerei.",
+          "vocabulary": [
+            {
+              "term": "entstehen",
+              "meaning": {
+                "ja": "生まれる、成立する。",
+                "en": "To arise; come into being."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "wohin man auch zieht",
+              "explanation": {
+                "ja": "wohin と auch で「どこへ移ろうとも」と表します。",
+                "en": "Wohin with auch expresses no matter where one moves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Когда понимаешь, что жить трудно, куда бы ни переехал, рождается поэзия и возникает живопись.",
+          "ttsText": "Когда понимаешь, что жить трудно, куда бы ни переехал, рождается поэзия и возникает живопись.",
+          "vocabulary": [
+            {
+              "term": "живопись",
+              "meaning": {
+                "ja": "絵画。",
+                "en": "Painting as an art."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "куда бы ни переехал",
+              "explanation": {
+                "ja": "куда бы ни＋過去形は、移動先を問わない譲歩表現です。",
+                "en": "Куда бы ни plus a past form expresses concession regardless of destination."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "حين يدرك المرء أن العيش صعب أينما انتقل، يولد الشعر وينشأ الرسم.",
+          "ttsText": "حين يدرك المرء أن العيش صعب أينما انتقل، يولد الشعر وينشأ الرسم.",
+          "vocabulary": [
+            {
+              "term": "الشعر",
+              "meaning": {
+                "ja": "詩。",
+                "en": "Poetry."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أينما انتقل",
+              "explanation": {
+                "ja": "أينما は「どこへ移っても」。يولد は受動の「生まれる」です。",
+                "en": "أينما expresses wherever one moves; يولد is the passive is born."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ḥīna yudriku al-marʾu ʾanna al-ʿaysha ṣaʿbun ʾaynamā intaqala, yūladu ash-shiʿru wa-yanshaʾu ar-rasmu."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "当人悟到无论搬到哪里都难以安居时，诗便诞生了，画也随之形成。",
+          "ttsText": "当人悟到无论搬到哪里都难以安居时，诗便诞生了，画也随之形成。",
+          "vocabulary": [
+            {
+              "term": "诞生",
+              "meaning": {
+                "ja": "誕生する。",
+                "en": "To be born; come into existence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "无论 … 都 …",
+              "explanation": {
+                "ja": "条件にかかわらず結果が成り立つことを表します。",
+                "en": "This construction says the result holds regardless of the condition."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dāng rén wù dào wúlùn bān dào nǎli dōu nányǐ ānjū shí, shī biàn dànshēng le, huà yě suízhī xíngchéng."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "어디로 옮겨도 살기 어렵다는 것을 깨달을 때, 시가 태어나고 그림이 이루어진다.",
+          "ttsText": "어디로 옮겨도 살기 어렵다는 것을 깨달을 때, 시가 태어나고 그림이 이루어진다.",
+          "vocabulary": [
+            {
+              "term": "깨닫다",
+              "meaning": {
+                "ja": "悟る、気づく。",
+                "en": "To realize."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "어렵다는 것을",
+              "explanation": {
+                "ja": "引用形 -다는 と名詞 것 により、悟る内容を名詞節にします。",
+                "en": "The quotative -다는 with 것 makes the realization’s content into a noun clause."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "人の世を作ったものは神でもなければ鬼でもない。",
+          "ttsText": "ひとのよをつくったものはかみでもなければおにでもない。",
+          "vocabulary": [
+            {
+              "term": "人の世",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「AでもなければBでもない」は両方を否定する形。「作ったものは」は、作り手を話題として取り上げます。",
+              "en": "A demo nakereba B demo nai denies both alternatives. Tsukutta mono wa introduces the makers as the topic."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "The human world was made neither by gods nor by demons.",
+          "ttsText": "The human world was made neither by gods nor by demons.",
+          "vocabulary": [
+            {
+              "term": "human world",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "El mundo humano no lo hicieron ni dioses ni demonios.",
+          "ttsText": "El mundo humano no lo hicieron ni dioses ni demonios.",
+          "vocabulary": [
+            {
+              "term": "mundo humano",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Le monde des hommes n'a été fait ni par des dieux ni par des démons.",
+          "ttsText": "Le monde des hommes n'a été fait ni par des dieux ni par des démons.",
+          "vocabulary": [
+            {
+              "term": "monde des hommes",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Die Menschenwelt wurde weder von Göttern noch von Dämonen geschaffen.",
+          "ttsText": "Die Menschenwelt wurde weder von Göttern noch von Dämonen geschaffen.",
+          "vocabulary": [
+            {
+              "term": "Menschenwelt",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Мир людей создан не богами и не демонами.",
+          "ttsText": "Мир людей создан не богами и не демонами.",
+          "vocabulary": [
+            {
+              "term": "Мир людей",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لم تصنع عالم البشر آلهة ولا شياطين.",
+          "ttsText": "لم تصنع عالم البشر آلهة ولا شياطين.",
+          "vocabulary": [
+            {
+              "term": "عالم البشر",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lam taṣnaʿ ʿālama al-bashari ālihatun wa-lā shayāṭīnu.",
+            "note": {
+              "ja": "文末の shayāṭīnu は休止すると shayāṭīn。",
+              "en": "At the end of the sentence, shayāṭīnu has the pausal form shayāṭīn."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "创造人世的既不是神，也不是鬼。",
+          "ttsText": "创造人世的既不是神，也不是鬼。",
+          "vocabulary": [
+            {
+              "term": "人世",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Chuàngzào rénshì de jì bù shì shén, yě bù shì guǐ.",
+            "note": {
+              "ja": "2か所の不是は、発音時には bú shì となります。",
+              "en": "Both instances of 不是 are pronounced bú shì."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "인간 세상을 만든 것은 신도 아니고 도깨비도 아니다.",
+          "ttsText": "인간 세상을 만든 것은 신도 아니고 도깨비도 아니다.",
+          "vocabulary": [
+            {
+              "term": "인간 세상",
+              "meaning": {
+                "ja": "人間が暮らし、社会を営む世界。",
+                "en": "The world in which human beings live and form society."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "やはり向う三軒両隣りにちらちらするただの人である。",
+          "ttsText": "やはりむこうさんげんりょうどなりにちらちらするただのひとである。",
+          "vocabulary": [
+            {
+              "term": "向う三軒両隣り",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「ちらちらする」は姿が断続的に見える様子。「ただの人」で、前文の神や鬼と対照させています。",
+              "en": "Chirachira suru describes people intermittently coming into view. Tada no hito contrasts ordinary people with the gods and demons of the previous sentence."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "It was, after all, ordinary people, glimpsed in the three houses opposite and the houses on either side.",
+          "ttsText": "It was, after all, ordinary people, glimpsed in the three houses opposite and the houses on either side.",
+          "vocabulary": [
+            {
+              "term": "three houses opposite",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Lo hicieron, al fin y al cabo, personas corrientes, esas que se entrevén en las tres casas de enfrente y en las de ambos lados.",
+          "ttsText": "Lo hicieron, al fin y al cabo, personas corrientes, esas que se entrevén en las tres casas de enfrente y en las de ambos lados.",
+          "vocabulary": [
+            {
+              "term": "tres casas de enfrente",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Ce sont, après tout, de simples gens, qu'on entrevoit dans les trois maisons d'en face et celles de chaque côté.",
+          "ttsText": "Ce sont, après tout, de simples gens, qu'on entrevoit dans les trois maisons d'en face et celles de chaque côté.",
+          "vocabulary": [
+            {
+              "term": "trois maisons d'en face",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Es waren schließlich gewöhnliche Menschen, die man in den drei Häusern gegenüber und in den Häusern zu beiden Seiten erblickt.",
+          "ttsText": "Es waren schließlich gewöhnliche Menschen, die man in den drei Häusern gegenüber und in den Häusern zu beiden Seiten erblickt.",
+          "vocabulary": [
+            {
+              "term": "drei Häusern gegenüber",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Его создали всё те же обыкновенные люди, мелькающие в трёх домах напротив и в домах по обе стороны.",
+          "ttsText": "Его создали всё те же обыкновенные люди, мелькающие в трёх домах напротив и в домах по обе стороны.",
+          "vocabulary": [
+            {
+              "term": "трёх домах напротив",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "إنما صنعه أناس عاديون نلمحهم في البيوت الثلاثة المقابلة وفي البيوت المجاورة من الجانبين.",
+          "ttsText": "إنما صنعه أناس عاديون نلمحهم في البيوت الثلاثة المقابلة وفي البيوت المجاورة من الجانبين.",
+          "vocabulary": [
+            {
+              "term": "البيوت الثلاثة المقابلة",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Innamā ṣanaʿahu unāsun ʿādiyyūna nalmaḥuhum fī al-buyūti ath-thalāthati al-muqābilati wa-fī al-buyūti al-mujāwirati mina al-jānibayni.",
+            "note": {
+              "ja": "文末の al-jānibayni は休止形では al-jānibayn。",
+              "en": "Final al-jānibayni becomes al-jānibayn at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "说到底，还是对面三户、左右邻家那些时隐时现的普通人。",
+          "ttsText": "说到底，还是对面三户、左右邻家那些时隐时现的普通人。",
+          "vocabulary": [
+            {
+              "term": "对面三户",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shuō dàodǐ, háishi duìmiàn sān hù, zuǒyòu línjiā nàxiē shíyǐnshíxiàn de pǔtōngrén."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "결국 맞은편 세 집과 양옆 이웃집에서 언뜻언뜻 보이는 평범한 사람들이다.",
+          "ttsText": "결국 맞은편 세 집과 양옆 이웃집에서 언뜻언뜻 보이는 평범한 사람들이다.",
+          "vocabulary": [
+            {
+              "term": "맞은편 세 집",
+              "meaning": {
+                "ja": "向かいの3軒と左右の隣家。身近な近所の人々を指します。",
+                "en": "The three houses opposite and the immediate neighbours: the familiar local community."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "ただの人が作った人の世が住みにくいからとて、越す国はあるまい。",
+          "ttsText": "ただのひとがつくったひとのよがすみにくいからとて、こすくにはあるまい。",
+          "vocabulary": [
+            {
+              "term": "からとて",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「からとて」は「からといって」の文語的な形。「あるまい」は存在しないだろうという否定の推量です。",
+              "en": "Kara tote is a literary equivalent of kara to itte. Arumai expresses a negative conjecture: there is probably no such place."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Even if this world made by ordinary people is hard to live in, there can hardly be another country to move to.",
+          "ttsText": "Even if this world made by ordinary people is hard to live in, there can hardly be another country to move to.",
+          "vocabulary": [
+            {
+              "term": "Even if",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Aunque cueste vivir en este mundo hecho por personas corrientes, difícilmente habrá otro país al que mudarse.",
+          "ttsText": "Aunque cueste vivir en este mundo hecho por personas corrientes, difícilmente habrá otro país al que mudarse.",
+          "vocabulary": [
+            {
+              "term": "Aunque",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Même si ce monde fait par de simples gens est difficile à habiter, il n'y a guère de pays où aller s'installer.",
+          "ttsText": "Même si ce monde fait par de simples gens est difficile à habiter, il n'y a guère de pays où aller s'installer.",
+          "vocabulary": [
+            {
+              "term": "Même si",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Auch wenn diese von gewöhnlichen Menschen geschaffene Welt schwer zu bewohnen ist, wird es wohl kein anderes Land geben, in das man ziehen könnte.",
+          "ttsText": "Auch wenn diese von gewöhnlichen Menschen geschaffene Welt schwer zu bewohnen ist, wird es wohl kein anderes Land geben, in das man ziehen könnte.",
+          "vocabulary": [
+            {
+              "term": "Auch wenn",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Пусть в мире, созданном обыкновенными людьми, трудно жить — едва ли найдётся другая страна, куда можно переселиться.",
+          "ttsText": "Пусть в мире, созданном обыкновенными людьми, трудно жить — едва ли найдётся другая страна, куда можно переселиться.",
+          "vocabulary": [
+            {
+              "term": "Пусть",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "حتى لو صعب العيش في عالم صنعه أناس عاديون، فلن يكون هناك بلد آخر ننتقل إليه.",
+          "ttsText": "حتى لو صعب العيش في عالم صنعه أناس عاديون، فلن يكون هناك بلد آخر ننتقل إليه.",
+          "vocabulary": [
+            {
+              "term": "حتى لو",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥattā law ṣaʿuba al-ʿayshu fī ʿālamin ṣanaʿahu unāsun ʿādiyyūna, fa-lan yakūna hunāka baladun ākharu nantaqilu ilayhi."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "纵然普通人创造的人世难以居住，恐怕也没有别的国度可以迁往。",
+          "ttsText": "纵然普通人创造的人世难以居住，恐怕也没有别的国度可以迁往。",
+          "vocabulary": [
+            {
+              "term": "纵然",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zòngrán pǔtōngrén chuàngzào de rénshì nányǐ jūzhù, kǒngpà yě méiyǒu bié de guódù kěyǐ qiānwǎng."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "평범한 사람들이 만든 인간 세상이 살기 어렵다고 한들, 옮겨 갈 나라가 있겠는가.",
+          "ttsText": "평범한 사람들이 만든 인간 세상이 살기 어렵다고 한들, 옮겨 갈 나라가 있겠는가.",
+          "vocabulary": [
+            {
+              "term": "한들",
+              "meaning": {
+                "ja": "理由を認めても、その先の結論には同意しない譲歩の表現。",
+                "en": "A concession: accepting a premise does not mean accepting the conclusion drawn from it."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "あれば人でなしの国へ行くばかりだ。",
+          "ttsText": "あればひとでなしのくにへいくばかりだ。",
+          "vocabulary": [
+            {
+              "term": "人でなし",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「あれば」は直前の「越す国」を受けます。「行くばかりだ」は、残された選択肢がそれだけだという意味。",
+              "en": "Areba refers back to a country one could move to. Iku bakari da says that going there would be the only remaining option."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "If there were, one could only go to a country of beings without humanity.",
+          "ttsText": "If there were, one could only go to a country of beings without humanity.",
+          "vocabulary": [
+            {
+              "term": "without humanity",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si lo hubiera, sólo quedaría ir a un país de seres sin humanidad.",
+          "ttsText": "Si lo hubiera, sólo quedaría ir a un país de seres sin humanidad.",
+          "vocabulary": [
+            {
+              "term": "sin humanidad",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "S'il en existait un, il ne resterait qu'à partir pour un pays d'êtres sans humanité.",
+          "ttsText": "S'il en existait un, il ne resterait qu'à partir pour un pays d'êtres sans humanité.",
+          "vocabulary": [
+            {
+              "term": "sans humanité",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Gäbe es eines, bliebe nur ein Land von Wesen ohne Menschlichkeit.",
+          "ttsText": "Gäbe es eines, bliebe nur ein Land von Wesen ohne Menschlichkeit.",
+          "vocabulary": [
+            {
+              "term": "ohne Menschlichkeit",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если такая страна и есть, остаётся лишь отправиться туда, где живут существа, лишённые человечности.",
+          "ttsText": "Если такая страна и есть, остаётся лишь отправиться туда, где живут существа, лишённые человечности.",
+          "vocabulary": [
+            {
+              "term": "лишённые человечности",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وإن وجد بلد كهذا، فما لنا إلا الذهاب إلى بلد كائنات بلا إنسانية.",
+          "ttsText": "وإن وجد بلد كهذا، فما لنا إلا الذهاب إلى بلد كائنات بلا إنسانية.",
+          "vocabulary": [
+            {
+              "term": "بلا إنسانية",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-in wujida baladun ka-hādhā, fa-mā lanā illā adh-dhahābu ilā baladi kāʾinātin bi-lā insāniyyatin.",
+            "note": {
+              "ja": "文末 insāniyyatin は休止すると insāniyyah。",
+              "en": "Final insāniyyatin is pronounced insāniyyah at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "若有，也只能去一个没有人性的国度。",
+          "ttsText": "若有，也只能去一个没有人性的国度。",
+          "vocabulary": [
+            {
+              "term": "没有人性",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ruò yǒu, yě zhǐ néng qù yī ge méiyǒu rénxìng de guódù.",
+            "note": {
+              "ja": "一个は yí ge と発音します。",
+              "en": "一个 is pronounced yí ge."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "있다면 인간다움이 없는 자들의 나라로 갈 수밖에 없다.",
+          "ttsText": "있다면 인간다움이 없는 자들의 나라로 갈 수밖에 없다.",
+          "vocabulary": [
+            {
+              "term": "인간다움이 없는",
+              "meaning": {
+                "ja": "人間らしい情けのない者。「人ではない」という字義とも重ねた表現。",
+                "en": "Beings without humane feeling; the phrase also plays on the literal sense of not being human."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "人でなしの国は人の世よりもなお住みにくかろう。",
+          "ttsText": "ひとでなしのくにはひとのよよりもなおすみにくかろう。",
+          "vocabulary": [
+            {
+              "term": "なお",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「住みにくかろう」は形容詞「住みにくい」の推量形。「よりもなお」が比較を強めます。",
+              "en": "Suminikukarō is a conjectural form of the adjective suminikui. Yori mo nao strengthens the comparison."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "A country of beings without humanity would be still harder to live in than the human world.",
+          "ttsText": "A country of beings without humanity would be still harder to live in than the human world.",
+          "vocabulary": [
+            {
+              "term": "still harder",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Un país de seres sin humanidad sería aún más difícil de habitar que el mundo humano.",
+          "ttsText": "Un país de seres sin humanidad sería aún más difícil de habitar que el mundo humano.",
+          "vocabulary": [
+            {
+              "term": "aún más",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Un pays d'êtres sans humanité serait encore moins habitable que le monde des hommes.",
+          "ttsText": "Un pays d'êtres sans humanité serait encore moins habitable que le monde des hommes.",
+          "vocabulary": [
+            {
+              "term": "encore moins",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ein Land von Wesen ohne Menschlichkeit wäre noch schwerer zu bewohnen als die Menschenwelt.",
+          "ttsText": "Ein Land von Wesen ohne Menschlichkeit wäre noch schwerer zu bewohnen als die Menschenwelt.",
+          "vocabulary": [
+            {
+              "term": "noch schwerer",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "В стране существ без человечности жить было бы ещё труднее, чем в мире людей.",
+          "ttsText": "В стране существ без человечности жить было бы ещё труднее, чем в мире людей.",
+          "vocabulary": [
+            {
+              "term": "ещё труднее",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "ولعل العيش في بلد كائنات بلا إنسانية أصعب منه في عالم البشر.",
+          "ttsText": "ولعل العيش في بلد كائنات بلا إنسانية أصعب منه في عالم البشر.",
+          "vocabulary": [
+            {
+              "term": "أصعب",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-laʿalla al-ʿaysha fī baladi kāʾinātin bi-lā insāniyyatin aṣʿabu minhu fī ʿālami al-bashari.",
+            "note": {
+              "ja": "文末 al-bashari は休止形で al-bashar。",
+              "en": "Final al-bashari becomes al-bashar at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "没有人性的国度，想必比人世还要难以居住。",
+          "ttsText": "没有人性的国度，想必比人世还要难以居住。",
+          "vocabulary": [
+            {
+              "term": "还要",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Méiyǒu rénxìng de guódù, xiǎngbì bǐ rénshì hái yào nányǐ jūzhù."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "인간다움이 없는 자들의 나라는 인간 세상보다도 더욱 살기 어려울 것이다.",
+          "ttsText": "인간다움이 없는 자들의 나라는 인간 세상보다도 더욱 살기 어려울 것이다.",
+          "vocabulary": [
+            {
+              "term": "더욱",
+              "meaning": {
+                "ja": "比較をさらに強める部分。",
+                "en": "An expression that intensifies the comparison."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "越す事のならぬ世が住みにくければ、住みにくい所をどれほどか、寛容て、束の間の命を、束の間でも住みよくせねばならぬ。",
+          "ttsText": "こすことのならぬよがすみにくければ、すみにくいところをどれほどか、くつろげて、つかのまのいのちを、つかのまでもすみよくせねばならぬ。",
+          "vocabulary": [
+            {
+              "term": "束の間",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「寛容て」は原典の表記を保持し、ルビどおり「くつろげて」と読みます。「せねばならぬ」は「しなければならない」。命の短さと、その中の短い安らぎを「束の間」で重ねています。",
+              "en": "The spelling 寛容て is preserved and read kutsurogete, following the source ruby. Seneba naranu means must do. The repeated tsuka no ma links a brief life with a brief moment of ease within it."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "If the world we cannot leave is hard to live in, we must make this difficult place a little more congenial, and make our fleeting lives more comfortable, if only for a moment.",
+          "ttsText": "If the world we cannot leave is hard to live in, we must make this difficult place a little more congenial, and make our fleeting lives more comfortable, if only for a moment.",
+          "vocabulary": [
+            {
+              "term": "fleeting",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si resulta difícil vivir en un mundo del que no podemos mudarnos, debemos hacerlo un poco más acogedor y volver más llevadera nuestra vida fugaz, aunque sea por un instante.",
+          "ttsText": "Si resulta difícil vivir en un mundo del que no podemos mudarnos, debemos hacerlo un poco más acogedor y volver más llevadera nuestra vida fugaz, aunque sea por un instante.",
+          "vocabulary": [
+            {
+              "term": "fugaz",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si le monde qu'on ne peut quitter est difficile à habiter, il faut le rendre un peu plus accueillant et rendre notre brève vie plus agréable, ne serait-ce qu'un instant.",
+          "ttsText": "Si le monde qu'on ne peut quitter est difficile à habiter, il faut le rendre un peu plus accueillant et rendre notre brève vie plus agréable, ne serait-ce qu'un instant.",
+          "vocabulary": [
+            {
+              "term": "brève",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wenn die Welt, die wir nicht verlassen können, schwer zu bewohnen ist, müssen wir diesen beschwerlichen Ort ein wenig behaglicher machen und unser flüchtiges Leben wenigstens für einen Augenblick angenehmer gestalten.",
+          "ttsText": "Wenn die Welt, die wir nicht verlassen können, schwer zu bewohnen ist, müssen wir diesen beschwerlichen Ort ein wenig behaglicher machen und unser flüchtiges Leben wenigstens für einen Augenblick angenehmer gestalten.",
+          "vocabulary": [
+            {
+              "term": "flüchtiges",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если трудно жить в мире, из которого нельзя переселиться, надо хоть немного сделать его уютнее и нашу мимолётную жизнь хоть на миг сделать легче.",
+          "ttsText": "Если трудно жить в мире, из которого нельзя переселиться, надо хоть немного сделать его уютнее и нашу мимолётную жизнь хоть на миг сделать легче.",
+          "vocabulary": [
+            {
+              "term": "мимолётную",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "إذا صعب العيش في عالم لا نستطيع الرحيل عنه، فعلينا أن نجعله أرحب قليلا، وأن نجعل حياتنا العابرة أطيب، ولو للحظة.",
+          "ttsText": "إذا صعب العيش في عالم لا نستطيع الرحيل عنه، فعلينا أن نجعله أرحب قليلا، وأن نجعل حياتنا العابرة أطيب، ولو للحظة.",
+          "vocabulary": [
+            {
+              "term": "العابرة",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Idhā ṣaʿuba al-ʿayshu fī ʿālamin lā nastaṭīʿu ar-raḥīla ʿanhu, fa-ʿalaynā an najʿalahu arḥaba qalīlan, wa-an najʿala ḥayātanā al-ʿābirata aṭyaba, wa-law li-laḥẓatin.",
+            "note": {
+              "ja": "文末 laḥẓatin は休止形では laḥẓah。",
+              "en": "Final laḥẓatin has the pausal form laḥẓah."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "若无法迁离的人世难以居住，就必须多少使这难以安居的地方宽舒一些，让短暂的生命，哪怕片刻也过得舒适些。",
+          "ttsText": "若无法迁离的人世难以居住，就必须多少使这难以安居的地方宽舒一些，让短暂的生命，哪怕片刻也过得舒适些。",
+          "vocabulary": [
+            {
+              "term": "短暂",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ruò wúfǎ qiānlí de rénshì nányǐ jūzhù, jiù bìxū duōshǎo shǐ zhè nányǐ ānjū de dìfang kuānshū yīxiē, ràng duǎnzàn de shēngmìng, nǎpà piànkè yě guò de shūshì xiē.",
+            "note": {
+              "ja": "一些は yìxiē と発音します。",
+              "en": "一些 is pronounced yìxiē."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "옮겨 갈 수 없는 세상이 살기 어렵다면, 그 살기 어려운 곳을 조금이나마 편안하게 만들어, 덧없는 삶을 잠시라도 살기 좋게 해야 한다.",
+          "ttsText": "옮겨 갈 수 없는 세상이 살기 어렵다면, 그 살기 어려운 곳을 조금이나마 편안하게 만들어, 덧없는 삶을 잠시라도 살기 좋게 해야 한다.",
+          "vocabulary": [
+            {
+              "term": "덧없는",
+              "meaning": {
+                "ja": "ごく短く、すぐ過ぎてしまうこと。",
+                "en": "Brief and quickly passing."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u013/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "ここに詩人という天職が出来て、ここに画家という使命が降る。",
+          "ttsText": "ここにしじんというてんしょくができて、ここにがかというしめいがくだる。",
+          "vocabulary": [
+            {
+              "term": "天職",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "二度の「ここに」は場所だけでなく、前文の必要から生じる帰結を示します。「降る」は「くだる」で、使命を授かるイメージ。",
+              "en": "The repeated koko ni marks a consequence of the need expressed in the previous sentence. 降る is read kudaru and evokes a mission being bestowed."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Here the vocation of the poet comes into being; here the mission of the painter descends upon us.",
+          "ttsText": "Here the vocation of the poet comes into being; here the mission of the painter descends upon us.",
+          "vocabulary": [
+            {
+              "term": "vocation",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Aquí nace la vocación del poeta; aquí desciende la misión del pintor.",
+          "ttsText": "Aquí nace la vocación del poeta; aquí desciende la misión del pintor.",
+          "vocabulary": [
+            {
+              "term": "vocación",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "C'est ici que naît la vocation du poète, ici que descend la mission du peintre.",
+          "ttsText": "C'est ici que naît la vocation du poète, ici que descend la mission du peintre.",
+          "vocabulary": [
+            {
+              "term": "vocation",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Hier entsteht die Berufung des Dichters, hier wird dem Maler seine Aufgabe zuteil.",
+          "ttsText": "Hier entsteht die Berufung des Dichters, hier wird dem Maler seine Aufgabe zuteil.",
+          "vocabulary": [
+            {
+              "term": "Berufung",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Здесь возникает призвание поэта, здесь нисходит миссия художника.",
+          "ttsText": "Здесь возникает призвание поэта, здесь нисходит миссия художника.",
+          "vocabulary": [
+            {
+              "term": "призвание",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هنا تنشأ رسالة الشاعر، وهنا تنزل مهمة الرسام.",
+          "ttsText": "هنا تنشأ رسالة الشاعر، وهنا تنزل مهمة الرسام.",
+          "vocabulary": [
+            {
+              "term": "رسالة",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hunā tanshaʾu risālatu ash-shāʿiri, wa-hunā tanzilu muhimmatu ar-rassāmi.",
+            "note": {
+              "ja": "文末 ar-rassāmi は休止すると ar-rassām。",
+              "en": "Final ar-rassāmi becomes ar-rassām at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "诗人的天职由此产生，画家的使命由此降临。",
+          "ttsText": "诗人的天职由此产生，画家的使命由此降临。",
+          "vocabulary": [
+            {
+              "term": "天职",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shīrén de tiānzhí yóucǐ chǎnshēng, huàjiā de shǐmìng yóucǐ jiànglín.",
+            "note": {
+              "ja": "由此产生では、此の後に第3声の产が続くため、此は発音時に第2声になります。",
+              "en": "In 由此产生, 此 is pronounced with a second tone before third-tone 产."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "여기서 시인이라는 천직이 생겨나고, 여기서 화가라는 사명이 내려온다.",
+          "ttsText": "여기서 시인이라는 천직이 생겨나고, 여기서 화가라는 사명이 내려온다.",
+          "vocabulary": [
+            {
+              "term": "천직",
+              "meaning": {
+                "ja": "天から与えられたかのような、その人の担うべき仕事や役割。",
+                "en": "A calling: a task or role felt to be bestowed on a person."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u014/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "あらゆる芸術の士は人の世を長閑にし、人の心を豊かにするが故に尊とい。",
+          "ttsText": "あらゆるげいじゅつのしはひとのよをのどかにし、ひとのこころをゆたかにするがゆえにたっとい。",
+          "vocabulary": [
+            {
+              "term": "尊とい",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「が故に」は理由を表す文語的な表現。「長閑」は「のどか」、「尊とい」は原典のルビに従い「たっとい」と読みます。",
+              "en": "Ga yue ni is a literary expression of cause. 長閑 is read nodoka; 尊とい follows the source reading tattoi."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "青空文庫 — 草枕（図書カード No.776）"
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "All practitioners of the arts are worthy of esteem because they bring tranquillity to the human world and enrich the human heart.",
+          "ttsText": "All practitioners of the arts are worthy of esteem because they bring tranquillity to the human world and enrich the human heart.",
+          "vocabulary": [
+            {
+              "term": "worthy of esteem",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Todos los que cultivan las artes son dignos de estima porque traen sosiego al mundo humano y enriquecen el corazón de las personas.",
+          "ttsText": "Todos los que cultivan las artes son dignos de estima porque traen sosiego al mundo humano y enriquecen el corazón de las personas.",
+          "vocabulary": [
+            {
+              "term": "dignos de estima",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Tous ceux qui pratiquent les arts sont dignes d'estime parce qu'ils apportent la sérénité au monde des hommes et enrichissent leur cœur.",
+          "ttsText": "Tous ceux qui pratiquent les arts sont dignes d'estime parce qu'ils apportent la sérénité au monde des hommes et enrichissent leur cœur.",
+          "vocabulary": [
+            {
+              "term": "dignes d'estime",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Alle, die sich den Künsten widmen, sind verehrungswürdig, weil sie die Menschenwelt friedlicher machen und das menschliche Herz bereichern.",
+          "ttsText": "Alle, die sich den Künsten widmen, sind verehrungswürdig, weil sie die Menschenwelt friedlicher machen und das menschliche Herz bereichern.",
+          "vocabulary": [
+            {
+              "term": "verehrungswürdig",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Все служители искусства достойны уважения, ибо делают мир людей спокойнее и обогащают человеческое сердце.",
+          "ttsText": "Все служители искусства достойны уважения, ибо делают мир людей спокойнее и обогащают человеческое сердце.",
+          "vocabulary": [
+            {
+              "term": "достойны уважения",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كل أهل الفن جديرون بالتقدير لأنهم يضفون السكينة على عالم البشر ويثرون قلوب الناس.",
+          "ttsText": "كل أهل الفن جديرون بالتقدير لأنهم يضفون السكينة على عالم البشر ويثرون قلوب الناس.",
+          "vocabulary": [
+            {
+              "term": "جديرون بالتقدير",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kullu ahli al-fanni jadīrūna bi-at-taqdīri li-annahum yuḍfūna as-sakīnata ʿalā ʿālami al-bashari wa-yuthrūna qulūba an-nāsi.",
+            "note": {
+              "ja": "bi-at-taqdīri は連音で bit-taqdīri。文末 an-nāsi の休止形は an-nās。",
+              "en": "In connected speech, bi-at-taqdīri becomes bit-taqdīri. Final an-nāsi has the pausal form an-nās."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "一切从事艺术的人都值得尊敬，因为他们使人世安宁，使人心丰富。",
+          "ttsText": "一切从事艺术的人都值得尊敬，因为他们使人世安宁，使人心丰富。",
+          "vocabulary": [
+            {
+              "term": "值得尊敬",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīqiè cóngshì yìshù de rén dōu zhíde zūnjìng, yīnwèi tāmen shǐ rénshì ānníng, shǐ rénxīn fēngfù.",
+            "note": {
+              "ja": "一切は yíqiè と発音します。",
+              "en": "一切 is pronounced yíqiè."
+            }
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "모든 예술가는 인간 세상을 평온하게 하고 사람의 마음을 풍요롭게 하기에 존귀하다.",
+          "ttsText": "모든 예술가는 인간 세상을 평온하게 하고 사람의 마음을 풍요롭게 하기에 존귀하다.",
+          "vocabulary": [
+            {
+              "term": "존귀하다",
+              "meaning": {
+                "ja": "敬意を払うべき価値があること。",
+                "en": "Deserving respect and esteem."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/soseki-kusamakura-opening/u015/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ],
+  "bibliography": {
+    "originalTitle": "草枕",
+    "originalAuthor": "夏目漱石",
+    "title": {
+      "ja": "草枕",
+      "en": "Grass Pillow (Kusamakura)"
+    },
+    "author": {
+      "ja": "夏目漱石",
+      "en": "Natsume Sōseki"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "333dcdbc8418c5dc55441297fed265cabdf4cca96439b3539223c0f7f57e47ae",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "第二条是，把我考察的每一个难题，分成尽可能多、并且为更好地解决它所需要的若干小部分。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a56c922283054889eca13046b1b1b315c56cc89a3796d991ae54017ffb8a60aa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:28:48.626175+00:00"
+}

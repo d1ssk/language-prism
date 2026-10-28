@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9a90cc55fe0925cb1f82daa3bf7d37b0e1ff699f1b28fdd8a18ce64de7c2e5eb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "回顾过去的经历，我发现意想不到的事情常常改变了我的人生方向。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1e66184468ee4720dee2475ba4d1ad09fde0d698513e8728621eff61f8348d94",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:04:03.091895+00:00"
+}

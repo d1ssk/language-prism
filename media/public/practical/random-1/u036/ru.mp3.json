@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ce5f665a42f14683be2f4fa7268409e006d0c5310f8bf4522a3f36cde40e82a0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Думаю, чтобы улучшить знание иностранного языка, важно понемногу пользоваться им каждый день.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "19d66fe4b2a75d44735388afe4e6abec3b61b5930663eaf5185153dfd3b9a56c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:32:13.300566+00:00"
+}

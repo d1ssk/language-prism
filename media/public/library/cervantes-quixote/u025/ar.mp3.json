@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4e8e24760c29527f0b10be9f1146fe387487b2d8db1392f51cb7fced9bf95260",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وخلاصة القول إنه انهمك في القراءة حتى كان يمضي الليالي يقرأ من الغروب إلى الفجر، والأيام من الفجر إلى الغروب؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3cc66844e52d4446f413bc9fd02b291e8afe9bb2c3dc28183e88708a1301a621",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:55:51.351266+00:00"
+}

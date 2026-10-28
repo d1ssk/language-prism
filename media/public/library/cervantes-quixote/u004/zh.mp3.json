@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c3e7c8755bcd09d4f85a1b422699113296144532d21c49eaccc1659d4d76b4dd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "而在平日，他便穿着最上等的棕色毛呢衣服，以维护自己的体面。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "131029ae2f0111b07b8f02035b79b9133b22c5400b3a116367c85e64718e3a21",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:09:55.019434+00:00"
+}

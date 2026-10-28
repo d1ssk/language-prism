@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b2f115a4529abba1f4401631845cc8124ae2554dce5738c86ad45955d58cb6d0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El amor, pensé, es más fuerte que la muerte y el miedo a la muerte. Solo por él, solo por el amor, la vida se sostiene y se mueve.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4f91d6282fba1201289cd1ce412a8d443fd4968d76fd029de11a5bb15d491115",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:22:48.380936+00:00"
+}

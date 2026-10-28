@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4278d7594f7e5e51c11647cc09b4098d2cc966e3e372399ce4437312cad58baa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Aunque fracase, no creo que sea una pérdida si puedo aprender algo de ello.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fac99b8742fa000f8e95be7407aa1948e7fa51e7f43956883cdc3ea5038002ed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:25.114649+00:00"
+}

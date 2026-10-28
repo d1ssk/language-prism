@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "349f435a92cae2ed4d6c72a4bc8a88f5eb2c281a696f2cf78da4c0c94a2464ac",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الرواية التي قرأتها مؤخرًا ما زالت عالقة في ذهني حتى بعد أن انتهيت منها.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "329d2cd96485f6cc592d69c8440eabc5716fb88bcc124c110254c1f6e6bdfdaf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:51.486037+00:00"
+}

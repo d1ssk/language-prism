@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13802797666646c378a8ce571b9ad566a344763dfa9866d635c4291d44949439",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "即使每天都很忙，我也想珍惜一个人安静思考的时间。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c6732300a8e5ce34c5d5ec04570382ac2b20702773bfc5c944a2cc9de00e29ac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:53:40.580324+00:00"
+}

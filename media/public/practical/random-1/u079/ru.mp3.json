@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47fd8dae8689609fb05339428edc20f8e12729b33a1f818441d49ada87fab766",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Оглядываясь назад, я понимаю, что неожиданные события не раз меняли направление моей жизни.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c01353232f008165e470f448b02f656570954b41934abddb7fd0f95cee576a74",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:50.973290+00:00"
+}

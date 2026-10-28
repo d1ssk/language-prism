@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "50d9f00ef095a320e1b886c13cebf546ea8b476bdb188a876aaf42d64c0ec27b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 그렇다면 도대체 무엇을 사랑하나요, 남다른 이방인이여?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b9fa5752159a70743a52a3903db10072c60d2accbb48e061a274bdfbca2d8add",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:49.203259+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0513d3f9e75505d845166124cd631bae8b8d63b4e40cb4e11e75ce55fa8e1d3f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "참새는 새끼를 구하려고 달려들어 제 몸으로 감쌌다. 그러나 작은 몸 전체가 공포로 떨렸고, 가느다란 목소리는 사납게 갈라졌으며, 몸이 굳어 버릴 듯했다. 제 몸을 희생하고 있었다!",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6f3ccb64f014dba0417f1e938b8c9c8ff5abee9a5829f3f39a95ca4eb7d2beb8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:18:05.423245+00:00"
+}

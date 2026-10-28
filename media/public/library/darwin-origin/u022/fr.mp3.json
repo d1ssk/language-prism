@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6876b0d5827329c934e4782b38265514fb472cc2720dc70659f86749c9d37bf8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Et puisque la sélection naturelle agit uniquement par et pour le bien de chaque être, toutes les facultés corporelles et mentales tendront à progresser vers la perfection.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57fafa953aa1b07be120a12544393f0c2abd3bbbfba4d04f634ed3a6b5ab4e01",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:29:29.735340+00:00"
+}

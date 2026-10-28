@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6de2f00f4f17d8e243565b9348e19fa522fc67c23d3638bf737f4ea7ae50cf2b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "也就是说，肯定不到他们目前产量的二百四十分之一，甚至可能不到四千八百分之一，而他们目前的生产能力，正来自不同工序的适当分工与配合。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eb1036b0c76d72a5d046a3856e61585495d11cf2e8f4f48b6ae3a59916e96775",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:51:31.469885+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6bc67e18fb20695db3386bb5bd0985918aecf2ad7e0c4d6cb74cb60ef5e52ffd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "以感情为篙撑船，就会被水流冲走。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1b196d4017f85bbd90dc7cf9ad29ef935e744aaf2420d005fb72440c30ca667c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:48.931330+00:00"
+}

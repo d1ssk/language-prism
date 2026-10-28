@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "064ed95593ae1afa78e5162553f7430b8d47ac6c5d93bf469c0ed8a57ed8fc46",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "اندفع لينقذ فرخه وحماه بجسده… لكن جسمه الصغير كله كان يرتجف من الرعب، وصار صوته الضئيل وحشيا أجش، وكاد يتجمد؛ كان يضحي بنفسه!",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "926bbe86c0d7dd9aad178db9a5cc74cf457ab04efe6c67960be57e689f2673ab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:17:38.929134+00:00"
+}

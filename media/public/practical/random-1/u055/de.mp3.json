@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b8d3c895d4c81aea23fbe0c0954691fb765c4e6693847289256379c79fa0309",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ein Programm nicht wie erwartet funktioniert, prüfe ich zuerst, ob ich das Problem reproduzieren kann.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "77e4d76f08e5c19e07558507f168aa4cc465460ba6148e8fc82cb8b7dfccfa4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:46:00.264311+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f4aa65fb77b5beacc1e3503f6c540fb505f6e8f190a6b85933b757f107385a51",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Не знаю, на какой широте она находится.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "24cd5e52bf71ab1ff28668ac6bbf03d9fdf4e333d589444740d51a8b99fe9e21",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:35.229111+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "958ff8fd1c078adac7c48cf9351e86114d919fc5235d6292aa2a714345c59ff0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "توقف كلبي تريزور وتراجع… ويبدو أنه هو أيضا اعترف بتلك القوة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2bf863934aa143d34a4b28cad29f9dbfb149bf1088f7251eed40be17b79fbec5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:28.459186+00:00"
+}

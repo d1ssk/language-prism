@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3f215381c2af37d21f0ed5169a2af92426a7ff89620d5851b24d2f27955f9f49",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il disait grand bien du géant Morgante : bien qu'appartenant à cette race de géants, tous orgueilleux et grossiers, lui seul était affable et bien élevé.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b25f4fa11da288e9609cac703f49bb2cf8bb384d20452503116566ff93cae1c9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:04:38.802287+00:00"
+}

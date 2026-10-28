@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b03783f78fbd9438f10e64b0854a9634d51c6d490debef63ad7c2bcfab1c620",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "فيرفع كل صنوف الظلم، ويعرض نفسه للمحن والأخطار، لينال بالتغلب عليها اسما ومجدا خالدين.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb14124ede55a0d07b13c13890f10a2b4b70aaf9dde20e0f5b6fe20c4c750dd2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:15:33.443047+00:00"
+}

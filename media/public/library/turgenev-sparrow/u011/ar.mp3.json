@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e8fb83c237f6f742455d91399c2a73466652ec51c9cb980708459b88785bb14",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "نعم، لا تضحكوا. لقد شعرت بالإجلال أمام ذلك الطائر الصغير البطل، وأمام اندفاعه بدافع الحب.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "74cac52d87168bed447739c667d4a0313f932f49f043d10cdb05d6799141320f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:22:10.953105+00:00"
+}

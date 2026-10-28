@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9a42b0a00f6602e2b8ae87b3fcf05b19a13091d3f12a7d0f6c805ab9569782f4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ちしきをおぼえるだけでなく、それがなぜなりたつのかをりかいしたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ca0b436fdd0977fb82db7ff2f3f98628304a8d25a8f504de196006b01452bcfa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:56:54.994918+00:00"
+}

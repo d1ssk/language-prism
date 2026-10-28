@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4b6794332c21f9a9cf6ed4c0121c4b828bb511c93f34637c5d6b05d6805c6a70",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "二者不可得兼，捨生而取義者也。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "28f34aadb1a0644795c6533377dceddd512bfcd78f5a6461d5be670cb0f2762e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:02:24.380888+00:00"
+}

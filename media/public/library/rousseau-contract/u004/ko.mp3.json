@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4bc75377aaa9f6a68fe2cac083affaa27033d68082311e6827fed1cfb1e5c2e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "내가 힘과 거기서 생기는 결과만을 고려한다면, 이렇게 말할 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "387a0f05e1440da442af23a5bd70c1e48ee4d387d09ae7aedaf5268653c25ddd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:54:41.346399+00:00"
+}

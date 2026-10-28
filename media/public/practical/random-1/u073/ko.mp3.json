@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "48cac52771c62c1d70b5c9b358f10bb0a40af02e990fd44eb9e2e2fe9aaed5fc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "실패하더라도 거기서 무언가를 배울 수 있다면 헛된 일은 아니라고 생각해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "824213d490c498a383a71b49a4fd03ab73e95966316fc87f62b4afa7647b4e17",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:56.598612+00:00"
+}

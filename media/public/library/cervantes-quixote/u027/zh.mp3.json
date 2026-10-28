@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "339a909af0fe154154df544e0455b92932b6c14a6d1de3e29ff92ffe0788a2fc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "他的幻想里充满了书中读到的一切：魔法、争斗、战役、挑战、伤口、求爱、恋情、风暴和不可能的荒唐事；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d257e4713d37bc4109b5945299b05c19617d561da47549e1b60ba9bc6659f026",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:58:30.548848+00:00"
+}

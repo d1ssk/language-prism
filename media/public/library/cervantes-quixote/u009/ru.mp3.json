@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4241d8a2fb5ad8886bccbbfef75b8732854d821e1b3f8fea60cab950b72b486d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Но для нашего рассказа это несущественно; довольно того, чтобы повествование ни на йоту не отступало от истины.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bafaf46d6e60baac022e97768bd2a4385c6ffbc44f1fb0b22be9fd911993b5ac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:43.935779+00:00"
+}

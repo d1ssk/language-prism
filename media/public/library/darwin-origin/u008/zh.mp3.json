@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ce6ebad3f2ba8548b402f3ee00789912a74833f7a44e4d34ec6c5bf7f896ff2e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "而且，当这颗行星依照恒定的引力定律不停运转时，从如此简单的开端，已经演化出、并且仍在演化出无穷无尽、极其美丽而奇妙的形态。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2d55f04f15e32bdbca6dbc222db4fd3ea40272793a42614ef631dd613aeab675",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:24:52.551686+00:00"
+}

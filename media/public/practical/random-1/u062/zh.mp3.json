@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fd9cae3769583e9639f15c795fabbd3a2d6de1f631783a772e1cc9b19d018be0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "今天和你在一起很开心，我们过段时间再见吧。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6779f624569dc27516b5863956292dab686cde01f07775d38822d66ccdbc247c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:50:44.298306+00:00"
+}

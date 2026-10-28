@@ -1,0 +1,2308 @@
+{
+  "schemaVersion": 1,
+  "id": "red-chamber",
+  "slug": "red-chamber",
+  "type": "library",
+  "title": {
+    "ja": "紅楼夢",
+    "en": "Dream of the Red Chamber"
+  },
+  "description": {
+    "ja": "天を補うために使われなかった石が、人間世界への憧れを募らせる物語の導入。",
+    "en": "The opening tale of a stone left unused in repairing heaven, longing to enter the human world."
+  },
+  "originalLanguage": "zh",
+  "author": "曹雪芹",
+  "bibliography": {
+    "originalTitle": "紅樓夢",
+    "originalAuthor": "曹雪芹",
+    "title": {
+      "ja": "紅楼夢",
+      "en": "Dream of the Red Chamber"
+    },
+    "author": {
+      "ja": "曹雪芹",
+      "en": "Cao Xueqin"
+    }
+  },
+  "sourceTitle": "Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)",
+  "sourceURL": "https://zh.wikisource.org/wiki/紅樓夢/第001回",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：曹雪芹。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: 曹雪芹. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。維基文庫の目次では、前80回は庚辰本を底本とする批語なしの校合本文とされています。特定の写本をそのまま再現したものではありません。採用ページの繁体字を中心とする混用表記（异・复・洁・体など）を保持し、校注番号のみ除いています。拼音は現代標準中国語の読みです。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. Wikisource describes chapters 1–80 as a collated text based on the Gengchen manuscript, without marginal commentary; it is not a diplomatic transcription of a single manuscript. The source’s mixed character forms, including 异, 复, 洁 and 体, are retained; note markers are omitted. Pinyin uses modern Standard Mandarin."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1回「列位看官」から「竟不知投奔何方何舍」まで。女媧の石が人間世界へ向かう場面",
+      "en": "Chapter 1, from 列位看官 to 竟不知投奔何方何舍: the stone leaves for the human world"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "読者の皆さま、この本はどこから来たと思われますか。そのいわれは荒唐無稽に聞こえますが、よく味わえば深い趣があります。まず私がこの来歴を明らかにして、お聞きになる方々の疑いを晴らしましょう。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "どくしゃのみなさま、このほんはどこからきたとおもわれますか。そのいわれはこうとうむけいにきこえますが、よくあじわえばふかいおもむきがあります。まずわたしがこのらいれきをあきらかにして、おききになるかたがたのうたがいをはらしましょう。"
+        },
+        "en": {
+          "text": "Dear readers, where do you think this book came from? Its origins may sound absurd, yet close consideration reveals a deep interest. Let me explain its history so that those who hear it may understand without confusion.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dear readers, where do you think this book came from? Its origins may sound absurd, yet close consideration reveals a deep interest. Let me explain its history so that those who hear it may understand without confusion."
+        },
+        "es": {
+          "text": "Estimados lectores, ¿de dónde creen que viene este libro? Sus orígenes pueden parecer absurdos, pero examinados con cuidado tienen profundo interés. Permítanme explicar su historia para que quienes la oigan comprendan sin dudas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Estimados lectores, ¿de dónde creen que viene este libro? Sus orígenes pueden parecer absurdos, pero examinados con cuidado tienen profundo interés. Permítanme explicar su historia para que quienes la oigan comprendan sin dudas."
+        },
+        "fr": {
+          "text": "Chers lecteurs, d’où croyez-vous que vient ce livre ? Ses origines paraissent extravagantes, mais recèlent un profond intérêt si on les examine. Laissez-moi en éclaircir l’histoire afin que ceux qui l’entendent comprennent sans perplexité.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Chers lecteurs, d’où croyez-vous que vient ce livre ? Ses origines paraissent extravagantes, mais recèlent un profond intérêt si on les examine. Laissez-moi en éclaircir l’histoire afin que ceux qui l’entendent comprennent sans perplexité."
+        },
+        "de": {
+          "text": "Verehrte Leser, woher stammt wohl dieses Buch? Seine Herkunft mag absonderlich klingen, doch bei genauer Betrachtung ist sie höchst reizvoll. Lasst mich diese Geschichte erläutern, damit die Zuhörer klar verstehen und nicht im Zweifel bleiben.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Verehrte Leser, woher stammt wohl dieses Buch? Seine Herkunft mag absonderlich klingen, doch bei genauer Betrachtung ist sie höchst reizvoll. Lasst mich diese Geschichte erläutern, damit die Zuhörer klar verstehen und nicht im Zweifel bleiben."
+        },
+        "ru": {
+          "text": "Уважаемые читатели, откуда, по-вашему, взялась эта книга? Рассказ о её происхождении кажется нелепым, но при внимательном рассмотрении полон глубокого интереса. Позвольте объяснить её историю, чтобы слушающие всё поняли без сомнений.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Уважаемые читатели, откуда, по-вашему, взялась эта книга? Рассказ о её происхождении кажется нелепым, но при внимательном рассмотрении полон глубокого интереса. Позвольте объяснить её историю, чтобы слушающие всё поняли без сомнений."
+        },
+        "ar": {
+          "text": "أَيُّهَا الْقُرَّاءُ، مِنْ أَيْنَ تَظُنُّونَ أَنَّ هَذَا الْكِتَابَ جَاءَ؟ قَدْ تَبْدُو قِصَّةُ أَصْلِهِ غَرِيبَةً، وَلَكِنَّ تَأَمُّلَهَا يَكْشِفُ مَتْعَةً عَمِيقَةً. دَعُونِي أُوَضِّحْ هَذِهِ الْقِصَّةَ لِيَفْهَمَهَا السَّامِعُونَ دُونَ حَيْرَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "أَيُّهَا الْقُرَّاءُ، مِنْ أَيْنَ تَظُنُّونَ أَنَّ هَذَا الْكِتَابَ جَاءَ؟ قَدْ تَبْدُو قِصَّةُ أَصْلِهِ غَرِيبَةً، وَلَكِنَّ تَأَمُّلَهَا يَكْشِفُ مَتْعَةً عَمِيقَةً. دَعُونِي أُوَضِّحْ هَذِهِ الْقِصَّةَ لِيَفْهَمَهَا السَّامِعُونَ دُونَ حَيْرَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAyyuhā al-qurrāʾu, min ʾayna taẓunnūna ʾanna hādhā al-kitāba jāʾa? Qad tabdū qiṣṣatu ʾaṣlihi gharībatan, wa-lākinna taʾammulahā yakshifu matʿatan ʿamīqatan. Daʿūnī ʾuwaḍḍiḥ hādhihi al-qiṣṣata li-yafhamahā as-sāmiʿūna dūna ḥayratin."
+          }
+        },
+        "zh": {
+          "text": "列位看官，你道此書從何而來？說起根由雖近荒唐，細諳則深有趣味。待在下將此來歷注明，方使聞者了然不惑。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "看官は読者・聞き手への呼びかけ。在下は語り手が自分をへりくだっていう語です。",
+              "en": "看官 addresses readers or listeners. 在下 is the narrator’s modest self-reference."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "列位看官，你道此書從何而來？說起根由雖近荒唐，細諳則深有趣味。待在下將此來歷注明，方使聞者了然不惑。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Lièwèi kànguān, nǐ dào cǐ shū cóng hé ér lái? Shuō qǐ gēnyóu suī jìn huāngtáng, xì ān zé shēn yǒu qùwèi. Dài zàixià jiāng cǐ láilì zhùmíng, fāng shǐ wénzhě liǎorán bù huò."
+          },
+          "references": [
+            {
+              "title": "維基文庫 — 紅樓夢（底本・校合本文の説明）",
+              "url": "https://zh.wikisource.org/wiki/紅樓夢"
+            }
+          ]
+        },
+        "ko": {
+          "text": "독자 여러분, 이 책은 어디에서 왔다고 생각하십니까? 그 내력은 황당하게 들리지만 자세히 음미하면 깊은 재미가 있습니다. 제가 그 내력을 밝혀 듣는 분들이 분명히 알고 의문을 품지 않게 하겠습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "독자 여러분, 이 책은 어디에서 왔다고 생각하십니까? 그 내력은 황당하게 들리지만 자세히 음미하면 깊은 재미가 있습니다. 제가 그 내력을 밝혀 듣는 분들이 분명히 알고 의문을 품지 않게 하겠습니다."
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "そもそも昔、女媧が石を練って天を補ったとき、大荒山の無稽崖で、高さ十二丈、幅二十四丈の大きな石を三万六千五百一個つくりました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そもそもむかし、じょかがいしをねっててんをおぎなったとき、たいこうざんのむけいがいで、たかさじゅうにじょう、はばにじゅうよんじょうのおおきないしをさんまんろくせんごひゃくいっこつくりました。"
+        },
+        "en": {
+          "text": "Long ago, when Nüwa smelted stones to repair heaven, she made 36,501 rough stones at Baseless Cliff on Great Waste Mountain, each twelve zhang high and twenty-four zhang across.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Long ago, when Nüwa smelted stones to repair heaven, she made 36,501 rough stones at Baseless Cliff on Great Waste Mountain, each twelve zhang high and twenty-four zhang across."
+        },
+        "es": {
+          "text": "Antaño, cuando Nüwa fundió piedras para reparar el cielo, produjo en el Acantilado sin Fundamento de la Montaña del Gran Yermo 36.501 piedras brutas, de doce zhang de altura y veinticuatro de anchura cada una.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Antaño, cuando Nüwa fundió piedras para reparar el cielo, produjo en el Acantilado sin Fundamento de la Montaña del Gran Yermo 36.501 piedras brutas, de doce zhang de altura y veinticuatro de anchura cada una."
+        },
+        "fr": {
+          "text": "Autrefois, lorsque Nüwa fondit des pierres pour réparer le ciel, elle façonna à la Falaise sans Fondement du mont du Grand Désert 36 501 pierres brutes, hautes de douze zhang et larges de vingt-quatre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Autrefois, lorsque Nüwa fondit des pierres pour réparer le ciel, elle façonna à la Falaise sans Fondement du mont du Grand Désert 36 501 pierres brutes, hautes de douze zhang et larges de vingt-quatre."
+        },
+        "de": {
+          "text": "Als Nüwa einst Steine schmolz, um den Himmel zu flicken, schuf sie an der Klippe ohne Grundlage auf dem Berg der Großen Wildnis 36.501 rohe Steine, jeweils zwölf Zhang hoch und vierundzwanzig Zhang breit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Als Nüwa einst Steine schmolz, um den Himmel zu flicken, schuf sie an der Klippe ohne Grundlage auf dem Berg der Großen Wildnis 36.501 rohe Steine, jeweils zwölf Zhang hoch und vierundzwanzig Zhang breit."
+        },
+        "ru": {
+          "text": "Давным-давно Нюйва, выплавляя камни для починки неба, изготовила у Скалы Безосновательности на горе Великой Пустоши 36 501 необработанный камень, каждый высотой двенадцать чжанов и шириной двадцать четыре.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Давным-давно Нюйва, выплавляя камни для починки неба, изготовила у Скалы Безосновательности на горе Великой Пустоши 36 501 необработанный камень, каждый высотой двенадцать чжанов и шириной двадцать четыре."
+        },
+        "ar": {
+          "text": "قَدِيمًا، حِينَ صَهَرَتْ نُوَا الْحِجَارَةَ لِتَرْمِيمِ السَّمَاءِ، صَنَعَتْ عِنْدَ جُرْفِ انْعِدَامِ الْأَسَاسِ فِي جَبَلِ الْخَلَاءِ الْعَظِيمِ سِتَّةً وَثَلَاثِينَ أَلْفًا وَخَمْسَمِائَةٍ وَحَجَرًا، ارْتِفَاعُ كُلٍّ مِنْهَا اثْنَا عَشَرَ تْشَانْغَ وَعَرْضُهُ أَرْبَعَةٌ وَعِشْرُونَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "قَدِيمًا، حِينَ صَهَرَتْ نُوَا الْحِجَارَةَ لِتَرْمِيمِ السَّمَاءِ، صَنَعَتْ عِنْدَ جُرْفِ انْعِدَامِ الْأَسَاسِ فِي جَبَلِ الْخَلَاءِ الْعَظِيمِ سِتَّةً وَثَلَاثِينَ أَلْفًا وَخَمْسَمِائَةٍ وَحَجَرًا، ارْتِفَاعُ كُلٍّ مِنْهَا اثْنَا عَشَرَ تْشَانْغَ وَعَرْضُهُ أَرْبَعَةٌ وَعِشْرُونَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Qadīman, ḥīna ṣaharat Nuwā al-ḥijārata li-tarmīmi as-samāʾi, ṣanaʿat ʿinda jurfi inʿidāmi al-ʾasāsi fī jabali al-khalāʾi al-ʿaẓīmi sittatan wa-thalāthīna ʾalfan wa-khamsamiʾatin wa-ḥajaran, irtifāʿu kullin minhā ithnā ʿashara tshāngha wa-ʿarḍuhu ʾarbaʿatun wa-ʿishrūna."
+          }
+        },
+        "zh": {
+          "text": "原來，當年女媧氏煉石補天之時，於大荒山無稽崖煉成高經十二丈，方經二十四丈頑石三萬六千五百零一塊。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "女媧は天を補う神話の女神。丈は長さの単位で、ここでは現代のメートルに換算せず残しています。",
+              "en": "Nüwa is the goddess who repairs heaven in the myth. Zhang is a unit of length, retained here without converting it to modern metres."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "原來，當年女媧氏煉石補天之時，於大荒山無稽崖煉成高經十二丈，方經二十四丈頑石三萬六千五百零一塊。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yuánlái, dāngnián Nǚwā shì liàn shí bǔ tiān zhī shí, yú Dàhuāng shān Wújī yá liàn chéng gāojīng shí’èr zhàng, fāngjīng èrshísì zhàng wánshí sān wàn liù qiān wǔ bǎi líng yī kuài."
+          }
+        },
+        "ko": {
+          "text": "옛날 여와가 돌을 달구어 하늘을 메울 때, 대황산 무계애에서 높이 열두 장, 너비 스물네 장인 거친 돌 삼만 육천오백한 개를 만들었습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "옛날 여와가 돌을 달구어 하늘을 메울 때, 대황산 무계애에서 높이 열두 장, 너비 스물네 장인 거친 돌 삼만 육천오백한 개를 만들었습니다."
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "女媧が使ったのは三万六千五百個だけで、たった一つ使われずに残った石は、この山の青埂峰のふもとに捨てられました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "じょかがつかったのはさんまんろくせんごひゃっこだけで、たったひとつつかわれずにのこったいしは、このやまのせいこうほうのふもとにすてられました。"
+        },
+        "en": {
+          "text": "Nüwa used only 36,500 of them. Just one remained unused, and she discarded it at the foot of Green Ridge Peak on that mountain.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nüwa used only 36,500 of them. Just one remained unused, and she discarded it at the foot of Green Ridge Peak on that mountain."
+        },
+        "es": {
+          "text": "Nüwa solo utilizó 36.500. Quedó una única piedra sin usar, que abandonó al pie del Pico de la Cresta Verde de aquella montaña.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nüwa solo utilizó 36.500. Quedó una única piedra sin usar, que abandonó al pie del Pico de la Cresta Verde de aquella montaña."
+        },
+        "fr": {
+          "text": "Nüwa n’en utilisa que 36 500. Il en resta une seule, inutilisée, qu’elle abandonna au pied du pic de la Crête Verte de cette montagne.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nüwa n’en utilisa que 36 500. Il en resta une seule, inutilisée, qu’elle abandonna au pied du pic de la Crête Verte de cette montagne."
+        },
+        "de": {
+          "text": "Nüwa verwendete nur 36.500 davon. Ein einziger blieb unbenutzt und wurde am Fuß des Gipfels Grüner Grat auf diesem Berg weggeworfen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nüwa verwendete nur 36.500 davon. Ein einziger blieb unbenutzt und wurde am Fuß des Gipfels Grüner Grat auf diesem Berg weggeworfen."
+        },
+        "ru": {
+          "text": "Нюйва использовала лишь 36 500 камней. Один-единственный остался ненужным, и она бросила его у подножия пика Зелёный Гребень на той горе.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Нюйва использовала лишь 36 500 камней. Один-единственный остался ненужным, и она бросила его у подножия пика Зелёный Гребень на той горе."
+        },
+        "ar": {
+          "text": "اسْتَخْدَمَتْ نُوَا سِتَّةً وَثَلَاثِينَ أَلْفًا وَخَمْسَمِائَةٍ فَقَطْ، وَبَقِيَ حَجَرٌ وَاحِدٌ لَمْ يُسْتَخْدَمْ، فَأَلْقَتْهُ عِنْدَ سَفْحِ قِمَّةِ الْحَيْدِ الْأَخْضَرِ فِي ذَلِكَ الْجَبَلِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "اسْتَخْدَمَتْ نُوَا سِتَّةً وَثَلَاثِينَ أَلْفًا وَخَمْسَمِائَةٍ فَقَطْ، وَبَقِيَ حَجَرٌ وَاحِدٌ لَمْ يُسْتَخْدَمْ، فَأَلْقَتْهُ عِنْدَ سَفْحِ قِمَّةِ الْحَيْدِ الْأَخْضَرِ فِي ذَلِكَ الْجَبَلِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Istakhdamat Nuwā sittatan wa-thalāthīna ʾalfan wa-khamsamiʾatin faqaṭ, wa-baqiya ḥajarun wāḥidun lam yustakhdam, fa-ʾalqathu ʿinda safḥi qimmati al-ḥaydi al-ʾakhḍari fī dhālika al-jabali."
+          }
+        },
+        "zh": {
+          "text": "媧皇氏只用了三萬六千五百塊，只單單剩了一塊未用，便棄在此山青埂峰下。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "媧皇氏只用了三萬六千五百塊，只單單剩了一塊未用，便棄在此山青埂峰下。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wāhuáng shì zhǐ yòng le sān wàn liù qiān wǔ bǎi kuài, zhǐ dāndān shèng le yī kuài wèi yòng, biàn qì zài cǐ shān Qīnggěng fēng xià."
+          }
+        },
+        "ko": {
+          "text": "여와는 삼만 육천오백 개만 썼고, 쓰이지 않은 돌 하나만 남자 그 산 청경봉 아래에 버렸습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "여와는 삼만 육천오백 개만 썼고, 쓰이지 않은 돌 하나만 남자 그 산 청경봉 아래에 버렸습니다."
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "ところが、その石は火で鍛えられてから霊性に目覚めていました。ほかの石はみな天を補えたのに、自分だけは役に立たず選ばれなかったのを見て、自らを嘆き、昼も夜も泣き叫び、恥じていたのです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ところが、そのいしはひできたえられてかられいせいにめざめていました。ほかのいしはみなてんをおぎなえたのに、じぶんだけはやくにたたずえらばれなかったのをみて、みずからをなげき、ひるもよるもなきさけび、はじていたのです。"
+        },
+        "en": {
+          "text": "Unexpectedly, the stone had awakened to spiritual awareness after being refined by fire. Seeing every other stone used to repair heaven while it alone was unfit for selection, it lamented its own inadequacy, weeping day and night in shame.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Unexpectedly, the stone had awakened to spiritual awareness after being refined by fire. Seeing every other stone used to repair heaven while it alone was unfit for selection, it lamented its own inadequacy, weeping day and night in shame."
+        },
+        "es": {
+          "text": "Pero la piedra había despertado a la conciencia espiritual tras pasar por el fuego. Al ver que todas las demás reparaban el cielo y que solo ella era incapaz de ser elegida, se lamentaba de sí misma, llorando día y noche de vergüenza.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pero la piedra había despertado a la conciencia espiritual tras pasar por el fuego. Al ver que todas las demás reparaban el cielo y que solo ella era incapaz de ser elegida, se lamentaba de sí misma, llorando día y noche de vergüenza."
+        },
+        "fr": {
+          "text": "Or, depuis son passage au feu, la pierre s’était éveillée à la conscience spirituelle. Voyant toutes les autres réparer le ciel tandis qu’elle seule était jugée incapable, elle se lamentait sur elle-même et pleurait jour et nuit de honte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Or, depuis son passage au feu, la pierre s’était éveillée à la conscience spirituelle. Voyant toutes les autres réparer le ciel tandis qu’elle seule était jugée incapable, elle se lamentait sur elle-même et pleurait jour et nuit de honte."
+        },
+        "de": {
+          "text": "Doch nach dem Brennen war der Stein geistig erwacht. Als er sah, dass alle anderen den Himmel flicken durften und nur er als untauglich nicht ausgewählt war, beklagte er sich selbst und weinte Tag und Nacht voller Scham.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Doch nach dem Brennen war der Stein geistig erwacht. Als er sah, dass alle anderen den Himmel flicken durften und nur er als untauglich nicht ausgewählt war, beklagte er sich selbst und weinte Tag und Nacht voller Scham."
+        },
+        "ru": {
+          "text": "Однако после обжига камень обрёл духовное сознание. Видя, что все прочие пригодились для починки неба, а он один оказался неспособным и не был выбран, он сокрушался о себе, день и ночь рыдая от стыда.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Однако после обжига камень обрёл духовное сознание. Видя, что все прочие пригодились для починки неба, а он один оказался неспособным и не был выбран, он сокрушался о себе, день и ночь рыдая от стыда."
+        },
+        "ar": {
+          "text": "لَكِنَّ الْحَجَرَ اكْتَسَبَ وَعْيًا رُوحِيًّا بَعْدَ صَقْلِهِ بِالنَّارِ. وَحِينَ رَأَى أَنَّ كُلَّ الْحِجَارَةِ أَسْهَمَتْ فِي تَرْمِيمِ السَّمَاءِ إِلَّا هُوَ لِعَدَمِ صَلَاحِيَّتِهِ، أَخَذَ يَلُومُ نَفْسَهُ وَيَنْدُبُهَا وَيَبْكِي لَيْلًا وَنَهَارًا خَجَلًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَكِنَّ الْحَجَرَ اكْتَسَبَ وَعْيًا رُوحِيًّا بَعْدَ صَقْلِهِ بِالنَّارِ. وَحِينَ رَأَى أَنَّ كُلَّ الْحِجَارَةِ أَسْهَمَتْ فِي تَرْمِيمِ السَّمَاءِ إِلَّا هُوَ لِعَدَمِ صَلَاحِيَّتِهِ، أَخَذَ يَلُومُ نَفْسَهُ وَيَنْدُبُهَا وَيَبْكِي لَيْلًا وَنَهَارًا خَجَلًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lākinna al-ḥajara iktasaba waʿyan rūḥiyyan baʿda ṣaqlihi bi-an-nāri. Wa-ḥīna raʾā ʾanna kulla al-ḥijārati ʾashamat fī tarmīmi as-samāʾi ʾillā huwa li-ʿadami ṣalāḥiyyatihi, ʾakhadha yalūmu nafsahu wa-yandubuhā wa-yabkī laylan wa-nahāran khajalan."
+          }
+        },
+        "zh": {
+          "text": "誰知此石自經煅煉之後，靈性已通，因見眾石俱得補天，獨自己無材不堪入選，遂自怨自嗟，日夜悲號慚愧。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "無材は役に立つ材・才能がないこと。石の嘆きには、才を認められない者の境遇が重ねられています。",
+              "en": "無材 denotes lacking useful material or talent; the stone’s complaint evokes the plight of unrecognized ability."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "誰知此石自經煅煉之後，靈性已通，因見眾石俱得補天，獨自己無材不堪入選，遂自怨自嗟，日夜悲號慚愧。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shéi zhī cǐ shí zì jīng duànliàn zhī hòu, língxìng yǐ tōng, yīn jiàn zhòng shí jù dé bǔ tiān, dú zìjǐ wú cái bù kān rù xuǎn, suì zì yuàn zì jiē, rìyè bēiháo cánkuì."
+          }
+        },
+        "ko": {
+          "text": "그런데 그 돌은 불에 단련된 뒤 영성이 트여 있었습니다. 다른 돌들은 모두 하늘을 메우는데 자기만 재주가 없어 뽑히지 못한 것을 보고, 스스로 원망하고 탄식하며 밤낮으로 슬피 울고 부끄러워했습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그런데 그 돌은 불에 단련된 뒤 영성이 트여 있었습니다. 다른 돌들은 모두 하늘을 메우는데 자기만 재주가 없어 뽑히지 못한 것을 보고, 스스로 원망하고 탄식하며 밤낮으로 슬피 울고 부끄러워했습니다."
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "ある日、石が嘆いていると、遠くから一人の僧と一人の道士がやって来ました。骨格も姿も並々ならず、話し笑いながら峰の下まで来て、石のそばに座り、大いに語り合いました。初めは雲の山や霧の海、仙人の不思議な話でしたが、やがて人間世界の栄華や富貴の話になりました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "あるひ、いしがなげいていると、とおくからひとりのそうとひとりのどうしがやってきました。こっかくもすがたもなみなみならず、はなしわらいながらみねのしたまできて、いしのそばにすわり、おおいにかたりあいました。はじめはくものやまやきりのうみ、せんにんのふしぎなはなしでしたが、やがてにんげんせかいのえいがやふうきのはなしになりました。"
+        },
+        "en": {
+          "text": "One day, amid its lamentations, the stone saw a Buddhist monk and a Daoist approaching from afar, extraordinary in build and bearing. Talking and laughing, they came below the peak, sat beside the stone and conversed freely. First they spoke of cloudy mountains, misty seas and the mysteries of immortals; then they turned to worldly glory, riches and honour.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "One day, amid its lamentations, the stone saw a Buddhist monk and a Daoist approaching from afar, extraordinary in build and bearing. Talking and laughing, they came below the peak, sat beside the stone and conversed freely. First they spoke of cloudy mountains, misty seas and the mysteries of immortals; then they turned to worldly glory, riches and honour."
+        },
+        "es": {
+          "text": "Un día, mientras se lamentaba, vio llegar de lejos a un monje budista y un daoísta, de figura y porte extraordinarios. Entre charlas y risas llegaron al pie del pico, se sentaron junto a la piedra y conversaron animadamente. Primero hablaron de montañas de nubes, mares de niebla y misterios de inmortales; después, de la gloria, riqueza y honores del mundo humano.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un día, mientras se lamentaba, vio llegar de lejos a un monje budista y un daoísta, de figura y porte extraordinarios. Entre charlas y risas llegaron al pie del pico, se sentaron junto a la piedra y conversaron animadamente. Primero hablaron de montañas de nubes, mares de niebla y misterios de inmortales; después, de la gloria, riqueza y honores del mundo humano."
+        },
+        "fr": {
+          "text": "Un jour, au milieu de ses plaintes, elle vit venir de loin un moine bouddhiste et un taoïste, d’allure et de maintien extraordinaires. Parlant et riant, ils arrivèrent sous le pic, s’assirent près d’elle et conversèrent librement. Ils évoquèrent d’abord montagnes de nuages, mers de brume et mystères des immortels, puis la gloire, les richesses et les honneurs du monde humain.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un jour, au milieu de ses plaintes, elle vit venir de loin un moine bouddhiste et un taoïste, d’allure et de maintien extraordinaires. Parlant et riant, ils arrivèrent sous le pic, s’assirent près d’elle et conversèrent librement. Ils évoquèrent d’abord montagnes de nuages, mers de brume et mystères des immortels, puis la gloire, les richesses et les honneurs du monde humain."
+        },
+        "de": {
+          "text": "Eines Tages sah er mitten in seinem Klagen einen buddhistischen Mönch und einen Daoisten von fern kommen, beide von außergewöhnlicher Gestalt und Ausstrahlung. Redend und lachend gelangten sie zum Gipfelfuß, setzten sich neben den Stein und unterhielten sich angeregt. Zuerst sprachen sie von Wolkenbergen, Nebelmeeren und den Wundern der Unsterblichen, dann von weltlicher Pracht, Reichtum und Rang.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eines Tages sah er mitten in seinem Klagen einen buddhistischen Mönch und einen Daoisten von fern kommen, beide von außergewöhnlicher Gestalt und Ausstrahlung. Redend und lachend gelangten sie zum Gipfelfuß, setzten sich neben den Stein und unterhielten sich angeregt. Zuerst sprachen sie von Wolkenbergen, Nebelmeeren und den Wundern der Unsterblichen, dann von weltlicher Pracht, Reichtum und Rang."
+        },
+        "ru": {
+          "text": "Однажды среди стенаний камень увидел приближавшихся издалека буддийского монаха и даоса необыкновенного сложения и облика. Разговаривая и смеясь, они пришли к подножию пика, сели рядом и завели оживлённую беседу. Сначала говорили об облачных горах, туманных морях и тайнах бессмертных, затем — о земной славе, богатстве и почестях.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Однажды среди стенаний камень увидел приближавшихся издалека буддийского монаха и даоса необыкновенного сложения и облика. Разговаривая и смеясь, они пришли к подножию пика, сели рядом и завели оживлённую беседу. Сначала говорили об облачных горах, туманных морях и тайнах бессмертных, затем — о земной славе, богатстве и почестях."
+        },
+        "ar": {
+          "text": "ذَاتَ يَوْمٍ، وَهُوَ يَنْدُبُ حَظَّهُ، رَأَى رَاهِبًا بُوذِيًّا وَنَاسِكًا طَاوِيًّا يَقْتَرِبَانِ مِنْ بَعِيدٍ، بِهَيْئَةٍ وَوَقَارٍ غَيْرِ عَادِيَّيْنِ. جَاءَا يَتَحَدَّثَانِ وَيَضْحَكَانِ، وَجَلَسَا عِنْدَ الْحَجَرِ يَتَحَاوَرَانِ بِحَمَاسٍ. تَحَدَّثَا أَوَّلًا عَنْ جِبَالِ السَّحَابِ وَبِحَارِ الضَّبَابِ وَأَسْرَارِ الْخَالِدِينَ، ثُمَّ عَنْ مَجْدِ عَالَمِ الْبَشَرِ وَثَرَائِهِ وَجَاهِهِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ذَاتَ يَوْمٍ، وَهُوَ يَنْدُبُ حَظَّهُ، رَأَى رَاهِبًا بُوذِيًّا وَنَاسِكًا طَاوِيًّا يَقْتَرِبَانِ مِنْ بَعِيدٍ، بِهَيْئَةٍ وَوَقَارٍ غَيْرِ عَادِيَّيْنِ. جَاءَا يَتَحَدَّثَانِ وَيَضْحَكَانِ، وَجَلَسَا عِنْدَ الْحَجَرِ يَتَحَاوَرَانِ بِحَمَاسٍ. تَحَدَّثَا أَوَّلًا عَنْ جِبَالِ السَّحَابِ وَبِحَارِ الضَّبَابِ وَأَسْرَارِ الْخَالِدِينَ، ثُمَّ عَنْ مَجْدِ عَالَمِ الْبَشَرِ وَثَرَائِهِ وَجَاهِهِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Dhāta yawmin, wa-huwa yandubu ḥaẓẓahu, raʾā rāhiban būdhiyyan wa-nāsikan ṭāwiyyan yaqtaribāni min baʿīdin, bi-hayʾatin wa-waqārin ghayri ʿādiyyayni. Jāʾā yataḥaddathāni wa-yaḍḥakāni, wa-jalasā ʿinda al-ḥajari yataḥāwarāni bi-ḥamāsin. Taḥaddathā ʾawwalan ʿan jibāli as-saḥābi wa-biḥāri aḍ-ḍabābi wa-ʾasrāri al-khālidīna, thumma ʿan majdi ʿālami al-bashari wa-tharāʾihi wa-jāhihi."
+          }
+        },
+        "zh": {
+          "text": "一日，正當嗟悼之餘，俄見一僧一道遠遠而來，生得骨骼不凡，豐神迥异，說說笑笑來至峰下，坐於石邊高談快論。先是說些雲山霧海神僊玄幻之事，後便說到紅塵中榮華富貴。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "一日，正當嗟悼之餘，俄見一僧一道遠遠而來，生得骨骼不凡，豐神迥异，說說笑笑來至峰下，坐於石邊高談快論。先是說些雲山霧海神僊玄幻之事，後便說到紅塵中榮華富貴。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī rì, zhèng dāng jiēdào zhī yú, é jiàn yī sēng yī dào yuǎnyuǎn ér lái, shēng de gǔgé bù fán, fēngshén jiǒngyì, shuōshuo xiàoxiào lái zhì fēng xià, zuò yú shí biān gāotánkuàilùn. Xiān shì shuō xiē yúnshān wùhǎi shénxiān xuánhuàn zhī shì, hòu biàn shuō dào hóngchén zhōng rónghuá fùguì."
+          }
+        },
+        "ko": {
+          "text": "어느 날 탄식하던 중, 멀리서 승려 하나와 도사 하나가 다가오는 것이 보였습니다. 골격과 풍채가 범상치 않은 두 사람은 이야기하고 웃으며 봉우리 아래로 와 돌 곁에 앉아 활발히 담론했습니다. 처음에는 구름 낀 산과 안개 바다, 신선의 현묘한 이야기를 하다가 이윽고 인간 세상의 영화와 부귀를 이야기했습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "어느 날 탄식하던 중, 멀리서 승려 하나와 도사 하나가 다가오는 것이 보였습니다. 골격과 풍채가 범상치 않은 두 사람은 이야기하고 웃으며 봉우리 아래로 와 돌 곁에 앉아 활발히 담론했습니다. 처음에는 구름 낀 산과 안개 바다, 신선의 현묘한 이야기를 하다가 이윽고 인간 세상의 영화와 부귀를 이야기했습니다."
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "石はそれを聞くと、知らず知らず俗世への心を動かされ、自分も人間世界で栄華や富貴を味わいたくなりました。しかし、粗く鈍い自分を恨み、やむなく人の言葉を発して僧と道士に言いました。「大師さま、弟子は愚かな物で、ご挨拶の礼もできません。お二人が人の世の栄えをお話しになるのを聞き、心から憧れました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "いしはそれをきくと、しらずしらずぞくせへのこころをうごかされ、じぶんもにんげんせかいでえいがやふうきをあじわいたくなりました。しかし、あらくにぶいじぶんをうらみ、やむなくひとのことばをはっしてそうとどうしにいいました。たいしさま、でしはおろかなもので、ごあいさつのれいもできません。おふたりがひとのよのさかえをおはなしになるのをきき、こころからあこがれました。"
+        },
+        "en": {
+          "text": "Hearing this stirred worldly desire in the stone: it too wanted to enjoy human glory and wealth. Lamenting its coarse, clumsy form, it could only speak in a human voice to the monk and Daoist: “Masters, your disciple is a dull creature, unable even to offer a proper greeting. Hearing you speak of worldly splendour, I long for it deeply.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Hearing this stirred worldly desire in the stone: it too wanted to enjoy human glory and wealth. Lamenting its coarse, clumsy form, it could only speak in a human voice to the monk and Daoist: “Masters, your disciple is a dull creature, unable even to offer a proper greeting. Hearing you speak of worldly splendour, I long for it deeply."
+        },
+        "es": {
+          "text": "Al oírlos, la piedra sintió despertar el deseo mundano: también quería disfrutar de la gloria y riqueza humanas. Afligida por su forma tosca y torpe, habló con voz humana al monje y al daoísta: «Maestros, su discípulo es una criatura obtusa, incapaz hasta de saludar debidamente. Al oírlos hablar del esplendor del mundo, lo he anhelado de corazón.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Al oírlos, la piedra sintió despertar el deseo mundano: también quería disfrutar de la gloria y riqueza humanas. Afligida por su forma tosca y torpe, habló con voz humana al monje y al daoísta: «Maestros, su discípulo es una criatura obtusa, incapaz hasta de saludar debidamente. Al oírlos hablar del esplendor del mundo, lo he anhelado de corazón."
+        },
+        "fr": {
+          "text": "Ces paroles éveillèrent dans la pierre un désir terrestre : elle aussi voulait goûter la gloire et la richesse humaines. Déplorant sa forme grossière et maladroite, elle parla d’une voix humaine : « Maîtres, votre disciple est une créature stupide, incapable même de vous saluer convenablement. Vous entendant évoquer la splendeur du monde, je la désire ardemment.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ces paroles éveillèrent dans la pierre un désir terrestre : elle aussi voulait goûter la gloire et la richesse humaines. Déplorant sa forme grossière et maladroite, elle parla d’une voix humaine : « Maîtres, votre disciple est une créature stupide, incapable même de vous saluer convenablement. Vous entendant évoquer la splendeur du monde, je la désire ardemment."
+        },
+        "de": {
+          "text": "Das weckte weltliches Verlangen im Stein: Auch er wollte menschliche Pracht und Reichtum genießen. Seine rohe, plumpe Gestalt beklagend, sprach er mit menschlicher Stimme zu Mönch und Daoist: „Meister, euer Schüler ist ein stumpfes Wesen und kann euch nicht einmal angemessen begrüßen. Als ich euch vom Glanz der Welt sprechen hörte, erfasste mich tiefe Sehnsucht danach.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Das weckte weltliches Verlangen im Stein: Auch er wollte menschliche Pracht und Reichtum genießen. Seine rohe, plumpe Gestalt beklagend, sprach er mit menschlicher Stimme zu Mönch und Daoist: „Meister, euer Schüler ist ein stumpfes Wesen und kann euch nicht einmal angemessen begrüßen. Als ich euch vom Glanz der Welt sprechen hörte, erfasste mich tiefe Sehnsucht danach."
+        },
+        "ru": {
+          "text": "Услышав это, камень ощутил мирское желание: ему тоже захотелось насладиться человеческой славой и богатством. Сокрушаясь о своей грубой, неуклюжей природе, он заговорил человеческим голосом: «Учителя, ваш ученик — тупое создание и не может даже должным образом приветствовать вас. Услышав ваши слова о земном великолепии, я всем сердцем возжелал его.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Услышав это, камень ощутил мирское желание: ему тоже захотелось насладиться человеческой славой и богатством. Сокрушаясь о своей грубой, неуклюжей природе, он заговорил человеческим голосом: «Учителя, ваш ученик — тупое создание и не может даже должным образом приветствовать вас. Услышав ваши слова о земном великолепии, я всем сердцем возжелал его."
+        },
+        "ar": {
+          "text": "أَثَارَ الْحَدِيثُ فِي الْحَجَرِ رَغْبَةً دُنْيَوِيَّةً، فَتَمَنَّى أَنْ يَذُوقَ مَجْدَ الْبَشَرِ وَثَرَاءَهُمْ. وَإِذْ أَسِفَ لِخُشُونَةِ هَيْئَتِهِ وَبَلَادَتِهَا، نَطَقَ بِكَلَامِ الْبَشَرِ: «يَا سَيِّدَيَّ، تِلْمِيذُكُمَا مَخْلُوقٌ بَلِيدٌ لَا يَقْدِرُ حَتَّى عَلَى أَدَاءِ التَّحِيَّةِ. لَقَدْ سَمِعْتُكُمَا تَتَحَدَّثَانِ عَنْ بَهَاءِ الدُّنْيَا، فَاشْتَقْتُ إِلَيْهِ مِنْ قَلْبِي.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "أَثَارَ الْحَدِيثُ فِي الْحَجَرِ رَغْبَةً دُنْيَوِيَّةً، فَتَمَنَّى أَنْ يَذُوقَ مَجْدَ الْبَشَرِ وَثَرَاءَهُمْ. وَإِذْ أَسِفَ لِخُشُونَةِ هَيْئَتِهِ وَبَلَادَتِهَا، نَطَقَ بِكَلَامِ الْبَشَرِ: «يَا سَيِّدَيَّ، تِلْمِيذُكُمَا مَخْلُوقٌ بَلِيدٌ لَا يَقْدِرُ حَتَّى عَلَى أَدَاءِ التَّحِيَّةِ. لَقَدْ سَمِعْتُكُمَا تَتَحَدَّثَانِ عَنْ بَهَاءِ الدُّنْيَا، فَاشْتَقْتُ إِلَيْهِ مِنْ قَلْبِي.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAthāra al-ḥadīthu fī al-ḥajari raghbatan dunyawiyyatan, fa-tamannā ʾan yadhūqa majda al-bashari wa-tharāʾahum. Wa-ʾidh ʾasifa li-khushūnati hayʾatihi wa-balādatihā, naṭaqa bi-kalāmi al-bashari: «Yā sayyidayya, tilmīdhukumā makhlūqun balīdun lā yaqdiru ḥattā ʿalā ʾadāʾi at-taḥiyyati. Laqad samiʿtukumā tataḥaddathāni ʿan bahāʾi ad-dunyā, fa-ishtaqtu ʾilayhi min qalbī."
+          }
+        },
+        "zh": {
+          "text": "此石聽了，不覺打動凡心，也想要到人間去享一享這榮華富貴，但自恨粗蠢，不得已，便口吐人言，向那僧道說道：「大師，弟子蠢物，不能見禮了。適聞二位談那人世間榮耀繁華，心切慕之。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "弟子はここでは石が自分をへりくだって呼ぶ語。見禮は礼をして挨拶することです。",
+              "en": "弟子 is the stone’s humble self-designation; 見禮 means offering a formal greeting."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "此石聽了，不覺打動凡心，也想要到人間去享一享這榮華富貴，但自恨粗蠢，不得已，便口吐人言，向那僧道說道：「大師，弟子蠢物，不能見禮了。適聞二位談那人世間榮耀繁華，心切慕之。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Cǐ shí tīng le, bù jué dǎdòng fánxīn, yě xiǎng yào dào rénjiān qù xiǎng yī xiǎng zhè rónghuá fùguì, dàn zì hèn cūchǔn, bùdéyǐ, biàn kǒu tǔ rényán, xiàng nà sēng dào shuō dào: «Dàshī, dìzǐ chǔnwù, bù néng jiànlǐ le. Shì wén èr wèi tán nà rénshìjiān róngyào fánhuá, xīn qiè mù zhī."
+          }
+        },
+        "ko": {
+          "text": "이 말을 들은 돌은 저도 모르게 속세를 향한 마음이 움직여 인간 세상의 영화와 부귀를 누리고 싶어졌습니다. 하지만 거칠고 둔한 자신을 한탄하며 마침내 사람의 말로 승려와 도사에게 말했습니다. “대사님들, 제자는 어리석은 물건이라 예를 갖추어 인사도 못 합니다. 두 분이 세상의 영화를 말씀하시는 것을 듣고 간절히 흠모하게 되었습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "이 말을 들은 돌은 저도 모르게 속세를 향한 마음이 움직여 인간 세상의 영화와 부귀를 누리고 싶어졌습니다. 하지만 거칠고 둔한 자신을 한탄하며 마침내 사람의 말로 승려와 도사에게 말했습니다. “대사님들, 제자는 어리석은 물건이라 예를 갖추어 인사도 못 합니다. 두 분이 세상의 영화를 말씀하시는 것을 듣고 간절히 흠모하게 되었습니다."
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "弟子の体は粗く鈍くとも、心には多少の悟りがあります。そのうえ、お二人の仙人のようなお姿から、ただ者ではなく、天を補い世を救う才と、万物を利し人を救う徳をお持ちだと分かります。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "でしのからだはあらくにぶくとも、こころにはたしょうのさとりがあります。そのうえ、おふたりのせんにんのようなおすがたから、ただものではなく、てんをおぎないよをすくうさいと、ばんぶつをりしひとをすくうとくをおもちだとわかります。"
+        },
+        "en": {
+          "text": "Though my substance is coarse and dull, my spirit has some understanding. Your immortal bearing shows that you are no ordinary beings: surely you have the talent to repair heaven and save the world, and the virtue to benefit creatures and help humankind.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Though my substance is coarse and dull, my spirit has some understanding. Your immortal bearing shows that you are no ordinary beings: surely you have the talent to repair heaven and save the world, and the virtue to benefit creatures and help humankind."
+        },
+        "es": {
+          "text": "Aunque mi materia es tosca y obtusa, mi espíritu tiene cierta comprensión. Su aspecto de inmortales demuestra que no son seres comunes: sin duda poseen talento para reparar el cielo y salvar el mundo, y virtud para beneficiar a los seres y ayudar a las personas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Aunque mi materia es tosca y obtusa, mi espíritu tiene cierta comprensión. Su aspecto de inmortales demuestra que no son seres comunes: sin duda poseen talento para reparar el cielo y salvar el mundo, y virtud para beneficiar a los seres y ayudar a las personas."
+        },
+        "fr": {
+          "text": "Bien que ma substance soit grossière et obtuse, mon esprit comprend quelque peu. Votre allure d’immortels montre que vous n’êtes pas ordinaires : vous avez sûrement le talent de réparer le ciel et sauver le monde, et la vertu de faire du bien aux êtres et secourir les humains.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Bien que ma substance soit grossière et obtuse, mon esprit comprend quelque peu. Votre allure d’immortels montre que vous n’êtes pas ordinaires : vous avez sûrement le talent de réparer le ciel et sauver le monde, et la vertu de faire du bien aux êtres et secourir les humains."
+        },
+        "de": {
+          "text": "Mag meine Substanz auch grob und stumpf sein, mein Geist besitzt etwas Einsicht. Eure unsterbliche Erscheinung zeigt, dass ihr keine gewöhnlichen Wesen seid: Gewiss habt ihr das Talent, den Himmel zu flicken und die Welt zu retten, und die Tugend, allen Wesen und Menschen zu helfen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Mag meine Substanz auch grob und stumpf sein, mein Geist besitzt etwas Einsicht. Eure unsterbliche Erscheinung zeigt, dass ihr keine gewöhnlichen Wesen seid: Gewiss habt ihr das Talent, den Himmel zu flicken und die Welt zu retten, und die Tugend, allen Wesen und Menschen zu helfen."
+        },
+        "ru": {
+          "text": "Хотя моя материя груба и тупа, мой дух кое-что понимает. Ваш облик бессмертных показывает, что вы не обычные существа: наверняка у вас есть дар чинить небо и спасать мир и добродетель приносить пользу существам и помогать людям.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Хотя моя материя груба и тупа, мой дух кое-что понимает. Ваш облик бессмертных показывает, что вы не обычные существа: наверняка у вас есть дар чинить небо и спасать мир и добродетель приносить пользу существам и помогать людям."
+        },
+        "ar": {
+          "text": "مَعَ أَنَّ مَادَّتِي خَشِنَةٌ بَلِيدَةٌ، فَفِي رُوحِي قَدْرٌ مِنَ الْفَهْمِ. وَهَيْئَتُكُمَا الْخَالِدَةُ تَدُلُّ عَلَى أَنَّكُمَا لَسْتُمَا عَادِيَّيْنِ؛ فَلَدَيْكُمَا حَتْمًا مَوْهِبَةُ تَرْمِيمِ السَّمَاءِ وَإِنْقَاذِ الْعَالَمِ، وَفَضِيلَةُ نَفْعِ الْخَلْقِ وَإِغَاثَةِ الْبَشَرِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "مَعَ أَنَّ مَادَّتِي خَشِنَةٌ بَلِيدَةٌ، فَفِي رُوحِي قَدْرٌ مِنَ الْفَهْمِ. وَهَيْئَتُكُمَا الْخَالِدَةُ تَدُلُّ عَلَى أَنَّكُمَا لَسْتُمَا عَادِيَّيْنِ؛ فَلَدَيْكُمَا حَتْمًا مَوْهِبَةُ تَرْمِيمِ السَّمَاءِ وَإِنْقَاذِ الْعَالَمِ، وَفَضِيلَةُ نَفْعِ الْخَلْقِ وَإِغَاثَةِ الْبَشَرِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Maʿa ʾanna māddatī khashinatun balīdatun, fa-fī rūḥī qadrun mina al-fahmi. Wa-hayʾatukumā al-khālidatu tadullu ʿalā ʾannakumā lastumā ʿādiyyayni; fa-ladaykumā ḥatman mawhibatu tarmīmi as-samāʾi wa-ʾinqādhi al-ʿālami, wa-faḍīlatu nafʿi al-khalqi wa-ʾighāthati al-bashari."
+          }
+        },
+        "zh": {
+          "text": "弟子質雖粗蠢，性卻稍通，況見二師仙形道體，定非凡品，必有補天濟世之材，利物濟人之德。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "弟子質雖粗蠢，性卻稍通，況見二師仙形道體，定非凡品，必有補天濟世之材，利物濟人之德。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dìzǐ zhì suī cūchǔn, xìng què shāo tōng, kuàng jiàn èr shī xiānxíng dàotǐ, dìng fēi fánpǐn, bì yǒu bǔtiān jìshì zhī cái, lìwù jìrén zhī dé."
+          }
+        },
+        "ko": {
+          "text": "제자의 바탕은 거칠고 둔하지만 영성은 조금 트였습니다. 더구나 두 분의 신선 같은 모습을 보니 보통 분들이 아니며, 하늘을 메우고 세상을 구할 재주와 만물을 이롭게 하고 사람을 구할 덕을 지니셨음이 틀림없습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "제자의 바탕은 거칠고 둔하지만 영성은 조금 트였습니다. 더구나 두 분의 신선 같은 모습을 보니 보통 분들이 아니며, 하늘을 메우고 세상을 구할 재주와 만물을 이롭게 하고 사람을 구할 덕을 지니셨음이 틀림없습니다."
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "少しでも慈悲をおかけくださり、弟子を俗世へ連れて行って、富貴の場、優しい楽しみの里で数年過ごさせてくださるなら、その大恩をいつまでも心に刻み、幾万の劫を経ても忘れません。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "すこしでもじひをおかけくださり、でしをぞくせへつれていって、ふうきのば、やさしいたのしみのさとですうねんすごさせてくださるなら、そのたいおんをいつまでもこころにきざみ、いくまんのこうをへてもわすれません。"
+        },
+        "en": {
+          "text": "If you would show a little compassion and take me into the dusty world to enjoy a few years among wealth and tender pleasures, I would cherish your great kindness forever and never forget it through ten thousand aeons.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "If you would show a little compassion and take me into the dusty world to enjoy a few years among wealth and tender pleasures, I would cherish your great kindness forever and never forget it through ten thousand aeons.”"
+        },
+        "es": {
+          "text": "Si muestran un poco de compasión y me llevan al mundo polvoriento para disfrutar unos años entre riquezas y tiernos placeres, guardaré eternamente su gran bondad y no la olvidaré en diez mil eones».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si muestran un poco de compasión y me llevan al mundo polvoriento para disfrutar unos años entre riquezas y tiernos placeres, guardaré eternamente su gran bondad y no la olvidaré en diez mil eones»."
+        },
+        "fr": {
+          "text": "Si vous me témoignez un peu de compassion et m’emmenez dans le monde poussiéreux pour goûter quelques années aux richesses et aux tendres plaisirs, je garderai éternellement votre grande bonté en mémoire, durant dix mille ères. »",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si vous me témoignez un peu de compassion et m’emmenez dans le monde poussiéreux pour goûter quelques années aux richesses et aux tendres plaisirs, je garderai éternellement votre grande bonté en mémoire, durant dix mille ères. »"
+        },
+        "de": {
+          "text": "Wenn ihr etwas Mitgefühl zeigt und mich in die staubige Welt mitnehmt, damit ich einige Jahre Reichtum und zärtliche Freuden genieße, werde ich eure große Güte ewig im Herzen bewahren und auch nach zehntausend Weltaltern nicht vergessen.“",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wenn ihr etwas Mitgefühl zeigt und mich in die staubige Welt mitnehmt, damit ich einige Jahre Reichtum und zärtliche Freuden genieße, werde ich eure große Güte ewig im Herzen bewahren und auch nach zehntausend Weltaltern nicht vergessen.“"
+        },
+        "ru": {
+          "text": "Если вы проявите немного милосердия и возьмёте меня в пыльный мир, чтобы несколько лет насладиться богатством и нежными удовольствиями, я вечно буду помнить вашу великую милость и не забуду её за десять тысяч мировых эпох».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если вы проявите немного милосердия и возьмёте меня в пыльный мир, чтобы несколько лет насладиться богатством и нежными удовольствиями, я вечно буду помнить вашу великую милость и не забуду её за десять тысяч мировых эпох»."
+        },
+        "ar": {
+          "text": "إِنْ أَظْهَرْتُمَا قَلِيلًا مِنَ الرَّحْمَةِ وَحَمَلْتُمَانِي إِلَى عَالَمِ الدُّنْيَا لِأَنْعَمَ بِضْعَ سَنَوَاتٍ بِالثَّرَاءِ وَاللَّذَّاتِ الرَّقِيقَةِ، فَسَأَحْفَظُ إِحْسَانَكُمَا الْعَظِيمَ إِلَى الْأَبَدِ، وَلَنْ أَنْسَاهُ عَبْرَ عَشَرَةِ آلَافِ دَهْرٍ».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "إِنْ أَظْهَرْتُمَا قَلِيلًا مِنَ الرَّحْمَةِ وَحَمَلْتُمَانِي إِلَى عَالَمِ الدُّنْيَا لِأَنْعَمَ بِضْعَ سَنَوَاتٍ بِالثَّرَاءِ وَاللَّذَّاتِ الرَّقِيقَةِ، فَسَأَحْفَظُ إِحْسَانَكُمَا الْعَظِيمَ إِلَى الْأَبَدِ، وَلَنْ أَنْسَاهُ عَبْرَ عَشَرَةِ آلَافِ دَهْرٍ».",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIn ʾaẓhartumā qalīlan mina ar-raḥmati wa-ḥamaltumānī ʾilā ʿālami ad-dunyā li-ʾanʿama biḍʿa sanawātin bi-ath-tharāʾi wa-al-ladhdhāti ar-raqīqati, fa-sa-ʾaḥfaẓu ʾiḥsānakumā al-ʿaẓīma ʾilā al-ʾabadi, wa-lan ʾansāhu ʿabra ʿasharati ʾālāfi dahrin»."
+          }
+        },
+        "zh": {
+          "text": "如蒙發一點慈心，攜帶弟子得入紅塵，在那富貴場中，溫柔鄉裏受享幾年，自當永佩洪恩，萬劫不忘也。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "紅塵は俗世、溫柔鄉は優しい歓楽の世界を指す比喩。萬劫は計り知れない長い時間です。",
+              "en": "紅塵 means the worldly realm; 溫柔鄉 evokes a realm of tender pleasures. 萬劫 suggests immeasurably long ages."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "如蒙發一點慈心，攜帶弟子得入紅塵，在那富貴場中，溫柔鄉裏受享幾年，自當永佩洪恩，萬劫不忘也。」",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rú méng fā yī diǎn cíxīn, xiédài dìzǐ dé rù hóngchén, zài nà fùguì chǎng zhōng, wēnróu xiāng lǐ shòu xiǎng jǐ nián, zì dāng yǒng pèi hóng’ēn, wàn jié bù wàng yě.»",
+            "note": {
+              "ja": "「一點」の一は発音では yì。「不忘」の不は bú となります。",
+              "en": "In speech, 一 in 一點 is yì, and 不 in 不忘 is bú."
+            }
+          }
+        },
+        "ko": {
+          "text": "조금만 자비를 베풀어 제자를 속세로 데려가 부귀의 마당과 다정한 즐거움의 고장에서 몇 해 누리게 해 주신다면, 그 큰 은혜를 영원히 간직하여 만겁이 지나도 잊지 않겠습니다.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "조금만 자비를 베풀어 제자를 속세로 데려가 부귀의 마당과 다정한 즐거움의 고장에서 몇 해 누리게 해 주신다면, 그 큰 은혜를 영원히 간직하여 만겁이 지나도 잊지 않겠습니다.”"
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "二人の仙人は聞き終わると、そろってにこやかに笑いました。「よいかな、よいかな。俗世には確かに楽しいこともあるが、いつまでも頼れるものではない。そのうえ『美中不足』『好事多魔』という八文字が付きまとい、たちまち楽しみは極まって悲しみとなり、人も物も変わる。結局は一場の夢、すべては空へ帰るのだから、むしろ行かない方がよい。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ふたりのせんにんはききおわると、そろってにこやかにわらいました。よいかな、よいかな。ぞくせにはたしかにたのしいこともあるが、いつまでもたよれるものではない。そのうえ、びちゅうふそく、こうじたま、というはちもじがつきまとい、たちまちたのしみはきわまってかなしみとなり、ひともものもかわる。けっきょくはいちじょうのゆめ、すべてはくうへかえるのだから、むしろいかないほうがよい。"
+        },
+        "en": {
+          "text": "The two immortals smiled together. “Very good, very good! There are indeed pleasures in that dusty world, but they cannot be relied on forever. The eight characters ‘flaws amid beauty’ and ‘good things meet many demons’ cling to it: in an instant, joy at its height turns to sorrow, people and things change. In the end it is a dream, all realms return to emptiness; better not to go.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The two immortals smiled together. “Very good, very good! There are indeed pleasures in that dusty world, but they cannot be relied on forever. The eight characters ‘flaws amid beauty’ and ‘good things meet many demons’ cling to it: in an instant, joy at its height turns to sorrow, people and things change. In the end it is a dream, all realms return to emptiness; better not to go.”"
+        },
+        "es": {
+          "text": "Los dos inmortales sonrieron a la vez. «¡Muy bien, muy bien! En ese mundo hay placeres, pero no se puede confiar en ellos para siempre. Lo acompañan los ocho caracteres de “defectos entre la belleza” y “lo bueno encuentra muchos demonios”: en un instante la alegría extrema se vuelve tristeza y cambian personas y cosas. Al final todo es un sueño y vuelve al vacío; mejor no ir».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Los dos inmortales sonrieron a la vez. «¡Muy bien, muy bien! En ese mundo hay placeres, pero no se puede confiar en ellos para siempre. Lo acompañan los ocho caracteres de “defectos entre la belleza” y “lo bueno encuentra muchos demonios”: en un instante la alegría extrema se vuelve tristeza y cambian personas y cosas. Al final todo es un sueño y vuelve al vacío; mejor no ir»."
+        },
+        "fr": {
+          "text": "Les deux immortels sourirent ensemble. « Fort bien ! Il y a certes des plaisirs dans ce monde poussiéreux, mais ils ne durent pas toujours. Les huit caractères “défaut dans la beauté” et “bonheur contrarié par les démons” s’y attachent : en un instant la joie extrême devient chagrin, les êtres et les choses changent. Tout finit en rêve, tout revient au vide ; mieux vaut ne pas y aller. »",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les deux immortels sourirent ensemble. « Fort bien ! Il y a certes des plaisirs dans ce monde poussiéreux, mais ils ne durent pas toujours. Les huit caractères “défaut dans la beauté” et “bonheur contrarié par les démons” s’y attachent : en un instant la joie extrême devient chagrin, les êtres et les choses changent. Tout finit en rêve, tout revient au vide ; mieux vaut ne pas y aller. »"
+        },
+        "de": {
+          "text": "Die beiden Unsterblichen lächelten gemeinsam. „Gut, gut! In jener staubigen Welt gibt es Freuden, doch auf sie ist nicht ewig Verlass. Die acht Schriftzeichen für ‚Mängel im Schönen‘ und ‚gute Dinge begegnen vielen Dämonen‘ haften daran: Im Nu wird höchste Freude zu Trauer, Menschen und Dinge ändern sich. Am Ende ist alles ein Traum, alle Welten kehren zur Leere zurück; besser, du gehst nicht.“",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die beiden Unsterblichen lächelten gemeinsam. „Gut, gut! In jener staubigen Welt gibt es Freuden, doch auf sie ist nicht ewig Verlass. Die acht Schriftzeichen für ‚Mängel im Schönen‘ und ‚gute Dinge begegnen vielen Dämonen‘ haften daran: Im Nu wird höchste Freude zu Trauer, Menschen und Dinge ändern sich. Am Ende ist alles ein Traum, alle Welten kehren zur Leere zurück; besser, du gehst nicht.“"
+        },
+        "ru": {
+          "text": "Оба бессмертных разом улыбнулись. «Хорошо, хорошо! В пыльном мире есть удовольствия, но на них нельзя полагаться вечно. К ним неотступно прилегают восемь знаков: “изъян в прекрасном” и “доброму мешают многие демоны”. Вмиг радость на вершине становится печалью, люди и вещи меняются. В конце всё — сон, все миры возвращаются к пустоте; лучше не ходить».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Оба бессмертных разом улыбнулись. «Хорошо, хорошо! В пыльном мире есть удовольствия, но на них нельзя полагаться вечно. К ним неотступно прилегают восемь знаков: “изъян в прекрасном” и “доброму мешают многие демоны”. Вмиг радость на вершине становится печалью, люди и вещи меняются. В конце всё — сон, все миры возвращаются к пустоте; лучше не ходить»."
+        },
+        "ar": {
+          "text": "ابْتَسَمَ الْخَالِدَانِ مَعًا وَقَالَا: «حَسَنًا، حَسَنًا! فِي الدُّنْيَا لَذَّاتٌ حَقًّا، وَلَكِنْ لَا يُمْكِنُ الِاعْتِمَادُ عَلَيْهَا إِلَى الْأَبَدِ. وَتُلَازِمُهَا الْعِبَارَتَانِ ذَاتَا الرُّمُوزِ الثَّمَانِيَةِ: نَقْصٌ فِي الْجَمَالِ، وَالشَّيَاطِينُ تُعِيقُ الْخَيْرَ. فَفِي لَحْظَةٍ يَنْقَلِبُ الْفَرَحُ الْبَالِغُ حُزْنًا، وَيَتَغَيَّرُ النَّاسُ وَالْأَشْيَاءُ. وَفِي النِّهَايَةِ كُلُّهُ حُلْمٌ، وَكُلُّ الْعَوَالِمِ تَعُودُ إِلَى الْفَرَاغِ؛ فَعَدَمُ الذَّهَابِ أَفْضَلُ».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ابْتَسَمَ الْخَالِدَانِ مَعًا وَقَالَا: «حَسَنًا، حَسَنًا! فِي الدُّنْيَا لَذَّاتٌ حَقًّا، وَلَكِنْ لَا يُمْكِنُ الِاعْتِمَادُ عَلَيْهَا إِلَى الْأَبَدِ. وَتُلَازِمُهَا الْعِبَارَتَانِ ذَاتَا الرُّمُوزِ الثَّمَانِيَةِ: نَقْصٌ فِي الْجَمَالِ، وَالشَّيَاطِينُ تُعِيقُ الْخَيْرَ. فَفِي لَحْظَةٍ يَنْقَلِبُ الْفَرَحُ الْبَالِغُ حُزْنًا، وَيَتَغَيَّرُ النَّاسُ وَالْأَشْيَاءُ. وَفِي النِّهَايَةِ كُلُّهُ حُلْمٌ، وَكُلُّ الْعَوَالِمِ تَعُودُ إِلَى الْفَرَاغِ؛ فَعَدَمُ الذَّهَابِ أَفْضَلُ».",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ibtasama al-khālidāni maʿan wa-qālā: «Ḥasanan, ḥasanan! Fī ad-dunyā ladhdhātun ḥaqqan, wa-lākin lā yumkinu al-iʿtimādu ʿalayhā ʾilā al-ʾabadi. Wa-tulāzimuhā al-ʿibāratāni dhātā ar-rumūzi ath-thamāniyati: naqṣun fī al-jamāli, wa-ash-shayāṭīnu tuʿīqu al-khayra. Fa-fī laḥẓatin yanqalibu al-faraḥu al-bālighu ḥuznan, wa-yataghayyaru an-nāsu wa-al-ʾashyāʾu. Wa-fī an-nihāyati kulluhu ḥulmun, wa-kullu al-ʿawālimi taʿūdu ʾilā al-farāghi; fa-ʿadamu adh-dhahābi ʾafḍalu»."
+          }
+        },
+        "zh": {
+          "text": "二仙師聽畢，齊憨笑道：「善哉，善哉！那紅塵中有卻有些樂事，但不能永遠依恃。況又有美中不足、好事多魔八個字緊相連屬，瞬息間則又樂极悲生，人非物換，究竟是到頭一夢，萬境歸空，倒不如不去的好。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "美中不足と好事多魔はそれぞれ四字で、合わせて八文字。採用本文の「魔」を保持しています。",
+              "en": "美中不足 and 好事多魔 each have four characters, hence eight in total. The source’s character 魔 is retained."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "二仙師聽畢，齊憨笑道：「善哉，善哉！那紅塵中有卻有些樂事，但不能永遠依恃。況又有美中不足、好事多魔八個字緊相連屬，瞬息間則又樂极悲生，人非物換，究竟是到頭一夢，萬境歸空，倒不如不去的好。」",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Èr xiānshī tīng bì, qí hānxiào dào: «Shàn zāi, shàn zāi! Nà hóngchén zhōng yǒu què yǒu xiē lèshì, dàn bù néng yǒngyuǎn yīshì. Kuàng yòu yǒu měizhōngbùzú, hǎoshìduōmó bā ge zì jǐn xiāng liánshǔ, shùnxī jiān zé yòu lè jí bēi shēng, rén fēi wù huàn, jiūjìng shì dàotóu yī mèng, wàn jìng guī kōng, dào bùrú bù qù de hǎo.»"
+          }
+        },
+        "ko": {
+          "text": "두 신선은 함께 웃으며 말했습니다. “좋구나, 좋구나! 속세에 즐거움이 있기는 하지만 영원히 의지할 수는 없다. ‘미중부족’과 ‘호사다마’라는 여덟 글자가 늘 따라붙어, 순식간에 즐거움이 극에 달하면 슬픔이 생기고 사람과 사물이 변한다. 결국 한바탕 꿈이고 모든 경계가 공으로 돌아가니 차라리 가지 않는 편이 낫다.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "두 신선은 함께 웃으며 말했습니다. “좋구나, 좋구나! 속세에 즐거움이 있기는 하지만 영원히 의지할 수는 없다. ‘미중부족’과 ‘호사다마’라는 여덟 글자가 늘 따라붙어, 순식간에 즐거움이 극에 달하면 슬픔이 생기고 사람과 사물이 변한다. 결국 한바탕 꿈이고 모든 경계가 공으로 돌아가니 차라리 가지 않는 편이 낫다.”"
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "しかし石の俗世への思いは、すでに燃え上がっていました。そんな言葉が耳に入るはずもなく、何度も何度も必死に頼みました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しかしいしのぞくせへのおもいは、すでにもえあがっていました。そんなことばがみみにはいるはずもなく、なんどもなんどもひっしにたのみました。"
+        },
+        "en": {
+          "text": "But the stone’s worldly longing was already ablaze. How could it take such words to heart? It pleaded desperately again and again.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "But the stone’s worldly longing was already ablaze. How could it take such words to heart? It pleaded desperately again and again."
+        },
+        "es": {
+          "text": "Pero el deseo mundano de la piedra ya ardía. ¿Cómo iba a escuchar esas palabras? Volvió a suplicar desesperadamente una y otra vez.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Pero el deseo mundano de la piedra ya ardía. ¿Cómo iba a escuchar esas palabras? Volvió a suplicar desesperadamente una y otra vez."
+        },
+        "fr": {
+          "text": "Mais le désir terrestre de la pierre brûlait déjà. Comment aurait-elle pu entendre ces paroles ? Elle supplia encore et encore avec insistance.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Mais le désir terrestre de la pierre brûlait déjà. Comment aurait-elle pu entendre ces paroles ? Elle supplia encore et encore avec insistance."
+        },
+        "de": {
+          "text": "Doch die weltliche Sehnsucht des Steins brannte schon lichterloh. Wie hätte er diese Worte aufnehmen können? Wieder und wieder flehte er inständig.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Doch die weltliche Sehnsucht des Steins brannte schon lichterloh. Wie hätte er diese Worte aufnehmen können? Wieder und wieder flehte er inständig."
+        },
+        "ru": {
+          "text": "Но мирское желание камня уже пылало. Разве мог он внять таким словам? Он снова и снова горячо умолял их.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Но мирское желание камня уже пылало. Разве мог он внять таким словам? Он снова и снова горячо умолял их."
+        },
+        "ar": {
+          "text": "لَكِنَّ رَغْبَةَ الْحَجَرِ فِي الدُّنْيَا كَانَتْ قَدِ اشْتَعَلَتْ؛ فَكَيْفَ يَسْمَعُ هَذَا الْكَلَامَ؟ وَعَادَ يَتَوَسَّلُ بِإِلْحَاحٍ مَرَّةً بَعْدَ أُخْرَى.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَكِنَّ رَغْبَةَ الْحَجَرِ فِي الدُّنْيَا كَانَتْ قَدِ اشْتَعَلَتْ؛ فَكَيْفَ يَسْمَعُ هَذَا الْكَلَامَ؟ وَعَادَ يَتَوَسَّلُ بِإِلْحَاحٍ مَرَّةً بَعْدَ أُخْرَى.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lākinna raghbata al-ḥajari fī ad-dunyā kānat qadi ishtaʿalat; fa-kayfa yasmaʿu hādhā al-kalāma? Wa-ʿāda yatawassalu bi-ʾilḥāḥin marratan baʿda ʾukhrā."
+          }
+        },
+        "zh": {
+          "text": "這石凡心已熾，那裏聽得進這話去，乃复苦求再四。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "這石凡心已熾，那裏聽得進這話去，乃复苦求再四。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè shí fánxīn yǐ chì, nǎli tīng de jìn zhè huà qù, nǎi fù kǔ qiú zài sì."
+          }
+        },
+        "ko": {
+          "text": "그러나 돌의 속세를 향한 마음은 이미 타올랐습니다. 그런 말이 귀에 들어올 리 없었습니다. 다시 몇 번이고 간절히 빌었습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러나 돌의 속세를 향한 마음은 이미 타올랐습니다. 그런 말이 귀에 들어올 리 없었습니다. 다시 몇 번이고 간절히 빌었습니다."
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "二人の仙人は無理には止められないと知り、ため息をつきました。「これも静けさが極まって動きを求め、無から有が生まれる定めだ。そうであるなら、連れて行って楽しませてやろう。ただし、思いどおりにならないときに、決して後悔するな。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ふたりのせんにんはむりにはとめられないとしり、ためいきをつきました。これもしずけさがきわまってうごきをもとめ、むからゆうがうまれるさだめだ。そうであるなら、つれていってたのしませてやろう。ただし、おもいどおりにならないときに、けっしてこうかいするな。"
+        },
+        "en": {
+          "text": "The two immortals knew it could not be forced and sighed. “This too is the destined pattern: utmost stillness seeks movement, and being arises from nothing. Very well, we shall take you to enjoy yourself. Only do not regret it when things disappoint you.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The two immortals knew it could not be forced and sighed. “This too is the destined pattern: utmost stillness seeks movement, and being arises from nothing. Very well, we shall take you to enjoy yourself. Only do not regret it when things disappoint you.”"
+        },
+        "es": {
+          "text": "Los dos inmortales comprendieron que no podían forzarlo y suspiraron: «También esto es destino: la quietud extrema busca movimiento y del vacío nace el ser. Bien, te llevaremos a disfrutar. Pero no te arrepientas cuando las cosas te decepcionen».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Los dos inmortales comprendieron que no podían forzarlo y suspiraron: «También esto es destino: la quietud extrema busca movimiento y del vacío nace el ser. Bien, te llevaremos a disfrutar. Pero no te arrepientas cuando las cosas te decepcionen»."
+        },
+        "fr": {
+          "text": "Les deux immortels comprirent qu’on ne pouvait la contraindre et soupirèrent : « C’est aussi le destin : l’immobilité extrême cherche le mouvement et l’être naît du néant. Soit, nous t’emmènerons goûter ces plaisirs. Mais ne regrette rien lorsque tu seras déçue. »",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les deux immortels comprirent qu’on ne pouvait la contraindre et soupirèrent : « C’est aussi le destin : l’immobilité extrême cherche le mouvement et l’être naît du néant. Soit, nous t’emmènerons goûter ces plaisirs. Mais ne regrette rien lorsque tu seras déçue. »"
+        },
+        "de": {
+          "text": "Die beiden Unsterblichen erkannten, dass Zwang nichts half, und seufzten: „Auch das ist Schicksal: Äußerste Ruhe verlangt Bewegung, aus dem Nichts entsteht Sein. Gut, wir nehmen dich mit, damit du dich erfreust. Doch bereue es nicht, wenn deine Wünsche unerfüllt bleiben.“",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die beiden Unsterblichen erkannten, dass Zwang nichts half, und seufzten: „Auch das ist Schicksal: Äußerste Ruhe verlangt Bewegung, aus dem Nichts entsteht Sein. Gut, wir nehmen dich mit, damit du dich erfreust. Doch bereue es nicht, wenn deine Wünsche unerfüllt bleiben.“"
+        },
+        "ru": {
+          "text": "Бессмертные поняли, что принудить его нельзя, и вздохнули: «Таков и этот закон судьбы: крайний покой ищет движения, из небытия рождается бытие. Раз так, возьмём тебя насладиться миром. Только не жалей, когда всё пойдёт не по твоему желанию».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Бессмертные поняли, что принудить его нельзя, и вздохнули: «Таков и этот закон судьбы: крайний покой ищет движения, из небытия рождается бытие. Раз так, возьмём тебя насладиться миром. Только не жалей, когда всё пойдёт не по твоему желанию»."
+        },
+        "ar": {
+          "text": "عَرَفَ الْخَالِدَانِ أَنَّهُ لَا يُمْكِنُ إِكْرَاهُهُ، فَتَنَهَّدَا: «هَذَا أَيْضًا مِنَ الْقَدَرِ؛ فَالسُّكُونُ إِذَا بَلَغَ غَايَتَهُ طَلَبَ الْحَرَكَةَ، وَمِنَ الْعَدَمِ يَنْشَأُ الْوُجُودُ. إِذَنْ سَنَحْمِلُكَ لِتَتَمَتَّعَ، وَلَكِنْ إِيَّاكَ وَالنَّدَمَ حِينَ تَخِيبُ رَغَبَاتُكَ».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "عَرَفَ الْخَالِدَانِ أَنَّهُ لَا يُمْكِنُ إِكْرَاهُهُ، فَتَنَهَّدَا: «هَذَا أَيْضًا مِنَ الْقَدَرِ؛ فَالسُّكُونُ إِذَا بَلَغَ غَايَتَهُ طَلَبَ الْحَرَكَةَ، وَمِنَ الْعَدَمِ يَنْشَأُ الْوُجُودُ. إِذَنْ سَنَحْمِلُكَ لِتَتَمَتَّعَ، وَلَكِنْ إِيَّاكَ وَالنَّدَمَ حِينَ تَخِيبُ رَغَبَاتُكَ».",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿArafa al-khālidāni ʾannahu lā yumkinu ʾikrāhuhu, fa-tanahhadā: «Hādhā ʾayḍan mina al-qadari; fa-as-sukūnu ʾidhā balagha ghāyatahu ṭalaba al-ḥarakata, wa-mina al-ʿadami yanshaʾu al-wujūdu. ʾIdhan sa-naḥmiluka li-tatamattaʿa, wa-lākin ʾiyyāka wa-an-nadama ḥīna takhību raghabātuka»."
+          }
+        },
+        "zh": {
+          "text": "二仙知不可強制，乃歎道：「此亦靜極思動，無中生有之數也。既如此，我們便攜你去受享受享，只是到不得意時，切莫後悔。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "數はここでは数量ではなく運命・定め。靜と動、無と有が対になっています。",
+              "en": "數 here means destiny rather than a number. Stillness and movement, nothingness and being form paired contrasts."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "二仙知不可強制，乃歎道：「此亦靜極思動，無中生有之數也。既如此，我們便攜你去受享受享，只是到不得意時，切莫後悔。」",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Èr xiān zhī bù kě qiángzhì, nǎi tàn dào: «Cǐ yì jìng jí sī dòng, wú zhōng shēng yǒu zhī shù yě. Jì rúcǐ, wǒmen biàn xié nǐ qù shòu xiǎng shòu xiǎng, zhǐ shì dào bù déyì shí, qiè mò hòuhuǐ.»"
+          }
+        },
+        "ko": {
+          "text": "두 신선은 억지로 막을 수 없음을 알고 탄식했습니다. “이 또한 고요함이 극에 이르면 움직임을 생각하고 무에서 유가 생기는 운수다. 그렇다면 데려가 누리게 해 주마. 다만 뜻대로 되지 않을 때 결코 후회하지 마라.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "두 신선은 억지로 막을 수 없음을 알고 탄식했습니다. “이 또한 고요함이 극에 이르면 움직임을 생각하고 무에서 유가 생기는 운수다. 그렇다면 데려가 누리게 해 주마. 다만 뜻대로 되지 않을 때 결코 후회하지 마라.”"
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "石は「もちろんです、もちろんです」と答えました。僧は続けました。「心に霊性があるとはいえ、お前はこんなに粗く鈍い体をしていて、珍しく貴いところもない。このままでは足を載せる台にしかならぬ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "いしは、もちろんです、もちろんです、とこたえました。そうはつづけました。こころにれいせいがあるとはいえ、おまえはこんなにあらくにぶいからだをしていて、めずらしくとうといところもない。このままではあしをのせるだいにしかならぬ。"
+        },
+        "en": {
+          "text": "“Of course, of course,” said the stone. The monk continued: “You may have a spiritual nature, but your substance is so coarse and dull, with nothing rare or precious about it. As you are, you are fit only to be stepped on.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "“Of course, of course,” said the stone. The monk continued: “You may have a spiritual nature, but your substance is so coarse and dull, with nothing rare or precious about it. As you are, you are fit only to be stepped on."
+        },
+        "es": {
+          "text": "«Por supuesto, por supuesto», respondió la piedra. El monje continuó: «Tendrás espíritu, pero tu materia es tan tosca y torpe que no hay en ti nada raro ni precioso. Así solo sirves para apoyar el pie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "«Por supuesto, por supuesto», respondió la piedra. El monje continuó: «Tendrás espíritu, pero tu materia es tan tosca y torpe que no hay en ti nada raro ni precioso. Así solo sirves para apoyar el pie."
+        },
+        "fr": {
+          "text": "« Bien sûr, bien sûr », répondit la pierre. Le moine poursuivit : « Tu as peut-être l’esprit éveillé, mais ta matière est si grossière et obtuse, sans rien de rare ni de précieux, qu’en l’état tu ne sers que de marchepied.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "« Bien sûr, bien sûr », répondit la pierre. Le moine poursuivit : « Tu as peut-être l’esprit éveillé, mais ta matière est si grossière et obtuse, sans rien de rare ni de précieux, qu’en l’état tu ne sers que de marchepied."
+        },
+        "de": {
+          "text": "„Natürlich, natürlich“, sagte der Stein. Der Mönch fuhr fort: „Du magst einen wachen Geist haben, doch deine Substanz ist so grob und stumpf, ohne etwas Seltenes oder Kostbares. So taugst du nur als Trittstein.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "„Natürlich, natürlich“, sagte der Stein. Der Mönch fuhr fort: „Du magst einen wachen Geist haben, doch deine Substanz ist so grob und stumpf, ohne etwas Seltenes oder Kostbares. So taugst du nur als Trittstein."
+        },
+        "ru": {
+          "text": "«Конечно, конечно», — ответил камень. Монах продолжил: «Пусть твой дух и пробуждён, но вещество так грубо и тупо, и нет в нём ничего редкого или драгоценного. В таком виде ты годишься лишь под ноги.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "«Конечно, конечно», — ответил камень. Монах продолжил: «Пусть твой дух и пробуждён, но вещество так грубо и тупо, и нет в нём ничего редкого или драгоценного. В таком виде ты годишься лишь под ноги."
+        },
+        "ar": {
+          "text": "قَالَ الْحَجَرُ: «بِالطَّبْعِ، بِالطَّبْعِ». وَتَابَعَ الرَّاهِبُ: «قَدْ تَكُونُ رُوحُكَ وَاعِيَةً، وَلَكِنَّ مَادَّتَكَ خَشِنَةٌ بَلِيدَةٌ، وَلَا شَيْءَ فِيكَ نَادِرٌ أَوْ ثَمِينٌ. وَأَنْتَ هَكَذَا لَا تَصْلُحُ إِلَّا لِوَضْعِ الْقَدَمِ عَلَيْكَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "قَالَ الْحَجَرُ: «بِالطَّبْعِ، بِالطَّبْعِ». وَتَابَعَ الرَّاهِبُ: «قَدْ تَكُونُ رُوحُكَ وَاعِيَةً، وَلَكِنَّ مَادَّتَكَ خَشِنَةٌ بَلِيدَةٌ، وَلَا شَيْءَ فِيكَ نَادِرٌ أَوْ ثَمِينٌ. وَأَنْتَ هَكَذَا لَا تَصْلُحُ إِلَّا لِوَضْعِ الْقَدَمِ عَلَيْكَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Qāla al-ḥajaru: «Bi-aṭ-ṭabʿi, bi-aṭ-ṭabʿi». Wa-tābaʿa ar-rāhibu: «Qad takūnu rūḥuka wāʿiyatan, wa-lākinna māddataka khashinatun balīdatun, wa-lā shayʾa fīka nādirun ʾaw thamīnun. Wa-ʾanta hakadhā lā taṣluḥu ʾillā li-waḍʿi al-qadami ʿalayka."
+          }
+        },
+        "zh": {
+          "text": "石道：「自然，自然。」那僧又道：「若說你性靈，卻又如此質蠢，并更無奇貴之處。如此也只好踮腳而已。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "採用本文は踮腳と表記していますが、この場面では足を載せる台になるという意味で訳しています。",
+              "en": "The source writes 踮腳; in this context it is translated as serving as a support to step on."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "石道：「自然，自然。」那僧又道：「若說你性靈，卻又如此質蠢，并更無奇貴之處。如此也只好踮腳而已。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shí dào: «Zìrán, zìrán.» Nà sēng yòu dào: «Ruò shuō nǐ xìng líng, què yòu rúcǐ zhì chǔn, bìng gèng wú qíguì zhī chù. Rúcǐ yě zhǐ hǎo diǎnjiǎo éryǐ."
+          }
+        },
+        "ko": {
+          "text": "돌은 “물론이지요, 물론이지요”라고 답했습니다. 승려가 다시 말했습니다. “네 영성은 밝다 해도 몸은 이렇게 거칠고 둔하며 특별히 귀한 점도 없구나. 이런 모습으로는 발 디딤돌밖에 되지 못한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "돌은 “물론이지요, 물론이지요”라고 답했습니다. 승려가 다시 말했습니다. “네 영성은 밝다 해도 몸은 이렇게 거칠고 둔하며 특별히 귀한 점도 없구나. 이런 모습으로는 발 디딤돌밖에 되지 못한다."
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "よし、今ここで仏法を大いに使って助けてやろう。劫が終わる日に元の姿へ戻し、この一件を終えることにする。それでよいか。」石はそれを聞き、感謝してやみませんでした。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "よし、いまここでぶっぽうをおおいにつかってたすけてやろう。こうがおわるひにもとのすがたへもどし、このいっけんをおえることにする。それでよいか。いしはそれをきき、かんしゃしてやみませんでした。"
+        },
+        "en": {
+          "text": "Very well, I shall now use the power of the Buddhist teaching to help you. When your aeon ends, I shall restore your original substance and conclude this matter. Does that suit you?” The stone thanked him endlessly.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Very well, I shall now use the power of the Buddhist teaching to help you. When your aeon ends, I shall restore your original substance and conclude this matter. Does that suit you?” The stone thanked him endlessly."
+        },
+        "es": {
+          "text": "Bien, ahora usaré ampliamente el poder budista para ayudarte. Cuando termine tu eón, te devolveré tu naturaleza original y cerraré este asunto. ¿Te parece bien?» La piedra no cesaba de agradecerle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Bien, ahora usaré ampliamente el poder budista para ayudarte. Cuando termine tu eón, te devolveré tu naturaleza original y cerraré este asunto. ¿Te parece bien?» La piedra no cesaba de agradecerle."
+        },
+        "fr": {
+          "text": "Soit, je vais employer la puissance bouddhique pour t’aider. Quand ton ère prendra fin, je te rendrai ta substance première et clorai cette affaire. Cela te convient-il ? » La pierre ne cessait de le remercier.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Soit, je vais employer la puissance bouddhique pour t’aider. Quand ton ère prendra fin, je te rendrai ta substance première et clorai cette affaire. Cela te convient-il ? » La pierre ne cessait de le remercier."
+        },
+        "de": {
+          "text": "Nun gut, ich will dir mit der Macht der buddhistischen Lehre helfen. Am Ende deines Weltalters gebe ich dir deine ursprüngliche Gestalt zurück und schließe diese Sache ab. Ist dir das recht?“ Der Stein dankte ihm ohne Ende.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nun gut, ich will dir mit der Macht der buddhistischen Lehre helfen. Am Ende deines Weltalters gebe ich dir deine ursprüngliche Gestalt zurück und schließe diese Sache ab. Ist dir das recht?“ Der Stein dankte ihm ohne Ende."
+        },
+        "ru": {
+          "text": "Ну хорошо, я помогу тебе силой буддийского учения. Когда твоя эпоха завершится, верну тебе первоначальную сущность и закончу это дело. Согласен?» Камень без конца благодарил его.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ну хорошо, я помогу тебе силой буддийского учения. Когда твоя эпоха завершится, верну тебе первоначальную сущность и закончу это дело. Согласен?» Камень без конца благодарил его."
+        },
+        "ar": {
+          "text": "حَسَنًا، سَأَسْتَخْدِمُ الْآنَ قُوَّةَ التَّعَالِيمِ الْبُوذِيَّةِ لِمُسَاعَدَتِكَ، وَعِنْدَ انْتِهَاءِ دَهْرِكَ أُعِيدُ إِلَيْكَ مَادَّتَكَ الْأَصْلِيَّةَ وَأَخْتِمُ هَذَا الْأَمْرَ. أَتَرْضَى؟» فَلَمْ يَكُفَّ الْحَجَرُ عَنْ شُكْرِهِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "حَسَنًا، سَأَسْتَخْدِمُ الْآنَ قُوَّةَ التَّعَالِيمِ الْبُوذِيَّةِ لِمُسَاعَدَتِكَ، وَعِنْدَ انْتِهَاءِ دَهْرِكَ أُعِيدُ إِلَيْكَ مَادَّتَكَ الْأَصْلِيَّةَ وَأَخْتِمُ هَذَا الْأَمْرَ. أَتَرْضَى؟» فَلَمْ يَكُفَّ الْحَجَرُ عَنْ شُكْرِهِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥasanan, sa-ʾastakhdimu al-ʾāna quwwata at-taʿālīmi al-būdhiyyati li-musāʿadatika, wa-ʿinda intihāʾi dahrika ʾuʿīdu ʾilayka māddataka al-ʾaṣliyyata wa-ʾakhtimu hādhā al-ʾamra. ʾA-tarḍā?» Fa-lam yakuffa al-ḥajaru ʿan shukrihi."
+          }
+        },
+        "zh": {
+          "text": "也罷，我如今大施佛法助你助，待劫終之日，复還本質，以了此案。你道好否？」石頭聽了，感謝不盡。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "也罷，我如今大施佛法助你助，待劫終之日，复還本質，以了此案。你道好否？」石頭聽了，感謝不盡。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yě bà, wǒ rújīn dà shī fófǎ zhù nǐ zhù, dài jié zhōng zhī rì, fù huán běnzhì, yǐ liǎo cǐ àn. Nǐ dào hǎo fǒu?» Shítou tīng le, gǎnxiè bù jìn."
+          }
+        },
+        "ko": {
+          "text": "좋다. 이제 불법의 큰 힘으로 너를 도와주마. 겁이 끝나는 날 본래 모습으로 돌려보내 이 일을 마치겠다. 어떠냐?” 돌은 듣고 끝없이 감사했습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "좋다. 이제 불법의 큰 힘으로 너를 도와주마. 겁이 끝나는 날 본래 모습으로 돌려보내 이 일을 마치겠다. 어떠냐?” 돌은 듣고 끝없이 감사했습니다."
+        }
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "僧は呪文を唱えて符を書き、大いに幻術を使い、大きな石をたちまち鮮やかで澄みきった美しい玉に変えました。さらに扇の飾りほどの大きさに縮め、身につけても手に持ってもよいものにしました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そうはじゅもんをとなえてふをかき、おおいにげんじゅつをつかい、おおきないしをたちまちあざやかですみきったうつくしいたまにかえました。さらにおうぎのかざりほどのおおきさにちぢめ、みにつけてもてにもってもよいものにしました。"
+        },
+        "en": {
+          "text": "The monk chanted spells and wrote talismans, working great magic. In an instant he turned the huge stone into a bright, clear and beautiful piece of jade, then shrank it to the size of a fan pendant, small enough to wear or hold.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The monk chanted spells and wrote talismans, working great magic. In an instant he turned the huge stone into a bright, clear and beautiful piece of jade, then shrank it to the size of a fan pendant, small enough to wear or hold."
+        },
+        "es": {
+          "text": "El monje recitó conjuros y escribió talismanes, desplegando gran magia. Al instante convirtió la gran piedra en un jade hermoso, brillante y puro, y lo redujo al tamaño de un colgante de abanico, apto para llevar puesto o en la mano.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El monje recitó conjuros y escribió talismanes, desplegando gran magia. Al instante convirtió la gran piedra en un jade hermoso, brillante y puro, y lo redujo al tamaño de un colgante de abanico, apto para llevar puesto o en la mano."
+        },
+        "fr": {
+          "text": "Le moine récita des incantations et traça des talismans, déployant sa magie. En un instant, il transforma la grosse pierre en un beau jade lumineux et pur, puis le réduisit à la taille d’un pendentif d’éventail, que l’on pouvait porter sur soi ou tenir.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le moine récita des incantations et traça des talismans, déployant sa magie. En un instant, il transforma la grosse pierre en un beau jade lumineux et pur, puis le réduisit à la taille d’un pendentif d’éventail, que l’on pouvait porter sur soi ou tenir."
+        },
+        "de": {
+          "text": "Der Mönch sprach Zauberformeln und schrieb Talismane. Mit großer Zauberkunst verwandelte er den riesigen Stein augenblicklich in ein helles, reines Stück Jade und verkleinerte es auf die Größe eines Fächeranhängers, zum Tragen oder Halten.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Der Mönch sprach Zauberformeln und schrieb Talismane. Mit großer Zauberkunst verwandelte er den riesigen Stein augenblicklich in ein helles, reines Stück Jade und verkleinerte es auf die Größe eines Fächeranhängers, zum Tragen oder Halten."
+        },
+        "ru": {
+          "text": "Монах произнёс заклинания, начертал талисманы и явил великое волшебство: огромный камень мгновенно стал прекрасным, светлым и чистым нефритом, уменьшившись до размера подвески веера, чтобы его можно было носить или держать в руке.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Монах произнёс заклинания, начертал талисманы и явил великое волшебство: огромный камень мгновенно стал прекрасным, светлым и чистым нефритом, уменьшившись до размера подвески веера, чтобы его можно было носить или держать в руке."
+        },
+        "ar": {
+          "text": "تَلَا الرَّاهِبُ التَّعَاوِيذَ وَكَتَبَ الطَّلَاسِمَ، وَأَظْهَرَ سِحْرًا عَظِيمًا، فَحَوَّلَ الْحَجَرَ الْكَبِيرَ فَوْرًا إِلَى يَشْمٍ جَمِيلٍ مُشْرِقٍ صَافٍ، ثُمَّ صَغَّرَهُ إِلَى حَجْمِ قِلَادَةِ مِرْوَحَةٍ، يُمْكِنُ لُبْسُهُ أَوْ حَمْلُهُ بِالْيَدِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تَلَا الرَّاهِبُ التَّعَاوِيذَ وَكَتَبَ الطَّلَاسِمَ، وَأَظْهَرَ سِحْرًا عَظِيمًا، فَحَوَّلَ الْحَجَرَ الْكَبِيرَ فَوْرًا إِلَى يَشْمٍ جَمِيلٍ مُشْرِقٍ صَافٍ، ثُمَّ صَغَّرَهُ إِلَى حَجْمِ قِلَادَةِ مِرْوَحَةٍ، يُمْكِنُ لُبْسُهُ أَوْ حَمْلُهُ بِالْيَدِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Talā ar-rāhibu at-taʿāwīdha wa-kataba aṭ-ṭalāsima, wa-ʾaẓhara siḥran ʿaẓīman, fa-ḥawwala al-ḥajara al-kabīra fawran ʾilā yashmin jamīlin mushriqin ṣāfin, thumma ṣaggharahu ʾilā ḥajmi qilādati mirwaḥatin, yumkinu lubsuhu ʾaw ḥamluhu bi-al-yadi."
+          }
+        },
+        "zh": {
+          "text": "那僧便念咒書符，大展幻術，將一塊大石登時變成一塊鮮明瑩洁的美玉，且又縮成扇墜大小的可佩可拿。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "那僧便念咒書符，大展幻術，將一塊大石登時變成一塊鮮明瑩洁的美玉，且又縮成扇墜大小的可佩可拿。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nà sēng biàn niàn zhòu shū fú, dà zhǎn huànshù, jiāng yī kuài dà shí dēngshí biàn chéng yī kuài xiānmíng yíngjié de měiyù, qiě yòu suō chéng shànzhuì dàxiǎo de kě pèi kě ná."
+          }
+        },
+        "ko": {
+          "text": "승려는 주문을 외우고 부적을 쓰며 큰 환술을 펼쳤습니다. 큰 돌은 순식간에 밝고 맑은 아름다운 옥으로 변했고, 다시 부채 장식만 한 크기로 줄어 몸에 차거나 손에 쥘 수 있게 되었습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "승려는 주문을 외우고 부적을 쓰며 큰 환술을 펼쳤습니다. 큰 돌은 순식간에 밝고 맑은 아름다운 옥으로 변했고, 다시 부채 장식만 한 크기로 줄어 몸에 차거나 손에 쥘 수 있게 되었습니다."
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "僧はそれを手のひらに載せ、笑って言いました。「姿は確かに宝物になった。だが、まだ本当の取り柄がない。もう幾文字か彫りつけ、一目で不思議な品だと分かるようにしてこそよい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そうはそれをてのひらにのせ、わらっていいました。すがたはたしかにたからものになった。だが、まだほんとうのとりえがない。もういくもじかほりつけ、ひとめでふしぎなしなだとわかるようにしてこそよい。"
+        },
+        "en": {
+          "text": "Holding it on his palm, the monk smiled. “Your form is certainly a treasure now, but it still has no real distinction. I must engrave a few characters on it, so that anyone can recognize it at once as a wondrous object.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Holding it on his palm, the monk smiled. “Your form is certainly a treasure now, but it still has no real distinction. I must engrave a few characters on it, so that anyone can recognize it at once as a wondrous object."
+        },
+        "es": {
+          "text": "El monje lo sostuvo en la palma y sonrió: «Tu forma ya es un tesoro, pero aún no tiene una cualidad verdaderamente especial. Debo grabarte unos caracteres para que cualquiera reconozca al verte que eres un objeto maravilloso.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El monje lo sostuvo en la palma y sonrió: «Tu forma ya es un tesoro, pero aún no tiene una cualidad verdaderamente especial. Debo grabarte unos caracteres para que cualquiera reconozca al verte que eres un objeto maravilloso."
+        },
+        "fr": {
+          "text": "Le moine le posa dans sa paume et sourit : « Te voilà un trésor par la forme, mais sans véritable qualité distinctive. Il faut encore y graver quelques caractères pour qu’on voie aussitôt que tu es un objet merveilleux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le moine le posa dans sa paume et sourit : « Te voilà un trésor par la forme, mais sans véritable qualité distinctive. Il faut encore y graver quelques caractères pour qu’on voie aussitôt que tu es un objet merveilleux."
+        },
+        "de": {
+          "text": "Der Mönch hielt ihn auf der Handfläche und lächelte: „Deine Form ist nun ein Schatz, doch eine wirkliche Besonderheit fehlt noch. Ich muss einige Schriftzeichen eingravieren, damit jeder sofort erkennt, dass du ein wundersames Ding bist.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Der Mönch hielt ihn auf der Handfläche und lächelte: „Deine Form ist nun ein Schatz, doch eine wirkliche Besonderheit fehlt noch. Ich muss einige Schriftzeichen eingravieren, damit jeder sofort erkennt, dass du ein wundersames Ding bist."
+        },
+        "ru": {
+          "text": "Монах положил его на ладонь и улыбнулся: «Видом ты теперь сокровище, но настоящего особого достоинства ещё нет. Надо вырезать несколько знаков, чтобы каждый с первого взгляда узнал чудесную вещь.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Монах положил его на ладонь и улыбнулся: «Видом ты теперь сокровище, но настоящего особого достоинства ещё нет. Надо вырезать несколько знаков, чтобы каждый с первого взгляда узнал чудесную вещь."
+        },
+        "ar": {
+          "text": "وَضَعَهُ الرَّاهِبُ عَلَى رَاحَتِهِ وَقَالَ ضَاحِكًا: «صَارَ شَكْلُكَ كَنْزًا حَقًّا، وَلَكِنْ لَا مِيزَةَ حَقِيقِيَّةً فِيهِ بَعْدُ. يَجِبُ أَنْ أَنْقُشَ عَلَيْكَ بِضْعَةَ رُمُوزٍ لِيَعْرِفَ النَّاظِرُ فَوْرًا أَنَّكَ شَيْءٌ عَجِيبٌ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَضَعَهُ الرَّاهِبُ عَلَى رَاحَتِهِ وَقَالَ ضَاحِكًا: «صَارَ شَكْلُكَ كَنْزًا حَقًّا، وَلَكِنْ لَا مِيزَةَ حَقِيقِيَّةً فِيهِ بَعْدُ. يَجِبُ أَنْ أَنْقُشَ عَلَيْكَ بِضْعَةَ رُمُوزٍ لِيَعْرِفَ النَّاظِرُ فَوْرًا أَنَّكَ شَيْءٌ عَجِيبٌ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Waḍaʿahu ar-rāhibu ʿalā rāḥatihi wa-qāla ḍāḥikan: «Ṣāra shakluka kanzan ḥaqqan, wa-lākin lā mīzata ḥaqīqiyyatan fīhi baʿdu. Yajibu ʾan ʾanqusha ʿalayka biḍʿata rumūzin li-yaʿrifa an-nāẓiru fawran ʾannaka shayʾun ʿajībun."
+          }
+        },
+        "zh": {
+          "text": "那僧托於掌上，笑道：「形体倒也是個寶物了！還只沒有實在的好處，須得再鐫上數字，使人一見便知是奇物方妙。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "數字はここでは「いくつかの文字」。現代語の「数字」という一語としては読んでいません。",
+              "en": "數字 here means a few written characters, not the modern single word for numbers."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "那僧托於掌上，笑道：「形体倒也是個寶物了！還只沒有實在的好處，須得再鐫上數字，使人一見便知是奇物方妙。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nà sēng tuō yú zhǎng shàng, xiào dào: «Xíngtǐ dào yě shì ge bǎowù le! Hái zhǐ méiyǒu shízài de hǎochu, xū dé zài juān shàng shù zì, shǐ rén yī jiàn biàn zhī shì qíwù fāng miào."
+          }
+        },
+        "ko": {
+          "text": "승려는 그것을 손바닥에 올리고 웃으며 말했습니다. “모양은 이제 보물이 되었구나! 하지만 아직 진짜 특별한 점은 없다. 몇 글자를 더 새겨 누구나 한눈에 기이한 물건임을 알아보게 해야 한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "승려는 그것을 손바닥에 올리고 웃으며 말했습니다. “모양은 이제 보물이 되었구나! 하지만 아직 진짜 특별한 점은 없다. 몇 글자를 더 새겨 누구나 한눈에 기이한 물건임을 알아보게 해야 한다."
+        }
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "それからお前を、文化の栄える盛んな国、詩と礼を重んじる高官の家、花や錦のように華やかな地、優しさと富貴に満ちた里へ連れて行き、落ち着いて楽しく暮らさせてやろう。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "それからおまえを、ぶんかのさかえるさかんなくに、しとれいをおもんじるこうかんのいえ、はなやにしきのようにはなやかなち、やさしさとふうきにみちたさとへつれていき、おちついてたのしくくらさせてやろう。"
+        },
+        "en": {
+          "text": "Then I shall take you to a flourishing, enlightened country, to a family of officials steeped in poetry and ritual, to a land bright as flowers and brocade, a home of tenderness, wealth and honour, where you may settle and live happily.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Then I shall take you to a flourishing, enlightened country, to a family of officials steeped in poetry and ritual, to a land bright as flowers and brocade, a home of tenderness, wealth and honour, where you may settle and live happily.”"
+        },
+        "es": {
+          "text": "Después te llevaré a un país ilustrado y próspero, a una familia de altos funcionarios formada en poesía y ritos, a una tierra espléndida como flores y brocados, un hogar de ternura, riqueza y honores, donde puedas establecerte y vivir feliz».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Después te llevaré a un país ilustrado y próspero, a una familia de altos funcionarios formada en poesía y ritos, a una tierra espléndida como flores y brocados, un hogar de ternura, riqueza y honores, donde puedas establecerte y vivir feliz»."
+        },
+        "fr": {
+          "text": "Puis je t’emmènerai dans un pays éclairé et prospère, dans une famille de dignitaires nourrie de poésie et de rites, en un lieu brillant de fleurs et de brocart, un foyer de douceur, de richesse et d’honneur, pour t’y établir heureux. »",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Puis je t’emmènerai dans un pays éclairé et prospère, dans une famille de dignitaires nourrie de poésie et de rites, en un lieu brillant de fleurs et de brocart, un foyer de douceur, de richesse et d’honneur, pour t’y établir heureux. »"
+        },
+        "de": {
+          "text": "Dann bringe ich dich in ein aufgeklärtes, blühendes Land, zu einer Beamtenfamilie voller Dichtung und Sitte, an einen Ort glänzend wie Blumen und Brokat, in eine Heimat von Zärtlichkeit, Reichtum und Rang, wo du ruhig und glücklich leben kannst.“",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dann bringe ich dich in ein aufgeklärtes, blühendes Land, zu einer Beamtenfamilie voller Dichtung und Sitte, an einen Ort glänzend wie Blumen und Brokat, in eine Heimat von Zärtlichkeit, Reichtum und Rang, wo du ruhig und glücklich leben kannst.“"
+        },
+        "ru": {
+          "text": "Потом я отнесу тебя в просвещённую и процветающую страну, в знатную чиновную семью, воспитанную на поэзии и обрядах, в край цветов и парчи, в обитель нежности, богатства и почестей, где ты сможешь мирно и счастливо жить».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Потом я отнесу тебя в просвещённую и процветающую страну, в знатную чиновную семью, воспитанную на поэзии и обрядах, в край цветов и парчи, в обитель нежности, богатства и почестей, где ты сможешь мирно и счастливо жить»."
+        },
+        "ar": {
+          "text": "ثُمَّ أَحْمِلُكَ إِلَى بَلَدٍ مُسْتَنِيرٍ مُزْدَهِرٍ، وَإِلَى أُسْرَةٍ مِنْ كِبَارِ الْمُوَظَّفِينَ تُعْنَى بِالشِّعْرِ وَالطُّقُوسِ، وَإِلَى أَرْضٍ زَاهِيَةٍ كَالْأَزْهَارِ وَالدِّيبَاجِ، وَمَوْطِنٍ لِلرِّقَّةِ وَالثَّرَاءِ وَالْجَاهِ، لِتَسْتَقِرَّ وَتَعِيشَ سَعِيدًا».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ثُمَّ أَحْمِلُكَ إِلَى بَلَدٍ مُسْتَنِيرٍ مُزْدَهِرٍ، وَإِلَى أُسْرَةٍ مِنْ كِبَارِ الْمُوَظَّفِينَ تُعْنَى بِالشِّعْرِ وَالطُّقُوسِ، وَإِلَى أَرْضٍ زَاهِيَةٍ كَالْأَزْهَارِ وَالدِّيبَاجِ، وَمَوْطِنٍ لِلرِّقَّةِ وَالثَّرَاءِ وَالْجَاهِ، لِتَسْتَقِرَّ وَتَعِيشَ سَعِيدًا».",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Thumma ʾaḥmiluka ʾilā baladin mustanīrin muzdahirin, wa-ʾilā ʾusratin min kibāri al-muwaẓẓafīna tuʿnā bi-ash-shiʿri wa-aṭ-ṭuqūsi, wa-ʾilā ʾarḍin zāhiyatin ka-al-ʾazhāri wa-ad-dībāji, wa-mawṭinin li-ar-riqqati wa-ath-tharāʾi wa-al-jāhi, li-tastaqirra wa-taʿīsha saʿīdan»."
+          }
+        },
+        "zh": {
+          "text": "然後攜你到那昌明隆盛之邦，詩禮簪纓之族，花錦繁華之地，溫柔富貴之鄉去安身樂業。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "簪纓は冠のかんざしとひもから、高官・名門の家を表します。",
+              "en": "簪纓 refers to cap pins and tassels, standing for high officials or distinguished families."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "然後攜你到那昌明隆盛之邦，詩禮簪纓之族，花錦繁華之地，溫柔富貴之鄉去安身樂業。」",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ránhòu xié nǐ dào nà chāngmíng lóngshèng zhī bāng, shīlǐ zānyīng zhī zú, huājǐn fánhuá zhī dì, wēnróu fùguì zhī xiāng qù ānshēn lèyè.»"
+          }
+        },
+        "ko": {
+          "text": "그다음 너를 문물이 밝고 번성한 나라, 시와 예를 갖춘 고관의 집안, 꽃과 비단처럼 화려한 땅, 다정함과 부귀가 있는 고장으로 데려가 편안히 즐겁게 살게 하마.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그다음 너를 문물이 밝고 번성한 나라, 시와 예를 갖춘 고관의 집안, 꽃과 비단처럼 화려한 땅, 다정함과 부귀가 있는 고장으로 데려가 편안히 즐겁게 살게 하마.”"
+        }
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "石はそれを聞くと、喜びを抑えられず尋ねました。「弟子にはどんな不思議なところがあるのでしょう。また、どこへ連れて行ってくださるのでしょう。どうかはっきりお教えくださり、疑いを晴らしてください。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "いしはそれをきくと、よろこびをおさえられずたずねました。でしにはどんなふしぎなところがあるのでしょう。また、どこへつれていってくださるのでしょう。どうかはっきりおおしえくださり、うたがいをはらしてください。"
+        },
+        "en": {
+          "text": "The stone could not contain its joy. “What wonders will your disciple possess, and where will you take me? Please explain clearly, so that I may no longer be puzzled.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The stone could not contain its joy. “What wonders will your disciple possess, and where will you take me? Please explain clearly, so that I may no longer be puzzled.”"
+        },
+        "es": {
+          "text": "La piedra no pudo contener la alegría y preguntó: «¿Qué cualidades maravillosas tendrá su discípulo y adónde lo llevarán? Les ruego que lo expliquen claramente para disipar mis dudas».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La piedra no pudo contener la alegría y preguntó: «¿Qué cualidades maravillosas tendrá su discípulo y adónde lo llevarán? Les ruego que lo expliquen claramente para disipar mis dudas»."
+        },
+        "fr": {
+          "text": "La pierre ne put contenir sa joie : « Quelles merveilles possédera votre disciple, et où l’emmènerez-vous ? Veuillez me l’expliquer clairement pour dissiper mes doutes. »",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La pierre ne put contenir sa joie : « Quelles merveilles possédera votre disciple, et où l’emmènerez-vous ? Veuillez me l’expliquer clairement pour dissiper mes doutes. »"
+        },
+        "de": {
+          "text": "Der Stein konnte seine Freude nicht zügeln und fragte: „Welche wunderbaren Eigenschaften werde ich besitzen, und wohin bringt ihr mich? Bitte erklärt es deutlich, damit ich nicht im Ungewissen bleibe.“",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Der Stein konnte seine Freude nicht zügeln und fragte: „Welche wunderbaren Eigenschaften werde ich besitzen, und wohin bringt ihr mich? Bitte erklärt es deutlich, damit ich nicht im Ungewissen bleibe.“"
+        },
+        "ru": {
+          "text": "Камень не мог сдержать радости и спросил: «Какие же чудесные свойства будут у вашего ученика и куда вы его отнесёте? Объясните, прошу вас, чтобы рассеять мои сомнения».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Камень не мог сдержать радости и спросил: «Какие же чудесные свойства будут у вашего ученика и куда вы его отнесёте? Объясните, прошу вас, чтобы рассеять мои сомнения»."
+        },
+        "ar": {
+          "text": "لَمْ يَسْتَطِعِ الْحَجَرُ كَبْحَ فَرَحِهِ، فَسَأَلَ: «مَا الْخَوَاصُّ الْعَجِيبَةُ الَّتِي سَأَمْلِكُهَا، وَإِلَى أَيْنَ سَتَحْمِلَانِنِي؟ أَرْجُو أَنْ تُوَضِّحَا الْأَمْرَ حَتَّى تَزُولَ حَيْرَتِي».",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَمْ يَسْتَطِعِ الْحَجَرُ كَبْحَ فَرَحِهِ، فَسَأَلَ: «مَا الْخَوَاصُّ الْعَجِيبَةُ الَّتِي سَأَمْلِكُهَا، وَإِلَى أَيْنَ سَتَحْمِلَانِنِي؟ أَرْجُو أَنْ تُوَضِّحَا الْأَمْرَ حَتَّى تَزُولَ حَيْرَتِي».",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lam yastaṭiʿi al-ḥajaru kabḥa faraḥihi, fa-saʾala: «Mā al-khawāṣṣu al-ʿajībatu allatī sa-ʾamlikuhā, wa-ʾilā ʾayna sa-taḥmilāninī? ʾArjū ʾan tuwaḍḍiḥā al-ʾamra ḥattā tazūla ḥayratī»."
+          }
+        },
+        "zh": {
+          "text": "石頭聽了，喜不能禁，乃問：「不知弟子那幾件奇處，又不知携了弟子到何處？望乞明示，使弟子不惑。」",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "喜不能禁の禁は「こらえる」で jīn。禁止の jìn とは読みが異なります。",
+              "en": "In 喜不能禁, 禁 means restrain and is read jīn, unlike jìn in prohibit."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "石頭聽了，喜不能禁，乃問：「不知弟子那幾件奇處，又不知携了弟子到何處？望乞明示，使弟子不惑。」",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shítou tīng le, xǐ bù néng jīn, nǎi wèn: «Bù zhī dìzǐ nǎ jǐ jiàn qí chù, yòu bù zhī xié le dìzǐ dào hé chù? Wàng qǐ míngshì, shǐ dìzǐ bù huò.»",
+            "note": {
+              "ja": "「不能」の不は bù のまま。「不惑」の不は発音では bú となります。",
+              "en": "不 remains bù in 不能; in 不惑 it is pronounced bú."
+            }
+          }
+        },
+        "ko": {
+          "text": "돌은 듣고 기쁨을 억누르지 못해 물었습니다. “제자에게 어떤 기이한 점이 생기며, 또 어디로 데려가 주십니까? 부디 분명히 알려 주셔서 의문을 풀어 주십시오.”",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "돌은 듣고 기쁨을 억누르지 못해 물었습니다. “제자에게 어떤 기이한 점이 생기며, 또 어디로 데려가 주십니까? 부디 분명히 알려 주셔서 의문을 풀어 주십시오.”"
+        }
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "僧は笑って言いました。「今は聞くな。そのうち自然に分かる。」そう言うと石を袖に入れ、道士とともにふわりと去って行きました。いったいどこへ、どの家へ向かったのかは分かりません。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そうはわらっていいました。いまはきくな。そのうちしぜんにわかる。そういうといしをそでにいれ、どうしとともにふわりとさっていきました。いったいどこへ、どのいえへむかったのかはわかりません。"
+        },
+        "en": {
+          "text": "The monk smiled. “Do not ask for now; in time you will understand.” With that he tucked the stone into his sleeve and drifted away with the Daoist. No one knew where or to whose house they went.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The monk smiled. “Do not ask for now; in time you will understand.” With that he tucked the stone into his sleeve and drifted away with the Daoist. No one knew where or to whose house they went."
+        },
+        "es": {
+          "text": "El monje sonrió: «No preguntes por ahora; con el tiempo lo entenderás». Dicho esto, guardó la piedra en la manga y se alejó flotando con el daoísta. Nadie supo hacia qué lugar o qué casa se dirigían.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El monje sonrió: «No preguntes por ahora; con el tiempo lo entenderás». Dicho esto, guardó la piedra en la manga y se alejó flotando con el daoísta. Nadie supo hacia qué lugar o qué casa se dirigían."
+        },
+        "fr": {
+          "text": "Le moine sourit : « Ne pose pas de questions pour l’instant ; plus tard tu comprendras naturellement. » Il glissa la pierre dans sa manche et s’éloigna légèrement avec le taoïste. Nul ne savait vers quel lieu ni quelle demeure ils allaient.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le moine sourit : « Ne pose pas de questions pour l’instant ; plus tard tu comprendras naturellement. » Il glissa la pierre dans sa manche et s’éloigna légèrement avec le taoïste. Nul ne savait vers quel lieu ni quelle demeure ils allaient."
+        },
+        "de": {
+          "text": "Der Mönch lächelte: „Frag jetzt nicht; später wirst du es von selbst verstehen.“ Damit steckte er den Stein in seinen Ärmel und schwebte mit dem Daoisten davon. Niemand wusste, wohin und zu welchem Haus sie gingen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Der Mönch lächelte: „Frag jetzt nicht; später wirst du es von selbst verstehen.“ Damit steckte er den Stein in seinen Ärmel und schwebte mit dem Daoisten davon. Niemand wusste, wohin und zu welchem Haus sie gingen."
+        },
+        "ru": {
+          "text": "Монах улыбнулся: «Пока не спрашивай; со временем сам поймёшь». Сказав это, он спрятал камень в рукав и легко удалился вместе с даосом. Никто не знал, в какую сторону и к какому дому они направились.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Монах улыбнулся: «Пока не спрашивай; со временем сам поймёшь». Сказав это, он спрятал камень в рукав и легко удалился вместе с даосом. Никто не знал, в какую сторону и к какому дому они направились."
+        },
+        "ar": {
+          "text": "ابْتَسَمَ الرَّاهِبُ: «لَا تَسْأَلِ الْآنَ؛ سَتَفْهَمُ مِنْ تِلْقَاءِ نَفْسِكَ فِيمَا بَعْدُ». ثُمَّ وَضَعَ الْحَجَرَ فِي كُمِّهِ وَمَضَى خَفِيفًا مَعَ النَّاسِكِ الطَّاوِيِّ، وَلَمْ يُعْرَفْ إِلَى أَيِّ مَكَانٍ أَوْ دَارٍ تَوَجَّهَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ابْتَسَمَ الرَّاهِبُ: «لَا تَسْأَلِ الْآنَ؛ سَتَفْهَمُ مِنْ تِلْقَاءِ نَفْسِكَ فِيمَا بَعْدُ». ثُمَّ وَضَعَ الْحَجَرَ فِي كُمِّهِ وَمَضَى خَفِيفًا مَعَ النَّاسِكِ الطَّاوِيِّ، وَلَمْ يُعْرَفْ إِلَى أَيِّ مَكَانٍ أَوْ دَارٍ تَوَجَّهَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ibtasama ar-rāhibu: «Lā tasʾali al-ʾāna; sa-tafhamu min tilqāʾi nafsika fīmā baʿdu». Thumma waḍaʿa al-ḥajara fī kummihi wa-maḍā khafīfan maʿa an-nāsiki aṭ-ṭāwiyyi, wa-lam yuʿraf ʾilā ʾayyi makānin ʾaw dārin tawajjahā."
+          }
+        },
+        "zh": {
+          "text": "那僧笑道：「你且莫問，日後自然明白的。」說着，便袖了那石，同那道人飄然而去，竟不知投奔何方何舍。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "袖は名詞「袖」を動詞として使い、袖の中に収めることを表します。",
+              "en": "袖 uses the noun sleeve as a verb, meaning to put something inside one’s sleeve."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "曹雪芹; Chinese Wikisource — 紅樓夢, 第001回 (collated text based on 庚辰本 for chapters 1–80)"
+          },
+          "ttsText": "那僧笑道：「你且莫問，日後自然明白的。」說着，便袖了那石，同那道人飄然而去，竟不知投奔何方何舍。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nà sēng xiào dào: «Nǐ qiě mò wèn, rìhòu zìrán míngbai de.» Shuōzhe, biàn xiù le nà shí, tóng nà dàorén piāorán ér qù, jìng bù zhī tóubèn hé fāng hé shè."
+          }
+        },
+        "ko": {
+          "text": "승려는 웃으며 말했습니다. “지금은 묻지 마라. 훗날 저절로 알게 된다.” 그러고는 돌을 소매에 넣고 도사와 함께 홀연히 떠났습니다. 어느 곳 어느 집으로 향했는지는 알 수 없었습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "승려는 웃으며 말했습니다. “지금은 묻지 마라. 훗날 저절로 알게 된다.” 그러고는 돌을 소매에 넣고 도사와 함께 홀연히 떠났습니다. 어느 곳 어느 집으로 향했는지는 알 수 없었습니다."
+        }
+      }
+    }
+  ]
+}

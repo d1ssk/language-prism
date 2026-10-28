@@ -1,0 +1,3558 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-wealth",
+  "slug": "smith-wealth",
+  "type": "library",
+  "title": {
+    "ja": "国富論",
+    "en": "The Wealth of Nations"
+  },
+  "description": {
+    "ja": "第1編第1章より、ピン製造の分業と生産性の比較。",
+    "en": "The pin-making example and comparison of productivity, from Book 1, Chapter 1."
+  },
+  "originalLanguage": "en",
+  "author": "Adam Smith",
+  "bibliography": {
+    "originalTitle": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+    "originalAuthor": "Adam Smith",
+    "title": {
+      "ja": "国富論",
+      "en": "The Wealth of Nations"
+    },
+    "author": {
+      "ja": "アダム・スミス",
+      "en": "Adam Smith"
+    }
+  },
+  "sourceTitle": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)",
+  "sourceURL": "https://www.gutenberg.org/ebooks/3300",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。著者と採用した原典を明記しています。",
+    "en": "The original work is in the public domain; the author and the source used are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Adam Smith。収録元：Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)。他言語訳・読み・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: Adam Smith. Source: Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776). New translations, readings and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他の8言語は本サイト用に新しく訳しています。既存の翻訳版は転載していません。訳・読み・解説・生成音声は専門家未校閲です。原文の数量・単位と、straights、wrought などの語形を保持しています。",
+    "en": "The original is divided into meaning units. The other eight versions are new translations for this site, not copies of published translations. Translations, readings, notes and generated audio have not been reviewed by specialists. Original quantities, units and forms such as straights and wrought are retained."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1編第1章。「To take an example」から「their different operations」まで。",
+      "en": "Book 1, Chapter 1, from “To take an example” to “their different operations.”"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "そこで、ごくささやかな製造業だが分業がよく注目されてきた例として、ピン職人の仕事を取り上げよう。",
+          "ttsText": "そこで、ごくささやかなせいぞうぎょうだがぶんぎょうがよくちゅうもくされてきたれいとして、ぴんしょくにんのしごとをとりあげよう。",
+          "vocabulary": [
+            {
+              "term": "分業",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "To take an example, therefore, from a very trifling manufacture, but one in which the division of labour has been very often taken notice of, the trade of a pin-maker:",
+          "ttsText": "To take an example, therefore, from a very trifling manufacture, but one in which the division of labour has been very often taken notice of, the trade of a pin-maker:",
+          "vocabulary": [
+            {
+              "term": "division of labour",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "manufacture はここでは工業製品ではなく製造業・製造作業。take notice of は「注意を向ける」で、受身では of が末尾に残ります。pin は縫い針ではなく留めるためのピンです。",
+              "en": "Manufacture here means a manufacturing trade or activity. Take notice of becomes passive while retaining of. The pin is a fastening pin, not a sewing needle."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Tomemos, pues, un ejemplo de una manufactura muy modesta, pero en la que se ha observado con mucha frecuencia la división del trabajo: el oficio del fabricante de alfileres.",
+          "ttsText": "Tomemos, pues, un ejemplo de una manufactura muy modesta, pero en la que se ha observado con mucha frecuencia la división del trabajo: el oficio del fabricante de alfileres.",
+          "vocabulary": [
+            {
+              "term": "división del trabajo",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Prenons donc un exemple dans une manufacture fort modeste, mais où la division du travail a très souvent été remarquée : le métier de fabricant d'épingles.",
+          "ttsText": "Prenons donc un exemple dans une manufacture fort modeste, mais où la division du travail a très souvent été remarquée : le métier de fabricant d'épingles.",
+          "vocabulary": [
+            {
+              "term": "division du travail",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Nehmen wir also ein Beispiel aus einem sehr unbedeutenden Gewerbe, in dem die Arbeitsteilung jedoch häufig bemerkt worden ist: dem Handwerk des Stecknadelmachers.",
+          "ttsText": "Nehmen wir also ein Beispiel aus einem sehr unbedeutenden Gewerbe, in dem die Arbeitsteilung jedoch häufig bemerkt worden ist: dem Handwerk des Stecknadelmachers.",
+          "vocabulary": [
+            {
+              "term": "Arbeitsteilung",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Возьмём поэтому пример из весьма незначительного производства, в котором, однако, часто обращали внимание на разделение труда, — ремесло изготовителя булавок.",
+          "ttsText": "Возьмём поэтому пример из весьма незначительного производства, в котором, однако, часто обращали внимание на разделение труда, — ремесло изготовителя булавок.",
+          "vocabulary": [
+            {
+              "term": "разделение труда",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لنأخذ إذن مثالًا من صناعة بسيطة جدًا، لكن تقسيم العمل فيها حظي كثيرًا بالاهتمام، وهي صناعة الدبابيس:",
+          "ttsText": "لنأخذ إذن مثالًا من صناعة بسيطة جدًا، لكن تقسيم العمل فيها حظي كثيرًا بالاهتمام، وهي صناعة الدبابيس:",
+          "vocabulary": [
+            {
+              "term": "تقسيم العمل",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Li-naʾkhudh idhan mithālan min ṣināʿatin basīṭatin jiddan, lākinna taqsīma al-ʿamali fīhā ḥaẓiya kathīran bi-al-ihtimāmi, wa-hiya ṣināʿatu ad-dabābīsi:",
+            "note": {
+              "ja": "末尾の ad-dabābīsi は、そこで区切る場合 ad-dabābīs と読みます。",
+              "en": "At a pause here, final ad-dabābīsi is pronounced ad-dabābīs."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "因此，让我们从一种很不起眼、但分工却经常受到注意的制造业中取一个例子，那就是制针业：",
+          "ttsText": "因此，让我们从一种很不起眼、但分工却经常受到注意的制造业中取一个例子，那就是制针业：",
+          "vocabulary": [
+            {
+              "term": "分工",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīncǐ, ràng wǒmen cóng yī zhǒng hěn bù qǐyǎn, dàn fēngōng què jīngcháng shòudào zhùyì de zhìzàoyè zhōng qǔ yī ge lìzi, nà jiù shì zhìzhēnyè:",
+            "note": {
+              "ja": "一种は yì zhǒng、一个は yí ge と発音します。",
+              "en": "一种 is spoken as yì zhǒng, and 一个 as yí ge."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그러므로 아주 사소한 제조업이지만 분업이 자주 주목받아 온 사례, 곧 핀 제조업을 들어 보자.",
+          "ttsText": "그러므로 아주 사소한 제조업이지만 분업이 자주 주목받아 온 사례, 곧 핀 제조업을 들어 보자.",
+          "vocabulary": [
+            {
+              "term": "분업",
+              "meaning": {
+                "ja": "生産工程を分け、別々の働き手が担当すること。",
+                "en": "Dividing production into tasks performed by different workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "この仕事の訓練を受けていない労働者は、分業によって独立した職業となったこの仕事に用いられる機械の使い方にも慣れていなければ（その機械の発明もおそらく同じ分業に促されたのだが）、",
+          "ttsText": "このしごとのくんれんをうけていないろうどうしゃは、ぶんぎょうによってどくりつしたしょくぎょうとなったこのしごとにもちいられるきかいのつかいかたにもなれていなければ、そのきかいのはつめいもおそらくおなじぶんぎょうにうながされたのだが、",
+          "vocabulary": [
+            {
+              "term": "機械",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "a workman not educated to this business (which the division of labour has rendered a distinct trade), nor acquainted with the use of the machinery employed in it (to the invention of which the same division of labour has probably given occasion),",
+          "ttsText": "a workman not educated to this business (which the division of labour has rendered a distinct trade), nor acquainted with the use of the machinery employed in it (to the invention of which the same division of labour has probably given occasion),",
+          "vocabulary": [
+            {
+              "term": "machinery",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "主語 a workman に二つの否定的な修飾を重ね、述語は次の単位まで待ちます。後半の括弧内は、機械の発明も分業に促されたという補足です。",
+              "en": "Two negative modifiers expand a workman; its main verb appears in the next unit. The second parenthesis adds that division of labor probably encouraged the invention of machinery."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "un trabajador no formado en este oficio, que la división del trabajo ha convertido en una actividad independiente, ni familiarizado con la maquinaria empleada en él, cuya invención probablemente se debió a esa misma división del trabajo,",
+          "ttsText": "un trabajador no formado en este oficio, que la división del trabajo ha convertido en una actividad independiente, ni familiarizado con la maquinaria empleada en él, cuya invención probablemente se debió a esa misma división del trabajo,",
+          "vocabulary": [
+            {
+              "term": "maquinaria",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "un ouvrier qui n'a pas été formé à ce métier, dont la division du travail a fait une profession distincte, et qui ne connaît pas l'usage des machines qui y sont employées, dont l'invention a probablement été suscitée par cette même division du travail,",
+          "ttsText": "un ouvrier qui n'a pas été formé à ce métier, dont la division du travail a fait une profession distincte, et qui ne connaît pas l'usage des machines qui y sont employées, dont l'invention a probablement été suscitée par cette même division du travail,",
+          "vocabulary": [
+            {
+              "term": "machines",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "ein Arbeiter, der in diesem Gewerbe, das die Arbeitsteilung zu einem eigenen Beruf gemacht hat, nicht ausgebildet und mit den dabei verwendeten Maschinen nicht vertraut ist, deren Erfindung wahrscheinlich dieselbe Arbeitsteilung veranlasst hat,",
+          "ttsText": "ein Arbeiter, der in diesem Gewerbe, das die Arbeitsteilung zu einem eigenen Beruf gemacht hat, nicht ausgebildet und mit den dabei verwendeten Maschinen nicht vertraut ist, deren Erfindung wahrscheinlich dieselbe Arbeitsteilung veranlasst hat,",
+          "vocabulary": [
+            {
+              "term": "Maschinen",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "рабочий, не обученный этому делу, которое разделение труда превратило в особую профессию, и не знакомый с применяемыми в нём машинами, изобретению которых, вероятно, способствовало то же разделение труда,",
+          "ttsText": "рабочий, не обученный этому делу, которое разделение труда превратило в особую профессию, и не знакомый с применяемыми в нём машинами, изобретению которых, вероятно, способствовало то же разделение труда,",
+          "vocabulary": [
+            {
+              "term": "машинами",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "فعامل لم يتدرب على هذه الحرفة، التي جعلها تقسيم العمل مهنة مستقلة، ولم يألف استعمال الآلات المستخدمة فيها، والتي ربما كان تقسيم العمل نفسه سببًا في اختراعها،",
+          "ttsText": "فعامل لم يتدرب على هذه الحرفة، التي جعلها تقسيم العمل مهنة مستقلة، ولم يألف استعمال الآلات المستخدمة فيها، والتي ربما كان تقسيم العمل نفسه سببًا في اختراعها،",
+          "vocabulary": [
+            {
+              "term": "الآلات",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-ʿāmilun lam yatadarrab ʿalā hādhihi al-ḥirfati, allatī jaʿalahā taqsīmu al-ʿamali mihnatan mustaqillatan, wa-lam yaʾlaf istiʿmāla al-ālāti al-mustakhdamati fīhā, wa-allatī rubbamā kāna taqsīmu al-ʿamali nafsuhu sababan fī ikhtirāʿihā,"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "一个没有受过这门手艺训练的工人——分工已使它成为独立的职业——如果又不熟悉其中机器的使用，而这些机器的发明很可能也源于同样的分工，",
+          "ttsText": "一个没有受过这门手艺训练的工人——分工已使它成为独立的职业——如果又不熟悉其中机器的使用，而这些机器的发明很可能也源于同样的分工，",
+          "vocabulary": [
+            {
+              "term": "机器",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī ge méiyǒu shòu guo zhè mén shǒuyì xùnliàn de gōngrén, fēngōng yǐ shǐ tā chéngwéi dúlì de zhíyè, rúguǒ yòu bù shúxī qízhōng jīqì de shǐyòng, ér zhèxiē jīqì de fāmíng hěn kěnéng yě yuányú tóngyàng de fēngōng,",
+            "note": {
+              "ja": "一个は yí ge と発音します。",
+              "en": "一个 is spoken as yí ge."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "분업으로 독립된 직업이 된 이 일에 훈련받지 않았고, 또 여기에 쓰이는 기계의 사용법에도 익숙하지 않은 노동자는, 그 기계의 발명 역시 같은 분업에서 비롯되었을 법한데,",
+          "ttsText": "분업으로 독립된 직업이 된 이 일에 훈련받지 않았고, 또 여기에 쓰이는 기계의 사용법에도 익숙하지 않은 노동자는, 그 기계의 발명 역시 같은 분업에서 비롯되었을 법한데,",
+          "vocabulary": [
+            {
+              "term": "기계",
+              "meaning": {
+                "ja": "この製造工程に用いられる装置。",
+                "en": "Equipment used in the manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "どれほど懸命に働いても、一日にピンを一本作れるかどうかで、二十本はまず作れないだろう。",
+          "ttsText": "どれほどけんめいにはたらいても、いちにちにぴんをいっぽんつくれるかどうかで、にじゅっぽんはまずつくれないだろう。",
+          "vocabulary": [
+            {
+              "term": "懸命に",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty.",
+          "ttsText": "could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty.",
+          "vocabulary": [
+            {
+              "term": "industry",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "industry はここでは「産業」ではなく「勤勉さ」。scarce は現代の scarcely に相当する副詞です。twenty の後では pins が省略されています。",
+              "en": "Industry here means diligence, not an industrial sector. Scarce functions as the adverb scarcely. Pins is understood after twenty."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "apenas podría, quizá, con toda su diligencia, hacer un alfiler al día, y ciertamente no podría hacer veinte.",
+          "ttsText": "apenas podría, quizá, con toda su diligencia, hacer un alfiler al día, y ciertamente no podría hacer veinte.",
+          "vocabulary": [
+            {
+              "term": "diligencia",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "pourrait à peine, peut-être, malgré tous ses efforts, fabriquer une épingle en un jour, et ne pourrait certainement pas en fabriquer vingt.",
+          "ttsText": "pourrait à peine, peut-être, malgré tous ses efforts, fabriquer une épingle en un jour, et ne pourrait certainement pas en fabriquer vingt.",
+          "vocabulary": [
+            {
+              "term": "efforts",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "könnte vielleicht selbst mit größtem Fleiß kaum eine Stecknadel am Tag herstellen und gewiss keine zwanzig.",
+          "ttsText": "könnte vielleicht selbst mit größtem Fleiß kaum eine Stecknadel am Tag herstellen und gewiss keine zwanzig.",
+          "vocabulary": [
+            {
+              "term": "Fleiß",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "мог бы, пожалуй, при величайшем усердии изготовить за день едва одну булавку и уж наверняка не смог бы изготовить двадцать.",
+          "ttsText": "мог бы, пожалуй, при величайшем усердии изготовить за день едва одну булавку и уж наверняка не смог бы изготовить двадцать.",
+          "vocabulary": [
+            {
+              "term": "усердии",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "فربما لم يستطع، رغم أقصى اجتهاده، صنع أكثر من دبوس واحد في اليوم، وبالتأكيد لن يستطيع صنع عشرين.",
+          "ttsText": "فربما لم يستطع، رغم أقصى اجتهاده، صنع أكثر من دبوس واحد في اليوم، وبالتأكيد لن يستطيع صنع عشرين.",
+          "vocabulary": [
+            {
+              "term": "اجتهاده",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-rubbamā lam yastaṭiʿ, raghma aqṣā ijtihādihi, ṣunʿa akthara min dabbūsin wāḥidin fī al-yawmi, wa-bi-at-taʾkīdi lan yastaṭīʿa ṣunʿa ʿishrīna.",
+            "note": {
+              "ja": "末尾の ʿishrīna は、そこで区切る場合 ʿishrīn と読みます。",
+              "en": "At a pause here, final ʿishrīna is pronounced ʿishrīn."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "那么，即使他极其勤奋，也许一天也很难做出一枚针，肯定做不出二十枚。",
+          "ttsText": "那么，即使他极其勤奋，也许一天也很难做出一枚针，肯定做不出二十枚。",
+          "vocabulary": [
+            {
+              "term": "勤奋",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nàme, jíshǐ tā jíqí qínfèn, yěxǔ yī tiān yě hěn nán zuò chū yī méi zhēn, kěndìng zuò bu chū èrshí méi.",
+            "note": {
+              "ja": "也许は yéxǔ、一天は yì tiān、一枚は yì méi と発音します。",
+              "en": "也许 is spoken as yéxǔ, 一天 as yì tiān, and 一枚 as yì méi."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "아무리 부지런히 일해도 하루에 핀 하나를 만들기조차 어려울 것이며, 스무 개는 분명 만들지 못할 것이다.",
+          "ttsText": "아무리 부지런히 일해도 하루에 핀 하나를 만들기조차 어려울 것이며, 스무 개는 분명 만들지 못할 것이다.",
+          "vocabulary": [
+            {
+              "term": "부지런히",
+              "meaning": {
+                "ja": "仕事に力を尽くすこと。",
+                "en": "Diligent effort at work."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "しかし、現在この仕事が営まれているやり方では、全体が独特の職業となっているだけでなく、多くの部門に分かれ、その大部分もまた独特の職業になっている。",
+          "ttsText": "しかし、げんざいこのしごとがいとなまれているやりかたでは、ぜんたいがどくとくのしょくぎょうとなっているだけでなく、おおくのぶもんにわかれ、そのだいぶぶんもまたどくとくのしょくぎょうになっている。",
+          "vocabulary": [
+            {
+              "term": "職業",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "But in the way in which this business is now carried on, not only the whole work is a peculiar trade, but it is divided into a number of branches, of which the greater part are likewise peculiar trades.",
+          "ttsText": "But in the way in which this business is now carried on, not only the whole work is a peculiar trade, but it is divided into a number of branches, of which the greater part are likewise peculiar trades.",
+          "vocabulary": [
+            {
+              "term": "trade",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "peculiar は「奇妙な」ではなく、この作業に固有・専門的という意味です。of which は branches を受け、その大部分について説明します。",
+              "en": "Peculiar means specific or specialized here, not strange. Of which refers to branches and introduces a statement about most of them."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Pero tal como se lleva a cabo hoy este trabajo, no solo el conjunto constituye un oficio especializado, sino que se divide en numerosas ramas, la mayoría de las cuales son también oficios especializados.",
+          "ttsText": "Pero tal como se lleva a cabo hoy este trabajo, no solo el conjunto constituye un oficio especializado, sino que se divide en numerosas ramas, la mayoría de las cuales son también oficios especializados.",
+          "vocabulary": [
+            {
+              "term": "oficio",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Mais dans la manière dont cette activité est aujourd'hui exercée, non seulement l'ensemble constitue un métier particulier, mais il se divise en plusieurs branches, dont la plupart sont également des métiers particuliers.",
+          "ttsText": "Mais dans la manière dont cette activité est aujourd'hui exercée, non seulement l'ensemble constitue un métier particulier, mais il se divise en plusieurs branches, dont la plupart sont également des métiers particuliers.",
+          "vocabulary": [
+            {
+              "term": "métier",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Doch bei der heutigen Ausübung dieses Gewerbes ist nicht nur die gesamte Arbeit ein besonderer Beruf; sie ist auch in zahlreiche Zweige unterteilt, von denen die meisten ebenfalls besondere Berufe sind.",
+          "ttsText": "Doch bei der heutigen Ausübung dieses Gewerbes ist nicht nur die gesamte Arbeit ein besonderer Beruf; sie ist auch in zahlreiche Zweige unterteilt, von denen die meisten ebenfalls besondere Berufe sind.",
+          "vocabulary": [
+            {
+              "term": "Beruf",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Но при нынешней организации этого дела не только вся работа составляет особую профессию: она разделена на множество отраслей, большая часть которых также представляет собой особые профессии.",
+          "ttsText": "Но при нынешней организации этого дела не только вся работа составляет особую профессию: она разделена на множество отраслей, большая часть которых также представляет собой особые профессии.",
+          "vocabulary": [
+            {
+              "term": "профессию",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لكن بالطريقة التي تمارس بها هذه الحرفة الآن، لا يشكل العمل كله مهنة متخصصة فحسب، بل ينقسم إلى فروع عديدة، معظمها أيضًا مهن متخصصة.",
+          "ttsText": "لكن بالطريقة التي تمارس بها هذه الحرفة الآن، لا يشكل العمل كله مهنة متخصصة فحسب، بل ينقسم إلى فروع عديدة، معظمها أيضًا مهن متخصصة.",
+          "vocabulary": [
+            {
+              "term": "مهنة",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lākin bi-aṭ-ṭarīqati allatī tumārasu bihā hādhihi al-ḥirfatu al-āna, lā yushakkilu al-ʿamalu kulluhu mihnatan mutakhaṣṣiṣatan fa-ḥasb, bal yanqasimu ilā furūʿin ʿadīdatin, muʿẓamuhā ayḍan mihanun mutakhaṣṣiṣatun.",
+            "note": {
+              "ja": "末尾の mutakhaṣṣiṣatun は、そこで区切る場合 mutakhaṣṣiṣah と読みます。",
+              "en": "At a pause here, final mutakhaṣṣiṣatun is pronounced mutakhaṣṣiṣah."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "但是，按照现在经营这项业务的方式，不仅整个工作是一门专门的手艺，而且它还分成许多分支，其中大多数也各自成为专门的手艺。",
+          "ttsText": "但是，按照现在经营这项业务的方式，不仅整个工作是一门专门的手艺，而且它还分成许多分支，其中大多数也各自成为专门的手艺。",
+          "vocabulary": [
+            {
+              "term": "手艺",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dànshì, ànzhào xiànzài jīngyíng zhè xiàng yèwù de fāngshì, bùjǐn zhěnggè gōngzuò shì yī mén zhuānmén de shǒuyì, érqiě tā hái fēn chéng xǔduō fēnzhī, qízhōng dàduōshù yě gèzì chéngwéi zhuānmén de shǒuyì.",
+            "note": {
+              "ja": "一门は yì mén と発音します。",
+              "en": "一门 is spoken as yì mén."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그러나 현재 이 일이 이루어지는 방식에서는 전체 작업이 하나의 전문 직업일 뿐 아니라 여러 부문으로 나뉘며, 그 대부분도 각각 전문 직업이 된다.",
+          "ttsText": "그러나 현재 이 일이 이루어지는 방식에서는 전체 작업이 하나의 전문 직업일 뿐 아니라 여러 부문으로 나뉘며, 그 대부분도 각각 전문 직업이 된다.",
+          "vocabulary": [
+            {
+              "term": "직업",
+              "meaning": {
+                "ja": "専門として行う仕事。",
+                "en": "A specialized occupation or craft."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "一人が針金を引き延ばし、別の者がまっすぐにし、三人目が切り、四人目が先をとがらせ、五人目が頭を付けるために上端を削る。",
+          "ttsText": "ひとりがはりがねをひきのばし、べつのものがまっすぐにし、さんにんめがきり、よにんめがさきをとがらせ、ごにんめがあたまをつけるためにじょうたんをけずる。",
+          "vocabulary": [
+            {
+              "term": "針金",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "One man draws out the wire; another straights it; a third cuts it; a fourth points it; a fifth grinds it at the top for receiving the head;",
+          "ttsText": "One man draws out the wire; another straights it; a third cuts it; a fourth points it; a fifth grinds it at the top for receiving the head;",
+          "vocabulary": [
+            {
+              "term": "wire",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "straights は「まっすぐにする」という動詞。a third 以降は man が省略されています。head はピンの尖った先端ではなく、反対側の頭です。",
+              "en": "Straights is a verb meaning straightens. Man is omitted after a third and the following ordinals. Head is the end opposite the sharp point."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Uno estira el alambre; otro lo endereza; un tercero lo corta; un cuarto le saca punta; un quinto pule la parte superior para colocar la cabeza;",
+          "ttsText": "Uno estira el alambre; otro lo endereza; un tercero lo corta; un cuarto le saca punta; un quinto pule la parte superior para colocar la cabeza;",
+          "vocabulary": [
+            {
+              "term": "alambre",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Un homme étire le fil ; un autre le redresse ; un troisième le coupe ; un quatrième l'affûte ; un cinquième en polit le haut pour recevoir la tête ;",
+          "ttsText": "Un homme étire le fil ; un autre le redresse ; un troisième le coupe ; un quatrième l'affûte ; un cinquième en polit le haut pour recevoir la tête ;",
+          "vocabulary": [
+            {
+              "term": "fil",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ein Mann zieht den Draht aus; ein anderer richtet ihn gerade; ein dritter schneidet ihn; ein vierter spitzt ihn zu; ein fünfter schleift das obere Ende, damit es den Kopf aufnehmen kann;",
+          "ttsText": "Ein Mann zieht den Draht aus; ein anderer richtet ihn gerade; ein dritter schneidet ihn; ein vierter spitzt ihn zu; ein fünfter schleift das obere Ende, damit es den Kopf aufnehmen kann;",
+          "vocabulary": [
+            {
+              "term": "Draht",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Один вытягивает проволоку; другой выпрямляет её; третий разрезает; четвёртый заостряет; пятый обтачивает верхний конец, чтобы насадить головку;",
+          "ttsText": "Один вытягивает проволоку; другой выпрямляет её; третий разрезает; четвёртый заостряет; пятый обтачивает верхний конец, чтобы насадить головку;",
+          "vocabulary": [
+            {
+              "term": "проволоку",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "يمد رجل السلك، ويقومه آخر، ويقطعه ثالث، ويسن طرفه رابع، ويصقل خامس أعلاه لتركيب الرأس؛",
+          "ttsText": "يمد رجل السلك، ويقومه آخر، ويقطعه ثالث، ويسن طرفه رابع، ويصقل خامس أعلاه لتركيب الرأس؛",
+          "vocabulary": [
+            {
+              "term": "السلك",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Yamuddu rajulun as-silka, wa-yuqawwimuhu ākharu, wa-yaqṭaʿuhu thālithun, wa-yasunnu ṭarafahu rābiʿun, wa-yaṣqulu khāmisun aʿlāhu li-tarkībi ar-raʾsi;",
+            "note": {
+              "ja": "末尾の ar-raʾsi は、そこで区切る場合 ar-raʾs と読みます。",
+              "en": "At a pause here, final ar-raʾsi is pronounced ar-raʾs."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "一个人拉伸金属丝，另一个人把它弄直，第三个人把它切断，第四个人磨尖，第五个人打磨顶端，以便装上针头；",
+          "ttsText": "一个人拉伸金属丝，另一个人把它弄直，第三个人把它切断，第四个人磨尖，第五个人打磨顶端，以便装上针头；",
+          "vocabulary": [
+            {
+              "term": "金属丝",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī ge rén lāshēn jīnshǔsī, lìng yī ge rén bǎ tā nòng zhí, dì sān ge rén bǎ tā qiēduàn, dì sì ge rén mó jiān, dì wǔ ge rén dǎmó dǐngduān, yǐbiàn zhuāng shang zhēntóu;",
+            "note": {
+              "ja": "一个は yí ge、另一个は lìng yí ge。序数の第三・第四・第五はそのまま読みます。",
+              "en": "一个 is spoken as yí ge and 另一个 as lìng yí ge; the ordinals 第三, 第四 and 第五 keep their written tones."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "한 사람이 철사를 늘이고, 다른 사람은 곧게 펴고, 셋째는 자르고, 넷째는 끝을 뾰족하게 만들고, 다섯째는 머리를 붙일 윗부분을 간다.",
+          "ttsText": "한 사람이 철사를 늘이고, 다른 사람은 곧게 펴고, 셋째는 자르고, 넷째는 끝을 뾰족하게 만들고, 다섯째는 머리를 붙일 윗부분을 간다.",
+          "vocabulary": [
+            {
+              "term": "철사",
+              "meaning": {
+                "ja": "ピンの材料となる細い金属線。",
+                "en": "The thin metal wire from which a pin is made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "頭を作るには二つか三つの別の作業が要り、取り付けるのも専門の仕事、白く仕上げるのも別の仕事で、紙に差して包装するだけでも独立した仕事である。",
+          "ttsText": "あたまをつくるにはふたつかみっつのべつのさぎょうがいり、とりつけるのもせんもんのしごと、しろくしあげるのもべつのしごとで、かみにさしてほうそうするだけでもどくりつしたしごとである。",
+          "vocabulary": [
+            {
+              "term": "作業",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "to make the head requires two or three distinct operations; to put it on is a peculiar business; to whiten the pins is another; it is even a trade by itself to put them into the paper;",
+          "ttsText": "to make the head requires two or three distinct operations; to put it on is a peculiar business; to whiten the pins is another; it is even a trade by itself to put them into the paper;",
+          "vocabulary": [
+            {
+              "term": "operations",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "to make、to put、to whiten が主語になる不定詞です。最後の it は to put them into the paper を先に受ける形式主語。",
+              "en": "The infinitives to make, to put and to whiten act as subjects. In the final clause, it anticipates to put them into the paper."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "fabricar la cabeza requiere dos o tres operaciones distintas; colocarla es un trabajo especializado; blanquear los alfileres es otro; incluso introducirlos en el papel constituye un oficio por sí solo;",
+          "ttsText": "fabricar la cabeza requiere dos o tres operaciones distintas; colocarla es un trabajo especializado; blanquear los alfileres es otro; incluso introducirlos en el papel constituye un oficio por sí solo;",
+          "vocabulary": [
+            {
+              "term": "operaciones",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "faire la tête exige deux ou trois opérations distinctes ; la poser est un travail particulier ; blanchir les épingles en est un autre ; les piquer dans le papier est même un métier à lui seul ;",
+          "ttsText": "faire la tête exige deux ou trois opérations distinctes ; la poser est un travail particulier ; blanchir les épingles en est un autre ; les piquer dans le papier est même un métier à lui seul ;",
+          "vocabulary": [
+            {
+              "term": "opérations",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "den Kopf herzustellen erfordert zwei oder drei verschiedene Arbeitsgänge; ihn aufzusetzen ist eine besondere Arbeit; die Nadeln weiß zu machen eine andere; selbst sie in das Papier zu stecken ist ein eigenes Gewerbe;",
+          "ttsText": "den Kopf herzustellen erfordert zwei oder drei verschiedene Arbeitsgänge; ihn aufzusetzen ist eine besondere Arbeit; die Nadeln weiß zu machen eine andere; selbst sie in das Papier zu stecken ist ein eigenes Gewerbe;",
+          "vocabulary": [
+            {
+              "term": "Arbeitsgänge",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "изготовление головки требует двух или трёх отдельных операций; её насаживание — особая работа; отбеливание булавок — другая; даже вкалывание их в бумагу составляет самостоятельное занятие;",
+          "ttsText": "изготовление головки требует двух или трёх отдельных операций; её насаживание — особая работа; отбеливание булавок — другая; даже вкалывание их в бумагу составляет самостоятельное занятие;",
+          "vocabulary": [
+            {
+              "term": "операций",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وصنع الرأس يتطلب عمليتين أو ثلاث عمليات منفصلة، وتركيبه عمل متخصص، وتبييض الدبابيس عمل آخر، وحتى إدخالها في الورق حرفة قائمة بذاتها؛",
+          "ttsText": "وصنع الرأس يتطلب عمليتين أو ثلاث عمليات منفصلة، وتركيبه عمل متخصص، وتبييض الدبابيس عمل آخر، وحتى إدخالها في الورق حرفة قائمة بذاتها؛",
+          "vocabulary": [
+            {
+              "term": "عمليات",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ṣunʿu ar-raʾsi yataṭallabu ʿamaliyyatayn aw thalātha ʿamaliyyātin munfaṣilatin, wa-tarkībuhu ʿamalun mutakhaṣṣiṣun, wa-tabyīḍu ad-dabābīsi ʿamalun ākharu, wa-ḥattā idkhāluhā fī al-waraqi ḥirfatun qāʾimatun bi-dhātihā;"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "制造针头需要两三道独立工序，装上针头是一项专门工作，把针弄白是另一项，甚至把针插进纸里也自成一门手艺；",
+          "ttsText": "制造针头需要两三道独立工序，装上针头是一项专门工作，把针弄白是另一项，甚至把针插进纸里也自成一门手艺；",
+          "vocabulary": [
+            {
+              "term": "工序",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhìzào zhēntóu xūyào liǎng sān dào dúlì gōngxù, zhuāng shang zhēntóu shì yī xiàng zhuānmén gōngzuò, bǎ zhēn nòng bái shì lìng yī xiàng, shènzhì bǎ zhēn chā jìn zhǐ li yě zì chéng yī mén shǒuyì;",
+            "note": {
+              "ja": "一项は yí xiàng、一门は yì mén と発音します。",
+              "en": "一项 is spoken as yí xiàng, and 一门 as yì mén."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "머리를 만드는 데에는 두세 가지 별도의 공정이 필요하고, 그것을 붙이는 일도 전문 작업이며, 핀을 희게 만드는 일도 따로 있다. 심지어 종이에 꽂는 것만으로도 독립된 작업이 된다.",
+          "ttsText": "머리를 만드는 데에는 두세 가지 별도의 공정이 필요하고, 그것을 붙이는 일도 전문 작업이며, 핀을 희게 만드는 일도 따로 있다. 심지어 종이에 꽂는 것만으로도 독립된 작업이 된다.",
+          "vocabulary": [
+            {
+              "term": "공정",
+              "meaning": {
+                "ja": "製造の過程に含まれる個々の仕事。",
+                "en": "Individual tasks in a manufacturing process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "このように、ピンを作るという重要な仕事は約十八の異なる作業に分けられ、工場によってはすべて別々の人が行い、別の工場では同じ人が二つか三つを受け持つこともある。",
+          "ttsText": "このように、ぴんをつくるというじゅうようなしごとはやくじゅうはちのことなるさぎょうにわけられ、こうじょうによってはすべてべつべつのひとがおこない、べつのこうじょうではおなじひとがふたつかみっつをうけもつこともある。",
+          "vocabulary": [
+            {
+              "term": "別々の人",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "and the important business of making a pin is, in this manner, divided into about eighteen distinct operations, which, in some manufactories, are all performed by distinct hands, though in others the same man will sometimes perform two or three of them.",
+          "ttsText": "and the important business of making a pin is, in this manner, divided into about eighteen distinct operations, which, in some manufactories, are all performed by distinct hands, though in others the same man will sometimes perform two or three of them.",
+          "vocabulary": [
+            {
+              "term": "distinct hands",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "hands は働く人を表す換喩。though は工場ごとの違いを対比します。will sometimes は未来の予測ではなく、ときどき起こる習慣的な事柄です。",
+              "en": "Hands stands for workers. Though contrasts arrangements at different factories. Will sometimes describes an occasional practice rather than a future prediction."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "y así el importante trabajo de hacer un alfiler queda dividido en unas dieciocho operaciones distintas, que en algunas fábricas realizan manos diferentes, aunque en otras un mismo hombre ejecuta a veces dos o tres.",
+          "ttsText": "y así el importante trabajo de hacer un alfiler queda dividido en unas dieciocho operaciones distintas, que en algunas fábricas realizan manos diferentes, aunque en otras un mismo hombre ejecuta a veces dos o tres.",
+          "vocabulary": [
+            {
+              "term": "manos diferentes",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "et l'importante tâche de fabriquer une épingle se trouve ainsi divisée en environ dix-huit opérations distinctes, toutes effectuées, dans certaines manufactures, par des mains différentes, tandis que dans d'autres le même homme en accomplit parfois deux ou trois.",
+          "ttsText": "et l'importante tâche de fabriquer une épingle se trouve ainsi divisée en environ dix-huit opérations distinctes, toutes effectuées, dans certaines manufactures, par des mains différentes, tandis que dans d'autres le même homme en accomplit parfois deux ou trois.",
+          "vocabulary": [
+            {
+              "term": "mains différentes",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "und so wird die wichtige Tätigkeit der Stecknadelherstellung in etwa achtzehn verschiedene Arbeitsgänge aufgeteilt, die in manchen Manufakturen alle von verschiedenen Händen ausgeführt werden, während in anderen derselbe Mann manchmal zwei oder drei davon übernimmt.",
+          "ttsText": "und so wird die wichtige Tätigkeit der Stecknadelherstellung in etwa achtzehn verschiedene Arbeitsgänge aufgeteilt, die in manchen Manufakturen alle von verschiedenen Händen ausgeführt werden, während in anderen derselbe Mann manchmal zwei oder drei davon übernimmt.",
+          "vocabulary": [
+            {
+              "term": "verschiedenen Händen",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "и таким образом важное дело изготовления булавки разделено примерно на восемнадцать отдельных операций, которые на одних мануфактурах все выполняются разными людьми, тогда как на других один человек иногда выполняет две или три.",
+          "ttsText": "и таким образом важное дело изготовления булавки разделено примерно на восемнадцать отдельных операций, которые на одних мануфактурах все выполняются разными людьми, тогда как на других один человек иногда выполняет две или три.",
+          "vocabulary": [
+            {
+              "term": "разными людьми",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وهكذا ينقسم العمل المهم المتمثل في صنع دبوس إلى نحو ثماني عشرة عملية منفصلة، تؤديها في بعض المصانع أيد مختلفة، بينما يؤدي الرجل نفسه أحيانًا عمليتين أو ثلاثًا في مصانع أخرى.",
+          "ttsText": "وهكذا ينقسم العمل المهم المتمثل في صنع دبوس إلى نحو ثماني عشرة عملية منفصلة، تؤديها في بعض المصانع أيد مختلفة، بينما يؤدي الرجل نفسه أحيانًا عمليتين أو ثلاثًا في مصانع أخرى.",
+          "vocabulary": [
+            {
+              "term": "أيد مختلفة",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-hākadhā yanqasimu al-ʿamalu al-muhimmu al-mutamaththilu fī ṣunʿi dabbūsin ilā naḥwi thamānī ʿashrata ʿamaliyyatin munfaṣilatin, tuʾaddīhā fī baʿḍi al-maṣāniʿi aydin mukhtalifatun, baynamā yuʾaddī ar-rajulu nafsuhu aḥyānan ʿamaliyyatayn aw thalāthan fī maṣāniʿa ukhrā."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这样，制造一枚针这项重要工作被分成大约十八道独立工序。在一些工场里，每道工序都由不同的人完成，而在另一些工场里，同一个人有时会做其中两三道。",
+          "ttsText": "这样，制造一枚针这项重要工作被分成大约十八道独立工序。在一些工场里，每道工序都由不同的人完成，而在另一些工场里，同一个人有时会做其中两三道。",
+          "vocabulary": [
+            {
+              "term": "不同的人",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhèyàng, zhìzào yī méi zhēn zhè xiàng zhòngyào gōngzuò bèi fēn chéng dàyuē shíbā dào dúlì gōngxù. Zài yīxiē gōngchǎng li, měi dào gōngxù dōu yóu bùtóng de rén wánchéng, ér zài lìng yīxiē gōngchǎng li, tóng yī ge rén yǒushí huì zuò qízhōng liǎng sān dào.",
+            "note": {
+              "ja": "一枚は yì méi、一些は yìxiē、同一个は tóng yí ge と発音します。",
+              "en": "一枚 is spoken as yì méi, 一些 as yìxiē, and 同一个 as tóng yí ge."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이처럼 핀 하나를 만드는 중요한 일은 약 열여덟 개의 별도 공정으로 나뉜다. 어떤 공장에서는 모두 다른 사람이 맡지만, 다른 곳에서는 같은 사람이 두세 공정을 맡기도 한다.",
+          "ttsText": "이처럼 핀 하나를 만드는 중요한 일은 약 열여덟 개의 별도 공정으로 나뉜다. 어떤 공장에서는 모두 다른 사람이 맡지만, 다른 곳에서는 같은 사람이 두세 공정을 맡기도 한다.",
+          "vocabulary": [
+            {
+              "term": "다른 사람",
+              "meaning": {
+                "ja": "分業のそれぞれの作業を担当する異なる働き手。",
+                "en": "Different workers assigned to the separate tasks."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "私はこの種の小さな工場を見たことがある。そこには十人しか雇われておらず、そのため何人かは二つか三つの異なる作業を行っていた。",
+          "ttsText": "わたしはこのしゅのちいさなこうじょうをみたことがある。そこにはじゅうにんしかやとわれておらず、そのためなんにんかはふたつかみっつのことなるさぎょうをおこなっていた。",
+          "vocabulary": [
+            {
+              "term": "工場",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I have seen a small manufactory of this kind, where ten men only were employed, and where some of them consequently performed two or three distinct operations.",
+          "ttsText": "I have seen a small manufactory of this kind, where ten men only were employed, and where some of them consequently performed two or three distinct operations.",
+          "vocabulary": [
+            {
+              "term": "manufactory",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "have seen は経験を表す現在完了。二つの where 節が同じ manufactory を説明します。consequently は十八工程に対して十人という事情を受けています。",
+              "en": "Have seen is an experiential present perfect. Both where clauses describe the same manufactory. Consequently links the allocation of several tasks to having ten workers for roughly eighteen operations."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "He visto una pequeña fábrica de este tipo, donde solo trabajaban diez hombres y donde, por consiguiente, algunos realizaban dos o tres operaciones distintas.",
+          "ttsText": "He visto una pequeña fábrica de este tipo, donde solo trabajaban diez hombres y donde, por consiguiente, algunos realizaban dos o tres operaciones distintas.",
+          "vocabulary": [
+            {
+              "term": "fábrica",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "J'ai vu une petite manufacture de ce genre, où seuls dix hommes étaient employés et où certains exécutaient donc deux ou trois opérations distinctes.",
+          "ttsText": "J'ai vu une petite manufacture de ce genre, où seuls dix hommes étaient employés et où certains exécutaient donc deux ou trois opérations distinctes.",
+          "vocabulary": [
+            {
+              "term": "manufacture",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich habe eine kleine Manufaktur dieser Art gesehen, in der nur zehn Männer beschäftigt waren und einige deshalb zwei oder drei verschiedene Arbeitsgänge ausführten.",
+          "ttsText": "Ich habe eine kleine Manufaktur dieser Art gesehen, in der nur zehn Männer beschäftigt waren und einige deshalb zwei oder drei verschiedene Arbeitsgänge ausführten.",
+          "vocabulary": [
+            {
+              "term": "Manufaktur",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я видел небольшую мануфактуру такого рода, где работали всего десять человек и потому некоторые из них выполняли две или три отдельные операции.",
+          "ttsText": "Я видел небольшую мануфактуру такого рода, где работали всего десять человек и потому некоторые из них выполняли две или три отдельные операции.",
+          "vocabulary": [
+            {
+              "term": "мануфактуру",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وقد رأيت مصنعًا صغيرًا من هذا النوع لا يعمل فيه سوى عشرة رجال، ولذلك كان بعضهم يؤدي عمليتين أو ثلاث عمليات منفصلة.",
+          "ttsText": "وقد رأيت مصنعًا صغيرًا من هذا النوع لا يعمل فيه سوى عشرة رجال، ولذلك كان بعضهم يؤدي عمليتين أو ثلاث عمليات منفصلة.",
+          "vocabulary": [
+            {
+              "term": "مصنعًا",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-qad raʾaytu maṣnaʿan ṣaghīran min hādhā an-nawʿi lā yaʿmalu fīhi siwā ʿasharati rijālin, wa-lidhālika kāna baʿḍuhum yuʾaddī ʿamaliyyatayn aw thalātha ʿamaliyyātin munfaṣilatin.",
+            "note": {
+              "ja": "末尾の munfaṣilatin は、そこで区切る場合 munfaṣilah と読みます。",
+              "en": "At a pause here, final munfaṣilatin is pronounced munfaṣilah."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我见过一家这种小工场，那里只雇了十个人，所以其中有些人要做两三道不同的工序。",
+          "ttsText": "我见过一家这种小工场，那里只雇了十个人，所以其中有些人要做两三道不同的工序。",
+          "vocabulary": [
+            {
+              "term": "工场",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ jiàn guo yī jiā zhè zhǒng xiǎo gōngchǎng, nàli zhǐ gù le shí ge rén, suǒyǐ qízhōng yǒuxiē rén yào zuò liǎng sān dào bùtóng de gōngxù.",
+            "note": {
+              "ja": "一家は yì jiā、所以は suóyǐ と発音します。",
+              "en": "一家 is spoken as yì jiā, and 所以 as suóyǐ."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "나는 이런 종류의 작은 공장을 본 적이 있는데, 거기에는 열 명만 고용되어 있어서 몇몇은 두세 가지 서로 다른 공정을 맡았다.",
+          "ttsText": "나는 이런 종류의 작은 공장을 본 적이 있는데, 거기에는 열 명만 고용되어 있어서 몇몇은 두세 가지 서로 다른 공정을 맡았다.",
+          "vocabulary": [
+            {
+              "term": "공장",
+              "meaning": {
+                "ja": "製造作業を行う場所。",
+                "en": "A place where manufacturing takes place."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "彼らはとても貧しく、必要な機械も十分には備えていなかったが、精を出せば全員で一日に約十二ポンドのピンを作ることができた。",
+          "ttsText": "かれらはとてもまずしく、ひつようなきかいもじゅうぶんにはそなえていなかったが、せいをだせばぜんいんでいちにちにやくじゅうにぽんどのぴんをつくることができた。",
+          "vocabulary": [
+            {
+              "term": "十二ポンド",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "But though they were very poor, and therefore but indifferently accommodated with the necessary machinery, they could, when they exerted themselves, make among them about twelve pounds of pins in a day.",
+          "ttsText": "But though they were very poor, and therefore but indifferently accommodated with the necessary machinery, they could, when they exerted themselves, make among them about twelve pounds of pins in a day.",
+          "vocabulary": [
+            {
+              "term": "twelve pounds",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "indifferently は「無関心に」ではなく「十分でなく」。among them は全員を合わせた生産量を示します。pounds は通貨ではなく重量です。",
+              "en": "Indifferently means inadequately here, not without interest. Among them gives their combined output. Pounds denotes weight, not currency."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Pero aunque eran muy pobres y por eso disponían de una maquinaria bastante deficiente, cuando se esforzaban podían fabricar entre todos unas doce libras de alfileres al día.",
+          "ttsText": "Pero aunque eran muy pobres y por eso disponían de una maquinaria bastante deficiente, cuando se esforzaban podían fabricar entre todos unas doce libras de alfileres al día.",
+          "vocabulary": [
+            {
+              "term": "doce libras",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Mais, bien qu'ils fussent très pauvres et donc assez mal pourvus des machines nécessaires, ils pouvaient, en s'appliquant, fabriquer ensemble environ douze livres d'épingles par jour.",
+          "ttsText": "Mais, bien qu'ils fussent très pauvres et donc assez mal pourvus des machines nécessaires, ils pouvaient, en s'appliquant, fabriquer ensemble environ douze livres d'épingles par jour.",
+          "vocabulary": [
+            {
+              "term": "douze livres",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Obwohl sie sehr arm und deshalb nur unzureichend mit den nötigen Maschinen ausgestattet waren, konnten sie bei angestrengter Arbeit zusammen etwa zwölf Pfund Stecknadeln am Tag herstellen.",
+          "ttsText": "Obwohl sie sehr arm und deshalb nur unzureichend mit den nötigen Maschinen ausgestattet waren, konnten sie bei angestrengter Arbeit zusammen etwa zwölf Pfund Stecknadeln am Tag herstellen.",
+          "vocabulary": [
+            {
+              "term": "zwölf Pfund",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Но хотя они были очень бедны и потому весьма плохо снабжены необходимыми машинами, при усердной работе они могли вместе изготовить около двенадцати фунтов булавок в день.",
+          "ttsText": "Но хотя они были очень бедны и потому весьма плохо снабжены необходимыми машинами, при усердной работе они могли вместе изготовить около двенадцати фунтов булавок в день.",
+          "vocabulary": [
+            {
+              "term": "двенадцати фунтов",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "ومع أنهم كانوا فقراء جدًا، ولذلك لم تتوفر لهم الآلات اللازمة إلا على نحو متواضع، فقد كانوا يستطيعون إذا بذلوا جهدهم أن يصنعوا معًا نحو اثني عشر رطلًا من الدبابيس في اليوم.",
+          "ttsText": "ومع أنهم كانوا فقراء جدًا، ولذلك لم تتوفر لهم الآلات اللازمة إلا على نحو متواضع، فقد كانوا يستطيعون إذا بذلوا جهدهم أن يصنعوا معًا نحو اثني عشر رطلًا من الدبابيس في اليوم.",
+          "vocabulary": [
+            {
+              "term": "اثني عشر رطلًا",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-maʿa annahum kānū fuqarāʾa jiddan, wa-lidhālika lam tatawaffar lahumu al-ālātu al-lāzimatu illā ʿalā naḥwin mutawāḍiʿin, fa-qad kānū yastaṭīʿūna idhā badhalū juhdahum an yaṣnaʿū maʿan naḥwa ithnay ʿashara raṭlan mina ad-dabābīsi fī al-yawmi.",
+            "note": {
+              "ja": "末尾の al-yawmi は、そこで区切る場合 al-yawm と読みます。",
+              "en": "At a pause here, final al-yawmi is pronounced al-yawm."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "虽然他们很穷，因而必要的机器也配备得很不充分，但只要努力工作，合起来一天就能制造大约十二磅的针。",
+          "ttsText": "虽然他们很穷，因而必要的机器也配备得很不充分，但只要努力工作，合起来一天就能制造大约十二磅的针。",
+          "vocabulary": [
+            {
+              "term": "十二磅",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Suīrán tāmen hěn qióng, yīn'ér bìyào de jīqì yě pèibèi de hěn bù chōngfèn, dàn zhǐyào nǔlì gōngzuò, hé qǐlai yī tiān jiù néng zhìzào dàyuē shí'èr bàng de zhēn.",
+            "note": {
+              "ja": "一天は yì tiān と発音します。",
+              "en": "一天 is spoken as yì tiān."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그들은 매우 가난하여 필요한 기계도 제대로 갖추지 못했지만, 힘껏 일하면 모두 합쳐 하루에 약 열두 파운드의 핀을 만들 수 있었다.",
+          "ttsText": "그들은 매우 가난하여 필요한 기계도 제대로 갖추지 못했지만, 힘껏 일하면 모두 합쳐 하루에 약 열두 파운드의 핀을 만들 수 있었다.",
+          "vocabulary": [
+            {
+              "term": "열두 파운드",
+              "meaning": {
+                "ja": "十人全体の一日の生産量を重量で表した数値。",
+                "en": "The weight of a day’s combined output by the ten workers."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "中くらいの大きさのピンは、一ポンドに四千本以上ある。",
+          "ttsText": "ちゅうくらいのおおきさのぴんは、いちぽんどによんせんぼんいじょうある。",
+          "vocabulary": [
+            {
+              "term": "中くらい",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "There are in a pound upwards of four thousand pins of a middling size.",
+          "ttsText": "There are in a pound upwards of four thousand pins of a middling size.",
+          "vocabulary": [
+            {
+              "term": "middling",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "upwards of は「〜を超える」。of a middling size は pins を説明し、重量から本数への換算条件を示します。",
+              "en": "Upwards of means more than. Of a middling size modifies pins, giving the size relevant to the weight-to-count conversion."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "En una libra hay más de cuatro mil alfileres de tamaño mediano.",
+          "ttsText": "En una libra hay más de cuatro mil alfileres de tamaño mediano.",
+          "vocabulary": [
+            {
+              "term": "mediano",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Une livre contient plus de quatre mille épingles de taille moyenne.",
+          "ttsText": "Une livre contient plus de quatre mille épingles de taille moyenne.",
+          "vocabulary": [
+            {
+              "term": "moyenne",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Auf ein Pfund kommen mehr als viertausend Stecknadeln mittlerer Größe.",
+          "ttsText": "Auf ein Pfund kommen mehr als viertausend Stecknadeln mittlerer Größe.",
+          "vocabulary": [
+            {
+              "term": "mittlerer",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "В одном фунте содержится более четырёх тысяч булавок среднего размера.",
+          "ttsText": "В одном фунте содержится более четырёх тысяч булавок среднего размера.",
+          "vocabulary": [
+            {
+              "term": "среднего",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وفي الرطل الواحد أكثر من أربعة آلاف دبوس متوسط الحجم.",
+          "ttsText": "وفي الرطل الواحد أكثر من أربعة آلاف دبوس متوسط الحجم.",
+          "vocabulary": [
+            {
+              "term": "متوسط",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-fī ar-raṭli al-wāḥidi aktharu min arbaʿati ālāfi dabbūsin mutawassiṭi al-ḥajmi.",
+            "note": {
+              "ja": "末尾の al-ḥajmi は、そこで区切る場合 al-ḥajm と読みます。",
+              "en": "At a pause here, final al-ḥajmi is pronounced al-ḥajm."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "一磅中等大小的针，有四千枚以上。",
+          "ttsText": "一磅中等大小的针，有四千枚以上。",
+          "vocabulary": [
+            {
+              "term": "中等",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī bàng zhōngděng dàxiǎo de zhēn, yǒu sì qiān méi yǐshàng.",
+            "note": {
+              "ja": "一磅は yí bàng と発音します。",
+              "en": "一磅 is spoken as yí bàng."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "중간 크기의 핀은 일 파운드에 사천 개가 넘는다.",
+          "ttsText": "중간 크기의 핀은 일 파운드에 사천 개가 넘는다.",
+          "vocabulary": [
+            {
+              "term": "중간",
+              "meaning": {
+                "ja": "大きすぎず小さすぎない、中程度の大きさ。",
+                "en": "Of intermediate or medium size."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "したがって、その十人は合わせて一日に四万八千本以上のピンを作ることができた。",
+          "ttsText": "したがって、そのじゅうにんはあわせていちにちによんまんはっせんぼんいじょうのぴんをつくることができた。",
+          "vocabulary": [
+            {
+              "term": "合わせて",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Those ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day.",
+          "ttsText": "Those ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day.",
+          "vocabulary": [
+            {
+              "term": "among them",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "十二ポンド×一ポンド当たり四千本以上という計算です。therefore が直前の数値からの推論を示します。",
+              "en": "This follows from twelve pounds times more than four thousand pins per pound. Therefore marks the inference from the preceding figures."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Por tanto, aquellas diez personas podían fabricar entre todas más de cuarenta y ocho mil alfileres al día.",
+          "ttsText": "Por tanto, aquellas diez personas podían fabricar entre todas más de cuarenta y ocho mil alfileres al día.",
+          "vocabulary": [
+            {
+              "term": "entre todas",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Ces dix personnes pouvaient donc fabriquer ensemble plus de quarante-huit mille épingles par jour.",
+          "ttsText": "Ces dix personnes pouvaient donc fabriquer ensemble plus de quarante-huit mille épingles par jour.",
+          "vocabulary": [
+            {
+              "term": "ensemble",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Diese zehn Personen konnten also zusammen mehr als achtundvierzigtausend Stecknadeln am Tag herstellen.",
+          "ttsText": "Diese zehn Personen konnten also zusammen mehr als achtundvierzigtausend Stecknadeln am Tag herstellen.",
+          "vocabulary": [
+            {
+              "term": "zusammen",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Следовательно, эти десять человек могли вместе производить свыше сорока восьми тысяч булавок в день.",
+          "ttsText": "Следовательно, эти десять человек могли вместе производить свыше сорока восьми тысяч булавок в день.",
+          "vocabulary": [
+            {
+              "term": "вместе",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "ولذلك كان هؤلاء الأشخاص العشرة يستطيعون أن يصنعوا معًا أكثر من ثمانية وأربعين ألف دبوس في اليوم.",
+          "ttsText": "ولذلك كان هؤلاء الأشخاص العشرة يستطيعون أن يصنعوا معًا أكثر من ثمانية وأربعين ألف دبوس في اليوم.",
+          "vocabulary": [
+            {
+              "term": "معًا",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-lidhālika kāna hāʾulāʾi al-ashkhāṣu al-ʿasharatu yastaṭīʿūna an yaṣnaʿū maʿan akthara min thamāniyatin wa-arbaʿīna alfa dabbūsin fī al-yawmi.",
+            "note": {
+              "ja": "末尾の al-yawmi は、そこで区切る場合 al-yawm と読みます。",
+              "en": "At a pause here, final al-yawmi is pronounced al-yawm."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "所以，这十个人合起来一天能制造四万八千枚以上的针。",
+          "ttsText": "所以，这十个人合起来一天能制造四万八千枚以上的针。",
+          "vocabulary": [
+            {
+              "term": "合起来",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Suǒyǐ, zhè shí ge rén hé qǐlai yī tiān néng zhìzào sì wàn bā qiān méi yǐshàng de zhēn.",
+            "note": {
+              "ja": "所以は suóyǐ、一天は yì tiān と発音します。",
+              "en": "所以 is spoken as suóyǐ, and 一天 as yì tiān."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "따라서 그 열 사람은 합쳐서 하루에 사만 팔천 개가 넘는 핀을 만들 수 있었다.",
+          "ttsText": "따라서 그 열 사람은 합쳐서 하루에 사만 팔천 개가 넘는 핀을 만들 수 있었다.",
+          "vocabulary": [
+            {
+              "term": "합쳐서",
+              "meaning": {
+                "ja": "各人を合わせた集団全体として。",
+                "en": "As the combined output of the whole group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "そこで、一人が四万八千本の十分の一を作ったとすれば、一日四千八百本を作ったと見なせる。",
+          "ttsText": "そこで、ひとりがよんまんはっせんぼんのじゅうぶんのいちをつくったとすれば、いちにちよんせんはっぴゃくほんをつくったとみなせる。",
+          "vocabulary": [
+            {
+              "term": "十分の一",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Each person, therefore, making a tenth part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day.",
+          "ttsText": "Each person, therefore, making a tenth part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day.",
+          "vocabulary": [
+            {
+              "term": "a tenth part",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "might be considered as は「〜と見なせる」。一人が全工程を行ったのではなく、共同生産を人数で割った一人当たりの換算値です。",
+              "en": "Might be considered as introduces an equivalent per-person output. It does not mean each worker performed every stage independently."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Así, cada persona, al producir la décima parte de cuarenta y ocho mil alfileres, podría considerarse productora de cuatro mil ochocientos alfileres al día.",
+          "ttsText": "Así, cada persona, al producir la décima parte de cuarenta y ocho mil alfileres, podría considerarse productora de cuatro mil ochocientos alfileres al día.",
+          "vocabulary": [
+            {
+              "term": "la décima parte",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Chaque personne produisant ainsi le dixième de quarante-huit mille épingles pouvait être considérée comme en fabriquant quatre mille huit cents par jour.",
+          "ttsText": "Chaque personne produisant ainsi le dixième de quarante-huit mille épingles pouvait être considérée comme en fabriquant quatre mille huit cents par jour.",
+          "vocabulary": [
+            {
+              "term": "le dixième",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Jede Person konnte somit, da auf sie ein Zehntel von achtundvierzigtausend Stecknadeln entfiel, als Hersteller von viertausendachthundert Stecknadeln am Tag gelten.",
+          "ttsText": "Jede Person konnte somit, da auf sie ein Zehntel von achtundvierzigtausend Stecknadeln entfiel, als Hersteller von viertausendachthundert Stecknadeln am Tag gelten.",
+          "vocabulary": [
+            {
+              "term": "ein Zehntel",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Таким образом, на каждого приходилась десятая часть сорока восьми тысяч булавок, и можно было считать, что каждый производит четыре тысячи восемьсот булавок в день.",
+          "ttsText": "Таким образом, на каждого приходилась десятая часть сорока восьми тысяч булавок, и можно было считать, что каждый производит четыре тысячи восемьсот булавок в день.",
+          "vocabulary": [
+            {
+              "term": "десятая часть",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وبذلك يمكن اعتبار كل شخص، إذ يصنع عُشر ثمانية وأربعين ألف دبوس، منتجًا لأربعة آلاف وثمانمائة دبوس في اليوم.",
+          "ttsText": "وبذلك يمكن اعتبار كل شخص، إذ يصنع عُشر ثمانية وأربعين ألف دبوس، منتجًا لأربعة آلاف وثمانمائة دبوس في اليوم.",
+          "vocabulary": [
+            {
+              "term": "عُشر",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-bi-dhālika yumkinu iʿtibāru kulli shakhṣin, idh yaṣnaʿu ʿushra thamāniyatin wa-arbaʿīna alfa dabbūsin, muntijan li-arbaʿati ālāfin wa-thamāni miʾati dabbūsin fī al-yawmi.",
+            "note": {
+              "ja": "末尾の al-yawmi は、そこで区切る場合 al-yawm と読みます。",
+              "en": "At a pause here, final al-yawmi is pronounced al-yawm."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "因此，每个人分得四万八千枚针的十分之一，就可以看作一天制造了四千八百枚针。",
+          "ttsText": "因此，每个人分得四万八千枚针的十分之一，就可以看作一天制造了四千八百枚针。",
+          "vocabulary": [
+            {
+              "term": "十分之一",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīncǐ, měi ge rén fēn de sì wàn bā qiān méi zhēn de shí fēn zhī yī, jiù kěyǐ kànzuò yī tiān zhìzào le sì qiān bā bǎi méi zhēn.",
+            "note": {
+              "ja": "可以は kéyǐ、一天は yì tiān。十分之一の末尾の一は yī です。",
+              "en": "可以 is spoken as kéyǐ and 一天 as yì tiān. The final 一 in 十分之一 is yī."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "따라서 각 사람이 사만 팔천 개의 십분의 일을 만든 셈이므로, 한 사람당 하루에 사천팔백 개의 핀을 만든 것으로 볼 수 있다.",
+          "ttsText": "따라서 각 사람이 사만 팔천 개의 십분의 일을 만든 셈이므로, 한 사람당 하루에 사천팔백 개의 핀을 만든 것으로 볼 수 있다.",
+          "vocabulary": [
+            {
+              "term": "십분의 일",
+              "meaning": {
+                "ja": "全体を十等分したうちの一つ。",
+                "en": "One of ten equal shares of a whole."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "しかし、もし全員がそれぞれ別々に、独立して働き、しかも誰もこの専門の仕事を習っていなかったなら、一人一日二十本は確実に作れず、おそらく一本さえ作れなかっただろう。",
+          "ttsText": "しかし、もしぜんいんがそれぞれべつべつに、どくりつしてはたらき、しかもだれもこのせんもんのしごとをならっていなかったなら、ひとりいちにちにじゅっぽんはかくじつにつくれず、おそらくいっぽんさえつくれなかっただろう。",
+          "vocabulary": [
+            {
+              "term": "別々に",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day;",
+          "ttsText": "But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day;",
+          "vocabulary": [
+            {
+              "term": "separately",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "wrought は work の古い過去分詞。if＋過去完了と could have made で、実際とは異なる過去の仮定を述べています。",
+              "en": "Wrought is an older past participle of work. If + past perfect with could have made constructs a counterfactual past situation."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Pero si todos hubieran trabajado por separado e independientemente, sin que ninguno hubiera sido formado en este oficio específico, sin duda cada uno no habría podido hacer veinte alfileres al día, y quizá ni uno;",
+          "ttsText": "Pero si todos hubieran trabajado por separado e independientemente, sin que ninguno hubiera sido formado en este oficio específico, sin duda cada uno no habría podido hacer veinte alfileres al día, y quizá ni uno;",
+          "vocabulary": [
+            {
+              "term": "por separado",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Mais s'ils avaient tous travaillé séparément et indépendamment, sans qu'aucun eût été formé à ce métier particulier, chacun n'aurait certainement pas pu faire vingt épingles par jour, peut-être même pas une ;",
+          "ttsText": "Mais s'ils avaient tous travaillé séparément et indépendamment, sans qu'aucun eût été formé à ce métier particulier, chacun n'aurait certainement pas pu faire vingt épingles par jour, peut-être même pas une ;",
+          "vocabulary": [
+            {
+              "term": "séparément",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Hätten sie jedoch alle getrennt und unabhängig gearbeitet, ohne dass jemand in diesem besonderen Gewerbe ausgebildet gewesen wäre, so hätte gewiss keiner zwanzig, vielleicht nicht einmal eine Stecknadel am Tag herstellen können;",
+          "ttsText": "Hätten sie jedoch alle getrennt und unabhängig gearbeitet, ohne dass jemand in diesem besonderen Gewerbe ausgebildet gewesen wäre, so hätte gewiss keiner zwanzig, vielleicht nicht einmal eine Stecknadel am Tag herstellen können;",
+          "vocabulary": [
+            {
+              "term": "getrennt",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Но если бы все они трудились порознь и независимо, причём никто не был бы обучен этому особому делу, каждый наверняка не смог бы изготовить двадцать булавок в день, а возможно, и одной;",
+          "ttsText": "Но если бы все они трудились порознь и независимо, причём никто не был бы обучен этому особому делу, каждый наверняка не смог бы изготовить двадцать булавок в день, а возможно, и одной;",
+          "vocabulary": [
+            {
+              "term": "порознь",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لكن لو عملوا جميعًا منفصلين ومستقلين، من دون أن يكون أي منهم قد تدرب على هذه الحرفة المتخصصة، لما استطاع كل واحد منهم بالتأكيد صنع عشرين دبوسًا في اليوم، وربما لم يصنع دبوسًا واحدًا؛",
+          "ttsText": "لكن لو عملوا جميعًا منفصلين ومستقلين، من دون أن يكون أي منهم قد تدرب على هذه الحرفة المتخصصة، لما استطاع كل واحد منهم بالتأكيد صنع عشرين دبوسًا في اليوم، وربما لم يصنع دبوسًا واحدًا؛",
+          "vocabulary": [
+            {
+              "term": "منفصلين",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lākin law ʿamilū jamīʿan munfaṣilīna wa-mustaqillīna, min dūni an yakūna ayyun minhum qad tadarraba ʿalā hādhihi al-ḥirfati al-mutakhaṣṣiṣati, la-mā istaṭāʿa kullu wāḥidin minhum bi-at-taʾkīdi ṣunʿa ʿishrīna dabbūsan fī al-yawmi, wa-rubbamā lam yaṣnaʿ dabbūsan wāḥidan;",
+            "note": {
+              "ja": "末尾の wāḥidan は、そこで区切る場合 wāḥidā と読みます。",
+              "en": "At a pause here, final wāḥidan is pronounced wāḥidā."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "但是，如果他们都各自独立工作，而且谁也没有受过这门专门手艺的训练，那么每个人一天肯定做不出二十枚针，也许连一枚都做不出；",
+          "ttsText": "但是，如果他们都各自独立工作，而且谁也没有受过这门专门手艺的训练，那么每个人一天肯定做不出二十枚针，也许连一枚都做不出；",
+          "vocabulary": [
+            {
+              "term": "各自",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dànshì, rúguǒ tāmen dōu gèzì dúlì gōngzuò, érqiě shéi yě méiyǒu shòu guo zhè mén zhuānmén shǒuyì de xùnliàn, nàme měi ge rén yī tiān kěndìng zuò bu chū èrshí méi zhēn, yěxǔ lián yī méi dōu zuò bu chū;",
+            "note": {
+              "ja": "一天は yì tiān、一枚は yì méi、也许は yéxǔ と発音します。",
+              "en": "一天 is spoken as yì tiān, 一枚 as yì méi, and 也许 as yéxǔ."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그러나 모두 따로 독립적으로 일하고 아무도 이 전문적인 일에 훈련받지 않았다면, 각자 하루에 스무 개는 분명 만들지 못했을 것이고, 어쩌면 하나도 만들지 못했을 것이다.",
+          "ttsText": "그러나 모두 따로 독립적으로 일하고 아무도 이 전문적인 일에 훈련받지 않았다면, 각자 하루에 스무 개는 분명 만들지 못했을 것이고, 어쩌면 하나도 만들지 못했을 것이다.",
+          "vocabulary": [
+            {
+              "term": "따로",
+              "meaning": {
+                "ja": "仕事を分担する集団にならず、個々に。",
+                "en": "Individually, without working as a coordinated group."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u013/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "つまり、さまざまな作業を適切に分けて組み合わせることで現在できている生産量の、二百四十分の一にも確実に届かず、おそらく四千八百分の一にも届かなかったのである。",
+          "ttsText": "つまり、さまざまなさぎょうをてきせつにわけてくみあわせることでげんざいできているせいさんりょうの、にひゃくよんじゅうぶんのいちにもかくじつにとどかず、おそらくよんせんはっぴゃくぶんのいちにもとどかなかったのである。",
+          "vocabulary": [
+            {
+              "term": "組み合わせ",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "that is, certainly, not the two hundred and fortieth, perhaps not the four thousand eight hundredth, part of what they are at present capable of performing, in consequence of a proper division and combination of their different operations.",
+          "ttsText": "that is, certainly, not the two hundred and fortieth, perhaps not the four thousand eight hundredth, part of what they are at present capable of performing, in consequence of a proper division and combination of their different operations.",
+          "vocabulary": [
+            {
+              "term": "combination",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "二十本÷四千八百本は二百四十分の一、一本÷四千八百本は四千八百分の一。division に加えて combination があり、分割と協働の両方を述べています。",
+              "en": "Twenty divided by 4,800 is 1/240; one divided by 4,800 is 1/4,800. Combination alongside division emphasizes coordination as well as task separation."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Project Gutenberg #3300 — An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, Chapter I (work first published 1776)"
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "es decir, ciertamente ni la doscientas cuarentava parte, quizá ni la cuatro mil ochocientava parte, de lo que ahora pueden producir gracias a una adecuada división y combinación de sus diferentes operaciones.",
+          "ttsText": "es decir, ciertamente ni la doscientas cuarentava parte, quizá ni la cuatro mil ochocientava parte, de lo que ahora pueden producir gracias a una adecuada división y combinación de sus diferentes operaciones.",
+          "vocabulary": [
+            {
+              "term": "combinación",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "c'est-à-dire certainement pas la deux-cent-quarantième partie, peut-être pas même la quatre-mille-huit-centième, de ce qu'ils peuvent actuellement produire grâce à une division et à une combinaison appropriées de leurs différentes opérations.",
+          "ttsText": "c'est-à-dire certainement pas la deux-cent-quarantième partie, peut-être pas même la quatre-mille-huit-centième, de ce qu'ils peuvent actuellement produire grâce à une division et à une combinaison appropriées de leurs différentes opérations.",
+          "vocabulary": [
+            {
+              "term": "combinaison",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "also gewiss nicht den zweihundertvierzigsten, vielleicht nicht den viertausendachthundertsten Teil dessen, was sie heute infolge einer zweckmäßigen Teilung und Verbindung ihrer verschiedenen Arbeitsgänge leisten können.",
+          "ttsText": "also gewiss nicht den zweihundertvierzigsten, vielleicht nicht den viertausendachthundertsten Teil dessen, was sie heute infolge einer zweckmäßigen Teilung und Verbindung ihrer verschiedenen Arbeitsgänge leisten können.",
+          "vocabulary": [
+            {
+              "term": "Verbindung",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "то есть, несомненно, даже не двухсотсороковую, а возможно, и не четырёхтысячивосьмисотую часть того, что они способны производить теперь благодаря надлежащему разделению и сочетанию отдельных операций.",
+          "ttsText": "то есть, несомненно, даже не двухсотсороковую, а возможно, и не четырёхтысячивосьмисотую часть того, что они способны производить теперь благодаря надлежащему разделению и сочетанию отдельных операций.",
+          "vocabulary": [
+            {
+              "term": "сочетанию",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أي بالتأكيد أقل من جزء من مائتين وأربعين، وربما أقل من جزء من أربعة آلاف وثمانمائة، مما يستطيعون إنتاجه الآن بفضل التقسيم والتنسيق المناسبين لعملياتهم المختلفة.",
+          "ttsText": "أي بالتأكيد أقل من جزء من مائتين وأربعين، وربما أقل من جزء من أربعة آلاف وثمانمائة، مما يستطيعون إنتاجه الآن بفضل التقسيم والتنسيق المناسبين لعملياتهم المختلفة.",
+          "vocabulary": [
+            {
+              "term": "التنسيق",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ay bi-at-taʾkīdi aqallu min juzʾin min miʾatayn wa-arbaʿīna, wa-rubbamā aqallu min juzʾin min arbaʿati ālāfin wa-thamāni miʾatin, mimmā yastaṭīʿūna intājahu al-āna bi-faḍli at-taqsīmi wa-at-tansīqi al-munāsibayni li-ʿamaliyyātihimu al-mukhtalifati.",
+            "note": {
+              "ja": "末尾の al-mukhtalifati は、そこで区切る場合 al-mukhtalifah と読みます。",
+              "en": "At a pause here, final al-mukhtalifati is pronounced al-mukhtalifah."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "也就是说，肯定不到他们目前产量的二百四十分之一，甚至可能不到四千八百分之一，而他们目前的生产能力，正来自不同工序的适当分工与配合。",
+          "ttsText": "也就是说，肯定不到他们目前产量的二百四十分之一，甚至可能不到四千八百分之一，而他们目前的生产能力，正来自不同工序的适当分工与配合。",
+          "vocabulary": [
+            {
+              "term": "配合",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yě jiù shì shuō, kěndìng bù dào tāmen mùqián chǎnliàng de èr bǎi sì shí fēn zhī yī, shènzhì kěnéng bù dào sì qiān bā bǎi fēn zhī yī, ér tāmen mùqián de shēngchǎn nénglì, zhèng láizì bùtóng gōngxù de shìdàng fēngōng yǔ pèihé.",
+            "note": {
+              "ja": "不到は bú dào と発音します。分数の末尾の一は yī です。",
+              "en": "不到 is spoken as bú dào. The final 一 in the fractions remains yī."
+            }
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "즉 서로 다른 공정을 적절히 나누고 결합한 결과로 지금 생산할 수 있는 양의 이백사십분의 일에도 분명 못 미치며, 어쩌면 사천팔백분의 일에도 못 미쳤을 것이다.",
+          "ttsText": "즉 서로 다른 공정을 적절히 나누고 결합한 결과로 지금 생산할 수 있는 양의 이백사십분의 일에도 분명 못 미치며, 어쩌면 사천팔백분의 일에도 못 미쳤을 것이다.",
+          "vocabulary": [
+            {
+              "term": "결합",
+              "meaning": {
+                "ja": "分けた工程を一つの生産に結びつけること。",
+                "en": "Coordinating the separate operations into a single production process."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/smith-wealth/u014/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1b1d795f09d6946f6a5fda18b0654868757aedfc0acd24d34a789459d29b7932",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这种生命观有其壮丽之处：生命及其各种力量，最初被注入少数几种形态，或者仅仅一种；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e43a853c96f44fdff0e358626569cd9a951c2510eb77a939aaedc059501d63a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:23:08.379588+00:00"
+}

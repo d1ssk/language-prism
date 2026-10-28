@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1bc7d2859591c7dd226352e32778e35fe60ed0e0290779e03ba04c0661b55ab8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "и так принёс домой все книги, какие только смог раздобыть;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0707b7c11fcf8727818f6a3d2b34c99e2833f8a71df331c9a76b9037d4e6f281",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:47.770752+00:00"
+}

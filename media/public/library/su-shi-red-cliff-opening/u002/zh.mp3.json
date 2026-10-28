@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8cc0e0ad3608bed64432cdd5472106d88bc747a5b46e4effa7d9611115bf7032",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "清风徐来，水波不兴。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0834a79b6b5dff9b51dcf38dc338856422a78d61369998a009156af753ac524f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:02:07.799961+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1d281633ea9239bd5860a33d3baeac39c620c1734d8922d2329394ab7bc11a56",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если нельзя сохранить и то и другое, я откажусь от жизни и выберу праведность.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d7034e021b4aca2d4512ab1d2bfc4bdf502a81d746549a40cae082bdac315aa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:02:15.708510+00:00"
+}

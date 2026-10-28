@@ -1,0 +1,2290 @@
+{
+  "schemaVersion": 1,
+  "slug": "su-shi-red-cliff-opening",
+  "type": "library",
+  "sourceURL": "https://zh.wikisource.org/zh-hans/%E5%89%8D%E8%B5%A4%E5%A3%81%E8%B3%A6",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。原文の著者と収録元を明記しています。",
+    "en": "The original work is in the public domain. Its author and the transcription source are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：蘇軾 / Su Shi (1037–1101)。収録元：维基文库 — 前赤壁賦（简体中文显示；作于1082年）。他言語訳・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: 蘇軾 / Su Shi (1037–1101). Source: 维基文库 — 前赤壁賦（简体中文显示；作于1082年）. New translations and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文は出典に従い、学習・再生のため意味単位に分けています。他言語訳は本サイト用の新しい訳で、既存の翻訳版から転載したものではありません。解説・読み・音声を含め専門家による校閲は行っていません。 中国語欄は現代語訳ではなく古典中国語の原文です。拼音と音声は現代標準中国語による読みで、宋代の発音を再現するものではありません。",
+    "en": "The original follows the cited source and is divided into units for study and playback. Other-language versions are new translations for this site, not copies of published translations. Translations, explanations, readings and audio have not been reviewed by specialists. The Chinese entries preserve the Classical Chinese original. Pinyin and audio use modern Standard Mandarin, not a reconstruction of Song-dynasty pronunciation."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "id": "su-shi-red-cliff-opening",
+  "title": {
+    "ja": "蘇軾『前赤壁賦』— 冒頭",
+    "en": "Su Shi — First Ode on the Red Cliff: Opening"
+  },
+  "description": {
+    "ja": "月夜の舟遊びを描く冒頭の一段落。",
+    "en": "The opening paragraph: a moonlit boat excursion."
+  },
+  "originalLanguage": "zh",
+  "author": "蘇軾 / Su Shi (1037–1101)",
+  "sourceTitle": "维基文库 — 前赤壁賦（简体中文显示；作于1082年）",
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "冒頭の舟遊びを描く一段落。「壬戌之秋」から「羽化而登仙」まで。",
+      "en": "The opening paragraph describing the boat excursion, from 壬戌之秋 to 羽化而登仙."
+    }
+  },
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "壬戌の秋、七月十六日、蘇子は客とともに舟を浮かべ、赤壁の下で遊んだ。",
+          "ttsText": "じんじゅつのあき、しちがつじゅうろくにち、そしはきゃくとともにふねをうかべ、せきへきのもとであそんだ。",
+          "vocabulary": [
+            {
+              "term": "七月十六日",
+              "meaning": {
+                "ja": "旧暦の日付。既望は満月の翌日。",
+                "en": "A lunar-calendar date; jiwang is the day after the full moon."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜とともに",
+              "explanation": {
+                "ja": "同行者を示す。蘇子は作者自身を指す呼び方。",
+                "en": "Marks a companion. Master Su is the author referring to himself."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "In the autumn of the renxu year, on the sixteenth day of the seventh lunar month, Master Su went boating with his guests below the Red Cliff.",
+          "ttsText": "In the autumn of the renxu year, on the sixteenth day of the seventh lunar month, Master Su went boating with his guests below the Red Cliff.",
+          "vocabulary": [
+            {
+              "term": "went boating",
+              "meaning": {
+                "ja": "舟遊びをした。",
+                "en": "Took a boat out for pleasure."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "with his guests",
+              "explanation": {
+                "ja": "with は同行を示す。below は崖の下にある水面上の位置を表す。",
+                "en": "With marks companionship; below locates the boat on the water beneath the cliff."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "En el otoño del año renxu, el decimosexto día del séptimo mes lunar, el maestro Su salió a pasear en barca con sus invitados al pie del Acantilado Rojo.",
+          "ttsText": "En el otoño del año renxu, el decimosexto día del séptimo mes lunar, el maestro Su salió a pasear en barca con sus invitados al pie del Acantilado Rojo.",
+          "vocabulary": [
+            {
+              "term": "al pie de",
+              "meaning": {
+                "ja": "〜のふもとに。",
+                "en": "At the foot of."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "salió a pasear",
+              "explanation": {
+                "ja": "salir a＋不定詞は、ある活動をするために出かけること。",
+                "en": "Salir a plus an infinitive means to go out to do an activity."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "En automne de l’année renxu, le seizième jour du septième mois lunaire, maître Su alla se promener en barque avec ses invités au pied de la Falaise rouge.",
+          "ttsText": "En automne de l’année renxu, le seizième jour du septième mois lunaire, maître Su alla se promener en barque avec ses invités au pied de la Falaise rouge.",
+          "vocabulary": [
+            {
+              "term": "au pied de",
+              "meaning": {
+                "ja": "〜のふもとに。",
+                "en": "At the foot of."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "alla se promener",
+              "explanation": {
+                "ja": "aller の単純過去 alla に不定詞が続き、舟遊びに出た出来事を語る。",
+                "en": "Alla is the past historic of aller; the following infinitive states the outing’s purpose."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Im Herbst des Renxu-Jahres, am sechzehnten Tag des siebten Mondmonats, unternahm Meister Su mit seinen Gästen eine Bootsfahrt unterhalb der Roten Felswand.",
+          "ttsText": "Im Herbst des Renxu-Jahres, am sechzehnten Tag des siebten Mondmonats, unternahm Meister Su mit seinen Gästen eine Bootsfahrt unterhalb der Roten Felswand.",
+          "vocabulary": [
+            {
+              "term": "eine Bootsfahrt unternehmen",
+              "meaning": {
+                "ja": "舟遊びをする。",
+                "en": "To take a boat trip."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "mit seinen Gästen",
+              "explanation": {
+                "ja": "mit は与格を取り、Gäste は複数与格 Gästen になる。",
+                "en": "Mit takes the dative; the plural Gäste becomes Gästen."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Осенью года жэньсюй, в шестнадцатый день седьмого лунного месяца, учитель Су отправился с гостями на лодочную прогулку у подножия Красной скалы.",
+          "ttsText": "Осенью года жэньсюй, в шестнадцатый день седьмого лунного месяца, учитель Су отправился с гостями на лодочную прогулку у подножия Красной скалы.",
+          "vocabulary": [
+            {
+              "term": "у подножия",
+              "meaning": {
+                "ja": "〜のふもとで。",
+                "en": "At the foot of."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "отправился с гостями",
+              "explanation": {
+                "ja": "с＋造格が同行者を示す。отправился は出発したという完了した出来事。",
+                "en": "С plus the instrumental marks companions; the perfective отправился presents the departure as an event."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "في خريف عام رن شو، في اليوم السادس عشر من الشهر القمري السابع، خرج المعلم سو مع ضيوفه في نزهة بالقارب عند سفح الجرف الأحمر.",
+          "ttsText": "في خريف عام رن شو، في اليوم السادس عشر من الشهر القمري السابع، خرج المعلم سو مع ضيوفه في نزهة بالقارب عند سفح الجرف الأحمر.",
+          "vocabulary": [
+            {
+              "term": "عند سفح",
+              "meaning": {
+                "ja": "〜のふもとで。",
+                "en": "At the foot of."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "مع ضيوفه",
+              "explanation": {
+                "ja": "مع は同行を表し、ضيوفه は「彼の客たち」。接尾辞 ـه が蘇子を指す。",
+                "en": "Maʿa marks companionship; the suffix -hi in ḍuyūfihi refers to Master Su: his guests."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fī kharīfi ʿāmi Rin Shū, fī al-yawmi as-sādisi ʿashara mina ash-shahri al-qamariyyi as-sābiʿi, kharaja al-muʿallimu Sū maʿa ḍuyūfihi fī nuzhatin bi-al-qāribi ʿinda safḥi al-jurfi al-ʾaḥmari."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。",
+          "ttsText": "壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。",
+          "vocabulary": [
+            {
+              "term": "既望",
+              "meaning": {
+                "ja": "旧暦の十六日。壬戌はここでは1082年。",
+                "en": "The sixteenth day of a lunar month. Renxu here denotes 1082."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "游于赤壁之下",
+              "explanation": {
+                "ja": "于 は場所を導き、之 は「赤壁」と「下」をつなぐ。古典中国語の語順を保っている。",
+                "en": "于 introduces the location and 之 connects 赤壁 with 下. This is the original Classical Chinese wording."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "蘇子は作者の蘇軾自身を指します。日付は旧暦です。",
+              "en": "Master Su refers to Su Shi himself. The date uses the lunar calendar."
+            }
+          ],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rénxū zhī qiū, qī yuè jìwàng, Sūzǐ yǔ kè fànzhōu yóu yú Chìbì zhī xià."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "임술년 가을, 음력 칠월 열엿샛날, 소자는 손님들과 배를 띄워 적벽 아래에서 노닐었다.",
+          "ttsText": "임술년 가을, 음력 칠월 열엿샛날, 소자는 손님들과 배를 띄워 적벽 아래에서 노닐었다.",
+          "vocabulary": [
+            {
+              "term": "열엿샛날",
+              "meaning": {
+                "ja": "十六日。ここでは旧暦の日付。",
+                "en": "The sixteenth day, here of a lunar month."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "배를 띄워",
+              "explanation": {
+                "ja": "띄우다 は「浮かべる」。-어 が舟を浮かべる動作を次の遊覧につなぐ。",
+                "en": "띄우다 means to float or launch; -어 connects launching the boat with the excursion."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "清らかな風がゆるやかに吹いてきて、水面に波は立たなかった。",
+          "ttsText": "きよらかなかぜがゆるやかにふいてきて、みなもになみはたたなかった。",
+          "vocabulary": [
+            {
+              "term": "波が立つ",
+              "meaning": {
+                "ja": "水面に波が生じる。",
+                "en": "For waves to rise on the water."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "吹いてきて",
+              "explanation": {
+                "ja": "〜てくる は話し手のいる場所への接近を表す。",
+                "en": "-Te kuru expresses movement toward the speaker’s location."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "A clear breeze came gently, and no waves rose on the water.",
+          "ttsText": "A clear breeze came gently, and no waves rose on the water.",
+          "vocabulary": [
+            {
+              "term": "breeze",
+              "meaning": {
+                "ja": "穏やかな風。",
+                "en": "A light wind."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "no waves rose",
+              "explanation": {
+                "ja": "no が複数名詞 waves を否定し、rose は rise の過去形。",
+                "en": "No negates the plural noun waves; rose is the past tense of rise."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Una brisa fresca llegaba suavemente, y no se levantaban olas en el agua.",
+          "ttsText": "Una brisa fresca llegaba suavemente, y no se levantaban olas en el agua.",
+          "vocabulary": [
+            {
+              "term": "brisa",
+              "meaning": {
+                "ja": "そよ風。",
+                "en": "A light breeze."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "no se levantaban olas",
+              "explanation": {
+                "ja": "再帰形 levantarse が波が生じることを表す。複数主語 olas に動詞が一致する。",
+                "en": "Levantarse describes the waves rising; the verb agrees with the plural subject olas."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Une brise fraîche venait doucement, et pas une vague ne se levait sur l’eau.",
+          "ttsText": "Une brise fraîche venait doucement, et pas une vague ne se levait sur l’eau.",
+          "vocabulary": [
+            {
+              "term": "brise",
+              "meaning": {
+                "ja": "そよ風。",
+                "en": "A light breeze."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "pas une vague ne",
+              "explanation": {
+                "ja": "pas un/une＋名詞＋ne は「一つも〜ない」と強調する否定。",
+                "en": "Pas un/une plus a noun and ne emphasizes that not even one existed or acted."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Eine frische Brise kam sanft heran, und auf dem Wasser erhoben sich keine Wellen.",
+          "ttsText": "Eine frische Brise kam sanft heran, und auf dem Wasser erhoben sich keine Wellen.",
+          "vocabulary": [
+            {
+              "term": "Brise",
+              "meaning": {
+                "ja": "そよ風。",
+                "en": "A light breeze."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "erhoben sich keine Wellen",
+              "explanation": {
+                "ja": "sich erheben は「立ち上がる」。場所句を先頭に置いたため、動詞の後に主語が来る。",
+                "en": "Sich erheben means to rise. The initial location phrase places the subject after the finite verb."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Лёгкий свежий ветерок веял плавно, и на воде не поднимались волны.",
+          "ttsText": "Лёгкий свежий ветерок веял плавно, и на воде не поднимались волны.",
+          "vocabulary": [
+            {
+              "term": "ветерок",
+              "meaning": {
+                "ja": "ветер の指小形で、穏やかな小さい風。",
+                "en": "A diminutive of ветер, suggesting a light breeze."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "не поднимались волны",
+              "explanation": {
+                "ja": "подниматься はここでは波が立つこと。複数の волны に過去形が一致する。",
+                "en": "Подниматься here means to rise; the plural past-tense form agrees with волны."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هب نسيم صاف برفق، ولم ترتفع أمواج على الماء.",
+          "ttsText": "هب نسيم صاف برفق، ولم ترتفع أمواج على الماء.",
+          "vocabulary": [
+            {
+              "term": "برفق",
+              "meaning": {
+                "ja": "穏やかに、やさしく。",
+                "en": "Gently."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "لم ترتفع",
+              "explanation": {
+                "ja": "لم は未完了形を要求して過去の出来事を否定する。非人間複数 أمواج には女性単数形を用いる。",
+                "en": "Lam negates a past event using the jussive imperfect; the nonhuman plural ʾamwāj takes feminine singular agreement."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Habba nasīmun ṣāfin bi-rifqin, wa-lam tartafiʿ ʾamwājun ʿalā al-māʾi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "清风徐来，水波不兴。",
+          "ttsText": "清风徐来，水波不兴。",
+          "vocabulary": [
+            {
+              "term": "徐",
+              "meaning": {
+                "ja": "ゆっくりと、おだやかに。",
+                "en": "Slowly; gently."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "水波不兴",
+              "explanation": {
+                "ja": "兴 はここでは「起こる」。二つの四字句が風の動きと水の静けさを対照させる。",
+                "en": "兴 means to arise here. Two four-character clauses contrast the breeze’s movement with the still water."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qīngfēng xú lái, shuǐbō bù xīng."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "맑은 바람이 살며시 불어오고, 물에는 파도가 일지 않았다.",
+          "ttsText": "맑은 바람이 살며시 불어오고, 물에는 파도가 일지 않았다.",
+          "vocabulary": [
+            {
+              "term": "살며시",
+              "meaning": {
+                "ja": "そっと、静かに。",
+                "en": "Gently; softly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "일지 않았다",
+              "explanation": {
+                "ja": "일다「波が立つ」に -지 않았다 をつけ、過去の否定を作る。",
+                "en": "-지 않았다 negates the past of 일다, here meaning for waves to rise."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "酒杯を上げて客に勧め、明月の詩を吟じ、窈窕の章を歌った。",
+          "ttsText": "しゅはいをあげてきゃくにすすめ、めいげつのしをぎんじ、ようちょうのしょうをうたった。",
+          "vocabulary": [
+            {
+              "term": "吟じる",
+              "meaning": {
+                "ja": "詩を節をつけて朗読する。",
+                "en": "To recite a poem with a rhythmic or melodic delivery."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "勧め、吟じ、歌った",
+              "explanation": {
+                "ja": "連用形で動作を並べ、最後の述語で過去を表す。",
+                "en": "Continuative forms link the actions; the final predicate supplies the past tense."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "We raised our cups to urge our guests to drink, recited the poem of the bright moon, and sang the verse of graceful beauty.",
+          "ttsText": "We raised our cups to urge our guests to drink, recited the poem of the bright moon, and sang the verse of graceful beauty.",
+          "vocabulary": [
+            {
+              "term": "urge someone to drink",
+              "meaning": {
+                "ja": "人に酒を勧める。",
+                "en": "To encourage someone to drink."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "raised, recited, and sang",
+              "explanation": {
+                "ja": "三つの過去形が動作を並べる。原文では省略された主語を we と補った。",
+                "en": "Three past-tense verbs coordinate the actions. We supplies a subject left implicit in the original."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Alzamos las copas para invitar a beber a los huéspedes, recitamos el poema de la luna brillante y cantamos la estrofa de la belleza delicada.",
+          "ttsText": "Alzamos las copas para invitar a beber a los huéspedes, recitamos el poema de la luna brillante y cantamos la estrofa de la belleza delicada.",
+          "vocabulary": [
+            {
+              "term": "estrofa",
+              "meaning": {
+                "ja": "詩の一節。",
+                "en": "A stanza or verse."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "para invitar a beber",
+              "explanation": {
+                "ja": "para＋不定詞で目的を示し、invitar a＋不定詞で勧める行動を示す。",
+                "en": "Para plus an infinitive marks purpose; invitar a plus an infinitive identifies the invited action."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Nous levâmes nos coupes pour inviter les convives à boire, récitâmes le poème de la lune brillante et chantâmes la strophe de la beauté gracieuse.",
+          "ttsText": "Nous levâmes nos coupes pour inviter les convives à boire, récitâmes le poème de la lune brillante et chantâmes la strophe de la beauté gracieuse.",
+          "vocabulary": [
+            {
+              "term": "convives",
+              "meaning": {
+                "ja": "酒席・食事の客たち。",
+                "en": "Guests at a meal or gathering."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "levâmes, récitâmes, chantâmes",
+              "explanation": {
+                "ja": "いずれも一人称複数の単純過去。文学的な語りで一連の行為を示す。",
+                "en": "These are first-person plural past historic forms, narrating a sequence of actions."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wir hoben die Becher, um die Gäste zum Trinken einzuladen, trugen das Gedicht vom hellen Mond vor und sangen die Strophe von der anmutigen Schönheit.",
+          "ttsText": "Wir hoben die Becher, um die Gäste zum Trinken einzuladen, trugen das Gedicht vom hellen Mond vor und sangen die Strophe von der anmutigen Schönheit.",
+          "vocabulary": [
+            {
+              "term": "vortragen",
+              "meaning": {
+                "ja": "詩などを朗読する。",
+                "en": "To recite or perform a text."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "um … einzuladen",
+              "explanation": {
+                "ja": "um＋zu不定詞が目的を表す。分離動詞 einladen は einzuladen となる。",
+                "en": "Um plus a zu-infinitive expresses purpose; separable einladen becomes einzuladen."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Мы подняли чаши, приглашая гостей выпить, прочли стихи о светлой луне и пропели строфу о нежной красоте.",
+          "ttsText": "Мы подняли чаши, приглашая гостей выпить, прочли стихи о светлой луне и пропели строфу о нежной красоте.",
+          "vocabulary": [
+            {
+              "term": "строфа",
+              "meaning": {
+                "ja": "詩の節。",
+                "en": "A stanza."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "приглашая гостей выпить",
+              "explanation": {
+                "ja": "副動詞 приглашая は主節と同じ主語の同時の動作を表す。выпить は勧めた行為。",
+                "en": "The adverbial participle приглашая describes a simultaneous action by the same subject; выпить is the invited action."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "رفعنا الكؤوس ندعو الضيوف إلى الشراب، وأنشدنا قصيدة القمر المضيء، وغنينا مقطع الجمال الرقيق.",
+          "ttsText": "رفعنا الكؤوس ندعو الضيوف إلى الشراب، وأنشدنا قصيدة القمر المضيء، وغنينا مقطع الجمال الرقيق.",
+          "vocabulary": [
+            {
+              "term": "أنشدنا",
+              "meaning": {
+                "ja": "私たちは詩を朗誦した。",
+                "en": "We recited poetry."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "قصيدة القمر المضيء",
+              "explanation": {
+                "ja": "قصيدة と القمر の属格構文で「月の詩」。المضيء は القمر を修飾する。",
+                "en": "The construct phrase means poem of the moon; al-muḍīʾ modifies the moon."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Rafaʿnā al-kuʾūsa nadʿū aḍ-ḍuyūfa ʾilā ash-sharābi, wa-ʾanshadnā qaṣīdata al-qamari al-muḍīʾi, wa-ghannaynā maqṭaʿa al-jamāli ar-raqīqi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "举酒属客，诵《明月》之诗，歌《窈窕》之章。",
+          "ttsText": "举酒嘱客，诵《明月》之诗，歌《窈窕》之章。",
+          "vocabulary": [
+            {
+              "term": "属",
+              "meaning": {
+                "ja": "ここでは酒を勧める意味で zhǔ と読む。",
+                "en": "Here pronounced zhǔ: to offer or urge a drink."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "诵……，歌……",
+              "explanation": {
+                "ja": "诵 と 歌 が対になり、詩を吟じることと章を歌うことを並べる。之 は修飾関係を作る。",
+                "en": "诵 and 歌 form parallel clauses for reciting and singing; 之 links the modifiers to 诗 and 章."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "属は shǔ ではなく zhǔ。《明月》《窈窕》は本文の引用表記のまま掲載しています。",
+              "en": "属 is zhǔ here, not shǔ. The quoted labels 明月 and 窈窕 follow this source’s wording."
+            },
+            {
+              "ja": "属客の読みを音声に指定するため、音声入力では同音の「嘱客」を使っています。",
+              "en": "The speech input uses the homophone 嘱客 to indicate the reading zhǔ kè."
+            }
+          ],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Jǔ jiǔ zhǔ kè, sòng Míngyuè zhī shī, gē Yǎotiǎo zhī zhāng."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "술잔을 들어 손님들에게 술을 권하고, 밝은 달의 시를 읊고, 아리따운 모습의 장을 노래했다.",
+          "ttsText": "술잔을 들어 손님들에게 술을 권하고, 밝은 달의 시를 읊고, 아리따운 모습의 장을 노래했다.",
+          "vocabulary": [
+            {
+              "term": "읊다",
+              "meaning": {
+                "ja": "詩を吟じる。",
+                "en": "To recite poetry."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "술을 권하고",
+              "explanation": {
+                "ja": "-고 で動作を順に結び、最後の 노래했다 に過去時制を置く。",
+                "en": "-고 links the actions, with the final verb 노래했다 carrying the past tense."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "しばらくすると、月が東の山の上に現れ、斗宿と牛宿の間をゆったりと巡った。",
+          "ttsText": "しばらくすると、つきがひがしのやまのうえにあらわれ、としゅくとぎゅうしゅくのあいだをゆったりとめぐった。",
+          "vocabulary": [
+            {
+              "term": "斗宿・牛宿",
+              "meaning": {
+                "ja": "中国の伝統的な星の区分、二十八宿のうちの二つ。",
+                "en": "Two of the twenty-eight traditional Chinese lunar mansions."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "しばらくすると",
+              "explanation": {
+                "ja": "一定の時間が経過した後に新しい出来事が生じることを示す。",
+                "en": "Introduces an event occurring after a short interval."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "After a while, the moon rose above the eastern hills and lingered between the lunar mansions of the Dipper and the Ox.",
+          "ttsText": "After a while, the moon rose above the eastern hills and lingered between the lunar mansions of the Dipper and the Ox.",
+          "vocabulary": [
+            {
+              "term": "lunar mansions",
+              "meaning": {
+                "ja": "伝統的な天文学における天の区画。ここでは斗宿と牛宿。",
+                "en": "Traditional divisions of the sky, here the Dipper and Ox mansions."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "rose … and lingered",
+              "explanation": {
+                "ja": "同じ主語 the moon に二つの動詞が続く。lingered はゆっくり留まるような動き。",
+                "en": "Both verbs share the subject the moon; lingered suggests slow movement or seeming to remain."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Al poco rato, la luna apareció sobre los montes del este y vagó entre las mansiones lunares del Cazo y del Buey.",
+          "ttsText": "Al poco rato, la luna apareció sobre los montes del este y vagó entre las mansiones lunares del Cazo y del Buey.",
+          "vocabulary": [
+            {
+              "term": "al poco rato",
+              "meaning": {
+                "ja": "しばらくして。",
+                "en": "After a short while."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "entre … y …",
+              "explanation": {
+                "ja": "二つの目印の間の位置を示す。ここでの名前は中国の星宿を指す。",
+                "en": "Marks a location between two reference points, here Chinese lunar mansions."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Peu après, la lune se leva au-dessus des montagnes de l’est et s’attarda entre les demeures lunaires du Boisseau et du Bœuf.",
+          "ttsText": "Peu après, la lune se leva au-dessus des montagnes de l’est et s’attarda entre les demeures lunaires du Boisseau et du Bœuf.",
+          "vocabulary": [
+            {
+              "term": "s’attarder",
+              "meaning": {
+                "ja": "長めに留まる。月のゆったりした動きの擬人化。",
+                "en": "To linger; here a personification of the moon’s slow movement."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "au-dessus de",
+              "explanation": {
+                "ja": "あるものより上の位置を示す。des は de と les の縮約。",
+                "en": "Expresses a position above something; des contracts de and les."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Nach einer Weile stieg der Mond über den östlichen Bergen auf und verweilte zwischen den Mondhäusern des Schöpfers und des Ochsen.",
+          "ttsText": "Nach einer Weile stieg der Mond über den östlichen Bergen auf und verweilte zwischen den Mondhäusern des Schöpfers und des Ochsen.",
+          "vocabulary": [
+            {
+              "term": "Mondhäuser",
+              "meaning": {
+                "ja": "中国の伝統的な星宿。Schöpfer はここでは柄杓を指す。",
+                "en": "Traditional Chinese lunar mansions; Schöpfer here means a dipper or ladle."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "stieg … auf",
+              "explanation": {
+                "ja": "aufsteigen の過去形で、分離前綴り auf が節の後ろに来る。",
+                "en": "The past tense of separable aufsteigen places auf at the end of its clause."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Немного погодя луна поднялась над восточными горами и замедлила свой путь между лунными стоянками Ковша и Быка.",
+          "ttsText": "Немного погодя луна поднялась над восточными горами и замедлила свой путь между лунными стоянками Ковша и Быка.",
+          "vocabulary": [
+            {
+              "term": "лунные стоянки",
+              "meaning": {
+                "ja": "中国の伝統天文学の星宿。",
+                "en": "Lunar mansions in traditional Chinese astronomy."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "между … стоянками",
+              "explanation": {
+                "ja": "между はここで造格を取り、二つの星宿の間を表す。",
+                "en": "Между takes the instrumental here to describe a position between the two mansions."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وبعد قليل، طلع القمر فوق الجبال الشرقية، وتهادى بين منزلتي المغرفة والثور.",
+          "ttsText": "وبعد قليل، طلع القمر فوق الجبال الشرقية، وتهادى بين منزلتي المغرفة والثور.",
+          "vocabulary": [
+            {
+              "term": "تهادى",
+              "meaning": {
+                "ja": "ゆっくり優雅に進んだ。",
+                "en": "Moved slowly and gracefully."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "بين منزلتي",
+              "explanation": {
+                "ja": "منزلتي は双数の属格形で、後続の名詞と属格構文を作るため ن が落ちる。",
+                "en": "Manzilatayi is the dual genitive in a construct phrase; its final n is dropped before the following nouns."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-baʿda qalīlin, ṭalaʿa al-qamaru fawqa al-jibāli ash-sharqiyyati, wa-tahādā bayna manzilatayi al-mighrafati wa-ath-thawri."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "少焉，月出于东山之上，徘徊于斗、牛之间。",
+          "ttsText": "少焉，月出于东山之上，徘徊于斗、牛之间。",
+          "vocabulary": [
+            {
+              "term": "少焉",
+              "meaning": {
+                "ja": "しばらくして。少は shǎo。",
+                "en": "After a short while; 少 is shǎo here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "徘徊于斗、牛之间",
+              "explanation": {
+                "ja": "斗・牛は二十八宿の斗宿・牛宿。月がその間をゆっくり移る様子を徘徊と表す。",
+                "en": "斗 and 牛 are the Dipper and Ox lunar mansions. 徘徊 depicts the moon lingering between them."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "斗は dǒu。この斗宿は北斗七星を指しているわけではありません。",
+              "en": "斗 is dǒu. This lunar mansion is not the Big Dipper."
+            }
+          ],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shǎoyān, yuè chū yú Dōngshān zhī shàng, páihuái yú Dǒu, Niú zhī jiān."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "얼마 뒤 달이 동쪽 산 위로 떠올라 두수와 우수 사이를 천천히 거닐었다.",
+          "ttsText": "얼마 뒤 달이 동쪽 산 위로 떠올라 두수와 우수 사이를 천천히 거닐었다.",
+          "vocabulary": [
+            {
+              "term": "두수와 우수",
+              "meaning": {
+                "ja": "二十八宿に属する斗宿と牛宿。",
+                "en": "The Dipper and Ox, two traditional lunar mansions."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "떠올라",
+              "explanation": {
+                "ja": "떠오르다 の 르 変則活用。-아 が次の動作につなぐ。",
+                "en": "This is the 르-irregular connective form of 떠오르다, linking rising to the next action."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "白い靄が川を横たわるように覆い、水の光が空へとつながっていた。",
+          "ttsText": "しろいもやがかわをよこたわるようにおおい、みずのひかりがそらへとつながっていた。",
+          "vocabulary": [
+            {
+              "term": "靄",
+              "meaning": {
+                "ja": "水辺などに薄く漂う霧。原文の白露をここでは靄と解した。",
+                "en": "A light mist; this renders 白露 as vapor over the river."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "つながっていた",
+              "explanation": {
+                "ja": "〜ていた が、その時に続いていた状態を表す。",
+                "en": "-Te ita describes a state continuing at that time."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "White mist lay across the river, and the light on the water met the sky.",
+          "ttsText": "White mist lay across the river, and the light on the water met the sky.",
+          "vocabulary": [
+            {
+              "term": "met the sky",
+              "meaning": {
+                "ja": "空と接して見えた。",
+                "en": "Seemed to join the sky."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "lay across",
+              "explanation": {
+                "ja": "lay は lie の過去形。across が川一面に広がる位置を示す。",
+                "en": "Lay is the past tense of lie; across describes the mist extending over the river."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Una niebla blanca se tendía sobre el río, y el resplandor del agua se unía al cielo.",
+          "ttsText": "Una niebla blanca se tendía sobre el río, y el resplandor del agua se unía al cielo.",
+          "vocabulary": [
+            {
+              "term": "resplandor",
+              "meaning": {
+                "ja": "輝き、光。",
+                "en": "A glow or radiance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "se unía al cielo",
+              "explanation": {
+                "ja": "unirse a は「〜と一つになる」。半過去で景色の持続を描く。",
+                "en": "Unirse a means to join; the imperfect presents the continuing scene."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Une brume blanche s’étendait sur le fleuve, et l’éclat de l’eau rejoignait le ciel.",
+          "ttsText": "Une brume blanche s’étendait sur le fleuve, et l’éclat de l’eau rejoignait le ciel.",
+          "vocabulary": [
+            {
+              "term": "brume",
+              "meaning": {
+                "ja": "薄い霧、靄。",
+                "en": "Mist or haze."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "s’étendait … rejoignait",
+              "explanation": {
+                "ja": "半過去形で、動作の完了より広がり続ける風景を描く。",
+                "en": "The imperfect forms portray a sustained scene rather than completed events."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Weißer Dunst lag über dem Fluss, und der Glanz des Wassers ging in den Himmel über.",
+          "ttsText": "Weißer Dunst lag über dem Fluss, und der Glanz des Wassers ging in den Himmel über.",
+          "vocabulary": [
+            {
+              "term": "Dunst",
+              "meaning": {
+                "ja": "靄、薄い霧。",
+                "en": "Haze or mist."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ging … über",
+              "explanation": {
+                "ja": "übergehen in＋対格で「〜へと移り変わる、溶け込む」。",
+                "en": "Übergehen in plus the accusative means to merge or pass into something."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Белая дымка стлалась над рекой, и сияние воды сливалось с небом.",
+          "ttsText": "Белая дымка стлалась над рекой, и сияние воды сливалось с небом.",
+          "vocabulary": [
+            {
+              "term": "дымка",
+              "meaning": {
+                "ja": "薄くかかった靄。",
+                "en": "A light haze."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "сливалось с небом",
+              "explanation": {
+                "ja": "сливаться с＋造格で「〜と溶け合う」。中性形は сияние に一致する。",
+                "en": "Сливаться с plus the instrumental means to merge with; the neuter verb agrees with сияние."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "امتد ضباب أبيض فوق النهر، واتصل بريق الماء بالسماء.",
+          "ttsText": "امتد ضباب أبيض فوق النهر، واتصل بريق الماء بالسماء.",
+          "vocabulary": [
+            {
+              "term": "بريق الماء",
+              "meaning": {
+                "ja": "水の輝き。",
+                "en": "The gleam of the water."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "اتصل … بالسماء",
+              "explanation": {
+                "ja": "اتصل بـ は「〜とつながる」。بـ が接続先を導く。",
+                "en": "Ittaṣala bi- means to join or connect with; bi- introduces what is joined."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Imtadda ḍabābun ʾabyaḍu fawqa an-nahri, wa-ittaṣala barīqu al-māʾi bi-as-samāʾi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "白露横江，水光接天。",
+          "ttsText": "白露横江，水光接天。",
+          "vocabulary": [
+            {
+              "term": "白露",
+              "meaning": {
+                "ja": "字面は白い露。ここでは川を覆う白い水気・靄として訳した。",
+                "en": "Literally white dew, interpreted here as pale vapor or mist over the river."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "横江／接天",
+              "explanation": {
+                "ja": "横 と 接 がそれぞれ動詞になり、江 と 天 を目的語に取る対句。",
+                "en": "横 and 接 act as verbs with 江 and 天 as their objects, forming parallel clauses."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Báilù héng jiāng, shuǐguāng jiē tiān."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "흰 안개가 강을 가로덮고, 물빛은 하늘에 맞닿아 있었다.",
+          "ttsText": "흰 안개가 강을 가로덮고, 물빛은 하늘에 맞닿아 있었다.",
+          "vocabulary": [
+            {
+              "term": "물빛",
+              "meaning": {
+                "ja": "水面の色や光。",
+                "en": "The color or light of the water."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "맞닿아 있었다",
+              "explanation": {
+                "ja": "맞닿다「接する」に -아 있었다 をつけ、接している状態を過去として描く。",
+                "en": "-아 있었다 presents the continuing past state of 맞닿다, to touch or meet."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "一枚の葦のような小舟の行くままに任せ、果てしなく広がる水面を渡った。",
+          "ttsText": "いちまいのあしのようなこぶねのゆくままにまかせ、はてしなくひろがるみなもをわたった。",
+          "vocabulary": [
+            {
+              "term": "一枚の葦",
+              "meaning": {
+                "ja": "原文の一苇は、葦のように小さな舟の比喩。",
+                "en": "The original one reed is a metaphor for a very small boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "行くままに任せ",
+              "explanation": {
+                "ja": "ままに は、舟の自然な進路に従って干渉しないこと。",
+                "en": "Mama ni suggests letting the boat follow its course without interference."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "We let our reed-like skiff drift where it would, crossing the vast and boundless expanse of water.",
+          "ttsText": "We let our reed-like skiff drift where it would, crossing the vast and boundless expanse of water.",
+          "vocabulary": [
+            {
+              "term": "skiff",
+              "meaning": {
+                "ja": "小さな軽い舟。",
+                "en": "A small, light boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "where it would",
+              "explanation": {
+                "ja": "ここで would は舟の意志を擬人的に表す。どこへ向かうにせよ、そのまま任せる。",
+                "en": "Would personifies the boat’s inclination: wherever it chose to go."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Dejamos que nuestra barquita, leve como un junco, fuera adonde quisiera y atravesamos la inmensa extensión de agua.",
+          "ttsText": "Dejamos que nuestra barquita, leve como un junco, fuera adonde quisiera y atravesamos la inmensa extensión de agua.",
+          "vocabulary": [
+            {
+              "term": "junco",
+              "meaning": {
+                "ja": "葦に似た細い水辺の植物。舟の小ささの比喩。",
+                "en": "A reed-like waterside plant, evoking the boat’s smallness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dejamos que … fuera",
+              "explanation": {
+                "ja": "dejar que の後に接続法過去 fuera を置き、舟が自由に行くのを任せる。",
+                "en": "Dejar que takes the imperfect subjunctive fuera here, expressing that the boat was allowed to go freely."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Nous laissâmes notre frêle esquif, pareil à un roseau, aller à sa guise, traversant l’immensité des eaux.",
+          "ttsText": "Nous laissâmes notre frêle esquif, pareil à un roseau, aller à sa guise, traversant l’immensité des eaux.",
+          "vocabulary": [
+            {
+              "term": "à sa guise",
+              "meaning": {
+                "ja": "その望むままに。",
+                "en": "As it pleased."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "laissâmes … aller",
+              "explanation": {
+                "ja": "laisser＋目的語＋不定詞で、舟が進むのを妨げずに任せたことを表す。",
+                "en": "Laisser plus an object and infinitive means to let the boat go without hindering it."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wir ließen unser schilfleichtes Boot treiben, wohin es wollte, und glitten über die unermessliche Wasserfläche.",
+          "ttsText": "Wir ließen unser schilfleichtes Boot treiben, wohin es wollte, und glitten über die unermessliche Wasserfläche.",
+          "vocabulary": [
+            {
+              "term": "treiben lassen",
+              "meaning": {
+                "ja": "漂うままに任せる。",
+                "en": "To let something drift."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "wohin es wollte",
+              "explanation": {
+                "ja": "方向を表す wohin に導かれた従属節で、定動詞 wollte が末尾に来る。",
+                "en": "Wohin introduces a direction clause, with the finite verb wollte at its end."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Мы пустили нашу лёгкую, как тростинка, лодку по её воле и скользили по необозримому водному простору.",
+          "ttsText": "Мы пустили нашу лёгкую, как тростинка, лодку по её воле и скользили по необозримому водному простору.",
+          "vocabulary": [
+            {
+              "term": "тростинка",
+              "meaning": {
+                "ja": "細い一本の葦。小舟の比喩。",
+                "en": "A slender reed, used as a comparison for the boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "как тростинка",
+              "explanation": {
+                "ja": "как が比喩を導く。女性形 лёгкую は対格の лодку と一致する。",
+                "en": "Как introduces a comparison; feminine accusative лёгкую agrees with лодку."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "تركنا قاربنا الخفيف كقصبة يمضي حيث يشاء، نعبر صفحة الماء المترامية بلا حدود.",
+          "ttsText": "تركنا قاربنا الخفيف كقصبة يمضي حيث يشاء، نعبر صفحة الماء المترامية بلا حدود.",
+          "vocabulary": [
+            {
+              "term": "كقصبة",
+              "meaning": {
+                "ja": "一本の葦のように。小舟の比喩。",
+                "en": "Like a reed, describing the little boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "حيث يشاء",
+              "explanation": {
+                "ja": "حيث は「〜する所へ」。يشاء が舟を擬人化して、その望む方向へ進ませる。",
+                "en": "Ḥaythu means where; yashāʾ personifies the boat as choosing its course."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Taraknā qārabanā al-khafīfa ka-qaṣabatin yamḍī ḥaythu yashāʾu, naʿburu ṣafḥata al-māʾi al-mutarāmiyata bi-lā ḥudūdin."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "纵一苇之所如，凌万顷之茫然。",
+          "ttsText": "纵一苇之所如，凌万顷之茫然。",
+          "vocabulary": [
+            {
+              "term": "一苇",
+              "meaning": {
+                "ja": "一本の葦。ここでは葦のような小舟を指す比喩。",
+                "en": "One reed: a metaphor for a small boat."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "所如",
+              "explanation": {
+                "ja": "如 はここでは「行く」。所＋動詞で行く先を名詞化し、縦（任せる）の内容にする。",
+                "en": "如 means to go here. 所 plus the verb nominalizes its destination, the course to which the boat is left."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "万顷は広大な水面を表す誇張表現として訳し、面積の数値には換算していません。",
+              "en": "万顷 is translated as an image of vast water, without converting it into a numerical area."
+            }
+          ],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zòng yī wěi zhī suǒ rú, líng wàn qǐng zhī mángrán."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "갈대 한 잎 같은 작은 배가 가는 대로 맡겨 두고, 끝없이 펼쳐진 물 위를 건너갔다.",
+          "ttsText": "갈대 한 잎 같은 작은 배가 가는 대로 맡겨 두고, 끝없이 펼쳐진 물 위를 건너갔다.",
+          "vocabulary": [
+            {
+              "term": "가는 대로",
+              "meaning": {
+                "ja": "行くままに。",
+                "en": "According to where it goes."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "맡겨 두고",
+              "explanation": {
+                "ja": "-어 두다 はある状態にしてそのままにすること。舟を流れに任せておく。",
+                "en": "-어 두다 means to leave something in a state; here the boat is left to drift."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "広々とした空を頼みに風に乗り、どこに行き着くのかも知らないかのようだった。ふわりと浮かび、俗世を離れて独り立ち、羽化して仙人の境地へ昇るかのようだった。",
+          "ttsText": "ひろびろとしたそらをたのみにかぜにのり、どこにいきつくのかもしらないかのようだった。ふわりとうかび、ぞくせをはなれてひとりたち、うかしてせんにんのきょうちへのぼるかのようだった。",
+          "vocabulary": [
+            {
+              "term": "羽化",
+              "meaning": {
+                "ja": "ここでは仙人へと変わっていくこと。道教的な超俗のイメージ。",
+                "en": "Here a transformation into an immortal, a Daoist image of transcendence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "かのようだった",
+              "explanation": {
+                "ja": "実際に飛翔したという断定ではなく、舟上で得た感覚の比喩を示す。",
+                "en": "Marks a comparison for the feeling on the boat, not a claim of actual flight."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "In that boundless openness, it was as though we were riding the wind through empty space, not knowing where we would come to rest; buoyant and drifting, as though we had left the world behind to stand alone, transforming into immortals and ascending to their realm.",
+          "ttsText": "In that boundless openness, it was as though we were riding the wind through empty space, not knowing where we would come to rest; buoyant and drifting, as though we had left the world behind to stand alone, transforming into immortals and ascending to their realm.",
+          "vocabulary": [
+            {
+              "term": "come to rest",
+              "meaning": {
+                "ja": "動きが止まり、落ち着く。",
+                "en": "To stop moving and settle."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "as though we were … had left",
+              "explanation": {
+                "ja": "as though が比喩を導く。were はその場の感覚、had left はすでに俗世を離れたような状態を示す。",
+                "en": "As though introduces the imagery; were describes the sensation, while had left imagines an already completed departure from the world."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "En aquella inmensidad, era como si cabalgáramos el viento por el vacío, sin saber dónde nos detendríamos; ligeros y flotantes, como si hubiéramos dejado atrás el mundo para estar solos, transformándonos en inmortales y ascendiendo a su reino.",
+          "ttsText": "En aquella inmensidad, era como si cabalgáramos el viento por el vacío, sin saber dónde nos detendríamos; ligeros y flotantes, como si hubiéramos dejado atrás el mundo para estar solos, transformándonos en inmortales y ascendiendo a su reino.",
+          "vocabulary": [
+            {
+              "term": "cabalgáramos el viento",
+              "meaning": {
+                "ja": "風に乗っていた。cabalgáramos は cabalgar の接続法過去。",
+                "en": "We were riding the wind; cabalgáramos is the imperfect subjunctive of cabalgar."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "como si hubiéramos dejado",
+              "explanation": {
+                "ja": "como si＋接続法過去完了で、それ以前に俗世を離れたかのような仮想を表す。",
+                "en": "Como si plus the pluperfect subjunctive imagines an earlier departure from the world."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Dans cette immensité, il nous semblait chevaucher le vent à travers le vide, sans savoir où nous nous arrêterions ; légers et flottants, comme si nous avions quitté le monde pour demeurer seuls, nous transformant en immortels et nous élevant vers leur séjour.",
+          "ttsText": "Dans cette immensité, il nous semblait chevaucher le vent à travers le vide, sans savoir où nous nous arrêterions ; légers et flottants, comme si nous avions quitté le monde pour demeurer seuls, nous transformant en immortels et nous élevant vers leur séjour.",
+          "vocabulary": [
+            {
+              "term": "chevaucher le vent",
+              "meaning": {
+                "ja": "風にまたがって進むという比喩。",
+                "en": "A metaphor of riding the wind."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "sans savoir où …",
+              "explanation": {
+                "ja": "sans＋不定詞が「〜せずに」を示し、où が間接疑問を導く。",
+                "en": "Sans plus an infinitive means without doing; où introduces an indirect question."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "In dieser grenzenlosen Weite war uns, als ritten wir auf dem Wind durch den leeren Raum, ohne zu wissen, wo wir zur Ruhe kämen; leicht und schwebend, als hätten wir die Welt hinter uns gelassen, um allein zu stehen, uns in Unsterbliche zu verwandeln und in ihr Reich aufzusteigen.",
+          "ttsText": "In dieser grenzenlosen Weite war uns, als ritten wir auf dem Wind durch den leeren Raum, ohne zu wissen, wo wir zur Ruhe kämen; leicht und schwebend, als hätten wir die Welt hinter uns gelassen, um allein zu stehen, uns in Unsterbliche zu verwandeln und in ihr Reich aufzusteigen.",
+          "vocabulary": [
+            {
+              "term": "zur Ruhe kommen",
+              "meaning": {
+                "ja": "動きを止め、落ち着く。",
+                "en": "To come to rest."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "als hätten wir …",
+              "explanation": {
+                "ja": "接続法IIの hätten により、現実の断定ではなく「〜したかのような」感覚を表す。",
+                "en": "Subjunctive II hätten presents an imagined comparison rather than an asserted event."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "В этом безбрежном просторе казалось, будто мы несёмся на ветру сквозь пустоту, не зная, где остановимся; лёгкие и парящие, будто мы покинули мир, чтобы остаться одни, превратиться в бессмертных и вознестись в их обитель.",
+          "ttsText": "В этом безбрежном просторе казалось, будто мы несёмся на ветру сквозь пустоту, не зная, где остановимся; лёгкие и парящие, будто мы покинули мир, чтобы остаться одни, превратиться в бессмертных и вознестись в их обитель.",
+          "vocabulary": [
+            {
+              "term": "вознестись",
+              "meaning": {
+                "ja": "高く昇る。ここでは仙人の世界へ至る文学的な語。",
+                "en": "To ascend, here a literary verb for reaching the realm of immortals."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "будто мы …",
+              "explanation": {
+                "ja": "будто が、実際の変身ではなく空を進むような感覚を導く。",
+                "en": "Будто introduces the sensation of moving through space, not a literal transformation."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "في ذلك الاتساع، خيل إلينا أننا نمتطي الريح في الفضاء، ولا ندري أين نستقر؛ وكنا خفافا طافين، كأننا تركنا العالم وراءنا لنقف وحدنا، نتحول إلى خالدين ونصعد إلى مقامهم.",
+          "ttsText": "في ذلك الاتساع، خيل إلينا أننا نمتطي الريح في الفضاء، ولا ندري أين نستقر؛ وكنا خفافا طافين، كأننا تركنا العالم وراءنا لنقف وحدنا، نتحول إلى خالدين ونصعد إلى مقامهم.",
+          "vocabulary": [
+            {
+              "term": "نمتطي الريح",
+              "meaning": {
+                "ja": "私たちは風に乗る。馬に乗る動詞を用いた比喩。",
+                "en": "We ride the wind, using a verb for mounting a horse."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كأننا تركنا",
+              "explanation": {
+                "ja": "كأنّ に「私たち」を表す接尾辞がつき、「まるで私たちが〜したようだ」と比喩を導く。",
+                "en": "Ka-ʾanna with the suffix for us introduces the comparison as though we had left."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fī dhālika al-ittisāʿi, khuyyila ʾilaynā ʾannanā namtaṭī ar-rīḥa fī al-faḍāʾi, wa-lā nadrī ʾayna nastaqirru; wa-kunnā khifāfan ṭāfīna, ka-ʾannanā taraknā al-ʿālama warāʾanā li-naqifa waḥdanā, nataḥawwalu ʾilā khālidīna wa-naṣʿadu ʾilā maqāmihim."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "浩浩乎如冯虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。",
+          "ttsText": "浩浩乎如凭虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。",
+          "vocabulary": [
+            {
+              "term": "冯虚御风",
+              "meaning": {
+                "ja": "虚空に身を任せ風に乗る。冯は凭に通じ、píng と読む。",
+                "en": "To ride the wind supported by empty space. 冯 stands for 凭 and is read píng."
+              }
+            },
+            {
+              "term": "浩浩乎",
+              "meaning": {
+                "ja": "広々として果てしない様子。",
+                "en": "A sense of vast, boundless openness."
+              }
+            },
+            {
+              "term": "飘飘乎",
+              "meaning": {
+                "ja": "軽く浮かび、風に漂うような様子。",
+                "en": "A light, floating sensation."
+              }
+            },
+            {
+              "term": "遗世独立",
+              "meaning": {
+                "ja": "俗世を離れ、ひとり超然と立つこと。",
+                "en": "To leave the mundane world behind and stand apart."
+              }
+            },
+            {
+              "term": "羽化而登仙",
+              "meaning": {
+                "ja": "仙人へと変じ昇るという道教的なイメージ。",
+                "en": "The Daoist image of transforming into and ascending as an immortal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "浩浩乎如……；飘飘乎如……",
+              "explanation": {
+                "ja": "乎 が様態を示し、如 が比喩を導く並行した構造。羽化・登仙は道教的な超俗の感覚を表す。",
+                "en": "乎 marks a manner and 如 introduces a comparison in parallel structures. 羽化 and 登仙 evoke Daoist transcendence."
+              }
+            },
+            {
+              "point": "不知其所止",
+              "explanation": {
+                "ja": "所＋止 で「止まる所・行き着く所」を名詞化する。其 は舟または風に乗った自分たちを受けるものとして解せる。",
+                "en": "所 plus 止 nominalizes the stopping place or destination. 其 can refer to the boat or the voyagers imagined riding the wind."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "冯は姓の Féng ではなく píng。原文表記は変えず、音声入力だけ「凭虚」としています。",
+              "en": "冯 is píng here, not the surname Féng. The original spelling is retained; only the speech input uses 凭虚."
+            }
+          ],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hàohào hū rú píng xū yù fēng, ér bù zhī qí suǒ zhǐ; piāopiāo hū rú yí shì dú lì, yǔhuà ér dēng xiān."
+          },
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "蘇軾 / Su Shi (1037–1101)"
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "드넓은 허공에 몸을 맡겨 바람을 타고 어디에 멈출지도 모르는 듯했다. 가볍게 떠올라 속세를 떠나 홀로 서서, 신선으로 변해 그 경지로 오르는 듯했다.",
+          "ttsText": "드넓은 허공에 몸을 맡겨 바람을 타고 어디에 멈출지도 모르는 듯했다. 가볍게 떠올라 속세를 떠나 홀로 서서, 신선으로 변해 그 경지로 오르는 듯했다.",
+          "vocabulary": [
+            {
+              "term": "신선",
+              "meaning": {
+                "ja": "道教における超俗的な不死の存在。",
+                "en": "An immortal in Daoist tradition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-는 듯했다",
+              "explanation": {
+                "ja": "実際の飛翔や変身を述べるのではなく、そのように感じられたという比喩。",
+                "en": "Expresses how it felt, rather than asserting actual flight or transformation."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/su-shi-red-cliff-opening/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ],
+  "bibliography": {
+    "originalTitle": "前赤壁賦",
+    "originalAuthor": "蘇軾",
+    "title": {
+      "ja": "前赤壁賦",
+      "en": "First Ode on the Red Cliff"
+    },
+    "author": {
+      "ja": "蘇軾",
+      "en": "Su Shi"
+    }
+  }
+}

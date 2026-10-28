@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7eb81d8a32a574f288c874ca631f8eeea416197abbc477f4e15ab2f62d21080b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В этом безбрежном просторе казалось, будто мы несёмся на ветру сквозь пустоту, не зная, где остановимся; лёгкие и парящие, будто мы покинули мир, чтобы остаться одни, превратиться в бессмертных и вознестись в их обитель.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cbaa0d3085b1468c78bac1faf426d2cd5143a8e23d97fc45f56e69b10cbcb4c2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:08:03.574656+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e5c9c641fb6efb38142185cec49b0423296825da97ef80805883f8d12daa84b6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ولذلك يمكننا أن نتطلع بشيء من الثقة إلى مستقبل آمن يتعذر تقدير طوله بالقدر نفسه.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "145e4fb5b7d674d4c9d7e1abcb6b93e32de5134fc7bb5411d2f8c402a6adab92",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:28:34.160398+00:00"
+}

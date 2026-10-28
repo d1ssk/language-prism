@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f009c4cb51ef9c508affb63c072d4750de7195c2d29cba845660db258f827582",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Leben ist ebenfalls etwas, das ich begehre; Rechtschaffenheit ist ebenfalls etwas, das ich begehre.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2d551f6024f576d5835201dc02a4f9d9c1a55e0ae497c1ce8619aec0be5df63b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:01:32.103885+00:00"
+}

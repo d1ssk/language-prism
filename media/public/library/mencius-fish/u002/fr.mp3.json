@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b82ddbcd2f68d5f1c5fea2d601aca4fd85c3adbdebf8bf151952b53fc0f213da",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si je ne peux avoir les deux, je renonce au poisson et choisis la patte d'ours.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4635e56e730de455e46c23ed73dc8d13a258f5545f31b1918b81ab473995686a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:45.369593+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b4813e601870877aed28b9948fb529582d664b52643f0aa6d5c9274502d7c402",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8db6460bd985b353d60bfc131a59e419e3b98a17c11055fb00f1f7ce3aea680c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:10:12.168817+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c9353037a9ba45cb9ed07c6687de86c8aa38400f1065b71f4a5bf1e0f465c699",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "결국 맞은편 세 집과 양옆 이웃집에서 언뜻언뜻 보이는 평범한 사람들이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f8f9a3017522b7b254a5aa11d36d1bdae3e374d7eb06442a2d048d8bb976209",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:54:55.158472+00:00"
+}

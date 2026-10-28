@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38bdd9f762ced960d759804ff8a877218100816aa5b0995769b91ea4d95315e4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Diese zehn Personen konnten also zusammen mehr als achtundvierzigtausend Stecknadeln am Tag herstellen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "38a5f407284567dddfdc6405a495e0baf4d7ba02494dbe86981ec4542c16a325",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:46:41.404019+00:00"
+}

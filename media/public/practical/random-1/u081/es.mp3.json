@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e8f48c02a561c2a2800b710b409dba83a8ec05142aebc065fe27cddd7f40e477",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando viajo, quiero conocer no solo los lugares turísticos famosos, sino también la vida cotidiana de la gente local.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db5fea062a83af8ad6f6c4f1bc0600e2d3f93261663eeb1c52e7dc2e91e06bc4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:05:14.275273+00:00"
+}

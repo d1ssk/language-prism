@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "804099fcc75cb1d719059d5cb101bca1d7fb9b4b4954b4baed0afcd356b78ee5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le troisième, de conduire par ordre mes pensées, en commençant par les objets les plus simples et les plus aisés à connaître,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "78227f7d98b47446e3de9289c3a0768faa724cef7c6187d57d98290c02d47beb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:29:21.193745+00:00"
+}

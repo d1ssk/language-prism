@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b575f70c2d6afbecf616acd876e2a96da0513e2af4bbf51f70dbcfd15639a3e2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "충분히 잤는데도 왠지 오늘은 계속 졸려요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "385491b1f1461cecd01a2c2a741e0b9c0370cfaa0c1b988a9b939c79d2979031",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:36:24.526451+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bb01f7c12dc803dce913be39fc243a498256274d0f2b658847a6d1b7fb46c5e7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Weißer Dunst lag über dem Fluss, und der Glanz des Wassers ging in den Himmel über.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fa9356cec54502365afd3568bd353d139abeadfbf08705f42970c13433f90d7b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:05:11.540000+00:00"
+}

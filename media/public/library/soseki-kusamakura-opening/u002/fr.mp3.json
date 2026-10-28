@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8eb8fb81713834277bcdc3a4ade0126cff6e578876d93347f282e6ae9ae46842",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si l’on agit par la raison, on se heurte aux autres.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "010733e2edfce894559cfa33d7f1cf4b50b7f739aef646e6418cd96f2b08e246",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:03.555491+00:00"
+}

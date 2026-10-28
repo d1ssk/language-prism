@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "58c24ad3647b5dd5c0a375ba0d442d00f6954c1fbc9b07c92158f641b15978fc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "すべてのいきものをこべつのそうぞうぶつとしてではなく、しるるけいのさいしょのちそうがたいせきするはるかいぜんにいきていたしょうすうのせいぶつのちょっけいのしそんとしてみると、わたしにはそれらがいっそうとうといものとなるようにおもわれる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5c3ba49f799f1f2d4e1933896e9babcaae536f3969490c4e59ebe66a2852ff0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:16:32.212229+00:00"
+}

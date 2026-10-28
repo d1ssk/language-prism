@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ba7cc0518d4afec46d3332e560ec08bb99df320685142b4e6debec43b6a3c45e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "总而言之，人世实在难以安居。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "94156d585c0dbfb50486cac2c5048482570eaa6057cb1479208c0ada15858fbd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:45.468378+00:00"
+}

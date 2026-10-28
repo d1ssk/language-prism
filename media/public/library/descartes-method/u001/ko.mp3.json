@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3fad8e571496b1e5b3e4ba24592e9e5b05ba17ce63f98985bb3677afa58ef7cd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "첫째 규칙은 어떤 것이 참임을 명백히 알지 못하는 한, 결코 그것을 참으로 받아들이지 않는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0cdd1e22da004e0e71d9b643b9e84a12ba1d528c0bf9759815779d030734b92a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:04.434856+00:00"
+}

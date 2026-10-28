@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9b7b2af42195452bfb7b01446a4fae090e6d40053d63953d881e8a5bdaaca483",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Steigen Sie an der nächsten Station aus und gehen Sie zum gegenüberliegenden Bahnsteig.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1f41d490cc6320e09e1721444ad8e821de0272b1211aad29a9a5b6290a9b95b2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:17:29.575665+00:00"
+}

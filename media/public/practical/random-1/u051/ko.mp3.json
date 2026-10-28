@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c72809b81c651631efac4d31bbc6fb4c38ba2fd4d24d2bf952d8dc0b85b6aaab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "과학의 매력은 당연하다고 생각했던 것들을 근본부터 다시 질문할 수 있다는 데 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "59f52835bce33a239eea645a3ae652687c0e7765b609a1f8b2118b99524ee330",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:06.506771+00:00"
+}

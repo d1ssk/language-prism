@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1b3b7f1bcfc71f27ce9963bd98dfe4ce6840150ddfb6fcf73150a0979ed42dbd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "자세한 설명은 나중에 이메일로 보내 드릴게요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5af7a7e76d9cd00c3969ebe04dd8cce71a324722547ba09d434b86e8ff5ae61d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:29:56.983835+00:00"
+}

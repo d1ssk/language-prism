@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e090dd6828115b2a2a982288e38166b89fb06ad87f2447f2cd16f1181e09918c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Aquí nace la vocación del poeta; aquí desciende la misión del pintor.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4ec705a761b010c1e31d48c98c1bbcf0f5bfd6e197d10a9f2d063d847415f7c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:58:51.810590+00:00"
+}

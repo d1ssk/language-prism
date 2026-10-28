@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c8de819668c4b0009c4ae4767a3c7dc4ebdda86ffcb71ee5361b7e508f39cc9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "무기와 말을 갖추고 온 세상을 돌아다니며 모험을 찾고, 책에서 읽은 편력 기사들의 모든 일을 스스로 행하려는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "218504c24ea4ca238e840e8ddab342947ab9885e6ad02a69da5058cc74f1ccd1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:14:33.471837+00:00"
+}

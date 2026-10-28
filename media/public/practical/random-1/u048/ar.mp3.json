@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "601019fb0cceabef73cc762b66992a0985a9816b87c4e23c779e0c050dd72dee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كانت نهاية الفيلم غير متوقعة، لكنها تبدو منطقية عند النظر إلى القصة بأكملها.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9a610c4233b212d02bea1ddfbc0a7bf2d55c474187cbd3dc219b37e7721bb0ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:37.407339+00:00"
+}

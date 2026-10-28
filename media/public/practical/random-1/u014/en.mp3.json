@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "23828085084a0584808eed104fc36bda7a3ecf667244561e69c83f0baf0431ef",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I can't find my passport. I'm trying to remember where I last used it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "78875c1e88b1b8043f83906dff2b5f66b601f345ac9988df75f1a38cdfe8c315",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:20:04.255168+00:00"
+}

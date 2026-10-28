@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6220471e2e768766293d70ef3b7b56a88c65a9230369d03c1a21bceb869421f0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "عندما أتعلم شيئًا جديدًا، أحاول أولًا فهم الصورة العامة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6cf74d0b20764ea62778f32e167bcd0055bcd79487ee9c42326ffa1d7228a517",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:56:42.602646+00:00"
+}

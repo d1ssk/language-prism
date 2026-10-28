@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b7e336d88c490f3ade963e0df6a6952065bc0802a9eca172bb84731580fef636",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Menschen handeln nicht immer rational; auch Gefühle und Gewohnheiten beeinflussen ihr Verhalten stark.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d91be6ef9febcf8f1302df32ded625186e78c840d39b6eb9c2b9c98660be0722",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:16.399852+00:00"
+}

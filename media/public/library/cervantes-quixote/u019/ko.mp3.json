@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d02bc70faebcd9e9b3279bda1ed5a5d75cfcfa54bded52995966c526c5bcf853",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "돈 벨리아니스가 입히고 입는 상처에는 그다지 만족하지 못했다. 아무리 뛰어난 의사들이 치료했더라도 얼굴과 온몸에 흉터와 자국이 가득할 수밖에 없다고 생각했기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "36c26295d3971411d62d9a059a4dc98c0d0c7e17a502a2eb578f2b777556b267",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:46:29.465355+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7e729bb370291492747828ea8a86971cceb6e321a73edf4bdf793a98b268f1b8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "и отправиться по всему свету с оружием и конём искать приключения и совершать всё то, чем, как он читал, занимались странствующие рыцари,",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2fb9ed79f677fd40b172856b8dbc752eea151fe99af40d6eba9e8c006dad847d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:14:08.265490+00:00"
+}

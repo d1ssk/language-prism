@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e341ad07ec1c126fa40c8d1ca6bccecf4344366ab64332d08a93741975a371aa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Thinking about the future sometimes makes me anxious, but I'm excited about new possibilities.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "caf92c219444c0dd42a7d9c1bf661fd606903d865e1a907c6c2c06ce3e9e085a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:52:25.876070+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0847445a54f6d9f6aec613614f59348261883560528377c13b75d863abd75756",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— أحب الغيوم… الغيوم التي تمر… هناك… الغيوم الرائعة!",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d1163106241b3fef754267be5a2fa7e1c5a03ab9bebcb84e1e503f9ff3d2c3ce",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:52:46.639455+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "25c3195aba64dfee5dd4e71766892382affe88cf87478a54ab154cfecc5b4f71",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "mit solcher Leidenschaft und Freude, dass er die Jagd und selbst die Verwaltung seines Besitzes fast völlig vergaß;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fbed404cfbd164044298ad95b854a207f4f36372f290102bdef7720e1d9184c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:34:45.020861+00:00"
+}

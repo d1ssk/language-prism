@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3d5f96d04f1b1ad718825403c5457bf649f099cd85788844e7ed7a91323b5ded",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si hace buen tiempo mañana, ¿por qué no vamos a la playa en coche?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c8049ce60eadb6385e8fea6fac5074e281a2ef5ac7be97db1daae965e0a9b89",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:24.716934+00:00"
+}

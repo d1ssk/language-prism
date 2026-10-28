@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "aa7211a86436fd5f8a70166203d2ca5331af2d1fb4e486dfa54da4f66ee03939",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这些诸如此类的说理使可怜的乡绅失去理智，他熬夜想弄懂其中的意思；即使亚里士多德专为此事复活，也无法解出其意、读懂这些话。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0652b367c856dce9c56adfa615de50eacda928f5440f0df23c85e0251ee6c893",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:44:25.288420+00:00"
+}

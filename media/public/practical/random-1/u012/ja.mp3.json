@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ab484a0f721ef2a3dfbee1339f0348cf3e310dbf2b195b40a4a9fec74265e248",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "へやのえあこんがうごかないようです。かくにんしていただけますか？",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "76c36f3f7a5329855ace8f001e1ceeed5f2fd539929ee8a11bed94c2e7a2c053",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:53.922090+00:00"
+}

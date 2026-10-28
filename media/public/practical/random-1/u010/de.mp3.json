@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "51504d9fc679df3580b62fcbef7eaf5b96e4d6c2aec43e7dc48e8428c66da078",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wie groß ist der Preisunterschied zwischen einer einfachen Fahrkarte und einer Hin- und Rückfahrkarte?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69c1f6419779c322a2b2208ea1564a2c998a8bd3262049a7896d916d14b31d91",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:02.123245+00:00"
+}

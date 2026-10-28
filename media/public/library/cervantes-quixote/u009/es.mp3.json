@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6a0dcd4582fc2534e027364641c99ccf4e237317fc7e84611892ae5e82f369ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ce27b4fa63502d32eccde16b9172a06aa9bff27c623eb350663703f6d5e1e0e8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:24.576029+00:00"
+}

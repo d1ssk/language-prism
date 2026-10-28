@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fae0d89b5d2319df83a651d36ab04dddf625ab5b668c0f19b95379a14c4775ba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "魚，我所欲也；熊掌，亦我所欲也。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1de9700e8a03585aeba565a1d5dea5f7d0bb072a370ce8fe8a4815ce4c3bb040",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:24.264607+00:00"
+}

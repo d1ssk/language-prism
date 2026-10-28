@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "af640dc5c0a8460a74b10da9b1d0871dd342946ba16aca9654a988f357fabf06",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Does this dish contain nuts? I'm allergic to them.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "21f1da39430988b62f4fb796a343a0a84e9c14fe78e027162be139db27b24d70",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:17.242800+00:00"
+}

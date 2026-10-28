@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "190fbffb27e649fa61704535820e68b51cc1e75f03b3d380409cc5886a84b4c2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Мы можем заглянуть в будущее настолько, чтобы предсказать: обычные и широко распространённые виды, принадлежащие к более крупным и господствующим группам, в конце концов возобладают и породят новые господствующие виды.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6557f22278bbdb844d70f5f9cf250db5abdc6a954a838081d74080e53634e43e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:24:26.109979+00:00"
+}

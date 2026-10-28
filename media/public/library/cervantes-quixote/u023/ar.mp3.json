@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9481154afb027bd7e42f7f746bcc85c8dd8ff9ff9539cd5917750f51d6c2f753",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لكن المعلم نيكولاس، حلاق القرية نفسها، كان يقول إن أحدا لا يبلغ منزلة فارس الشمس، وإن كان ثمة من يقارن به فهو دون غالا أور، أخو أماديس الغالي،",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "55a6d49b03f8607f9de3c2f7a5a0dbbeb4e8da95c755eb5744e3ac6fd979d517",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:52:55.085004+00:00"
+}

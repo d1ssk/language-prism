@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "62ab0597e52e0a1c88ae3c6bbc8222838677ab70608b4aea4020f3490b624fea",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il disait que le Cid Rui Díaz avait été un très bon chevalier, mais ne pouvait se comparer au Chevalier de l'Ardente Épée, qui d'un seul revers avait pourfendu deux féroces géants démesurés.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b54ea9578890e155a37c8ea6dacb9da04421dfc7a829c67d8660d439a0015fba",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:00:54.569812+00:00"
+}

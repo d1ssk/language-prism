@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d021449b6b18893d8ae3f312f380c56905468cc9bdc15d44da981f851e4d3baf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Seine Fantasie füllte sich mit allem, was er in den Büchern las: Zaubereien, Streitigkeiten, Schlachten, Herausforderungen, Wunden, Liebeswerben, Liebschaften, Stürmen und unmöglichen Albernheiten;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "21e6c9c48f25371f4b794b59af1c53b686dcdcce42faf124d87c491807543652",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:58:00.124653+00:00"
+}

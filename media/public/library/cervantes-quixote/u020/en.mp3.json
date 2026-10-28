@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c57efb2a1142aee2ca6e6163022ddb9ed8a414cbde4cba118134f1b81809a777",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Even so, he praised the author for ending his book with the promise of that endless adventure, and often wished to take up his pen and finish it exactly as promised there;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5a47aeaaa15e6e5b53a42f75556bb25f69ffe075cf8a60969dd9bd83cf57081d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:46:53.937196+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ddc6c53aaa77d6738ce7dc1f540cc0a98ec0e6a4f1843b4d4fd326b4354fd2b3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I usually enjoy spending time alone, but sometimes I want to talk with friends for hours.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b54c51f87289a6c18cd57ca160f8ff4eb00e163ba6daef605f7358558a84e617",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:33.659138+00:00"
+}

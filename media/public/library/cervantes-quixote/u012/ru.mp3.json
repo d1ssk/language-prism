@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f40610a25dcfbe1bc17bf2bf2c036988c6aab6d36092d8ff9b3fed406d4a5545",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "и его любопытство и безрассудство дошли до того, что он продал много ханег пахотной земли, чтобы покупать рыцарские романы для чтения,",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9ca2aafd59d1a74db30851e39a5b68de44625f96f88f1fa6148bafc99692dc52",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:05.527959+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9a9e85fba75b5e04e91d0ac4649c7842a94de8408ee7a89ca54a339b72a67265",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et de parcourir le monde avec ses armes et son cheval en quête d'aventures, s'exerçant à tout ce qu'il avait lu que pratiquaient les chevaliers errants,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cea5718b6e1a3ecd6ac6615c79b7e35289ba22970b7680a1ec694e53b97eb87f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:13:47.881067+00:00"
+}

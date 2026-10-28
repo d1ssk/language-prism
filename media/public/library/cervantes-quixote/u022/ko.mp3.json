@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3da42da3a87bd60fad9d7c9bca594e2a7394c21500bffa3f50aeb50d6011d5ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그는 학식이 있고 시구엔사에서 학위를 받은 마을 신부와, 영국의 팔메린과 갈리아의 아마디스 중 누가 더 뛰어난 기사였는지를 자주 논쟁했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c0eb2bc6080828703ee5819acb3ecd96ca0f3c6d61a418383cf5d2f18926c499",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:51:37.747486+00:00"
+}

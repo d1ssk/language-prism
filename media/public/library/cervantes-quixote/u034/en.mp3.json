@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3a8f9b749f46ab50178b3622cf001dab9cafee010d39a5861ea31831d32c0285",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "At last, with his judgement utterly undone, he hit upon the strangest thought ever conceived by a madman in the world;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6cad165de4b0b5e91101229f91d2a197b97e7876aaae4e1f84d20d1958d2843a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:10:44.501062+00:00"
+}

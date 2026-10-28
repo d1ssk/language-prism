@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "54a2c0c3ed46460e5afe5958727a9003613f283fb444f9a75d93cc045ee869d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "pero con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma, y dalle fin, al pie de la letra, como allí se promete;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8afc792efe042153eff5e8371a17c15611ddd5cf3282e8839ddadf3188c96128",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:47:09.524772+00:00"
+}

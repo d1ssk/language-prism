@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dc501189d683c9b4ef64e42d2549d8ff8e39e46a4a8cc9e887539ee84f2ed9b6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если трудно жить в мире, из которого нельзя переселиться, надо хоть немного сделать его уютнее и нашу мимолётную жизнь хоть на миг сделать легче.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b05fdfae49e9a98a5237f06aab4674010fc5fe0c260bd2f74a90d6d35a16e025",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:58:08.832080+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c43fb29c237d2a68dbfd6f16cb8d982414f46d34b76d27d60da7f85d7129f0ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "y en que, mientras este planeta ha seguido girando conforme a la ley fija de la gravedad, de un comienzo tan sencillo han evolucionado, y siguen evolucionando, innumerables formas de extraordinaria belleza y maravilla.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e2c2742e4480e2c28228251b936ce9b39b5c7689ac0167eaf1e99f4544d9e1cb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:23:50.631655+00:00"
+}

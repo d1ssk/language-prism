@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1c878c9174fda8ca06d24865681e0a764abe3d83b490acd4dc3f6078226361f1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "« La raison de la déraison faite à ma raison affaiblit tant ma raison que j'ai raison de me plaindre de votre beauté. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "699f84f5e27a000a484fe7780b17a267cef1e63d3bbc4c50443fb7f7c0fa5717",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:40:08.268220+00:00"
+}

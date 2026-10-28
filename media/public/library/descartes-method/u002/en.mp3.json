@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "64dd37dfb483f762c659ac7e70a9afdaeb85f321838db74b2aa543420c595f56",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "that is, carefully to avoid hasty judgment and preconception,",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e7217f94410b28cf3f3f8403db741a546bc3b973fd13154ac7b0a692bf6d1ca4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:11.920864+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8c441bedc969b18a75ded28b7443ef0753f742c157155d5e65efc96ef1c618b1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Obwohl ich genug geschlafen habe, bin ich heute aus irgendeinem Grund immer noch müde.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8d5a46bc5de5ef4f27870ed760644c95d6bbc9062f7289566eae30e9a0f4c302",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:36:08.693311+00:00"
+}

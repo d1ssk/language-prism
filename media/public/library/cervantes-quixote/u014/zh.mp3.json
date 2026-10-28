@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9b3f9a8f63d0bfa6abea1445fa38132ef213c3c8aa93546ccdfbf27a70427227",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "其中，他最喜欢著名的费利西亚诺·德·席尔瓦写的那些，因为在他看来，那清晰的文笔和纠缠的说理都妙极了；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b397b432c507f7f87cf8ccb48c230d34c7ad2f82f3d6532b4c9932dd59125df0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:38:34.254271+00:00"
+}

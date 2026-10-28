@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "44215e73b253711edeb2accb02e61c6c4f8997de136e44055f486479dd748683",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "せいぞんきょうそうをもたらすほどたかいぞうかりつ、そしてそのきけつとして、けいしつのぶんきと、かいりょうのすすまないけいたいのぜつめつをともなうしぜんせんたくである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c6a1d59e316b0da6f7573299f3cfd5475a78bbb5cd4bc08a1da63eacad9954db",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:19:36.061323+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d2ffeed3cdc2d83cc6ea4debc957a065256e0f2322b6b3180fedc5ebf3e66853",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "C'est justement quand les opinions s'opposent qu'il faut comprendre ce qui compte pour l'autre personne.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3fd54baa4ffa26e2e3c9161f23cb3b413d57f4605c977514675e956c2170ee6c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:01:01.656676+00:00"
+}

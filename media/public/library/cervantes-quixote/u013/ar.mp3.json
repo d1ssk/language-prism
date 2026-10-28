@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1ced90e602084e2e63001129f9b045c5f90b7f5015fc66fcac6f4e50bc55d777",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وهكذا حمل إلى بيته كل ما استطاع الحصول عليه منها؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a79cde4c394d17a38fb01118b68da0747b9629efe33edb01303d68be3a8c7580",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:52.372758+00:00"
+}

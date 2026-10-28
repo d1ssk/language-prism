@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3574ef92fa32b5a927bc5428b5758d5c419c980143200d9221af68bc6ca9c20",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しゅはいをあげてきゃくにすすめ、めいげつのしをぎんじ、ようちょうのしょうをうたった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "710c7322e4a887005b79ce2a5bef5c445eed4a70c61c9b1d18ad56ca5272c427",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:02:21.862269+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b2f2f2148c7ece47d3a219a1133c1515e628a6890bdb33733725cf76f6c16978",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "السمك مما أرغب فيه، وكف الدب أيضًا مما أرغب فيه.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d8c1c19fc656ce8eabac63dd5a2e639e39cbe344d5b083efda077ba23f3a2936",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:21.023755+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b64425472b05df3af1809fd388af006e6e110cc11f0e5635e7130628a456276d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그리고 정교하게 이루어진 이 생명체들이 서로 그토록 다르고 그토록 복잡하게 의존하면서도, 모두 우리 주위에서 작용하는 법칙에 의해 생겨났다는 사실을 생각하는 것 또한 흥미롭다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50b1d799c1777175e2d444b318a4e0452c7743a787cb4a1f86b25e554f141909",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:17:29.839335+00:00"
+}

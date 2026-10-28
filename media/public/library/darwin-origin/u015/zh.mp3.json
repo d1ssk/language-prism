@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7376c73a50f96261b36a491c7417c3acb781ac7eb517f59704a308018bb24e6a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "当我把一切生物看作并非各自创造的产物，而是远在志留系最早地层沉积之前便已生活的少数生物的直系后代时，它们在我眼中似乎更显高贵。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "932680e132599fd5a3329df20b61cd7936940e965b32488d18095a07810d037e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:18:27.271256+00:00"
+}

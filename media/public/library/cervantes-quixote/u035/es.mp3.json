@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9cd519ed79cf7b62d9f34309a17a95ad743c0ec83d6e1b6c0602714f88c3a2f4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "y fué, que le pareció convenible y necesario, así para el aumento de su honra como para el servicio de su república, hacerse caballero andante,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b72afed556ac053a8039a354322745edbbe67585caaa56c45581c762522f223e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:12:11.122101+00:00"
+}

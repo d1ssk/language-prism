@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2f559244f7a2c0165b3ee976efb46d70078b7a95fff11f5d01c06de97f26f519",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "생존 경쟁을 불러올 만큼 높은 증가율, 그리고 그 결과로 생겨나 형질의 분화와 덜 개선된 형태의 멸종을 가져오는 자연 선택이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5adb00964b444b90b9a82630630f28d93b4bf47f123aecc1a091a4c41c28da5a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:20:58.759071+00:00"
+}

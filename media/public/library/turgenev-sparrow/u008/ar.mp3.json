@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9f874193bce9963b33e5eb816b8aa83f5e48fd12db86a0669acac95b402617c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ومع ذلك لم يستطع البقاء على غصنه العالي الآمن… لقد دفعته من هناك قوة أقوى من إرادته.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "62ee239a6c089657fc2bc8ed229fe89f81c07e131cf7c7368682fe118958adbd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:19:36.054357+00:00"
+}

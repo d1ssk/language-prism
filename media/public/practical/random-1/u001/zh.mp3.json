@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "87729e841911edf7bd27dde80523ccd6a2bfdd2348c20154619f41de63317de6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "今天我起得比平时早一点，所以早上有更多空闲时间。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "85d6d27ebf19bd524757dec51ac071494e829ef2dac7e7794290caf98ec9e249",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:11.799163+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "09e9d774384a270f1c7a69ddf00476f0fa107371be25266b02cef7ab909e6073",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "드넓은 허공에 몸을 맡겨 바람을 타고 어디에 멈출지도 모르는 듯했다. 가볍게 떠올라 속세를 떠나 홀로 서서, 신선으로 변해 그 경지로 오르는 듯했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79ac66aeda31ced65401a2062821b97183dc7050c8f6a6d9c19c01e9d7c2f0ab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:08:37.293457+00:00"
+}

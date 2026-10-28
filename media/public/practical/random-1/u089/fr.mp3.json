@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4128fc4b17ee5e1103cb5051839ddc4093559bdcabde3a25e90c6440a0e12c6c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quand je commence à comprendre peu à peu des conversations qui m'échappaient au début, cela me motive à continuer d'apprendre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f7c1ca04f0e900df4793207868dd1ee18cb33524c19a8fc63fbb4d5f9209cf80",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:12:41.225821+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "63d21d90c3c0395061389062750e6e01d938ddd6bdd77ed35ffb017b73aff1b6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Концовка фильма была неожиданной, но если вспомнить весь сюжет, она кажется логичной.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "444f20fe2a0fcaa91679d2e24e79b28cb7fb1b2500ebbf7f3304152d9ebbfa1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:31.132964+00:00"
+}

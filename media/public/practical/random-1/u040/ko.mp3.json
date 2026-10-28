@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "25aa3b73767c72330612c9e7d40a7c79093b16b02b671a2b4f46d6fd7bcf9ca4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "음식을 낭비하지 않으려고 장을 보기 전에 식단을 계획하는 편이에요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b479018b8c128b617b7dc50d279cfacb6b3b4e226c141f5943c6d5ccf11a54de",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:35:05.181643+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c03797e8d53714c4a3c196b86c005d2c0eeb9e70e4783baed61f57e27c62645e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "学习新东西的时候，我会先试着把握整体框架。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c10d99c35e91ec25b62f1dfa10f3c4c9de7c05468677bb9316dfaab8922e0d12",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:56:47.240274+00:00"
+}

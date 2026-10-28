@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "20a1433f44bb11f941770cfd2c86aaa6fbbeff57bd5219678b8bac4e0f70b62b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لأرتقي شيئًا فشيئًا، كأنني أصعد درجات، إلى معرفة أكثرها تركيبًا، مفترضًا ترتيبًا حتى بين الأشياء التي لا يسبق بعضها بعضًا بطبيعتها.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57e0427cbbd4007669292eb9c3727e0a252af308076e7464b6766ae6dcad105f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:30:58.161777+00:00"
+}

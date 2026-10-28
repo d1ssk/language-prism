@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "589a2d15d856977486c61d5a02aa5ea33da4cf02c97da8893cecc762f1b551c6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لنتقابل عند بوابات التذاكر في المحطة الساعة السادسة مساءً.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf8fb9dc58f018109ed3c9fa5f633e114108899636212e22668aaafef92f1175",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:17.452585+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7c0082c1966597f1753f3716293f2cb700f27a9f9ed3af26532b5a9b6378b5b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "And of the species now living very few will transmit progeny of any kind to a far distant futurity;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d264077a251bf77ae7987305ec4a287f0d7e47c6085e7d67a8618b4b14686f8c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:20:32.426573+00:00"
+}

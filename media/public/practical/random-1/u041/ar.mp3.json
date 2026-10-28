@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "656cf840a8c562889fdf83709112d1c8667708d7433d6814bffb6a911c647ba8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لم أمارس الرياضة بما يكفي مؤخرًا، لذا أود البدء بالجري ثلاث مرات في الأسبوع.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "796675318b958fb146e2e1175d4508ad3ba69840609c8ade58b69770bc8f6184",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:35:41.041749+00:00"
+}

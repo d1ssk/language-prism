@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff5a2d8d8b708f7de39fbb3d26e4f841b0ff8bdf1c197d6255297a33e0962501",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "also gewiss nicht den zweihundertvierzigsten, vielleicht nicht den viertausendachthundertsten Teil dessen, was sie heute infolge einer zweckmäßigen Teilung und Verbindung ihrer verschiedenen Arbeitsgänge leisten können.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4c51f7b1172a489661565723dd1f2a88212ca1e067696f81a677967b54dc1e67",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:50:53.875884+00:00"
+}

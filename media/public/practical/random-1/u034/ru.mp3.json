@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b4f8dfdc3d8d1fd86dde4cfd9ff2cd5ecbf355d4e2a11796d08fc95ba8d19bd0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Это выражение часто используется в повседневной речи?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cc3f4282aec403560828d0307b8943684031478e460e252db99b52f9bbcabaf2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:31:09.309043+00:00"
+}

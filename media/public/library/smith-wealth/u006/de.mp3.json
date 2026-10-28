@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad796b3b5742c707543ba350f2829c7636becad352a727c183ab3fa6498e34b1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "den Kopf herzustellen erfordert zwei oder drei verschiedene Arbeitsgänge; ihn aufzusetzen ist eine besondere Arbeit; die Nadeln weiß zu machen eine andere; selbst sie in das Papier zu stecken ist ein eigenes Gewerbe;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7bae809ed6961a77996ab2bf94439cbc5c9da777bc79472dc7dd7e8f5e6d1ba0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:40:18.383019+00:00"
+}

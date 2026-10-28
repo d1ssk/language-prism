@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dab13f850fbae3115d87d87c1c695a89b278802e3cb1a7fe846cbd840012cac5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Estas leyes, entendidas en el sentido más amplio, son el crecimiento con reproducción; la herencia, casi implícita en la reproducción;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "161ce878367b85bea430bba17f653da34f2ec2afc13868f5d18e748bbb11633d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:17:50.858443+00:00"
+}

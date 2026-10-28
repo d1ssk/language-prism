@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ee5227696a019aa0d9e313e8ec454e6bd2b65f18561e4ffc8915aaf5653f571b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "On dit qu'il avait pour nom Quijada ou Quesada, les auteurs qui rapportent cette affaire différant quelque peu sur ce point, bien que des conjectures vraisemblables laissent entendre qu'il s'appelait Quijano.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0dc092f9b4d8744332f42bec2425392ff59e7cac7a621e5701b255c17236435e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:31:12.300162+00:00"
+}

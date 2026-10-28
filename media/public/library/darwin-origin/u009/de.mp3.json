@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "35869e317843f77338eeb3ded4d3b4b516e45d51953a192e315d39e66bf5f542",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In ferner Zukunft sehe ich offene Felder für weit bedeutendere Forschungen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2ded71be78f662193084860053f65f687d1c2c6f9eb0582bcfc769ce3e63af9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:09:55.138334+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0f9b091a8a29709d30bc397b9ec4360f584db0b632e3a98770c60087b5a447ce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "참새에게 개는 얼마나 거대한 괴물로 보였을까!",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6683462ab8835a0d4ae9ee7438bb2bbf259278d0e8aa992ae9c0e11344a1d082",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:18:46.154360+00:00"
+}

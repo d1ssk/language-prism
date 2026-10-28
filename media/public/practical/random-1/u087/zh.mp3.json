@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c7f8ad9d6123a1b3904cf6e3052a605791e9016f9acf2a6590a24d3d8c9d612a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "学习一门新语言让我期待的是，能够接触到以前不了解的思维方式和表达方式。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5a4d5ffda66d286315b71949313ae667464fd8a34fb6b7eb7b9309589dfc5e14",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:11:10.608143+00:00"
+}

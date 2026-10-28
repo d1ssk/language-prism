@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e59e9826b778ce2f0b01ca761b13b27008754d2ea8895811e65c24a898066555",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Langfristige Ziele zu haben ist wichtig, aber ich möchte nicht vergessen, den gegenwärtigen Moment zu genießen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f0aa9792322c5b45a03773feaac82e8a6769389ea920852a997bbb3c3b2f5434",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:59:24.485280+00:00"
+}

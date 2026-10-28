@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c6cfcea20c0eeafc16217e6951647741a649d0c96432e4b666b08d19f4beb41",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je n'ai pas d'espèces sur moi, donc ce serait pratique de pouvoir payer électroniquement.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "36df3d75b5c0d111e9955fc6936c385e2226f8da68a341e44d89a777475517d1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:49:04.667072+00:00"
+}

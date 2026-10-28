@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2874f570cb35d4e14126c22b2bfa4be65121b526d12d61df7e9f1eee6de77248",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Thank you for showing me the way. Thanks to you, I didn't get lost.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "27f701fc5c0835efaef87c1e2a85f84439b2295bf2242f338b4e314b07631ddc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:23:26.155085+00:00"
+}

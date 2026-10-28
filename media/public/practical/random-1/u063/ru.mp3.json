@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "be48d64ca8b5d13cfdb9f1a8e5aea0b0135019bb4de0ee4921ad1a2fd0cbe946",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "У меня немного другое мнение, но я понимаю, почему ты так считаешь.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5c5f3c4c2592c0a4e59713c2ed564721779616c8e5ae1abeadbea636e3fbfab8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:51:11.628566+00:00"
+}

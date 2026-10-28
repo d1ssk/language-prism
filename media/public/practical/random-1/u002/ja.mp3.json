@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d6701cd5576979d96ac469b266051cec32a815a06deb89af24acd8f2fa479a67",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ひさしぶりですね。さいきんどうしていますか？",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bdc8b1be4be5f211f23f59cced174f02e9e0f58c1e5d00e73e4dad60083c818a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:18.255102+00:00"
+}

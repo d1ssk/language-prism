@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bdfb154d153262c5636a4be9f71ee9c812d45ea6a948242e58776b6fbd7581d3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "En mathématiques, on part parfois d'un problème concret pour découvrir une structure plus générale.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "61351c07154f84d82770c02dc30fe7d59d3ae28adf4134e7c80d8a4bcbe741d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:27.505503+00:00"
+}

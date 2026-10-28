@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "712a51585408107e3840f69ff89330a5b3235e0e14c11034aca2521290cd32ba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 지금 쓰신 그 말의 뜻은 오늘까지도 제게 알려지지 않았어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4f69bdc2e3ff012d4121a05c8f0c767ee5627a2f7b495069ee1b24e665407dc2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:03.583039+00:00"
+}

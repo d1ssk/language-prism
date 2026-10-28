@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "90ef58270cbd049785d21caa839e4179ed0f81e175bee474375f48a8cca52088",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ainsi, de la guerre de la nature, de la famine et de la mort découle directement l'objet le plus élevé que nous puissions concevoir, à savoir la production des animaux supérieurs.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5611f10ac41be19a1927321325bd261cedaf3ce7077d2f2634fd561746990004",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:21:34.489601+00:00"
+}

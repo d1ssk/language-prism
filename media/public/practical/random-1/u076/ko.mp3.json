@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a5aaf7e5a70b93ad9ad333ba1fdb5c89ffb5e27800f8c9eb88060b43f16c1e2a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "의견이 대립할 때일수록 상대방이 무엇을 중요하게 여기는지 이해할 필요가 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "49a26fb522e2110b501f12ffbde494b54614e88df318d239e5d0a5f204cd697e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:01:27.732062+00:00"
+}

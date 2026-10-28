@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7a3c61d4eaacb33cc697f8b322ad4a0e32ecf3bd3b60b867afc66344129de516",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Und dennoch konnte er nicht auf seinem hohen, sicheren Ast sitzen bleiben … Eine Kraft, stärker als sein Wille, hatte ihn von dort hinabgestoßen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d20ed6ad689a9c64ec33b7cacdc0fe17343ea017db760dbb8d6d26e7c38a15ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:19:22.184032+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "669a98cd53775b419961025ff950bbf6fd07615ed7bfd18cc0f240b274fb649e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ich an die Zukunft denke, werde ich manchmal unruhig, aber ich freue mich auch auf neue Möglichkeiten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a25f81c4256550b66e71877a476767dc0b15db610e974d87f25b59fdf3986ff4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:52:40.464369+00:00"
+}

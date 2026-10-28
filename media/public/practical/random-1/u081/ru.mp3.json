@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "94ca9366b25ef8b6e3075967781142f34282174e0c28ab1fbdd411052aaeb98b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Во время путешествий мне хочется не только посещать известные достопримечательности, но и знакомиться с повседневной жизнью местных жителей.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "84ddeba9980db8a1b2efdd2429a0bae0a9c1c10dc63bd27d32a5a15a99aa9e8d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:05:36.054756+00:00"
+}

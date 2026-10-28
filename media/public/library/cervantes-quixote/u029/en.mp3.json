@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4f0469af40b82b8f68e51ea9e1dee1353d37d2e1bf8af2c834c3544dceaa5a1c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "He said the Cid, Rui Díaz, had been a fine knight, but was nothing beside the Knight of the Burning Sword, who with a single backhand stroke had split two fierce, enormous giants in half.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ace067f66f6bc50ca5624fbf071dc9ee839f66e93c2cdcf6fba9563c58264bdb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:00:32.711254+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b81a4965693b11d90dbc163f40cdadc2574c2c0e587db680d9b62d038053171a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "C'est ici que naît la vocation du poète, ici que descend la mission du peintre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7eb22bfad119e1adb432d80d4ec2d5d4cfe9931bd645b60b4bdbaf04cdcff58b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:58:56.415586+00:00"
+}

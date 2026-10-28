@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "48c7f99516e1fb704bbb573b9e186fa3cb8dc304433552a4d5c74b0cbc409bad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "けっきょく、どくしょにあまりにふかくのめりこみ、よるはひぐれからよあけまで、ひるはよあけからひぐれまで、よみつづけてすごした。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a4a1b7ff7a9fcfee6c37460ba5f969182b45c42e7093120505266185c18d6e2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:55:02.178992+00:00"
+}

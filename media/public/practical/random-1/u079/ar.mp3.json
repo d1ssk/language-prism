@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6df384e48ee6d833bcea4ecb2099c08d992f22ac0fa8ea545e41252cf654594d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "عندما أتأمل تجاربي السابقة، أجد أن الأحداث غير المتوقعة غيّرت مسار حياتي مرات عديدة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "51bff98f9abe39a759aa5e5318d76b788b23c368fc017bb1fd38fea4fa8a7b55",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:57.666517+00:00"
+}

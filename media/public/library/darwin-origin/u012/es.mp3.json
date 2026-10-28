@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ca2e2d4ea949d9ad5d8678373abbd1f674d8c3bd8ac41a25622ad7b2af10becd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Autores de la mayor eminencia parecen plenamente satisfechos con la idea de que cada especie ha sido creada de forma independiente.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c4f045d63c2b3764cffc6ae6916adf2aa955f37f4339527abf6b5743bbb1aedd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:12:20.527142+00:00"
+}

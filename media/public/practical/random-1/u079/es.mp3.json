@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d612c7b118d7763ea6aac083eab8f2ebbd283ad2ec2e8cce2e3849898a12649b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Al mirar atrás, me doy cuenta de que los acontecimientos inesperados han cambiado muchas veces el rumbo de mi vida.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "84d5e6fc8187f57c1770164123b4557bc5e07404dba633ad9fe83b2e9198f44e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:32.485942+00:00"
+}

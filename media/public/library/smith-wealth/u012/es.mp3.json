@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "68d6ff86d8dd90a16d55d68c00cb07d196dca96081566778f3a5d2bddc0cd376",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Así, cada persona, al producir la décima parte de cuarenta y ocho mil alfileres, podría considerarse productora de cuatro mil ochocientos alfileres al día.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2bbdc216e17dd2cdf76fcc62484ae4f328af05cb4139bb2c59f20ce1de1dadb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:47:26.549992+00:00"
+}

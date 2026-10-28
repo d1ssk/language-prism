@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f20b31de36ae63a18f584cd13c552deac59e1f994e8ad79c66718bbd2196ac77",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il faut donc savoir que ce gentilhomme, dans ses moments de loisir, qui occupaient la plus grande partie de l'année, s'adonnait à la lecture des romans de chevalerie,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a92942d12d073a4d9730d24fd7f06dc97ea5b28b91f05f3fa3424409e38ae3a4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:33:32.424764+00:00"
+}

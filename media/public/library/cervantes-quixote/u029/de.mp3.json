@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "94eb0b1cc3f08b087120bc8c0f7acd04e166478cc8ea1abdb99fa68eeb1d8a7e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Er sagte, der Cid Rui Díaz sei ein sehr guter Ritter gewesen, aber nichts gegen den Ritter vom Brennenden Schwert, der mit einem einzigen Rückhandschlag zwei wilde, ungeheure Riesen entzweigeteilt habe.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c83e265b637e46ae10bc195522d048111aef220c33289c06bd14548ba8647c4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:01:07.869411+00:00"
+}

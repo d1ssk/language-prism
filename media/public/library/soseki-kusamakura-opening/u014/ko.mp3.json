@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a57e64a9621bff2518af2dddb02884d2a7c3d8ea5d061d6014e134d920d3379a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여기서 시인이라는 천직이 생겨나고, 여기서 화가라는 사명이 내려온다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dc71db0a370dae9756f9eb87174e6ea20ebaa573874952c2b3103a31b6219ce9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:59:20.862698+00:00"
+}

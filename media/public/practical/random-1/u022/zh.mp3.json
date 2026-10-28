@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b89728eb11183f213fe840d5a8f01d99aeccb241055529d67baaf4f8f2dfbdca",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "路上有点堵车，我可能会晚到十分钟左右。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cacdb114727356fbcbebc8576cb910d1c3aff2dde940b32c984a3fa255ee1d9c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:57.242574+00:00"
+}

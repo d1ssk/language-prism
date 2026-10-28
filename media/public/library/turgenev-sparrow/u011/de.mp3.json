@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eff2ecccf997c5675ff5905b32b46819d5cd095d7ab6874bf24774272ebe3d74",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ja; lachen Sie nicht. Ich empfand Ehrfurcht vor diesem kleinen, heldenhaften Vogel, vor seinem Liebesdrang.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "facabc57d48ca833afe7de108e420f6dc7752a088bb9ded9101b8119379cd7da",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:21:56.679866+00:00"
+}

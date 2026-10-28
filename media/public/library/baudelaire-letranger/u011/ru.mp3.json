@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2e04a975892ad831082a23ccab069b987e8eba63caaf6097e1a3e3bd9408c805",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Так что же ты любишь, необыкновенный чужеземец?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db60fd6865599a85ae22b73c026ceba23acc23f36769f61ca8e3d881ac2ed7eb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:38.937429+00:00"
+}

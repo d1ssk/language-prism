@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "693f5f5cf2e06213ae6cce865ce1b69ee0e0cd8193cdfdbf8784fb8d94d4fefb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "على أي حال، يصعب العيش في عالم البشر.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "490a473cedfc3ff76fac34d788963d1eaa5529a4dd0e8c69cdc0b829e973c827",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:41.612659+00:00"
+}

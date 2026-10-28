@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a0552cd132997839e0e5040b76c00f419a3b22f40367c93b24f9d9cb0df80b8b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если править лодкой шестом чувств, тебя унесёт течением.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "103143f6f8fc2410168b664f96b6703ae96bc00e6ca44b4830efee56ec001859",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:41.926341+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ecb8379352ed0669545172b881804b49f187c50d2f2f3d65e85ba7668a153a59",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "but Master Nicolás, the village barber, said that none could equal the Knight of the Sun, and if anyone could be compared with him, it was Don Galaor, brother of Amadís of Gaul,",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8e4503f0d2d0080bd97312bd5b059d7d4847d31a03aec5ff82636a9458002407",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:51:58.175438+00:00"
+}

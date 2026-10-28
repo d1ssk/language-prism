@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "56918adc3b62b1625e017fe3ec53e286f100ced8f37d8aa52ec24fa1d655ede5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "طرأ لدي عمل عاجل اليوم. هل يمكننا تغيير خططنا؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7eef57b288f8779f162c1222db2541c1a17f89d13daea937936a04094172ac77",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:29.098195+00:00"
+}

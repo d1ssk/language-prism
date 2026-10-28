@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3252f726966eff313e68516d6cc36b91013f2d6280cc855cc050ab970d3db569",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 열정과 즐거움이 어찌나 컸던지 사냥은 물론이고 자기 재산을 관리하는 일까지 거의 완전히 잊어버렸다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e0c19a5a7c4d32eee4fa250b82270170a0181aa00d6106be053291daf670a1c7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:35:17.397669+00:00"
+}

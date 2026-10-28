@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4aaf0177a54a6640d61f25c7f00796ae94a276fcfbceac6abd09526db5904924",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Fish is something I desire; bear’s paw is also something I desire.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "60079098e6ae95ba0230f0e34d7c8f3ea05df2064ee172c8ec9d166d0f21d009",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:59:58.262552+00:00"
+}

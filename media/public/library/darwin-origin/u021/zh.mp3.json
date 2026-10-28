@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "22d48c4039f650ad686a46db9ef12787ff98ffe8e8356bf8aa94f50ecb5283b6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "因此，我们可以怀着一定的信心，展望一个同样漫长得无法估量的安稳未来。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "166b530216eae634ae9108f92a01fb3658261e8cb1d363b5e7215d6a88827abf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:28:44.236318+00:00"
+}

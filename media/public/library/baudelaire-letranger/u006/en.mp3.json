@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "644485db6f841e06e08bfd4226386dd383ce6823abefda251710bd20f154aa6a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— I do not know at what latitude it lies.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7d7abdb351ded8e9a77be5bc006f77a13b918c1b5c8cc3d99a7ed4b18c158bac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:25.976809+00:00"
+}

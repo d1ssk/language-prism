@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "818c5f9bd6650ca54d1283259d7f2357576198dfeaac3ca66a0b68c648559fa6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그의 상상은 책에서 읽은 모든 것, 마법과 다툼, 전투와 도전, 상처와 구애, 사랑과 폭풍, 그리고 불가능한 황당한 일들로 가득 찼다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aa1769bebf5ff0a15910326a9a94808998d00992a6e73e2c5a9909c42524c920",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:58:40.081379+00:00"
+}

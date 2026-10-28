@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ba81e598a45675b09c30c472f9acc36b85b20c88275f0ef95d1d6524e2b3c10f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La batterie de mon téléphone est presque vide, alors je cherche une prise électrique à proximité.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf51d8710a7126a0890ef24d9ff466fc31e14cae1933d9affc453ce96732a7a8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:47:59.644808+00:00"
+}

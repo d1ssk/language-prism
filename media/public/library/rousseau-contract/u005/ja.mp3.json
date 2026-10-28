@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "efad164ccc59b940a76b5aa0f98933dec6de05db4fb8f83122501c6313ca6de3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "「みんしゅうがふくじゅうをしいられ、ふくじゅうしているあいだは、それでよい。しかし、くびきをふりはらえるようになってじっさいにふりはらうなら、なおよい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3f84d7405e3d6fd19046a4fada34142911a68e347fab16712b1c564f436ec63e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:54:50.104742+00:00"
+}

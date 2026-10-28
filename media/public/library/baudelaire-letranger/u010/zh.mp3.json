@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "77e6bbcc415bd6feac13b0e42a96777ed4aa5d5d03d45b84ba1737283ce9fb94",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 我憎恨它，就像你憎恨上帝一样。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c27193a4ad4c1fdc81803bc034a9fb44e4a96f18c4d0e57e3d814292b7abce1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:18.119736+00:00"
+}

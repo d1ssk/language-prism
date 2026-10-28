@@ -1,0 +1,1049 @@
+{
+  "schemaVersion": 1,
+  "id": "ibn-khaldun-injustice",
+  "slug": "ibn-khaldun-injustice",
+  "type": "library",
+  "title": {
+    "ja": "歴史序説",
+    "en": "The Muqaddimah"
+  },
+  "description": {
+    "ja": "財産の侵害が勤労意欲を奪い、市場・都市・国家を衰退させる仕組み。",
+    "en": "How attacks on property undermine work and lead to the decline of markets, towns and government."
+  },
+  "originalLanguage": "ar",
+  "author": "ابن خلدون",
+  "bibliography": {
+    "originalTitle": "المقدمة",
+    "originalAuthor": "ابن خلدون",
+    "title": {
+      "ja": "歴史序説",
+      "en": "The Muqaddimah"
+    },
+    "author": {
+      "ja": "イブン・ハルドゥーン",
+      "en": "Ibn Khaldun"
+    }
+  },
+  "sourceTitle": "Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43",
+  "sourceURL": "https://ar.wikisource.org/wiki/مقدمة_ابن_خلدون_-_الجزء_الثالث",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：ابن خلدون。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: ابن خلدون. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。掲載元の連結誤り「واكتسابهالما」は「واكتسابها لما」と分かち、末尾の「وخرجت أمصاره」は対照した教材本文に従い「وخربت أمصاره」に補訂しました。補訂の参照先は該当単位に記載しています。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The source’s fused واكتسابهالما is separated as واكتسابها لما; وخرجت أمصاره is emended to وخربت أمصاره following the comparison text linked in the final unit."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1書第3章第43節冒頭。財産の侵害から国家の衰退へ至る論証（ペルシア王の逸話の前まで）",
+      "en": "Book I, Chapter III, section 43: the opening argument, ending before the Persian king anecdote"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "知っておくべきなのは、人々の財産を侵害すると、その財産を得て稼ごうという希望が失われるということだ。結局は自分たちの手から奪われると分かるからである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しっておくべきなのは、ひとびとのざいさんをしんがいすると、そのざいさんをえてかせごうというきぼうがうしなわれるということだ。けっきょくはじぶんたちのてからうばわれるとわかるからである。"
+        },
+        "en": {
+          "text": "Know that aggression against people’s property destroys their hope of acquiring and earning it, because they see that its ultimate fate is to be plundered from their hands.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Know that aggression against people’s property destroys their hope of acquiring and earning it, because they see that its ultimate fate is to be plundered from their hands."
+        },
+        "es": {
+          "text": "Has de saber que atacar los bienes de las personas destruye su esperanza de obtenerlos y ganarlos, pues ven que su destino final es serles arrebatados de las manos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Has de saber que atacar los bienes de las personas destruye su esperanza de obtenerlos y ganarlos, pues ven que su destino final es serles arrebatados de las manos."
+        },
+        "fr": {
+          "text": "Sache que l’atteinte aux biens des gens détruit leur espoir de les acquérir et de les gagner, puisqu’ils voient qu’ils finiront par leur être arrachés.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Sache que l’atteinte aux biens des gens détruit leur espoir de les acquérir et de les gagner, puisqu’ils voient qu’ils finiront par leur être arrachés."
+        },
+        "de": {
+          "text": "Wisse, dass Übergriffe auf das Vermögen der Menschen ihre Hoffnung zerstören, es zu erwerben und zu verdienen, weil sie sehen, dass es ihnen am Ende geraubt wird.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wisse, dass Übergriffe auf das Vermögen der Menschen ihre Hoffnung zerstören, es zu erwerben und zu verdienen, weil sie sehen, dass es ihnen am Ende geraubt wird."
+        },
+        "ru": {
+          "text": "Знай, что посягательство на имущество людей уничтожает их надежду приобретать и зарабатывать его: они видят, что в конце концов оно будет вырвано из их рук.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Знай, что посягательство на имущество людей уничтожает их надежду приобретать и зарабатывать его: они видят, что в конце концов оно будет вырвано из их рук."
+        },
+        "ar": {
+          "text": "اعلم أنّ العدوان على النّاس في أموالهم ذاهب بآمالهم في تحصيلها واكتسابها لما يرونه حينئذ من أنّ غايتها ومصيرها انتهابها من أيديهم",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "原典の転記でつながっている「واكتسابهالما」は、語の境界を「واكتسابها لما」に戻しています。",
+              "en": "The transcription’s fused واكتسابهالما is separated into واكتسابها لما."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "اعلم أنّ العدوان على النّاس في أموالهم ذاهب بآمالهم في تحصيلها واكتسابها لما يرونه حينئذ من أنّ غايتها ومصيرها انتهابها من أيديهم",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Iʿlam ʾanna al-ʿudwāna ʿalā an-nāsi fī ʾamwālihim dhāhibun bi-ʾāmālihim fī taḥṣīlihā wa-iktisābihā li-mā yarawnahu ḥīnaʾidhin min ʾanna ghāyatahā wa-maṣīrahā intihābuhā min ʾaydīhim.",
+            "note": {
+              "ja": "冒頭の iʿlam は単数男性への命令形。ここでは読者に呼びかける形です。",
+              "en": "The opening iʿlam is a masculine singular imperative addressing the reader."
+            }
+          }
+        },
+        "zh": {
+          "text": "须知，侵犯人们的财产，会摧毁他们获取和赚取财产的希望，因为他们看到，财产最终只会从自己手中被夺走。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "须知，侵犯人们的财产，会摧毁他们获取和赚取财产的希望，因为他们看到，财产最终只会从自己手中被夺走。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xū zhī, qīnfàn rénmen de cáichǎn, huì cuīhuǐ tāmen huòqǔ hé zhuànqǔ cáichǎn de xīwàng, yīnwèi tāmen kàndào, cáichǎn zuìzhōng zhǐ huì cóng zìjǐ shǒu zhōng bèi duó zǒu."
+          }
+        },
+        "ko": {
+          "text": "사람들의 재산을 침해하면 재산을 얻고 벌려는 희망이 사라진다는 것을 알아야 한다. 결국 자기 손에서 약탈당하리라는 것을 알기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "사람들의 재산을 침해하면 재산을 얻고 벌려는 희망이 사라진다는 것을 알아야 한다. 결국 자기 손에서 약탈당하리라는 것을 알기 때문이다."
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "財産を稼ぎ得る希望が失われると、人々はそのために働く手を引いてしまう。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ざいさんをかせぎえるきぼうがうしなわれると、ひとびとはそのためにはたらくてをひいてしまう。"
+        },
+        "en": {
+          "text": "When their hope of earning and acquiring it disappears, they withdraw their hands from striving for it.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "When their hope of earning and acquiring it disappears, they withdraw their hands from striving for it."
+        },
+        "es": {
+          "text": "Cuando desaparece su esperanza de ganarlos y obtenerlos, retiran las manos del esfuerzo por conseguirlos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Cuando desaparece su esperanza de ganarlos y obtenerlos, retiran las manos del esfuerzo por conseguirlos."
+        },
+        "fr": {
+          "text": "Lorsque disparaît leur espoir de les gagner et de les acquérir, ils retirent leurs mains de l’effort pour les obtenir.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Lorsque disparaît leur espoir de les gagner et de les acquérir, ils retirent leurs mains de l’effort pour les obtenir."
+        },
+        "de": {
+          "text": "Schwindet ihre Hoffnung, es zu verdienen und zu erwerben, ziehen sie ihre Hände von diesem Streben zurück.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Schwindet ihre Hoffnung, es zu verdienen und zu erwerben, ziehen sie ihre Hände von diesem Streben zurück."
+        },
+        "ru": {
+          "text": "Когда исчезает надежда заработать и приобрести его, люди отнимают руки от усилий к этому.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Когда исчезает надежда заработать и приобрести его, люди отнимают руки от усилий к этому."
+        },
+        "ar": {
+          "text": "وإذا ذهبت آمالهم في اكتسابها وتحصيلها انقبضت أيديهم عن السّعي في ذلك",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "وإذا ذهبت آمالهم في اكتسابها وتحصيلها انقبضت أيديهم عن السّعي في ذلك",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾidhā dhahabat ʾāmāluhum fī iktisābihā wa-taḥṣīlihā inqabaḍat ʾaydīhim ʿani as-saʿyi fī dhālika."
+          }
+        },
+        "zh": {
+          "text": "一旦失去了赚取和获取财产的希望，他们就会收手，不再为此努力。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "一旦失去了赚取和获取财产的希望，他们就会收手，不再为此努力。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīdàn shīqù le zhuànqǔ hé huòqǔ cáichǎn de xīwàng, tāmen jiù huì shōushǒu, bù zài wèi cǐ nǔlì."
+          }
+        },
+        "ko": {
+          "text": "재산을 벌고 얻을 희망이 사라지면, 사람들은 그것을 위한 노력에서 손을 뗀다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "재산을 벌고 얻을 희망이 사라지면, 사람들은 그것을 위한 노력에서 손을 뗀다."
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "臣民が稼ごうとする努力を控える程度は、侵害の大きさと割合に応じる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しんみんがかせごうとするどりょくをひかえるていどは、しんがいのおおきさとわりあいにおうじる。"
+        },
+        "en": {
+          "text": "The degree to which subjects withdraw from striving to earn is proportionate to the extent of the aggression.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The degree to which subjects withdraw from striving to earn is proportionate to the extent of the aggression."
+        },
+        "es": {
+          "text": "El grado en que los súbditos dejan de esforzarse por ganar es proporcional a la magnitud de la agresión.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El grado en que los súbditos dejan de esforzarse por ganar es proporcional a la magnitud de la agresión."
+        },
+        "fr": {
+          "text": "Le retrait des sujets de l’effort pour gagner leur vie est proportionnel à l’ampleur de l’agression.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le retrait des sujets de l’effort pour gagner leur vie est proportionnel à l’ampleur de l’agression."
+        },
+        "de": {
+          "text": "In welchem Maß die Untertanen ihr Erwerbsstreben einschränken, entspricht dem Ausmaß der Übergriffe.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "In welchem Maß die Untertanen ihr Erwerbsstreben einschränken, entspricht dem Ausmaß der Übergriffe."
+        },
+        "ru": {
+          "text": "Степень отказа подданных от усилий ради заработка соответствует размеру посягательства.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Степень отказа подданных от усилий ради заработка соответствует размеру посягательства."
+        },
+        "ar": {
+          "text": "وعلى قدر الاعتداء ونسبته يكون انقباض الرّعايا عن السّعي في الاكتساب",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "وعلى قدر الاعتداء ونسبته يكون انقباض الرّعايا عن السّعي في الاكتساب",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʿalā qadri al-iʿtidāʾi wa-nisbatihi yakūnu inqibāḍu ar-raʿāyā ʿani as-saʿyi fī al-iktisābi."
+          }
+        },
+        "zh": {
+          "text": "臣民减少谋生努力的程度，与侵害的程度和比例相应。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "臣民减少谋生努力的程度，与侵害的程度和比例相应。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Chénmín jiǎnshǎo móushēng nǔlì de chéngdù, yǔ qīnhài de chéngdù hé bǐlì xiāngyìng."
+          }
+        },
+        "ko": {
+          "text": "백성들이 생업의 노력을 줄이는 정도는 침해의 크기와 비율에 따른다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "백성들이 생업의 노력을 줄이는 정도는 침해의 크기와 비율에 따른다."
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "侵害が大きく、生計のあらゆる道に及ぶなら、稼ぐことをやめる動きも同じように広がる。あらゆる道から侵害が入り込み、希望をすっかり奪うからである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しんがいがおおきく、せいけいのあらゆるみちにおよぶなら、かせぐことをやめるうごきもおなじようにひろがる。あらゆるみちからしんがいがはいりこみ、きぼうをすっかりうばうからである。"
+        },
+        "en": {
+          "text": "If aggression is extensive and affects every means of livelihood, the abandonment of earning is equally widespread, because aggression entering through every avenue extinguishes hope altogether.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "If aggression is extensive and affects every means of livelihood, the abandonment of earning is equally widespread, because aggression entering through every avenue extinguishes hope altogether."
+        },
+        "es": {
+          "text": "Si la agresión es grande y afecta a todos los medios de subsistencia, el abandono del trabajo es igualmente general, pues al penetrar por todas las vías elimina por completo la esperanza.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si la agresión es grande y afecta a todos los medios de subsistencia, el abandono del trabajo es igualmente general, pues al penetrar por todas las vías elimina por completo la esperanza."
+        },
+        "fr": {
+          "text": "Si l’agression est considérable et touche tous les moyens de subsistance, l’abandon du travail est tout aussi général, car elle détruit tout espoir en pénétrant par toutes les voies.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si l’agression est considérable et touche tous les moyens de subsistance, l’abandon du travail est tout aussi général, car elle détruit tout espoir en pénétrant par toutes les voies."
+        },
+        "de": {
+          "text": "Sind die Übergriffe groß und erstrecken sie sich auf alle Erwerbswege, wird auch der Erwerb allgemein aufgegeben, weil das Eindringen auf allen Wegen jede Hoffnung zerstört.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Sind die Übergriffe groß und erstrecken sie sich auf alle Erwerbswege, wird auch der Erwerb allgemein aufgegeben, weil das Eindringen auf allen Wegen jede Hoffnung zerstört."
+        },
+        "ru": {
+          "text": "Если посягательство велико и охватывает все способы добывания средств к жизни, прекращение заработка становится столь же всеобщим: проникая по всем путям, оно полностью уничтожает надежды.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если посягательство велико и охватывает все способы добывания средств к жизни, прекращение заработка становится столь же всеобщим: проникая по всем путям, оно полностью уничтожает надежды."
+        },
+        "ar": {
+          "text": "فإذا كان الاعتداء كثيرا عامّا في جميع أبواب المعاش كان القعود عن الكسب كذلك لذهابه بالآمال جملة بدخوله من جميع أبوابها",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "فإذا كان الاعتداء كثيرا عامّا في جميع أبواب المعاش كان القعود عن الكسب كذلك لذهابه بالآمال جملة بدخوله من جميع أبوابها",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-ʾidhā kāna al-iʿtidāʾu kathīran ʿāmman fī jamīʿi ʾabwābi al-maʿāshi kāna al-quʿūdu ʿani al-kasbi kadhālika li-dhahābihi bi-al-ʾāmāli jumlatan bi-dukhūlihi min jamīʿi ʾabwābihā."
+          }
+        },
+        "zh": {
+          "text": "如果侵害严重而遍及一切谋生途径，停止谋生的现象也会同样普遍，因为侵害从所有途径侵入，使希望完全破灭。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "如果侵害严重而遍及一切谋生途径，停止谋生的现象也会同样普遍，因为侵害从所有途径侵入，使希望完全破灭。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rúguǒ qīnhài yánzhòng ér biànjí yīqiè móushēng tújìng, tíngzhǐ móushēng de xiànxiàng yě huì tóngyàng pǔbiàn, yīnwèi qīnhài cóng suǒyǒu tújìng qīnrù, shǐ xīwàng wánquán pòmiè."
+          }
+        },
+        "ko": {
+          "text": "침해가 크고 모든 생계 수단에 두루 미치면 생업을 포기하는 일도 그만큼 널리 퍼진다. 모든 길로 침해가 들어와 희망을 통째로 없애기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "침해가 크고 모든 생계 수단에 두루 미치면 생업을 포기하는 일도 그만큼 널리 퍼진다. 모든 길로 침해가 들어와 희망을 통째로 없애기 때문이다."
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "侵害が小さければ、稼ぐことを控える程度もそれに応じて小さくなる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しんがいがちいさければ、かせぐことをひかえるていどもそれにおうじてちいさくなる。"
+        },
+        "en": {
+          "text": "If the aggression is slight, the withdrawal from earning is proportionately slight.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "If the aggression is slight, the withdrawal from earning is proportionately slight."
+        },
+        "es": {
+          "text": "Si la agresión es leve, el abandono de la actividad lucrativa es proporcionalmente leve.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si la agresión es leve, el abandono de la actividad lucrativa es proporcionalmente leve."
+        },
+        "fr": {
+          "text": "Si l’agression est faible, le retrait de l’activité rémunératrice l’est dans la même proportion.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si l’agression est faible, le retrait de l’activité rémunératrice l’est dans la même proportion."
+        },
+        "de": {
+          "text": "Sind die Übergriffe gering, ist auch der Rückzug aus dem Erwerb entsprechend gering.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Sind die Übergriffe gering, ist auch der Rückzug aus dem Erwerb entsprechend gering."
+        },
+        "ru": {
+          "text": "Если посягательство невелико, сокращение заработка соразмерно ему.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если посягательство невелико, сокращение заработка соразмерно ему."
+        },
+        "ar": {
+          "text": "وإن كان الاعتداء يسيرا كان الانقباض عن الكسب على نسبته",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "وإن كان الاعتداء يسيرا كان الانقباض عن الكسب على نسبته",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾin kāna al-iʿtidāʾu yasīran kāna al-inqibāḍu ʿani al-kasbi ʿalā nisbatihi."
+          }
+        },
+        "zh": {
+          "text": "如果侵害较轻，减少谋生的程度也与之相应。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "如果侵害较轻，减少谋生的程度也与之相应。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rúguǒ qīnhài jiào qīng, jiǎnshǎo móushēng de chéngdù yě yǔ zhī xiāngyìng."
+          }
+        },
+        "ko": {
+          "text": "침해가 작으면 생업을 줄이는 정도도 그에 비례한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "침해가 작으면 생업을 줄이는 정도도 그에 비례한다."
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "社会の営みとその繁栄、市場の活況は、まさに人々の仕事と、利益や稼ぎを求めて行き来する努力によって成り立っている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しゃかいのいとなみとそのはんえい、しじょうのかっきょうは、まさにひとびとのしごとと、りえきやかせぎをもとめていききするどりょくによってなりたっている。"
+        },
+        "en": {
+          "text": "Civilization, its prosperity and the briskness of its markets depend on work and on people going to and fro in pursuit of their interests and earnings.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Civilization, its prosperity and the briskness of its markets depend on work and on people going to and fro in pursuit of their interests and earnings."
+        },
+        "es": {
+          "text": "La civilización, su prosperidad y la actividad de sus mercados dependen del trabajo y del ir y venir de las personas en busca de sus intereses y ganancias.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La civilización, su prosperidad y la actividad de sus mercados dependen del trabajo y del ir y venir de las personas en busca de sus intereses y ganancias."
+        },
+        "fr": {
+          "text": "La vie sociale, sa prospérité et l’activité de ses marchés reposent sur le travail et sur les efforts des gens qui vont et viennent à la recherche de leurs intérêts et de leurs gains.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La vie sociale, sa prospérité et l’activité de ses marchés reposent sur le travail et sur les efforts des gens qui vont et viennent à la recherche de leurs intérêts et de leurs gains."
+        },
+        "de": {
+          "text": "Das Gemeinwesen, sein Wohlstand und der lebhafte Handel seiner Märkte beruhen auf Arbeit und dem Hin und Her der Menschen, die ihren Interessen und ihrem Erwerb nachgehen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Das Gemeinwesen, sein Wohlstand und der lebhafte Handel seiner Märkte beruhen auf Arbeit und dem Hin und Her der Menschen, die ihren Interessen und ihrem Erwerb nachgehen."
+        },
+        "ru": {
+          "text": "Общественная жизнь, её процветание и оживление рынков держатся на труде и усилиях людей, ходящих туда и сюда ради своих дел и заработков.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Общественная жизнь, её процветание и оживление рынков держатся на труде и усилиях людей, ходящих туда и сюда ради своих дел и заработков."
+        },
+        "ar": {
+          "text": "والعمران ووفوره ونفاق أسواقه إنّما هو بالأعمال وسعي النّاس في المصالح والمكاسب ذاهبين وجائين",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ʿumrān は建物だけではなく、人々が共同で営む社会・定住・文明を含む概念です。",
+              "en": "ʿUmrān encompasses social life, settlement and civilization, not merely buildings."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "والعمران ووفوره ونفاق أسواقه إنّما هو بالأعمال وسعي النّاس في المصالح والمكاسب ذاهبين وجائين",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-al-ʿumrānu wa-wufūruhu wa-nafāqu ʾaswāqihi ʾinnamā huwa bi-al-ʾaʿmāli wa-saʿyi an-nāsi fī al-maṣāliḥi wa-al-makāsibi dhāhibīna wa-jāʾīna."
+          }
+        },
+        "zh": {
+          "text": "社会生活及其繁荣、市场的兴旺，都依靠劳动，以及人们为利益和生计奔走的努力。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "社会生活及其繁荣、市场的兴旺，都依靠劳动，以及人们为利益和生计奔走的努力。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shèhuì shēnghuó jí qí fánróng, shìchǎng de xīngwàng, dōu yīkào láodòng, yǐjí rénmen wèi lìyì hé shēngjì bēnzǒu de nǔlì."
+          }
+        },
+        "ko": {
+          "text": "사회생활과 그 번영, 시장의 활기는 노동과 사람들이 이익과 생계를 위해 오가며 기울이는 노력에 달려 있다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "사회생활과 그 번영, 시장의 활기는 노동과 사람들이 이익과 생계를 위해 오가며 기울이는 노력에 달려 있다."
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "人々が生計を立てるのをやめ、稼ぎから手を引けば、社会の市場は不況に陥り、状況は乱れる。人々は、その統治領域の外で糧を求め、各地へ散っていく。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ひとびとがせいけいをたてるのをやめ、かせぎからてをひけば、しゃかいのしじょうはふきょうにおちいり、じょうきょうはみだれる。ひとびとは、そのとうちりょういきのそとでかてをもとめ、かくちへちっていく。"
+        },
+        "en": {
+          "text": "When people cease pursuing a livelihood and withdraw their hands from earning, the markets of civilization stagnate and conditions are shaken. People scatter into regions beyond that jurisdiction, seeking sustenance outside its bounds.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "When people cease pursuing a livelihood and withdraw their hands from earning, the markets of civilization stagnate and conditions are shaken. People scatter into regions beyond that jurisdiction, seeking sustenance outside its bounds."
+        },
+        "es": {
+          "text": "Cuando las personas dejan de buscar el sustento y retiran las manos del trabajo, los mercados se estancan y las condiciones se trastornan. La gente se dispersa por regiones ajenas a esa jurisdicción, buscando sustento fuera de sus límites.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Cuando las personas dejan de buscar el sustento y retiran las manos del trabajo, los mercados se estancan y las condiciones se trastornan. La gente se dispersa por regiones ajenas a esa jurisdicción, buscando sustento fuera de sus límites."
+        },
+        "fr": {
+          "text": "Lorsque les gens cessent de chercher leur subsistance et se retirent du travail, les marchés stagnent et les conditions se désorganisent. Ils se dispersent vers d’autres régions, cherchant leur subsistance hors de cette juridiction.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Lorsque les gens cessent de chercher leur subsistance et se retirent du travail, les marchés stagnent et les conditions se désorganisent. Ils se dispersent vers d’autres régions, cherchant leur subsistance hors de cette juridiction."
+        },
+        "de": {
+          "text": "Wenn die Menschen ihren Lebensunterhalt nicht mehr verfolgen und sich vom Erwerb zurückziehen, stocken die Märkte und die Verhältnisse geraten ins Wanken. Die Menschen zerstreuen sich in andere Gebiete, um außerhalb dieses Herrschaftsbereichs Nahrung zu finden.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wenn die Menschen ihren Lebensunterhalt nicht mehr verfolgen und sich vom Erwerb zurückziehen, stocken die Märkte und die Verhältnisse geraten ins Wanken. Die Menschen zerstreuen sich in andere Gebiete, um außerhalb dieses Herrschaftsbereichs Nahrung zu finden."
+        },
+        "ru": {
+          "text": "Когда люди прекращают добывать средства к жизни и отказываются от заработка, рынки замирают и условия расстраиваются. Люди рассеиваются по областям вне этой державы, ища пропитание за её пределами.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Когда люди прекращают добывать средства к жизни и отказываются от заработка, рынки замирают и условия расстраиваются. Люди рассеиваются по областям вне этой державы, ища пропитание за её пределами."
+        },
+        "ar": {
+          "text": "فإذا قعد النّاس عن المعاش وانقبضت أيديهم عن المكاسب كسدت أسواق العمران وانتفضت الأحوال وابذعرّ النّاس في الآفاق من غير تلك الإيالة في طلب الرّزق فيما خرج عن نطاقها",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "فإذا قعد النّاس عن المعاش وانقبضت أيديهم عن المكاسب كسدت أسواق العمران وانتفضت الأحوال وابذعرّ النّاس في الآفاق من غير تلك الإيالة في طلب الرّزق فيما خرج عن نطاقها",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-ʾidhā qaʿada an-nāsu ʿani al-maʿāshi wa-inqabaḍat ʾaydīhim ʿani al-makāsibi kasadat ʾaswāqu al-ʿumrāni wa-intafaḍat al-ʾaḥwālu wa-ibdhaʿarra an-nāsu fī al-ʾāfāqi min ghayri tilka al-ʾiyālati fī ṭalabi ar-rizqi fīmā kharaja ʿan niṭāqihā."
+          }
+        },
+        "zh": {
+          "text": "人们一旦停止谋生，不再赚取收入，社会的市场就会萧条，局势也会动荡。人们四散到这一统治区域以外，在其疆界之外寻找生计。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "人们一旦停止谋生，不再赚取收入，社会的市场就会萧条，局势也会动荡。人们四散到这一统治区域以外，在其疆界之外寻找生计。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rénmen yīdàn tíngzhǐ móushēng, bù zài zhuànqǔ shōurù, shèhuì de shìchǎng jiù huì xiāotiáo, júshì yě huì dòngdàng. Rénmen sìsàn dào zhè yī tǒngzhì qūyù yǐwài, zài qí jiāngjiè zhī wài xúnzhǎo shēngjì."
+          }
+        },
+        "ko": {
+          "text": "사람들이 생계를 구하는 일을 멈추고 벌이에서 손을 떼면 시장이 침체하고 사정이 어지러워진다. 사람들은 그 통치 영역 밖으로 흩어져 경계 너머에서 먹고살 길을 찾는다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "사람들이 생계를 구하는 일을 멈추고 벌이에서 손을 떼면 시장이 침체하고 사정이 어지러워진다. 사람들은 그 통치 영역 밖으로 흩어져 경계 너머에서 먹고살 길을 찾는다."
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "その結果、国の住民は減り、家々は空になり、都市は荒廃する。それにつれて国家と権力の状態も損なわれる。それらは社会の営みの形であり、その素材が損なわれれば必然的に損なわれるからである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そのけっか、くにのじゅうみんはへり、いえいえはからになり、としはこうはいする。それにつれてこっかとけんりょくのじょうたいもそこなわれる。それらはしゃかいのいとなみのかたちであり、そのそざいがそこなわれればひつぜんてきにそこなわれるからである。"
+        },
+        "en": {
+          "text": "The country’s population thus dwindles, its houses stand empty and its towns fall into ruin. The state and ruling power are weakened with it, for they are the form of civilization and necessarily decay when their material decays.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The country’s population thus dwindles, its houses stand empty and its towns fall into ruin. The state and ruling power are weakened with it, for they are the form of civilization and necessarily decay when their material decays."
+        },
+        "es": {
+          "text": "Así disminuye la población del país, sus casas quedan vacías y sus ciudades se arruinan. Con ello se deterioran el Estado y el poder, pues son la forma de la vida social y necesariamente se corrompen cuando se corrompe su materia.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Así disminuye la población del país, sus casas quedan vacías y sus ciudades se arruinan. Con ello se deterioran el Estado y el poder, pues son la forma de la vida social y necesariamente se corrompen cuando se corrompe su materia."
+        },
+        "fr": {
+          "text": "La population du pays diminue alors, ses maisons se vident et ses villes tombent en ruine. L’État et le pouvoir se détériorent avec elle, car ils sont la forme de la vie sociale et se dégradent nécessairement lorsque leur matière se dégrade.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La population du pays diminue alors, ses maisons se vident et ses villes tombent en ruine. L’État et le pouvoir se détériorent avec elle, car ils sont la forme de la vie sociale et se dégradent nécessairement lorsque leur matière se dégrade."
+        },
+        "de": {
+          "text": "So schwindet die Bevölkerung des Landes, seine Häuser stehen leer und seine Städte verfallen. Staat und Herrschaft werden mit geschwächt, denn sie sind die Form des Gemeinwesens und verfallen notwendig, wenn ihre Materie verfällt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "So schwindet die Bevölkerung des Landes, seine Häuser stehen leer und seine Städte verfallen. Staat und Herrschaft werden mit geschwächt, denn sie sind die Form des Gemeinwesens und verfallen notwendig, wenn ihre Materie verfällt."
+        },
+        "ru": {
+          "text": "Население страны редеет, дома пустеют, города разрушаются. Вместе с этим расстраиваются государство и власть: они являются формой общественной жизни и неизбежно разрушаются с разрушением своей материи.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Население страны редеет, дома пустеют, города разрушаются. Вместе с этим расстраиваются государство и власть: они являются формой общественной жизни и неизбежно разрушаются с разрушением своей материи."
+        },
+        "ar": {
+          "text": "فخفّ ساكن القطر وخلت دياره وخربت أمصاره واختلّ باختلاله حال الدّولة والسّلطان لما أنّها صورة للعمران تفسد بفساد مادّتها ضرورة",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "掲載元の「وخرجت أمصاره」は、対照資料の「وخربت أمصاره（都市が荒廃した）」に補訂しました。",
+              "en": "The source’s وخرجت أمصاره is emended to وخربت أمصاره (its towns fell into ruin), following the comparison text."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "ابن خلدون; Arabic Wikisource — مقدمة ابن خلدون, Book I, Chapter III, section 43"
+          },
+          "ttsText": "فخفّ ساكن القطر وخلت دياره وخربت أمصاره واختلّ باختلاله حال الدّولة والسّلطان لما أنّها صورة للعمران تفسد بفساد مادّتها ضرورة",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-khaffa sākinu al-quṭri wa-khalat diyāruhu wa-kharibat ʾamṣāruhu wa-ikhtalla bi-ikhtilālihi ḥālu ad-dawlati wa-as-sulṭāni li-mā ʾannahā ṣūratun li-al-ʿumrāni tafsudu bi-fasādi māddatihā ḍarūratan."
+          },
+          "references": [
+            {
+              "title": "النص الحجاجي — مقتطف من مقدمة ابن خلدون، ص 131",
+              "url": "https://elhassanlearning.jo/pluginfile.php/1815/mod_resource/intro/النص%20الحجاجي.pdf"
+            }
+          ]
+        },
+        "zh": {
+          "text": "于是，国中的居民减少，房屋空置，城市荒废。国家和统治权力也随之衰败，因为它们是社会生活的形式，其物质基础败坏时，它们必然跟着败坏。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "于是，国中的居民减少，房屋空置，城市荒废。国家和统治权力也随之衰败，因为它们是社会生活的形式，其物质基础败坏时，它们必然跟着败坏。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yúshì, guó zhōng de jūmín jiǎnshǎo, fángwū kōngzhì, chéngshì huāngfèi. Guójiā hé tǒngzhì quánlì yě suí zhī shuāibài, yīnwèi tāmen shì shèhuì shēnghuó de xíngshì, qí wùzhì jīchǔ bàihuài shí, tāmen bìrán gēnzhe bàihuài."
+          }
+        },
+        "ko": {
+          "text": "그리하여 나라의 주민이 줄고 집이 비며 도시가 황폐해진다. 그와 함께 국가와 권력도 쇠약해진다. 그것들은 사회생활의 형식이므로 그 바탕이 무너지면 필연적으로 무너지기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그리하여 나라의 주민이 줄고 집이 비며 도시가 황폐해진다. 그와 함께 국가와 권력도 쇠약해진다. 그것들은 사회생활의 형식이므로 그 바탕이 무너지면 필연적으로 무너지기 때문이다."
+        }
+      }
+    }
+  ]
+}

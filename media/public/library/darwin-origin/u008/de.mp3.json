@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "33fe338469420278116d55b73a32f388886caa90bbe1e7a46392b155160982ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "und darin, dass, während dieser Planet nach dem unveränderlichen Gesetz der Schwerkraft weiter seine Bahnen gezogen hat, aus einem so einfachen Anfang unendlich viele, höchst schöne und wunderbare Formen entstanden sind und weiterhin entstehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3bdb4195abb663d74145ef5fee05a8538fe749ed92591dfd2f4076b4dce09759",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:24:15.631969+00:00"
+}

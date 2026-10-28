@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38f7a9f149012c996e3381483c36d3cc5b84826bc636efbd8474c83b4175a29d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "So folgt aus dem Krieg der Natur, aus Hunger und Tod unmittelbar das Erhabenste, das wir uns vorstellen können, nämlich die Entstehung der höheren Tiere.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "97e5a8ef9ad8f4f629d9576c01a8f33469fc395f1313dd19fe3237ccfa4578f2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:21:42.168636+00:00"
+}

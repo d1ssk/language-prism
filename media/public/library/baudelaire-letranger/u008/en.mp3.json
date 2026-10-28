@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b7364b447ced5da2350c4cfb8d02aa1b41926cc9863d018e4d444137c4de225",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— I would gladly love her, a goddess and immortal.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5ec237603f2e6e78c0960b6abf7f436b29f149f55c0c6f056b05713164f291cc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:50:10.258147+00:00"
+}

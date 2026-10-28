@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "90a58d71f5e2e464bac7f1b68175a021f75e61ee7d129d282107f955a8fa7581",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "つまり、せいきゅうなはんだんとせんにゅうかんをちゅういぶかくさけること、",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b14b06e9a80c35c761999a8ce89268474da989a119f69ba16c63ad6260c85389",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:08.495457+00:00"
+}

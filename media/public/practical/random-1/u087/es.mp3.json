@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c429fcd2259e51247722e29aeb6d548fe1ce0ef10d7853255180a6f926388794",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lo que más me entusiasma de aprender un nuevo idioma es descubrir formas de pensar y expresarse que antes desconocía.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "499461795e553944deaf7c841ac21642025ca5856603ca110cc046e9c66b66c5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:10:34.468570+00:00"
+}

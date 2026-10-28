@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "856f90da3e31270f2799546d1240d22083b577a408c99de75238d71026eb2cff",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Когда понимаешь, что жить трудно, куда бы ни переехал, рождается поэзия и возникает живопись.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e65f1441a1c09b95b812d7c98d84c3e4de47c371ffe4196654454a92e827b86a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:59:25.960131+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4c8ea0aa1998ee5affb9dc81faf5667d6978c0b73dc9fbd49bc0e4e7a7e86436",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Прежде чем перейти к этому, я должен обосновать то, что только что утверждал.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "773a881a4ed4e224a1de06350376e5c7c2349428823d3a58f8caf6eeac5f1eb4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:59:34.938604+00:00"
+}

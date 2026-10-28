@@ -1,0 +1,3776 @@
+{
+  "schemaVersion": 1,
+  "slug": "baudelaire-letranger",
+  "type": "library",
+  "sourceURL": "https://fr.wikisource.org/wiki/L%E2%80%99%C3%89tranger",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。原文の著者と収録元を明記しています。",
+    "en": "The original work is in the public domain. Its author and the transcription source are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Charles Baudelaire。収録元：Wikisource — L’Étranger, Petits Poèmes en prose, Michel Lévy Frères, 1869, p. 7。他言語訳・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: Charles Baudelaire. Source: Wikisource — L’Étranger, Petits Poèmes en prose, Michel Lévy Frères, 1869, p. 7. New translations and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文は出典に従い、学習・再生のため意味単位に分けています。他言語訳は本サイト用の新しい訳で、既存の翻訳版から転載したものではありません。解説・読み・音声を含め専門家による校閲は行っていません。",
+    "en": "The original follows the cited source and is divided into units for study and playback. Other-language versions are new translations for this site, not copies of published translations. Translations, explanations, readings and audio have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "id": "baudelaire-letranger",
+  "title": {
+    "ja": "ボードレール『異邦人』",
+    "en": "Baudelaire — L’Étranger"
+  },
+  "description": {
+    "ja": "『小散文詩』より全文。",
+    "en": "The complete prose poem from Petits Poèmes en prose."
+  },
+  "originalLanguage": "fr",
+  "author": "Charles Baudelaire",
+  "sourceTitle": "Wikisource — L’Étranger, Petits Poèmes en prose, Michel Lévy Frères, 1869, p. 7",
+  "excerpt": {
+    "isExcerpt": false,
+    "location": {
+      "ja": "全12対話。",
+      "en": "All twelve dialogue turns."
+    }
+  },
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "— 謎めいた人よ、誰をいちばん愛しているのか、言ってごらん。父か、母か、姉妹か、兄弟か。",
+          "ttsText": "なぞめいたひとよ、だれをいちばんあいしているのか、いってごらん。ちちか、ははか、しまいか、きょうだいか。",
+          "vocabulary": [
+            {
+              "term": "謎めいた",
+              "meaning": {
+                "ja": "理解しにくく、秘密があるような。",
+                "en": "Enigmatic; seeming to conceal a mystery."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "誰をいちばん",
+              "explanation": {
+                "ja": "「を」は愛する対象、「いちばん」は比較の最上位を示します。",
+                "en": "を marks the object of love; いちばん marks the highest degree."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— Whom do you love best, enigmatic man? Tell me: your father, your mother, your sister or your brother?",
+          "ttsText": "— Whom do you love best, enigmatic man? Tell me: your father, your mother, your sister or your brother?",
+          "vocabulary": [
+            {
+              "term": "enigmatic",
+              "meaning": {
+                "ja": "謎めいた。",
+                "en": "Mysterious; difficult to understand."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Whom do you love best?",
+              "explanation": {
+                "ja": "目的語を問う whom を文頭に出し、do で疑問を作ります。best は最も強く、の意味です。",
+                "en": "Whom asks for the object; do forms the question. Best means to the greatest degree."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— ¿A quién amas más, hombre enigmático? Dime: ¿a tu padre, a tu madre, a tu hermana o a tu hermano?",
+          "ttsText": "— ¿A quién amas más, hombre enigmático? Dime: ¿a tu padre, a tu madre, a tu hermana o a tu hermano?",
+          "vocabulary": [
+            {
+              "term": "enigmático",
+              "meaning": {
+                "ja": "謎めいた。",
+                "en": "Enigmatic."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "¿A quién amas más?",
+              "explanation": {
+                "ja": "人を指す目的語に a を付け、quién で誰かを尋ねます。",
+                "en": "The personal a precedes a human object; quién asks who that person is."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Qui aimes-tu le mieux, homme énigmatique, dis ? ton père, ta mère, ta sœur ou ton frère ?",
+          "ttsText": "— Qui aimes-tu le mieux, homme énigmatique, dis ? ton père, ta mère, ta sœur ou ton frère ?",
+          "vocabulary": [
+            {
+              "term": "le mieux",
+              "meaning": {
+                "ja": "最も、いちばんよく。",
+                "en": "Best; to the greatest degree."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "aimes-tu",
+              "explanation": {
+                "ja": "動詞と主語 tu の倒置による疑問です。問い手は相手を tu と呼びます。",
+                "en": "The question inverts verb and subject tu. The questioner uses familiar tu."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Wen liebst du am meisten, rätselhafter Mensch? Sag: deinen Vater, deine Mutter, deine Schwester oder deinen Bruder?",
+          "ttsText": "— Wen liebst du am meisten, rätselhafter Mensch? Sag: deinen Vater, deine Mutter, deine Schwester oder deinen Bruder?",
+          "vocabulary": [
+            {
+              "term": "rätselhaft",
+              "meaning": {
+                "ja": "謎めいた。",
+                "en": "Enigmatic."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wen liebst du",
+              "explanation": {
+                "ja": "wen は人を問う対格。liebst の目的語を尋ねます。",
+                "en": "Wen is the accusative interrogative, asking for the object of liebst."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Кого ты любишь больше всего, загадочный человек? Скажи: отца, мать, сестру или брата?",
+          "ttsText": "— Кого ты любишь больше всего, загадочный человек? Скажи: отца, мать, сестру или брата?",
+          "vocabulary": [
+            {
+              "term": "загадочный",
+              "meaning": {
+                "ja": "謎めいた。",
+                "en": "Enigmatic."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Кого ты любишь",
+              "explanation": {
+                "ja": "кого は人を問う対格で、愛する対象を示します。",
+                "en": "Кого is the accusative interrogative asking for the person loved."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— من تحب أكثر، أيها الرجل الغامض؟ قل لي: أباك أم أمك أم أختك أم أخاك؟",
+          "ttsText": "— من تحب أكثر، أيها الرجل الغامض؟ قل لي: أباك أم أمك أم أختك أم أخاك؟",
+          "vocabulary": [
+            {
+              "term": "الغامض",
+              "meaning": {
+                "ja": "謎めいた、不明瞭な。",
+                "en": "Enigmatic; obscure."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "من تحب أكثر",
+              "explanation": {
+                "ja": "من は「誰を」、أكثر は「より多く／最も」。أم は質問の選択肢を結びます。",
+                "en": "من asks whom; أكثر expresses the greater degree. أم joins alternatives in a question."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "man tuḥibbu ʾakthara, ʾayyuhā ar-rajulu al-ghāmiḍu? qul lī: ʾabāka ʾam ʾummaka ʾam ʾukhtaka ʾam ʾakhāka?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 神秘的人啊，你最爱谁？告诉我：你的父亲、母亲、姐妹，还是兄弟？",
+          "ttsText": "— 神秘的人啊，你最爱谁？告诉我：你的父亲、母亲、姐妹，还是兄弟？",
+          "vocabulary": [
+            {
+              "term": "神秘",
+              "meaning": {
+                "ja": "謎めいた。",
+                "en": "Mysterious."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "最爱谁",
+              "explanation": {
+                "ja": "最 は最上級の程度、谁 は愛する対象を問います。还是 は選択疑問をつなぎます。",
+                "en": "最 marks the highest degree; 谁 asks for the object. 还是 links alternatives in a question."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shénmì de rén a, nǐ zuì ài shéi? Gàosu wǒ: nǐ de fùqīn, mǔqīn, jiěmèi, háishi xiōngdì?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 수수께끼 같은 사람이여, 누구를 가장 사랑하나요? 말해 보세요. 아버지, 어머니, 자매, 아니면 형제인가요?",
+          "ttsText": "— 수수께끼 같은 사람이여, 누구를 가장 사랑하나요? 말해 보세요. 아버지, 어머니, 자매, 아니면 형제인가요?",
+          "vocabulary": [
+            {
+              "term": "수수께끼",
+              "meaning": {
+                "ja": "謎、なぞなぞ。",
+                "en": "A riddle or mystery."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "누구를 가장",
+              "explanation": {
+                "ja": "를 は目的語の助詞、가장 は「最も」。",
+                "en": "를 marks the object and 가장 means most."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "— 私には父も母も、姉妹も兄弟もいません。",
+          "ttsText": "わたしにはちちもははも、しまいもきょうだいもいません。",
+          "vocabulary": [
+            {
+              "term": "〜も〜も",
+              "meaning": {
+                "ja": "列挙したものをすべて含める。",
+                "en": "Includes each item in a series."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "父も母もいません",
+              "explanation": {
+                "ja": "「も」を繰り返し、最後の否定を全項目に及ぼします。",
+                "en": "Repeated も places every listed item within the scope of the final negative."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— I have neither father nor mother, neither sister nor brother.",
+          "ttsText": "— I have neither father nor mother, neither sister nor brother.",
+          "vocabulary": [
+            {
+              "term": "neither … nor",
+              "meaning": {
+                "ja": "〜も〜もない。",
+                "en": "Not one and not the other."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "neither … nor",
+              "explanation": {
+                "ja": "否定を表す neither と nor で、列挙した家族をすべて否定します。",
+                "en": "Neither and nor coordinate the family members under a single negative."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— No tengo padre, ni madre, ni hermana, ni hermano.",
+          "ttsText": "— No tengo padre, ni madre, ni hermana, ni hermano.",
+          "vocabulary": [
+            {
+              "term": "ni",
+              "meaning": {
+                "ja": "〜もない。",
+                "en": "Nor; neither."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "No tengo … ni …",
+              "explanation": {
+                "ja": "no と繰り返す ni で複数の対象を否定します。",
+                "en": "No combines with repeated ni to negate several objects."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Je n’ai ni père, ni mère, ni sœur, ni frère.",
+          "ttsText": "— Je n’ai ni père, ni mère, ni sœur, ni frère.",
+          "vocabulary": [
+            {
+              "term": "ni … ni",
+              "meaning": {
+                "ja": "〜も〜もない。",
+                "en": "Neither … nor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ne … ni … ni",
+              "explanation": {
+                "ja": "列挙の否定では pas を加えず ne と ni を用います。",
+                "en": "Negated coordination uses ne and ni without adding pas."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Ich habe weder Vater noch Mutter, weder Schwester noch Bruder.",
+          "ttsText": "— Ich habe weder Vater noch Mutter, weder Schwester noch Bruder.",
+          "vocabulary": [
+            {
+              "term": "weder … noch",
+              "meaning": {
+                "ja": "〜も〜もない。",
+                "en": "Neither … nor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "weder … noch",
+              "explanation": {
+                "ja": "否定の並列で、別に nicht を加える必要はありません。",
+                "en": "This negative coordination does not require an additional nicht."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— У меня нет ни отца, ни матери, ни сестры, ни брата.",
+          "ttsText": "— У меня нет ни отца, ни матери, ни сестры, ни брата.",
+          "vocabulary": [
+            {
+              "term": "нет",
+              "meaning": {
+                "ja": "ない、存在しない。",
+                "en": "There is not; absence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "нет ни отца",
+              "explanation": {
+                "ja": "нет の後ろは生格です。ни を繰り返して否定を並べます。",
+                "en": "Нет takes the genitive; repeated ни coordinates the negated items."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— ليس لي أب ولا أم ولا أخت ولا أخ.",
+          "ttsText": "— ليس لي أب ولا أم ولا أخت ولا أخ.",
+          "vocabulary": [
+            {
+              "term": "ليس لي",
+              "meaning": {
+                "ja": "私にはない。",
+                "en": "I do not have."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ليس لي",
+              "explanation": {
+                "ja": "ليس で所有を表す文を否定し、ولا で否定を重ねます。",
+                "en": "ليس negates the possession construction; ولا adds further negated items."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "laysa lī ʾabun wa-lā ʾummun wa-lā ʾukhtun wa-lā ʾakhun."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 我没有父亲，没有母亲，也没有姐妹或兄弟。",
+          "ttsText": "— 我没有父亲，没有母亲，也没有姐妹或兄弟。",
+          "vocabulary": [
+            {
+              "term": "没有",
+              "meaning": {
+                "ja": "持たない、存在しない。",
+                "en": "Not have; there is no."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "也没有",
+              "explanation": {
+                "ja": "也 は「〜も」で、前の否定に別の対象を加えます。",
+                "en": "也 adds another item to the preceding negative statement."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ méiyǒu fùqīn, méiyǒu mǔqīn, yě méiyǒu jiěmèi huò xiōngdì."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 내게는 아버지도 어머니도, 자매도 형제도 없어요.",
+          "ttsText": "— 내게는 아버지도 어머니도, 자매도 형제도 없어요.",
+          "vocabulary": [
+            {
+              "term": "없다",
+              "meaning": {
+                "ja": "ない、いない。",
+                "en": "To not exist; not have."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "아버지도 어머니도",
+              "explanation": {
+                "ja": "도 を重ね、없어요 で列挙全体を否定します。",
+                "en": "Repeated 도 includes all the listed people in the negative 없어요."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "— 友達は？",
+          "ttsText": "ともだちは？",
+          "vocabulary": [
+            {
+              "term": "友達",
+              "meaning": {
+                "ja": "親しい相手。",
+                "en": "Friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "友達",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— Your friends?",
+          "ttsText": "— Your friends?",
+          "vocabulary": [
+            {
+              "term": "friends",
+              "meaning": {
+                "ja": "友達。",
+                "en": "People one is close to."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "friends",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— ¿Tus amigos?",
+          "ttsText": "— ¿Tus amigos?",
+          "vocabulary": [
+            {
+              "term": "amigos",
+              "meaning": {
+                "ja": "友達。",
+                "en": "Friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "amigos",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Tes amis ?",
+          "ttsText": "— Tes amis ?",
+          "vocabulary": [
+            {
+              "term": "tes amis",
+              "meaning": {
+                "ja": "君の友達。",
+                "en": "Your friends; familiar address."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "tes amis",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Deine Freunde?",
+          "ttsText": "— Deine Freunde?",
+          "vocabulary": [
+            {
+              "term": "Freunde",
+              "meaning": {
+                "ja": "友達。",
+                "en": "Friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Freunde",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— А друзья?",
+          "ttsText": "— А друзья?",
+          "vocabulary": [
+            {
+              "term": "друзья",
+              "meaning": {
+                "ja": "友達。",
+                "en": "Friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "друзья",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— وأصدقاؤك؟",
+          "ttsText": "— وأصدقاؤك؟",
+          "vocabulary": [
+            {
+              "term": "أصدقاؤك",
+              "meaning": {
+                "ja": "君の友達。",
+                "en": "Your friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أصدقاؤك",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "wa-ʾaṣdiqāʾuka?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 你的朋友呢？",
+          "ttsText": "— 你的朋友呢？",
+          "vocabulary": [
+            {
+              "term": "朋友",
+              "meaning": {
+                "ja": "友達。",
+                "en": "Friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "朋友",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ de péngyou ne?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 친구들은요?",
+          "ttsText": "— 친구들은요?",
+          "vocabulary": [
+            {
+              "term": "친구들",
+              "meaning": {
+                "ja": "友達。",
+                "en": "Friends."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "친구들",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "— あなたはいま、今日まで私が意味を知らずにきた言葉をお使いですね。",
+          "ttsText": "あなたはいま、こんにちまでわたしがいみをしらずにきたことばをおつかいですね。",
+          "vocabulary": [
+            {
+              "term": "今日まで",
+              "meaning": {
+                "ja": "現在に至るまで。",
+                "en": "Up to the present day."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "意味を知らずにきた",
+              "explanation": {
+                "ja": "否定の「ず」に継続の「〜てくる」に相当する形を続けています。",
+                "en": "The negative ず combines with きた to describe a condition persisting until now."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— You are using a word whose meaning has remained unknown to me to this day.",
+          "ttsText": "— You are using a word whose meaning has remained unknown to me to this day.",
+          "vocabulary": [
+            {
+              "term": "to this day",
+              "meaning": {
+                "ja": "今日に至るまで。",
+                "en": "Up to the present day."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "whose meaning",
+              "explanation": {
+                "ja": "所有関係を表す関係詞 whose が word と meaning を結びます。",
+                "en": "The possessive relative whose links word and meaning."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— Está usted usando una palabra cuyo sentido me ha sido desconocido hasta hoy.",
+          "ttsText": "— Está usted usando una palabra cuyo sentido me ha sido desconocido hasta hoy.",
+          "vocabulary": [
+            {
+              "term": "hasta hoy",
+              "meaning": {
+                "ja": "今日まで。",
+                "en": "Until today."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "cuyo sentido",
+              "explanation": {
+                "ja": "cuyo は先行する palabra と sentido の所有関係を表します。",
+                "en": "Cuyo expresses the relation between palabra and its sentido."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Vous vous servez là d’une parole dont le sens m’est resté jusqu’à ce jour inconnu.",
+          "ttsText": "— Vous vous servez là d’une parole dont le sens m’est resté jusqu’à ce jour inconnu.",
+          "vocabulary": [
+            {
+              "term": "se servir de",
+              "meaning": {
+                "ja": "〜を用いる。",
+                "en": "To make use of."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dont le sens",
+              "explanation": {
+                "ja": "dont は de cette parole に対応し「その言葉の意味」をつなぎます。相手への呼称は vous です。",
+                "en": "Dont stands for de cette parole, linking the word to its meaning. The stranger addresses the questioner as vous."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Sie gebrauchen da ein Wort, dessen Bedeutung mir bis heute unbekannt geblieben ist.",
+          "ttsText": "— Sie gebrauchen da ein Wort, dessen Bedeutung mir bis heute unbekannt geblieben ist.",
+          "vocabulary": [
+            {
+              "term": "unbekannt",
+              "meaning": {
+                "ja": "知られていない。",
+                "en": "Unknown."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dessen Bedeutung",
+              "explanation": {
+                "ja": "dessen は属格の関係代名詞で、Wort の「意味」を導きます。",
+                "en": "Dessen is a genitive relative pronoun introducing the meaning of Wort."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Вы употребляете слово, смысл которого до сегодняшнего дня оставался мне неизвестен.",
+          "ttsText": "— Вы употребляете слово, смысл которого до сегодняшнего дня оставался мне неизвестен.",
+          "vocabulary": [
+            {
+              "term": "неизвестен",
+              "meaning": {
+                "ja": "知られていない。",
+                "en": "Unknown; short adjective form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "смысл которого",
+              "explanation": {
+                "ja": "которого は生格で「その言葉の意味」という関係を作ります。",
+                "en": "Genitive которого links the word to its meaning."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— إنك تستخدم كلمة ظل معناها مجهولًا لدي حتى اليوم.",
+          "ttsText": "— إنك تستخدم كلمة ظل معناها مجهولًا لدي حتى اليوم.",
+          "vocabulary": [
+            {
+              "term": "مجهولًا",
+              "meaning": {
+                "ja": "知られていない。",
+                "en": "Unknown."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ظل معناها مجهولًا",
+              "explanation": {
+                "ja": "ظل は状態の継続を表し、述語 مجهولًا は対格になります。",
+                "en": "ظل expresses a continuing state and takes the predicate مجهولًا in the accusative."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾinnaka tastakhdimu kalimatan ẓalla maʿnāhā majhūlan ladayya ḥattā al-yawmi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 你用的这个词，直到今天，我仍不知道它的意思。",
+          "ttsText": "— 你用的这个词，直到今天，我仍不知道它的意思。",
+          "vocabulary": [
+            {
+              "term": "仍",
+              "meaning": {
+                "ja": "依然として。",
+                "en": "Still."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "你用的这个词",
+              "explanation": {
+                "ja": "動詞句 你用 に 的 を付けて、後ろの名詞 词 を修飾します。",
+                "en": "的 turns 你用 into a modifier of 词."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ yòng de zhège cí, zhídào jīntiān, wǒ réng bù zhīdào tā de yìsi."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 지금 쓰신 그 말의 뜻은 오늘까지도 제게 알려지지 않았어요.",
+          "ttsText": "— 지금 쓰신 그 말의 뜻은 오늘까지도 제게 알려지지 않았어요.",
+          "vocabulary": [
+            {
+              "term": "뜻",
+              "meaning": {
+                "ja": "意味。",
+                "en": "Meaning."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "오늘까지도",
+              "explanation": {
+                "ja": "까지 は終点、도 は強調を加え「今日に至っても」と表します。",
+                "en": "까지 marks the endpoint and 도 adds emphasis: even up to today."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "— 祖国は？",
+          "ttsText": "そこくは？",
+          "vocabulary": [
+            {
+              "term": "祖国",
+              "meaning": {
+                "ja": "自分の属する故国。",
+                "en": "One’s homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "祖国",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— Your homeland?",
+          "ttsText": "— Your homeland?",
+          "vocabulary": [
+            {
+              "term": "homeland",
+              "meaning": {
+                "ja": "祖国。",
+                "en": "The country one belongs to."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "homeland",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— ¿Tu patria?",
+          "ttsText": "— ¿Tu patria?",
+          "vocabulary": [
+            {
+              "term": "patria",
+              "meaning": {
+                "ja": "祖国。",
+                "en": "Homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "patria",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Ta patrie ?",
+          "ttsText": "— Ta patrie ?",
+          "vocabulary": [
+            {
+              "term": "patrie",
+              "meaning": {
+                "ja": "祖国。",
+                "en": "Homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "patrie",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Deine Heimat?",
+          "ttsText": "— Deine Heimat?",
+          "vocabulary": [
+            {
+              "term": "Heimat",
+              "meaning": {
+                "ja": "故郷、祖国。",
+                "en": "Homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Heimat",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— А родина?",
+          "ttsText": "— А родина?",
+          "vocabulary": [
+            {
+              "term": "родина",
+              "meaning": {
+                "ja": "祖国。",
+                "en": "Homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "родина",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— ووطنك؟",
+          "ttsText": "— ووطنك؟",
+          "vocabulary": [
+            {
+              "term": "وطنك",
+              "meaning": {
+                "ja": "君の祖国。",
+                "en": "Your homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "وطنك",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "wa-waṭanuka?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 你的祖国呢？",
+          "ttsText": "— 你的祖国呢？",
+          "vocabulary": [
+            {
+              "term": "祖国",
+              "meaning": {
+                "ja": "祖国。",
+                "en": "Homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "祖国",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ de zǔguó ne?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 조국은요?",
+          "ttsText": "— 조국은요?",
+          "vocabulary": [
+            {
+              "term": "조국",
+              "meaning": {
+                "ja": "祖国。",
+                "en": "Homeland."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "조국",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "— それがどの緯度にあるのか、私は知りません。",
+          "ttsText": "それがどのいどにあるのか、わたしはしりません。",
+          "vocabulary": [
+            {
+              "term": "緯度",
+              "meaning": {
+                "ja": "赤道から南北の位置を表す角度。",
+                "en": "Latitude; angular position north or south of the equator."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "どの緯度にあるのか",
+              "explanation": {
+                "ja": "疑問節を文中に入れ、「知らない」の内容にしています。",
+                "en": "An embedded question supplies the content of what is not known."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— I do not know at what latitude it lies.",
+          "ttsText": "— I do not know at what latitude it lies.",
+          "vocabulary": [
+            {
+              "term": "latitude",
+              "meaning": {
+                "ja": "緯度。",
+                "en": "Position north or south of the equator."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "at what latitude it lies",
+              "explanation": {
+                "ja": "間接疑問なので it lies と通常の主語・動詞の順になります。",
+                "en": "The embedded question uses ordinary subject–verb order: it lies."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— Ignoro en qué latitud se encuentra.",
+          "ttsText": "— Ignoro en qué latitud se encuentra.",
+          "vocabulary": [
+            {
+              "term": "latitud",
+              "meaning": {
+                "ja": "緯度。",
+                "en": "Latitude."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "en qué latitud",
+              "explanation": {
+                "ja": "間接疑問でも疑問語 qué のアクセントは残ります。",
+                "en": "Qué retains its written accent in an indirect question."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— J’ignore sous quelle latitude elle est située.",
+          "ttsText": "— J’ignore sous quelle latitude elle est située.",
+          "vocabulary": [
+            {
+              "term": "ignorer",
+              "meaning": {
+                "ja": "知らない。",
+                "en": "To not know."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "elle est située",
+              "explanation": {
+                "ja": "elle は女性名詞 patrie を受けます。située も女性形です。",
+                "en": "Elle refers to feminine patrie; située agrees in the feminine."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Ich weiß nicht, auf welchem Breitengrad sie liegt.",
+          "ttsText": "— Ich weiß nicht, auf welchem Breitengrad sie liegt.",
+          "vocabulary": [
+            {
+              "term": "Breitengrad",
+              "meaning": {
+                "ja": "緯度。",
+                "en": "Latitude."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "auf welchem Breitengrad sie liegt",
+              "explanation": {
+                "ja": "間接疑問節なので定動詞 liegt が節の末尾に来ます。",
+                "en": "The finite verb liegt comes last in the embedded question."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Не знаю, на какой широте она находится.",
+          "ttsText": "— Не знаю, на какой широте она находится.",
+          "vocabulary": [
+            {
+              "term": "широта",
+              "meaning": {
+                "ja": "緯度。",
+                "en": "Latitude."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "на какой широте",
+              "explanation": {
+                "ja": "場所を表す на に前置格 широте が続きます。",
+                "en": "Locative на takes the prepositional form широте."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— لا أعرف على أي خط عرض يقع.",
+          "ttsText": "— لا أعرف على أي خط عرض يقع.",
+          "vocabulary": [
+            {
+              "term": "خط عرض",
+              "meaning": {
+                "ja": "緯度線。",
+                "en": "A parallel of latitude."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "على أي خط عرض",
+              "explanation": {
+                "ja": "أي は「どの」。يقع の主語は前の وطن を受けています。",
+                "en": "أي asks which; the subject of يقع refers back to وطن."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "lā ʾaʿrifu ʿalā ʾayyi khaṭṭi ʿarḍin yaqaʿu."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 我不知道它位于哪一条纬线上。",
+          "ttsText": "— 我不知道它位于哪一条纬线上。",
+          "vocabulary": [
+            {
+              "term": "纬线",
+              "meaning": {
+                "ja": "緯線。",
+                "en": "A parallel of latitude."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "位于哪一条纬线上",
+              "explanation": {
+                "ja": "哪一条 は線状のものを数える 条 を使う疑問表現です。",
+                "en": "哪一条 uses the classifier 条 for a line-like object."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ bù zhīdào tā wèiyú nǎ yī tiáo wěixiàn shàng."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 어느 위도에 있는지 모르겠어요.",
+          "ttsText": "— 어느 위도에 있는지 모르겠어요.",
+          "vocabulary": [
+            {
+              "term": "위도",
+              "meaning": {
+                "ja": "緯度。",
+                "en": "Latitude."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "있는지 모르겠어요",
+              "explanation": {
+                "ja": "-는지 で疑問の内容を名詞節にし、모르다 に続けます。",
+                "en": "-는지 embeds a question as the complement of 모르다."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "— 美は？",
+          "ttsText": "びは？",
+          "vocabulary": [
+            {
+              "term": "美",
+              "meaning": {
+                "ja": "美しさ。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "美",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— Beauty?",
+          "ttsText": "— Beauty?",
+          "vocabulary": [
+            {
+              "term": "beauty",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "beauty",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— ¿La belleza?",
+          "ttsText": "— ¿La belleza?",
+          "vocabulary": [
+            {
+              "term": "belleza",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "belleza",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— La beauté ?",
+          "ttsText": "— La beauté ?",
+          "vocabulary": [
+            {
+              "term": "beauté",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "beauté",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Die Schönheit?",
+          "ttsText": "— Die Schönheit?",
+          "vocabulary": [
+            {
+              "term": "Schönheit",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Schönheit",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— А красота?",
+          "ttsText": "— А красота?",
+          "vocabulary": [
+            {
+              "term": "красота",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "красота",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— والجمال؟",
+          "ttsText": "— والجمال؟",
+          "vocabulary": [
+            {
+              "term": "الجمال",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "الجمال",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "wa-al-jamālu?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 美呢？",
+          "ttsText": "— 美呢？",
+          "vocabulary": [
+            {
+              "term": "美",
+              "meaning": {
+                "ja": "美しさ。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "美",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Měi ne?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 아름다움은요?",
+          "ttsText": "— 아름다움은요?",
+          "vocabulary": [
+            {
+              "term": "아름다움",
+              "meaning": {
+                "ja": "美。",
+                "en": "Beauty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "아름다움",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "— 女神として、不死のものとしてなら、喜んで愛するでしょう。",
+          "ttsText": "めがみとして、ふしのものとしてなら、よろこんであいするでしょう。",
+          "vocabulary": [
+            {
+              "term": "不死",
+              "meaning": {
+                "ja": "死なないこと。",
+                "en": "Immortality; not dying."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜としてなら",
+              "explanation": {
+                "ja": "どのような存在として愛するか、その条件を表します。",
+                "en": "This states the condition or capacity in which beauty would be loved."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— I would gladly love her, a goddess and immortal.",
+          "ttsText": "— I would gladly love her, a goddess and immortal.",
+          "vocabulary": [
+            {
+              "term": "gladly",
+              "meaning": {
+                "ja": "喜んで。",
+                "en": "Willingly; with pleasure."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "would love her",
+              "explanation": {
+                "ja": "would は仮定的な意向。her は擬人化された美を指します。",
+                "en": "Would expresses a hypothetical willingness; her personifies beauty."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— La amaría de buen grado, diosa e inmortal.",
+          "ttsText": "— La amaría de buen grado, diosa e inmortal.",
+          "vocabulary": [
+            {
+              "term": "de buen grado",
+              "meaning": {
+                "ja": "喜んで。",
+                "en": "Willingly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "La amaría",
+              "explanation": {
+                "ja": "amaría は条件法。La は女性名詞 belleza を受けます。",
+                "en": "Amaría is conditional; la refers to feminine belleza."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Je l’aimerais volontiers, déesse et immortelle.",
+          "ttsText": "— Je l’aimerais volontiers, déesse et immortelle.",
+          "vocabulary": [
+            {
+              "term": "volontiers",
+              "meaning": {
+                "ja": "喜んで、進んで。",
+                "en": "Willingly; gladly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "aimerais",
+              "explanation": {
+                "ja": "条件法で現実の愛着を断言せず、仮定的な意向を表します。美を女神として擬人化しています。",
+                "en": "The conditional expresses hypothetical willingness rather than an asserted attachment. Beauty is personified as a goddess."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Ich würde sie gern lieben, als Göttin und unsterblich.",
+          "ttsText": "— Ich würde sie gern lieben, als Göttin und unsterblich.",
+          "vocabulary": [
+            {
+              "term": "unsterblich",
+              "meaning": {
+                "ja": "不死の。",
+                "en": "Immortal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "würde … lieben",
+              "explanation": {
+                "ja": "würde と不定詞で仮定的な意向を表します。sie は Schönheit を受けます。",
+                "en": "Würde plus infinitive expresses a hypothetical willingness; sie refers to Schönheit."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Я охотно полюбил бы её — богиню, бессмертную.",
+          "ttsText": "— Я охотно полюбил бы её — богиню, бессмертную.",
+          "vocabulary": [
+            {
+              "term": "охотно",
+              "meaning": {
+                "ja": "喜んで。",
+                "en": "Willingly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "полюбил бы",
+              "explanation": {
+                "ja": "過去形と бы の組合せで仮定・条件の意味を表します。",
+                "en": "The past form plus бы expresses a hypothetical or conditional meaning."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— كنت سأحب الجمال طوعًا، في صورة إلهة خالدة.",
+          "ttsText": "— كنت سأحب الجمال طوعًا، في صورة إلهة خالدة.",
+          "vocabulary": [
+            {
+              "term": "خالدة",
+              "meaning": {
+                "ja": "不死の、永遠の。",
+                "en": "Immortal; eternal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "في صورة إلهة",
+              "explanation": {
+                "ja": "「女神の姿で」として、原文の美の擬人化を明示した訳です。",
+                "en": "“In the form of a goddess” makes the original personification of beauty explicit."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "kuntu sa-ʾuḥibbu al-jamāla ṭawʿan, fī ṣūrati ʾilāhatin khālidatin."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 我愿意爱她，作为女神，作为不朽的存在。",
+          "ttsText": "— 我愿意爱她，作为女神，作为不朽的存在。",
+          "vocabulary": [
+            {
+              "term": "不朽",
+              "meaning": {
+                "ja": "不滅の。",
+                "en": "Immortal; imperishable."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "作为女神",
+              "explanation": {
+                "ja": "作为 は「〜として」。她 で美を女性の存在として擬人化しています。",
+                "en": "作为 means as or in the capacity of; 她 personifies beauty as female."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ yuànyì ài tā, zuòwéi nǚshén, zuòwéi bùxiǔ de cúnzài."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 여신으로서, 불멸의 존재로서라면 기꺼이 사랑하겠어요.",
+          "ttsText": "— 여신으로서, 불멸의 존재로서라면 기꺼이 사랑하겠어요.",
+          "vocabulary": [
+            {
+              "term": "기꺼이",
+              "meaning": {
+                "ja": "喜んで。",
+                "en": "Willingly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "존재로서라면",
+              "explanation": {
+                "ja": "로서 は資格・立場、라면 は条件を表します。",
+                "en": "로서 marks capacity or status, and 라면 marks a condition."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "— 黄金は？",
+          "ttsText": "おうごんは？",
+          "vocabulary": [
+            {
+              "term": "黄金",
+              "meaning": {
+                "ja": "金、富の象徴。",
+                "en": "Gold; a symbol of wealth."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "黄金",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— Gold?",
+          "ttsText": "— Gold?",
+          "vocabulary": [
+            {
+              "term": "gold",
+              "meaning": {
+                "ja": "金。",
+                "en": "The precious metal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "gold",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— ¿El oro?",
+          "ttsText": "— ¿El oro?",
+          "vocabulary": [
+            {
+              "term": "oro",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "oro",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— L’or ?",
+          "ttsText": "— L’or ?",
+          "vocabulary": [
+            {
+              "term": "or",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "or",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Das Gold?",
+          "ttsText": "— Das Gold?",
+          "vocabulary": [
+            {
+              "term": "Gold",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Gold",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— А золото?",
+          "ttsText": "— А золото?",
+          "vocabulary": [
+            {
+              "term": "золото",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "золото",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— والذهب؟",
+          "ttsText": "— والذهب؟",
+          "vocabulary": [
+            {
+              "term": "الذهب",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "الذهب",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "wa-adh-dhahabu?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 黄金呢？",
+          "ttsText": "— 黄金呢？",
+          "vocabulary": [
+            {
+              "term": "黄金",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "黄金",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Huángjīn ne?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 황금은요?",
+          "ttsText": "— 황금은요?",
+          "vocabulary": [
+            {
+              "term": "황금",
+              "meaning": {
+                "ja": "金。",
+                "en": "Gold."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "황금",
+              "explanation": {
+                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
+                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "— あなたが神を憎むように、私はそれを憎みます。",
+          "ttsText": "あなたがかみをにくむように、わたしはそれをにくみます。",
+          "vocabulary": [
+            {
+              "term": "憎む",
+              "meaning": {
+                "ja": "強く嫌う。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜ように",
+              "explanation": {
+                "ja": "二人の憎しみを比較する表現です。",
+                "en": "This compares the hatred felt by the two speakers."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— I hate it as you hate God.",
+          "ttsText": "— I hate it as you hate God.",
+          "vocabulary": [
+            {
+              "term": "hate",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To detest."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "as you hate God",
+              "explanation": {
+                "ja": "as は二つの行為のあり方を比較します。it は gold を指します。",
+                "en": "As compares the two acts; it refers to gold."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— Lo odio como usted odia a Dios.",
+          "ttsText": "— Lo odio como usted odia a Dios.",
+          "vocabulary": [
+            {
+              "term": "odiar",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Lo odio",
+              "explanation": {
+                "ja": "Lo は oro を受ける目的語代名詞。Dios には人称の a を付けます。",
+                "en": "Lo is an object pronoun referring to oro; Dios takes the personal a."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Je le hais comme vous haïssez Dieu.",
+          "ttsText": "— Je le hais comme vous haïssez Dieu.",
+          "vocabulary": [
+            {
+              "term": "haïr",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "hais / haïssez",
+              "explanation": {
+                "ja": "haïr の現在形。je では hais、vous では haïssez となり、綴りと発音が変わります。",
+                "en": "Present forms of haïr: hais with je and haïssez with vous differ in spelling and pronunciation."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Ich hasse es, wie Sie Gott hassen.",
+          "ttsText": "— Ich hasse es, wie Sie Gott hassen.",
+          "vocabulary": [
+            {
+              "term": "hassen",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "wie Sie Gott hassen",
+              "explanation": {
+                "ja": "wie に導かれる比較の節では動詞が末尾に置かれます。",
+                "en": "The comparative clause introduced by wie places the verb last."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Я ненавижу его, как вы ненавидите Бога.",
+          "ttsText": "— Я ненавижу его, как вы ненавидите Бога.",
+          "vocabulary": [
+            {
+              "term": "ненавидеть",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "его / Бога",
+              "explanation": {
+                "ja": "его は золото を受け、Бога は動詞の目的語となる対格です。",
+                "en": "Его refers to золото; Бога is the accusative object of the verb."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— أكرهه كما تكره الله.",
+          "ttsText": "— أكرهه كما تكره الله.",
+          "vocabulary": [
+            {
+              "term": "أكرهه",
+              "meaning": {
+                "ja": "私はそれを憎む。",
+                "en": "I hate it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كما تكره",
+              "explanation": {
+                "ja": "كما は比較の「〜するように」。ـه は الذهب を受ける目的語です。",
+                "en": "كما introduces the comparison; the suffix ـه refers to الذهب."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾakrahuhu kamā takrahu allāha."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 我憎恨它，就像你憎恨上帝一样。",
+          "ttsText": "— 我憎恨它，就像你憎恨上帝一样。",
+          "vocabulary": [
+            {
+              "term": "憎恨",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "就像 … 一样",
+              "explanation": {
+                "ja": "二つの行為を「ちょうど〜と同じように」と比較します。",
+                "en": "This construction compares two actions: just as or in the same way as."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ zēnghèn tā, jiù xiàng nǐ zēnghèn Shàngdì yīyàng."
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 당신이 신을 미워하듯, 나는 그것을 미워해요.",
+          "ttsText": "— 당신이 신을 미워하듯, 나는 그것을 미워해요.",
+          "vocabulary": [
+            {
+              "term": "미워하다",
+              "meaning": {
+                "ja": "憎む。",
+                "en": "To hate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "미워하듯",
+              "explanation": {
+                "ja": "-듯 は類似・比較を表します。",
+                "en": "-듯 marks resemblance or comparison."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "— ではいったい何を愛するのだ、風変わりな異邦人よ。",
+          "ttsText": "ではいったいなにをあいするのだ、ふうがわりないほうじんよ。",
+          "vocabulary": [
+            {
+              "term": "異邦人",
+              "meaning": {
+                "ja": "よそから来た人、他国の人。",
+                "en": "A stranger or foreigner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "いったい何を",
+              "explanation": {
+                "ja": "問いを強め、これまでの否定への戸惑いを表します。",
+                "en": "This intensifies the question and conveys puzzlement after the preceding denials."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— Well! What do you love, then, extraordinary stranger?",
+          "ttsText": "— Well! What do you love, then, extraordinary stranger?",
+          "vocabulary": [
+            {
+              "term": "stranger",
+              "meaning": {
+                "ja": "見知らぬ人、異邦人。",
+                "en": "An unfamiliar person or foreigner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "What do you love, then?",
+              "explanation": {
+                "ja": "then はこれまでの答えを受けた「それなら」の意味です。",
+                "en": "Then draws a conclusion from the preceding answers: in that case."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— ¡Eh! ¿Qué amas entonces, extraordinario extranjero?",
+          "ttsText": "— ¡Eh! ¿Qué amas entonces, extraordinario extranjero?",
+          "vocabulary": [
+            {
+              "term": "extranjero",
+              "meaning": {
+                "ja": "異邦人、外国人。",
+                "en": "Foreigner; stranger from elsewhere."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "qué amas entonces",
+              "explanation": {
+                "ja": "entonces は前の応答を受けて問いを改めます。",
+                "en": "Entonces renews the question in light of the preceding replies."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— Eh ! qu’aimes-tu donc, extraordinaire étranger ?",
+          "ttsText": "— Eh ! qu’aimes-tu donc, extraordinaire étranger ?",
+          "vocabulary": [
+            {
+              "term": "étranger",
+              "meaning": {
+                "ja": "異邦人、よそ者。",
+                "en": "Foreigner; outsider."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "donc",
+              "explanation": {
+                "ja": "ここでは推論を踏まえた問いを強めます。名詞 étranger は「見知らぬ者」と「外国人」の両義を持ちます。",
+                "en": "Donc emphasizes the question arising from the exchange. Étranger can suggest both stranger and foreigner."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Nun! Was liebst du denn, außergewöhnlicher Fremder?",
+          "ttsText": "— Nun! Was liebst du denn, außergewöhnlicher Fremder?",
+          "vocabulary": [
+            {
+              "term": "Fremder",
+              "meaning": {
+                "ja": "よそ者、異邦人。",
+                "en": "Stranger; foreigner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Was liebst du denn?",
+              "explanation": {
+                "ja": "denn は疑問に関心や戸惑いの調子を加えます。",
+                "en": "Denn adds an inquisitive or puzzled tone to the question."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Так что же ты любишь, необыкновенный чужеземец?",
+          "ttsText": "— Так что же ты любишь, необыкновенный чужеземец?",
+          "vocabulary": [
+            {
+              "term": "чужеземец",
+              "meaning": {
+                "ja": "異邦人。",
+                "en": "Foreigner; stranger from another land."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "что же",
+              "explanation": {
+                "ja": "же が疑問を強調し、それまでの応答を受けた問いにします。",
+                "en": "Же emphasizes the question in response to what has already been said."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— إذن، ماذا تحب، أيها الغريب العجيب؟",
+          "ttsText": "— إذن، ماذا تحب، أيها الغريب العجيب؟",
+          "vocabulary": [
+            {
+              "term": "الغريب",
+              "meaning": {
+                "ja": "異邦人、見知らぬ者。",
+                "en": "Stranger; foreigner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أيها الغريب",
+              "explanation": {
+                "ja": "أيها は呼びかけを導き、後ろの名詞で相手を指定します。",
+                "en": "أيها introduces a direct address identifying the addressee."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾidhan, mādhā tuḥibbu, ʾayyuhā al-gharību al-ʿajību?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 那么，你究竟爱什么，非同寻常的异乡人？",
+          "ttsText": "— 那么，你究竟爱什么，非同寻常的异乡人？",
+          "vocabulary": [
+            {
+              "term": "究竟",
+              "meaning": {
+                "ja": "いったい、結局。",
+                "en": "After all; exactly."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "究竟爱什么",
+              "explanation": {
+                "ja": "究竟 は疑問を強め、答えを迫る調子を加えます。",
+                "en": "究竟 intensifies the question and presses for an answer."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nàme, nǐ jiūjìng ài shénme, fēitóng xúncháng de yìxiāngrén?"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 그렇다면 도대체 무엇을 사랑하나요, 남다른 이방인이여?",
+          "ttsText": "— 그렇다면 도대체 무엇을 사랑하나요, 남다른 이방인이여?",
+          "vocabulary": [
+            {
+              "term": "도대체",
+              "meaning": {
+                "ja": "いったい。",
+                "en": "What on earth; after all."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "무엇을 사랑하나요",
+              "explanation": {
+                "ja": "무엇을 が目的語を尋ね、도대체 が疑問を強めます。",
+                "en": "무엇을 asks for the object and 도대체 strengthens the question."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "— 雲を愛しています……過ぎてゆく雲を……あそこに……あのすばらしい雲を！",
+          "ttsText": "くもをあいしています。すぎてゆくくもを。あそこに。あのすばらしいくもを。",
+          "vocabulary": [
+            {
+              "term": "過ぎてゆく",
+              "meaning": {
+                "ja": "移り進み、遠ざかる。",
+                "en": "To pass on; drift away."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "過ぎてゆく雲",
+              "explanation": {
+                "ja": "動詞句が直後の名詞を修飾します。「雲を」の反復で思いの高まりを表します。",
+                "en": "The verb phrase modifies 雲. Repeating 雲を builds emotional intensity."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "— I love the clouds… the clouds passing by… over there… the wonderful clouds!",
+          "ttsText": "— I love the clouds… the clouds passing by… over there… the wonderful clouds!",
+          "vocabulary": [
+            {
+              "term": "passing by",
+              "meaning": {
+                "ja": "通り過ぎていく。",
+                "en": "Moving past."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "the clouds passing by",
+              "explanation": {
+                "ja": "分詞句 passing by が clouds を後ろから修飾します。",
+                "en": "The participial phrase passing by follows and modifies clouds."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "— Amo las nubes… las nubes que pasan… allá… ¡las maravillosas nubes!",
+          "ttsText": "— Amo las nubes… las nubes que pasan… allá… ¡las maravillosas nubes!",
+          "vocabulary": [
+            {
+              "term": "nubes",
+              "meaning": {
+                "ja": "雲。",
+                "en": "Clouds."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "las nubes que pasan",
+              "explanation": {
+                "ja": "que は nubes を先行詞とする関係代名詞です。",
+                "en": "Que introduces a relative clause modifying nubes."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "— J’aime les nuages… les nuages qui passent… là-bas… les merveilleux nuages !",
+          "ttsText": "— J’aime les nuages… les nuages qui passent… là-bas… les merveilleux nuages !",
+          "vocabulary": [
+            {
+              "term": "là-bas",
+              "meaning": {
+                "ja": "あそこに、遠くに。",
+                "en": "Over there; in the distance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "qui passent",
+              "explanation": {
+                "ja": "qui は nuages を受ける関係代名詞。反復と三点リーダーが視線の移動や余韻を作ります。",
+                "en": "Qui refers to nuages. Repetition and ellipses suggest a wandering gaze and lingering emotion."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Charles Baudelaire"
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "— Ich liebe die Wolken… die Wolken, die vorüberziehen… dort drüben… die wunderbaren Wolken!",
+          "ttsText": "— Ich liebe die Wolken… die Wolken, die vorüberziehen… dort drüben… die wunderbaren Wolken!",
+          "vocabulary": [
+            {
+              "term": "vorüberziehen",
+              "meaning": {
+                "ja": "通り過ぎる、流れてゆく。",
+                "en": "To pass by; drift past."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "die vorüberziehen",
+              "explanation": {
+                "ja": "関係代名詞 die は複数の Wolken を受けます。",
+                "en": "The relative pronoun die refers to plural Wolken."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "— Я люблю облака… облака, которые плывут… там, вдали… чудесные облака!",
+          "ttsText": "— Я люблю облака… облака, которые плывут… там, вдали… чудесные облака!",
+          "vocabulary": [
+            {
+              "term": "вдали",
+              "meaning": {
+                "ja": "遠くに。",
+                "en": "In the distance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "облака, которые плывут",
+              "explanation": {
+                "ja": "которые は複数の облака を受ける関係代名詞です。",
+                "en": "Которые is a plural relative pronoun referring to облака."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "— أحب الغيوم… الغيوم التي تمر… هناك… الغيوم الرائعة!",
+          "ttsText": "— أحب الغيوم… الغيوم التي تمر… هناك… الغيوم الرائعة!",
+          "vocabulary": [
+            {
+              "term": "الغيوم",
+              "meaning": {
+                "ja": "雲。",
+                "en": "Clouds."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "الغيوم التي تمر",
+              "explanation": {
+                "ja": "非人間の複数名詞 الغيوم を、女性単数の関係詞 التي と動詞 تمر で受けます。",
+                "en": "The nonhuman plural الغيوم takes the feminine singular relative التي and verb تمر."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾuḥibbu al-ghuyūma… al-ghuyūma allatī tamurru… hunāka… al-ghuyūma ar-rāʾiʿata!"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "— 我爱云……那些飘过的云……在那边……那些奇妙的云！",
+          "ttsText": "— 我爱云……那些飘过的云……在那边……那些奇妙的云！",
+          "vocabulary": [
+            {
+              "term": "飘过",
+              "meaning": {
+                "ja": "漂いながら通り過ぎる。",
+                "en": "To drift past."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "那些飘过的云",
+              "explanation": {
+                "ja": "飘过 に 的 を付け、云 を修飾しています。",
+                "en": "的 makes 飘过 a modifier of 云."
+              }
+            }
+          ],
+          "notes": [],
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ ài yún… nàxiē piāoguò de yún… zài nàbiān… nàxiē qímiào de yún!"
+          },
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "— 나는 구름을 사랑해요… 흘러가는 구름을… 저 멀리… 저 경이로운 구름을!",
+          "ttsText": "— 나는 구름을 사랑해요… 흘러가는 구름을… 저 멀리… 저 경이로운 구름을!",
+          "vocabulary": [
+            {
+              "term": "경이로운",
+              "meaning": {
+                "ja": "驚嘆すべき、すばらしい。",
+                "en": "Wonderful; marvellous."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "흘러가는 구름",
+              "explanation": {
+                "ja": "動詞 흐르다 に継続・移動を表す 가다 が加わり、連体形で 구름 を修飾します。",
+                "en": "가다 adds onward movement to 흐르다; the attributive form modifies 구름."
+              }
+            }
+          ],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation generated with ChatGPT for language prism; not copied from a published translation."
+          },
+          "audio": {
+            "path": "library/baudelaire-letranger/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ],
+  "bibliography": {
+    "originalTitle": "L’Étranger",
+    "originalAuthor": "Charles Baudelaire",
+    "title": {
+      "ja": "異邦人",
+      "en": "The Stranger"
+    },
+    "author": {
+      "ja": "シャルル・ボードレール",
+      "en": "Charles Baudelaire"
+    }
+  }
+}

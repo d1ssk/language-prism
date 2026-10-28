@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ae8b46900d47e0a1478d9116ce4686902e6e38ae9b91a94ab60ad1f8f9724eaa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Unrecht jeder Art zu beheben und sich Prüfungen und Gefahren auszusetzen, durch deren Überwindung er ewigen Namen und Ruhm gewinnen würde.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ddd663b7f1d40cadff32a87b5d26716ce900437959340110d616043045bf9570",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:15:13.185609+00:00"
+}

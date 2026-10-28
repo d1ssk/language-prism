@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b4d1240e8741539210f984a0ef5db5bdb37ca6502eab52c2213357359b2dad3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "내 트레조르는 멈춰 서서 뒷걸음질쳤다. 보아하니 그 힘을 개도 알아본 모양이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8a34e1f2cfe1aa2b2c0aadd5e04b6fbb5fb394d0f1e47408fbd5eef9eb2d16b7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:39.726400+00:00"
+}

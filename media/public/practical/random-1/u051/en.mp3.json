@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "942587930c09e0634edb61433ae484d5fda249285587a07f965e36a873727b5c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "What makes science fascinating is that it allows us to question things we once took for granted.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b262f5a3200d8c0e131db2784c88302e5c40a2a84899cd0ca5b900dec8331792",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:42:23.865749+00:00"
+}

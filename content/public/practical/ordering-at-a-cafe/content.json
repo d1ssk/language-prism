@@ -1,0 +1,3633 @@
+{
+  "schemaVersion": 1,
+  "id": "ordering-at-a-cafe",
+  "slug": "ordering-at-a-cafe",
+  "type": "practical",
+  "title": {
+    "ja": "店で注文する",
+    "en": "Ordering food and drinks"
+  },
+  "description": {
+    "ja": "カフェの持ち帰り、飲食店での食事、料理の相談、注文の確認、会計など、店で使う表現。",
+    "en": "Expressions for cafés and restaurants: takeaway, dining in, discussing dishes, checking an order, asking for the bill and paying."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて作成した例文。既存の教材からの転載ではありません。",
+    "en": "Examples created with AI for this site, not reproduced from existing teaching materials."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み表記：OpenAI。",
+    "en": "Text and pronunciation readings: OpenAI."
+  },
+  "editorialNote": {
+    "ja": "カフェの持ち帰り、飲食店での食事、料理の相談、注文の確認、会計など、店で使う表現。 各小見出しは独立した場面です。短い掛け合いと単独で使える表現を組み合わせており、記事全体が一続きの会話ではありません。本文と読み表記を収録し、音声は未生成です。専門家による校閲は受けていません。",
+    "en": "Expressions for cafés and restaurants: takeaway, dining in, discussing dishes, checking an order, asking for the bill and paying. Each heading introduces an independent situation. Short exchanges are mixed with standalone expressions; the article is not one continuous conversation. Text and pronunciation readings are included; audio has not been generated. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "こんにちは。コーヒーを一杯お願いします。",
+          "ttsText": "こんにちは。こーひーをいっぱいおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Hello. A coffee, please.",
+          "ttsText": "Hello. A coffee, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Hola. Un café, por favor.",
+          "ttsText": "Hola. Un café, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bonjour. Un café, s'il vous plaît.",
+          "ttsText": "Bonjour. Un café, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Guten Tag. Einen Kaffee, bitte.",
+          "ttsText": "Guten Tag. Einen Kaffee, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Здравствуйте. Один кофе, пожалуйста.",
+          "ttsText": "Здравствуйте. Один кофе, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "مرحبا. فنجان قهوة، من فضلك.",
+          "ttsText": "مرحبا. فنجان قهوة، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Marḥaban. Finjāna qahwatin, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人に話す場合は faḍliki になります。 この文で区切って読むときの休止形：Marḥaban → marḥabā、faḍlika → faḍlik。",
+              "en": "faḍlika addresses one man; use faḍliki when addressing one woman. Pausal forms at the sentence breaks here: Marḥaban → marḥabā; faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "您好，请给我一杯咖啡。",
+          "ttsText": "您好，请给我一杯咖啡。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín hǎo, qǐng gěi wǒ yī bēi kāfēi.",
+            "note": {
+              "ja": "この文では、発音時に qǐng gěi wǒ → qíng géi wǒ、yī bēi → yì bēi となります。 ここでは依頼部分をひとまとまりに発音する場合を示しています。間を置く位置によって第3声の変調のまとまりは変わります。",
+              "en": "In this sentence, the spoken forms are qǐng gěi wǒ → qíng géi wǒ; yī bēi → yì bēi. The request is read as one phrase here; pauses can change how the third-tone sequence is grouped."
+            }
+          }
+        },
+        "ko": {
+          "text": "안녕하세요. 커피 한 잔 주세요.",
+          "ttsText": "안녕하세요. 커피 한 잔 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "カフェで持ち帰る",
+        "en": "Takeaway at a café"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "店内でお召し上がりですか、お持ち帰りですか。",
+          "ttsText": "てんないでおめしあがりですか、おもちかえりですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "For here or to go?",
+          "ttsText": "For here or to go?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Para tomar aquí o para llevar?",
+          "ttsText": "¿Para tomar aquí o para llevar?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Sur place ou à emporter ?",
+          "ttsText": "Sur place ou à emporter ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Zum Hiertrinken oder zum Mitnehmen?",
+          "ttsText": "Zum Hiertrinken oder zum Mitnehmen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Здесь или с собой?",
+          "ttsText": "Здесь или с собой?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل ستشربها هنا أم ستأخذها معك؟",
+          "ttsText": "هل ستشربها هنا أم ستأخذها معك؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal satashrabuhā hunā ʾam sataʾkhudhuhā maʿaka?",
+            "note": {
+              "ja": "satashrabuhā / sataʾkhudhuhā / maʿaka は男性一人に話す形です。女性一人に話す場合は satashrabīnahā / sataʾkhudhīnahā / maʿaki になります。 この文で区切って読むときの休止形：maʿaka → maʿak。",
+              "en": "satashrabuhā / sataʾkhudhuhā / maʿaka addresses one man; use satashrabīnahā / sataʾkhudhīnahā / maʿaki when addressing one woman. Pausal forms at the sentence breaks here: maʿaka → maʿak."
+            }
+          }
+        },
+        "zh": {
+          "text": "在这里喝还是带走？",
+          "ttsText": "在这里喝还是带走？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài zhèli hē háishi dàizǒu?"
+          }
+        },
+        "ko": {
+          "text": "매장에서 드시나요, 포장해 드릴까요?",
+          "ttsText": "매장에서 드시나요, 포장해 드릴까요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "持ち帰りでお願いします。",
+          "ttsText": "もちかえりでおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "To go, please.",
+          "ttsText": "To go, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Para llevar, por favor.",
+          "ttsText": "Para llevar, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "À emporter, s'il vous plaît.",
+          "ttsText": "À emporter, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Zum Mitnehmen, bitte.",
+          "ttsText": "Zum Mitnehmen, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "С собой, пожалуйста.",
+          "ttsText": "С собой, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "سآخذها معي، من فضلك.",
+          "ttsText": "سآخذها معي، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Saʾākhudhuhā maʿī, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人に話す場合は faḍliki になります。 この文で区切って読むときの休止形：faḍlika → faḍlik。",
+              "en": "faḍlika addresses one man; use faḍliki when addressing one woman. Pausal forms at the sentence breaks here: faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "带走，谢谢。",
+          "ttsText": "带走，谢谢。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dàizǒu, xièxie."
+          }
+        },
+        "ko": {
+          "text": "포장해 주세요.",
+          "ttsText": "포장해 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "かしこまりました。少々お待ちください。",
+          "ttsText": "かしこまりました。しょうしょうおまちください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Certainly. One moment, please.",
+          "ttsText": "Certainly. One moment, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "De acuerdo. Un momento, por favor.",
+          "ttsText": "De acuerdo. Un momento, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Très bien. Un instant, s'il vous plaît.",
+          "ttsText": "Très bien. Un instant, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gern. Einen Moment, bitte.",
+          "ttsText": "Gern. Einen Moment, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Хорошо. Подождите немного, пожалуйста.",
+          "ttsText": "Хорошо. Подождите немного, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "حسنا. انتظر قليلا، من فضلك.",
+          "ttsText": "حسنا. انتظر قليلا، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥasanan. Intaẓir qalīlan, min faḍlika.",
+            "note": {
+              "ja": "Intaẓir / faḍlika は男性一人に話す形です。女性一人に話す場合は Intaẓirī / faḍliki になります。 この文で区切って読むときの休止形：Ḥasanan → ḥasanā、faḍlika → faḍlik。",
+              "en": "Intaẓir / faḍlika addresses one man; use Intaẓirī / faḍliki when addressing one woman. Pausal forms at the sentence breaks here: Ḥasanan → ḥasanā; faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "好的，请稍等。",
+          "ttsText": "好的，请稍等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hǎo de, qǐng shāo děng."
+          }
+        },
+        "ko": {
+          "text": "알겠습니다. 잠시만 기다려 주세요.",
+          "ttsText": "알겠습니다. 잠시만 기다려 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "二人ですが、席は空いていますか。",
+          "ttsText": "ふたりですが、せきはあいていますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Do you have a table for two?",
+          "ttsText": "Do you have a table for two?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Tiene una mesa para dos?",
+          "ttsText": "¿Tiene una mesa para dos?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Avez-vous une table pour deux ?",
+          "ttsText": "Avez-vous une table pour deux ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Haben Sie einen Tisch für zwei Personen?",
+          "ttsText": "Haben Sie einen Tisch für zwei Personen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "У вас есть столик на двоих?",
+          "ttsText": "У вас есть столик на двоих?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل توجد طاولة لشخصين؟",
+          "ttsText": "هل توجد طاولة لشخصين؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal tūjadu ṭāwilatun lishakhṣayni?",
+            "note": {
+              "ja": "この文末で区切るときは lishakhṣayni → lishakhṣayn となります。",
+              "en": "At the end of this sentence, the pausal form is lishakhṣayni → lishakhṣayn."
+            }
+          }
+        },
+        "zh": {
+          "text": "有两个人的位子吗？",
+          "ttsText": "有两个人的位子吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǒu liǎng ge rén de wèizi ma?",
+            "note": {
+              "ja": "この文では、発音時に Yǒu liǎng → Yóu liǎng となります。",
+              "en": "In this sentence, the spoken form is Yǒu liǎng → Yóu liǎng."
+            }
+          }
+        },
+        "ko": {
+          "text": "두 명인데 자리가 있나요?",
+          "ttsText": "두 명인데 자리가 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "飲食店に入ってメニューを見る",
+        "en": "Getting a table and looking at the menu"
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "はい、こちらへどうぞ。",
+          "ttsText": "はい、こちらへどうぞ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, right this way.",
+          "ttsText": "Yes, right this way.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, por aquí, por favor.",
+          "ttsText": "Sí, por aquí, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, par ici, s'il vous plaît.",
+          "ttsText": "Oui, par ici, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, hier entlang, bitte.",
+          "ttsText": "Ja, hier entlang, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, проходите сюда, пожалуйста.",
+          "ttsText": "Да, проходите сюда, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، تفضلا من هنا.",
+          "ttsText": "نعم، تفضلا من هنا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, tafaḍḍalā min hunā.",
+            "note": {
+              "ja": "tafaḍḍalā は直前の「二人」を受け、二人に呼びかけています。相手二人の性による形の違いはありません。",
+              "en": "tafaḍḍalā addresses the two guests from the previous sentence; the dual form is the same regardless of their gender."
+            }
+          }
+        },
+        "zh": {
+          "text": "有，这边请。",
+          "ttsText": "有，这边请。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǒu, zhèbiān qǐng."
+          }
+        },
+        "ko": {
+          "text": "네, 이쪽으로 오세요.",
+          "ttsText": "네, 이쪽으로 오세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "メニューを見せていただけますか。",
+          "ttsText": "めにゅーをみせていただけますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Could I see the menu, please?",
+          "ttsText": "Could I see the menu, please?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Me trae la carta, por favor?",
+          "ttsText": "¿Me trae la carta, por favor?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Pourrais-je voir le menu, s'il vous plaît ?",
+          "ttsText": "Pourrais-je voir le menu, s'il vous plaît ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Könnte ich bitte die Speisekarte sehen?",
+          "ttsText": "Könnte ich bitte die Speisekarte sehen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Можно посмотреть меню?",
+          "ttsText": "Можно посмотреть меню?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكنني رؤية قائمة الطعام؟",
+          "ttsText": "هل يمكنني رؤية قائمة الطعام؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinunī ruʾyatu qāʾimati aṭ-ṭaʿāmi?",
+            "note": {
+              "ja": "qāʾimati aṭ-ṭaʿāmi は連読で qāʾimati ṭ-ṭaʿāmi とつながります。 この文末で区切るときは aṭ-ṭaʿāmi → aṭ-ṭaʿām となります。",
+              "en": "In connected speech, qāʾimati aṭ-ṭaʿāmi is linked as qāʾimati ṭ-ṭaʿāmi. At the end of this sentence, the pausal form is aṭ-ṭaʿāmi → aṭ-ṭaʿām."
+            }
+          }
+        },
+        "zh": {
+          "text": "麻烦给我一份菜单。",
+          "ttsText": "麻烦给我一份菜单。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Máfan gěi wǒ yī fèn càidān.",
+            "note": {
+              "ja": "この文では、発音時に gěi wǒ / yī fèn → géi wǒ / yí fèn となります。",
+              "en": "In this sentence, the spoken form is gěi wǒ / yī fèn → géi wǒ / yí fèn."
+            }
+          }
+        },
+        "ko": {
+          "text": "메뉴 좀 볼 수 있을까요?",
+          "ttsText": "메뉴 좀 볼 수 있을까요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "おすすめは何ですか。",
+          "ttsText": "おすすめはなんですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "What would you recommend?",
+          "ttsText": "What would you recommend?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Qué me recomienda?",
+          "ttsText": "¿Qué me recomienda?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Qu'est-ce que vous me conseillez ?",
+          "ttsText": "Qu'est-ce que vous me conseillez ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Was empfehlen Sie?",
+          "ttsText": "Was empfehlen Sie?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Что вы порекомендуете?",
+          "ttsText": "Что вы порекомендуете?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "بماذا تنصحني؟",
+          "ttsText": "بماذا تنصحني؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Bimādhā tanṣaḥunī?",
+            "note": {
+              "ja": "tanṣaḥunī は男性一人に話す形です。女性一人には tanṣaḥīnanī を使います。",
+              "en": "tanṣaḥunī addresses one man; use tanṣaḥīnanī for one woman."
+            }
+          }
+        },
+        "zh": {
+          "text": "您有什么推荐的？",
+          "ttsText": "您有什么推荐的？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nín yǒu shénme tuījiàn de?"
+          }
+        },
+        "ko": {
+          "text": "뭘 추천하시나요?",
+          "ttsText": "뭘 추천하시나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u019",
+      "languages": {
+        "ja": {
+          "text": "この料理は辛いですか。",
+          "ttsText": "このりょうりはからいですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Is this dish spicy?",
+          "ttsText": "Is this dish spicy?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Este plato es picante?",
+          "ttsText": "¿Este plato es picante?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que ce plat est épicé ?",
+          "ttsText": "Est-ce que ce plat est épicé ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ist dieses Gericht scharf?",
+          "ttsText": "Ist dieses Gericht scharf?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Это блюдо острое?",
+          "ttsText": "Это блюдо острое?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل هذا الطبق حار؟",
+          "ttsText": "هل هذا الطبق حار؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal hādhā aṭ-ṭabaqu ḥārrun?",
+            "note": {
+              "ja": "hādhā aṭ-ṭabaqu は連読で hādhā ṭ-ṭabaqu とつながります。 この文末で区切るときは ḥārrun → ḥārr となります。",
+              "en": "In connected speech, hādhā aṭ-ṭabaqu is linked as hādhā ṭ-ṭabaqu. At the end of this sentence, the pausal form is ḥārrun → ḥārr."
+            }
+          }
+        },
+        "zh": {
+          "text": "这道菜辣吗？",
+          "ttsText": "这道菜辣吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè dào cài là ma?"
+          }
+        },
+        "ko": {
+          "text": "이 음식은 매운가요?",
+          "ttsText": "이 음식은 매운가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "料理の辛さを相談する",
+        "en": "Asking about spicy food"
+      }
+    },
+    {
+      "id": "u020",
+      "languages": {
+        "ja": {
+          "text": "少し辛いですが、辛さは調整できます。",
+          "ttsText": "すこしからいですが、からさはちょうせいできます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "It's a little spicy, but we can adjust the spice level.",
+          "ttsText": "It's a little spicy, but we can adjust the spice level.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Es un poco picante, pero podemos ajustar la cantidad de picante.",
+          "ttsText": "Es un poco picante, pero podemos ajustar la cantidad de picante.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Il est un peu épicé, mais on peut ajuster la quantité de piment.",
+          "ttsText": "Il est un peu épicé, mais on peut ajuster la quantité de piment.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Es ist etwas scharf, aber wir können die Schärfe anpassen.",
+          "ttsText": "Es ist etwas scharf, aber wir können die Schärfe anpassen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Немного острое, но мы можем сделать его менее острым.",
+          "ttsText": "Немного острое, но мы можем сделать его менее острым.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هو حار قليلا، لكن يمكننا تقليل كمية الفلفل.",
+          "ttsText": "هو حار قليلا، لكن يمكننا تقليل كمية الفلفل.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Huwa ḥārrun qalīlan, lākin yumkinunā taqlīlu kammiyyati al-filfili.",
+            "note": {
+              "ja": "kammiyyati al-filfili は連読で kammiyyati l-filfili とつながります。 この文末で区切るときは al-filfili → al-filfil となります。",
+              "en": "In connected speech, kammiyyati al-filfili is linked as kammiyyati l-filfili. At the end of this sentence, the pausal form is al-filfili → al-filfil."
+            }
+          }
+        },
+        "zh": {
+          "text": "有一点辣，不过辣度可以调整。",
+          "ttsText": "有一点辣，不过辣度可以调整。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǒu yīdiǎn là, bùguò làdù kěyǐ tiáozhěng.",
+            "note": {
+              "ja": "この文では、発音時に yīdiǎn / bùguò / kěyǐ → yìdiǎn / búguò / kéyǐ となります。",
+              "en": "In this sentence, the spoken form is yīdiǎn / bùguò / kěyǐ → yìdiǎn / búguò / kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "조금 맵지만 맵기는 조절할 수 있어요.",
+          "ttsText": "조금 맵지만 맵기는 조절할 수 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u021",
+      "languages": {
+        "ja": {
+          "text": "辛くしないでください。",
+          "ttsText": "からくしないでください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Please make it without any chilli.",
+          "ttsText": "Please make it without any chilli.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sin picante, por favor.",
+          "ttsText": "Sin picante, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Sans piment, s'il vous plaît.",
+          "ttsText": "Sans piment, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Bitte ohne Chili.",
+          "ttsText": "Bitte ohne Chili.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Пожалуйста, сделайте неострым.",
+          "ttsText": "Пожалуйста, сделайте неострым.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "من فضلك، لا تضف الفلفل الحار.",
+          "ttsText": "من فضلك، لا تضف الفلفل الحار.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Min faḍlika, lā tuḍif al-filfila al-ḥārra.",
+            "note": {
+              "ja": "faḍlika / tuḍif は男性一人に話す形です。女性一人には faḍliki / tuḍīfī を使います。 tuḍif al-filfila al-ḥārra は連読で tuḍifi l-filfila l-ḥārra とつながります。 この文末で区切るときは al-ḥārra → al-ḥārr となります。",
+              "en": "faḍlika / tuḍif addresses one man; use faḍliki / tuḍīfī for one woman. In connected speech, tuḍif al-filfila al-ḥārra is linked as tuḍifi l-filfila l-ḥārra. At the end of this sentence, the pausal form is al-ḥārra → al-ḥārr."
+            }
+          }
+        },
+        "zh": {
+          "text": "请不要放辣椒。",
+          "ttsText": "请不要放辣椒。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng bù yào fàng làjiāo.",
+            "note": {
+              "ja": "この文では、発音時に bù yào → bú yào となります。",
+              "en": "In this sentence, the spoken form is bù yào → bú yào."
+            }
+          }
+        },
+        "ko": {
+          "text": "맵지 않게 해 주세요.",
+          "ttsText": "맵지 않게 해 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "このラテは豆乳に変更できますか。",
+          "ttsText": "このらてはとうにゅうにへんこうできますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Can I have this latte with soy milk instead?",
+          "ttsText": "Can I have this latte with soy milk instead?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Se puede preparar este café con leche de soja?",
+          "ttsText": "¿Se puede preparar este café con leche de soja?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que ce latte peut être préparé avec du lait de soja ?",
+          "ttsText": "Est-ce que ce latte peut être préparé avec du lait de soja ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Kann ich diesen Latte mit Sojamilch bekommen?",
+          "ttsText": "Kann ich diesen Latte mit Sojamilch bekommen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Можно приготовить этот латте на соевом молоке?",
+          "ttsText": "Можно приготовить этот латте на соевом молоке?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكن استبدال الحليب في هذه القهوة بحليب الصويا؟",
+          "ttsText": "هل يمكن استبدال الحليب في هذه القهوة بحليب الصويا؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinu istibdālu al-ḥalībi fī hādhihi al-qahwati biḥalībi aṣ-ṣūyā?",
+            "note": {
+              "ja": "biḥalībi aṣ-ṣūyā は連読すると biḥalībi ṣ-ṣūyā とつながります。",
+              "en": "In connected speech, biḥalībi aṣ-ṣūyā is linked as biḥalībi ṣ-ṣūyā."
+            }
+          }
+        },
+        "zh": {
+          "text": "这杯拿铁可以换成豆奶吗？",
+          "ttsText": "这杯拿铁可以换成豆奶吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè bēi nátiě kěyǐ huànchéng dòunǎi ma?",
+            "note": {
+              "ja": "この文では、発音時に nátiě kěyǐ → nátiě kéyǐ となります。",
+              "en": "In this sentence, the spoken forms are nátiě kěyǐ → nátiě kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "이 라테는 두유로 바꿀 수 있나요?",
+          "ttsText": "이 라테는 두유로 바꿀 수 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "飲み物のミルクを変更する",
+        "en": "Changing the milk in a drink"
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "はい、できます。追加料金がかかります。",
+          "ttsText": "はい、できます。ついかりょうきんがかかります。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, we can. There is an extra charge.",
+          "ttsText": "Yes, we can. There is an extra charge.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, se puede. Tiene un suplemento.",
+          "ttsText": "Sí, se puede. Tiene un suplemento.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, c'est possible. Il y a un supplément.",
+          "ttsText": "Oui, c'est possible. Il y a un supplément.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, das geht. Es kostet einen Aufpreis.",
+          "ttsText": "Ja, das geht. Es kostet einen Aufpreis.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, можно. За это будет доплата.",
+          "ttsText": "Да, можно. За это будет доплата.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، يمكن ذلك مقابل رسوم إضافية.",
+          "ttsText": "نعم، يمكن ذلك مقابل رسوم إضافية.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, yumkinu dhālika muqābila rusūmin ʾiḍāfiyyatin.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：ʾiḍāfiyyatin → ʾiḍāfiyyah。",
+              "en": "Pausal forms at the sentence breaks here: ʾiḍāfiyyatin → ʾiḍāfiyyah."
+            }
+          }
+        },
+        "zh": {
+          "text": "可以，不过需要加钱。",
+          "ttsText": "可以，不过需要加钱。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Kěyǐ, bùguò xūyào jiā qián.",
+            "note": {
+              "ja": "この文では、発音時に Kěyǐ → Kéyǐ、bùguò → búguò となります。",
+              "en": "In this sentence, the spoken forms are Kěyǐ → Kéyǐ; bùguò → búguò."
+            }
+          }
+        },
+        "ko": {
+          "text": "네, 가능합니다. 추가 요금이 있어요.",
+          "ttsText": "네, 가능합니다. 추가 요금이 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "それでお願いします。",
+          "ttsText": "それでおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "That's fine. I'll have it that way, please.",
+          "ttsText": "That's fine. I'll have it that way, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Está bien. Así, por favor.",
+          "ttsText": "Está bien. Así, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "D'accord, je le prends comme ça.",
+          "ttsText": "D'accord, je le prends comme ça.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Das ist in Ordnung. Dann bitte so.",
+          "ttsText": "Das ist in Ordnung. Dann bitte so.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Хорошо, тогда так, пожалуйста.",
+          "ttsText": "Хорошо, тогда так, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لا بأس، أريده هكذا، من فضلك.",
+          "ttsText": "لا بأس، أريده هكذا، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā baʾsa, ʾurīduhu hākadhā, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人に話す場合は faḍliki になります。 この文で区切って読むときの休止形：faḍlika → faḍlik。",
+              "en": "faḍlika addresses one man; use faḍliki when addressing one woman. Pausal forms at the sentence breaks here: faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "没问题，那就这样吧。",
+          "ttsText": "没问题，那就这样吧。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Méi wèntí, nà jiù zhèyàng ba."
+          }
+        },
+        "ko": {
+          "text": "괜찮아요. 그렇게 해 주세요.",
+          "ttsText": "괜찮아요. 그렇게 해 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "ほかにご注文はありますか。",
+          "ttsText": "ほかにごちゅうもんはありますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Would you like anything else?",
+          "ttsText": "Would you like anything else?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Desea algo más?",
+          "ttsText": "¿Desea algo más?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Vous désirez autre chose ?",
+          "ttsText": "Vous désirez autre chose ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Möchten Sie sonst noch etwas?",
+          "ttsText": "Möchten Sie sonst noch etwas?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Что-нибудь ещё желаете?",
+          "ttsText": "Что-нибудь ещё желаете?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل تريد شيئا آخر؟",
+          "ttsText": "هل تريد شيئا آخر؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal turīdu shayʾan ʾākhara?",
+            "note": {
+              "ja": "turīdu は男性一人に話す形です。女性一人に話す場合は turīdīna になります。 この文で区切って読むときの休止形：ʾākhara → ʾākhar。",
+              "en": "turīdu addresses one man; use turīdīna when addressing one woman. Pausal forms at the sentence breaks here: ʾākhara → ʾākhar."
+            }
+          }
+        },
+        "zh": {
+          "text": "还需要别的吗？",
+          "ttsText": "还需要别的吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hái xūyào bié de ma?"
+          }
+        },
+        "ko": {
+          "text": "더 주문하실 것이 있나요?",
+          "ttsText": "더 주문하실 것이 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "追加で注文する",
+        "en": "Adding to an order"
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "このケーキも一つお願いします。",
+          "ttsText": "このけーきもひとつおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "A slice of this cake too, please.",
+          "ttsText": "A slice of this cake too, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Una porción de esta tarta también, por favor.",
+          "ttsText": "Una porción de esta tarta también, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Une part de ce gâteau aussi, s'il vous plaît.",
+          "ttsText": "Une part de ce gâteau aussi, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ein Stück von diesem Kuchen auch, bitte.",
+          "ttsText": "Ein Stück von diesem Kuchen auch, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "И ещё один кусок этого торта, пожалуйста.",
+          "ttsText": "И ещё один кусок этого торта, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "وقطعة من هذه الكعكة أيضا، من فضلك.",
+          "ttsText": "وقطعة من هذه الكعكة أيضا، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa qiṭʿatan min hādhihi al-kaʿkati ʾayḍan, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人に話す場合は faḍliki になります。 この文で区切って読むときの休止形：faḍlika → faḍlik。 hādhihi al-kaʿkati は連読すると hādhihi l-kaʿkati とつながります。",
+              "en": "faḍlika addresses one man; use faḍliki when addressing one woman. Pausal forms at the sentence breaks here: faḍlika → faḍlik. In connected speech, hādhihi al-kaʿkati is linked as hādhihi l-kaʿkati."
+            }
+          }
+        },
+        "zh": {
+          "text": "还要一块这个蛋糕，谢谢。",
+          "ttsText": "还要一块这个蛋糕，谢谢。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hái yào yī kuài zhège dàngāo, xièxie.",
+            "note": {
+              "ja": "この文では、発音時に yī kuài → yí kuài となります。",
+              "en": "In this sentence, the spoken forms are yī kuài → yí kuài."
+            }
+          }
+        },
+        "ko": {
+          "text": "이 케이크도 한 조각 주세요.",
+          "ttsText": "이 케이크도 한 조각 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "ケーキもお持ち帰りですか。",
+          "ttsText": "けーきもおもちかえりですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Is the cake to go as well?",
+          "ttsText": "Is the cake to go as well?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿La tarta también es para llevar?",
+          "ttsText": "¿La tarta también es para llevar?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Le gâteau est aussi à emporter ?",
+          "ttsText": "Le gâteau est aussi à emporter ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Den Kuchen auch zum Mitnehmen?",
+          "ttsText": "Den Kuchen auch zum Mitnehmen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Торт тоже с собой?",
+          "ttsText": "Торт тоже с собой?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل ستأخذ الكعكة معك أيضا؟",
+          "ttsText": "هل ستأخذ الكعكة معك أيضا؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal sataʾkhudhu al-kaʿkata maʿaka ʾayḍan?",
+            "note": {
+              "ja": "sataʾkhudhu / maʿaka は男性一人に話す形です。女性一人に話す場合は sataʾkhudhīna / maʿaki になります。 この文で区切って読むときの休止形：ʾayḍan → ʾayḍā。 sataʾkhudhu al-kaʿkata は連読すると sataʾkhudhu l-kaʿkata とつながります。",
+              "en": "sataʾkhudhu / maʿaka addresses one man; use sataʾkhudhīna / maʿaki when addressing one woman. Pausal forms at the sentence breaks here: ʾayḍan → ʾayḍā. In connected speech, sataʾkhudhu al-kaʿkata is linked as sataʾkhudhu l-kaʿkata."
+            }
+          }
+        },
+        "zh": {
+          "text": "蛋糕也带走吗？",
+          "ttsText": "蛋糕也带走吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dàngāo yě dàizǒu ma?"
+          }
+        },
+        "ko": {
+          "text": "케이크도 포장해 드릴까요?",
+          "ttsText": "케이크도 포장해 드릴까요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "はい、お願いします。",
+          "ttsText": "はい、おねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, please.",
+          "ttsText": "Yes, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, por favor.",
+          "ttsText": "Sí, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, s'il vous plaît.",
+          "ttsText": "Oui, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, bitte.",
+          "ttsText": "Ja, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, пожалуйста.",
+          "ttsText": "Да, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، من فضلك.",
+          "ttsText": "نعم، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人に話す場合は faḍliki になります。 この文で区切って読むときの休止形：faḍlika → faḍlik。",
+              "en": "faḍlika addresses one man; use faḍliki when addressing one woman. Pausal forms at the sentence breaks here: faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "对，谢谢。",
+          "ttsText": "对，谢谢。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Duì, xièxie."
+          }
+        },
+        "ko": {
+          "text": "네, 부탁드려요.",
+          "ttsText": "네, 부탁드려요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "かしこまりました。箱にお入れします。",
+          "ttsText": "かしこまりました。はこにおいれします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Certainly. I'll put it in a box.",
+          "ttsText": "Certainly. I'll put it in a box.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "De acuerdo. La pondré en una caja.",
+          "ttsText": "De acuerdo. La pondré en una caja.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Très bien. Je vais le mettre dans une boîte.",
+          "ttsText": "Très bien. Je vais le mettre dans une boîte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gern. Ich packe ihn in eine Schachtel.",
+          "ttsText": "Gern. Ich packe ihn in eine Schachtel.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Хорошо. Я положу его в коробку.",
+          "ttsText": "Хорошо. Я положу его в коробку.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "حسنا، سأضعها في علبة.",
+          "ttsText": "حسنا، سأضعها في علبة.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥasanan, saʾaḍaʿuhā fī ʿulbatin.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：ʿulbatin → ʿulbah。",
+              "en": "Pausal forms at the sentence breaks here: ʿulbatin → ʿulbah."
+            }
+          }
+        },
+        "zh": {
+          "text": "好的，我帮您装进盒子里。",
+          "ttsText": "好的，我帮您装进盒子里。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hǎo de, wǒ bāng nín zhuāng jìn hézi lǐ."
+          }
+        },
+        "ko": {
+          "text": "알겠습니다. 상자에 담아 드릴게요.",
+          "ttsText": "알겠습니다. 상자에 담아 드릴게요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u022",
+      "languages": {
+        "ja": {
+          "text": "すみません、注文した料理がまだ来ていません。",
+          "ttsText": "すみません、ちゅうもんしたりょうりがまだきていません。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Excuse me, my food hasn't arrived yet.",
+          "ttsText": "Excuse me, my food hasn't arrived yet.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Disculpe, todavía no ha llegado la comida que pedí.",
+          "ttsText": "Disculpe, todavía no ha llegado la comida que pedí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Excusez-moi, mon plat n'est pas encore arrivé.",
+          "ttsText": "Excusez-moi, mon plat n'est pas encore arrivé.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Entschuldigung, mein bestelltes Essen ist noch nicht gekommen.",
+          "ttsText": "Entschuldigung, mein bestelltes Essen ist noch nicht gekommen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините, мне ещё не принесли заказанное блюдо.",
+          "ttsText": "Извините, мне ещё не принесли заказанное блюдо.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا، لم يصل الطعام الذي طلبته بعد.",
+          "ttsText": "عفوا، لم يصل الطعام الذي طلبته بعد.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan, lam yaṣil aṭ-ṭaʿāmu alladhī ṭalabtuhu baʿdu.",
+            "note": {
+              "ja": "yaṣil aṭ-ṭaʿāmu alladhī は連読で yaṣili ṭ-ṭaʿāmu lladhī とつながります。 この文末で区切るときは baʿdu → baʿd となります。",
+              "en": "In connected speech, yaṣil aṭ-ṭaʿāmu alladhī is linked as yaṣili ṭ-ṭaʿāmu lladhī. At the end of this sentence, the pausal form is baʿdu → baʿd."
+            }
+          }
+        },
+        "zh": {
+          "text": "不好意思，我点的菜还没上。",
+          "ttsText": "不好意思，我点的菜还没上。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù hǎoyìsi, wǒ diǎn de cài hái méi shàng.",
+            "note": {
+              "ja": "この文では、発音時に wǒ diǎn → wó diǎn となります。",
+              "en": "In this sentence, the spoken form is wǒ diǎn → wó diǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "죄송하지만 주문한 음식이 아직 안 나왔어요.",
+          "ttsText": "죄송하지만 주문한 음식이 아직 안 나왔어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "料理がまだ来ないとき",
+        "en": "When your food has not arrived"
+      }
+    },
+    {
+      "id": "u023",
+      "languages": {
+        "ja": {
+          "text": "確認してまいります。",
+          "ttsText": "かくにんしてまいります。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I'll go and check.",
+          "ttsText": "I'll go and check.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Voy a comprobarlo.",
+          "ttsText": "Voy a comprobarlo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je vais vérifier.",
+          "ttsText": "Je vais vérifier.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich frage nach.",
+          "ttsText": "Ich frage nach.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Сейчас проверю.",
+          "ttsText": "Сейчас проверю.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "سأذهب للتحقق.",
+          "ttsText": "سأذهب للتحقق.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Saʾadhhabu lit-taḥaqquqi.",
+            "note": {
+              "ja": "この文末で区切るときは lit-taḥaqquqi → lit-taḥaqquq となります。",
+              "en": "At the end of this sentence, the pausal form is lit-taḥaqquqi → lit-taḥaqquq."
+            }
+          }
+        },
+        "zh": {
+          "text": "我去确认一下。",
+          "ttsText": "我去确认一下。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ qù quèrèn yīxià.",
+            "note": {
+              "ja": "この文では、発音時に yīxià → yíxià となります。",
+              "en": "In this sentence, the spoken form is yīxià → yíxià."
+            }
+          }
+        },
+        "ko": {
+          "text": "확인해 볼게요.",
+          "ttsText": "확인해 볼게요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u024",
+      "languages": {
+        "ja": {
+          "text": "お会計をお願いします。",
+          "ttsText": "おかいけいをおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Could we have the bill, please?",
+          "ttsText": "Could we have the bill, please?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "La cuenta, por favor.",
+          "ttsText": "La cuenta, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "L'addition, s'il vous plaît.",
+          "ttsText": "L'addition, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Die Rechnung, bitte.",
+          "ttsText": "Die Rechnung, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Счёт, пожалуйста.",
+          "ttsText": "Счёт, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "الحساب، من فضلك.",
+          "ttsText": "الحساب، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥisāba, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人には faḍliki を使います。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "faḍlika addresses one man; use faḍliki for one woman. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "麻烦结账。",
+          "ttsText": "麻烦结账。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Máfan jiézhàng."
+          }
+        },
+        "ko": {
+          "text": "계산해 주세요.",
+          "ttsText": "계산해 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "会計を頼む・別々に払う",
+        "en": "Asking for the bill and splitting it"
+      }
+    },
+    {
+      "id": "u025",
+      "languages": {
+        "ja": {
+          "text": "お会計はご一緒ですか、別々ですか。",
+          "ttsText": "おかいけいはごいっしょですか、べつべつですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Are you paying together or separately?",
+          "ttsText": "Are you paying together or separately?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Pagan juntos o por separado?",
+          "ttsText": "¿Pagan juntos o por separado?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Vous payez ensemble ou séparément ?",
+          "ttsText": "Vous payez ensemble ou séparément ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Zahlen Sie zusammen oder getrennt?",
+          "ttsText": "Zahlen Sie zusammen oder getrennt?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Вы платите вместе или отдельно?",
+          "ttsText": "Вы платите вместе или отдельно?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل ستدفعون معا أم كل شخص على حدة؟",
+          "ttsText": "هل ستدفعون معا أم كل شخص على حدة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal satadfaʿūna maʿan ʾam kullu shakhṣin ʿalā ḥidatin?",
+            "note": {
+              "ja": "satadfaʿūna は男性を含む複数の客に話す形です。女性だけの複数には satadfaʿna、二人には satadfaʿāni を使います。 この文末で区切るときは ḥidatin → ḥidah となります。",
+              "en": "satadfaʿūna addresses a group including men; use satadfaʿna for an all-female group and satadfaʿāni for two people. At the end of this sentence, the pausal form is ḥidatin → ḥidah."
+            }
+          }
+        },
+        "zh": {
+          "text": "一起结账还是分开结账？",
+          "ttsText": "一起结账还是分开结账？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīqǐ jiézhàng háishi fēnkāi jiézhàng?",
+            "note": {
+              "ja": "この文では、発音時に Yīqǐ → Yìqǐ となります。",
+              "en": "In this sentence, the spoken form is Yīqǐ → Yìqǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "같이 계산하시나요, 따로 계산하시나요?",
+          "ttsText": "같이 계산하시나요, 따로 계산하시나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u026",
+      "languages": {
+        "ja": {
+          "text": "別々でお願いします。",
+          "ttsText": "べつべつでおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Separately, please.",
+          "ttsText": "Separately, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Por separado, por favor.",
+          "ttsText": "Por separado, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Séparément, s'il vous plaît.",
+          "ttsText": "Séparément, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Getrennt, bitte.",
+          "ttsText": "Getrennt, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Отдельно, пожалуйста.",
+          "ttsText": "Отдельно, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كل شخص على حدة، من فضلك.",
+          "ttsText": "كل شخص على حدة، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kullu shakhṣin ʿalā ḥidatin, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人には faḍliki を使います。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "faḍlika addresses one man; use faḍliki for one woman. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "分开结账，谢谢。",
+          "ttsText": "分开结账，谢谢。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Fēnkāi jiézhàng, xièxie."
+          }
+        },
+        "ko": {
+          "text": "따로 계산해 주세요.",
+          "ttsText": "따로 계산해 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "カードで払えますか。",
+          "ttsText": "かーどではらえますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Can I pay by card?",
+          "ttsText": "Can I pay by card?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Puedo pagar con tarjeta?",
+          "ttsText": "¿Puedo pagar con tarjeta?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que je peux payer par carte ?",
+          "ttsText": "Est-ce que je peux payer par carte ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Kann ich mit Karte bezahlen?",
+          "ttsText": "Kann ich mit Karte bezahlen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Можно оплатить картой?",
+          "ttsText": "Можно оплатить картой?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكنني الدفع بالبطاقة؟",
+          "ttsText": "هل يمكنني الدفع بالبطاقة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinunī ad-dafʿu bil-biṭāqati?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：bil-biṭāqati → bil-biṭāqah。 yumkinunī ad-dafʿu は連読すると yumkinunī d-dafʿu とつながります。",
+              "en": "Pausal forms at the sentence breaks here: bil-biṭāqati → bil-biṭāqah. In connected speech, yumkinunī ad-dafʿu is linked as yumkinunī d-dafʿu."
+            }
+          }
+        },
+        "zh": {
+          "text": "可以刷卡吗？",
+          "ttsText": "可以刷卡吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Kěyǐ shuākǎ ma?",
+            "note": {
+              "ja": "この文では、発音時に Kěyǐ → Kéyǐ となります。",
+              "en": "In this sentence, the spoken forms are Kěyǐ → Kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "카드로 결제할 수 있나요?",
+          "ttsText": "카드로 결제할 수 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "カードで払う",
+        "en": "Paying by card"
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "はい。こちらにカードをかざしてください。",
+          "ttsText": "はい。こちらにかーどをかざしてください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes. Please tap your card here.",
+          "ttsText": "Yes. Please tap your card here.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí. Acerque la tarjeta aquí, por favor.",
+          "ttsText": "Sí. Acerque la tarjeta aquí, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui. Posez votre carte ici, s'il vous plaît.",
+          "ttsText": "Oui. Posez votre carte ici, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja. Halten Sie Ihre Karte bitte hier an das Lesegerät.",
+          "ttsText": "Ja. Halten Sie Ihre Karte bitte hier an das Lesegerät.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да. Приложите карту сюда, пожалуйста.",
+          "ttsText": "Да. Приложите карту сюда, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم. قرب بطاقتك من القارئ هنا، من فضلك.",
+          "ttsText": "نعم. قرب بطاقتك من القارئ هنا، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam. Qarrib biṭāqataka mina al-qāriʾi hunā, min faḍlika.",
+            "note": {
+              "ja": "Qarrib / biṭāqataka / faḍlika は男性一人に話す形です。女性一人に話す場合は Qarribī / biṭāqataki / faḍliki になります。 この文で区切って読むときの休止形：faḍlika → faḍlik。 mina al-qāriʾi は連読すると mina l-qāriʾi とつながります。",
+              "en": "Qarrib / biṭāqataka / faḍlika addresses one man; use Qarribī / biṭāqataki / faḍliki when addressing one woman. Pausal forms at the sentence breaks here: faḍlika → faḍlik. In connected speech, mina al-qāriʾi is linked as mina l-qāriʾi."
+            }
+          }
+        },
+        "zh": {
+          "text": "可以，请把卡放在这里感应一下。",
+          "ttsText": "可以，请把卡放在这里感应一下。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Kěyǐ, qǐng bǎ kǎ fàng zài zhèli gǎnyìng yīxià.",
+            "note": {
+              "ja": "この文では、発音時に Kěyǐ → Kéyǐ、qǐng bǎ kǎ → qíng bá kǎ、yīxià → yíxià となります。 ここでは依頼部分をひとまとまりに発音する場合を示しています。間を置く位置によって第3声の変調のまとまりは変わります。",
+              "en": "In this sentence, the spoken forms are Kěyǐ → Kéyǐ; qǐng bǎ kǎ → qíng bá kǎ; yīxià → yíxià. The request is read as one phrase here; pauses can change how the third-tone sequence is grouped."
+            }
+          }
+        },
+        "ko": {
+          "text": "네. 여기에 카드를 대 주세요.",
+          "ttsText": "네. 여기에 카드를 대 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u027",
+      "languages": {
+        "ja": {
+          "text": "領収書をいただけますか。",
+          "ttsText": "りょうしゅうしょをいただけますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Could I have a receipt, please?",
+          "ttsText": "Could I have a receipt, please?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Me puede dar un recibo?",
+          "ttsText": "¿Me puede dar un recibo?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Pourrais-je avoir un reçu, s'il vous plaît ?",
+          "ttsText": "Pourrais-je avoir un reçu, s'il vous plaît ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Könnte ich bitte eine Quittung bekommen?",
+          "ttsText": "Könnte ich bitte eine Quittung bekommen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Можно получить чек?",
+          "ttsText": "Можно получить чек?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يمكنني الحصول على إيصال؟",
+          "ttsText": "هل يمكنني الحصول على إيصال؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yumkinunī al-ḥuṣūlu ʿalā ʾīṣālin?",
+            "note": {
+              "ja": "yumkinunī al-ḥuṣūlu は連読で yumkinunī l-ḥuṣūlu とつながります。 この文末で区切るときは ʾīṣālin → ʾīṣāl となります。",
+              "en": "In connected speech, yumkinunī al-ḥuṣūlu is linked as yumkinunī l-ḥuṣūlu. At the end of this sentence, the pausal form is ʾīṣālin → ʾīṣāl."
+            }
+          }
+        },
+        "zh": {
+          "text": "麻烦给我收据。",
+          "ttsText": "麻烦给我收据。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Máfan gěi wǒ shōujù.",
+            "note": {
+              "ja": "この文では、発音時に gěi wǒ → géi wǒ となります。",
+              "en": "In this sentence, the spoken form is gěi wǒ → géi wǒ."
+            }
+          }
+        },
+        "ko": {
+          "text": "영수증을 받을 수 있을까요?",
+          "ttsText": "영수증을 받을 수 있을까요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "領収書を頼む・お礼を伝える",
+        "en": "Asking for a receipt and saying thanks"
+      }
+    },
+    {
+      "id": "u028",
+      "languages": {
+        "ja": {
+          "text": "ごちそうさまでした。おいしかったです。",
+          "ttsText": "ごちそうさまでした。おいしかったです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Thank you for the meal. It was delicious.",
+          "ttsText": "Thank you for the meal. It was delicious.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Gracias por la comida. Estaba deliciosa.",
+          "ttsText": "Gracias por la comida. Estaba deliciosa.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Merci pour ce repas, c'était délicieux.",
+          "ttsText": "Merci pour ce repas, c'était délicieux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Vielen Dank für das Essen. Es hat sehr gut geschmeckt.",
+          "ttsText": "Vielen Dank für das Essen. Es hat sehr gut geschmeckt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Спасибо за еду. Было очень вкусно.",
+          "ttsText": "Спасибо за еду. Было очень вкусно.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "شكرا على الطعام، كان لذيذا.",
+          "ttsText": "شكرا على الطعام، كان لذيذا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Shukran ʿalā aṭ-ṭaʿāmi, kāna ladhīdhan.",
+            "note": {
+              "ja": "ʿalā aṭ-ṭaʿāmi は連読で ʿalā ṭ-ṭaʿāmi とつながります。 この文末で区切るときは ladhīdhan → ladhīdhā となります。",
+              "en": "In connected speech, ʿalā aṭ-ṭaʿāmi is linked as ʿalā ṭ-ṭaʿāmi. At the end of this sentence, the pausal form is ladhīdhan → ladhīdhā."
+            }
+          }
+        },
+        "zh": {
+          "text": "谢谢，饭菜很好吃。",
+          "ttsText": "谢谢，饭菜很好吃。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xièxie, fàncài hěn hǎochī.",
+            "note": {
+              "ja": "この文では、発音時に hěn hǎochī → hén hǎochī となります。",
+              "en": "In this sentence, the spoken form is hěn hǎochī → hén hǎochī."
+            }
+          }
+        },
+        "ko": {
+          "text": "잘 먹었습니다. 맛있었어요.",
+          "ttsText": "잘 먹었습니다. 맛있었어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    }
+  ]
+}

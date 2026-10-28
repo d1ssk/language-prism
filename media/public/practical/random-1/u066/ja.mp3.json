@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e5b587f91f7a89689e6c76ce15cdaa2d9d80a285046f120a4d638958caaa57eb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いそがしいまいにちのなかでも、ひとりでしずかにかんがえるじかんはたいせつにしたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b4afe97e26651f48081fa98aae653f92f8cf8f9115e19246a0dca2adb9f943b3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:53:07.428761+00:00"
+}

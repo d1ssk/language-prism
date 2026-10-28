@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bf578c40d2763b1535fa391eb00dab1cb2bfe5e0abccc53910f78d0c5f69be83",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "والأخيرة أن أجري في كل موضع إحصاءات كاملة ومراجعات شاملة إلى حد يضمن لي أنني لم أغفل شيئًا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b9a96bc9aaf2d36e201d88441506c4df091817176077a3a428e62c90cceef31",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:32:08.180315+00:00"
+}

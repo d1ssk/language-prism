@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5f5e3e4786afa5408ccf82273416ec5e008a92a9875e0092b1a7d31126172d4d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그는 거인 모르간테를 크게 칭찬했다. 거인들은 모두 오만하고 무례하지만 그만은 상냥하고 예의 바른 사람이었기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "04e291d83974c0cea4ef57eb39392387b113748294835c063d69e4f54cdec6e3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:05:41.888123+00:00"
+}

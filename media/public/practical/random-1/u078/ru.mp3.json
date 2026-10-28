@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cec499be4862bbd324750b06d0a15e02bc5a4923d74c6c495ca94d88578c14ce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Думаю, уже само по себе ценно уделять время размышлениям над вопросами, на которые нет простых ответов.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fe40fd140f99e553782a0ed2f2dff49aa98b37638f85687c6828eafbdab9f0b3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:02:55.644700+00:00"
+}

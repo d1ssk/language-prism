@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bf8f55b512d560cc73426da70de639839b90590e842ffe057c548e8cf72c2bfc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "새로운 언어를 배우면서 이전에는 몰랐던 사고방식과 표현을 접할 수 있다는 점이 기대돼요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9eb6e7b5c5e7e791dda530148a5be785ccc0c390a973926b3b949d11ac80975c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:11:16.618700+00:00"
+}

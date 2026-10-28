@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d0525ab22826884a70e5eb451b9a84b4d57dddccfbf1356e65ad26e0c70a3fb7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Не вполне нравились ему раны, которые дон Белианис наносил и получал: как бы искусны ни были лечившие его мастера, лицо и всё тело должны были оставаться покрытыми рубцами;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2c975b8a7492b77da3d6ee5a400a3d4359349cc786dd0094bc3157aba13ecda",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:45:51.166080+00:00"
+}

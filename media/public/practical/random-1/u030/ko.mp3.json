@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a9c96e78f45f104c3989b7405359ecae5c42f99e7a12303c925b8cc0990f406a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "의견이 많은 도움이 되지만 다른 가능성도 생각해 보고 싶어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "93cad0eb742cbdec6208265ee1e49262ad881458aca643ed73e6580b7a820acd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:29:25.960526+00:00"
+}

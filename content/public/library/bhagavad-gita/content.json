@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "id": "bhagavad-gita",
+  "slug": "bhagavad-gita",
+  "type": "library",
+  "title": {
+    "ja": "バガヴァッド・ギーター",
+    "en": "Bhagavad Gita"
+  },
+  "description": {
+    "ja": "行為の結果への執着と、成功・失敗を前にした平静について。",
+    "en": "Four verses on attachment to the results of action and equanimity in success and failure."
+  },
+  "originalLanguage": "sa",
+  "author": "व्यासः (परम्परया)",
+  "bibliography": {
+    "originalTitle": "भगवद्गीता",
+    "originalAuthor": "व्यासः (परम्परया)",
+    "title": {
+      "ja": "バガヴァッド・ギーター",
+      "en": "Bhagavad Gita"
+    },
+    "author": {
+      "ja": "ヴィヤーサ（伝承上）",
+      "en": "Vyasa (traditional attribution)"
+    }
+  },
+  "sourceTitle": "Sanskrit Wikisource — भगवद्गीता / साङ्ख्ययोगः",
+  "sourceURL": "https://sa.wikisource.org/wiki/भगवद्गीता/साङ्ख्ययोगः",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：व्यासः (परम्परया)。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: व्यासः (परम्परया). New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。サンスクリット語の詩節番号を保持し、掲載元に併載された注釈は含めません。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. Sanskrit verse numbers are retained; commentaries displayed alongside the source verses are excluded."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第2章第47〜50詩節",
+      "en": "Chapter 2, verses 47–50"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "あなたに委ねられているのは行為だけであり、その結果では決してない。行為の結果を動機としてはならないが、行為しないことにも執着してはならない。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "あなたにゆだねられているのはこういだけであり、そのけっかではけっしてない。こういのけっかをどうきとしてはならないが、こういしないことにもしゅうちゃくしてはならない。"
+        },
+        "en": {
+          "text": "Your entitlement is to action alone, never to its fruits. Do not let the fruits of action be your motive, but do not become attached to inaction either.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Your entitlement is to action alone, never to its fruits. Do not let the fruits of action be your motive, but do not become attached to inaction either."
+        },
+        "es": {
+          "text": "Solo te corresponde actuar, nunca disponer de los frutos. No hagas de los frutos de la acción tu motivo, pero tampoco te apegues a la inacción.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Solo te corresponde actuar, nunca disponer de los frutos. No hagas de los frutos de la acción tu motivo, pero tampoco te apegues a la inacción."
+        },
+        "fr": {
+          "text": "Seule l’action relève de toi, jamais ses fruits. Que les fruits de l’action ne soient pas ton mobile, mais ne t’attache pas non plus à l’inaction.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Seule l’action relève de toi, jamais ses fruits. Que les fruits de l’action ne soient pas ton mobile, mais ne t’attache pas non plus à l’inaction."
+        },
+        "de": {
+          "text": "Dir steht allein das Handeln zu, niemals dessen Früchte. Mache die Früchte des Handelns nicht zu deinem Beweggrund, doch hänge auch nicht am Nichthandeln.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dir steht allein das Handeln zu, niemals dessen Früchte. Mache die Früchte des Handelns nicht zu deinem Beweggrund, doch hänge auch nicht am Nichthandeln."
+        },
+        "ru": {
+          "text": "Тебе принадлежит лишь действие, но никогда его плоды. Пусть плоды действия не будут твоим побуждением, однако не привязывайся и к бездействию.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Тебе принадлежит лишь действие, но никогда его плоды. Пусть плоды действия не будут твоим побуждением, однако не привязывайся и к бездействию."
+        },
+        "ar": {
+          "text": "لَكَ الْحَقُّ فِي الْعَمَلِ وَحْدَهُ، لَا فِي ثِمَارِهِ أَبَدًا. فَلَا تَجْعَلْ ثِمَارَ الْعَمَلِ دَافِعَكَ، وَلَا تَتَعَلَّقْ بِتَرْكِ الْعَمَلِ أَيْضًا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لَكَ الْحَقُّ فِي الْعَمَلِ وَحْدَهُ، لَا فِي ثِمَارِهِ أَبَدًا. فَلَا تَجْعَلْ ثِمَارَ الْعَمَلِ دَافِعَكَ، وَلَا تَتَعَلَّقْ بِتَرْكِ الْعَمَلِ أَيْضًا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Laka al-ḥaqqu fī al-ʿamali waḥdahu, lā fī thimārihi ʾabadan. Fa-lā tajʿal thimāra al-ʿamali dāfiʿaka, wa-lā tataʿallaq bi-tarki al-ʿamali ʾayḍan."
+          }
+        },
+        "zh": {
+          "text": "你所能掌握的只是行动，绝不是行动的成果。不要以成果为行动的动机，也不要执着于不行动。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "你所能掌握的只是行动，绝不是行动的成果。不要以成果为行动的动机，也不要执着于不行动。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ suǒ néng zhǎngwò de zhǐ shì xíngdòng, jué bù shì xíngdòng de chéngguǒ. Bù yào yǐ chéngguǒ wéi xíngdòng de dòngjī, yě bù yào zhízhuó yú bù xíngdòng."
+          }
+        },
+        "ko": {
+          "text": "그대에게 맡겨진 것은 오직 행위이지, 결코 그 결실이 아니다. 행위의 결실을 동기로 삼지 말되, 행위하지 않는 것에도 집착하지 마라.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그대에게 맡겨진 것은 오직 행위이지, 결코 그 결실이 아니다. 행위의 결실을 동기로 삼지 말되, 행위하지 않는 것에도 집착하지 마라."
+        },
+        "sa": {
+          "text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥२- ४७॥",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "adhikāra は行為への権限・資格を表す語。「結果を気にせず何をしてもよい」という意味ではなく、末尾では不作為への執着も戒めています。",
+              "en": "Adhikāra concerns entitlement or authority to act. The verse does not license careless action; its final clause also rejects attachment to inaction."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "व्यासः (परम्परया); Sanskrit Wikisource — भगवद्गीता / साङ्ख्ययोगः"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "ダナンジャヤよ、ヨーガに立脚して執着を捨て、成功にも失敗にも等しい心で行為せよ。この平静がヨーガと呼ばれる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "だなんじゃやよ、よーがにりっきゃくしてしゅうちゃくをすて、せいこうにもしっぱいにもひとしいこころでこういせよ。このへいせいがよーがとよばれる。"
+        },
+        "en": {
+          "text": "Established in yoga, act without attachment, Dhananjaya, remaining equal in success and failure. This equanimity is called yoga.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Established in yoga, act without attachment, Dhananjaya, remaining equal in success and failure. This equanimity is called yoga."
+        },
+        "es": {
+          "text": "Afianzado en el yoga, actúa sin apego, Dhananjaya, manteniéndote igual ante el éxito y el fracaso. Esa ecuanimidad se llama yoga.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Afianzado en el yoga, actúa sin apego, Dhananjaya, manteniéndote igual ante el éxito y el fracaso. Esa ecuanimidad se llama yoga."
+        },
+        "fr": {
+          "text": "Établi dans le yoga, agis sans attachement, Dhananjaya, en gardant la même disposition dans la réussite et l’échec. Cette équanimité est appelée yoga.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Établi dans le yoga, agis sans attachement, Dhananjaya, en gardant la même disposition dans la réussite et l’échec. Cette équanimité est appelée yoga."
+        },
+        "de": {
+          "text": "Im Yoga gefestigt, handle ohne Anhaftung, Dhananjaya, und bleibe bei Erfolg und Misserfolg gleichmütig. Dieser Gleichmut wird Yoga genannt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Im Yoga gefestigt, handle ohne Anhaftung, Dhananjaya, und bleibe bei Erfolg und Misserfolg gleichmütig. Dieser Gleichmut wird Yoga genannt."
+        },
+        "ru": {
+          "text": "Утвердившись в йоге, действуй без привязанности, Дхананджая, оставаясь равным в успехе и неудаче. Эта невозмутимость называется йогой.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Утвердившись в йоге, действуй без привязанности, Дхананджая, оставаясь равным в успехе и неудаче. Эта невозмутимость называется йогой."
+        },
+        "ar": {
+          "text": "اعْمَلْ وَأَنْتَ ثَابِتٌ فِي الْيُوغَا، يَا دَانَانْجَايَا، تَارِكًا التَّعَلُّقَ وَمُتَّزِنًا فِي النَّجَاحِ وَالْفَشَلِ. فَهَذَا الِاتِّزَانُ يُسَمَّى الْيُوغَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "اعْمَلْ وَأَنْتَ ثَابِتٌ فِي الْيُوغَا، يَا دَانَانْجَايَا، تَارِكًا التَّعَلُّقَ وَمُتَّزِنًا فِي النَّجَاحِ وَالْفَشَلِ. فَهَذَا الِاتِّزَانُ يُسَمَّى الْيُوغَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Iʿmal wa-ʾanta thābitun fī al-yūghā, yā Dānānjāyā, tārikan at-taʿalluqa wa-muttazinan fī an-najāḥi wa-al-fashali. Fa-hādhā al-ittizānu yusammā al-yūghā."
+          }
+        },
+        "zh": {
+          "text": "持财者啊，安住于瑜伽，舍弃执着，以同样的心面对成功与失败而行动。这种平等心就叫作瑜伽。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "持财者啊，安住于瑜伽，舍弃执着，以同样的心面对成功与失败而行动。这种平等心就叫作瑜伽。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Chícáizhě a, ānzhù yú yújiā, shěqì zhízhuó, yǐ tóngyàng de xīn miànduì chénggōng yǔ shībài ér xíngdòng. Zhè zhǒng píngděngxīn jiù jiàozuò yújiā."
+          }
+        },
+        "ko": {
+          "text": "다난자야여, 요가에 굳게 서서 집착을 버리고 성공과 실패를 한결같은 마음으로 대하며 행위하라. 이러한 평정심을 요가라고 부른다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "다난자야여, 요가에 굳게 서서 집착을 버리고 성공과 실패를 한결같은 마음으로 대하며 행위하라. 이러한 평정심을 요가라고 부른다."
+        },
+        "sa": {
+          "text": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनंजय । सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥२- ४८॥",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Dhanañjaya はアルジュナの呼称で、「財を勝ち取る者」の意。中国語訳では「持财者」としています。",
+              "en": "Dhanañjaya is an epithet of Arjuna, meaning winner of wealth; the Chinese translation uses 持财者."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "व्यासः (परम्परया); Sanskrit Wikisource — भगवद्गीता / साङ्ख्ययोगः"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "ダナンジャヤよ、行為は知性のヨーガにはるかに劣る。知性によりどころを求めよ。結果を動機とする者は哀れである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "だなんじゃやよ、こういはちせいのよーがにはるかにおとる。ちせいによりどころをもとめよ。けっかをどうきとするものはあわれである。"
+        },
+        "en": {
+          "text": "Action is far inferior to the yoga of discernment, Dhananjaya. Seek refuge in discernment; pitiable are those whose motive is the fruit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Action is far inferior to the yoga of discernment, Dhananjaya. Seek refuge in discernment; pitiable are those whose motive is the fruit."
+        },
+        "es": {
+          "text": "La acción es muy inferior al yoga del discernimiento, Dhananjaya. Busca refugio en el discernimiento; dignos de lástima son quienes tienen por motivo el fruto.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La acción es muy inferior al yoga del discernimiento, Dhananjaya. Busca refugio en el discernimiento; dignos de lástima son quienes tienen por motivo el fruto."
+        },
+        "fr": {
+          "text": "L’action est de loin inférieure au yoga du discernement, Dhananjaya. Cherche refuge dans le discernement ; ceux qui ont le fruit pour mobile sont à plaindre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "L’action est de loin inférieure au yoga du discernement, Dhananjaya. Cherche refuge dans le discernement ; ceux qui ont le fruit pour mobile sont à plaindre."
+        },
+        "de": {
+          "text": "Das Handeln steht weit unter dem Yoga der Einsicht, Dhananjaya. Suche Zuflucht in der Einsicht; bedauernswert sind jene, deren Beweggrund die Frucht ist.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Das Handeln steht weit unter dem Yoga der Einsicht, Dhananjaya. Suche Zuflucht in der Einsicht; bedauernswert sind jene, deren Beweggrund die Frucht ist."
+        },
+        "ru": {
+          "text": "Действие намного ниже йоги различения, Дхананджая. Ищи опору в различении; жалки те, чьим побуждением служит плод.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Действие намного ниже йоги различения, Дхананджая. Ищи опору в различении; жалки те, чьим побуждением служит плод."
+        },
+        "ar": {
+          "text": "الْعَمَلُ أَدْنَى بِكَثِيرٍ مِنْ يُوغَا التَّمْيِيزِ، يَا دَانَانْجَايَا. فَالْتَمِسْ مَلَاذًا فِي التَّمْيِيزِ؛ فَبُؤَسَاءُ هُمُ الَّذِينَ تَدْفَعُهُمُ الثِّمَارُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْعَمَلُ أَدْنَى بِكَثِيرٍ مِنْ يُوغَا التَّمْيِيزِ، يَا دَانَانْجَايَا. فَالْتَمِسْ مَلَاذًا فِي التَّمْيِيزِ؛ فَبُؤَسَاءُ هُمُ الَّذِينَ تَدْفَعُهُمُ الثِّمَارُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʿamalu ʾadnā bi-kathīrin min yūghā at-tamyīzi, yā Dānānjāyā. Fa-iltamis malādhan fī at-tamyīzi; fa-buʾasāʾu humu alladhīna tadfaʿuhumu ath-thimāru."
+          }
+        },
+        "zh": {
+          "text": "持财者啊，行动远不及明辨的瑜伽。应当以明辨为依归；以成果为动机的人是可怜的。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "持财者啊，行动远不及明辨的瑜伽。应当以明辨为依归；以成果为动机的人是可怜的。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Chícáizhě a, xíngdòng yuǎn bù jí míngbiàn de yújiā. Yīngdāng yǐ míngbiàn wéi yīguī; yǐ chéngguǒ wéi dòngjī de rén shì kělián de."
+          }
+        },
+        "ko": {
+          "text": "다난자야여, 행위는 분별의 요가에 훨씬 못 미친다. 분별에서 의지할 곳을 찾아라. 결실을 동기로 삼는 이들은 가련하다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "다난자야여, 행위는 분별의 요가에 훨씬 못 미친다. 분별에서 의지할 곳을 찾아라. 결실을 동기로 삼는 이들은 가련하다."
+        },
+        "sa": {
+          "text": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनंजय । बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥२- ४९॥",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでの行為は、直前の詩節を受けて結果を求める行為として読みます。buddhi は知性・判断力を指します。",
+              "en": "In context, action here is read as action pursued for its fruits. Buddhi denotes intelligence or discernment."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "व्यासः (परम्परया); Sanskrit Wikisource — भगवद्गीता / साङ्ख्ययोगः"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "知性を備えた者は、この世で善行と悪行の両方を離れる。それゆえヨーガに努めよ。ヨーガとは行為における巧みさである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ちせいをそなえたものは、このよでぜんこうとあっこうのりょうほうをはなれる。それゆえよーがにつとめよ。よーがとはこういにおけるたくみさである。"
+        },
+        "en": {
+          "text": "One endowed with discernment leaves behind both good and bad deeds in this world. Therefore devote yourself to yoga: yoga is skill in action.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "One endowed with discernment leaves behind both good and bad deeds in this world. Therefore devote yourself to yoga: yoga is skill in action."
+        },
+        "es": {
+          "text": "Quien está dotado de discernimiento deja atrás en este mundo tanto las buenas como las malas obras. Por eso dedícate al yoga: el yoga es destreza en la acción.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Quien está dotado de discernimiento deja atrás en este mundo tanto las buenas como las malas obras. Por eso dedícate al yoga: el yoga es destreza en la acción."
+        },
+        "fr": {
+          "text": "Celui qui est doué de discernement laisse ici-bas derrière lui les bonnes comme les mauvaises actions. Consacre-toi donc au yoga : le yoga est habileté dans l’action.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Celui qui est doué de discernement laisse ici-bas derrière lui les bonnes comme les mauvaises actions. Consacre-toi donc au yoga : le yoga est habileté dans l’action."
+        },
+        "de": {
+          "text": "Wer mit Einsicht handelt, lässt in dieser Welt sowohl gute als auch schlechte Taten hinter sich. Widme dich daher dem Yoga: Yoga ist Geschick im Handeln.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wer mit Einsicht handelt, lässt in dieser Welt sowohl gute als auch schlechte Taten hinter sich. Widme dich daher dem Yoga: Yoga ist Geschick im Handeln."
+        },
+        "ru": {
+          "text": "Обладающий различением оставляет в этом мире позади и добрые, и дурные дела. Поэтому посвяти себя йоге: йога есть искусность в действии.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Обладающий различением оставляет в этом мире позади и добрые, и дурные дела. Поэтому посвяти себя йоге: йога есть искусность в действии."
+        },
+        "ar": {
+          "text": "مَنْ تَحَلَّى بِالتَّمْيِيزِ يَتَجَاوَزُ فِي هَذَا الْعَالَمِ الْأَعْمَالَ الْحَسَنَةَ وَالسَّيِّئَةَ مَعًا. فَاجْتَهِدْ إِذَنْ فِي الْيُوغَا؛ فَالْيُوغَا مَهَارَةٌ فِي الْعَمَلِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "مَنْ تَحَلَّى بِالتَّمْيِيزِ يَتَجَاوَزُ فِي هَذَا الْعَالَمِ الْأَعْمَالَ الْحَسَنَةَ وَالسَّيِّئَةَ مَعًا. فَاجْتَهِدْ إِذَنْ فِي الْيُوغَا؛ فَالْيُوغَا مَهَارَةٌ فِي الْعَمَلِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Man taḥallā bi-at-tamyīzi yatajāwazu fī hādhā al-ʿālami al-ʾaʿmāla al-ḥasanata wa-as-sayyiʾata maʿan. Fa-ijtahid ʾidhan fī al-yūghā; fa-al-yūghā mahāratun fī al-ʿamali."
+          }
+        },
+        "zh": {
+          "text": "具备明辨的人，在此世超越善业与恶业。因此，应当致力于瑜伽；瑜伽就是行动中的善巧。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "具备明辨的人，在此世超越善业与恶业。因此，应当致力于瑜伽；瑜伽就是行动中的善巧。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Jùbèi míngbiàn de rén, zài cǐ shì chāoyuè shànyè yǔ èyè. Yīncǐ, yīngdāng zhìlì yú yújiā; yújiā jiù shì xíngdòng zhōng de shànqiǎo."
+          }
+        },
+        "ko": {
+          "text": "분별을 갖춘 이는 이 세상에서 선행과 악행 모두를 벗어난다. 그러므로 요가에 힘써라. 요가는 행위에서의 능숙함이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "분별을 갖춘 이는 이 세상에서 선행과 악행 모두를 벗어난다. 그러므로 요가에 힘써라. 요가는 행위에서의 능숙함이다."
+        },
+        "sa": {
+          "text": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते । तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥२- ५०॥",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "善悪を区別しなくてよいという指示ではなく、行為とその業果に縛られることから離れるという文脈です。",
+              "en": "The context is freedom from bondage to actions and their karmic consequences, not permission to disregard ethical distinctions."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "व्यासः (परम्परया); Sanskrit Wikisource — भगवद्गीता / साङ्ख्ययोगः"
+          }
+        }
+      }
+    }
+  ]
+}

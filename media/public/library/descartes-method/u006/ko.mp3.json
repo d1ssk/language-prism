@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e64f5cb8bb4a2b1fc6765d2fb507f71ebe5684a29004c191c2d6fdb46446791b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그리하여 계단을 오르듯 조금씩 가장 복잡한 것의 인식에 이르고, 자연적으로 앞뒤 관계가 없는 것들 사이에도 순서를 가정하는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "efeee6395c49ffd96b053cdb4010d1ec9eaab664e1c02a071957ada1e221c0d7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:31:16.057081+00:00"
+}

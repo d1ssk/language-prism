@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42fe690d8418274948e5ee9fe6dfba432e27ba9617cda1f6c74db72cc2546c7b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لكن لو عملوا جميعًا منفصلين ومستقلين، من دون أن يكون أي منهم قد تدرب على هذه الحرفة المتخصصة، لما استطاع كل واحد منهم بالتأكيد صنع عشرين دبوسًا في اليوم، وربما لم يصنع دبوسًا واحدًا؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "df0473cff15380099273fc241bf617208ebcdef21e6d7ba25d214e042ae18195",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:49:38.086552+00:00"
+}

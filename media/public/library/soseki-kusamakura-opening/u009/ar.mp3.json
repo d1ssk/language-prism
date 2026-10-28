@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "675ac3cc6247d38c213c51ca458e32f281478d470031b5e7feba91eb097476d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إنما صنعه أناس عاديون نلمحهم في البيوت الثلاثة المقابلة وفي البيوت المجاورة من الجانبين.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9e5ea953928cec97c256912d8c000287a71fafa1a2b22a8f63c0e780a01d626e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:54:43.329577+00:00"
+}

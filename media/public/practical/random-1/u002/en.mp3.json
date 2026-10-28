@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f0b12f91693cdbb27a03906fef41f2697706571cf41e40591e1aaaa388922900",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Long time no see! How have you been lately?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d8e3c33c66d30c40dacebd225c7744c367e44cd0ba71950ac3a03111b001528",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:21.943396+00:00"
+}

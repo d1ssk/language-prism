@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a571eab2d99ea2a7c7c51db4ea2ce3d7d4aae0f52ba976b882bde6a99fe5e6a2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "拥有长期目标很重要，但我也不想忘记享受当下。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2bda3e61727cfdcff66504a0343cd0059180ef139be39ab2ccf1ecddc41ea85b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:59:41.006751+00:00"
+}

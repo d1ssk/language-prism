@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7f7d702d8ad267d43284969848141624166f79e19f54c960e961368e69150445",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Но хотя они были очень бедны и потому весьма плохо снабжены необходимыми машинами, при усердной работе они могли вместе изготовить около двенадцати фунтов булавок в день.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d9a6a2e076aae45f47ab26f5b42a03858b84333ba07be651541ec5fd67ea7ebb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:45:13.996694+00:00"
+}

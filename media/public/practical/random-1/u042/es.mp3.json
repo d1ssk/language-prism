@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b124f007ab568f4a19824ee4394f5d49b3a7c2d17e366d06f8e11695c5f279b2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Aunque he dormido lo suficiente, por alguna razón sigo teniendo sueño hoy.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2aa5b70712c65cd9f87c0578a265952077f08d3662abd32aef7660ab3086e1e8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:36:00.319868+00:00"
+}

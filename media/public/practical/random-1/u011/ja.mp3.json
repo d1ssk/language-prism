@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "56ce94559c0c7c7379e18df164cbb08ed4eec86764e20cc86de7628998274866",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "よやくしていたほてるにとうちゃくしたのですが、ちぇっくいんできますか？",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3953c99912823617c3066e5460a5788dd5a275d193abfacc9582ce86319c4dab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:21.065628+00:00"
+}

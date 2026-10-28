@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fba62b5aa5aeca5627805d47a21f12c2c3f8a5bd917d879a28c3975140093340",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "На дорогах пробки, поэтому я, скорее всего, опоздаю минут на десять.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3cdd9590b457c6768f11aa1bc8926324986686167f31174b041c8bcadc1c60be",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:48.759622+00:00"
+}

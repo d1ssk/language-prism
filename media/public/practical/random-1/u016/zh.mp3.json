@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d10c03e1df6087fe16d4adf3e0aae649a8059670694fecb167f79fb93ae284d1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "幸好我带了伞，雨比想象中大多了。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f179a7cb0e0e63b43f34ff371a6641d4a466b59e14657103c1280180454170a0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:21:33.494258+00:00"
+}

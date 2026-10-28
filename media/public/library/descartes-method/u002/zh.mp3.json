@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2e3fa1d52e8f31a325fc233f9b8b66646ccacbadb16f4481c5188fd3a664f4e1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "也就是说，要谨慎地避免仓促判断和先入之见，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "489e33d53182a30aa98d214515159305913a1dfa3e917a7c3c2a8bf844d8aa14",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:35.978256+00:00"
+}

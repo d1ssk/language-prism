@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "623ec2b6fe3b2e2bf7d27791385b6163eb3d06a86fe787f78425d957ae7e48c5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "un ouvrier qui n'a pas été formé à ce métier, dont la division du travail a fait une profession distincte, et qui ne connaît pas l'usage des machines qui y sont employées, dont l'invention a probablement été suscitée par cette même division du travail,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c3357d7a8763f37079459d80dd632a9b4c57560d1295b9a439e98e0b8a1883c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:34:29.996741+00:00"
+}

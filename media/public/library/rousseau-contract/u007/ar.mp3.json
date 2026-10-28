@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "22e193122d676cffa121f37bc65829f65aa150b1337ab9b7d878f8f97d7f7699",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لكن النظام الاجتماعي حق مقدس يقوم عليه سائر الحقوق.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fbd2c67ae9ede5489bc7177bdfa778700e60c1b5e3cada1c1c259dcd41e49c95",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:57:51.534321+00:00"
+}

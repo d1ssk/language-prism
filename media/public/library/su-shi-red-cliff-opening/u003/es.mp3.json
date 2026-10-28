@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "45b4382be9a4252f318fd9bc61579ce30b0123cd1b9b23f87c1c41a41ede8545",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Alzamos las copas para invitar a beber a los huéspedes, recitamos el poema de la luna brillante y cantamos la estrofa de la belleza delicada.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "794b2b5b9b23cf67faa4e31df040250f3ebb29a6dccdb93fee68ecbfed0a5018",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:02:48.451914+00:00"
+}

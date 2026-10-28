@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "18d24c994f0d2772390b5a5cbcda8ae82d97131f5e1bcbd0e20b8b781354eb52",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我的狗正慢慢走近它，忽然，一只黑胸脯的老麻雀从附近的树上猛扑下来，像石头一样落在狗的鼻子正前方；它浑身羽毛竖起，模样都变了，发出绝望而凄切的叫声，朝那张布满牙齿的大口跳了两下。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5157b61020310bec4c159939a3c9287b7ccd1cb5eda58a21debb39cf6509b795",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:16:01.423832+00:00"
+}

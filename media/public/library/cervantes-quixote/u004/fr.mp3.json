@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "94e9e6e3fa670fa4e0d586d5d774a8ef1de370c999a055064aa7a606daa49127",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et les jours de semaine, il faisait honneur à sa personne dans un drap brun des plus fins.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "334cbcac44517f23a393e22657234dcd003e8bf4e38602e1092284519ba4fd9d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:09:36.263972+00:00"
+}

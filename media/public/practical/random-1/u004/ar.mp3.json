@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9d3210a849237e8185f58372fe3c491beb7dd80b9ed3970e139e00d3f83361db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أريد فنجان قهوة من فضلك، من دون سكر أو حليب.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bace70b1da2f6d3a498bc33b756a259f19ed1077b985f944a239840c9b466c58",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:03.671693+00:00"
+}

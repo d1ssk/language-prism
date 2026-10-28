@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e4615a630db041f08bb80ff9f03dd05457de4c5cd7e476bc0c7842b7f07692ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ce musée expose une œuvre d'art que j'avais envie de voir depuis longtemps.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3721b660e9de94a43113c3bb86c4960021b9c5f624ab9b643e369d09bf6c7d5e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:38:13.017755+00:00"
+}

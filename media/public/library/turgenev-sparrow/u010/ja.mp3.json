@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5114fa0395489285471b44b51d0c0ca8ad7fefba07266b2c61efc2d0e57e1af9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしはとまどういぬをいそいでよびもどし、いけいのねんをいだいてそのばをさった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dfcc37c3f77cfca39270dbb3e2e543eeddae7a513989891e98724617604cf671",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:48.264274+00:00"
+}

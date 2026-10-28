@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a95dc5ead0ecab225d27576640256d316f2ec4540cab64172848ca888c14740d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Of them all he liked best those written by the famous Feliciano de Silva, for the clarity of his prose and those tangled arguments seemed exquisite to him;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ccd7cac0d2b497efb04b7c9433a70d46b138799ebc71f3dbcfe1bcfb6281283c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:37:18.919396+00:00"
+}

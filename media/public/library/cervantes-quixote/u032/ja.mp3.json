@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "91fb3dae770e33653303aba2ba2b40fcc86c20dd30539ec89deefb08bc72c426",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "だがだれよりもすきなのはれいなるどす・で・もんたるばんだった。とりわけ、しろからでてであうものをかたっぱしからおそい、またものがたりによればうみのむこうでじゅんきんのまほめっとのぐうぞうをぬすむばめんがきにいっていた。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eed943ebcedfb68916bc6ad620fdf5897d7e73fe654094090fd4d4d7b7b45977",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:06:03.706618+00:00"
+}

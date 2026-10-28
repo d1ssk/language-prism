@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "05fe5e3eaf8b86eb42876135ab14de9e0df4bcc47d11faa8d5f38c86ba2d7962",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es gilt zu erkennen, welche Vereinbarungen dies sind.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cceebf3d207d4414e8f500d0afb5b321742e2f577e40e0ce9e3a08ed7f4fd76e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:58:59.054806+00:00"
+}

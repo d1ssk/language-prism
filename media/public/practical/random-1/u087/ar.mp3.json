@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ccab16ff729a9bb6e99bb815ed2970a99d325ea500ed20690b2c1d3035c908db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ما يثير حماسي في تعلم لغة جديدة هو اكتشاف طرق في التفكير والتعبير لم أكن أعرفها من قبل.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f1c2848197616606a585cb4168eec42c19d904bd69d50f7699d072eed9694b75",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:11:03.396399+00:00"
+}

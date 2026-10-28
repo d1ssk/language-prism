@@ -1,0 +1,6 @@
+---
+import LocaleRedirect from '../../components/LocaleRedirect.astro';
+import { getCatalog } from '../../lib/catalog';
+export function getStaticPaths() { return getCatalog().map(work => ({ params: { slug: work.slug } })); }
+---
+<LocaleRedirect pagePath={`read/${Astro.params.slug}/`} />

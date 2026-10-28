@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a6218e40da74a1bea3cbd9820117bba78ae1cd38b06f48dfca160469446df9de",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "und mit Waffen und Pferd durch die ganze Welt zu ziehen, Abenteuer zu suchen und alles auszuüben, was die fahrenden Ritter seinen Büchern zufolge ausübten,",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "417d3f2b0ffb51c3ab9b4f13064faa127f6669911d4a8db6bacc79f7cc0fb286",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:13:57.003969+00:00"
+}

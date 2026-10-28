@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cbdee4f7e04f548ebce2713ae71e5745f7de264dbdcecc218207e7767fdb03c1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir können so weit vorausschauend in die Zukunft blicken, dass wir vorhersagen: Die häufigen und weit verbreiteten Arten der größeren, vorherrschenden Gruppen werden sich schließlich durchsetzen und neue vorherrschende Arten hervorbringen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b39737e76d44376d3618c4af0df8e04f61cb5626c02c1f74f861cd0d57a54eb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:24:08.873360+00:00"
+}

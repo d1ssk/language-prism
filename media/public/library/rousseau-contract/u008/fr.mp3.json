@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4270bdf7fa41c983d30ccb1f4ae8a5152714b264c5ff99a0c9a52d75b8e5eca2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cependant ce droit ne vient point de la nature ; il est donc fondé sur des conventions.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9de7069aad705f7e64fb4e81446889adcfb9cf1430a7c5621dc5a701a26b8b7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:58:19.577048+00:00"
+}

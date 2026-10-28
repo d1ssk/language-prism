@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "76a6cac8c20a5f3d461b069b121cfe34f9b73981e856005c3454e51790edcab8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "지금까지의 경험을 돌아보면 예상치 못한 일들이 인생의 방향을 바꾼 경우가 많았어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "48ae9c4f59f6613e27ff80d7607a01940b69dce46bdf2fd051cb9698a21e9b45",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:04:08.472881+00:00"
+}

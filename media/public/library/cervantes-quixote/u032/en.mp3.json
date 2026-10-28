@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0e99501cba9c4f26c6ab3a7e7a5d1d24c5658eb6111e648003b93cb5e9c4860e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "But above all he favoured Reinaldos of Montalbán, especially when he saw him leave his castle and rob everyone he met, or steal overseas that solid-gold idol of Mahomet, as his story tells.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "39e0ab709cfd91e8609d6edc4c2c4ed7e50fe8c4c9ebebe0b5ea4bdff924d78c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:06:21.016108+00:00"
+}

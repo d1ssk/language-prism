@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5bc02fc1dbd75b4f05a24fb95cbff5b4fffa379c8e2dd8fa187b52a928e1c42e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "«Смысл бессмыслицы, причиняемой моему разуму, так ослабляет мой разум, что я разумно сетую на вашу красоту».",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d282e2ae58862b688e30a957ded7cd1f02549f6da48dbf7ae7cfcc58f1e1716c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:40:24.981787+00:00"
+}

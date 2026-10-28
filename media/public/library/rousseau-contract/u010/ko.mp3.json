@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "65768314895d27151b666c6e34a82425b59dcf36edb36435ed1cb913a1ae421c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 문제로 넘어가기 전에, 나는 방금 제시한 내용을 입증해야 한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f781cbc1e073cc8c3d5306fdd44b3f3117e07e80724d5780c7053974aef35271",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:59:48.086217+00:00"
+}

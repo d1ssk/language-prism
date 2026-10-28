@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2539780a93a8d627e2a705ae3680cf3cdec44aae66037eea8432973ca699e6c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ich nicht beides zugleich haben kann, verzichte ich auf den Fisch und nehme die Bärentatze.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9a4c704b878847bf1427a8fa9b28641a64f6d9869c1ae374d7293f175aef5a9f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:50.586321+00:00"
+}

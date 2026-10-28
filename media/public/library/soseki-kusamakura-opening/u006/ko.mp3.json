@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "37cfa3fe858280f697f8bed5aab64fc920f8dc53267713c870889c3436584872",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "살기 어려움이 심해지면 마음 편한 곳으로 옮겨 가고 싶어진다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "461906c20f32a10bd7f0b795716168806e6ae93622e2ffa2be36667cde0c06fb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:44.740301+00:00"
+}

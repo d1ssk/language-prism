@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "079262ec9386428fba146a796a426fd517f05afd00b7158c0c20a2b617bbca64",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Sí; no se rían. Sentí reverencia por aquella pequeña ave heroica, por su impulso de amor.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cddea12e44b94e46140d5eaf11f35dc45dd44afe139adfffeaa275c14e7d0116",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:21:44.676729+00:00"
+}

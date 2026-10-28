@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e234626c1c5bb9ed28c1a84825d285d553cafffe8b9526904eb91a28a20653bf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しゅうまつはやまにのぼって、しぜんのなかでゆっくりすごしたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bc99bd47e6f23ef9d3c78d56172bedac3e621ea3235642c459238791fbd4d055",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:36:28.454428+00:00"
+}

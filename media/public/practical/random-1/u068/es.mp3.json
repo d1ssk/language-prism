@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dd55c44030ecc2a5f19b6d5f73ae95cbf4bd83475a845a9cbdafa325d1aad42d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Visitar un país desconocido te hace comprender que lo que consideras normal no es necesariamente universal.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d538d562c82865a775b7a41a1e8835250f679c4a410b86adc2c3c2ae027d3ff1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:54:45.600857+00:00"
+}

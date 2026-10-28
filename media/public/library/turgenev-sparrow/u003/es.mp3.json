@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "94489dc37337ee07f8d1e52ca6415d20e9c86ff8dbd8ad7eb1baa3ba272f347f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Miré a lo largo de la alameda y vi un gorrión joven, con un tono amarillo alrededor del pico y plumón en la cabeza.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "939aae7ae5367b46b7647a277c99da12fff2348b01facf5a52bafce40449e652",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:11:09.633663+00:00"
+}

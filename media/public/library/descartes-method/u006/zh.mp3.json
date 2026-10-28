@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "357264b6d2de0cf14c7388aa0300f65dc90b6c062046744d5ef6ce892bde593e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "以便一步一步、仿佛登台阶一般，上升到对最复杂对象的认识，甚至在那些本来没有先后关系的事物之间也假定一种顺序。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2fe3cc72dd0850d6c86f5828b16cf11d5be454f99c86493565ca92fc5ef53e7b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:31:07.926775+00:00"
+}

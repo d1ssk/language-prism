@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "042c226038e3a32ec1e3fa75c4cb8173720c81a53257f08bec021281869b736b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Votre avis est utile, mais j'aimerais aussi envisager d'autres possibilités.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e961e9808e0c7a688b52e39ac36a5a84513aef8425b999be2b09ff2e3d0b4cf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:29:05.533327+00:00"
+}

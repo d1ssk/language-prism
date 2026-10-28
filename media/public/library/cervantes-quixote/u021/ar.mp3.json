@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c5de6c065628e8cb613734c139a3555b647808cec31a78659a56480e02fe173b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ولا شك أنه كان سيفعل ذلك وينجح فيه، لولا أن أفكارا أخرى أعظم وأكثر إلحاحا كانت تعوقه.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e820bcde01fe3feecb9975bbd096b2d5eae6f50b9b1b9f98f06e6f04366b527a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:49:30.411152+00:00"
+}

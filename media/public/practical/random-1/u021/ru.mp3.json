@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c0e9f1d7522f64438fbb3276763c7a0f0907900a61a993bf66e70b36302e0b3f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Давай встретимся в шесть вечера у турникетов на станции.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1009dcaa9459183712ff02044ef82f996f914d0b55bc9bd9a90ff25090aeacfc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:13.032932+00:00"
+}

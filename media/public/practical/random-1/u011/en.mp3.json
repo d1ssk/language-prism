@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "67f0793522d9f814591b8bd7cd7db504763c0e0944e542b742b753f348790244",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I've arrived at the hotel where I made a reservation. Can I check in now?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79ae58461b94d10cd4fafc2a71a9e88427f836a4ed0a971da8a20657e3fd07e5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:24.461733+00:00"
+}

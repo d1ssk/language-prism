@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e0c40656ead240d188a045476416485cfe63ee80bd0590d45093076620dfc499",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Мне хочется не просто обладать готовой вещью, но и участвовать в процессе её создания.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f4218719ce2e4887c4d799e5d8bce0f96a4293d2fe8e6d665b4da7acb4ab959c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:07:20.301173+00:00"
+}

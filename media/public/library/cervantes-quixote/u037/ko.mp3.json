@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e7deede8952a71da0532bcfcc74ce83c3cb4608dd1018bca8c376730dc0f6669",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "온갖 부당함을 바로잡고 시련과 위험 속에 몸을 던져, 그것들을 이겨 냄으로써 영원한 이름과 명성을 얻으려는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ec054cfcaf63c963db94bfa1a5555458a3b2fbb017fbe3c45c3021042e961f19",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:15:52.154889+00:00"
+}

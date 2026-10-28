@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cc174f609351c9d887484763d0775b2114db47c99a835c505b8bc028c4a655a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "不过，他最喜欢的还是雷纳尔多斯·德·蒙塔尔班，尤其爱看他出城堡抢劫所有遇见的人，以及传说中在海外偷走那尊纯金的穆罕默德偶像的事。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "714f392693d0b23e4a5ed8360cc6729a062a33b579e764c3b91e29d26e0ff8c6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:08:43.204776+00:00"
+}

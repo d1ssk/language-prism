@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a4e5ee95c3e239afae62e6dcc9ed3448d23f4bd12a1e7904fa27b71f2d034e82",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Algún día me gustaría vivir en una casa diseñada por mí y mejorarla poco a poco con el paso de los años.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6798687b8e8c4f45681e030980d78b8f251dbff59253080d98691cc0ea02209e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:06:11.155850+00:00"
+}

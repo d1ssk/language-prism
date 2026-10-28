@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d60eb27ca4d6e032f214e89377841311d53dca573cf3fba78e9ac2923c544adb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "要知道，这位乡绅一有闲暇——而一年中大半时间都闲着——便埋头读骑士小说，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cc506ad275381368e81528f2f6270cade34c025a6b0a3bb9080b0241f772e666",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:34:05.401670+00:00"
+}

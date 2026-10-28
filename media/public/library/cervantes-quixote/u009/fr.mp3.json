@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "17d433617c9bbfd8617083d306529399f174b8a1984f6275e79d4302f2cacec6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mais cela importe peu à notre récit ; il suffit que sa narration ne s'écarte pas d'un point de la vérité.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9643cfd2a13734178b1fd0e6a4e10d7c86a33d9fd846169b66dd01c20d50c84a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:30.280508+00:00"
+}

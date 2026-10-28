@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "372498ae6a1a797b278e7e862671ff241fc4890e947a74c3c7174f9b96c1e0f1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Наука интересна тем, что позволяет подвергать сомнению даже то, что раньше казалось само собой разумеющимся.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d91c8dbcbc1fa7b5a37caf1da8dd0334fcddc5edce1d274d3ebb5478564bca13",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:42:48.576212+00:00"
+}

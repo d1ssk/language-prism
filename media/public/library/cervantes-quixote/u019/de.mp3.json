@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d614c8835111817ee7c34bb5221fdd37b5d095928d23ff85212fca1d34acfef3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mit den Wunden, die Don Belianis austeilte und empfing, war er nicht recht einverstanden: Wie groß die Heilkunst seiner Ärzte auch sei, Gesicht und Körper müssten voller Narben und Spuren bleiben;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "251bbb8b522abd2cfde0d8fb4235ff4fe834dccbfe2304f3150f549e92c2e671",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:45:37.885689+00:00"
+}

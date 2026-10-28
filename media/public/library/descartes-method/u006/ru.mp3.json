@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "857d63111d8423fe5380c7d6a385989057ad474dd5c35710d052e6bb561eacf8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "чтобы постепенно, словно по ступеням, подниматься к познанию самых сложных, предполагая порядок даже между теми, которые по природе не предшествуют друг другу.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "86ada469e79e2fd37ab32fba28ef11dfcf4fe22f5cc427685680a1da4f55b29f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:30:47.681485+00:00"
+}

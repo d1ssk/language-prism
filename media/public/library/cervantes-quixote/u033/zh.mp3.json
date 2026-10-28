@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "173a47a1b37e3b14178953278893ae997328b24094183899f2e80fbfa74b0f97",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "只要能痛踢叛徒加拉隆一顿，他宁愿交出自己的女管家，甚至把侄女也搭上。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "95afc7f07db720f21cb1a02e7caa325dce1f18c74b5f2a11d2698df1f40ef6d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:10:21.473130+00:00"
+}

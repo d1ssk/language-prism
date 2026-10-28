@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a0fd9695f9ad284a684098b3f69c80c095ba9c0444cc7cfbe2cc1ffa57130bab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Und von den heute lebenden Arten werden nur sehr wenige irgendwelche Nachkommen in einer sehr fernen Zukunft hinterlassen;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "29c481dd970366c7bbc5adbfdcbfd47abf3ff4dc72710bb3c9f1f75eb55dbd73",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:20:51.530130+00:00"
+}

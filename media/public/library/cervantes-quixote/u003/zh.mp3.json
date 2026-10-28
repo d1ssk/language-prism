@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "24685a4b94a6ff70948fa328617df7e9556c73268f2016ac3619104f8c40ab5c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "剩下的财产都用在精细毛呢外衣、节日穿的丝绒裤子和同样面料的便鞋上；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ad3f426895b49364c0f8ae170a2a515aa062d7de036b60dcb2859965d8e84ebf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:09:13.536535+00:00"
+}

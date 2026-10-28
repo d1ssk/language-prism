@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7053385d7c19d125fc21a6f5e18faa53933acd51083558a0afa19ca8efbe888d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir haben bis zur Frist nicht mehr viel Zeit, deshalb müssen wir Prioritäten setzen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4bde4f6189bff30c7622d71d91c989ba64f9a81f98e17c2aedb77e0a0253406e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:28:28.940903+00:00"
+}

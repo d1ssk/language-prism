@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2cc18fe5429626e98e59d7c5a62692f49652b06ba402ec9808815a1164408883",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je viens d'arriver à l'hôtel où j'ai réservé. Est-ce que je peux m'enregistrer maintenant ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6be88dda5e379896d2c8bf02adf45490ffd37c49e16f53890933e84ff435b133",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:31.488389+00:00"
+}

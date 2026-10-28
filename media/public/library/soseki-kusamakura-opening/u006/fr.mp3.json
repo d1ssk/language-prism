@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "91605f19dbb3a410e51f1a1eaf5c590bd8988fd03757e02796d6a24d6cebd64c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quand cette difficulté s’accroît, on a envie de déménager dans un lieu paisible.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50005cf58dadd8ef47577d9cc7f24072caf04155802a29bb0bdbf07842880781",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:15.584481+00:00"
+}

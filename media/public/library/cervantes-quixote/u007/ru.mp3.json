@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0fdee6bbcabd032aa7c10b116de3a86311230f80100641f6718dd6e706421c32",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Нашему идальго было около пятидесяти: он был крепкого сложения, худощав, с сухим лицом, вставал очень рано и любил охоту.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bff8a030092cf73b684be16a5c5c98efc6b0de66f93c4dd7d8d51100db98d260",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:12:26.780091+00:00"
+}

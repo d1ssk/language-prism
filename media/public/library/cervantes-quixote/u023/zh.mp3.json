@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "52215b249fc9ee582105546a5beef5ccd036fd9acbc8351e69a3663d466a2557",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "可是同村的理发师尼古拉斯师傅却说，没有人能比得上太阳骑士；如果有谁可以和他相比，那就是高卢的阿马迪斯的弟弟堂加拉奥尔，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8bdfdc3467adb53f0122328c714bb8189734f9835958836e7340d65662cfa00f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:53:07.265759+00:00"
+}

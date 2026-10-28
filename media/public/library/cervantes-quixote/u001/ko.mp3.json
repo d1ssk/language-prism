@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b965c8645bd45530a265b6961a8a3ba657ac74091f8f31a1fff83793e83f40a5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "라만차의 어느 마을에, 그 이름은 떠올리고 싶지 않지만, 얼마 전까지 한 향사가 살고 있었다. 창걸이에 창을 걸어 두고, 낡은 가죽 방패와 여윈 말, 발 빠른 사냥개를 갖춘 그런 향사였다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fa388251e80bc378e98340a01ba10302dab0414327434a9501a906c7754d0282",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:06:25.664155+00:00"
+}

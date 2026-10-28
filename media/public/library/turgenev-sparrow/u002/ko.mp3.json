@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "72014f388196d80bec32e99c7e29bacd4d06fdeab490cc8dc835df891c81b472",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "갑자기 개는 걸음을 늦추더니, 앞에 있는 사냥감의 냄새를 맡기라도 한 듯 살금살금 나아가기 시작했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c14b4b912da7b12142dce9ef4b37329ec237e16e0728e3e5f685b15c103e4509",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:10:48.312247+00:00"
+}

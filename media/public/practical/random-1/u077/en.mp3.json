@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c66fa16c11f7f4e0f292588219f2a69b5f0987bbbbae80597c233e22c201501c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The more technology advances, the more we need to think about what we use it for.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3109ee00303a5d1d39c817985daf0c983f27b46cdd202e517788614dfe648297",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:01:37.033742+00:00"
+}

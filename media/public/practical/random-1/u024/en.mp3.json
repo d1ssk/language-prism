@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7d71466d52a907bedb03c7af663f62f7149e2f754e26d21e6baf65efa4454354",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Either next Wednesday or Thursday works for me.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b4413eff8b6bc5547d1d896f16ad02e9dcc4ae121da7a7436e25d0a0b15705d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:42.434084+00:00"
+}

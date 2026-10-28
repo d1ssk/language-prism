@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "61cb4d3ae8064dbaf2ad59d54ee62d93767f03c9040cb0adfb3b67761a53aecc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "死亦我所惡，所惡有甚於死者，故患有所不避也。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "705f075403736c5b1e4ed02e8b80f99cec744de171c88e40f4e5c02e0adb8a66",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:04:34.147599+00:00"
+}

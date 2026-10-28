@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b643dc100db5683130f90e91df81aaea5053be4d10c5c56fd37232c0bd29ef42",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I have seen a small manufactory of this kind, where ten men only were employed, and where some of them consequently performed two or three distinct operations.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9f62d60aab83661314e5431b253518c6440a7b64530cd646779b505d63092150",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:43:19.810533+00:00"
+}

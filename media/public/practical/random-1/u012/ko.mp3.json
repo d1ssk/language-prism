@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "45d5c3a5a33a2a439cf4db1bedd6477c7afa2cebf4ac4a0131154da9ee9529fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "제 방 에어컨이 작동하지 않는 것 같아요. 확인해 주실 수 있나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b52b5d4f09bc35e745c94f3d52821d4f154725ee011d973507fa18142ae9399b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:19:25.052315+00:00"
+}

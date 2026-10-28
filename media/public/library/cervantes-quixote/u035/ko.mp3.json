@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0af802f1972efcdb505f821541e10f7330a7e13be94f2da863db36a10670b079",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 생각이란 자신의 명예를 높이기 위해서도 나라에 봉사하기 위해서도 편력 기사가 되는 것이 마땅하고 필요하다는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2bc43bfbd257b155f27f02dd62e6c064c5396866561fee87e4f35a23cdf441a2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:13:08.799562+00:00"
+}

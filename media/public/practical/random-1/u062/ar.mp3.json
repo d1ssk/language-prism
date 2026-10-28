@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "aabb43e293f37ed292704b2eb7870c49d2ac542397ca3cbf2aa7cd5f5e72ec8a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "استمتعت كثيرًا بوقتي معك اليوم. لنتقابل مرة أخرى قريبًا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5b64135b5613cfc7dd69c6aafc6288f0c91d13b8fd8d73ca05242f40d4e5a932",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:50:39.801449+00:00"
+}

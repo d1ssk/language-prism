@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "745af54a94a56d6d419b8717f695805b22efd9ec13cbb4dfdf78231c326dcdb7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "새로운 것을 배울 때는 먼저 전체적인 그림을 이해하려고 해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0babd33acc1defcca0b0d41e3e82d408036ea89f1ce12982ecd03bafb1054b07",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:56:51.021200+00:00"
+}

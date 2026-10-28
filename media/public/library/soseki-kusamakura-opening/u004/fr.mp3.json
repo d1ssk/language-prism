@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a89661b03c3b7c1fe67b4945a3b7339c6c858d3c8602560c15993bad51885e2c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si l’on s’obstine à imposer sa volonté, on se sent à l’étroit.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a54cff6e1969ed1e808b6f6dbcfd39ea5e62e2cc3e608ac53d1a5db2febf7fbf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:02.942956+00:00"
+}

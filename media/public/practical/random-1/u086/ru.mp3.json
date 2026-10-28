@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad6005363c562fb8b9d98c8217b203d4d64fc03a31772040590b3acd6af265bc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Невозможно сделать так, чтобы всё шло по плану, но мне важно сохранять ощущение, что я сам принимаю решения.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db626578e3d868e532e4bafc29430a9ee142c2daa14ad2fa6ef856eb3c34ae87",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:09:57.561313+00:00"
+}

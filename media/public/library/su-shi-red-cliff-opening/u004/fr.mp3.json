@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e99a8fb447f8d130c90dd326b2cdf09f80f5408721fcd2b9579a735b854c1797",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Peu après, la lune se leva au-dessus des montagnes de l’est et s’attarda entre les demeures lunaires du Boisseau et du Bœuf.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1a90b37736d8bd0d521c743091ba62cc3d06410e523eb907ea3a0ab11a62343d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:04:14.262159+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "43c621ecbe7a92f3e81932db384ab54bef6da3be466297739d417193c64aa121",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "즉 서로 다른 공정을 적절히 나누고 결합한 결과로 지금 생산할 수 있는 양의 이백사십분의 일에도 분명 못 미치며, 어쩌면 사천팔백분의 일에도 못 미쳤을 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0aefb9c79e82163dbc478ededa20cfcf991df76993d2ecdd48e3dfc134e3dcec",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:51:41.197201+00:00"
+}

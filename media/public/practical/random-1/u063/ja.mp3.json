@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "845c656cc5818ed7ea0d33a285dc87a19fa68ccf76c49ac0fd2d3bb0befb8f46",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしはすこしちがういけんですが、あなたがそうかんがえるりゆうはりかいできます。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a75a86289fa79d9e1419c525ff41517873069a4527fd4bd2e5c3ac240899c538",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:50:51.790526+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b7e881fc438e291579577d287aeb5acb689994906d0351e4ad50d64609028e81",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Не могли бы вы повторить то, что только что сказали?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7c52aadd17324f6f3715169e5d19e23e56e268d74433b0e6d9bedfb7e66e1d66",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:31:35.075256+00:00"
+}

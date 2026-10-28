@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d12f0fc03da8dafde24422b7b391830b2ad634a5d16e87ada801ec9469f19250",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "忽然，它放慢了脚步，开始悄悄向前走，好像闻到了前方猎物的气味。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "578a687ed2ca9105ac98d779b4bf54bd5502eb61d1c900b6ca6a7683b2e05284",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:10:39.931753+00:00"
+}

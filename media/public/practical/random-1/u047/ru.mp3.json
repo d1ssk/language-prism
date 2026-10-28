@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7bde556b011898b003e4a5482180eea207f8751bddc71318c9ae32ed3a929188",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Роман, который я недавно прочитал, до сих пор не выходит у меня из головы.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d0eb007b6247f9d41aa48c82bf1b2d337bb2b6d8d5bd55278fd18c1827df84b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:44.985246+00:00"
+}

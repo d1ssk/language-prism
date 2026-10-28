@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a87107ab03e7ebdd85d5fb840ecc06d51cd037de733d0969c889ab469714707a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Die Schönheit?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "361f9b90d6d13f1760a535a3ea2b86e5e95ea91cbaa152d5c3f7f0dadca20412",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:57.405927+00:00"
+}

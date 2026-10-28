@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "59e9c6cff2d53a3f10c5bb221959749b2a31322ca48f13c605968a6e7454a53a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я глянул вдоль аллеи и увидел молодого воробья с желтизной около клюва и пухом на голове.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "74a435271edfbddbe3448c414b561c9e913cd7789391c1aaaaf3ace34ccd0aa7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:11:28.630302+00:00"
+}

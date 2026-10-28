@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f8859151dac00d05e94200d113597e3b381eb384afa957956949bf6f5526c211",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "迷恋得如此深、读得如此快活，以至于几乎完全忘了打猎，甚至忘了管理自己的产业；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d86d92c31722c32a17dbf02b1f7fae2442e644b18149eb8fe386308345805a45",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:35:08.411985+00:00"
+}

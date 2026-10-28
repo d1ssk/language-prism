@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5231986da1fd1a339e230d5e0bcae5739f4f684e1b7c884ed6c7d219f7873901",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 나는 구름을 사랑해요… 흘러가는 구름을… 저 멀리… 저 경이로운 구름을!",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "28bdadddd413bef627f62aa3a9f924fbfe1fb8a2de823bccacfedf102dfed2e0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:52:57.126621+00:00"
+}

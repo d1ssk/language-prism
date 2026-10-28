@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7f1091ef0378ec15ec8001d5bdc8a3e950d65553da0a961c8d3dbad589486384",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그래도 끝없는 모험을 약속하며 책을 마무리한 작가를 칭찬했고, 여러 번 펜을 들어 책에서 약속한 그대로 그 모험의 끝을 쓰고 싶어 했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "be8b1ab2ac88826f80f542e832761d6acc2b2b194520d109cac29c8a8867f198",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:48:28.939679+00:00"
+}

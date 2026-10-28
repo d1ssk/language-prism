@@ -1,0 +1,35 @@
+---
+import '../styles/global.css';
+import { mode, withBase } from '../lib/catalog';
+import { UI_LOCALES, translate, type UiLocale } from '../i18n';
+interface Props { title?: string; description?: string; locale: UiLocale; pagePath?: string }
+const { title, locale, pagePath = '', description = translate(locale, 'description') } = Astro.props;
+---
+<!doctype html>
+<html lang={locale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="referrer" content="no-referrer" />
+    {mode === 'local' && <meta name="robots" content="noindex, nofollow" />}
+    {UI_LOCALES.map(lang => <link rel="alternate" hreflang={lang} href={withBase(`${lang}/${pagePath}`)} />)}
+    <title>{title ? `${title} — language prism` : 'language prism'}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">{translate(locale, 'skip')}</a>
+    <div class="container">
+      <header class="masthead">
+        <a class="brand" href={withBase(`${locale}/`)}>language prism</a>
+        {mode === 'local' && <span class="mode-label">LOCAL</span>}
+        <nav class="locale-nav" aria-label={translate(locale, 'interfaceLanguage')}>
+          {UI_LOCALES.map(lang => lang === locale
+            ? <span lang={lang} aria-current="page">{lang === 'ja' ? '日本語' : 'English'}</span>
+            : <a lang={lang} hreflang={lang} href={withBase(`${lang}/${pagePath}`)}>{lang === 'ja' ? '日本語' : 'English'}</a>)}
+        </nav>
+      </header>
+      <main id="main"><slot /></main>
+      <footer class="site-footer"><a href="https://d1ssk.github.io/">© Daichi Sasaki</a></footer>
+    </div>
+  </body>
+</html>

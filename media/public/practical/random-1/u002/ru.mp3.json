@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff3d4570adbca697eaadce4ae1ad5f82d92bb842b31c3c6a2f71e15c3c40a3b8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Давно не виделись! Как у тебя дела в последнее время?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c1a34514e8a1a2c98680bcb97ccb340edb0af9fd08c6545571aeba8273a2735c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T18:53:34.822050+00:00"
+}

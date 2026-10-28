@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "25e823695d56c22727cb457669f8aba5f2aa7e17103bd450ba4ecd9328732050",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "最近读的那本小说，即使读完了也一直留在我的心里。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4199c6b23da79474939036e6c214abc75e354ea5a21e56c1c740544479b3d999",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:39:55.790214+00:00"
+}

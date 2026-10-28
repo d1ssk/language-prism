@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5827554c5eef5c0e4246a1e2057cea4cebb71b3f8cf7736968197c0211917e58",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Let's meet at the station ticket gates at six in the evening.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "080986e78a7f139c3373ae3e6b3bdb8b741817c074d2c04a39ef361942567cd4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:00.472462+00:00"
+}

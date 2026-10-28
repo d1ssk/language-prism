@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c0b447bd2652fe919a8a2a4211eaa5fcf4df23158ffac41bce09f43be1b8b4eb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Me lo he pasado muy bien contigo hoy. Volvamos a vernos pronto.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d72061099b03cf5c3d4c65f61b7a1c08751f5cf3d0db07ed31a4e238f294b40f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:50:20.579588+00:00"
+}

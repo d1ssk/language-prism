@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e0a9610438be00f5dda5b6e8909190b6bc3e3f7c2b843fe55bd231341056d7b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Se había caído del nido —el viento sacudía con fuerza los abedules de la alameda— y permanecía inmóvil, extendiendo indefenso sus alitas, cuyas plumas apenas empezaban a crecer.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3afd391c2f7960e4d47dc2b238322f5d1c8a98e766e5c38e0ea97d676d44ade6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:12:21.670847+00:00"
+}

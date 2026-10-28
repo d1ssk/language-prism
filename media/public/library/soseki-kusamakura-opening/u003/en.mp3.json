@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b54146dfaa43ff6ddc76679c71fefe65fd21c87fa8f66717d154bcaed7d8c9b5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pole your boat with emotion, and you are swept away.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0d5fd70309183dd4772cc2b479148a5e3a6144abb7776fbe09f9388dc4836868",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:25.885636+00:00"
+}

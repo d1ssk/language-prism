@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5768c6b7dcb6954ab1f4a74da5fc2c8bd6888f8e7d95373b782c9b04fd076729",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "특히 구애의 말이나 연애편지를 읽을 때 그랬다. 여러 곳에서 이런 구절을 발견하곤 했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d7e89010cca49f88e06f37f350684ae1e6bfd597ca6e490ef256978cc3b982bd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:39:38.037124+00:00"
+}

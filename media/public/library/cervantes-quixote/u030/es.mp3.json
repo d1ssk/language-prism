@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7bd30426e9a177a6908b22acc87ad8a4bbc7869f527b6595c62ee02c06d72be5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mejor estaba con Bernardo del Carpió, porque en Roncesvalles había muerto a Roldán el encantado, valiéndose de la industria de Hércules, cuando ahogó a Anteo, el hijo de la Tierra, entre los brazos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2c10dba02e19c67cf499cb7b867a1ea9b2d13a4d6064b0f3f80e4cbfe3e8e8d7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:02:32.870788+00:00"
+}

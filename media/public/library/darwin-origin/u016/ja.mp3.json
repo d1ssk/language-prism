@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "91c2e93fe6db5cb0b6478a726441494af625a63cdbdf7c1f2c49f73ca7334b0e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "かこからはんだんすれば、げんそんするどのしゅも、そのすがたをかえずにとおいみらいへつたえることはないと、たしかにすいろんできる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a679e103f0963e6ecc9492b4bee74fa593d480fbf2b7f2780c811cbe13a55a1d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:18:50.244838+00:00"
+}

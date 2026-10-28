@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "491dfed0530b3ea156c211d2bf96b2d1591b359605a77c4892f28b466f77cd89",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mon Trezor s’arrêta, recula… Lui aussi, semblait-il, avait reconnu cette force.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cd100e858b6d15ea17a5b55c2e7ed5ec3a3491b0e9101fea079bbbef9bece701",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:20:13.743802+00:00"
+}

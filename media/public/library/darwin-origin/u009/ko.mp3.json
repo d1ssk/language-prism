@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "69329b0b312d92507cbc4df263fd85fe94f51db50b462b9506bafd0adf8397fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "먼 미래에 훨씬 더 중요한 연구를 위한 넓은 분야가 열릴 것이라고 나는 본다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0fa5f1e1fb631498e9dbd05437c4f4fcf1d2340c8617f5632073e34353016c27",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:10:15.934887+00:00"
+}

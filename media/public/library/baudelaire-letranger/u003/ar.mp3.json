@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d75af57ade07f356921d245a4720d7214e9125e3a82ff162fff527dc54aa70fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— وأصدقاؤك؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "46428e0a6049f8cd6dad234a588b4e996cce687d5f5064540041cdf7c39d2859",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:48:25.437604+00:00"
+}

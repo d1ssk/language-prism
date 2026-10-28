@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e46e9344fe748cff8aa032783990deb3d94fdc41db84e441451c21d663c09c5e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "“한 민족이 복종을 강요받아 복종하는 동안에는 잘하는 것이다. 그러나 멍에를 벗어던질 수 있게 되어 실제로 벗어던진다면 더욱 잘하는 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ae8116ec3942f48e5a921f14f8228f48cb6abf2f6a15d080c02ccbbf0870b370",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:55:56.370302+00:00"
+}

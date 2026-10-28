@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4e55e07da4aee9f43b7c4ddbcbf074e8e13a7f105729c7e77d0a1e056e765f02",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いけんがたいりつしたときこそ、あいてがなにをたいせつにしているのかをしるひつようがあります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "868f31d126ea8f22b9987e722339242f7065efa950c6085ba7f88afbb7010bf3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:45.752541+00:00"
+}

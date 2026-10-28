@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "37af5d51e295e6be505a8698b4ab0d7e656172fbf4e3091ce613a00200cd7f1b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "모든 생물의 분류 양상은 각 속에 속하는 종의 대다수와 많은 속의 모든 종이 후손을 남기지 못하고 완전히 멸종했음을 보여 주기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6d992a974dcad60fd29403e292a0e2aadaafa8f5ba39a892b70963eea6272008",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:23:02.020903+00:00"
+}

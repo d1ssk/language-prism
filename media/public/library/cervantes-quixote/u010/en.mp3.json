@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "36afc64e9b99cec185dffc5036cf0e5498d05d9a7bfb2079c4be0ce654e6d554",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Now this gentleman, in his idle hours, which made up most of the year, devoted himself to reading books of chivalry,",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ea15859c671672d852561129063427cdbc81199439637bb789a6ddd74f7a1ae0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:33:14.885267+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "559744e8af0f08ba0c418140442881bf1fff2b3f28870c5d7ee067337b2bf384",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "どれほどけんめいにはたらいても、いちにちにぴんをいっぽんつくれるかどうかで、にじゅっぽんはまずつくれないだろう。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "92c0dc3c6e08675c36394b26546656df2105a2b410dfea72d6e1c421a8c584ed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:35:37.906376+00:00"
+}

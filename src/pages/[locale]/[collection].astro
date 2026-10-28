@@ -1,0 +1,46 @@
+---
+import { localize } from '../../lib/localized';
+import Layout from '../../layouts/Layout.astro';
+import WorkDescription from '../../components/WorkDescription.astro';
+import { getCatalog, withBase } from '../../lib/catalog';
+import { UI_LOCALES, translate, type UiLocale } from '../../i18n';
+export function getStaticPaths() {
+  return UI_LOCALES.flatMap(locale => Object.entries({ practical: 'Practical', grammar: 'Grammar', library: 'Library' }).map(([type, title]) => ({ params: { locale, collection: type }, props: { locale, type, title } })));
+}
+interface Props { locale: UiLocale; type: string; title: string }
+const { locale, type, title } = Astro.props;
+const t = (key: Parameters<typeof translate>[1], values?: Record<string, string | number>) => translate(locale, key, values);
+const works = getCatalog().filter(work => work.type === type);
+const practicalOrder = new Map([
+  'random-1',
+  'greetings',
+  'first-conversations',
+  'asking-for-clarification',
+  'directions-and-transport',
+  'ordering-at-a-cafe',
+].map((id, index) => [id, index]));
+if (type === 'practical') {
+  works.sort((a, b) => (practicalOrder.get(a.id) ?? practicalOrder.size) - (practicalOrder.get(b.id) ?? practicalOrder.size));
+}
+---
+<Layout locale={locale} pagePath={`${type}/`} title={title} description={t('collectionDescription', { title })}>
+  <a class="back-link" href={withBase(`${locale}/`)}>{t('backHome')}</a>
+  <header class="work-header"><h1>{title}</h1></header>
+  {works.length > 0 && <>
+  <ul class:list={['collection-list', { 'library-list': type === 'library' }]}>
+    {works.map(work => <li class="work-card">
+      <a href={withBase(`${locale}/read/${work.slug}/`)}>{type === 'library' && work.bibliography
+        ? <bdi lang={work.originalLanguage}>{work.bibliography.originalTitle} — {work.bibliography.originalAuthor}</bdi>
+        : localize(work.title, locale)}</a>
+      {work.scope === 'private' && <span class="badge">{t('private')}</span>}{work.publicationStatus !== 'ready' && <span class="badge">{work.publicationStatus}</span>}
+      {type === 'library' && <WorkDescription work={work} locale={locale} />}
+      {Object.keys(work.availableAudio).length > 0 && <p class="work-audio-status">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg>
+        <span>{t('withAudio')}</span>
+      </p>}
+    </li>)}
+  </ul>
+  </>}
+  {works.length === 0 && <p class="empty-state">{t('empty')}</p>}
+  {type === 'library' && <p class="library-plans-link"><a href={withBase(`${locale}/library/plans/`)}>{t('libraryPlansTitle')}</a></p>}
+</Layout>

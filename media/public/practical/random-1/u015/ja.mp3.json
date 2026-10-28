@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bef8d206c3591afc9c2bd7f6301da7b1cb362ff2900982552d20e22309f4fdcf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "てんきよほうによると、ごごからあめがふるそうです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "06448c40e3e0c9ae4bff65926ee2c4e51cfe0e09d3f9db0889b0fa4c007691d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:20:42.256489+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d83661362905c88c7f3537ec6b048cfa132c68b85bb9fd31836eebc227bc0786",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我们再梳理一遍这个项目的目标吧。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2d190c4f3b6f9fc8eb47cbe3a8c2c7d3210cc4bbbda56779a478609f6c8f88fd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:27:22.391786+00:00"
+}

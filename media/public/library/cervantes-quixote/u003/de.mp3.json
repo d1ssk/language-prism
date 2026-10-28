@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "432571ec98c019ae7ea7383784437cb2d27ac0dec01627db461b66d2141ac75d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Den Rest verbrauchten ein Rock aus feinem Wolltuch, samtene Beinkleider für die Feiertage und Pantoffeln aus demselben Stoff;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5aa1bf98ca5cf5777365565affeebae7b13e3bd6cd771f191e281edc340242f7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:08:55.234431+00:00"
+}

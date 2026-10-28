@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "06795de2fa7846fae4f67ee58d98f676fed92b4ad844a829d0e0d1751c6ba143",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Иногда только пытаясь выразить свои мысли словами, понимаешь, что на самом деле думаешь.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f10e9751281794b0547f2c5be25270400898f13111cff40aa653f78b69b2cefc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:54:13.442196+00:00"
+}

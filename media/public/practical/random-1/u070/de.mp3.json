@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3a541c5b523b81dce98f6a81188a5d0133acb8d87ddec390111e4ebec050d828",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ich etwas Neues lerne, versuche ich zuerst, mir einen Überblick zu verschaffen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "535bbb076fce745cfc2ce6c546c803baad0853ad40452b1b0e0bb4e7f23ff84e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:56:33.561794+00:00"
+}

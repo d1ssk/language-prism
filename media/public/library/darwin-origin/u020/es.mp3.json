@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "33de07a8909eeef818845bb6d2519259a7e59b95332a2cf2eb7a9acb897e5180",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Como todas las formas vivas son descendientes directas de las que vivieron mucho antes de la época silúrica, podemos tener por seguro que la sucesión ordinaria por generaciones nunca se ha interrumpido y que ningún cataclismo ha desolado el mundo entero.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7a0279e83bcf734ea034b7090a567caa44053f75e48140324d2b9192931ae608",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:25:52.437265+00:00"
+}

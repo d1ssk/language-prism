@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d276d7ef080f8181fe298d764183c0f409effe309c15e20b5a182ca27a7eb546",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 내게는 아버지도 어머니도, 자매도 형제도 없어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab887026a05b1f57af8edf9367e8738d25fbf0b7c401794ccb3d7381fbac9043",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:48:15.411816+00:00"
+}

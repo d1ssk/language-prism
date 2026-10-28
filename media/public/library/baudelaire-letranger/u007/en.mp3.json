@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6a65d90c6200865c7f79583595141ae97cb69199cce91f2e66e954f4cd97f5a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Beauty?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "045b7ba07e3e78e7b2bea89b33e42dcd70b7c202c80e321cea452a758460094e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:49.377473+00:00"
+}

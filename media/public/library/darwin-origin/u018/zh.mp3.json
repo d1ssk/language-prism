@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1f91840d19b006923e3da286348dd6a86fe8e181352589351aad00b6bf885e58",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "因为所有生物的分类方式表明，每个属中的大多数物种，以及许多属的全部物种，都没有留下后代，而是彻底灭绝了。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "392b82997d5fc4a04c5d9b8d3dce8aac63cfc09f7a099d9677daf83d87a4b3ef",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:22:50.772409+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1340ecdf65e73ff91d91e3b0cb145e462552ecff2194059c28824fe9d008c56c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "An meinem neuen Arbeitsplatz muss ich noch vieles lernen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1b5de7b4e6b107da220975c55e51b5f89bedf3ef93d1c8575f04df8bf3128a0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:26:21.597998+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "680b315a0443ce3baf361670f0942b79ca4928a562e67e22e9fdac24f3b654d3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "どこへこしてもすみにくいとさとったとき、しがうまれて、えができる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e41452ecf2c7482cc22b367a73b53930f280096212307fdaafa491c91fafb9a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:51.631092+00:00"
+}

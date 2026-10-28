@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6383c5576d79984bb99386a9d01b011e9417aa0c2c93510d400a6854ab6bd3a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et sans doute l'aurait-il fait, et même avec succès, si d'autres pensées plus grandes et persistantes ne l'en avaient empêché.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "71ddaadc02139083bbaa482aa6e63068e658eceb7b4accfe5780c166174200a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:48:59.719855+00:00"
+}

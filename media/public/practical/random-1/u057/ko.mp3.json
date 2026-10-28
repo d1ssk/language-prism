@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "56b4a0e4a7d9ea4c4619474d4bc40097ac5a972016b839d657575b639b056795",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "인터넷 연결이 불안정해서 영상 통화가 중간에 끊길 수도 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "810f77208544981d2a358cf8a911f60c97f219b7aa14cfef85811163600ad423",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:47:43.032112+00:00"
+}

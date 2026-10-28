@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b496e244c00255ae0fde72fb0818d48cd08bf667f3bd10f8d1524aad6d72ecd1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pero, sobre todos, estaba bien con Reinaldos de Montalbán, y más cuando le veía salir de su castillo, y robar cuantos topaba, y cuando en allende robó aquel ídolo de Mahoma, que era todo de oro, según dice su historia.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ec222b576e5e58633c69f58cabde457a7a3646cbbb599bd876ebe3c874ec84b5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:06:38.291631+00:00"
+}

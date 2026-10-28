@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3d9c894c1498b79e1bc99909bb0c4cdeca742f49b35b65b69d64fb9496de0ba2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여행지에서는 유명한 관광지뿐만 아니라 현지 사람들의 일상생활도 경험해 보고 싶어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e3a23e73c3423cebd6d80177ad6880b91d37a4e92abf5d97732e41ca65b32c93",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:05:55.642010+00:00"
+}

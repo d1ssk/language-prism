@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ee7e139d05c4ab34c04d78fc4f7dd11da01a6c313bb6adcbcd6913c173a47713",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "人生中所珍视的东西，也许会随着年龄和经历慢慢改变。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6d31f6732921b604f0c7b5a7bd50a156b5539500f4cc0cee28d469bf390c1194",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:09:13.112609+00:00"
+}

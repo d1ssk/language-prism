@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "afa7438bd06385c33a695bc6bc862625d3bba88bbb4026be8459fc08eb10e96e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je voudrais un café, s'il vous plaît. Sans sucre ni lait.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "793fba8d00e7c432aca6887869cf9cdb24d2465e6475ddaaf3e0614b93165e00",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:52.017980+00:00"
+}

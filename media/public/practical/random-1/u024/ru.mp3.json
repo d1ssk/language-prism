@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b58fcd59793bbc22bcc1b354753979a59d07f70c0b54c056cac01372bf9f93fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Мне подойдёт и следующая среда, и следующий четверг.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dee63467b2d2e8a04fa81c24c10c379bee6d3519bcde14dfc77c6c4c754da074",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:56.401153+00:00"
+}

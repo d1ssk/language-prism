@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a427b52a42416ad018e5b27aa8afb8362a1c0996404a5c8073038adbf70138d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lorsqu'on interprète des résultats expérimentaux, il ne faut pas oublier l'incertitude des mesures.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "18a23010af78f57295e9e021da107c86efb8a5e29918428dc1ad0fa4b7f38bff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:44:15.400920+00:00"
+}

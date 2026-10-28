@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e2c9d17f75113808a66b3eaa62bef0a3bd57a874eeb61e19ecd77d07ee4c140",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Excusez-moi, il faut combien de temps à pied pour aller à la gare d'ici ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "55566c63e6a72f717d009729f9f1ae39b870e4b96041a5fde1d3f5873318b8e3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:16:21.991951+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "74c1d3e58edc277268e1b36bfa2111d2f12c8bd101ae522cf3fb6e40c610f953",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "외부 생활 조건의 간접적이고 직접적인 작용, 그리고 사용과 불사용에서 생기는 변이성,",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d2aae2c1a29fa981d461445787f9188ef0d07263590b9aa06af979cf782ec64c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:19:28.183810+00:00"
+}

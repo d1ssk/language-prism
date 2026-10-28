@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3ed46fcd9c124b2d4826c0960ec469d3b2587e8a3211c97c4ce5cd937da5cfb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "みらいをよけんできるのはここまでである。すなわち、おおきくゆうせいなぐんにぞくする、ありふれてひろくぶんぷするしゅこそが、やがてかちのこり、あたらしくゆうせいなしゅをうみだすだろう。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ccb6eba670eac3c05b7a4fd959510debaa29d1e18f102820ff8c2017f61183c5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:23:12.036802+00:00"
+}

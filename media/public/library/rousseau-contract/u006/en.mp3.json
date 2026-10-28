@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "de89a05a2ab48caf50f9198a2b8b2bc667ac8b6d7eb06ea0dea2b30eecad2817",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "for, recovering its freedom by the same right that took it away, either it is justified in reclaiming it, or those who deprived it of freedom were not justified in doing so.”",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ebcfc1f7c4f378b9a62b850094829b4231804e35cc39bfc39934097fc28a4ade",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:56:14.606206+00:00"
+}

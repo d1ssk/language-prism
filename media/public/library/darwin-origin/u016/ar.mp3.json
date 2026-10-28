@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d80c20eb11aa75413bf6bfb00c7175474889a81a3822234fd509ec56bb0bd454",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وانطلاقا من الماضي، يمكننا أن نستنتج بثقة أن أي نوع حي لن ينقل صورته دون تغيير إلى مستقبل بعيد.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "49d52816acd9c4c99c66b407585df91459c5c0582573d2ce04c340b30b52ba0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:19:54.796033+00:00"
+}

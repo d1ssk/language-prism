@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0b4bfb4a888eb50569a60411f33feeb31cf7e3976855d3e9ea771eab7c659280",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여권을 찾을 수가 없어요. 마지막으로 어디에서 사용했는지 떠올려 보려고 해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c84f30fa55f6d92b485069559e9db0e58642501f620b1ff381ad58d2b3c2e925",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:20:39.452160+00:00"
+}

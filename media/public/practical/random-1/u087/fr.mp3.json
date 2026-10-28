@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a6c8d37df3c38db3652d58653255cda7f45a7dd67af2650005beabe53d7fdd94",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ce qui me plaît dans l'apprentissage d'une nouvelle langue, c'est de découvrir des façons de penser et de s'exprimer que je ne connaissais pas.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "607490aa8503ce05883e38c46eafe9c2c6984b2dd75b0ef6331473447f23359d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:10:40.096843+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b421e6cc6f99b49ddfb61e1bd1cbc3e7997197a047d310021ba85f3e05414f0f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "くわしいせつめいは、あとでめーるでおくります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f3e6e5738b9ed2930e18d0cd6cef75776281c54b4e73bd40822716d38f6b2e30",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:29:28.613207+00:00"
+}

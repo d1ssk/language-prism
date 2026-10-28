@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d05f6f814f4b0f9497d067d829c05d35f33b0b1dfdde3a37d0274ad76cc7d9b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "When opinions clash, it's especially important to understand what the other person values.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3aad9e5376e1809b869b4ccd0330074b606bba024c27517a49b1d1d678c6e8a4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:50.874202+00:00"
+}

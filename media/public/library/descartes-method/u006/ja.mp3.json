@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6874374e31a4e8c9126efefa24c4866cb7e5f0c38e426ff42cfe18edef3550f9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "それによって、だんをのぼるようにすこしずつもっともふくざつなもののにんしきにいたり、しぜんにはぜんごかんけいのないもののあいだにさえじゅんじょをそうていすることだった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "451c3a9bef5e63ad05cb43667efaa15d01c7b75213f8f2da4d955c47219b03fd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:30:01.873640+00:00"
+}

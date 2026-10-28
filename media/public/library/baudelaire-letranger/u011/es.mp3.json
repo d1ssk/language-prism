@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8f60cc34eed6fc45b40de0d3cf7540a59981fcdf0ada07e38fb250a48adcc340",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— ¡Eh! ¿Qué amas entonces, extraordinario extranjero?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "606ef2e084ea09de08caa5d7eb6a79deb424b86d68f5025a8badb4db4d6c63ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:30.316909+00:00"
+}

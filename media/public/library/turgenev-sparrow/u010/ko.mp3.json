@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0460820f013224b25d2715d8a38ba372a450b7e8afc32f9c20331bf1386a2a94",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "나는 당황한 개를 서둘러 불러들이고, 경외심을 품은 채 그곳을 떠났다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b4bf179a6cfcf694ada4aff378d8819edb4b48ba6739f9557eb0c3845d9551b4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:21:25.344422+00:00"
+}

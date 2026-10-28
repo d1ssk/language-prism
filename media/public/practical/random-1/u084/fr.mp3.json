@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dd259ccc09bb2a60c93c508cfd7a60665b03b761fc04f425e479b78d8e179bed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quand on fabrique quelque chose de ses propres mains, on commence à remarquer des détails auxquels on ne ferait normalement pas attention.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "18e8736a8b5af3a2f5f1207ef18f1d79120a78629aa480d317baf9658014ffd0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:07:59.825294+00:00"
+}

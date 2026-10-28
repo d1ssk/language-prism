@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff04d824dae371765cf948cea15b9e0591623e6c85d76d19e98054b60382ecb0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "냉장고에 있는 재료만으로 맛있는 걸 만들 수 없을까요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8b7bb0581e2cd63c93b5c5b138d25abcea971db61ebe601ca91d120d645eac71",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:34:20.800353+00:00"
+}

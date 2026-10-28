@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a93a66dfbe274f9e1dfa5dac0d612874efb8ea5ebb261816feaf2361e7bed089",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "а именно: ему показалось уместным и необходимым, и ради своей славы, и ради служения родной стране, сделаться странствующим рыцарем,",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "185b0cde688fe8b2f41290b02ee5174e5bedb18b87b588dceb604cab799c9438",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:12:39.422615+00:00"
+}

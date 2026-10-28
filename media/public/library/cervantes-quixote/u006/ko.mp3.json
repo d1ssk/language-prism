@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7a7d01a2c97ce13ac87c836f4869e881de31dbb2c63586b46fb0641ad34333ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또 밭일과 심부름을 맡는 젊은이가 있었는데, 말에 안장을 얹는 일과 가지치기 도구를 다루는 일을 똑같이 잘했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6c18bb9e86aaffec64f4659684ffa5a822e18237ad9e1502caea938835f6d057",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:11:40.359492+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3d1e02aed06442b78b4657e97ba4419e2a57d3ea6f1e416d698d7dadc7346343",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وألا أدرج في أحكامي إلا ما يتجلى لعقلي بوضوح وتميز لا يتركان لي أي مجال للشك فيه.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "657e7da6b47a7b9c821c66c4356b9208c7f04a0d4aab21506fafce12e372eef9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:27:35.156779+00:00"
+}

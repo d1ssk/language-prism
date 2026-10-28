@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "316e842236ced3c3d1034f599f470b6cdaea475d438accd518decde7f73785ca",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "だが、そんなことはこのものがたりにはさほどじゅうようではない。かたるにあたってしんじつからいちぶもはずれなければ、それでよい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41e519dfb5852244f2434f02b2057a26739f547e6925eb9c0beaaf8792e524b0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:13.419675+00:00"
+}

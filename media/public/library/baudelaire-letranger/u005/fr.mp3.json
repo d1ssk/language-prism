@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "36bd872cd087f14caf25c03e941069fa7c793557609ac500b8b4e36930a9deb7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Ta patrie ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e84f97cbc7c4f3ccc87648ecedf6cd8a5a384ee62dab8bc5cce5c921f95819d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:49:11.432256+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "055530b2f1bcc59dab7406c6dd44cac39857d7cce71d99d2c32fe05fe9072b7c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich blickte die Allee entlang und sah einen jungen Spatz mit gelben Stellen am Schnabel und Flaum auf dem Kopf.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3df9b5b56c96fe63e16597a18a18e3517c23f07aa3a2795e20fa7fa9cf7052d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:11:22.268134+00:00"
+}

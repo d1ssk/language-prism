@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "495dd58a01080a3436763ac3e8f951d21565479bf8308930fb2c6573096d49db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我想尽可能多开口说话，不怕犯错误。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c43b6b1be9a56471f401485849e860af9d8c2e5b9636c3ef9bb5d03525a87c1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:33:01.090655+00:00"
+}

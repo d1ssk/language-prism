@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "31a21e101c5a283e5a25fe77d71ef076c0c44d909ecd062f62a509307e7c46b6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إذا دفعت قاربك بعصا العاطفة، جرفك التيار.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e7005ff4d4bda6d322d57207e1ca825c6c831b95300e91697501360180baefb3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:45.717079+00:00"
+}

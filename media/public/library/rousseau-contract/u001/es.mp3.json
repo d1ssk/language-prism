@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e9dd75e426b1da948416dcf4a481acf906d2eb96f9700ca31a63c4a7d5b6d29",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El ser humano ha nacido libre, y en todas partes se encuentra encadenado.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7a8bfcd088cb1c8ccefa99a74aeae798ef437d99afcebf0ca88f9fc25bb62530",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:51:57.983359+00:00"
+}

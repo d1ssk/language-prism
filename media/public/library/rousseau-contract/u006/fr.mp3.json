@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f1cf8ecdb71674fbe1e5397104a0aa49206c98253b4bc813e7264c97349a1bf0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "car, recouvrant sa liberté par le même droit qui la lui a ravie, ou il est fondé à la reprendre, ou on ne l’était point à la lui ôter. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c416c5b6036519828ff3bd842b7b5e9249b5b6fd42c7e9fac21e10edad432540",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:56:29.242063+00:00"
+}

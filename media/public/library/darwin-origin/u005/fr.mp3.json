@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bd49e648fe47cf4ebc761ce2dd7a46c25db6df6e8b2fbe23babbeb6c119bd9d9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "un taux d'accroissement assez élevé pour conduire à une lutte pour la vie et, par conséquent, à la sélection naturelle, entraînant la divergence des caractères et l'extinction des formes moins améliorées.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f2869e0b54a03f5f00405f3980e50c0b0a5b15b00c0ad113fe155e2119e79cf5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:20:07.144746+00:00"
+}

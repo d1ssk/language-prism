@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c1046acaf18c62d131a6c71fa8208a159be313e4d4e6fd8dc5840928c932432c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pour pouvoir rouer de coups de pied le traître Galalón, il aurait donné sa gouvernante, et même sa nièce par-dessus le marché.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e0038ba4b25575b352344b017e3b2be98169084da7529325806564c65763662f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:09:36.242392+00:00"
+}

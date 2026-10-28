@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "429f833f4896dc013e52f1583dec88e02e04cec63692bf49f438d854a71e2a48",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I think it's important to use a foreign language a little every day if you want to improve.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1ec2c087ac032bfb878055fde1e8e262d47f0c05bf8be4c60395533a709f04fc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:31:54.593455+00:00"
+}

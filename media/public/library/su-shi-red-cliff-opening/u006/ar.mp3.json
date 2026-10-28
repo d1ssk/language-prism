@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "30984742798f28336eee279e78db766ed885b1f07ba873b23ddc757a9922cb14",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "تركنا قاربنا الخفيف كقصبة يمضي حيث يشاء، نعبر صفحة الماء المترامية بلا حدود.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b1e085dbecff846fb6aaded74e2ec031dd0ab3dc6f1206ea5307885d26c50af6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:06:16.470182+00:00"
+}

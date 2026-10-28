@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ec1e76d4f96c109ae5e33eb19fa6a59b03693cc463c217faf65ed02605d2651c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "因为他性情随和，凡事都能应付，既不是矫揉造作的骑士，也不像哥哥那样爱哭，论勇敢更不输给哥哥。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9e13a79d762483ce15c5596d8f15c9dd1d980864bad0a6b9bf8c376c4923bdda",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:54:46.456128+00:00"
+}

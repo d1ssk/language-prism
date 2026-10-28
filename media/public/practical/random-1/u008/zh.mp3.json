@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "860973bd9e8db29bf78ed3b66cae799f6f63017bc0fec5ea9afa2b35d83f98ed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "火车好像晚点了，我们找一条其他路线吧。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ee2b09edd69d6ada440f637b56bdbf0e824b2603503c730f5ef2f8386c601080",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:17:09.913832+00:00"
+}

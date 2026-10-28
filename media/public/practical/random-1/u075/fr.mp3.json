@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5e3880fba32935f3b516635dada01cb537066eb6399cf35a48e8f939ccc7e96a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Les êtres humains n'agissent pas toujours de façon rationnelle ; leurs émotions et leurs habitudes influencent aussi fortement leur comportement.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a57b4b742933f3599a495d55166410f4a51a368a6637cdbeef4ac0f0cc43c255",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:11.416455+00:00"
+}

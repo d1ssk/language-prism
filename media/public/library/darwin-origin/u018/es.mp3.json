@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4f38a211a11f2aac337da3fb8fd529f6bcaf3cabf4c74ab182326601aa95a112",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "pues la manera en que se agrupan todos los seres vivos muestra que la mayoría de las especies de cada género, y todas las especies de muchos géneros, no han dejado descendientes, sino que se han extinguido por completo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "53a695fae334127f2f5fc8261eca554ff18b6a923a0b2eac82e7e5f3f225444f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:22:01.337509+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d599f709265302340660e02a3ff96da8750683fe8850d93e976b910621c58d7a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وقبل الوصول إلى ذلك، علي أن أثبت ما طرحته للتو.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f2d098d8f277f328fd619090a919cb8b427f289d97f50f144cb28db226a9d4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:59:38.970905+00:00"
+}

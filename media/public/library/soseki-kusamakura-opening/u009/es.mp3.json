@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "08c86a88efce04646d16e6b082eec4f49595f67e123cfd81e6b180de6355a5a9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lo hicieron, al fin y al cabo, personas corrientes, esas que se entrevén en las tres casas de enfrente y en las de ambos lados.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0fe445e16981c35a794c33ec5e60d2d242312cb051881824793e76d27cff23b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:54:19.921633+00:00"
+}

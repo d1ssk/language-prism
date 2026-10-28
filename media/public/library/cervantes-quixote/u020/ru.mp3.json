@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ba896a36da6626e1ce0c8296dda0d7ef963ee53853d64b6452e97c705c9cde45",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "но всё же он хвалил автора за то, что книга завершалась обещанием нескончаемого приключения, и часто хотел взяться за перо и дописать его в точности так, как там обещано;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4e17dc2773a14f539f44d35f30132af1781cc07a57148b7e69d6a5db25d160d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:47:52.179403+00:00"
+}

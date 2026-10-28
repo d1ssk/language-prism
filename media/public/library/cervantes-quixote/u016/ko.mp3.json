@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "16da786de42e4461e327914d192be65d530e1033bbed35283eb85dcd6663517e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "“나의 이성에 가해지는 불합리의 이치가 나의 이성을 이토록 약하게 하니, 나는 이치에 맞게 그대의 아름다움을 원망합니다.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5196cf19a5b1b5ae56de529c028e0f6b802a3212eeede130a9331a6e5586ee71",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:40:50.236458+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "12f9d8e2678b80ea7b8e7a3e9a4a33e93a88f2786f8e8e8298f16c97784b37d0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un pot-au-feu contenant un peu plus de bœuf que de mouton, du hachis assaisonné la plupart des soirs, des « peines et tourments » le samedi, des lentilles le vendredi et un pigeonneau en supplément le dimanche absorbaient les trois quarts de ses ressources.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "764d341dfa172eb89b60f4a750d45ee711a9e4c485c864edb224df53fb857489",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:07:14.619373+00:00"
+}

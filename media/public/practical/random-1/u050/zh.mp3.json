@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b4943831d61586a7deb896d60f7b8d6370238d2cb49d8c967e191b23362a4cd1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我平时喜欢一个人待着，但有时候也想和朋友聊上好几个小时。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "22dd20989497cc98b82e2b3bbb5d5933e72a7c92585836fefbacea382d9fbe92",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:42:09.245786+00:00"
+}

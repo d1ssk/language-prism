@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b749b1f052379f4eeafa81ae98997b84375ac3b8278d8150fb76ffc9dd820990",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La climatisation de ma chambre ne semble pas fonctionner. Pourriez-vous vérifier ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "83a1b607a0e9aaff7fa7c8785736c54a4cb92b1583a02a5f597ded884a792710",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:19:04.895133+00:00"
+}

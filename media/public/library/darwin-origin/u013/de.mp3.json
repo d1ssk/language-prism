@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c28449d8e91983d2ce5097db34a62fb6751de42df15823d33f4ff6e8384008a3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Meines Erachtens stimmt es besser mit unserem Wissen über die Gesetze überein, die der Schöpfer der Materie eingeprägt hat,",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a2443bbe9cb35b948cc92c96ec15291de3af3e4fa773fb73abe20b9f6c153d12",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:13:49.313335+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "84e7b3f9f364145b03226ab4c482b072266bc7502a14c38911d75e71959e4925",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "纵一苇之所如，凌万顷之茫然。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "22b4a07bfcac0993183f0ffbf2df5bdf0220b4d1dd209cb126e225831ae9a69e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:06:19.822015+00:00"
+}

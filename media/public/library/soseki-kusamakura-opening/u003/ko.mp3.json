@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5a38bf48d14b2d4ee7ce395b73be9c86c1663a8d55cdf02957f3423b428d94bd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "감정을 삿대 삼아 배를 저으면 물살에 휩쓸린다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "888c7a460711db6f7561d2e5c889b3b70cdb611a3de06932d1bf74d29b7be29f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:56:52.038454+00:00"
+}

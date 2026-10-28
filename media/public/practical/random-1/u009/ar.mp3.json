@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "34ba613fae47be4d004edc01b2764bd9234988459443030bb73385a9dfbb02ba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "انزل في المحطة القادمة وانتقل إلى الرصيف المقابل.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c248c8c404cda32f7c2f08144b1aadcaca339f09ffd01397e9e465c1a71434de",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:17:37.018151+00:00"
+}

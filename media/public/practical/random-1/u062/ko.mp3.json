@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f3462a76ec71ca4d32049c454d1d426e6b477de4e955204528021573dab52406",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오늘 함께 시간을 보내서 즐거웠어요. 조만간 또 만나요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "493670ac92e092e455ea99b7b94f7ff401b23faa9ba8fd002e9cbe2118da8331",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:50:47.952289+00:00"
+}

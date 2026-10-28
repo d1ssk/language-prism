@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42f16ad82811d020f5a3c612eac33e5668017863331902c3bc31550eb88aaa3d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir hoben die Becher, um die Gäste zum Trinken einzuladen, trugen das Gedicht vom hellen Mond vor und sangen die Strophe von der anmutigen Schönheit.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3722c6b6d813e131083471b0f7eceff0898dddf94b75a0f8988924db039bf1e5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:03:03.869628+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bd4b609ce00227c0b18281ef5de10c04b1444c73de0b7b281fdf5200a90af381",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— J’aime les nuages… les nuages qui passent… là-bas… les merveilleux nuages !",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "134d4ee11f1fb72a3b9a2b9daca52ec3aebe642a2c2c7e95a84804488fcbe2ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:52:22.422362+00:00"
+}

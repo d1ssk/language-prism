@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2054ef711f08b6fe504c0e7e018f1ceea343b23c5f5096e1661b568a86bae333",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "There's a lot of traffic, so I'll probably arrive about ten minutes late.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4f3c993ebd5f6ee621d2a0a62fe6a4bf3f0e38c7d6a51db9c5cd6f3f73d1b8c2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:30.480163+00:00"
+}

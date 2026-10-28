@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1c262178db04b16f05faed0b866968ef038b6fe984ad4fcd47d5ea13ed0ce32b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Doch das ist für unsere Geschichte kaum von Belang; es genügt, wenn ihre Erzählung keinen Deut von der Wahrheit abweicht.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e5a1ea55f2642a9cf4b7f191038a2fe66567b35d039fcad313cdbf3c21308961",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:36.208858+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a835c9872a5160c57221eb5abcf9190a7e31aba3b094864e4c360d2ac3a45d82",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Vous vous servez là d’une parole dont le sens m’est resté jusqu’à ce jour inconnu.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6858edc5d1c83e17211d12c864efa6ac6446de2e7b011ed891226634f1f5eb1c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:48:44.737181+00:00"
+}

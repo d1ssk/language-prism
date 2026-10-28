@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ce8b0165495d4fc4638bc7ec1e5d7e8d0859cf6e29becf7afa86761e9e5a1f4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je me hâtai de rappeler le chien déconcerté et m’éloignai, saisi de respect.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2f3afae2c95ff2ae737e14e4cffa71c37dc28b1768e36fd50b3870969bb414bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:21:03.747101+00:00"
+}

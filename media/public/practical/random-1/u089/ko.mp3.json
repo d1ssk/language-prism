@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bb3debcd07492abba1f0327b7322381197811e8efd27182556a3b1e7fc88797f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "처음에는 알아듣지 못했던 대화가 조금씩 이해되기 시작하면 계속 공부할 힘이 생겨요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3755f4c903b37d48b3b5f4c1d776b4e0c8a78963acbf5f008164948cbeb014f5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:13:14.511140+00:00"
+}

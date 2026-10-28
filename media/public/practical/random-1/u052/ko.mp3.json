@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ea7ea7a574fac20a0137d05996aafe8e98702f018ecbbd2810e38608feea421e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "수학에서는 구체적인 문제에서 출발해 더 일반적인 구조를 발견하기도 해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "92d194c561a0a24ebaaf37636f967f25f24b31e85e03014ad967eb38c3377a83",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:55.331718+00:00"
+}

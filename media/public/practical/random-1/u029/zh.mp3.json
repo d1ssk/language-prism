@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ba988f0a981000958a87317ad2414005ef675453971b308d17b47e0caaf21dad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "离截止日期没剩多少时间了，所以我们需要确定优先顺序。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "80673570da185b76be24fe1a14f40132a613d23d12e908c19f840023946f3cc0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:28:45.235994+00:00"
+}

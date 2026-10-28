@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a40799aad9217d657409f11ca2e5572ba5bfe2ab81700b5e67b5ef1c31af20c1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "第三条是，按顺序引导我的思想，从最简单、最容易认识的对象开始，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4528e69e0d530f6f24d3f40974c285434bbb5250faec54f0f3e000c5a97643a0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:29:46.676604+00:00"
+}

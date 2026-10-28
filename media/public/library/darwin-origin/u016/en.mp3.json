@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "90656caf9f0393aec7b715fecdba13e5bfb36bb5ecd877e31678efe1a12d7dee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Judging from the past, we may safely infer that not one living species will transmit its unaltered likeness to a distant futurity.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cf7c3d0e136a12ab3024fc24cd2fd8781015d3249082658b8ccf6234dd555c66",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:19:00.088310+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bb122a8c09b590ab1dddcf671f377873b8ef9a3e054feff87962803828d5397a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quedemos a las seis de la tarde en los tornos de la estación.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ee3cc8c12125c71bd147f4cfbd2f6ac02b7e62b2446e56e94052e2e184c0bcf3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:03.529245+00:00"
+}

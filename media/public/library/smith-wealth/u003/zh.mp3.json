@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "09868d6f5c463485f63e16bff457b84df13ea3d8290373eeac988f96b83d3f18",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "那么，即使他极其勤奋，也许一天也很难做出一枚针，肯定做不出二十枚。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "596e05b7ee60bd0e09a4bef686df78b84a3cab84e1aa1e1689a1f0e7747f21bd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:36:21.897577+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "964424c197dc1957329c96f72ab27569e1bd4df09b438b3e864ee8ba105e347c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ثمة عظمة في هذه النظرة إلى الحياة، بقواها المتعددة، التي نُفخت في الأصل في أشكال قليلة أو في شكل واحد؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b5f753fa785d52eaccdd041eebdcef23def022bd9376a951aab76f321ad9c4cc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:23:02.029078+00:00"
+}

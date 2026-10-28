@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a4ffdad3a9fbcf6afe05d54730b51e4ba91d0b50b18d77e395bbdd0b944e8eaa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "읽은 몽상적 창작의 온갖 장치가 진실이라는 생각이 상상 속에 너무 굳게 자리 잡아, 그에게는 세상에 그보다 더 확실한 역사가 없었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "34e64fa3754e4305e1b6858cbc928aa56781599113e4523da8c3f6ef7ba54718",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:00:12.454525+00:00"
+}

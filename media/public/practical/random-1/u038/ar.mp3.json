@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "12db6c04399e7807d9e0a58455122064b9477a8a27f5700bde1db6dfb9d685ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أنوي الطهي في المنزل اليوم، لكنني لم أقرر بعد ماذا سأحضر.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "02d8c1d5ed0b2707b4169eb5fe84554e3ee75b8e51196f5d8c77ec8a2997e52a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:33:32.523055+00:00"
+}

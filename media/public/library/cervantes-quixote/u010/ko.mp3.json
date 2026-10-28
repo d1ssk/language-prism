@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3946cfacf11b421a77d95df70be19b9c447215db27830d9dcd8252e285ce0cb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그런데 이 향사는 한가한 시간에, 일 년의 대부분이 한가했지만, 기사도 소설을 읽는 데 몰두했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6e0490f164b79cbb30a78bdb1c68bee6a85c68dbfee388465f8ef475c078f27c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:34:12.379723+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3acafdb7d32dfae4bab3660fffa37ab6a106be44b160702abf700c6ec75fe997",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hoy me ha surgido un trabajo urgente. ¿Podemos cambiar nuestros planes?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "643f5ea342826710e9f0ddb89a43deceefef4a2c995d1cb2bdf5e83160da154a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:12.017685+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5c098ab6ff9381d5d1b938002f834e269ce5e133da7b209e3539d22817122fd3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 변화는 어떻게 일어났는가? 나는 모른다. 무엇이 그것을 정당하게 만들 수 있는가? 나는 이 질문에 답할 수 있다고 생각한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "879cea9e220a780846a10a66ead7cbb0b09405f7db97f06f6451989337ae983d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:54:03.678185+00:00"
+}

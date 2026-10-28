@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e51d7657178017015322727f1b9613a931182850e5f2fa02e22c244d92fe3c10",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أود الذهاب للتنزه في الجبال هذا الأسبوع وقضاء وقت هادئ وسط الطبيعة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "235f51518d92dc5397cfe9935a13f536a1fa04c4bf32fc31bc40cef8535e2def",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:37:00.130608+00:00"
+}

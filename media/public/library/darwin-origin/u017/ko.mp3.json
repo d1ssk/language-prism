@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8e0c1864a45f150f4dd624eabdfa97225a9d900d3f16aff3349c225be5c81575",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또한 지금 살아 있는 종 가운데 어떤 형태로든 아주 먼 미래까지 자손을 남길 종은 극히 적을 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ef0a899be5b9992abcaccf8e015b458c9da9e47c48b4aad6b7a98a62d1bd4841",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:21:23.107355+00:00"
+}

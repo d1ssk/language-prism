@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "58137700dbd94efaf7437e3a1f0e30d2c035cadfa95f53c31de48e8e1074744c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "und einen jungen Burschen für Feldarbeit und Besorgungen, der ebenso gut das Pferd sattelte wie das Rebmesser führte.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "98d2f584c064c273c97c46e0a93d3e87bd411f072f31455f795f550cd38333c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:11:11.408130+00:00"
+}

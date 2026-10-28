@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5bde0a0f9b3c9d23c99b08d1279013b89ac2205161faa6ad6be94a02f24d4f8b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Белая дымка стлалась над рекой, и сияние воды сливалось с небом.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6ac302e713deba7100fa8f05ff816822be958e938bb4615d4b35b090b3ae9e5f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:05:16.030762+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c7408aef453efea0a499d6939e5817b3c1033bd8ee331a07803f109c52393f29",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "마침내 판단력을 완전히 잃은 그는 세상의 어떤 미치광이도 품어 본 적 없는 가장 기묘한 생각에 이르렀다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b340bc45c7d98601c228c8e6a4f4773704e5448184103e9b968ae7171ee01bb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:11:45.857751+00:00"
+}

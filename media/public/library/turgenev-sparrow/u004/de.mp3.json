@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b0e3811225df0fbb0665682ee02201f070b7eed089b9bb22f0eb21655dcce39c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Er war aus dem Nest gefallen — der Wind schüttelte die Birken der Allee heftig — und saß reglos da, die kleinen, kaum befiederten Flügel hilflos abgespreizt.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "31b07ac09a441f446ac4621784d4d4c94713b0b996a1c7629d337ba30751e290",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:12:39.197035+00:00"
+}

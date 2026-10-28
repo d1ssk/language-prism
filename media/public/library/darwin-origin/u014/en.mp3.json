@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e3cee914e37b7770708f6ef909410b553f0e8f277d93bc62210d59aba1c063f0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "that the production and extinction of the past and present inhabitants of the world should have been due to secondary causes, like those determining the birth and death of the individual.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed3665eaf26e4c362b4e0f8b70efdf78a111c012c203c6c649769087c0e32312",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:14:42.298695+00:00"
+}

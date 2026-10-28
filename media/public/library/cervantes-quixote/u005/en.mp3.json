@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8826466598223e0168d056246a32ffb53980d58c13bac10883b9260dd22f196e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In his house he had a housekeeper past forty and a niece not yet twenty,",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d8f4b27d6736be1831dbaa9335be8786c2313ffa2dcde1a7c446475223b7a45a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:10:06.959640+00:00"
+}

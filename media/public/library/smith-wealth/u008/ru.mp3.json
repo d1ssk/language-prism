@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "66ff2728a11703b12631e175954b13b99a17f307508fc261c8ace5d21dfa1b7a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я видел небольшую мануфактуру такого рода, где работали всего десять человек и потому некоторые из них выполняли две или три отдельные операции.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2a6e25954347221c5bb9c346b180a8a6dda58eb5db0d6c57c68052dc4f8f7323",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:43:54.673494+00:00"
+}

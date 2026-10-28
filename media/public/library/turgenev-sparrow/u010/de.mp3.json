@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f06ddde84889bd7ff5a95916bad019c766d864743dae62290837c6d32486f7e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich beeilte mich, den verstörten Hund zurückzurufen, und ging voller Ehrfurcht davon.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "26d3b928e67b591da2c72a502a718b764bef7360658bf1691ec30c2d01730ab1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:21:08.766099+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "808d72b321f7fcdab8396f797c0600e2b508bcf1e3ec288e526e39ca8a3dda9e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "car il avait un caractère accommodant en toute chose, n'était ni un chevalier délicat ni aussi pleurnichard que son frère, et ne lui cédait en rien pour le courage.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2a699e8381cf1e52ffc39ace53e77207547f1b650f0fe7b85db6960fee7d9785",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:54:01.978557+00:00"
+}

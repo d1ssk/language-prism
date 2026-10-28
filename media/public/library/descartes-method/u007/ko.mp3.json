@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d5dcde1fa9e0aff3c06a52f182aca53c287308913bb4e1269a830289ada42e90",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "마지막은 어느 경우에나 완전한 열거와 전반적인 검토를 하여, 아무것도 빠뜨리지 않았음을 확신할 수 있게 하는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4619c95f586071e6634f9c8a7d0a9ea5ae7c18da3fa29fd276f81ee275d3e2d5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:32:24.018674+00:00"
+}

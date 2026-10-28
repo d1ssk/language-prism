@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f5fd74282166baf23169041e3199dac405161500960299c59b2c6752f8d6cd49",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "При интерпретации результатов эксперимента нельзя забывать о неопределённости измерений.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "43b262ea2a93475b9abe667d08f754b0bcc7162e7cdd7d12d673d61fd21394dd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:44:25.583762+00:00"
+}

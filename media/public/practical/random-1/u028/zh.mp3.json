@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "52bc5f0e92ee8e7a9c4e2f87b8fa6348cfcba1d3e7b48c33f518e5fe10a83cf1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "请查看我刚才发的文件，如果有什么问题，请告诉我。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "135115d425e6337aecca80841eef78bfb4457aedc75cdc88635fd9f5e7d67a60",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:28:04.973812+00:00"
+}

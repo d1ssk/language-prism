@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "415d34d47b6ac4df2067852aca080c2f78a3a3044d62705848c08063d5e4a906",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "April 1878.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c7f27f32c24e48b4049991196649bb0c33db4822b597b7b0f664a9b6dc504336",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:23:46.633584+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cd8a9ba67cd26be10044c535cd5e4ad346b01cec6666b9cec1c1a08a8a22a2a9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lo que valoramos en la vida puede ir cambiando poco a poco con la edad y la experiencia.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dd06f591e492ad5be0ec67d03de38f61b968f9419b5f65920d23260bfb63b566",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:08:45.717602+00:00"
+}

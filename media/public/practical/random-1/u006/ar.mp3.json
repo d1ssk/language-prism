@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0f9830ccef6de850bc75f659309eb4843fbb0a10b7ce7cefc396000fecec54d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كان كل شيء لذيذًا جدًا. هل يمكننا الحصول على الفاتورة من فضلك؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8fe9ffc57d194b04265099eda2f8077af2b5ace5a712bda5ebbe016d9aef4817",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:16:03.240650+00:00"
+}

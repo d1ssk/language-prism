@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7a659dbf6ddab8724b13f2844a9096ffbd12b9a9acd4c0711b9bfe4334459448",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nach einer Weile stieg der Mond über den östlichen Bergen auf und verweilte zwischen den Mondhäusern des Schöpfers und des Ochsen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9669721ad3cb47880d8ba2a84fde25cf3eb57de203c4f0798c5dac837dd11582",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:04:20.009272+00:00"
+}

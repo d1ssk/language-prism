@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c978d7388d575f1455d9dddaf768d404901b22a5bd3fef8f568532616b0e4284",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هل يمكنك التحدث ببطء أكثر قليلًا من فضلك؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e8e0d17ce599f46da9ceef32673928b3733442d751957e5744f63cbc6feaa235",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:30:41.662816+00:00"
+}

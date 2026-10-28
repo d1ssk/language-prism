@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5058af7b9775ce05b5dffcd87cb52e63379a2f7633abf87f9c2e66f3f87c4a09",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "のこりは、じょうとうなけおりもののうわぎと、さいじつようのびろーどのきゃくい、おなじきじのしつないばきでつかいきっていた。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a57c7dd83cd9a6f8a45592a9b4bda196a8446bebf045ea3937069e1f103f34bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:08:30.512941+00:00"
+}

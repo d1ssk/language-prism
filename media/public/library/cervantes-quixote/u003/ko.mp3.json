@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "15c171eba35178e944cd871c92cc654de4de3bde37ea46730d33b2c6f3970039",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "나머지는 고운 모직 상의와 축일에 입는 벨벳 바지, 같은 천으로 만든 실내화에 모두 써 버렸다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "86d95863470c4f1c7cdd39b7d3e3c1e76a4bc242664d3ea9017f322134d32614",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:09:19.484811+00:00"
+}

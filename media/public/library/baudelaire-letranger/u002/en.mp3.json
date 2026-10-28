@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3c8f430268c9d783e0c88072810f308db4d3b75c2a84e81d9f263e1c5521944e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— I have neither father nor mother, neither sister nor brother.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "00ea67bc49d4b0ff2209721a5d73b5bb35662f65a9e40b6ed5e4a4a0295a5d4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:47:55.220964+00:00"
+}

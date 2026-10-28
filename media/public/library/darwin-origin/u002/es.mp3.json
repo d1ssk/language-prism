@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ab0a0abc7cd0bf39fc5b61d1aff5b60950061705e889adaa6b3be80d6d0631fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "y reflexionar que estas formas tan elaboradamente construidas, tan distintas entre sí y tan complejamente dependientes unas de otras, han sido producidas todas por leyes que actúan a nuestro alrededor.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9cebce8a7bcb8a1f5e1115f2176ff8bbdfa687d7b1e9f0f760d40e2d8b7903a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:16:23.201596+00:00"
+}

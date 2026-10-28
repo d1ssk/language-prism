@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9003334e48f97022a7c92ffe39fc68d88708723936152a55e0169b4d871fa806",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "길이 막혀서 십 분 정도 늦게 도착할 것 같아요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ff87162645e4c9f8204f23adfd69d5c50f8deb347c78196ac170183c21fb6e37",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:00.546842+00:00"
+}

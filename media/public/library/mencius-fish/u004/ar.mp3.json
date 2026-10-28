@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "55c5c328939c28120114f6f8495f860036eb9173683c1e9f0e5f02f148cbb97f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "فإن لم أستطع الجمع بينهما، تركت الحياة واخترت الاستقامة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "30d75ec48ad76126a81bec1ec33749053d25ae0efc46790a8beebed15f0800ba",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:02:20.777935+00:00"
+}

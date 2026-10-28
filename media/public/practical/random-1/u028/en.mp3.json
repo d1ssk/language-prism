@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "21a413819f8e1a734bfdd7915bbb8a3a04aefe7161f84a1e6a7333998c74ef0c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Please check the file I sent earlier and let me know if you have any concerns.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbedb06ccc3f4a4644f8d1dbf62b8c9bf0e9600b57b47b1b38005f19d8c8008b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:27:34.400351+00:00"
+}

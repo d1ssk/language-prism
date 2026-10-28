@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8d0003307d926e96a71e24ff5077d270a40862bad374290c68f3a5c5585e2ed4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在数学中，我们有时会从一个具体问题出发，发现更一般的结构。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0bc5c2895d9fa018b948ea40e8a38090da9ae0908417383347deac2f007125c2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:49.225867+00:00"
+}

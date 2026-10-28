@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "93b8a83790b2b63f7bbd3a0ffc9ba1c2945ae6020dfddaa3347fef7c136c64a9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "L’homme est né libre, et partout il est dans les fers.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a5399c3bf4df1156a6d93e40ada4ba83faca68280896d96e891f17c8293ec990",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:52:01.104608+00:00"
+}

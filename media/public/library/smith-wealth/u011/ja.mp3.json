@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a0ae1930683fd329e528e150fc4d9987a58b38f367ce257ac7b768b55c0c378",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "したがって、そのじゅうにんはあわせていちにちによんまんはっせんぼんいじょうのぴんをつくることができた。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d5a69eb9b1ec4717c0088b59822784df423b2e8fd9c6088759a40b7094467fac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:46:21.668047+00:00"
+}

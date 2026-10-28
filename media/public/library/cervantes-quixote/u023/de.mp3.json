@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2f802d1449fe2db9f74b166e9465aa16d25e8bd77855f8aacb9b6686ebd3cc06",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Meister Nicolás hingegen, der Barbier desselben Dorfes, meinte, niemand komme dem Sonnenritter gleich; wenn überhaupt jemand mit ihm vergleichbar sei, dann Don Galaor, der Bruder des Amadis von Gallien,",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "be243c033e875b79e86fac4b280566eee78cdc2a91ab40206dbc2cf247c22662",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:52:32.104209+00:00"
+}

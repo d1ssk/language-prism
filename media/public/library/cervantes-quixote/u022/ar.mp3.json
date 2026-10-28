@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e13442131690ea00b57845c5756dee37da07dca9deeffe91d098071762b6f7f8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وكثيرا ما جادل كاهن قريته، وهو رجل عالم تخرج في سيغوينثا، في أيهما كان الفارس الأفضل: بالمرين الإنجليزي أم أماديس الغالي؛",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "952f93d2e150062946460d6e75a86ed4efea561e5950527bcbd806d9bd5e85cc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:51:17.372330+00:00"
+}

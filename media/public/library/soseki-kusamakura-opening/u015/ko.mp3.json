@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f9fb5854177ff0f6134eab65999a6ae1a870923e4620c76fa49fd9ca40e9a77e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "모든 예술가는 인간 세상을 평온하게 하고 사람의 마음을 풍요롭게 하기에 존귀하다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9fa6c6f77e516b860a66e0074a93d9c2b05eb7fd6b329e1935da151d7a4487d1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:00:25.763021+00:00"
+}

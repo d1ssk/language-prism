@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "33c388630286056c3e5c6ed4f8083c0526942b2711687150d2b925cfd75a9d5c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "방금 하신 말씀을 한 번 더 반복해 주실 수 있나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "384567672ec0a3a08edfc535b994540539d309fc88135cc11e055ae46f582c2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:31:45.051914+00:00"
+}

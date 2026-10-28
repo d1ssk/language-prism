@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e4685cbe090620a927637785c8cbd44839b3ff90f992d75cc1973695ef5d04f5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또한 내 정신에 아주 명석하고 판명하게 나타나서 의심할 여지가 전혀 없는 것만을 판단에 포함하는 것이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "65641fffc6df6e52044129b0b555595a56f563cf31420eeb241be15523a0bc49",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:27:49.520881+00:00"
+}

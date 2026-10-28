@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d01e846e3ebb7ed421fec06d7c381cc6434839bebca577553940f03b5a996371",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "だいにのきそくは、けんとうするなんもんをひとつひとつ、できるだけおおくの、しかもよりよくとくためにひつようなだけのしょうぶぶんにわけることだった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c86e90c0aa91b24f76b63c2a46ae549aa7458623b54ed24aae89cd8863e70ded",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:27:56.767128+00:00"
+}

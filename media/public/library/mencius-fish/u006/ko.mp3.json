@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "401d6ad724807fb480478cfa32b2023a0caed8de53979c70f6f57e14d5ef2c1c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "죽음도 내가 싫어하는 것이지만, 죽음보다 더 싫어하는 것이 있으므로 피하지 않는 환난도 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "14bd0e1e4a3848c1d08132cc2c752dd4f458e27594f8a2bb31de2c0fa2a7c352",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:04:39.639121+00:00"
+}

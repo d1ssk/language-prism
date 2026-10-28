@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0de38e1c36fb6370ce60cf5888b5676c85a22f50a4d1b0d10aa707dc0d76045d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "生亦我所欲，所欲有甚於生者，故不為茍得也。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8cfecad3b708d08e986f5deea4aaa48f3c996c9da3e4b305d4d0466b91c678d8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:03:26.987805+00:00"
+}

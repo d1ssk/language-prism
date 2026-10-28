@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0c1a479dbd2e60335e4b39395ad5b86c018d85b16094de64e602a4f508f44fdb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لا يتصرف الناس دائمًا بعقلانية، فالعواطف والعادات تؤثر أيضًا بشكل كبير في سلوكهم.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dd653130f011efa52ceed7f2c8c37a65a3e0e20dc7b3bb47a6187b74b621d8f1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:29.175959+00:00"
+}

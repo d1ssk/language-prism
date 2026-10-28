@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "78f2796904f9ec214214b74ee4f5d5d94b18c53f040c276eef2cafcbe8f144d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Gäbe es eines, bliebe nur ein Land von Wesen ohne Menschlichkeit.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "484a4dd448c9978f381bbabc6c33e223bfa32c76ea7885ae71b16d9ba32ef8d1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:56:11.376041+00:00"
+}

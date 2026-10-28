@@ -1,0 +1,1049 @@
+{
+  "schemaVersion": 1,
+  "id": "paine-common-sense",
+  "slug": "paine-common-sense",
+  "type": "library",
+  "title": {
+    "ja": "コモン・センス",
+    "en": "Common Sense"
+  },
+  "description": {
+    "ja": "社会と政府の違いを論じ、安全の確保を政府の目的とする一節。",
+    "en": "An opening argument distinguishing society from government and identifying security as government’s purpose."
+  },
+  "originalLanguage": "en",
+  "author": "Thomas Paine",
+  "bibliography": {
+    "originalTitle": "Common Sense",
+    "originalAuthor": "Thomas Paine",
+    "title": {
+      "ja": "コモン・センス",
+      "en": "Common Sense"
+    },
+    "author": {
+      "ja": "トマス・ペイン",
+      "en": "Thomas Paine"
+    }
+  },
+  "sourceTitle": "Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776",
+  "sourceURL": "https://www.gutenberg.org/cache/epub/147/pg147-images.html",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Thomas Paine。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Thomas Paine. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。序文の後の第1節から抜粋。ページ番号は除外し、expence などの綴りを保持しています。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The excerpt begins in section I after the introduction. Page numbers are omitted; spellings such as expence are retained."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1節冒頭。「Some writers」から「preferable to all others」まで",
+      "en": "Opening of section I, from “Some writers” to “preferable to all others”"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "社会と政府を混同し、両者の区別をほとんど、あるいはまったく残さない著述家がいる。しかし両者は異なるだけでなく、その起源も異なる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しゃかいとせいふをこんどうし、りょうしゃのくべつをほとんど、あるいはまったくのこさないちょじゅつかがいる。しかしりょうしゃはことなるだけでなく、そのきげんもことなる。"
+        },
+        "en": {
+          "text": "Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins."
+        },
+        "es": {
+          "text": "Algunos escritores han confundido tanto la sociedad con el gobierno que apenas dejan distinción entre ambos, o ninguna; sin embargo, no solo son diferentes, sino que tienen orígenes distintos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Algunos escritores han confundido tanto la sociedad con el gobierno que apenas dejan distinción entre ambos, o ninguna; sin embargo, no solo son diferentes, sino que tienen orígenes distintos."
+        },
+        "fr": {
+          "text": "Certains auteurs ont tellement confondu la société et le gouvernement qu’ils ne laissent presque aucune distinction entre eux ; pourtant, ils diffèrent non seulement par leur nature, mais aussi par leur origine.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Certains auteurs ont tellement confondu la société et le gouvernement qu’ils ne laissent presque aucune distinction entre eux ; pourtant, ils diffèrent non seulement par leur nature, mais aussi par leur origine."
+        },
+        "de": {
+          "text": "Manche Schriftsteller haben Gesellschaft und Regierung so sehr vermengt, dass kaum oder gar kein Unterschied bleibt; doch sie sind nicht nur verschieden, sondern haben auch verschiedene Ursprünge.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Manche Schriftsteller haben Gesellschaft und Regierung so sehr vermengt, dass kaum oder gar kein Unterschied bleibt; doch sie sind nicht nur verschieden, sondern haben auch verschiedene Ursprünge."
+        },
+        "ru": {
+          "text": "Некоторые авторы настолько смешали общество и правительство, что почти или совсем не оставили между ними различия; однако они не только различны, но и имеют разное происхождение.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Некоторые авторы настолько смешали общество и правительство, что почти или совсем не оставили между ними различия; однако они не только различны, но и имеют разное происхождение."
+        },
+        "ar": {
+          "text": "خَلَطَ بَعْضُ الْكُتَّابِ بَيْنَ الْمُجْتَمَعِ وَالْحُكُومَةِ حَتَّى لَمْ يَتْرُكُوا بَيْنَهُمَا إِلَّا فَرْقًا ضَئِيلًا أَوْ لَمْ يَتْرُكُوا فَرْقًا أَصْلًا؛ وَالْحَالُ أَنَّهُمَا لَا يَخْتَلِفَانِ فَحَسْبُ، بَلْ لَهُمَا أَصْلَانِ مُخْتَلِفَانِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "خَلَطَ بَعْضُ الْكُتَّابِ بَيْنَ الْمُجْتَمَعِ وَالْحُكُومَةِ حَتَّى لَمْ يَتْرُكُوا بَيْنَهُمَا إِلَّا فَرْقًا ضَئِيلًا أَوْ لَمْ يَتْرُكُوا فَرْقًا أَصْلًا؛ وَالْحَالُ أَنَّهُمَا لَا يَخْتَلِفَانِ فَحَسْبُ، بَلْ لَهُمَا أَصْلَانِ مُخْتَلِفَانِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Khalaṭa baʿḍu al-kuttābi bayna al-mujtamaʿi wa-al-ḥukūmati ḥattā lam yatrukū baynahumā ʾillā farqan ḍaʾīlan ʾaw lam yatrukū farqan ʾaṣlan; wa-al-ḥālu ʾannahumā lā yakhtalifāni fa-ḥasbu, bal lahumā ʾaṣlāni mukhtalifāni."
+          }
+        },
+        "zh": {
+          "text": "有些作者把社会与政府混为一谈，几乎不作区分，甚至完全不作区分；但两者不仅不同，起源也不相同。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "有些作者把社会与政府混为一谈，几乎不作区分，甚至完全不作区分；但两者不仅不同，起源也不相同。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǒuxiē zuòzhě bǎ shèhuì yǔ zhèngfǔ hùn wéi yī tán, jīhū bù zuò qūfēn, shènzhì wánquán bù zuò qūfēn; dàn liǎng zhě bùjǐn bùtóng, qǐyuán yě bù xiāngtóng."
+          }
+        },
+        "ko": {
+          "text": "어떤 저술가들은 사회와 정부를 너무 혼동하여 둘 사이의 구별을 거의 또는 전혀 남기지 않았다. 그러나 둘은 다를 뿐 아니라 기원도 다르다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "어떤 저술가들은 사회와 정부를 너무 혼동하여 둘 사이의 구별을 거의 또는 전혀 남기지 않았다. 그러나 둘은 다를 뿐 아니라 기원도 다르다."
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "社会は私たちの必要から生まれ、政府は私たちの悪から生まれる。前者は私たちの情愛を結び合わせることで積極的に幸福を促し、後者は悪徳を抑えることで消極的に幸福を促す。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しゃかいはわたしたちのひつようからうまれ、せいふはわたしたちのあくからうまれる。ぜんしゃはわたしたちのじょうあいをむすびあわせることでせっきょくてきにこうふくをうながし、こうしゃはあくとくをおさえることでしょうきょくてきにこうふくをうながす。"
+        },
+        "en": {
+          "text": "Society is produced by our wants, and government by our wickedness; the former promotes our happiness positively by uniting our affections, the latter negatively by restraining our vices.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "positively / negatively は、善悪の評価ではなく「直接もたらすこと」と「害を抑えること」の対比です。",
+              "en": "Positively and negatively contrast directly creating a benefit with preventing harm, rather than simply good and bad."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "Society is produced by our wants, and government by our wickedness; the former promotes our happiness positively by uniting our affections, the latter negatively by restraining our vices."
+        },
+        "es": {
+          "text": "La sociedad nace de nuestras necesidades y el gobierno de nuestra maldad; la primera fomenta nuestra felicidad positivamente al unir nuestros afectos, y el segundo negativamente al contener nuestros vicios.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La sociedad nace de nuestras necesidades y el gobierno de nuestra maldad; la primera fomenta nuestra felicidad positivamente al unir nuestros afectos, y el segundo negativamente al contener nuestros vicios."
+        },
+        "fr": {
+          "text": "La société naît de nos besoins, le gouvernement de notre méchanceté ; la première favorise positivement notre bonheur en unissant nos affections, le second négativement en réprimant nos vices.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La société naît de nos besoins, le gouvernement de notre méchanceté ; la première favorise positivement notre bonheur en unissant nos affections, le second négativement en réprimant nos vices."
+        },
+        "de": {
+          "text": "Die Gesellschaft entsteht aus unseren Bedürfnissen, die Regierung aus unserer Bosheit; jene fördert unser Glück positiv, indem sie unsere Zuneigungen verbindet, diese negativ, indem sie unsere Laster zügelt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die Gesellschaft entsteht aus unseren Bedürfnissen, die Regierung aus unserer Bosheit; jene fördert unser Glück positiv, indem sie unsere Zuneigungen verbindet, diese negativ, indem sie unsere Laster zügelt."
+        },
+        "ru": {
+          "text": "Общество рождается из наших потребностей, правительство — из нашей порочности; первое способствует счастью положительно, соединяя наши привязанности, второе — отрицательно, сдерживая наши пороки.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Общество рождается из наших потребностей, правительство — из нашей порочности; первое способствует счастью положительно, соединяя наши привязанности, второе — отрицательно, сдерживая наши пороки."
+        },
+        "ar": {
+          "text": "يَنْشَأُ الْمُجْتَمَعُ مِنْ حَاجَاتِنَا، وَالْحُكُومَةُ مِنْ شَرِّنَا؛ فَالْأَوَّلُ يُعَزِّزُ سَعَادَتَنَا إِيجَابِيًّا بِجَمْعِ عَوَاطِفِنَا، وَالثَّانِيَةُ سَلْبِيًّا بِكَفِّ رَذَائِلِنَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "يَنْشَأُ الْمُجْتَمَعُ مِنْ حَاجَاتِنَا، وَالْحُكُومَةُ مِنْ شَرِّنَا؛ فَالْأَوَّلُ يُعَزِّزُ سَعَادَتَنَا إِيجَابِيًّا بِجَمْعِ عَوَاطِفِنَا، وَالثَّانِيَةُ سَلْبِيًّا بِكَفِّ رَذَائِلِنَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Yanshaʾu al-mujtamaʿu min ḥājātinā, wa-al-ḥukūmatu min sharrinā; fa-al-ʾawwalu yuʿazzizu saʿādatanā ʾījābiyyan bi-jamʿi ʿawāṭifinā, wa-ath-thāniyatu salbiyyan bi-kaffi radhāʾilinā."
+          }
+        },
+        "zh": {
+          "text": "社会源于我们的需要，政府源于我们的邪恶；前者通过联结我们的感情，积极地增进幸福，后者通过约束我们的恶习，消极地增进幸福。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "社会源于我们的需要，政府源于我们的邪恶；前者通过联结我们的感情，积极地增进幸福，后者通过约束我们的恶习，消极地增进幸福。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shèhuì yuán yú wǒmen de xūyào, zhèngfǔ yuán yú wǒmen de xié’è; qián zhě tōngguò liánjié wǒmen de gǎnqíng, jījí de zēngjìn xìngfú, hòu zhě tōngguò yuēshù wǒmen de èxí, xiāojí de zēngjìn xìngfú."
+          }
+        },
+        "ko": {
+          "text": "사회는 우리의 필요에서, 정부는 우리의 악함에서 생겨난다. 전자는 우리의 애정을 결합하여 적극적으로 행복을 증진하고, 후자는 악덕을 억제하여 소극적으로 행복을 증진한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "사회는 우리의 필요에서, 정부는 우리의 악함에서 생겨난다. 전자는 우리의 애정을 결합하여 적극적으로 행복을 증진하고, 후자는 악덕을 억제하여 소극적으로 행복을 증진한다."
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "一方は交流を促し、他方は区別をつくる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "いっぽうはこうりゅうをうながし、たほうはくべつをつくる。"
+        },
+        "en": {
+          "text": "The one encourages intercourse, the other creates distinctions.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "intercourse はここでは人々の交流・交際を意味します。",
+              "en": "Intercourse here means social dealings or communication."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "The one encourages intercourse, the other creates distinctions."
+        },
+        "es": {
+          "text": "Una fomenta el trato; el otro crea distinciones.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Una fomenta el trato; el otro crea distinciones."
+        },
+        "fr": {
+          "text": "L’une encourage les échanges ; l’autre crée des distinctions.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "L’une encourage les échanges ; l’autre crée des distinctions."
+        },
+        "de": {
+          "text": "Die eine fördert den Umgang, die andere schafft Unterschiede.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die eine fördert den Umgang, die andere schafft Unterschiede."
+        },
+        "ru": {
+          "text": "Одно поощряет общение, другое создаёт различия.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Одно поощряет общение, другое создаёт различия."
+        },
+        "ar": {
+          "text": "الْأَوَّلُ يُشَجِّعُ التَّوَاصُلَ، وَالثَّانِيَةُ تُنْشِئُ الْفَوَارِقَ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْأَوَّلُ يُشَجِّعُ التَّوَاصُلَ، وَالثَّانِيَةُ تُنْشِئُ الْفَوَارِقَ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʾawwalu yushajjiʿu at-tawāṣula, wa-ath-thāniyatu tunshiʾu al-fawāriqa."
+          }
+        },
+        "zh": {
+          "text": "前者促进交往，后者制造区别。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "前者促进交往，后者制造区别。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qián zhě cùjìn jiāowǎng, hòu zhě zhìzào qūbié."
+          }
+        },
+        "ko": {
+          "text": "하나는 교류를 장려하고 다른 하나는 구별을 만든다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "하나는 교류를 장려하고 다른 하나는 구별을 만든다."
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "前者は庇護者であり、後者は罰する者である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ぜんしゃはひごしゃであり、こうしゃはばっするものである。"
+        },
+        "en": {
+          "text": "The first a patron, the last a punisher.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "原文では動詞 is が省略され、短い対句になっています。",
+              "en": "The verb is is omitted, producing a compressed parallel contrast."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "The first a patron, the last a punisher."
+        },
+        "es": {
+          "text": "La primera es protectora; el segundo, castigador.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La primera es protectora; el segundo, castigador."
+        },
+        "fr": {
+          "text": "La première protège ; le second punit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La première protège ; le second punit."
+        },
+        "de": {
+          "text": "Die erste ist ein Beschützer, die zweite ein Bestrafer.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die erste ist ein Beschützer, die zweite ein Bestrafer."
+        },
+        "ru": {
+          "text": "Первое — покровитель, второе — каратель.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Первое — покровитель, второе — каратель."
+        },
+        "ar": {
+          "text": "الْأَوَّلُ حَامٍ، وَالثَّانِيَةُ مُعَاقِبَةٌ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْأَوَّلُ حَامٍ، وَالثَّانِيَةُ مُعَاقِبَةٌ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʾawwalu ḥāmin, wa-ath-thāniyatu muʿāqibatun."
+          }
+        },
+        "zh": {
+          "text": "前者是保护者，后者是惩罚者。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "前者是保护者，后者是惩罚者。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qián zhě shì bǎohùzhě, hòu zhě shì chéngfázhě."
+          }
+        },
+        "ko": {
+          "text": "전자는 보호자이고 후자는 처벌자이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "전자는 보호자이고 후자는 처벌자이다."
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "社会はいかなる状態でも恵みであるが、政府は最良の状態でも必要悪にすぎず、最悪の状態では耐えがたい悪となる。政府のない国で予想されるのと同じ災いを政府によって受けたり、その危険にさらされたりするとき、私たちは自ら苦しみの手段を供給しているのだと思い、いっそう苦しむからである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しゃかいはいかなるじょうたいでもめぐみであるが、せいふはさいりょうのじょうたいでもひつようあくにすぎず、さいあくのじょうたいではたえがたいあくとなる。せいふのないくにでよそうされるのとおなじわざわいをせいふによってうけたり、そのきけんにさらされたりするとき、わたしたちはみずからくるしみのしゅだんをきょうきゅうしているのだとおもい、いっそうくるしむからである。"
+        },
+        "en": {
+          "text": "Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one; for when we suffer, or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one; for when we suffer, or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer."
+        },
+        "es": {
+          "text": "La sociedad es una bendición en cualquier estado, pero el gobierno, aun en el mejor, solo es un mal necesario, y en el peor un mal intolerable; pues, cuando un gobierno nos hace sufrir o nos expone a las mismas miserias que esperaríamos en un país sin gobierno, nuestra desgracia aumenta al pensar que nosotros aportamos los medios de nuestro sufrimiento.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La sociedad es una bendición en cualquier estado, pero el gobierno, aun en el mejor, solo es un mal necesario, y en el peor un mal intolerable; pues, cuando un gobierno nos hace sufrir o nos expone a las mismas miserias que esperaríamos en un país sin gobierno, nuestra desgracia aumenta al pensar que nosotros aportamos los medios de nuestro sufrimiento."
+        },
+        "fr": {
+          "text": "La société est un bienfait en tout état, mais le gouvernement, même au meilleur, n’est qu’un mal nécessaire, et au pire un mal intolérable ; car lorsque nous subissons par lui les mêmes misères, ou y sommes exposés, que dans un pays sans gouvernement, notre malheur s’accroît à la pensée que nous fournissons les moyens de notre souffrance.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "La société est un bienfait en tout état, mais le gouvernement, même au meilleur, n’est qu’un mal nécessaire, et au pire un mal intolérable ; car lorsque nous subissons par lui les mêmes misères, ou y sommes exposés, que dans un pays sans gouvernement, notre malheur s’accroît à la pensée que nous fournissons les moyens de notre souffrance."
+        },
+        "de": {
+          "text": "Gesellschaft ist in jedem Zustand ein Segen, Regierung aber selbst im besten nur ein notwendiges, im schlimmsten ein unerträgliches Übel. Erleiden wir durch eine Regierung dieselben Nöte oder sind ihnen ausgesetzt, die wir in einem Land ohne Regierung erwarten könnten, verschlimmert der Gedanke unser Unglück, dass wir selbst die Mittel unseres Leidens bereitstellen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Gesellschaft ist in jedem Zustand ein Segen, Regierung aber selbst im besten nur ein notwendiges, im schlimmsten ein unerträgliches Übel. Erleiden wir durch eine Regierung dieselben Nöte oder sind ihnen ausgesetzt, die wir in einem Land ohne Regierung erwarten könnten, verschlimmert der Gedanke unser Unglück, dass wir selbst die Mittel unseres Leidens bereitstellen."
+        },
+        "ru": {
+          "text": "Общество в любом состоянии — благо, но правительство даже в лучшем случае лишь необходимое зло, а в худшем — невыносимое. Когда оно причиняет нам те же бедствия или подвергает им, какие можно ожидать в стране без правительства, наше несчастье усиливается мыслью, что мы сами предоставляем средства для наших страданий.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Общество в любом состоянии — благо, но правительство даже в лучшем случае лишь необходимое зло, а в худшем — невыносимое. Когда оно причиняет нам те же бедствия или подвергает им, какие можно ожидать в стране без правительства, наше несчастье усиливается мыслью, что мы сами предоставляем средства для наших страданий."
+        },
+        "ar": {
+          "text": "الْمُجْتَمَعُ نِعْمَةٌ فِي كُلِّ حَالٍ، أَمَّا الْحُكُومَةُ فَفِي أَفْضَلِ أَحْوَالِهَا شَرٌّ ضَرُورِيٌّ، وَفِي أَسْوَئِهَا شَرٌّ لَا يُحْتَمَلُ؛ لِأَنَّنَا إِذَا عَانَيْنَا بِسَبَبِهَا الْمَصَائِبَ نَفْسَهَا الَّتِي نَتَوَقَّعُهَا فِي بَلَدٍ بِلَا حُكُومَةٍ، أَوْ تَعَرَّضْنَا لَهَا، ازْدَادَ بَلَاؤُنَا حِينَ نُدْرِكُ أَنَّنَا نُوَفِّرُ أَسْبَابَ مَعَانَاتِنَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْمُجْتَمَعُ نِعْمَةٌ فِي كُلِّ حَالٍ، أَمَّا الْحُكُومَةُ فَفِي أَفْضَلِ أَحْوَالِهَا شَرٌّ ضَرُورِيٌّ، وَفِي أَسْوَئِهَا شَرٌّ لَا يُحْتَمَلُ؛ لِأَنَّنَا إِذَا عَانَيْنَا بِسَبَبِهَا الْمَصَائِبَ نَفْسَهَا الَّتِي نَتَوَقَّعُهَا فِي بَلَدٍ بِلَا حُكُومَةٍ، أَوْ تَعَرَّضْنَا لَهَا، ازْدَادَ بَلَاؤُنَا حِينَ نُدْرِكُ أَنَّنَا نُوَفِّرُ أَسْبَابَ مَعَانَاتِنَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-mujtamaʿu niʿmatun fī kulli ḥālin, ʾammā al-ḥukūmatu fa-fī ʾafḍali ʾaḥwālihā sharrun ḍarūriyyun, wa-fī ʾaswaʾihā sharrun lā yuḥtamalu; li-ʾannanā ʾidhā ʿānaynā bi-sababihā al-maṣāʾiba nafsahā allatī natawaqqaʿuhā fī baladin bi-lā ḥukūmatin, ʾaw taʿarraḍnā lahā, izdāda balāʾunā ḥīna nudriku ʾannanā nuwaffiru ʾasbāba muʿānātinā."
+          }
+        },
+        "zh": {
+          "text": "社会在任何状态下都是福祉，而政府即使在最好的状态下也不过是必要的恶，在最坏的状态下则是无法忍受的恶。因为当政府使我们遭受或面临与无政府国家同样的苦难时，想到正是我们提供了让自己受苦的手段，灾难便更加沉重。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "社会在任何状态下都是福祉，而政府即使在最好的状态下也不过是必要的恶，在最坏的状态下则是无法忍受的恶。因为当政府使我们遭受或面临与无政府国家同样的苦难时，想到正是我们提供了让自己受苦的手段，灾难便更加沉重。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shèhuì zài rènhé zhuàngtài xià dōu shì fúzhǐ, ér zhèngfǔ jíshǐ zài zuì hǎo de zhuàngtài xià yě bùguò shì bìyào de è, zài zuì huài de zhuàngtài xià zé shì wúfǎ rěnshòu de è. Yīnwèi dāng zhèngfǔ shǐ wǒmen zāoshòu huò miànlín yǔ wú zhèngfǔ guójiā tóngyàng de kǔnàn shí, xiǎngdào zhèng shì wǒmen tígōng le ràng zìjǐ shòukǔ de shǒuduàn, zāinàn biàn gèngjiā chénzhòng."
+          }
+        },
+        "ko": {
+          "text": "사회는 어떤 상태에서도 축복이지만 정부는 최선의 상태에서도 필요악에 불과하고, 최악의 상태에서는 참을 수 없는 악이다. 정부가 없는 나라에서 예상할 만한 불행을 정부 때문에 겪거나 그 위험에 놓일 때, 우리 고통의 수단을 우리 스스로 제공한다는 생각이 불행을 더하기 때문이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "사회는 어떤 상태에서도 축복이지만 정부는 최선의 상태에서도 필요악에 불과하고, 최악의 상태에서는 참을 수 없는 악이다. 정부가 없는 나라에서 예상할 만한 불행을 정부 때문에 겪거나 그 위험에 놓일 때, 우리 고통의 수단을 우리 스스로 제공한다는 생각이 불행을 더하기 때문이다."
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "政府は衣服と同じく、失われた無垢のしるしである。王たちの宮殿は、楽園の木陰のあずまやの跡に建てられている。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "せいふはいふくとおなじく、うしなわれたむくのしるしである。おうたちのきゅうでんは、らくえんのこかげのあずまやのあとにたてられている。"
+        },
+        "en": {
+          "text": "Government, like dress, is the badge of lost innocence; the palaces of kings are built on the ruins of the bowers of paradise.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "衣服と失われた無垢、楽園への言及は、堕落の物語を踏まえた比喩です。",
+              "en": "The references to clothing, lost innocence and paradise form an image drawing on the story of the Fall."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "Government, like dress, is the badge of lost innocence; the palaces of kings are built on the ruins of the bowers of paradise."
+        },
+        "es": {
+          "text": "El gobierno, como el vestido, es la señal de la inocencia perdida; los palacios de los reyes se levantan sobre las ruinas de las enramadas del paraíso.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El gobierno, como el vestido, es la señal de la inocencia perdida; los palacios de los reyes se levantan sobre las ruinas de las enramadas del paraíso."
+        },
+        "fr": {
+          "text": "Le gouvernement, comme le vêtement, est la marque de l’innocence perdue ; les palais des rois sont bâtis sur les ruines des berceaux de verdure du paradis.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le gouvernement, comme le vêtement, est la marque de l’innocence perdue ; les palais des rois sont bâtis sur les ruines des berceaux de verdure du paradis."
+        },
+        "de": {
+          "text": "Regierung ist wie Kleidung das Zeichen verlorener Unschuld; die Paläste der Könige stehen auf den Trümmern der Lauben des Paradieses.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Regierung ist wie Kleidung das Zeichen verlorener Unschuld; die Paläste der Könige stehen auf den Trümmern der Lauben des Paradieses."
+        },
+        "ru": {
+          "text": "Правительство, подобно одежде, — знак утраченной невинности; дворцы царей стоят на развалинах райских беседок.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Правительство, подобно одежде, — знак утраченной невинности; дворцы царей стоят на развалинах райских беседок."
+        },
+        "ar": {
+          "text": "الْحُكُومَةُ، كَاللِّبَاسِ، عَلَامَةُ الْبَرَاءَةِ الْمَفْقُودَةِ؛ فَقُصُورُ الْمُلُوكِ مَبْنِيَّةٌ عَلَى أَنْقَاضِ عَرَائِشِ الْفِرْدَوْسِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْحُكُومَةُ، كَاللِّبَاسِ، عَلَامَةُ الْبَرَاءَةِ الْمَفْقُودَةِ؛ فَقُصُورُ الْمُلُوكِ مَبْنِيَّةٌ عَلَى أَنْقَاضِ عَرَائِشِ الْفِرْدَوْسِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥukūmatu, ka-al-libāsi, ʿalāmatu al-barāʾati al-mafqūdati; fa-quṣūru al-mulūki mabniyyatun ʿalā ʾanqāḍi ʿarāʾishi al-firdawsi."
+          }
+        },
+        "zh": {
+          "text": "政府如同衣服，是纯真失落的标记；君王的宫殿建在乐园林荫亭榭的废墟之上。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "政府如同衣服，是纯真失落的标记；君王的宫殿建在乐园林荫亭榭的废墟之上。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhèngfǔ rútóng yīfu, shì chúnzhēn shīluò de biāojì; jūnwáng de gōngdiàn jiàn zài lèyuán línyīn tíngxiè de fèixū zhī shàng."
+          }
+        },
+        "ko": {
+          "text": "정부는 옷과 마찬가지로 잃어버린 순수함의 표지이다. 왕들의 궁전은 낙원 정자의 폐허 위에 세워져 있다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "정부는 옷과 마찬가지로 잃어버린 순수함의 표지이다. 왕들의 궁전은 낙원 정자의 폐허 위에 세워져 있다."
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "もし良心の衝動が明確で一貫しており、逆らうことなく従われるなら、人間にはほかの立法者はいらない。しかし実際はそうではないため、残りの財産を守る手段を得るには、一部を差し出す必要があると考える。それを促すのは、ほかのあらゆる場合にも二つの悪から小さい方を選ぶよう勧める、あの慎慮である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "もしりょうしんのしょうどうがめいかくでいっかんしており、さからうことなくしたがわれるなら、にんげんにはほかのりっぽうしゃはいらない。しかしじっさいはそうではないため、のこりのざいさんをまもるしゅだんをえるには、いちぶをさしだすひつようがあるとかんがえる。それをうながすのは、ほかのあらゆるばあいにもふたつのあくからちいさいほうをえらぶようすすめる、あのしんりょである。"
+        },
+        "en": {
+          "text": "For were the impulses of conscience clear, uniform, and irresistibly obeyed, man would need no other lawgiver; but that not being the case, he finds it necessary to surrender up a part of his property to furnish means for the protection of the rest; and this he is induced to do by the same prudence which in every other case advises him out of two evils to choose the least.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "were から始まる倒置は、if the impulses were に相当する仮定です。",
+              "en": "The inversion beginning were expresses the condition if the impulses were."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "For were the impulses of conscience clear, uniform, and irresistibly obeyed, man would need no other lawgiver; but that not being the case, he finds it necessary to surrender up a part of his property to furnish means for the protection of the rest; and this he is induced to do by the same prudence which in every other case advises him out of two evils to choose the least."
+        },
+        "es": {
+          "text": "Si los impulsos de la conciencia fueran claros, uniformes y obedecidos irresistiblemente, el ser humano no necesitaría otro legislador; pero, al no ser así, considera necesario ceder parte de su propiedad para procurar medios que protejan el resto. Lo mueve la misma prudencia que en cualquier otro caso aconseja escoger el menor de dos males.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si los impulsos de la conciencia fueran claros, uniformes y obedecidos irresistiblemente, el ser humano no necesitaría otro legislador; pero, al no ser así, considera necesario ceder parte de su propiedad para procurar medios que protejan el resto. Lo mueve la misma prudencia que en cualquier otro caso aconseja escoger el menor de dos males."
+        },
+        "fr": {
+          "text": "Si les impulsions de la conscience étaient claires, constantes et irrésistiblement suivies, l’être humain n’aurait besoin d’aucun autre législateur ; mais comme ce n’est pas le cas, il juge nécessaire de céder une partie de ses biens afin de protéger le reste. Il y est poussé par la même prudence qui conseille, en toute autre occasion, de choisir le moindre de deux maux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si les impulsions de la conscience étaient claires, constantes et irrésistiblement suivies, l’être humain n’aurait besoin d’aucun autre législateur ; mais comme ce n’est pas le cas, il juge nécessaire de céder une partie de ses biens afin de protéger le reste. Il y est poussé par la même prudence qui conseille, en toute autre occasion, de choisir le moindre de deux maux."
+        },
+        "de": {
+          "text": "Wären die Regungen des Gewissens klar, einheitlich und unwiderstehlich befolgt, bräuchte der Mensch keinen anderen Gesetzgeber. Da dies aber nicht so ist, hält er es für nötig, einen Teil seines Eigentums abzugeben, um den Rest zu schützen. Dazu bewegt ihn dieselbe Klugheit, die auch sonst rät, von zwei Übeln das kleinere zu wählen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wären die Regungen des Gewissens klar, einheitlich und unwiderstehlich befolgt, bräuchte der Mensch keinen anderen Gesetzgeber. Da dies aber nicht so ist, hält er es für nötig, einen Teil seines Eigentums abzugeben, um den Rest zu schützen. Dazu bewegt ihn dieselbe Klugheit, die auch sonst rät, von zwei Übeln das kleinere zu wählen."
+        },
+        "ru": {
+          "text": "Если бы побуждения совести были ясны, постоянны и им непреодолимо повиновались, человеку не понадобился бы иной законодатель. Но поскольку это не так, он считает необходимым уступить часть имущества, чтобы обеспечить защиту остального; к этому его побуждает та же осмотрительность, которая во всех иных случаях советует выбирать из двух зол меньшее.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если бы побуждения совести были ясны, постоянны и им непреодолимо повиновались, человеку не понадобился бы иной законодатель. Но поскольку это не так, он считает необходимым уступить часть имущества, чтобы обеспечить защиту остального; к этому его побуждает та же осмотрительность, которая во всех иных случаях советует выбирать из двух зол меньшее."
+        },
+        "ar": {
+          "text": "فَلَوْ كَانَتْ دَوَافِعُ الضَّمِيرِ وَاضِحَةً ثَابِتَةً تُطَاعُ بِلَا مُقَاوَمَةٍ، لَمَا احْتَاجَ الْإِنْسَانُ إِلَى مُشَرِّعٍ آخَرَ؛ وَلَكِنْ لَمَّا لَمْ يَكُنِ الْأَمْرُ كَذَلِكَ، يَرَى ضَرُورَةَ التَّنَازُلِ عَنْ جُزْءٍ مِنْ مَالِهِ لِتَوْفِيرِ وَسَائِلِ حِمَايَةِ الْبَاقِي. وَيَدْفَعُهُ إِلَى ذَلِكَ التَّعَقُّلُ نَفْسُهُ الَّذِي يَنْصَحُهُ فِي كُلِّ حَالٍ أُخْرَى بِاخْتِيَارِ أَهْوَنِ الشَّرَّيْنِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "فَلَوْ كَانَتْ دَوَافِعُ الضَّمِيرِ وَاضِحَةً ثَابِتَةً تُطَاعُ بِلَا مُقَاوَمَةٍ، لَمَا احْتَاجَ الْإِنْسَانُ إِلَى مُشَرِّعٍ آخَرَ؛ وَلَكِنْ لَمَّا لَمْ يَكُنِ الْأَمْرُ كَذَلِكَ، يَرَى ضَرُورَةَ التَّنَازُلِ عَنْ جُزْءٍ مِنْ مَالِهِ لِتَوْفِيرِ وَسَائِلِ حِمَايَةِ الْبَاقِي. وَيَدْفَعُهُ إِلَى ذَلِكَ التَّعَقُّلُ نَفْسُهُ الَّذِي يَنْصَحُهُ فِي كُلِّ حَالٍ أُخْرَى بِاخْتِيَارِ أَهْوَنِ الشَّرَّيْنِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-law kānat dawāfiʿu aḍ-ḍamīri wāḍiḥatan thābitatan tuṭāʿu bi-lā muqāwamatin, la-mā iḥtāja al-ʾinsānu ʾilā musharriʿin ʾākhara; wa-lākin lammā lam yakuni al-ʾamru kadhālika, yarā ḍarūrata at-tanāzuli ʿan juzʾin min mālihi li-tawfīri wasāʾili ḥimāyati al-bāqī. Wa-yadfaʿuhu ʾilā dhālika at-taʿaqqulu nafsuhu alladhī yanṣaḥuhu fī kulli ḥālin ʾukhrā bi-ikhtiyāri ʾahwani ash-sharrayni."
+          }
+        },
+        "zh": {
+          "text": "如果良心的指引清晰、一贯，而且人们无法抗拒地遵从它，人类就不需要其他立法者。但事实并非如此，所以人们发现，为了提供保护其余财产的手段，必须交出一部分财产。促使他这样做的，正是在其他一切情况下劝他两害相权取其轻的审慎。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "如果良心的指引清晰、一贯，而且人们无法抗拒地遵从它，人类就不需要其他立法者。但事实并非如此，所以人们发现，为了提供保护其余财产的手段，必须交出一部分财产。促使他这样做的，正是在其他一切情况下劝他两害相权取其轻的审慎。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rúguǒ liángxīn de zhǐyǐn qīngxī, yīguàn, érqiě rénmen wúfǎ kàngjù de zūncóng tā, rénlèi jiù bù xūyào qítā lìfǎzhě. Dàn shìshí bìng fēi rúcǐ, suǒyǐ rénmen fāxiàn, wèile tígōng bǎohù qíyú cáichǎn de shǒuduàn, bìxū jiāo chū yī bùfen cáichǎn. Cùshǐ tā zhèyàng zuò de, zhèng shì zài qítā yīqiè qíngkuàng xià quàn tā liǎng hài xiāng quán qǔ qí qīng de shěnshèn."
+          }
+        },
+        "ko": {
+          "text": "양심의 충동이 명확하고 일관되며 거스를 수 없이 지켜진다면 인간에게 다른 입법자는 필요 없을 것이다. 그러나 그렇지 않으므로 나머지 재산을 보호할 수단을 마련하려고 일부를 내놓아야 한다고 여긴다. 그를 그렇게 이끄는 것은 다른 모든 경우에도 두 악 가운데 작은 것을 고르라고 권하는 바로 그 신중함이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "양심의 충동이 명확하고 일관되며 거스를 수 없이 지켜진다면 인간에게 다른 입법자는 필요 없을 것이다. 그러나 그렇지 않으므로 나머지 재산을 보호할 수단을 마련하려고 일부를 내놓아야 한다고 여긴다. 그를 그렇게 이끄는 것은 다른 모든 경우에도 두 악 가운데 작은 것을 고르라고 권하는 바로 그 신중함이다."
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "したがって、安全こそ政府の真の意図と目的である以上、最小の費用と最大の利益によって安全を最もよく確保できそうな政体が、ほかのあらゆる政体に優先されるという結論は、反論の余地なく導かれる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "したがって、あんぜんこそせいふのしんのいとともくてきであるいじょう、さいしょうのひようとさいだいのりえきによってあんぜんをもっともよくかくほできそうなせいたいが、ほかのあらゆるせいたいにゆうせんされるというけつろんは、はんろんのよちなくみちびかれる。"
+        },
+        "en": {
+          "text": "Wherefore, security being the true design and end of government, it unanswerably follows that whatever form thereof appears most likely to ensure it to us, with the least expence and greatest benefit, is preferable to all others.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Thomas Paine; Project Gutenberg #147 — Common Sense; W. & T. Bradford, February 14, 1776"
+          },
+          "ttsText": "Wherefore, security being the true design and end of government, it unanswerably follows that whatever form thereof appears most likely to ensure it to us, with the least expence and greatest benefit, is preferable to all others."
+        },
+        "es": {
+          "text": "Por tanto, puesto que la seguridad es el verdadero propósito y fin del gobierno, se sigue sin posibilidad de refutación que la forma que parezca más capaz de garantizarla con el menor gasto y el mayor beneficio es preferible a todas las demás.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Por tanto, puesto que la seguridad es el verdadero propósito y fin del gobierno, se sigue sin posibilidad de refutación que la forma que parezca más capaz de garantizarla con el menor gasto y el mayor beneficio es preferible a todas las demás."
+        },
+        "fr": {
+          "text": "Ainsi, puisque la sécurité est le véritable dessein et but du gouvernement, il s’ensuit sans réplique que la forme qui paraît le mieux l’assurer avec la moindre dépense et le plus grand avantage est préférable à toutes les autres.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ainsi, puisque la sécurité est le véritable dessein et but du gouvernement, il s’ensuit sans réplique que la forme qui paraît le mieux l’assurer avec la moindre dépense et le plus grand avantage est préférable à toutes les autres."
+        },
+        "de": {
+          "text": "Da Sicherheit also der wahre Zweck und das Ziel der Regierung ist, folgt unwiderlegbar, dass jene Regierungsform allen anderen vorzuziehen ist, die sie mit dem geringsten Aufwand und größten Nutzen am ehesten gewährleistet.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Da Sicherheit also der wahre Zweck und das Ziel der Regierung ist, folgt unwiderlegbar, dass jene Regierungsform allen anderen vorzuziehen ist, die sie mit dem geringsten Aufwand und größten Nutzen am ehesten gewährleistet."
+        },
+        "ru": {
+          "text": "Поэтому, поскольку безопасность есть истинный замысел и цель правительства, неопровержимо следует, что та его форма, которая лучше всего обещает обеспечить её с наименьшими расходами и наибольшей выгодой, предпочтительнее всех прочих.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Поэтому, поскольку безопасность есть истинный замысел и цель правительства, неопровержимо следует, что та его форма, которая лучше всего обещает обеспечить её с наименьшими расходами и наибольшей выгодой, предпочтительнее всех прочих."
+        },
+        "ar": {
+          "text": "وَلِذَلِكَ، مَا دَامَ الْأَمْنُ هُوَ الْمَقْصِدَ وَالْغَايَةَ الْحَقِيقِيَّةَ لِلْحُكُومَةِ، فَمِنَ الثَّابِتِ أَنَّ أَيَّ شَكْلٍ مِنْ أَشْكَالِهَا يَبْدُو أَقْدَرَ عَلَى ضَمَانِهِ بِأَقَلِّ نَفَقَةٍ وَأَكْبَرِ مَنْفَعَةٍ هُوَ أَفْضَلُ مِنْ سَائِرِ الْأَشْكَالِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَلِذَلِكَ، مَا دَامَ الْأَمْنُ هُوَ الْمَقْصِدَ وَالْغَايَةَ الْحَقِيقِيَّةَ لِلْحُكُومَةِ، فَمِنَ الثَّابِتِ أَنَّ أَيَّ شَكْلٍ مِنْ أَشْكَالِهَا يَبْدُو أَقْدَرَ عَلَى ضَمَانِهِ بِأَقَلِّ نَفَقَةٍ وَأَكْبَرِ مَنْفَعَةٍ هُوَ أَفْضَلُ مِنْ سَائِرِ الْأَشْكَالِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-li-dhālika, mā dāma al-ʾamnu huwa al-maqṣida wa-al-ghāyata al-ḥaqīqiyyata li-al-ḥukūmati, fa-mina ath-thābiti ʾanna ʾayya shaklin min ʾashkālihā yabdū ʾaqdara ʿalā ḍamānihi bi-ʾaqalli nafaqatin wa-ʾakbari manfaʿatin huwa ʾafḍalu min sāʾiri al-ʾashkāli."
+          }
+        },
+        "zh": {
+          "text": "因此，既然安全是政府真正的意图和目的，就必然得出这样的结论：凡是最可能以最低费用、最大利益保障安全的政体，都优于其他一切政体。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "因此，既然安全是政府真正的意图和目的，就必然得出这样的结论：凡是最可能以最低费用、最大利益保障安全的政体，都优于其他一切政体。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīncǐ, jìrán ānquán shì zhèngfǔ zhēnzhèng de yìtú hé mùdì, jiù bìrán déchū zhèyàng de jiélùn: fánshì zuì kěnéng yǐ zuì dī fèiyòng, zuì dà lìyì bǎozhàng ānquán de zhèngtǐ, dōu yōu yú qítā yīqiè zhèngtǐ."
+          }
+        },
+        "ko": {
+          "text": "그러므로 안전이 정부의 참된 의도이자 목적이라면, 가장 적은 비용과 가장 큰 이익으로 안전을 가장 잘 보장할 듯한 정부 형태가 다른 모든 형태보다 낫다는 결론은 반박할 수 없이 따라 나온다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그러므로 안전이 정부의 참된 의도이자 목적이라면, 가장 적은 비용과 가장 큰 이익으로 안전을 가장 잘 보장할 듯한 정부 형태가 다른 모든 형태보다 낫다는 결론은 반박할 수 없이 따라 나온다."
+        }
+      }
+    }
+  ]
+}

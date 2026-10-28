@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ceb7ab76228da9ac6462d69f06d1ab36ddff0a231be7cc4074f37d61830ee97",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si je ne considérais que la force, et l’effet qui en dérive, je dirais :",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bfd853783e8e18c100f86b4d9d583fac5632a0be7eb189b703519829805c7f72",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:54:20.318291+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "77ed85c995ea4040a9e83ddd418c38c385868f6d81ab1d7b2f7d8efb757fdcf2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "изменчивость вследствие косвенного и прямого воздействия внешних условий жизни, а также употребления и неупотребления органов;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5e6a9bff8d78cdace199c3c1821c808ededfd49cba7e7e6a40152b72b1789316",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:19:09.813901+00:00"
+}

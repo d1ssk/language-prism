@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8d6e07b4f6ef4404ffbe2270b12998b4765f711ab95fc9912cb7216d0643fc4a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "因此，让我们从一种很不起眼、但分工却经常受到注意的制造业中取一个例子，那就是制针业：",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a623cd6f9a1bf9ac35b378c883328b67ece9c6f5f7eca572a9c0f5558fa2f4cc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:33:31.889299+00:00"
+}

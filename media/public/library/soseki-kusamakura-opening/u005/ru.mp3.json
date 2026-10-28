@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "991f72396fade6208a57c767d69f243ed78c1a83d303cc7c33f14a18ca2211f6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Как ни крути, в мире людей жить трудно.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "801b792d598549536c9d4a417326314c9b048a5efa880f00b00e9648958010ab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:38.961164+00:00"
+}

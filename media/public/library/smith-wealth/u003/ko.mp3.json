@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "367b8c84d749a2c186078edaedb74bde6926fbbafe05ac7b723f0259d4d77ebd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아무리 부지런히 일해도 하루에 핀 하나를 만들기조차 어려울 것이며, 스무 개는 분명 만들지 못할 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f3675d3d85c34a85b1ffdc72e5db0fd8956477ff63147a2b07209d4d9911b270",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:36:28.038005+00:00"
+}

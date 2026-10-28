@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4b08fc29fd1d2a8971fe370b071c8e193cb3645bc8a4b963e455dd95f9edf5bb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nächste Woche Mittwoch oder Donnerstag passt mir beides.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "16c90e5bda2a31d7ad8855f34358e9d451b26f3841b1a34ffbbdba202fc14354",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:52.802839+00:00"
+}

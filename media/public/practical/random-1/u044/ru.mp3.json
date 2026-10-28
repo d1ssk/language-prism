@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f94a6b8f394f8e5d5e2d149b8e0851e360c8f08b0517296a76664ac61b398511",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Пейзаж в этом парке сильно меняется в зависимости от времени года, поэтому сюда никогда не надоедает приходить.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "63d7f189527202af21b69840c1eb5fa70355624208315d60c73fcd3c22cfc087",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:37:39.508776+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7cc5aa8a5689f725a5f3554fc2e960b6c919fed3d7a946065c5f7c94cee9af67",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В этом музее выставлена работа, которую мне давно хотелось увидеть.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "38af5c86fe988bd69c914dc8ee50919bb0e54fd9f6cbf8902917e84d944cbda2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:38:21.138397+00:00"
+}

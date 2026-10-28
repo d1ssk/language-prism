@@ -1,0 +1,2538 @@
+{
+  "schemaVersion": 1,
+  "id": "rousseau-contract",
+  "slug": "rousseau-contract",
+  "type": "library",
+  "title": {
+    "ja": "社会契約論",
+    "en": "The Social Contract"
+  },
+  "description": {
+    "ja": "第1編第1章全文。自由、服従、社会秩序の正当性を問う。",
+    "en": "The complete first chapter of Book 1, on freedom, obedience and the legitimacy of social order."
+  },
+  "originalLanguage": "fr",
+  "author": "Jean-Jacques Rousseau",
+  "bibliography": {
+    "originalTitle": "Du contrat social",
+    "originalAuthor": "Jean-Jacques Rousseau",
+    "title": {
+      "ja": "社会契約論",
+      "en": "The Social Contract"
+    },
+    "author": {
+      "ja": "ジャン＝ジャック・ルソー",
+      "en": "Jean-Jacques Rousseau"
+    }
+  },
+  "sourceTitle": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I",
+  "sourceURL": "https://fr.wikisource.org/wiki/Du_contrat_social_(Édition_Beaulavon_1903)/Livre_I-I",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。著者と採用した原典を明記しています。",
+    "en": "The original work is in the public domain; the author and the source used are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Jean-Jacques Rousseau。収録元：Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I。他言語訳・読み・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: Jean-Jacques Rousseau. Source: Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I. New translations, readings and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他の8言語は本サイト用に新しく訳しています。既存の翻訳版は転載していません。訳・読み・解説・生成音声は専門家未校閲です。1903年版の本文を採用しています。末尾の編者による注は転載していません。",
+    "en": "The original is divided into meaning units. The other eight versions are new translations for this site, not copies of published translations. Translations, readings, notes and generated audio have not been reviewed by specialists. The text follows the 1903 edition; the editor’s appended commentary is not reproduced."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1編第1章「この第1編の主題」の本文全体。編者の注は含めない。",
+      "en": "Book 1, Chapter 1, “Subject of this first book”: the entire chapter text, excluding the editor’s note."
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "人間は自由なものとして生まれた。それなのに、いたるところで鎖につながれている。",
+          "ttsText": "にんげんはじゆうなものとしてうまれた。それなのに、いたるところでくさりにつながれている。",
+          "vocabulary": [
+            {
+              "term": "鎖",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Human beings are born free, yet everywhere they are in chains.",
+          "ttsText": "Human beings are born free, yet everywhere they are in chains.",
+          "vocabulary": [
+            {
+              "term": "chains",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "El ser humano ha nacido libre, y en todas partes se encuentra encadenado.",
+          "ttsText": "El ser humano ha nacido libre, y en todas partes se encuentra encadenado.",
+          "vocabulary": [
+            {
+              "term": "encadenado",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "L’homme est né libre, et partout il est dans les fers.",
+          "ttsText": "L’homme est né libre, et partout il est dans les fers.",
+          "vocabulary": [
+            {
+              "term": "fers",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "l’homme は人間一般。les fers は直訳すると鉄ですが、ここでは拘束具・隷属の比喩です。et は文脈上の強い対比をつないでいます。",
+              "en": "L’homme refers to humanity in general. Les fers literally means irons and evokes shackles or subjection. Et connects a sharp contextual contrast."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Der Mensch ist frei geboren, und überall liegt er in Ketten.",
+          "ttsText": "Der Mensch ist frei geboren, und überall liegt er in Ketten.",
+          "vocabulary": [
+            {
+              "term": "Ketten",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Человек родился свободным, а повсюду он в оковах.",
+          "ttsText": "Человек родился свободным, а повсюду он в оковах.",
+          "vocabulary": [
+            {
+              "term": "оковах",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وُلد الإنسان حرًا، وهو في كل مكان مكبل بالأغلال.",
+          "ttsText": "وُلد الإنسان حرًا، وهو في كل مكان مكبل بالأغلال.",
+          "vocabulary": [
+            {
+              "term": "الأغلال",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wulida al-insānu ḥurran, wa-huwa fī kulli makānin mukabbalun bi-al-aghlāli.",
+            "note": {
+              "ja": "冒頭の وُلد は受身 wulida。「生んだ」の walada ではありません。文末 al-aghlāli は休止時 al-aghlāl。",
+              "en": "The opening وُلد is passive wulida, not active walada. Final al-aghlāli becomes al-aghlāl at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "人生来是自由的，却处处身陷枷锁。",
+          "ttsText": "人生来是自由的，却处处身陷枷锁。",
+          "vocabulary": [
+            {
+              "term": "枷锁",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rén shēnglái shì zìyóu de, què chùchù shēn xiàn jiāsuǒ."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "인간은 자유롭게 태어났으나 어디에서나 사슬에 묶여 있다.",
+          "ttsText": "인간은 자유롭게 태어났으나 어디에서나 사슬에 묶여 있다.",
+          "vocabulary": [
+            {
+              "term": "사슬",
+              "meaning": {
+                "ja": "ここでは人間を拘束する状態の比喩。",
+                "en": "Here, an image of a condition that binds or subjugates people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "他人の主人だと思い込んでいる者が、実はその人々以上に奴隷であることもある。",
+          "ttsText": "たにんのしゅじんだとおもいこんでいるものが、じつはそのひとびといじょうにどれいであることもある。",
+          "vocabulary": [
+            {
+              "term": "主人",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Someone may believe himself the master of others and yet be more enslaved than they are.",
+          "ttsText": "Someone may believe himself the master of others and yet be more enslaved than they are.",
+          "vocabulary": [
+            {
+              "term": "master",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Hay quien se cree amo de los demás y no deja por ello de ser más esclavo que ellos.",
+          "ttsText": "Hay quien se cree amo de los demás y no deja por ello de ser más esclavo que ellos.",
+          "vocabulary": [
+            {
+              "term": "amo",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Tel se croit le maître des autres qui ne laisse pas d’être plus esclave qu’eux.",
+          "ttsText": "Tel se croit le maître des autres qui ne laisse pas d’être plus esclave qu’eux.",
+          "vocabulary": [
+            {
+              "term": "maître",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Tel … qui … は「ある者は…だが、その者は…」。ne laisse pas de は「それでもなお〜である」で、「〜するのをやめない」と逐語的に読むと意味を取りにくくなります。",
+              "en": "Tel … qui … singles out a person with the stated traits. Ne laisse pas de means “nevertheless does/is”; it is not a literal statement about allowing something."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Mancher hält sich für den Herrn der anderen und ist dennoch mehr Sklave als sie.",
+          "ttsText": "Mancher hält sich für den Herrn der anderen und ist dennoch mehr Sklave als sie.",
+          "vocabulary": [
+            {
+              "term": "Herrn",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Иной считает себя господином других и тем не менее оказывается ещё большим рабом, чем они.",
+          "ttsText": "Иной считает себя господином других и тем не менее оказывается ещё большим рабом, чем они.",
+          "vocabulary": [
+            {
+              "term": "господином",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "قد يظن المرء نفسه سيد الآخرين، لكنه مع ذلك أشد عبودية منهم.",
+          "ttsText": "قد يظن المرء نفسه سيد الآخرين، لكنه مع ذلك أشد عبودية منهم.",
+          "vocabulary": [
+            {
+              "term": "سيد",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Qad yaẓunnu al-marʾu nafsahu sayyida al-ākharīna, lākinnahu maʿa dhālika ashaddu ʿubūdiyyatan minhum."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "有人自以为是别人的主人，却仍然比他们更像奴隶。",
+          "ttsText": "有人自以为是别人的主人，却仍然比他们更像奴隶。",
+          "vocabulary": [
+            {
+              "term": "主人",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǒu rén zì yǐwéi shì biéren de zhǔrén, què réngrán bǐ tāmen gèng xiàng núlì."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "다른 이들의 주인이라고 생각하는 사람이 오히려 그들보다 더한 노예이기도 하다.",
+          "ttsText": "다른 이들의 주인이라고 생각하는 사람이 오히려 그들보다 더한 노예이기도 하다.",
+          "vocabulary": [
+            {
+              "term": "주인",
+              "meaning": {
+                "ja": "他人を支配する立場の者。",
+                "en": "A person in a position of authority over others."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "この変化はどのように起こったのか。私には分からない。何がそれを正当なものにできるのか。この問いには答えられると思う。",
+          "ttsText": "このへんかはどのようにおこったのか。わたしにはわからない。なにがそれをせいとうなものにできるのか。このといにはこたえられるとおもう。",
+          "vocabulary": [
+            {
+              "term": "正当",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "How did this change come about? I do not know. What can make it legitimate? I believe I can resolve that question.",
+          "ttsText": "How did this change come about? I do not know. What can make it legitimate? I believe I can resolve that question.",
+          "vocabulary": [
+            {
+              "term": "legitimate",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¿Cómo se produjo este cambio? Lo ignoro. ¿Qué puede hacerlo legítimo? Creo poder resolver esta cuestión.",
+          "ttsText": "¿Cómo se produjo este cambio? Lo ignoro. ¿Qué puede hacerlo legítimo? Creo poder resolver esta cuestión.",
+          "vocabulary": [
+            {
+              "term": "legítimo",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Comment ce changement s’est-il fait ? Je l’ignore. Qu’est-ce qui peut le rendre légitime ? Je crois pouvoir résoudre cette question.",
+          "ttsText": "Comment ce changement s’est-il fait ? Je l’ignore. Qu’est-ce qui peut le rendre légitime ? Je crois pouvoir résoudre cette question.",
+          "vocabulary": [
+            {
+              "term": "légitime",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "s’est-il fait は倒置疑問。rendre＋目的語＋形容詞は「〜を…にする」。ここで著者は、変化の歴史的原因と正当化の条件を分けています。",
+              "en": "S’est-il fait uses interrogative inversion. Rendre + object + adjective means “make something …”. Rousseau separates the historical cause of the change from the conditions that would justify it."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wie ist dieser Wandel zustande gekommen? Ich weiß es nicht. Was kann ihn rechtmäßig machen? Ich glaube, diese Frage beantworten zu können.",
+          "ttsText": "Wie ist dieser Wandel zustande gekommen? Ich weiß es nicht. Was kann ihn rechtmäßig machen? Ich glaube, diese Frage beantworten zu können.",
+          "vocabulary": [
+            {
+              "term": "rechtmäßig",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Как произошла эта перемена? Я этого не знаю. Что может сделать её законной? Думаю, я могу разрешить этот вопрос.",
+          "ttsText": "Как произошла эта перемена? Я этого не знаю. Что может сделать её законной? Думаю, я могу разрешить этот вопрос.",
+          "vocabulary": [
+            {
+              "term": "законной",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كيف حدث هذا التغير؟ لا أعلم. ما الذي يمكن أن يجعله مشروعًا؟ أعتقد أنني أستطيع حل هذا السؤال.",
+          "ttsText": "كيف حدث هذا التغير؟ لا أعلم. ما الذي يمكن أن يجعله مشروعًا؟ أعتقد أنني أستطيع حل هذا السؤال.",
+          "vocabulary": [
+            {
+              "term": "مشروعًا",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kayfa ḥadatha hādhā at-taghayyuru? Lā aʿlamu. Mā alladhī yumkinu an yajʿalahu mashrūʿan? Aʿtaqidu annanī astaṭīʿu ḥalla hādhā as-suʾāli.",
+            "note": {
+              "ja": "mashrūʿan の文末休止形は mashrūʿā、as-suʾāli の休止形は as-suʾāl です。",
+              "en": "At pauses, mashrūʿan becomes mashrūʿā and as-suʾāli becomes as-suʾāl."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这种变化是怎样发生的？我不知道。什么能使它具有正当性？我相信我能够解答这个问题。",
+          "ttsText": "这种变化是怎样发生的？我不知道。什么能使它具有正当性？我相信我能够解答这个问题。",
+          "vocabulary": [
+            {
+              "term": "正当性",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè zhǒng biànhuà shì zěnyàng fāshēng de? Wǒ bù zhīdào. Shénme néng shǐ tā jùyǒu zhèngdàngxìng? Wǒ xiāngxìn wǒ nénggòu jiědá zhège wèntí."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이 변화는 어떻게 일어났는가? 나는 모른다. 무엇이 그것을 정당하게 만들 수 있는가? 나는 이 질문에 답할 수 있다고 생각한다.",
+          "ttsText": "이 변화는 어떻게 일어났는가? 나는 모른다. 무엇이 그것을 정당하게 만들 수 있는가? 나는 이 질문에 답할 수 있다고 생각한다.",
+          "vocabulary": [
+            {
+              "term": "정당",
+              "meaning": {
+                "ja": "権威や服従を受け入れる根拠があること。",
+                "en": "Having a justifying basis for authority or obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "もし力とそこから生じる結果だけを考えるのなら、私はこう言うだろう。",
+          "ttsText": "もしちからとそこからしょうじるけっかだけをかんがえるのなら、わたしはこういうだろう。",
+          "vocabulary": [
+            {
+              "term": "力",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "If I considered only force and the effect arising from it, I would say:",
+          "ttsText": "If I considered only force and the effect arising from it, I would say:",
+          "vocabulary": [
+            {
+              "term": "force",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si no considerara más que la fuerza y el efecto que de ella se deriva, diría:",
+          "ttsText": "Si no considerara más que la fuerza y el efecto que de ella se deriva, diría:",
+          "vocabulary": [
+            {
+              "term": "fuerza",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si je ne considérais que la force, et l’effet qui en dérive, je dirais :",
+          "ttsText": "Si je ne considérais que la force, et l’effet qui en dérive, je dirais :",
+          "vocabulary": [
+            {
+              "term": "force",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ne … que は限定で「〜だけ」。si＋半過去と条件法 dirais が仮定を作ります。en は de la force を受けます。",
+              "en": "Ne … que limits the scope to force and its effects. Si + imperfect combines with conditional dirais. En stands for de la force."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wenn ich nur die Gewalt und die aus ihr hervorgehende Wirkung betrachtete, würde ich sagen:",
+          "ttsText": "Wenn ich nur die Gewalt und die aus ihr hervorgehende Wirkung betrachtete, würde ich sagen:",
+          "vocabulary": [
+            {
+              "term": "Gewalt",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если бы я рассматривал лишь силу и вытекающее из неё действие, я сказал бы:",
+          "ttsText": "Если бы я рассматривал лишь силу и вытекающее из неё действие, я сказал бы:",
+          "vocabulary": [
+            {
+              "term": "силу",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لو لم أنظر إلا إلى القوة والأثر الناشئ عنها، لقلت:",
+          "ttsText": "لو لم أنظر إلا إلى القوة والأثر الناشئ عنها، لقلت:",
+          "vocabulary": [
+            {
+              "term": "القوة",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Law lam anẓur illā ilā al-quwwati wa-al-athari an-nāshiʾi ʿanhā, la-qultu:",
+            "note": {
+              "ja": "末尾の la-qultu は、そこで区切る場合 la-qult と読みます。",
+              "en": "At a pause here, final la-qultu is pronounced la-qult."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "如果我只考虑强力以及由它产生的结果，我会说：",
+          "ttsText": "如果我只考虑强力以及由它产生的结果，我会说：",
+          "vocabulary": [
+            {
+              "term": "强力",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rúguǒ wǒ zhǐ kǎolǜ qiánglì yǐjí yóu tā chǎnshēng de jiéguǒ, wǒ huì shuō:",
+            "note": {
+              "ja": "只考虑の zhǐ kǎo は zhí kǎo と発音します。",
+              "en": "In 只考虑, zhǐ kǎo is spoken as zhí kǎo."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "내가 힘과 거기서 생기는 결과만을 고려한다면, 이렇게 말할 것이다.",
+          "ttsText": "내가 힘과 거기서 생기는 결과만을 고려한다면, 이렇게 말할 것이다.",
+          "vocabulary": [
+            {
+              "term": "힘",
+              "meaning": {
+                "ja": "ここでは服従を強いる物理的な力。",
+                "en": "Here, coercive power that compels obedience."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "「民衆が服従を強いられ、服従しているあいだは、それでよい。しかし、くびきを振り払えるようになって実際に振り払うなら、なおよい。",
+          "ttsText": "「みんしゅうがふくじゅうをしいられ、ふくじゅうしているあいだは、それでよい。しかし、くびきをふりはらえるようになってじっさいにふりはらうなら、なおよい。",
+          "vocabulary": [
+            {
+              "term": "くびき",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "“So long as a people is compelled to obey and does obey, it does well; as soon as it can throw off the yoke and does so, it does better still;",
+          "ttsText": "“So long as a people is compelled to obey and does obey, it does well; as soon as it can throw off the yoke and does so, it does better still;",
+          "vocabulary": [
+            {
+              "term": "yoke",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "«Mientras un pueblo se ve obligado a obedecer y obedece, hace bien; en cuanto puede sacudirse el yugo y se lo sacude, hace todavía mejor;",
+          "ttsText": "«Mientras un pueblo se ve obligado a obedecer y obedece, hace bien; en cuanto puede sacudirse el yugo y se lo sacude, hace todavía mejor;",
+          "vocabulary": [
+            {
+              "term": "yugo",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "« Tant qu’un peuple est contraint d’obéir et qu’il obéit, il fait bien ; sitôt qu’il peut secouer le joug, et qu’il le secoue, il fait encore mieux ;",
+          "ttsText": "« Tant qu’un peuple est contraint d’obéir et qu’il obéit, il fait bien ; sitôt qu’il peut secouer le joug, et qu’il le secoue, il fait encore mieux ;",
+          "vocabulary": [
+            {
+              "term": "joug",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "tant que は継続条件、sitôt que は「〜するとすぐ」。joug は家畜のくびきから、支配・隷属を表す比喩になっています。",
+              "en": "Tant que means “as long as”; sitôt que means “as soon as”. Joug is a yoke, used figuratively for subjection."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "„Solange ein Volk zum Gehorsam gezwungen ist und gehorcht, handelt es gut; sobald es das Joch abschütteln kann und es abschüttelt, handelt es noch besser;",
+          "ttsText": "„Solange ein Volk zum Gehorsam gezwungen ist und gehorcht, handelt es gut; sobald es das Joch abschütteln kann und es abschüttelt, handelt es noch besser;",
+          "vocabulary": [
+            {
+              "term": "Joch",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "«Пока народ принуждён повиноваться и повинуется, он поступает хорошо; как только он может сбросить ярмо и сбрасывает его, он поступает ещё лучше;",
+          "ttsText": "«Пока народ принуждён повиноваться и повинуется, он поступает хорошо; как только он может сбросить ярмо и сбрасывает его, он поступает ещё лучше;",
+          "vocabulary": [
+            {
+              "term": "ярмо",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "«ما دام شعب مضطرًا إلى الطاعة ويطيع، فهو يحسن التصرف؛ وما إن يستطيع نفض النير وينفضه، فإنه يحسن التصرف أكثر؛",
+          "ttsText": "«ما دام شعب مضطرًا إلى الطاعة ويطيع، فهو يحسن التصرف؛ وما إن يستطيع نفض النير وينفضه، فإنه يحسن التصرف أكثر؛",
+          "vocabulary": [
+            {
+              "term": "النير",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mā dāma shaʿbun muḍṭarran ilā aṭ-ṭāʿati wa-yuṭīʿu, fa-huwa yuḥsinu at-taṣarrufa; wa-mā in yastaṭīʿu nafḍa an-nīri wa-yanfuḍuhu, fa-innahu yuḥsinu at-taṣarrufa akthara;",
+            "note": {
+              "ja": "末尾の akthara は、そこで区切る場合 akthar と読みます。",
+              "en": "At a pause here, final akthara is pronounced akthar."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "“一个民族被迫服从而且确实服从时，它做得对；一旦它能够摆脱枷锁并且摆脱了，就做得更好；",
+          "ttsText": "“一个民族被迫服从而且确实服从时，它做得对；一旦它能够摆脱枷锁并且摆脱了，就做得更好；",
+          "vocabulary": [
+            {
+              "term": "枷锁",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yī ge mínzú bèipò fúcóng érqiě quèshí fúcóng shí, tā zuò de duì; yīdàn tā nénggòu bǎituō jiāsuǒ bìngqiě bǎituō le, jiù zuò de gèng hǎo;",
+            "note": {
+              "ja": "一个は yí ge、一旦は yídàn と発音します。",
+              "en": "一个 is spoken as yí ge, and 一旦 as yídàn."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "“한 민족이 복종을 강요받아 복종하는 동안에는 잘하는 것이다. 그러나 멍에를 벗어던질 수 있게 되어 실제로 벗어던진다면 더욱 잘하는 것이다.",
+          "ttsText": "“한 민족이 복종을 강요받아 복종하는 동안에는 잘하는 것이다. 그러나 멍에를 벗어던질 수 있게 되어 실제로 벗어던진다면 더욱 잘하는 것이다.",
+          "vocabulary": [
+            {
+              "term": "멍에",
+              "meaning": {
+                "ja": "支配から逃れられない状態を表す比喩。",
+                "en": "A metaphor for the burden of subjection."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "自由を奪ったのと同じ権利によって自由を取り戻すのだから、取り戻すことに根拠があるか、さもなければ奪う側にも根拠はなかったことになるからだ」。",
+          "ttsText": "じゆうをうばったのとおなじけんりによってじゆうをとりもどすのだから、とりもどすことにこんきょがあるか、さもなければうばうがわにもこんきょはなかったことになるからだ」。",
+          "vocabulary": [
+            {
+              "term": "取り戻す",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "for, recovering its freedom by the same right that took it away, either it is justified in reclaiming it, or those who deprived it of freedom were not justified in doing so.”",
+          "ttsText": "for, recovering its freedom by the same right that took it away, either it is justified in reclaiming it, or those who deprived it of freedom were not justified in doing so.”",
+          "vocabulary": [
+            {
+              "term": "reclaiming",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "pues, al recobrar su libertad por el mismo derecho que se la arrebató, o tiene fundamento para recuperarla, o no lo había para quitársela».",
+          "ttsText": "pues, al recobrar su libertad por el mismo derecho que se la arrebató, o tiene fundamento para recuperarla, o no lo había para quitársela».",
+          "vocabulary": [
+            {
+              "term": "recuperarla",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "car, recouvrant sa liberté par le même droit qui la lui a ravie, ou il est fondé à la reprendre, ou on ne l’était point à la lui ôter. »",
+          "ttsText": "car, recouvrant sa liberté par le même droit qui la lui a ravie, ou il est fondé à la reprendre, ou on ne l’était point à la lui ôter. »",
+          "vocabulary": [
+            {
+              "term": "reprendre",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ou … ou … は二者択一。la は liberté、lui は peuple を指します。ne l’était point の le は fondé を受け、「根拠がある状態」を指します。",
+              "en": "Ou … ou … sets out alternatives. La refers to liberté, lui to peuple. In ne l’était point, le stands for fondé, the state of being justified."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "denn wenn es seine Freiheit mit demselben Recht zurückgewinnt, mit dem man sie ihm geraubt hat, ist es entweder berechtigt, sie wiederzunehmen, oder man war nicht berechtigt, sie ihm zu nehmen.“",
+          "ttsText": "denn wenn es seine Freiheit mit demselben Recht zurückgewinnt, mit dem man sie ihm geraubt hat, ist es entweder berechtigt, sie wiederzunehmen, oder man war nicht berechtigt, sie ihm zu nehmen.“",
+          "vocabulary": [
+            {
+              "term": "wiederzunehmen",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "ведь, возвращая себе свободу по тому же праву, по которому её у него отняли, он либо имеет основание вернуть её, либо не было основания её отнимать».",
+          "ttsText": "ведь, возвращая себе свободу по тому же праву, по которому её у него отняли, он либо имеет основание вернуть её, либо не было основания её отнимать».",
+          "vocabulary": [
+            {
+              "term": "вернуть",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لأنه إذ يسترد حريته بالحق نفسه الذي سلبه إياها، فإما أن يكون محقًا في استعادتها، وإما أن من سلبه إياها لم يكن محقًا في ذلك».",
+          "ttsText": "لأنه إذ يسترد حريته بالحق نفسه الذي سلبه إياها، فإما أن يكون محقًا في استعادتها، وإما أن من سلبه إياها لم يكن محقًا في ذلك».",
+          "vocabulary": [
+            {
+              "term": "استعادتها",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Li-annahu idh yastariddu ḥurriyyatahu bi-al-ḥaqqi nafsihi alladhī salabahu iyyāhā, fa-immā an yakūna muḥiqqan fī istiʿādatihā, wa-immā anna man salabahu iyyāhā lam yakun muḥiqqan fī dhālika.",
+            "note": {
+              "ja": "末尾の dhālika は、そこで区切る場合 dhālik と読みます。",
+              "en": "At a pause here, final dhālika is pronounced dhālik."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "因为，它凭借夺走其自由的同一种权利重获自由，那么，要么它有理由夺回自由，要么当初就没有理由夺走它的自由。”",
+          "ttsText": "因为，它凭借夺走其自由的同一种权利重获自由，那么，要么它有理由夺回自由，要么当初就没有理由夺走它的自由。”",
+          "vocabulary": [
+            {
+              "term": "夺回",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yīnwèi, tā píngjiè duó zǒu qí zìyóu de tóng yī zhǒng quánlì chóng huò zìyóu, nàme, yàome tā yǒu lǐyóu duó huí zìyóu, yàome dāngchū jiù méiyǒu lǐyóu duó zǒu tā de zìyóu.",
+            "note": {
+              "ja": "同一种は tóng yì zhǒng と発音します。",
+              "en": "同一种 is spoken as tóng yì zhǒng."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "빼앗겼던 것과 같은 권리로 자유를 되찾는 것이므로, 되찾을 정당한 근거가 있거나, 애초에 빼앗을 정당한 근거가 없었던 셈이기 때문이다.”",
+          "ttsText": "빼앗겼던 것과 같은 권리로 자유를 되찾는 것이므로, 되찾을 정당한 근거가 있거나, 애초에 빼앗을 정당한 근거가 없었던 셈이기 때문이다.”",
+          "vocabulary": [
+            {
+              "term": "되찾",
+              "meaning": {
+                "ja": "奪われた自由を再び得ること。",
+                "en": "Recovering freedom that has been taken away."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "だが、社会秩序は、他のあらゆる権利の基礎となる神聖な権利である。",
+          "ttsText": "だが、しゃかいちつじょは、ほかのあらゆるけんりのきそとなるしんせいなけんりである。",
+          "vocabulary": [
+            {
+              "term": "基礎",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "But the social order is a sacred right that serves as the foundation of all the others.",
+          "ttsText": "But the social order is a sacred right that serves as the foundation of all the others.",
+          "vocabulary": [
+            {
+              "term": "foundation",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Pero el orden social es un derecho sagrado que sirve de base a todos los demás.",
+          "ttsText": "Pero el orden social es un derecho sagrado que sirve de base a todos los demás.",
+          "vocabulary": [
+            {
+              "term": "base",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Mais l’ordre social est un droit sacré qui sert de base à tous les autres.",
+          "ttsText": "Mais l’ordre social est un droit sacré qui sert de base à tous les autres.",
+          "vocabulary": [
+            {
+              "term": "base",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "Mais で、力だけを扱った仮定から社会秩序の正当性へ議論を戻します。tous les autres には droits が省略されています。",
+              "en": "Mais turns from the hypothetical account based only on force to the legitimacy of social order. Droits is understood after tous les autres."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Doch die gesellschaftliche Ordnung ist ein heiliges Recht, das allen anderen als Grundlage dient.",
+          "ttsText": "Doch die gesellschaftliche Ordnung ist ein heiliges Recht, das allen anderen als Grundlage dient.",
+          "vocabulary": [
+            {
+              "term": "Grundlage",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Но общественный порядок — священное право, служащее основанием всех остальных прав.",
+          "ttsText": "Но общественный порядок — священное право, служащее основанием всех остальных прав.",
+          "vocabulary": [
+            {
+              "term": "основанием",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لكن النظام الاجتماعي حق مقدس يقوم عليه سائر الحقوق.",
+          "ttsText": "لكن النظام الاجتماعي حق مقدس يقوم عليه سائر الحقوق.",
+          "vocabulary": [
+            {
+              "term": "يقوم عليه",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lākinna an-niẓāma al-ijtimāʿiyya ḥaqqun muqaddasun yaqūmu ʿalayhi sāʾiru al-ḥuqūqi.",
+            "note": {
+              "ja": "末尾の al-ḥuqūqi は、そこで区切る場合 al-ḥuqūq と読みます。",
+              "en": "At a pause here, final al-ḥuqūqi is pronounced al-ḥuqūq."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "但是，社会秩序是一项神圣的权利，是其他一切权利的基础。",
+          "ttsText": "但是，社会秩序是一项神圣的权利，是其他一切权利的基础。",
+          "vocabulary": [
+            {
+              "term": "基础",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dànshì, shèhuì zhìxù shì yī xiàng shénshèng de quánlì, shì qítā yīqiè quánlì de jīchǔ.",
+            "note": {
+              "ja": "一项は yí xiàng、一切は yíqiè と発音します。",
+              "en": "一项 is spoken as yí xiàng, and 一切 as yíqiè."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그러나 사회 질서는 다른 모든 권리의 토대가 되는 신성한 권리이다.",
+          "ttsText": "그러나 사회 질서는 다른 모든 권리의 토대가 되는 신성한 권리이다.",
+          "vocabulary": [
+            {
+              "term": "토대",
+              "meaning": {
+                "ja": "他の権利を支える土台。",
+                "en": "The basis on which other rights rest."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "しかし、この権利は自然から生じるものではない。したがって、それは約束事に基づいている。",
+          "ttsText": "しかし、このけんりはしぜんからしょうじるものではない。したがって、それはやくそくごとにもとづいている。",
+          "vocabulary": [
+            {
+              "term": "約束事",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Yet this right does not come from nature; it is therefore founded on agreements.",
+          "ttsText": "Yet this right does not come from nature; it is therefore founded on agreements.",
+          "vocabulary": [
+            {
+              "term": "agreements",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Sin embargo, este derecho no procede de la naturaleza; se funda, por tanto, en convenciones.",
+          "ttsText": "Sin embargo, este derecho no procede de la naturaleza; se funda, por tanto, en convenciones.",
+          "vocabulary": [
+            {
+              "term": "convenciones",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Cependant ce droit ne vient point de la nature ; il est donc fondé sur des conventions.",
+          "ttsText": "Cependant ce droit ne vient point de la nature ; il est donc fondé sur des conventions.",
+          "vocabulary": [
+            {
+              "term": "conventions",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "donc が前半からの結論を示します。conventions はここでは会議ではなく、人々の取り決めや合意です。",
+              "en": "Donc marks a conclusion from the first clause. Conventions here means agreements or arrangements, not conferences."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Dieses Recht stammt jedoch nicht aus der Natur; es beruht folglich auf Vereinbarungen.",
+          "ttsText": "Dieses Recht stammt jedoch nicht aus der Natur; es beruht folglich auf Vereinbarungen.",
+          "vocabulary": [
+            {
+              "term": "Vereinbarungen",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Однако это право не происходит от природы; следовательно, оно основано на соглашениях.",
+          "ttsText": "Однако это право не происходит от природы; следовательно, оно основано на соглашениях.",
+          "vocabulary": [
+            {
+              "term": "соглашениях",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "غير أن هذا الحق لا يأتي من الطبيعة، فهو إذن قائم على اتفاقات.",
+          "ttsText": "غير أن هذا الحق لا يأتي من الطبيعة، فهو إذن قائم على اتفاقات.",
+          "vocabulary": [
+            {
+              "term": "اتفاقات",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ghayra anna hādhā al-ḥaqqa lā yaʾtī mina aṭ-ṭabīʿati, fa-huwa idhan qāʾimun ʿalā ittifāqātin.",
+            "note": {
+              "ja": "文末 ittifāqātin は休止時 ittifāqāt となります。",
+              "en": "Final ittifāqātin becomes ittifāqāt at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "然而，这项权利并非来自自然，因此它建立在约定之上。",
+          "ttsText": "然而，这项权利并非来自自然，因此它建立在约定之上。",
+          "vocabulary": [
+            {
+              "term": "约定",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rán'ér, zhè xiàng quánlì bìng fēi láizì zìrán, yīncǐ tā jiànlì zài yuēdìng zhī shang."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "하지만 이 권리는 자연에서 나오지 않는다. 그러므로 그것은 합의에 기초한다.",
+          "ttsText": "하지만 이 권리는 자연에서 나오지 않는다. 그러므로 그것은 합의에 기초한다.",
+          "vocabulary": [
+            {
+              "term": "합의",
+              "meaning": {
+                "ja": "人々の間で定められた取り決め。",
+                "en": "Arrangements established by agreement among people."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "問題は、それらの約束事がどのようなものかを知ることにある。",
+          "ttsText": "もんだいは、それらのやくそくごとがどのようなものかをしることにある。",
+          "vocabulary": [
+            {
+              "term": "知る",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "The question is to determine what those agreements are.",
+          "ttsText": "The question is to determine what those agreements are.",
+          "vocabulary": [
+            {
+              "term": "determine",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Se trata de saber cuáles son esas convenciones.",
+          "ttsText": "Se trata de saber cuáles son esas convenciones.",
+          "vocabulary": [
+            {
+              "term": "saber",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Il s’agit de savoir quelles sont ces conventions.",
+          "ttsText": "Il s’agit de savoir quelles sont ces conventions.",
+          "vocabulary": [
+            {
+              "term": "savoir",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "il s’agit de は「問題となっているのは〜である」。quelles sont ces conventions は savoir の目的となる間接疑問です。",
+              "en": "Il s’agit de means “what is at issue is …”. Quelles sont ces conventions is an embedded question governed by savoir."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Es gilt zu erkennen, welche Vereinbarungen dies sind.",
+          "ttsText": "Es gilt zu erkennen, welche Vereinbarungen dies sind.",
+          "vocabulary": [
+            {
+              "term": "erkennen",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Нужно выяснить, что это за соглашения.",
+          "ttsText": "Нужно выяснить, что это за соглашения.",
+          "vocabulary": [
+            {
+              "term": "выяснить",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "والمطلوب معرفة ما هذه الاتفاقات.",
+          "ttsText": "والمطلوب معرفة ما هذه الاتفاقات.",
+          "vocabulary": [
+            {
+              "term": "معرفة",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-al-maṭlūbu maʿrifatu mā hādhihi al-ittifāqātu.",
+            "note": {
+              "ja": "末尾の al-ittifāqātu は、そこで区切る場合 al-ittifāqāt と読みます。",
+              "en": "At a pause here, final al-ittifāqātu is pronounced al-ittifāqāt."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "问题在于弄清这些约定是什么。",
+          "ttsText": "问题在于弄清这些约定是什么。",
+          "vocabulary": [
+            {
+              "term": "弄清",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wèntí zàiyú nòng qīng zhèxiē yuēdìng shì shénme."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "문제는 그러한 합의가 무엇인지 알아내는 것이다.",
+          "ttsText": "문제는 그러한 합의가 무엇인지 알아내는 것이다.",
+          "vocabulary": [
+            {
+              "term": "알아내는",
+              "meaning": {
+                "ja": "何を取り決めているのか明らかにすること。",
+                "en": "Establishing what the agreements consist of."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "そこに進む前に、私は今述べたことを立証しなければならない。",
+          "ttsText": "そこにすすむまえに、わたしはいまのべたことをりっしょうしなければならない。",
+          "vocabulary": [
+            {
+              "term": "立証",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Before reaching that point, I must establish what I have just put forward.",
+          "ttsText": "Before reaching that point, I must establish what I have just put forward.",
+          "vocabulary": [
+            {
+              "term": "establish",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Antes de llegar ahí, debo establecer lo que acabo de afirmar.",
+          "ttsText": "Antes de llegar ahí, debo establecer lo que acabo de afirmar.",
+          "vocabulary": [
+            {
+              "term": "establecer",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Avant d’en venir là, je dois établir ce que je viens d’avancer.",
+          "ttsText": "Avant d’en venir là, je dois établir ce que je viens d’avancer.",
+          "vocabulary": [
+            {
+              "term": "établir",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "venir de＋不定詞は直前の出来事。avancer はここでは「前進する」でなく「主張を提出する」です。dois は devoir の現在形で義務を示します。",
+              "en": "Venir de + infinitive expresses the recent past. Avancer here means put forward a claim. Dois is the present of devoir, expressing an obligation."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Wikisource — Du contrat social, éd. Georges Beaulavon, Société nouvelle de librairie et d’édition, 1903, Livre I, chapitre I"
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Bevor ich dazu komme, muss ich begründen, was ich soeben vorgebracht habe.",
+          "ttsText": "Bevor ich dazu komme, muss ich begründen, was ich soeben vorgebracht habe.",
+          "vocabulary": [
+            {
+              "term": "begründen",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Прежде чем перейти к этому, я должен обосновать то, что только что утверждал.",
+          "ttsText": "Прежде чем перейти к этому, я должен обосновать то, что только что утверждал.",
+          "vocabulary": [
+            {
+              "term": "обосновать",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "وقبل الوصول إلى ذلك، علي أن أثبت ما طرحته للتو.",
+          "ttsText": "وقبل الوصول إلى ذلك، علي أن أثبت ما طرحته للتو.",
+          "vocabulary": [
+            {
+              "term": "أثبت",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-qabla al-wuṣūli ilā dhālika, ʿalayya an uthbita mā ṭaraḥtuhu li-at-tawwi.",
+            "note": {
+              "ja": "末尾の li-at-tawwi は、そこで区切る場合 li-at-taww と読みます。",
+              "en": "At a pause here, final li-at-tawwi is pronounced li-at-taww."
+            }
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "在谈到那里之前，我必须先证明我刚才提出的观点。",
+          "ttsText": "在谈到那里之前，我必须先证明我刚才提出的观点。",
+          "vocabulary": [
+            {
+              "term": "证明",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài tán dào nàli zhīqián, wǒ bìxū xiān zhèngmíng wǒ gāngcái tíchū de guāndiǎn."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그 문제로 넘어가기 전에, 나는 방금 제시한 내용을 입증해야 한다.",
+          "ttsText": "그 문제로 넘어가기 전에, 나는 방금 제시한 내용을 입증해야 한다.",
+          "vocabulary": [
+            {
+              "term": "입증",
+              "meaning": {
+                "ja": "すでに述べた主張に根拠を与えること。",
+                "en": "Providing justification for a claim already made."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/rousseau-contract/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ]
+}

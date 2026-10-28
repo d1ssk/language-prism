@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "222e5512d7792edf7d2dd8a7e941db7dc50532b2cf9251232484310d6b9d4b6c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러나 그가 가장 좋아한 것은 레이날도스 데 몬탈반이었다. 특히 성에서 나와 만나는 사람마다 약탈하거나, 이야기대로 바다 건너에서 순금으로 된 마호메트의 우상을 훔치는 장면을 좋아했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "05d1406e9e6f07d8a86c6cf88dcf030a3cc48cbce6cc8e6a50981eb4d6f8814b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:08:59.818706+00:00"
+}

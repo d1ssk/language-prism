@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "16f2839f53e3ca04be33eb48a9a70f8670df87c118b8a4660dc37586fd7222fc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "언젠가는 이 언어들을 사용해서 세계 여러 나라 사람들과 자연스럽게 대화할 수 있게 되고 싶어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0d6f152232b45eebf08455ad37135cf6faffe268759a28d97d6d0cfcde4116f6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:14:04.437197+00:00"
+}

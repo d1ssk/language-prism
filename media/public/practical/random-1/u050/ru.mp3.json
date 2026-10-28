@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a85e8380081059813021001dbe3bd15a9b22640964668428dd1b471c1d9dcb4f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Обычно мне нравится проводить время в одиночестве, но иногда хочется часами разговаривать с друзьями.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4371d470e2a5cf312330992a68324b3af08407b43f823be471e82ced90003ff3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:57.853164+00:00"
+}

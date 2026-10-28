@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "de6fea60f3440a3af1eef49d9af9725e5c8c9c33eb1a815fa56547fd3689c2b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "He spoke highly of the giant Morgante, because although he belonged to the race of giants, all arrogant and ill-mannered, he alone was affable and well bred.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "754904e0fd0d34919ce851ba9974766afcb703889887af0156b1cb50672ffcac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:04:14.823401+00:00"
+}

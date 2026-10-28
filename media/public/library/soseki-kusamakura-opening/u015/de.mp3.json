@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f85af733834e33185ede8d30a37b137d545b83728bb7809d2fe51df77f63515f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Alle, die sich den Künsten widmen, sind verehrungswürdig, weil sie die Menschenwelt friedlicher machen und das menschliche Herz bereichern.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d613645c31feab40f06d1e7fa345186a2f1aba0af18f7e027d19053beeebfdf1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:59:56.729084+00:00"
+}

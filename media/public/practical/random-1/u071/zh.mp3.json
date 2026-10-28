@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "908d17ce1733cb1ec7eb1d19eaa61abd991155b33678774bbcc40cd010470a71",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我不想只是记住知识，还想理解它为什么成立。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e2ba2dc237794fad7450dccc12ae0dd8d194a665468ef694701b27672023a1d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:57:25.466111+00:00"
+}

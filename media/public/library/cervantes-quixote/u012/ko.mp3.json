@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c9e33b0fa2f65a7ae5cef3a087026266dbeade50413bce00aa0a922bef85da93",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 호기심과 분별없음은 읽을 기사도 소설을 사려고 경작지를 여러 하네가나 팔아 버릴 정도에 이르렀다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e1b23f169a70c28814c0ba3bf57ab071b593d4b983bbd6f07f92d42e4afd4e2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:26.682194+00:00"
+}

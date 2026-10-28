@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2e88ef22ac794b3af68fc8019cdc21f2dbcccc69fbfbc77d2d7fc8222406baed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إذا كان الطقس جميلًا غدًا، فلماذا لا نذهب إلى الشاطئ بالسيارة؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "05fe6c72c42e0fbed3567d61638b83065b8a06bcefde6171dcda196fd710610a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:22:38.870963+00:00"
+}

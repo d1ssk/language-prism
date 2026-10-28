@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4ccbc4c6673ae4409f7d3a66771de85c3616024853ed71a6c7a96de50ea07e11",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "また、げんそんするしゅのうち、どのようなしそんであれとおいみらいまでのこすものは、ごくわずかだろう。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "86184f3f40b9683b5064c3866fcbf7ab9e6ffeefd5e3be861b7ec5b5c85a14e0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:20:26.469199+00:00"
+}

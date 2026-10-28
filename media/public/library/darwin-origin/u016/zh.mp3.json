@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1259769970774a12cba21c728a06b308d56d25e54f3dd21fca9b9797534926a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "根据过去，我们可以有把握地推断，没有一个现存物种会把自身未变的形态传到遥远的未来。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "37abc7f027cca6edc173092e2a57049267767c445c7f6fba7bc0cdce325cf8fb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:20:07.863061+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7861b3c46aea2313f9b102faba0f10dea26569bf233603239b21afc4184c3130",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "장기적인 목표를 갖는 것도 중요하지만 지금 이 순간을 즐기는 것도 잊고 싶지 않아요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "10739b8801d4bad5639ae182657f35e792ef40e0207d588ba1418636227ee2af",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:59:47.151573+00:00"
+}

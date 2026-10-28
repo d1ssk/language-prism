@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e66768ec9c5d91ad7c78752ad09e6cf525277c67deeffb7767e83ef3b6592a36",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "虽然不可能让所有事情都按计划进行，但我希望始终保有自己在做选择的感觉。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e010ce9bbbaf7c2341a130b9809fc7a07bbcb48a597d67b8003b9cfacdc28a31",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:10:11.049670+00:00"
+}

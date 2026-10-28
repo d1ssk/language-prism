@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b8b8e4b30d3a3c6bf79374b99d33d3c1d8cc9b44b02fc71ca29a083508afe745",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이처럼 자연의 전쟁에서, 굶주림과 죽음에서, 우리가 생각할 수 있는 가장 고귀한 것, 곧 고등 동물의 탄생이 직접적으로 이어진다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4af39ca55d4dff482d6c7e55ff1f86707b5d4773f75837d21334f69b3ee3aac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:22:15.128699+00:00"
+}

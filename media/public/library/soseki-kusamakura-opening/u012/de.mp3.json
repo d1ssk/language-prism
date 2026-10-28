@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "02abfbe20a9816f1575c5a65e2f8e1a45dc9f1ee84fa1e78c5178dc69a437bd5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ein Land von Wesen ohne Menschlichkeit wäre noch schwerer zu bewohnen als die Menschenwelt.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b8e8100d8a1b79b85df88a27e55df77b75097173cdc24abed77ef1798e240027",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:56:49.442994+00:00"
+}

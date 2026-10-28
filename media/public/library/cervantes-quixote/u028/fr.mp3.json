@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d053ff0b9a728912eedab19942f5f67dd239b77f0ef13e504f9b34497d318185",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et il se persuada si fermement de la vérité de toute cette machine d'inventions rêvées qu'il lisait qu'aucune histoire au monde ne lui paraissait plus certaine.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "87d56f3a118d91884300220e9d4d50c23fe3e0b44ad7e418bb9d197818f43d2e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:59:22.491844+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "96a2133798da0f953b75d3e9dc67047284bc57bbccabab8726b78df6f9c29323",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wird diese Schwierigkeit größer, möchte man an einen friedlicheren Ort ziehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a942ecccc80869a5e61ec4c3d16cc8423e209aa3189dd1fb87decdf7ca8b017c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:21.774963+00:00"
+}

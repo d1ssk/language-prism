@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "77701cdb40981d7ce8bd73a89942516290b6b816b4876e585d653978ddc6f29c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Los colores de este cuadro son discretos, pero de alguna manera deja una impresión muy fuerte.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab906284b3d1b6808fab07a68d9e38cc2c16ce6c60344724bf066a945e77c1ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:38:47.820987+00:00"
+}

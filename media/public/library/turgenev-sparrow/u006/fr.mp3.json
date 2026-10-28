@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d44d20c90b288db897ec3d1b8c685bc2f5e6f7af130d387d402cd49a59d4a231",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il s’était élancé pour sauver son petit et l’avait couvert de son corps… mais tout son petit corps tremblait de terreur, sa voix menue devenait sauvage et rauque, il se figeait ; il se sacrifiait !",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b9c8c06a9b98262e98b8db02e7917cf785b6c357f706e534925967278836a50",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:17:02.741042+00:00"
+}

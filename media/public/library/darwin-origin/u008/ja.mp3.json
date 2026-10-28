@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dd22ad676f6c001ef6f9d993ca2caf0e02420fee5f77986ba09490ca437a0687",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "そして、このわくせいがじゅうりょくのふへんのほうそくにしたがってめぐりつづけるあいだに、それほどたんじゅんなはじまりから、かぎりなくおおくの、きわめてうつくしくおどろくべきけいたいがしんかしてきて、いまもしんかしつつあるというみかたにもそうだいさがある。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "124ff65a65ad558fc53ee3288684188cda8f049a6aa1810374a31cafe4897a8e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:23:27.549112+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6292183753a0b94010fc546d736ccaa41a54a7b986ae2ea87d87765aa0389a48",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если стоять на своём, жить станет тесно.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41033ba82070be7e8c6cb3e47a247352c96a0cc2bbacb998d2a419e9fc91d14b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:09.578759+00:00"
+}

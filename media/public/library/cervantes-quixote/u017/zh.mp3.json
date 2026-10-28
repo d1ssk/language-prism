@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4a53a1a7a2acff0adc0197661d302bec1f20248fc795d6b9d3216dc5c0ffe425",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "还有这样的句子：“崇高的天穹因您的神性，以星辰神圣地增强您的力量，使您配享您的伟大所配得的荣誉。”",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e4e9e89eb61015ee382647a411cbab1f0afc75e7f1fcd85e56548bf97310724b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:42:23.218749+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5c5b794c45fb54151534991d06f5c34b4b22e60475c07d03928da2ec4def0b4e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je pense que prendre le temps de réfléchir à des questions sans réponse facile a une valeur en soi.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8e8afc03826db9ec0df661fddf5b151f60d59880d46f7d1cbb2de2f8f982258f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:02:41.317449+00:00"
+}

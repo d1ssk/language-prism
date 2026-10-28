@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b129d2d47f78f7777507a621f868292e987cc0af7ceee677b9e6b039c6e10175",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "denn wenn es seine Freiheit mit demselben Recht zurückgewinnt, mit dem man sie ihm geraubt hat, ist es entweder berechtigt, sie wiederzunehmen, oder man war nicht berechtigt, sie ihm zu nehmen.“",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c513138794e5085fe8d9bb8661fc1b0dd4c057ea6b3f7d7069b03ee158558bc1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:56:38.429912+00:00"
+}

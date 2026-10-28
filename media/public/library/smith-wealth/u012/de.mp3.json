@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "72de76d7771dc293cf1a0f12c937fa7811d2a6362c055df61ddceb3009897101",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Jede Person konnte somit, da auf sie ein Zehntel von achtundvierzigtausend Stecknadeln entfiel, als Hersteller von viertausendachthundert Stecknadeln am Tag gelten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf1399b8475645c4d97812c3458db321a04f49f6a3fc6413e1680ca6a34bd163",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:47:42.108103+00:00"
+}

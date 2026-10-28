@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4f57f43a714faf09317a45b72af941ce12715e9dc518695d6f57abb48f908499",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Ich liebe die Wolken… die Wolken, die vorüberziehen… dort drüben… die wunderbaren Wolken!",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "684a64014f4f472c0c120443e1f64330db8d1cf3a0f2b6f5fce7dce769f180e1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:52:29.028293+00:00"
+}

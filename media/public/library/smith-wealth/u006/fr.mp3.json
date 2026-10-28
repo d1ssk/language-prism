@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c0d9c40a429f6615c691d907c057e26632d7b91eb9ea6a383f82914dd92d64ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "faire la tête exige deux ou trois opérations distinctes ; la poser est un travail particulier ; blanchir les épingles en est un autre ; les piquer dans le papier est même un métier à lui seul ;",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13f21abf1524ac4a5cd0821c692e6f894077fbdbcc50ad469f809823cefda863",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:40:06.439887+00:00"
+}

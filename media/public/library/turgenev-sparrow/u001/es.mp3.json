@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "da1fc313740482d9734da4574a98c670586707fa7ae0c6d3967bccaa1b23ccb3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Volvía de cazar y caminaba por una alameda del jardín. Mi perro corría delante de mí.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50496e40618afddb4b8454688797278868c2fb050464970f48de11344c9d9586",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:09:06.715006+00:00"
+}

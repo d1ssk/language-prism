@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6c04a52358bc086041cb8a7974d57ef9624f28981913a06963b4cfbec46dfd5b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 我爱云……那些飘过的云……在那边……那些奇妙的云！",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0993f202fac259efe67eb669645c759823bd50b7f88e301e9262016c0121b8a5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:52:51.725424+00:00"
+}

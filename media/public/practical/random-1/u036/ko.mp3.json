@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3198059788e5a29735ef9dad753e57781d263820320f2698a04bb96886c41f5d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "외국어 실력을 늘리려면 매일 조금씩 사용하는 것이 중요하다고 생각해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57761f8a1e58063efcf7f49c0151a28f61e86b9ed7819097bfa80dd9ae7dced0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:32:28.047567+00:00"
+}

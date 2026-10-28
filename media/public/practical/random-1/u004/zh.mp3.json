@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cc1ba553c44ea333e241d7509c230879bcb00143291be0edab90e5218c289c6f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "请给我一杯咖啡，不加糖，也不加奶。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f70442824ff530012c7cabc1186b2f5f8726dc18fa64118337b2c9bbf27e0d98",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:06.995259+00:00"
+}

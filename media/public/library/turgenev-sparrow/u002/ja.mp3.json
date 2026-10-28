@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1f03a837e9796780a17857d5cc7feb6406c860f8902ca3cc3e32f8231eed2d57",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "とつぜん、いぬはあゆみをゆるめ、ぜんぽうにえものをかぎつけたかのように、しのびあしですすみはじめた。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0801a7153a10fcb796c827a8394bfac7ea3ddd9f254fa4062ec455c2fe06296f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:09:52.175330+00:00"
+}

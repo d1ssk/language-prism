@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff7d153b148dcca146dc992ae5b5805b151be3e77bc77bb2b79a78839da2ca1b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "머리를 만드는 데에는 두세 가지 별도의 공정이 필요하고, 그것을 붙이는 일도 전문 작업이며, 핀을 희게 만드는 일도 따로 있다. 심지어 종이에 꽂는 것만으로도 독립된 작업이 된다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "599e6e26be19a92023b3e34cf63626c3b1d67231c4fa9cc2503c709c2b17e1d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:41:04.149435+00:00"
+}

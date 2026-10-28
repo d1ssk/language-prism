@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e83ea291f965a3e2fa3e9e41742c55f43ab72dc10b67b2932791e5c216ee7e32",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Он часто спорил с деревенским священником, учёным человеком с дипломом из Сигуэнсы, о том, кто был лучшим рыцарем: Пальмерин Английский или Амадис Гальский;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "99ec6adb754ef3a8f46d02e9254ce491a9dc8e8b1927a2d1f882ce5405d274a7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:51:05.474834+00:00"
+}

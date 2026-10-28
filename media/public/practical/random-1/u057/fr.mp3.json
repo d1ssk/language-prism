@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b1337bf3cc0116fdd5891552ac9072cb47c9adb12a1a207c45bb01ca08763c77",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ma connexion Internet est instable, donc l'appel vidéo risque d'être interrompu.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "598ece09ece4d64ca09ff530ce204984116dd3c0b37e1cc2c9d77984cdb7a477",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:47:19.537644+00:00"
+}

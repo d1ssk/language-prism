@@ -1,0 +1,4497 @@
+{
+  "schemaVersion": 1,
+  "id": "euclid-elements",
+  "slug": "euclid-elements",
+  "type": "library",
+  "title": {
+    "ja": "原論",
+    "en": "Elements"
+  },
+  "description": {
+    "ja": "点・線・図形の定義と、幾何学の出発点となる公準・共通概念。",
+    "en": "Definitions of points, lines and figures, followed by the postulates and common notions underlying geometry."
+  },
+  "originalLanguage": "grc",
+  "author": "Εὐκλείδης",
+  "bibliography": {
+    "originalTitle": "Στοιχεῖα",
+    "originalAuthor": "Εὐκλείδης",
+    "title": {
+      "ja": "原論",
+      "en": "Elements"
+    },
+    "author": {
+      "ja": "エウクレイデス",
+      "en": "Euclid"
+    }
+  },
+  "sourceTitle": "Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions",
+  "sourceURL": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=0",
+  "rights": {
+    "ja": "原典は著作権保護期間を満了した作品です。採用した公開原典の本文を収録しています。",
+    "en": "The original work is in the public domain. The text follows the identified public source."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：Εὐκλείδης。訳・読み・解説：ChatGPT。音声は未生成。",
+    "en": "Original: Εὐκλείδης. New translations, readings and notes: ChatGPT. No audio has been generated."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他言語は本サイト用に新しく訳しています。訳・読み・解説は専門家未校閲です。共通概念は掲載元のギリシア語9項のうち、通常の5項に対応するα・β・γ・ζ・ηを選択しています。原文の番号と角括弧は保持し、再番号付けしていません。併載英訳の転載ではなく、各言語は新訳です。",
+    "en": "The original is divided into meaning units; translations are newly written for this site. Translations, readings and notes have not been reviewed by specialists. The Common Notions select α, β, γ, ζ and η from the source’s nine Greek items, corresponding to the usual five. Original numbering and square brackets are retained. Translations are new, not copied from the parallel English text."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "第1巻：定義1〜23、公準1〜5、共通概念5項（採用原文のα・β・γ・ζ・η）",
+      "en": "Book I: Definitions 1–23, Postulates 1–5, and five Common Notions (α, β, γ, ζ, η in the source)"
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "点とは、部分を持たないものである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "てんとは、ぶぶんをもたないものである。"
+        },
+        "en": {
+          "text": "A point has no parts.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A point has no parts."
+        },
+        "es": {
+          "text": "Un punto no tiene partes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un punto no tiene partes."
+        },
+        "fr": {
+          "text": "Un point n’a pas de parties.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un point n’a pas de parties."
+        },
+        "de": {
+          "text": "Ein Punkt hat keine Teile.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein Punkt hat keine Teile."
+        },
+        "ru": {
+          "text": "Точка не имеет частей.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Точка не имеет частей."
+        },
+        "ar": {
+          "text": "النُّقْطَةُ مَا لَا جُزْءَ لَهُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "النُّقْطَةُ مَا لَا جُزْءَ لَهُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "An-nuqṭatu mā lā juzʾa lahu."
+          }
+        },
+        "zh": {
+          "text": "点是没有部分的东西。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "点是没有部分的东西。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Diǎn shì méiyǒu bùfen de dōngxi."
+          }
+        },
+        "ko": {
+          "text": "점은 부분이 없는 것이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "점은 부분이 없는 것이다."
+        },
+        "grc": {
+          "text": "α΄. Σημεῖόν ἐστιν, οὗ μέρος οὐθέν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "線とは、幅のない長さである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "せんとは、はばのないながさである。"
+        },
+        "en": {
+          "text": "A line is length without width.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A line is length without width."
+        },
+        "es": {
+          "text": "Una línea es longitud sin anchura.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Una línea es longitud sin anchura."
+        },
+        "fr": {
+          "text": "Une ligne est une longueur sans largeur.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Une ligne est une longueur sans largeur."
+        },
+        "de": {
+          "text": "Eine Linie ist Länge ohne Breite.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eine Linie ist Länge ohne Breite."
+        },
+        "ru": {
+          "text": "Линия есть длина без ширины.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Линия есть длина без ширины."
+        },
+        "ar": {
+          "text": "الْخَطُّ طُولٌ بِلَا عَرْضٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْخَطُّ طُولٌ بِلَا عَرْضٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-khaṭṭu ṭūlun bi-lā ʿarḍin."
+          }
+        },
+        "zh": {
+          "text": "线是没有宽度的长度。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "线是没有宽度的长度。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xiàn shì méiyǒu kuāndù de chángdù."
+          }
+        },
+        "ko": {
+          "text": "선은 너비가 없는 길이이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "선은 너비가 없는 길이이다."
+        },
+        "grc": {
+          "text": "β΄. Γραμμὴ δὲ μῆκος ἀπλατές.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "線の端は点である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "せんのはしはてんである。"
+        },
+        "en": {
+          "text": "The ends of a line are points.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The ends of a line are points."
+        },
+        "es": {
+          "text": "Los extremos de una línea son puntos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Los extremos de una línea son puntos."
+        },
+        "fr": {
+          "text": "Les extrémités d’une ligne sont des points.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les extrémités d’une ligne sont des points."
+        },
+        "de": {
+          "text": "Die Enden einer Linie sind Punkte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die Enden einer Linie sind Punkte."
+        },
+        "ru": {
+          "text": "Концы линии — точки.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Концы линии — точки."
+        },
+        "ar": {
+          "text": "أَطْرَافُ الْخَطِّ نِقَاطٌ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "أَطْرَافُ الْخَطِّ نِقَاطٌ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAṭrāfu al-khaṭṭi niqāṭun."
+          }
+        },
+        "zh": {
+          "text": "线的两端是点。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "线的两端是点。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xiàn de liǎng duān shì diǎn."
+          }
+        },
+        "ko": {
+          "text": "선의 끝은 점이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "선의 끝은 점이다."
+        },
+        "grc": {
+          "text": "γ΄. Γραμμῆς δὲ πέρατα σημεῖα.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "直線とは、その上の点に対して一様に位置する線である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ちょくせんとは、そのうえのてんにたいしていちようにいちするせんである。"
+        },
+        "en": {
+          "text": "A straight line lies uniformly with respect to the points on it.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A straight line lies uniformly with respect to the points on it."
+        },
+        "es": {
+          "text": "Una línea recta se sitúa uniformemente respecto de los puntos que están sobre ella.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Una línea recta se sitúa uniformemente respecto de los puntos que están sobre ella."
+        },
+        "fr": {
+          "text": "Une ligne droite se tient uniformément par rapport aux points qui sont sur elle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Une ligne droite se tient uniformément par rapport aux points qui sont sur elle."
+        },
+        "de": {
+          "text": "Eine gerade Linie liegt gleichmäßig im Verhältnis zu den Punkten auf ihr.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eine gerade Linie liegt gleichmäßig im Verhältnis zu den Punkten auf ihr."
+        },
+        "ru": {
+          "text": "Прямая линия расположена равномерно относительно точек на ней.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Прямая линия расположена равномерно относительно точек на ней."
+        },
+        "ar": {
+          "text": "الْخَطُّ الْمُسْتَقِيمُ خَطٌّ يَقَعُ بِانْتِظَامٍ بِالنِّسْبَةِ إِلَى النِّقَاطِ الَّتِي عَلَيْهِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْخَطُّ الْمُسْتَقِيمُ خَطٌّ يَقَعُ بِانْتِظَامٍ بِالنِّسْبَةِ إِلَى النِّقَاطِ الَّتِي عَلَيْهِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-khaṭṭu al-mustaqīmu khaṭṭun yaqaʿu bi-intiẓāmin bi-an-nisbati ʾilā an-niqāṭi allatī ʿalayhi."
+          }
+        },
+        "zh": {
+          "text": "直线是相对于其上的点均匀延展的线。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "直线是相对于其上的点均匀延展的线。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhíxiàn shì xiāngduì yú qí shàng de diǎn jūnyún yánzhǎn de xiàn."
+          }
+        },
+        "ko": {
+          "text": "직선은 그 위의 점들에 대하여 고르게 놓인 선이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "직선은 그 위의 점들에 대하여 고르게 놓인 선이다."
+        },
+        "grc": {
+          "text": "δ΄. Εὐθεῖα γραμμή ἐστιν, ἥτις ἐξ ἴσου τοῖς ἐφ' ἑαυτῆς σημείοις κεῖται.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "「一様に位置する」は原文の定義的な表現を残した訳です。現代の座標や距離による定義に置き換えていません。",
+              "en": "The wording about lying uniformly preserves the source’s formulation rather than replacing it with a modern coordinate or metric definition."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "面とは、長さと幅だけを持つものである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "めんとは、ながさとはばだけをもつものである。"
+        },
+        "en": {
+          "text": "A surface has only length and width.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A surface has only length and width."
+        },
+        "es": {
+          "text": "Una superficie solo tiene longitud y anchura.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Una superficie solo tiene longitud y anchura."
+        },
+        "fr": {
+          "text": "Une surface a seulement longueur et largeur.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Une surface a seulement longueur et largeur."
+        },
+        "de": {
+          "text": "Eine Fläche hat nur Länge und Breite.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eine Fläche hat nur Länge und Breite."
+        },
+        "ru": {
+          "text": "Поверхность имеет только длину и ширину.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Поверхность имеет только длину и ширину."
+        },
+        "ar": {
+          "text": "السَّطْحُ مَا لَهُ طُولٌ وَعَرْضٌ فَقَطْ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "السَّطْحُ مَا لَهُ طُولٌ وَعَرْضٌ فَقَطْ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "As-saṭḥu mā lahu ṭūlun wa-ʿarḍun faqaṭ."
+          }
+        },
+        "zh": {
+          "text": "面是只有长度和宽度的东西。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "面是只有长度和宽度的东西。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Miàn shì zhǐ yǒu chángdù hé kuāndù de dōngxi."
+          }
+        },
+        "ko": {
+          "text": "면은 길이와 너비만 있는 것이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "면은 길이와 너비만 있는 것이다."
+        },
+        "grc": {
+          "text": "ε΄. Ἐπιφάνεια δέ ἐστιν, ὃ μῆκος καὶ πλάτος μόνον ἔχει.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "面の端は線である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "めんのはしはせんである。"
+        },
+        "en": {
+          "text": "The boundaries of a surface are lines.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The boundaries of a surface are lines."
+        },
+        "es": {
+          "text": "Los límites de una superficie son líneas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Los límites de una superficie son líneas."
+        },
+        "fr": {
+          "text": "Les limites d’une surface sont des lignes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les limites d’une surface sont des lignes."
+        },
+        "de": {
+          "text": "Die Grenzen einer Fläche sind Linien.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Die Grenzen einer Fläche sind Linien."
+        },
+        "ru": {
+          "text": "Границы поверхности — линии.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Границы поверхности — линии."
+        },
+        "ar": {
+          "text": "حُدُودُ السَّطْحِ خُطُوطٌ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "حُدُودُ السَّطْحِ خُطُوطٌ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥudūdu as-saṭḥi khuṭūṭun."
+          }
+        },
+        "zh": {
+          "text": "面的边界是线。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "面的边界是线。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Miàn de biānjiè shì xiàn."
+          }
+        },
+        "ko": {
+          "text": "면의 경계는 선이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "면의 경계는 선이다."
+        },
+        "grc": {
+          "text": "ς΄. Ἐπιφανείας δὲ πέρατα γραμμαί.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "平面とは、その上の直線に対して一様に位置する面である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "へいめんとは、そのうえのちょくせんにたいしていちようにいちするめんである。"
+        },
+        "en": {
+          "text": "A plane surface lies uniformly with respect to the straight lines on it.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A plane surface lies uniformly with respect to the straight lines on it."
+        },
+        "es": {
+          "text": "Una superficie plana se sitúa uniformemente respecto de las líneas rectas que están sobre ella.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Una superficie plana se sitúa uniformemente respecto de las líneas rectas que están sobre ella."
+        },
+        "fr": {
+          "text": "Une surface plane se tient uniformément par rapport aux droites qui sont sur elle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Une surface plane se tient uniformément par rapport aux droites qui sont sur elle."
+        },
+        "de": {
+          "text": "Eine ebene Fläche liegt gleichmäßig im Verhältnis zu den Geraden auf ihr.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eine ebene Fläche liegt gleichmäßig im Verhältnis zu den Geraden auf ihr."
+        },
+        "ru": {
+          "text": "Плоская поверхность расположена равномерно относительно прямых на ней.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Плоская поверхность расположена равномерно относительно прямых на ней."
+        },
+        "ar": {
+          "text": "السَّطْحُ الْمُسْتَوِي يَقَعُ بِانْتِظَامٍ بِالنِّسْبَةِ إِلَى الْخُطُوطِ الْمُسْتَقِيمَةِ الَّتِي عَلَيْهِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "السَّطْحُ الْمُسْتَوِي يَقَعُ بِانْتِظَامٍ بِالنِّسْبَةِ إِلَى الْخُطُوطِ الْمُسْتَقِيمَةِ الَّتِي عَلَيْهِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "As-saṭḥu al-mustawī yaqaʿu bi-intiẓāmin bi-an-nisbati ʾilā al-khuṭūṭi al-mustaqīmati allatī ʿalayhi."
+          }
+        },
+        "zh": {
+          "text": "平面是相对于其上的直线均匀铺展的面。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "平面是相对于其上的直线均匀铺展的面。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Píngmiàn shì xiāngduì yú qí shàng de zhíxiàn jūnyún pūzhǎn de miàn."
+          }
+        },
+        "ko": {
+          "text": "평면은 그 위의 직선들에 대하여 고르게 놓인 면이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "평면은 그 위의 직선들에 대하여 고르게 놓인 면이다."
+        },
+        "grc": {
+          "text": "ζ΄. Ἐπίπεδος ἐπιφάνειά ἐστιν, ἥτις ἐξ ἴσου ταῖς ἐφ' ἑαυτῆς εὐθείαις κεῖται.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "平面角とは、同じ平面上で互いに接し、一直線上にはない二つの線の、互いに対する傾きである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "へいめんかくとは、おなじへいめんじょうでたがいにせっし、いっちょくせんじょうにはないふたつのせんの、たがいにたいするかたむきである。"
+        },
+        "en": {
+          "text": "A plane angle is the inclination to each other of two lines that meet in a plane without lying on one straight line.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A plane angle is the inclination to each other of two lines that meet in a plane without lying on one straight line."
+        },
+        "es": {
+          "text": "Un ángulo plano es la inclinación mutua de dos líneas que se encuentran en un plano sin estar sobre una misma recta.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un ángulo plano es la inclinación mutua de dos líneas que se encuentran en un plano sin estar sobre una misma recta."
+        },
+        "fr": {
+          "text": "Un angle plan est l’inclinaison réciproque de deux lignes qui se rencontrent dans un plan sans être sur une même droite.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un angle plan est l’inclinaison réciproque de deux lignes qui se rencontrent dans un plan sans être sur une même droite."
+        },
+        "de": {
+          "text": "Ein ebener Winkel ist die gegenseitige Neigung zweier Linien, die sich in einer Ebene treffen, ohne auf einer Geraden zu liegen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein ebener Winkel ist die gegenseitige Neigung zweier Linien, die sich in einer Ebene treffen, ohne auf einer Geraden zu liegen."
+        },
+        "ru": {
+          "text": "Плоский угол есть взаимный наклон двух линий, встречающихся в плоскости и не лежащих на одной прямой.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Плоский угол есть взаимный наклон двух линий, встречающихся в плоскости и не лежащих на одной прямой."
+        },
+        "ar": {
+          "text": "الزَّاوِيَةُ الْمُسْتَوِيَةُ هِيَ مَيْلُ خَطَّيْنِ أَحَدِهِمَا إِلَى الْآخَرِ، يَلْتَقِيَانِ فِي مُسْتَوًى وَلَا يَقَعَانِ عَلَى خَطٍّ مُسْتَقِيمٍ وَاحِدٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الزَّاوِيَةُ الْمُسْتَوِيَةُ هِيَ مَيْلُ خَطَّيْنِ أَحَدِهِمَا إِلَى الْآخَرِ، يَلْتَقِيَانِ فِي مُسْتَوًى وَلَا يَقَعَانِ عَلَى خَطٍّ مُسْتَقِيمٍ وَاحِدٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Az-zāwiyatu al-mustawiyatu hiya maylu khaṭṭayni ʾaḥadihimā ʾilā al-ʾākhari, yaltaqiyāni fī mustawan wa-lā yaqaʿāni ʿalā khaṭṭin mustaqīmin wāḥidin."
+          }
+        },
+        "zh": {
+          "text": "平面角是同一平面内相交而不在同一直线上的两条线彼此的倾斜。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "平面角是同一平面内相交而不在同一直线上的两条线彼此的倾斜。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Píngmiànjiǎo shì tóng yī píngmiàn nèi xiāngjiāo ér bù zài tóng yī zhíxiàn shàng de liǎng tiáo xiàn bǐcǐ de qīngxié."
+          }
+        },
+        "ko": {
+          "text": "평면각은 같은 평면에서 만나되 한 직선 위에 놓이지 않는 두 선이 서로 이루는 기울기이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "평면각은 같은 평면에서 만나되 한 직선 위에 놓이지 않는 두 선이 서로 이루는 기울기이다."
+        },
+        "grc": {
+          "text": "η΄. Ἐπίπεδος δὲ γωνία ἐστὶν ἡ ἐν ἐπιπέδῳ δύο γραμμῶν ἁπτομένων ἀλλήλων καὶ μὴ ἐπ' εὐθείας κειμένων πρὸς ἀλλήλας τῶν γραμμῶν κλίσις.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "角を囲む線が直線であるとき、その角は直線角と呼ばれる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "かくをかこむせんがちょくせんであるとき、そのかくはちょくせんかくとよばれる。"
+        },
+        "en": {
+          "text": "When the lines bounding an angle are straight, the angle is called rectilinear.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "When the lines bounding an angle are straight, the angle is called rectilinear."
+        },
+        "es": {
+          "text": "Cuando las líneas que delimitan un ángulo son rectas, el ángulo se llama rectilíneo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Cuando las líneas que delimitan un ángulo son rectas, el ángulo se llama rectilíneo."
+        },
+        "fr": {
+          "text": "Lorsque les lignes qui délimitent un angle sont droites, l’angle est dit rectiligne.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Lorsque les lignes qui délimitent un angle sont droites, l’angle est dit rectiligne."
+        },
+        "de": {
+          "text": "Sind die Linien, die einen Winkel begrenzen, gerade, so heißt der Winkel geradlinig.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Sind die Linien, die einen Winkel begrenzen, gerade, so heißt der Winkel geradlinig."
+        },
+        "ru": {
+          "text": "Если линии, ограничивающие угол, прямые, угол называется прямолинейным.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если линии, ограничивающие угол, прямые, угол называется прямолинейным."
+        },
+        "ar": {
+          "text": "إِذَا كَانَتِ الْخُطُوطُ الْمُحِيطَةُ بِالزَّاوِيَةِ مُسْتَقِيمَةً، سُمِّيَتِ الزَّاوِيَةُ مُسْتَقِيمَةَ الْخَطَّيْنِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "إِذَا كَانَتِ الْخُطُوطُ الْمُحِيطَةُ بِالزَّاوِيَةِ مُسْتَقِيمَةً، سُمِّيَتِ الزَّاوِيَةُ مُسْتَقِيمَةَ الْخَطَّيْنِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIdhā kānati al-khuṭūṭu al-muḥīṭatu bi-az-zāwiyati mustaqīmatan, summiyati az-zāwiyatu mustaqīmata al-khaṭṭayni."
+          }
+        },
+        "zh": {
+          "text": "当围成角的线是直线时，这个角叫作直线角。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "当围成角的线是直线时，这个角叫作直线角。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dāng wéichéng jiǎo de xiàn shì zhíxiàn shí, zhè ge jiǎo jiàozuò zhíxiànjiǎo."
+          }
+        },
+        "ko": {
+          "text": "각을 이루는 선들이 직선이면 그 각을 직선각이라고 한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "각을 이루는 선들이 직선이면 그 각을 직선각이라고 한다."
+        },
+        "grc": {
+          "text": "θ΄. Ὅταν δὲ αἱ περιέχουσαι τὴν γωνίαν γραμμαὶ εὐθεῖαι ὦσιν, εὐθύγραμμος καλεῖται ἡ γωνία.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでの直線角は直線で囲まれる角のことで、直角とは異なります。",
+              "en": "Rectilinear means bounded by straight lines; it does not mean a right angle."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "一つの直線が別の直線の上に立ち、隣り合う角を等しくするとき、その等しい角はそれぞれ直角である。また、立てられた直線は、それが立つ直線への垂線と呼ばれる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ひとつのちょくせんがべつのちょくせんのうえにたち、となりあうかくをひとしくするとき、そのひとしいかくはそれぞれちょっかくである。また、たてられたちょくせんは、それがたつちょくせんへのすいせんとよばれる。"
+        },
+        "en": {
+          "text": "When a straight line standing on another makes the adjacent angles equal, each of those angles is a right angle, and the standing line is called perpendicular to the line on which it stands.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "When a straight line standing on another makes the adjacent angles equal, each of those angles is a right angle, and the standing line is called perpendicular to the line on which it stands."
+        },
+        "es": {
+          "text": "Cuando una recta levantada sobre otra forma ángulos adyacentes iguales, cada uno es un ángulo recto, y la recta levantada se llama perpendicular a aquella sobre la que se levanta.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Cuando una recta levantada sobre otra forma ángulos adyacentes iguales, cada uno es un ángulo recto, y la recta levantada se llama perpendicular a aquella sobre la que se levanta."
+        },
+        "fr": {
+          "text": "Lorsqu’une droite dressée sur une autre forme des angles adjacents égaux, chacun est un angle droit, et la droite dressée est dite perpendiculaire à celle sur laquelle elle se dresse.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Lorsqu’une droite dressée sur une autre forme des angles adjacents égaux, chacun est un angle droit, et la droite dressée est dite perpendiculaire à celle sur laquelle elle se dresse."
+        },
+        "de": {
+          "text": "Wenn eine Gerade auf einer anderen steht und die benachbarten Winkel gleich macht, ist jeder davon ein rechter Winkel; die aufgestellte Gerade heißt senkrecht zu der anderen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Wenn eine Gerade auf einer anderen steht und die benachbarten Winkel gleich macht, ist jeder davon ein rechter Winkel; die aufgestellte Gerade heißt senkrecht zu der anderen."
+        },
+        "ru": {
+          "text": "Когда прямая, стоящая на другой прямой, образует равные смежные углы, каждый из них прямой, а стоящая прямая называется перпендикуляром к той, на которой стоит.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Когда прямая, стоящая на другой прямой, образует равные смежные углы, каждый из них прямой, а стоящая прямая называется перпендикуляром к той, на которой стоит."
+        },
+        "ar": {
+          "text": "إِذَا قَامَ خَطٌّ مُسْتَقِيمٌ عَلَى آخَرَ وَجَعَلَ الزَّاوِيَتَيْنِ الْمُتَجَاوِرَتَيْنِ مُتَسَاوِيَتَيْنِ، فَكُلٌّ مِنْهُمَا زَاوِيَةٌ قَائِمَةٌ، وَيُسَمَّى الْخَطُّ الْقَائِمُ عَمُودًا عَلَى الْآخَرِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "إِذَا قَامَ خَطٌّ مُسْتَقِيمٌ عَلَى آخَرَ وَجَعَلَ الزَّاوِيَتَيْنِ الْمُتَجَاوِرَتَيْنِ مُتَسَاوِيَتَيْنِ، فَكُلٌّ مِنْهُمَا زَاوِيَةٌ قَائِمَةٌ، وَيُسَمَّى الْخَطُّ الْقَائِمُ عَمُودًا عَلَى الْآخَرِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIdhā qāma khaṭṭun mustaqīmun ʿalā ʾākhara wa-jaʿala az-zāwiyatayni al-mutajāwiratayni mutasāwiyatayni, fa-kullun minhumā zāwiyatun qāʾimatun, wa-yusammā al-khaṭṭu al-qāʾimu ʿamūdan ʿalā al-ʾākhari."
+          }
+        },
+        "zh": {
+          "text": "当一条直线立在另一条直线上，使相邻的两个角相等时，每个角都是直角，而立起的直线叫作另一条直线的垂线。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "当一条直线立在另一条直线上，使相邻的两个角相等时，每个角都是直角，而立起的直线叫作另一条直线的垂线。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dāng yī tiáo zhíxiàn lì zài lìng yī tiáo zhíxiàn shàng, shǐ xiānglín de liǎng ge jiǎo xiāngděng shí, měi ge jiǎo dōu shì zhíjiǎo, ér lì qǐ de zhíxiàn jiàozuò lìng yī tiáo zhíxiàn de chuíxiàn."
+          }
+        },
+        "ko": {
+          "text": "한 직선이 다른 직선 위에 서서 서로 이웃한 두 각을 같게 만들면 각각은 직각이며, 세운 직선은 다른 직선에 대한 수선이라고 한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "한 직선이 다른 직선 위에 서서 서로 이웃한 두 각을 같게 만들면 각각은 직각이며, 세운 직선은 다른 직선에 대한 수선이라고 한다."
+        },
+        "grc": {
+          "text": "ι΄. Ὅταν δὲ εὐθεῖα ἐπ' εὐθεῖαν σταθεῖσα τὰς ἐφεξῆς γωνίας ἴσας ἀλλήλαις ποιῇ, ὀρθὴ ἑκατέρα τῶν ἴσων γωνιῶν ἐστι, καὶ ἡ ἐφεστηκυῖα εὐθεῖα κάθετος καλεῖται, ἐφ' ἣν ἐφέστηκεν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "鈍角とは、直角より大きい角である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "どんかくとは、ちょっかくよりおおきいかくである。"
+        },
+        "en": {
+          "text": "An obtuse angle is larger than a right angle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "An obtuse angle is larger than a right angle."
+        },
+        "es": {
+          "text": "Un ángulo obtuso es mayor que un ángulo recto.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un ángulo obtuso es mayor que un ángulo recto."
+        },
+        "fr": {
+          "text": "Un angle obtus est plus grand qu’un angle droit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un angle obtus est plus grand qu’un angle droit."
+        },
+        "de": {
+          "text": "Ein stumpfer Winkel ist größer als ein rechter Winkel.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein stumpfer Winkel ist größer als ein rechter Winkel."
+        },
+        "ru": {
+          "text": "Тупой угол больше прямого.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Тупой угол больше прямого."
+        },
+        "ar": {
+          "text": "الزَّاوِيَةُ الْمُنْفَرِجَةُ أَكْبَرُ مِنْ زَاوِيَةٍ قَائِمَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الزَّاوِيَةُ الْمُنْفَرِجَةُ أَكْبَرُ مِنْ زَاوِيَةٍ قَائِمَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Az-zāwiyatu al-munfarijatu ʾakbaru min zāwiyatin qāʾimatin."
+          }
+        },
+        "zh": {
+          "text": "钝角是大于直角的角。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "钝角是大于直角的角。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dùnjiǎo shì dà yú zhíjiǎo de jiǎo."
+          }
+        },
+        "ko": {
+          "text": "둔각은 직각보다 큰 각이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "둔각은 직각보다 큰 각이다."
+        },
+        "grc": {
+          "text": "ια΄. Ἀμβλεῖα γωνία ἐστὶν ἡ μείζων ὀρθῆς.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "鋭角とは、直角より小さい角である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "えいかくとは、ちょっかくよりちいさいかくである。"
+        },
+        "en": {
+          "text": "An acute angle is smaller than a right angle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "An acute angle is smaller than a right angle."
+        },
+        "es": {
+          "text": "Un ángulo agudo es menor que un ángulo recto.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un ángulo agudo es menor que un ángulo recto."
+        },
+        "fr": {
+          "text": "Un angle aigu est plus petit qu’un angle droit.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un angle aigu est plus petit qu’un angle droit."
+        },
+        "de": {
+          "text": "Ein spitzer Winkel ist kleiner als ein rechter Winkel.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein spitzer Winkel ist kleiner als ein rechter Winkel."
+        },
+        "ru": {
+          "text": "Острый угол меньше прямого.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Острый угол меньше прямого."
+        },
+        "ar": {
+          "text": "الزَّاوِيَةُ الْحَادَّةُ أَصْغَرُ مِنْ زَاوِيَةٍ قَائِمَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الزَّاوِيَةُ الْحَادَّةُ أَصْغَرُ مِنْ زَاوِيَةٍ قَائِمَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Az-zāwiyatu al-ḥāddatu ʾaṣgharu min zāwiyatin qāʾimatin."
+          }
+        },
+        "zh": {
+          "text": "锐角是小于直角的角。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "锐角是小于直角的角。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Ruìjiǎo shì xiǎo yú zhíjiǎo de jiǎo."
+          }
+        },
+        "ko": {
+          "text": "예각은 직각보다 작은 각이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "예각은 직각보다 작은 각이다."
+        },
+        "grc": {
+          "text": "ιβ΄. Ὀξεῖα δὲ ἡ ἐλάσσων ὀρθῆς.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "境界とは、何かの端である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "きょうかいとは、なにかのはしである。"
+        },
+        "en": {
+          "text": "A boundary is the end of something.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A boundary is the end of something."
+        },
+        "es": {
+          "text": "Un límite es el extremo de algo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un límite es el extremo de algo."
+        },
+        "fr": {
+          "text": "Une limite est l’extrémité de quelque chose.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Une limite est l’extrémité de quelque chose."
+        },
+        "de": {
+          "text": "Eine Grenze ist das Ende von etwas.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eine Grenze ist das Ende von etwas."
+        },
+        "ru": {
+          "text": "Граница есть конец чего-либо.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Граница есть конец чего-либо."
+        },
+        "ar": {
+          "text": "الْحَدُّ هُوَ طَرَفُ شَيْءٍ مَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْحَدُّ هُوَ طَرَفُ شَيْءٍ مَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥaddu huwa ṭarafu shayʾin mā."
+          }
+        },
+        "zh": {
+          "text": "边界是某物的端部。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "边界是某物的端部。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Biānjiè shì mǒu wù de duānbù."
+          }
+        },
+        "ko": {
+          "text": "경계는 어떤 것의 끝이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "경계는 어떤 것의 끝이다."
+        },
+        "grc": {
+          "text": "ιγ΄. Ὅρος ἐστίν, ὅ τινός ἐστι πέρας.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "図形とは、一つまたは複数の境界に囲まれたものである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ずけいとは、ひとつまたはふくすうのきょうかいにかこまれたものである。"
+        },
+        "en": {
+          "text": "A figure is what is enclosed by one or more boundaries.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A figure is what is enclosed by one or more boundaries."
+        },
+        "es": {
+          "text": "Una figura es lo encerrado por uno o varios límites.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Una figura es lo encerrado por uno o varios límites."
+        },
+        "fr": {
+          "text": "Une figure est ce qui est enfermé par une ou plusieurs limites.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Une figure est ce qui est enfermé par une ou plusieurs limites."
+        },
+        "de": {
+          "text": "Eine Figur ist das von einer oder mehreren Grenzen Eingeschlossene.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Eine Figur ist das von einer oder mehreren Grenzen Eingeschlossene."
+        },
+        "ru": {
+          "text": "Фигура есть то, что заключено в одной или нескольких границах.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Фигура есть то, что заключено в одной или нескольких границах."
+        },
+        "ar": {
+          "text": "الشَّكْلُ مَا يُحِيطُ بِهِ حَدٌّ أَوْ أَكْثَرُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الشَّكْلُ مَا يُحِيطُ بِهِ حَدٌّ أَوْ أَكْثَرُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ash-shaklu mā yuḥīṭu bihi ḥaddun ʾaw ʾaktharu."
+          }
+        },
+        "zh": {
+          "text": "图形是由一个或多个边界围成的东西。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "图形是由一个或多个边界围成的东西。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Túxíng shì yóu yī ge huò duō ge biānjiè wéichéng de dōngxi."
+          }
+        },
+        "ko": {
+          "text": "도형은 하나 또는 여러 경계로 둘러싸인 것이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "도형은 하나 또는 여러 경계로 둘러싸인 것이다."
+        },
+        "grc": {
+          "text": "ιδ΄. Σχῆμά ἐστι τὸ ὑπό τινος ἤ τινων ὅρων περιεχόμενον.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "円とは、一つの線［円周と呼ばれる］で囲まれた平面図形であり、図形の内部の一つの点からその線［円周］へ引かれる直線が、すべて互いに等しいものである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "えんとは、ひとつのせん、えんしゅうとよばれる、でかこまれたへいめんずけいであり、ずけいのないぶのひとつのてんからそのせん、えんしゅう、へひかれるちょくせんが、すべてたがいにひとしいものである。"
+        },
+        "en": {
+          "text": "A circle is a plane figure bounded by one line [called the circumference], such that all straight lines drawn to it [to the circumference] from one point inside the figure are equal to one another.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A circle is a plane figure bounded by one line [called the circumference], such that all straight lines drawn to it [to the circumference] from one point inside the figure are equal to one another."
+        },
+        "es": {
+          "text": "Un círculo es una figura plana delimitada por una línea [llamada circunferencia], de modo que todas las rectas trazadas hasta ella [hasta la circunferencia] desde un punto interior son iguales entre sí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un círculo es una figura plana delimitada por una línea [llamada circunferencia], de modo que todas las rectas trazadas hasta ella [hasta la circunferencia] desde un punto interior son iguales entre sí."
+        },
+        "fr": {
+          "text": "Un cercle est une figure plane délimitée par une ligne [appelée circonférence], telle que toutes les droites menées vers elle [vers la circonférence] depuis un point intérieur sont égales entre elles.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un cercle est une figure plane délimitée par une ligne [appelée circonférence], telle que toutes les droites menées vers elle [vers la circonférence] depuis un point intérieur sont égales entre elles."
+        },
+        "de": {
+          "text": "Ein Kreis ist eine ebene Figur, die von einer Linie [dem Kreisumfang] begrenzt wird, zu der alle Geraden [zum Kreisumfang] von einem Punkt im Inneren aus einander gleich sind.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein Kreis ist eine ebene Figur, die von einer Linie [dem Kreisumfang] begrenzt wird, zu der alle Geraden [zum Kreisumfang] von einem Punkt im Inneren aus einander gleich sind."
+        },
+        "ru": {
+          "text": "Круг — плоская фигура, ограниченная одной линией [называемой окружностью], к которой все прямые [к окружности], проведённые из одной точки внутри фигуры, равны между собой.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Круг — плоская фигура, ограниченная одной линией [называемой окружностью], к которой все прямые [к окружности], проведённые из одной точки внутри фигуры, равны между собой."
+        },
+        "ar": {
+          "text": "الدَّائِرَةُ شَكْلٌ مُسْتَوٍ يُحِيطُ بِهِ خَطٌّ وَاحِدٌ [يُسَمَّى الْمُحِيطَ]، وَتَتَسَاوَى جَمِيعُ الْخُطُوطِ الْمُسْتَقِيمَةِ الْمَرْسُومَةِ إِلَيْهِ [إِلَى الْمُحِيطِ] مِنْ نُقْطَةٍ وَاحِدَةٍ دَاخِلَ الشَّكْلِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الدَّائِرَةُ شَكْلٌ مُسْتَوٍ يُحِيطُ بِهِ خَطٌّ وَاحِدٌ [يُسَمَّى الْمُحِيطَ]، وَتَتَسَاوَى جَمِيعُ الْخُطُوطِ الْمُسْتَقِيمَةِ الْمَرْسُومَةِ إِلَيْهِ [إِلَى الْمُحِيطِ] مِنْ نُقْطَةٍ وَاحِدَةٍ دَاخِلَ الشَّكْلِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ad-dāʾiratu shaklun mustawin yuḥīṭu bihi khaṭṭun wāḥidun [yusammā al-muḥīṭa], wa-tatasāwā jamīʿu al-khuṭūṭi al-mustaqīmati al-marsūmati ʾilayhi [ʾilā al-muḥīṭi] min nuqṭatin wāḥidatin dākhila ash-shakli."
+          }
+        },
+        "zh": {
+          "text": "圆是由一条线［称为圆周］围成的平面图形，从图形内部某一点向这条线［圆周］所作的所有直线都彼此相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "圆是由一条线［称为圆周］围成的平面图形，从图形内部某一点向这条线［圆周］所作的所有直线都彼此相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yuán shì yóu yī tiáo xiàn［chēng wéi yuánzhōu］wéichéng de píngmiàn túxíng, cóng túxíng nèibù mǒu yī diǎn xiàng zhè tiáo xiàn［yuánzhōu］suǒ zuò de suǒyǒu zhíxiàn dōu bǐcǐ xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "원은 하나의 선［원주라고 한다］으로 둘러싸인 평면도형으로, 도형 안의 한 점에서 그 선［원주］까지 그은 모든 직선이 서로 같은 것이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "원은 하나의 선［원주라고 한다］으로 둘러싸인 평면도형으로, 도형 안의 한 점에서 그 선［원주］까지 그은 모든 직선이 서로 같은 것이다."
+        },
+        "grc": {
+          "text": "ιε΄. Κύκλος ἐστὶ σχῆμα ἐπίπεδον ὑπὸ μιᾶς γραμμῆς περιεχόμενον [ἣ καλεῖται περιφέρεια], πρὸς ἣν ἀφ' ἑνὸς σημείου τῶν ἐντὸς τοῦ σχήματος κειμένων πᾶσαι αἱ προσπίπτουσαι εὐθεῖαι [πρὸς τὴν τοῦ κύκλου περιφέρειαν] ἴσαι ἀλλήλαις εἰσίν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "その点は、円の中心と呼ばれる。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "そのてんは、えんのちゅうしんとよばれる。"
+        },
+        "en": {
+          "text": "That point is called the centre of the circle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "That point is called the centre of the circle."
+        },
+        "es": {
+          "text": "Ese punto se llama centro del círculo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ese punto se llama centro del círculo."
+        },
+        "fr": {
+          "text": "Ce point est appelé centre du cercle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ce point est appelé centre du cercle."
+        },
+        "de": {
+          "text": "Dieser Punkt heißt Mittelpunkt des Kreises.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dieser Punkt heißt Mittelpunkt des Kreises."
+        },
+        "ru": {
+          "text": "Эта точка называется центром круга.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Эта точка называется центром круга."
+        },
+        "ar": {
+          "text": "تُسَمَّى تِلْكَ النُّقْطَةُ مَرْكَزَ الدَّائِرَةِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "تُسَمَّى تِلْكَ النُّقْطَةُ مَرْكَزَ الدَّائِرَةِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tusammā tilka an-nuqṭatu markaza ad-dāʾirati."
+          }
+        },
+        "zh": {
+          "text": "那个点叫作圆心。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "那个点叫作圆心。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nà ge diǎn jiàozuò yuánxīn."
+          }
+        },
+        "ko": {
+          "text": "그 점을 원의 중심이라고 한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "그 점을 원의 중심이라고 한다."
+        },
+        "grc": {
+          "text": "ις΄. Κέντρον δὲ τοῦ κύκλου τὸ σημεῖον καλεῖται.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "円の直径とは、中心を通り、両側とも円周で終わる直線であり、それは円を二等分する。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "えんのちょっけいとは、ちゅうしんをとおり、りょうがわともえんしゅうでおわるちょくせんであり、それはえんをにとうぶんする。"
+        },
+        "en": {
+          "text": "A diameter of a circle is a straight line through its centre, ending at the circumference on both sides; it also divides the circle in two equal parts.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A diameter of a circle is a straight line through its centre, ending at the circumference on both sides; it also divides the circle in two equal parts."
+        },
+        "es": {
+          "text": "Un diámetro es una recta que pasa por el centro y termina en la circunferencia por ambos lados; también divide el círculo en dos partes iguales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un diámetro es una recta que pasa por el centro y termina en la circunferencia por ambos lados; también divide el círculo en dos partes iguales."
+        },
+        "fr": {
+          "text": "Un diamètre est une droite passant par le centre et terminée des deux côtés par la circonférence ; elle partage aussi le cercle en deux parties égales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un diamètre est une droite passant par le centre et terminée des deux côtés par la circonférence ; elle partage aussi le cercle en deux parties égales."
+        },
+        "de": {
+          "text": "Ein Durchmesser ist eine Gerade durch den Mittelpunkt, die auf beiden Seiten am Kreisumfang endet; sie teilt den Kreis auch in zwei gleiche Teile.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein Durchmesser ist eine Gerade durch den Mittelpunkt, die auf beiden Seiten am Kreisumfang endet; sie teilt den Kreis auch in zwei gleiche Teile."
+        },
+        "ru": {
+          "text": "Диаметр круга — прямая, проходящая через центр и с обеих сторон ограниченная окружностью; она также делит круг пополам.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Диаметр круга — прямая, проходящая через центр и с обеих сторон ограниченная окружностью; она также делит круг пополам."
+        },
+        "ar": {
+          "text": "قُطْرُ الدَّائِرَةِ خَطٌّ مُسْتَقِيمٌ يَمُرُّ بِمَرْكَزِهَا وَيَنْتَهِي مِنَ الْجَانِبَيْنِ عِنْدَ مُحِيطِهَا، وَيَقْسِمُهَا أَيْضًا إِلَى نِصْفَيْنِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "قُطْرُ الدَّائِرَةِ خَطٌّ مُسْتَقِيمٌ يَمُرُّ بِمَرْكَزِهَا وَيَنْتَهِي مِنَ الْجَانِبَيْنِ عِنْدَ مُحِيطِهَا، وَيَقْسِمُهَا أَيْضًا إِلَى نِصْفَيْنِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Quṭru ad-dāʾirati khaṭṭun mustaqīmun yamurru bi-markazihā wa-yantahī mina al-jānibayni ʿinda muḥīṭihā, wa-yaqsimuhā ʾayḍan ʾilā niṣfayni."
+          }
+        },
+        "zh": {
+          "text": "圆的直径是经过圆心、两端止于圆周的直线，它也把圆分成相等的两部分。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "圆的直径是经过圆心、两端止于圆周的直线，它也把圆分成相等的两部分。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yuán de zhíjìng shì jīngguò yuánxīn, liǎng duān zhǐ yú yuánzhōu de zhíxiàn, tā yě bǎ yuán fēn chéng xiāngděng de liǎng bùfen."
+          }
+        },
+        "ko": {
+          "text": "원의 지름은 중심을 지나 양쪽이 원주에서 끝나는 직선이며, 원을 같은 두 부분으로 나눈다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "원의 지름은 중심을 지나 양쪽이 원주에서 끝나는 직선이며, 원을 같은 두 부분으로 나눈다."
+        },
+        "grc": {
+          "text": "ιζ΄. Διάμετρος δὲ τοῦ κύκλου ἐστὶν εὐθεῖά τις διὰ τοῦ κέντρου ἠγμένη καὶ περατουμένη ἐφ' ἑκάτερα τὰ μέρη ὑπὸ τῆς τοῦ κύκλου περιφερείας, ἥτις καὶ δίχα τέμνει τὸν κύκλον.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "半円とは、直径と、それによって切り取られた円周とで囲まれた図形である。半円の中心は、円の中心と同じである。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "はんえんとは、ちょっけいと、それによってきりとられたえんしゅうとでかこまれたずけいである。はんえんのちゅうしんは、えんのちゅうしんとおなじである。"
+        },
+        "en": {
+          "text": "A semicircle is the figure enclosed by a diameter and the circumference it cuts off. Its centre is the same as the circle’s centre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "A semicircle is the figure enclosed by a diameter and the circumference it cuts off. Its centre is the same as the circle’s centre."
+        },
+        "es": {
+          "text": "Un semicírculo es la figura delimitada por un diámetro y la parte de circunferencia que este corta. Su centro es el mismo que el del círculo.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un semicírculo es la figura delimitada por un diámetro y la parte de circunferencia que este corta. Su centro es el mismo que el del círculo."
+        },
+        "fr": {
+          "text": "Un demi-cercle est la figure délimitée par un diamètre et la portion de circonférence qu’il découpe. Son centre est le même que celui du cercle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Un demi-cercle est la figure délimitée par un diamètre et la portion de circonférence qu’il découpe. Son centre est le même que celui du cercle."
+        },
+        "de": {
+          "text": "Ein Halbkreis ist die Figur zwischen einem Durchmesser und dem von ihm abgetrennten Kreisumfang. Sein Mittelpunkt ist derselbe wie der des Kreises.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ein Halbkreis ist die Figur zwischen einem Durchmesser und dem von ihm abgetrennten Kreisumfang. Sein Mittelpunkt ist derselbe wie der des Kreises."
+        },
+        "ru": {
+          "text": "Полукруг — фигура, ограниченная диаметром и отсекаемой им частью окружности. Его центр совпадает с центром круга.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Полукруг — фигура, ограниченная диаметром и отсекаемой им частью окружности. Его центр совпадает с центром круга."
+        },
+        "ar": {
+          "text": "نِصْفُ الدَّائِرَةِ هُوَ الشَّكْلُ الْمَحْصُورُ بَيْنَ الْقُطْرِ وَالْجُزْءِ الَّذِي يَقْطَعُهُ مِنَ الْمُحِيطِ. وَمَرْكَزُهُ هُوَ مَرْكَزُ الدَّائِرَةِ نَفْسُهُ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "نِصْفُ الدَّائِرَةِ هُوَ الشَّكْلُ الْمَحْصُورُ بَيْنَ الْقُطْرِ وَالْجُزْءِ الَّذِي يَقْطَعُهُ مِنَ الْمُحِيطِ. وَمَرْكَزُهُ هُوَ مَرْكَزُ الدَّائِرَةِ نَفْسُهُ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Niṣfu ad-dāʾirati huwa ash-shaklu al-maḥṣūru bayna al-quṭri wa-al-juzʾi alladhī yaqṭaʿuhu mina al-muḥīṭi. Wa-markazuhu huwa markazu ad-dāʾirati nafsuhu."
+          }
+        },
+        "zh": {
+          "text": "半圆是由直径和它截出的圆周部分围成的图形。半圆的中心与圆心相同。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "半圆是由直径和它截出的圆周部分围成的图形。半圆的中心与圆心相同。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bànyuán shì yóu zhíjìng hé tā jié chū de yuánzhōu bùfen wéichéng de túxíng. Bànyuán de zhōngxīn yǔ yuánxīn xiāngtóng."
+          }
+        },
+        "ko": {
+          "text": "반원은 지름과 그 지름이 잘라 낸 원주의 부분으로 둘러싸인 도형이다. 반원의 중심은 원의 중심과 같다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "반원은 지름과 그 지름이 잘라 낸 원주의 부분으로 둘러싸인 도형이다. 반원의 중심은 원의 중심과 같다."
+        },
+        "grc": {
+          "text": "ιη΄. Ἡμικύκλιον δέ ἐστι τὸ περιεχόμενον σχῆμα ὑπό τε τῆς διαμέτρου καὶ τῆς ἀπολαμβανομένης ὑπ' αὐτῆς περιφερείας. κέντρον δὲ τοῦ ἡμικυκλίου τὸ αὐτό, ὃ καὶ τοῦ κύκλου ἐστίν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u019",
+      "languages": {
+        "ja": {
+          "text": "直線図形とは直線で囲まれた図形であり、三つの直線で囲まれたものは三辺形、四つなら四辺形、四つより多ければ多辺形である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ちょくせんずけいとはちょくせんでかこまれたずけいであり、みっつのちょくせんでかこまれたものはさんぺんけい、よっつならしへんけい、よっつよりおおければたへんけいである。"
+        },
+        "en": {
+          "text": "Rectilinear figures are enclosed by straight lines: three-sided figures by three, four-sided figures by four, and many-sided figures by more than four.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Rectilinear figures are enclosed by straight lines: three-sided figures by three, four-sided figures by four, and many-sided figures by more than four."
+        },
+        "es": {
+          "text": "Las figuras rectilíneas están delimitadas por rectas: las triláteras por tres, las cuadriláteras por cuatro y las multiláteras por más de cuatro.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Las figuras rectilíneas están delimitadas por rectas: las triláteras por tres, las cuadriláteras por cuatro y las multiláteras por más de cuatro."
+        },
+        "fr": {
+          "text": "Les figures rectilignes sont délimitées par des droites : les trilatères par trois, les quadrilatères par quatre, et les multilatères par plus de quatre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Les figures rectilignes sont délimitées par des droites : les trilatères par trois, les quadrilatères par quatre, et les multilatères par plus de quatre."
+        },
+        "de": {
+          "text": "Geradlinige Figuren sind von Geraden eingeschlossen: dreiseitige von drei, vierseitige von vier und vielseitige von mehr als vier.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Geradlinige Figuren sind von Geraden eingeschlossen: dreiseitige von drei, vierseitige von vier und vielseitige von mehr als vier."
+        },
+        "ru": {
+          "text": "Прямолинейные фигуры ограничены прямыми: трёхсторонние — тремя, четырёхсторонние — четырьмя, многосторонние — более чем четырьмя.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Прямолинейные фигуры ограничены прямыми: трёхсторонние — тремя, четырёхсторонние — четырьмя, многосторонние — более чем четырьмя."
+        },
+        "ar": {
+          "text": "الْأَشْكَالُ الْمُسْتَقِيمَةُ الْأَضْلَاعِ تُحِيطُ بِهَا خُطُوطٌ مُسْتَقِيمَةٌ: فَالثُّلَاثِيَّةُ بِثَلَاثَةٍ، وَالرُّبَاعِيَّةُ بِأَرْبَعَةٍ، وَالْكَثِيرَةُ الْأَضْلَاعِ بِأَكْثَرَ مِنْ أَرْبَعَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْأَشْكَالُ الْمُسْتَقِيمَةُ الْأَضْلَاعِ تُحِيطُ بِهَا خُطُوطٌ مُسْتَقِيمَةٌ: فَالثُّلَاثِيَّةُ بِثَلَاثَةٍ، وَالرُّبَاعِيَّةُ بِأَرْبَعَةٍ، وَالْكَثِيرَةُ الْأَضْلَاعِ بِأَكْثَرَ مِنْ أَرْبَعَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʾashkālu al-mustaqīmatu al-ʾaḍlāʿi tuḥīṭu bihā khuṭūṭun mustaqīmatun: fa-ath-thulāthiyyatu bi-thalāthatin, wa-ar-rubāʿiyyatu bi-ʾarbaʿatin, wa-al-kathīratu al-ʾaḍlāʿi bi-ʾakthara min ʾarbaʿatin."
+          }
+        },
+        "zh": {
+          "text": "直线图形由直线围成：三条线围成三边形，四条线围成四边形，多于四条线围成多边形。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "直线图形由直线围成：三条线围成三边形，四条线围成四边形，多于四条线围成多边形。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhíxiàn túxíng yóu zhíxiàn wéichéng: sān tiáo xiàn wéichéng sānbiānxíng, sì tiáo xiàn wéichéng sìbiānxíng, duō yú sì tiáo xiàn wéichéng duōbiānxíng."
+          }
+        },
+        "ko": {
+          "text": "직선도형은 직선으로 둘러싸인다. 세 직선으로 둘러싸이면 삼변형, 네 개이면 사변형, 네 개보다 많으면 다변형이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "직선도형은 직선으로 둘러싸인다. 세 직선으로 둘러싸이면 삼변형, 네 개이면 사변형, 네 개보다 많으면 다변형이다."
+        },
+        "grc": {
+          "text": "ιθ΄. Σχήματα εὐθύγραμμά ἐστι τὰ ὑπὸ εὐθειῶν περιεχόμενα, τρίπλευρα μὲν τὰ ὑπὸ τριῶν, τετράπλευρα δὲ τὰ ὑπὸ τεσσάρων, πολύπλευρα δὲ τὰ ὑπὸ πλειόνων ἢ τεσσάρων εὐθειῶν περιεχόμενα.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u020",
+      "languages": {
+        "ja": {
+          "text": "三辺形のうち、三つの辺が等しいものは正三角形、二つだけが等しいものは二等辺三角形、三つが等しくないものは不等辺三角形である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "さんぺんけいのうち、みっつのへんがひとしいものはせいさんかくけい、ふたつだけがひとしいものはにとうへんさんかくけい、みっつがひとしくないものはふとうへんさんかくけいである。"
+        },
+        "en": {
+          "text": "Among three-sided figures, an equilateral triangle has three equal sides, an isosceles triangle only two equal sides, and a scalene triangle three unequal sides.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Among three-sided figures, an equilateral triangle has three equal sides, an isosceles triangle only two equal sides, and a scalene triangle three unequal sides."
+        },
+        "es": {
+          "text": "Entre las figuras de tres lados, el triángulo equilátero tiene tres lados iguales, el isósceles solo dos iguales y el escaleno tres desiguales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Entre las figuras de tres lados, el triángulo equilátero tiene tres lados iguales, el isósceles solo dos iguales y el escaleno tres desiguales."
+        },
+        "fr": {
+          "text": "Parmi les figures à trois côtés, le triangle équilatéral a trois côtés égaux, l’isocèle seulement deux, et le scalène trois côtés inégaux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Parmi les figures à trois côtés, le triangle équilatéral a trois côtés égaux, l’isocèle seulement deux, et le scalène trois côtés inégaux."
+        },
+        "de": {
+          "text": "Unter den dreiseitigen Figuren hat ein gleichseitiges Dreieck drei gleiche Seiten, ein gleichschenkliges nur zwei gleiche und ein ungleichseitiges drei ungleiche Seiten.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Unter den dreiseitigen Figuren hat ein gleichseitiges Dreieck drei gleiche Seiten, ein gleichschenkliges nur zwei gleiche und ein ungleichseitiges drei ungleiche Seiten."
+        },
+        "ru": {
+          "text": "Среди трёхсторонних фигур равносторонний треугольник имеет три равные стороны, равнобедренный — только две равные, разносторонний — три неравные.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Среди трёхсторонних фигур равносторонний треугольник имеет три равные стороны, равнобедренный — только две равные, разносторонний — три неравные."
+        },
+        "ar": {
+          "text": "مِنَ الْأَشْكَالِ الثُّلَاثِيَّةِ، الْمُثَلَّثُ الْمُتَسَاوِي الْأَضْلَاعِ لَهُ ثَلَاثَةُ أَضْلَاعٍ مُتَسَاوِيَةٍ، وَالْمُتَسَاوِي السَّاقَيْنِ لَهُ ضِلْعَانِ مُتَسَاوِيَانِ فَقَطْ، وَالْمُخْتَلِفُ الْأَضْلَاعِ لَهُ ثَلَاثَةُ أَضْلَاعٍ غَيْرِ مُتَسَاوِيَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "مِنَ الْأَشْكَالِ الثُّلَاثِيَّةِ، الْمُثَلَّثُ الْمُتَسَاوِي الْأَضْلَاعِ لَهُ ثَلَاثَةُ أَضْلَاعٍ مُتَسَاوِيَةٍ، وَالْمُتَسَاوِي السَّاقَيْنِ لَهُ ضِلْعَانِ مُتَسَاوِيَانِ فَقَطْ، وَالْمُخْتَلِفُ الْأَضْلَاعِ لَهُ ثَلَاثَةُ أَضْلَاعٍ غَيْرِ مُتَسَاوِيَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mina al-ʾashkāli ath-thulāthiyyati, al-muthallathu al-mutasāwī al-ʾaḍlāʿi lahu thalāthatu ʾaḍlāʿin mutasāwiyatin, wa-al-mutasāwī as-sāqayni lahu ḍilʿāni mutasāwiyāni faqaṭ, wa-al-mukhtalifu al-ʾaḍlāʿi lahu thalāthatu ʾaḍlāʿin ghayri mutasāwiyatin."
+          }
+        },
+        "zh": {
+          "text": "在三边形中，等边三角形有三条相等的边，等腰三角形只有两条边相等，不等边三角形的三条边互不相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "在三边形中，等边三角形有三条相等的边，等腰三角形只有两条边相等，不等边三角形的三条边互不相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài sānbiānxíng zhōng, děngbiān sānjiǎoxíng yǒu sān tiáo xiāngděng de biān, děngyāo sānjiǎoxíng zhǐ yǒu liǎng tiáo biān xiāngděng, bù děngbiān sānjiǎoxíng de sān tiáo biān hù bù xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "삼변형 가운데 정삼각형은 세 변이 같고, 이등변삼각형은 두 변만 같으며, 부등변삼각형은 세 변이 서로 다르다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "삼변형 가운데 정삼각형은 세 변이 같고, 이등변삼각형은 두 변만 같으며, 부등변삼각형은 세 변이 서로 다르다."
+        },
+        "grc": {
+          "text": "κ΄. Τῶν δὲ τριπλεύρων σχημάτων ἰσόπλευρον μὲν τρίγωνόν ἐστι τὸ τὰς τρεῖς ἴσας ἔχον πλευράς, ἰσοσκελὲς δὲ τὸ τὰς δύο μόνας ἴσας ἔχον πλευράς, σκαληνὸν δὲ τὸ τὰς τρεῖς ἀνίσους ἔχον πλευράς.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "原文は二等辺三角形を「二辺だけが等しい」と限定し、正三角形と区別しています。",
+              "en": "The source restricts an isosceles triangle to exactly two equal sides, distinguishing it from an equilateral triangle."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u021",
+      "languages": {
+        "ja": {
+          "text": "また、三辺形のうち、直角を持つものは直角三角形、鈍角を持つものは鈍角三角形、三つの角が鋭角であるものは鋭角三角形である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "また、さんぺんけいのうち、ちょっかくをもつものはちょっかくさんかくけい、どんかくをもつものはどんかくさんかくけい、みっつのかくがえいかくであるものはえいかくさんかくけいである。"
+        },
+        "en": {
+          "text": "Also, a right-angled triangle has a right angle, an obtuse-angled triangle an obtuse angle, and an acute-angled triangle three acute angles.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Also, a right-angled triangle has a right angle, an obtuse-angled triangle an obtuse angle, and an acute-angled triangle three acute angles."
+        },
+        "es": {
+          "text": "Además, un triángulo rectángulo tiene un ángulo recto, uno obtusángulo un ángulo obtuso y uno acutángulo tres ángulos agudos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Además, un triángulo rectángulo tiene un ángulo recto, uno obtusángulo un ángulo obtuso y uno acutángulo tres ángulos agudos."
+        },
+        "fr": {
+          "text": "De plus, un triangle rectangle a un angle droit, un triangle obtusangle un angle obtus, et un triangle acutangle trois angles aigus.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "De plus, un triangle rectangle a un angle droit, un triangle obtusangle un angle obtus, et un triangle acutangle trois angles aigus."
+        },
+        "de": {
+          "text": "Ferner hat ein rechtwinkliges Dreieck einen rechten Winkel, ein stumpfwinkliges einen stumpfen Winkel und ein spitzwinkliges drei spitze Winkel.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Ferner hat ein rechtwinkliges Dreieck einen rechten Winkel, ein stumpfwinkliges einen stumpfen Winkel und ein spitzwinkliges drei spitze Winkel."
+        },
+        "ru": {
+          "text": "Кроме того, прямоугольный треугольник имеет прямой угол, тупоугольный — тупой, остроугольный — три острых угла.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Кроме того, прямоугольный треугольник имеет прямой угол, тупоугольный — тупой, остроугольный — три острых угла."
+        },
+        "ar": {
+          "text": "وَالْمُثَلَّثُ الْقَائِمُ الزَّاوِيَةِ لَهُ زَاوِيَةٌ قَائِمَةٌ، وَالْمُنْفَرِجُ الزَّاوِيَةِ لَهُ زَاوِيَةٌ مُنْفَرِجَةٌ، وَالْحَادُّ الزَّوَايَا لَهُ ثَلَاثُ زَوَايَا حَادَّةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَالْمُثَلَّثُ الْقَائِمُ الزَّاوِيَةِ لَهُ زَاوِيَةٌ قَائِمَةٌ، وَالْمُنْفَرِجُ الزَّاوِيَةِ لَهُ زَاوِيَةٌ مُنْفَرِجَةٌ، وَالْحَادُّ الزَّوَايَا لَهُ ثَلَاثُ زَوَايَا حَادَّةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-al-muthallathu al-qāʾimu az-zāwiyati lahu zāwiyatun qāʾimatun, wa-al-munfariju az-zāwiyati lahu zāwiyatun munfarijatun, wa-al-ḥāddu az-zawāyā lahu thalāthu zawāyā ḥāddatin."
+          }
+        },
+        "zh": {
+          "text": "此外，直角三角形有一个直角，钝角三角形有一个钝角，锐角三角形的三个角都是锐角。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "此外，直角三角形有一个直角，钝角三角形有一个钝角，锐角三角形的三个角都是锐角。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Cǐwài, zhíjiǎo sānjiǎoxíng yǒu yī ge zhíjiǎo, dùnjiǎo sānjiǎoxíng yǒu yī ge dùnjiǎo, ruìjiǎo sānjiǎoxíng de sān ge jiǎo dōu shì ruìjiǎo."
+          }
+        },
+        "ko": {
+          "text": "또한 직각삼각형은 직각을 하나, 둔각삼각형은 둔각을 하나 가지며, 예각삼각형은 세 각이 모두 예각이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "또한 직각삼각형은 직각을 하나, 둔각삼각형은 둔각을 하나 가지며, 예각삼각형은 세 각이 모두 예각이다."
+        },
+        "grc": {
+          "text": "κα΄. Ἔτι δὲ τῶν τριπλεύρων σχημάτων ὀρθογώνιον μὲν τρίγωνόν ἐστι τὸ ἔχον ὀρθὴν γωνίαν, ἀμβλυγώνιον δὲ τὸ ἔχον ἀμβλεῖαν γωνίαν, ὀξυγώνιον δὲ τὸ τὰς τρεῖς ὀξείας ἔχον γωνίας.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u022",
+      "languages": {
+        "ja": {
+          "text": "四辺形のうち、正方形は等辺かつ直角、長方形は直角だが等辺ではなく、菱形は等辺だが直角ではなく、菱形状の平行四辺形は向かい合う辺と角が等しいが、等辺でも直角でもない。これら以外の四辺形を台形と呼ぶことにする。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "しへんけいのうち、せいほうけいはとうへんかつちょっかく、ちょうほうけいはちょっかくだがとうへんではなく、ひしがたはとうへんだがちょっかくではなく、ひしがたじょうのへいこうしへんけいはむかいあうへんとかくがひとしいが、とうへんでもちょっかくでもない。これらいがいのしへんけいをだいけいとよぶことにする。"
+        },
+        "en": {
+          "text": "Among quadrilaterals, a square is equilateral and right-angled; an oblong is right-angled but not equilateral; a rhombus is equilateral but not right-angled; and a rhomboid has equal opposite sides and angles but is neither equilateral nor right-angled. Let all other quadrilaterals be called trapezia.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Among quadrilaterals, a square is equilateral and right-angled; an oblong is right-angled but not equilateral; a rhombus is equilateral but not right-angled; and a rhomboid has equal opposite sides and angles but is neither equilateral nor right-angled. Let all other quadrilaterals be called trapezia."
+        },
+        "es": {
+          "text": "Entre los cuadriláteros, el cuadrado es equilátero y rectángulo; el rectángulo oblongo es rectángulo pero no equilátero; el rombo es equilátero pero no rectángulo; y el romboide tiene lados y ángulos opuestos iguales, sin ser equilátero ni rectángulo. Llámense trapecios los demás cuadriláteros.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Entre los cuadriláteros, el cuadrado es equilátero y rectángulo; el rectángulo oblongo es rectángulo pero no equilátero; el rombo es equilátero pero no rectángulo; y el romboide tiene lados y ángulos opuestos iguales, sin ser equilátero ni rectángulo. Llámense trapecios los demás cuadriláteros."
+        },
+        "fr": {
+          "text": "Parmi les quadrilatères, le carré est équilatéral et rectangle ; l’oblong est rectangle sans être équilatéral ; le losange est équilatéral sans être rectangle ; le rhomboïde a ses côtés et angles opposés égaux, sans être équilatéral ni rectangle. Que les autres quadrilatères soient appelés trapèzes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Parmi les quadrilatères, le carré est équilatéral et rectangle ; l’oblong est rectangle sans être équilatéral ; le losange est équilatéral sans être rectangle ; le rhomboïde a ses côtés et angles opposés égaux, sans être équilatéral ni rectangle. Que les autres quadrilatères soient appelés trapèzes."
+        },
+        "de": {
+          "text": "Unter den Vierecken ist das Quadrat gleichseitig und rechtwinklig; das längliche Rechteck rechtwinklig, aber nicht gleichseitig; die Raute gleichseitig, aber nicht rechtwinklig; das Rhomboid hat gleiche gegenüberliegende Seiten und Winkel, ist aber weder gleichseitig noch rechtwinklig. Alle übrigen Vierecke sollen Trapeze heißen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Unter den Vierecken ist das Quadrat gleichseitig und rechtwinklig; das längliche Rechteck rechtwinklig, aber nicht gleichseitig; die Raute gleichseitig, aber nicht rechtwinklig; das Rhomboid hat gleiche gegenüberliegende Seiten und Winkel, ist aber weder gleichseitig noch rechtwinklig. Alle übrigen Vierecke sollen Trapeze heißen."
+        },
+        "ru": {
+          "text": "Среди четырёхугольников квадрат равносторонний и прямоугольный; продолговатый прямоугольник прямоугольный, но не равносторонний; ромб равносторонний, но не прямоугольный; ромбоид имеет равные противоположные стороны и углы, но не равносторонний и не прямоугольный. Остальные четырёхугольники пусть называются трапециями.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Среди четырёхугольников квадрат равносторонний и прямоугольный; продолговатый прямоугольник прямоугольный, но не равносторонний; ромб равносторонний, но не прямоугольный; ромбоид имеет равные противоположные стороны и углы, но не равносторонний и не прямоугольный. Остальные четырёхугольники пусть называются трапециями."
+        },
+        "ar": {
+          "text": "مِنَ الْأَشْكَالِ الرُّبَاعِيَّةِ، الْمُرَبَّعُ مُتَسَاوِي الْأَضْلَاعِ وَقَائِمُ الزَّوَايَا؛ وَالْمُسْتَطِيلُ قَائِمُ الزَّوَايَا وَلَيْسَ مُتَسَاوِيَ الْأَضْلَاعِ؛ وَالْمُعَيَّنُ مُتَسَاوِي الْأَضْلَاعِ وَلَيْسَ قَائِمَ الزَّوَايَا؛ وَشِبْهُ الْمُعَيَّنِ تَتَسَاوَى أَضْلَاعُهُ وَزَوَايَاهُ الْمُتَقَابِلَةُ، وَلَيْسَ مُتَسَاوِيَ الْأَضْلَاعِ وَلَا قَائِمَ الزَّوَايَا. وَلْتُسَمَّ سَائِرُ الْأَشْكَالِ الرُّبَاعِيَّةِ أَشْبَاهَ مُنْحَرِفَاتٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "مِنَ الْأَشْكَالِ الرُّبَاعِيَّةِ، الْمُرَبَّعُ مُتَسَاوِي الْأَضْلَاعِ وَقَائِمُ الزَّوَايَا؛ وَالْمُسْتَطِيلُ قَائِمُ الزَّوَايَا وَلَيْسَ مُتَسَاوِيَ الْأَضْلَاعِ؛ وَالْمُعَيَّنُ مُتَسَاوِي الْأَضْلَاعِ وَلَيْسَ قَائِمَ الزَّوَايَا؛ وَشِبْهُ الْمُعَيَّنِ تَتَسَاوَى أَضْلَاعُهُ وَزَوَايَاهُ الْمُتَقَابِلَةُ، وَلَيْسَ مُتَسَاوِيَ الْأَضْلَاعِ وَلَا قَائِمَ الزَّوَايَا. وَلْتُسَمَّ سَائِرُ الْأَشْكَالِ الرُّبَاعِيَّةِ أَشْبَاهَ مُنْحَرِفَاتٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mina al-ʾashkāli ar-rubāʿiyyati, al-murabbaʿu mutasāwī al-ʾaḍlāʿi wa-qāʾimu az-zawāyā; wa-al-mustaṭīlu qāʾimu az-zawāyā wa-laysa mutasāwiya al-ʾaḍlāʿi; wa-al-muʿayyanu mutasāwī al-ʾaḍlāʿi wa-laysa qāʾima az-zawāyā; wa-shibhu al-muʿayyani tatasāwā ʾaḍlāʿuhu wa-zawāyāhu al-mutaqābilatu, wa-laysa mutasāwiya al-ʾaḍlāʿi wa-lā qāʾima az-zawāyā. Wa-l-tusamma sāʾiru al-ʾashkāli ar-rubāʿiyyati ʾashbāha munḥarifātin."
+          }
+        },
+        "zh": {
+          "text": "在四边形中，正方形等边且各角为直角；长方形各角为直角但不等边；菱形等边但各角不是直角；斜方形的对边、对角相等，但既不等边也非直角。其余四边形称为梯形。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "在四边形中，正方形等边且各角为直角；长方形各角为直角但不等边；菱形等边但各角不是直角；斜方形的对边、对角相等，但既不等边也非直角。其余四边形称为梯形。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zài sìbiānxíng zhōng, zhèngfāngxíng děngbiān qiě gè jiǎo wéi zhíjiǎo; chángfāngxíng gè jiǎo wéi zhíjiǎo dàn bù děngbiān; língxíng děngbiān dàn gè jiǎo bù shì zhíjiǎo; xiéfāngxíng de duìbiān, duìjiǎo xiāngděng, dàn jì bù děngbiān yě fēi zhíjiǎo. Qíyú sìbiānxíng chēng wéi tīxíng."
+          }
+        },
+        "ko": {
+          "text": "사변형 가운데 정사각형은 등변이고 직각이며, 직사각형은 직각이지만 등변은 아니다. 마름모는 등변이지만 직각은 아니고, 능형 평행사변형은 마주 보는 변과 각이 같지만 등변도 직각도 아니다. 나머지 사변형은 사다리꼴이라 부르기로 한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "사변형 가운데 정사각형은 등변이고 직각이며, 직사각형은 직각이지만 등변은 아니다. 마름모는 등변이지만 직각은 아니고, 능형 평행사변형은 마주 보는 변과 각이 같지만 등변도 직각도 아니다. 나머지 사변형은 사다리꼴이라 부르기로 한다."
+        },
+        "grc": {
+          "text": "κβ΄. Τῶν δὲ τετραπλεύρων σχημάτων τετράγωνον μέν ἐστιν, ὃ ἰσόπλευρόν τέ ἐστι καὶ ὀρθογώνιον, ἑτερόμηκες δέ, ὃ ὀρθογώνιον μέν, οὐκ ἰσόπλευρον δέ, ῥόμβος δέ, ὃ ἰσόπλευρον μέν, οὐκ ὀρθογώνιον δέ, ῥομβοειδὲς δὲ τὸ τὰς ἀπεναντίον πλευράς τε καὶ γωνίας ἴσας ἀλλήλαις ἔχον, ὃ οὔτε ἰσόπλευρόν ἐστιν οὔτε ὀρθογώνιον: τὰ δὲ παρὰ ταῦτα τετράπλευρα τραπέζια καλείσθω.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "ここでの台形は、先に挙げた四種以外の四辺形全般です。現代の「一組の対辺が平行」という定義とは異なります。",
+              "en": "Here trapezia covers all quadrilaterals outside the four preceding classes, unlike the modern definition involving a pair of parallel sides."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u023",
+      "languages": {
+        "ja": {
+          "text": "平行線とは、同じ平面上にあり、両方向へ限りなく延長しても、どちらの方向でも互いに交わらない直線である。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "へいこうせんとは、おなじへいめんじょうにあり、りょうほうこうへかぎりなくえんちょうしても、どちらのほうこうでもたがいにまじわらないちょくせんである。"
+        },
+        "en": {
+          "text": "Parallel straight lines lie in the same plane and, extended without limit in both directions, never meet in either direction.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Parallel straight lines lie in the same plane and, extended without limit in both directions, never meet in either direction."
+        },
+        "es": {
+          "text": "Las rectas paralelas están en un mismo plano y, prolongadas indefinidamente en ambos sentidos, no se encuentran en ninguno de ellos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Las rectas paralelas están en un mismo plano y, prolongadas indefinidamente en ambos sentidos, no se encuentran en ninguno de ellos."
+        },
+        "fr": {
+          "text": "Des droites parallèles sont dans un même plan et, prolongées indéfiniment dans les deux sens, ne se rencontrent dans aucun des deux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Des droites parallèles sont dans un même plan et, prolongées indéfiniment dans les deux sens, ne se rencontrent dans aucun des deux."
+        },
+        "de": {
+          "text": "Parallele Geraden liegen in derselben Ebene und treffen sich auch bei unbegrenzter Verlängerung in beiden Richtungen in keiner davon.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Parallele Geraden liegen in derselben Ebene und treffen sich auch bei unbegrenzter Verlängerung in beiden Richtungen in keiner davon."
+        },
+        "ru": {
+          "text": "Параллельные прямые лежат в одной плоскости и при неограниченном продолжении в обе стороны нигде не встречаются.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Параллельные прямые лежат в одной плоскости и при неограниченном продолжении в обе стороны нигде не встречаются."
+        },
+        "ar": {
+          "text": "الْخُطُوطُ الْمُسْتَقِيمَةُ الْمُتَوَازِيَةُ تَقَعُ فِي مُسْتَوًى وَاحِدٍ، وَلَا تَلْتَقِي فِي أَيِّ اتِّجَاهٍ إِذَا مُدَّتْ بِلَا نِهَايَةٍ فِي الْجِهَتَيْنِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْخُطُوطُ الْمُسْتَقِيمَةُ الْمُتَوَازِيَةُ تَقَعُ فِي مُسْتَوًى وَاحِدٍ، وَلَا تَلْتَقِي فِي أَيِّ اتِّجَاهٍ إِذَا مُدَّتْ بِلَا نِهَايَةٍ فِي الْجِهَتَيْنِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-khuṭūṭu al-mustaqīmatu al-mutawāziyatu taqaʿu fī mustawan wāḥidin, wa-lā taltaqī fī ʾayyi ittijāhin ʾidhā muddat bi-lā nihāyatin fī al-jihatayni."
+          }
+        },
+        "zh": {
+          "text": "平行直线位于同一平面内，向两端无限延长，也不在任何一端相交。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "平行直线位于同一平面内，向两端无限延长，也不在任何一端相交。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Píngxíng zhíxiàn wèiyú tóng yī píngmiàn nèi, xiàng liǎng duān wúxiàn yáncháng, yě bù zài rènhé yī duān xiāngjiāo."
+          }
+        },
+        "ko": {
+          "text": "평행선은 같은 평면에 있으며 양쪽으로 끝없이 늘여도 어느 쪽에서도 서로 만나지 않는 직선이다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "평행선은 같은 평면에 있으며 양쪽으로 끝없이 늘여도 어느 쪽에서도 서로 만나지 않는 직선이다."
+        },
+        "grc": {
+          "text": "κγ΄. Παράλληλοί εἰσιν εὐθεῖαι, αἵτινες ἐν τῷ αὐτῷ ἐπιπέδῳ οὖσαι καὶ ἐκβαλλόμεναι εἰς ἄπειρον ἐφ' ἑκάτερα τὰ μέρη ἐπὶ μηδέτερα συμπίπτουσιν ἀλλήλαις.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          }
+        }
+      }
+    },
+    {
+      "id": "u024",
+      "languages": {
+        "ja": {
+          "text": "任意の点から任意の点へ、直線を引くことを認める。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "にんいのてんからにんいのてんへ、ちょくせんをひくことをみとめる。"
+        },
+        "en": {
+          "text": "Let it be granted that a straight line may be drawn from any point to any point.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Let it be granted that a straight line may be drawn from any point to any point."
+        },
+        "es": {
+          "text": "Concédase que se puede trazar una recta desde cualquier punto hasta cualquier punto.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Concédase que se puede trazar una recta desde cualquier punto hasta cualquier punto."
+        },
+        "fr": {
+          "text": "Admettons que l’on puisse tracer une droite de tout point à tout point.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Admettons que l’on puisse tracer une droite de tout point à tout point."
+        },
+        "de": {
+          "text": "Es sei zugestanden, von jedem Punkt zu jedem Punkt eine Gerade zu ziehen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Es sei zugestanden, von jedem Punkt zu jedem Punkt eine Gerade zu ziehen."
+        },
+        "ru": {
+          "text": "Пусть допускается проведение прямой от любой точки к любой точке.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Пусть допускается проведение прямой от любой точки к любой точке."
+        },
+        "ar": {
+          "text": "لِيُسَلَّمْ بِإِمْكَانِ رَسْمِ خَطٍّ مُسْتَقِيمٍ مِنْ أَيِّ نُقْطَةٍ إِلَى أَيِّ نُقْطَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "لِيُسَلَّمْ بِإِمْكَانِ رَسْمِ خَطٍّ مُسْتَقِيمٍ مِنْ أَيِّ نُقْطَةٍ إِلَى أَيِّ نُقْطَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Li-yusallam bi-ʾimkāni rasmi khaṭṭin mustaqīmin min ʾayyi nuqṭatin ʾilā ʾayyi nuqṭatin."
+          }
+        },
+        "zh": {
+          "text": "允许从任意一点向任意一点作直线。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "允许从任意一点向任意一点作直线。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǔnxǔ cóng rènyì yī diǎn xiàng rènyì yī diǎn zuò zhíxiàn."
+          }
+        },
+        "ko": {
+          "text": "임의의 점에서 임의의 점으로 직선을 그을 수 있다고 인정한다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "임의의 점에서 임의의 점으로 직선을 그을 수 있다고 인정한다."
+        },
+        "grc": {
+          "text": "α΄. Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Postulates",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=1"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u025",
+      "languages": {
+        "ja": {
+          "text": "また、有限の直線をまっすぐに連続して延長すること。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "また、ゆうげんのちょくせんをまっすぐにれんぞくしてえんちょうすること。"
+        },
+        "en": {
+          "text": "And that a finite straight line may be extended continuously in a straight direction.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "And that a finite straight line may be extended continuously in a straight direction."
+        },
+        "es": {
+          "text": "Y que una recta finita pueda prolongarse continuamente en línea recta.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Y que una recta finita pueda prolongarse continuamente en línea recta."
+        },
+        "fr": {
+          "text": "Et que l’on puisse prolonger continûment en ligne droite une droite finie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Et que l’on puisse prolonger continûment en ligne droite une droite finie."
+        },
+        "de": {
+          "text": "Und eine begrenzte Gerade fortlaufend geradlinig zu verlängern.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Und eine begrenzte Gerade fortlaufend geradlinig zu verlängern."
+        },
+        "ru": {
+          "text": "И непрерывное продолжение ограниченной прямой по прямой.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "И непрерывное продолжение ограниченной прямой по прямой."
+        },
+        "ar": {
+          "text": "وَأَنْ يُمَدَّ الْخَطُّ الْمُسْتَقِيمُ الْمَحْدُودُ عَلَى اسْتِقَامَتِهِ بِاسْتِمْرَارٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَأَنْ يُمَدَّ الْخَطُّ الْمُسْتَقِيمُ الْمَحْدُودُ عَلَى اسْتِقَامَتِهِ بِاسْتِمْرَارٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾan yumadda al-khaṭṭu al-mustaqīmu al-maḥdūdu ʿalā istiqāmatihi bi-istimrārin."
+          }
+        },
+        "zh": {
+          "text": "并允许把有限的直线沿直线方向连续延长。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "并允许把有限的直线沿直线方向连续延长。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bìng yǔnxǔ bǎ yǒuxiàn de zhíxiàn yán zhíxiàn fāngxiàng liánxù yáncháng."
+          }
+        },
+        "ko": {
+          "text": "또한 유한한 직선을 곧게 계속 늘일 수 있다는 것.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "또한 유한한 직선을 곧게 계속 늘일 수 있다는 것."
+        },
+        "grc": {
+          "text": "β΄. Καὶ πεπερασμένην εὐθεῖαν κατὰ τὸ συνεχὲς ἐπ' εὐθείας ἐκβαλεῖν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Postulates",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=1"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u026",
+      "languages": {
+        "ja": {
+          "text": "また、任意の中心と距離で、円を描くこと。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "また、にんいのちゅうしんときょりで、えんをえがくこと。"
+        },
+        "en": {
+          "text": "And that a circle may be drawn with any centre and distance.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "And that a circle may be drawn with any centre and distance."
+        },
+        "es": {
+          "text": "Y que se pueda trazar un círculo con cualquier centro y distancia.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Y que se pueda trazar un círculo con cualquier centro y distancia."
+        },
+        "fr": {
+          "text": "Et que l’on puisse tracer un cercle de centre et de distance quelconques.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Et que l’on puisse tracer un cercle de centre et de distance quelconques."
+        },
+        "de": {
+          "text": "Und mit jedem Mittelpunkt und Abstand einen Kreis zu zeichnen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Und mit jedem Mittelpunkt und Abstand einen Kreis zu zeichnen."
+        },
+        "ru": {
+          "text": "И построение круга с любым центром и расстоянием.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "И построение круга с любым центром и расстоянием."
+        },
+        "ar": {
+          "text": "وَأَنْ تُرْسَمَ دَائِرَةٌ بِأَيِّ مَرْكَزٍ وَمَسَافَةٍ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَأَنْ تُرْسَمَ دَائِرَةٌ بِأَيِّ مَرْكَزٍ وَمَسَافَةٍ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾan tursama dāʾiratun bi-ʾayyi markazin wa-masāfatin."
+          }
+        },
+        "zh": {
+          "text": "并允许以任意中心和距离画圆。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "并允许以任意中心和距离画圆。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bìng yǔnxǔ yǐ rènyì zhōngxīn hé jùlí huà yuán."
+          }
+        },
+        "ko": {
+          "text": "또한 임의의 중심과 거리로 원을 그릴 수 있다는 것.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "또한 임의의 중심과 거리로 원을 그릴 수 있다는 것."
+        },
+        "grc": {
+          "text": "γ΄. Καὶ παντὶ κέντρῳ καὶ διαστήματι κύκλον γράφεσθαι.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Postulates",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=1"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u027",
+      "languages": {
+        "ja": {
+          "text": "また、すべての直角は互いに等しいこと。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "また、すべてのちょっかくはたがいにひとしいこと。"
+        },
+        "en": {
+          "text": "And that all right angles are equal to each other.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "And that all right angles are equal to each other."
+        },
+        "es": {
+          "text": "Y que todos los ángulos rectos sean iguales entre sí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Y que todos los ángulos rectos sean iguales entre sí."
+        },
+        "fr": {
+          "text": "Et que tous les angles droits soient égaux entre eux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Et que tous les angles droits soient égaux entre eux."
+        },
+        "de": {
+          "text": "Und dass alle rechten Winkel einander gleich sind.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Und dass alle rechten Winkel einander gleich sind."
+        },
+        "ru": {
+          "text": "И то, что все прямые углы равны между собой.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "И то, что все прямые углы равны между собой."
+        },
+        "ar": {
+          "text": "وَأَنْ تَكُونَ جَمِيعُ الزَّوَايَا الْقَائِمَةِ مُتَسَاوِيَةً.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَأَنْ تَكُونَ جَمِيعُ الزَّوَايَا الْقَائِمَةِ مُتَسَاوِيَةً.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾan takūna jamīʿu az-zawāyā al-qāʾimati mutasāwiyatan."
+          }
+        },
+        "zh": {
+          "text": "并承认所有直角彼此相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "并承认所有直角彼此相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bìng chéngrèn suǒyǒu zhíjiǎo bǐcǐ xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "또한 모든 직각은 서로 같다는 것.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "또한 모든 직각은 서로 같다는 것."
+        },
+        "grc": {
+          "text": "δ΄. Καὶ πάσας τὰς ὀρθὰς γωνίας ἴσας ἀλλήλαις εἶναι.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Postulates",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=1"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u028",
+      "languages": {
+        "ja": {
+          "text": "また、一つの直線が二つの直線と交わり、同じ側の内角の和を二直角より小さくするとき、その二直線を限りなく延長すれば、内角の和が二直角より小さい側で交わること。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "また、ひとつのちょくせんがふたつのちょくせんとまじわり、おなじがわのないかくのわをにちょっかくよりちいさくするとき、そのにちょくせんをかぎりなくえんちょうすれば、ないかくのわがにちょっかくよりちいさいがわでまじわること。"
+        },
+        "en": {
+          "text": "And if a straight line crossing two straight lines makes the interior angles on the same side together less than two right angles, those two lines, extended without limit, meet on the side where the angles are less than two right angles.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "And if a straight line crossing two straight lines makes the interior angles on the same side together less than two right angles, those two lines, extended without limit, meet on the side where the angles are less than two right angles."
+        },
+        "es": {
+          "text": "Y si una recta que corta otras dos hace que los ángulos interiores de un mismo lado sumen menos de dos rectos, esas dos rectas, prolongadas indefinidamente, se encuentran del lado donde los ángulos suman menos de dos rectos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Y si una recta que corta otras dos hace que los ángulos interiores de un mismo lado sumen menos de dos rectos, esas dos rectas, prolongadas indefinidamente, se encuentran del lado donde los ángulos suman menos de dos rectos."
+        },
+        "fr": {
+          "text": "Et si une droite qui en coupe deux autres forme du même côté des angles intérieurs dont la somme est inférieure à deux droits, ces deux droites, prolongées indéfiniment, se rencontrent du côté où les angles sont inférieurs à deux droits.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Et si une droite qui en coupe deux autres forme du même côté des angles intérieurs dont la somme est inférieure à deux droits, ces deux droites, prolongées indéfiniment, se rencontrent du côté où les angles sont inférieurs à deux droits."
+        },
+        "de": {
+          "text": "Und wenn eine Gerade zwei Geraden schneidet und die inneren Winkel auf derselben Seite zusammen kleiner als zwei rechte Winkel macht, treffen sich die beiden unbegrenzt verlängerten Geraden auf der Seite, auf der die Winkel kleiner als zwei rechte sind.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Und wenn eine Gerade zwei Geraden schneidet und die inneren Winkel auf derselben Seite zusammen kleiner als zwei rechte Winkel macht, treffen sich die beiden unbegrenzt verlängerten Geraden auf der Seite, auf der die Winkel kleiner als zwei rechte sind."
+        },
+        "ru": {
+          "text": "И если прямая, пересекающая две прямые, образует на одной стороне внутренние углы, в сумме меньшие двух прямых, то эти две прямые при неограниченном продолжении встречаются с той стороны, где сумма углов меньше двух прямых.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "И если прямая, пересекающая две прямые, образует на одной стороне внутренние углы, в сумме меньшие двух прямых, то эти две прямые при неограниченном продолжении встречаются с той стороны, где сумма углов меньше двух прямых."
+        },
+        "ar": {
+          "text": "وَإِذَا قَطَعَ خَطٌّ مُسْتَقِيمٌ خَطَّيْنِ مُسْتَقِيمَيْنِ، وَجَعَلَ مَجْمُوعَ الزَّاوِيَتَيْنِ الدَّاخِلِيَّتَيْنِ فِي جِهَةٍ وَاحِدَةٍ أَقَلَّ مِنْ زَاوِيَتَيْنِ قَائِمَتَيْنِ، فَإِنَّ الْخَطَّيْنِ، إِذَا مُدَّا بِلَا نِهَايَةٍ، يَلْتَقِيَانِ فِي الْجِهَةِ الَّتِي يَكُونُ فِيهَا مَجْمُوعُ الزَّاوِيَتَيْنِ أَقَلَّ مِنْ زَاوِيَتَيْنِ قَائِمَتَيْنِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "وَإِذَا قَطَعَ خَطٌّ مُسْتَقِيمٌ خَطَّيْنِ مُسْتَقِيمَيْنِ، وَجَعَلَ مَجْمُوعَ الزَّاوِيَتَيْنِ الدَّاخِلِيَّتَيْنِ فِي جِهَةٍ وَاحِدَةٍ أَقَلَّ مِنْ زَاوِيَتَيْنِ قَائِمَتَيْنِ، فَإِنَّ الْخَطَّيْنِ، إِذَا مُدَّا بِلَا نِهَايَةٍ، يَلْتَقِيَانِ فِي الْجِهَةِ الَّتِي يَكُونُ فِيهَا مَجْمُوعُ الزَّاوِيَتَيْنِ أَقَلَّ مِنْ زَاوِيَتَيْنِ قَائِمَتَيْنِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-ʾidhā qaṭaʿa khaṭṭun mustaqīmun khaṭṭayni mustaqīmayni, wa-jaʿala majmūʿa az-zāwiyatayni ad-dākhiliyyatayni fī jihatin wāḥidatin ʾaqalla min zāwiyatayni qāʾimatayni, fa-ʾinna al-khaṭṭayni, ʾidhā muddā bi-lā nihāyatin, yaltaqiyāni fī al-jihati allatī yakūnu fīhā majmūʿu az-zāwiyatayni ʾaqalla min zāwiyatayni qāʾimatayni."
+          }
+        },
+        "zh": {
+          "text": "如果一条直线与两条直线相交，使同侧内角之和小于两个直角，那么将这两条直线无限延长，它们会在内角之和小于两个直角的一侧相交。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "如果一条直线与两条直线相交，使同侧内角之和小于两个直角，那么将这两条直线无限延长，它们会在内角之和小于两个直角的一侧相交。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Rúguǒ yī tiáo zhíxiàn yǔ liǎng tiáo zhíxiàn xiāngjiāo, shǐ tóngcè nèijiǎo zhī hé xiǎo yú liǎng ge zhíjiǎo, nàme jiāng zhè liǎng tiáo zhíxiàn wúxiàn yáncháng, tāmen huì zài nèijiǎo zhī hé xiǎo yú liǎng ge zhíjiǎo de yī cè xiāngjiāo."
+          }
+        },
+        "ko": {
+          "text": "한 직선이 두 직선과 만나 같은 쪽 내각의 합을 두 직각보다 작게 만들면, 두 직선을 끝없이 늘였을 때 내각의 합이 두 직각보다 작은 쪽에서 만난다는 것.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "한 직선이 두 직선과 만나 같은 쪽 내각의 합을 두 직각보다 작게 만들면, 두 직선을 끝없이 늘였을 때 내각의 합이 두 직각보다 작은 쪽에서 만난다는 것."
+        },
+        "grc": {
+          "text": "ε΄. Καὶ ἐὰν εἰς δύο εὐθείας εὐθεῖα ἐμπίπτουσα τὰς ἐντὸς καὶ ἐπὶ τὰ αὐτὰ μέρη γωνίας δύο ὀρθῶν ἐλάσσονας ποιῇ, ἐκβαλλομένας τὰς δύο εὐθείας ἐπ' ἄπειρον συμπίπτειν, ἐφ' ἃ μέρη εἰσὶν αἱ τῶν δύο ὀρθῶν ἐλάσσονες.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "第5公準。二直角は角度の和を表します。「平行線は交わらない」という定義とは別の仮定です。",
+              "en": "The fifth postulate. Two right angles refers to a sum of angles; this is an assumption distinct from the definition of parallel lines."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Postulates",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=1"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u029",
+      "languages": {
+        "ja": {
+          "text": "同じものに等しいものは、互いにも等しい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "おなじものにひとしいものは、たがいにもひとしい。"
+        },
+        "en": {
+          "text": "Things equal to a single same thing are equal to one another.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Things equal to a single same thing are equal to one another."
+        },
+        "es": {
+          "text": "Las cosas iguales a una misma cosa son iguales entre sí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Las cosas iguales a una misma cosa son iguales entre sí."
+        },
+        "fr": {
+          "text": "Des choses égales à une même chose sont égales entre elles.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Des choses égales à une même chose sont égales entre elles."
+        },
+        "de": {
+          "text": "Dinge, die demselben gleich sind, sind auch einander gleich.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dinge, die demselben gleich sind, sind auch einander gleich."
+        },
+        "ru": {
+          "text": "Равные одному и тому же равны между собой.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Равные одному и тому же равны между собой."
+        },
+        "ar": {
+          "text": "الْأَشْيَاءُ الْمُسَاوِيَةُ لِشَيْءٍ وَاحِدٍ مُتَسَاوِيَةٌ فِيمَا بَيْنَهَا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْأَشْيَاءُ الْمُسَاوِيَةُ لِشَيْءٍ وَاحِدٍ مُتَسَاوِيَةٌ فِيمَا بَيْنَهَا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʾashyāʾu al-musāwiyatu li-shayʾin wāḥidin mutasāwiyatun fīmā baynahā."
+          }
+        },
+        "zh": {
+          "text": "等于同一事物的各事物彼此相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "等于同一事物的各事物彼此相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Děng yú tóng yī shìwù de gè shìwù bǐcǐ xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "같은 것과 같은 것들은 서로도 같다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "같은 것과 같은 것들은 서로도 같다."
+        },
+        "grc": {
+          "text": "α΄. Τὰ τῷ αὐτῷ ἴσα καὶ ἀλλήλοις ἐστὶν ἴσα.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Common Notions",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=2"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u030",
+      "languages": {
+        "ja": {
+          "text": "等しいものに等しいものを加えれば、全体も等しい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ひとしいものにひとしいものをくわえれば、ぜんたいもひとしい。"
+        },
+        "en": {
+          "text": "Adding equals to equals gives equal wholes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Adding equals to equals gives equal wholes."
+        },
+        "es": {
+          "text": "Al añadir iguales a iguales, los totales son iguales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Al añadir iguales a iguales, los totales son iguales."
+        },
+        "fr": {
+          "text": "Si l’on ajoute des égaux à des égaux, les touts sont égaux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si l’on ajoute des égaux à des égaux, les touts sont égaux."
+        },
+        "de": {
+          "text": "Fügt man Gleichem Gleiches hinzu, sind die Ganzen gleich.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Fügt man Gleichem Gleiches hinzu, sind die Ganzen gleich."
+        },
+        "ru": {
+          "text": "Если к равным прибавить равные, целые будут равны.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если к равным прибавить равные, целые будут равны."
+        },
+        "ar": {
+          "text": "إِذَا أُضِيفَتْ أَشْيَاءُ مُتَسَاوِيَةٌ إِلَى أَشْيَاءَ مُتَسَاوِيَةٍ، كَانَتِ الْمَجَامِيعُ مُتَسَاوِيَةً.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "إِذَا أُضِيفَتْ أَشْيَاءُ مُتَسَاوِيَةٌ إِلَى أَشْيَاءَ مُتَسَاوِيَةٍ، كَانَتِ الْمَجَامِيعُ مُتَسَاوِيَةً.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIdhā ʾuḍīfat ʾashyāʾu mutasāwiyatun ʾilā ʾashyāʾa mutasāwiyatin, kānati al-majāmīʿu mutasāwiyatan."
+          }
+        },
+        "zh": {
+          "text": "相等的事物加上相等的事物，所得整体也相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "相等的事物加上相等的事物，所得整体也相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xiāngděng de shìwù jiā shàng xiāngděng de shìwù, suǒ dé zhěngtǐ yě xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "같은 것들에 같은 것들을 더하면 전체도 같다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "같은 것들에 같은 것들을 더하면 전체도 같다."
+        },
+        "grc": {
+          "text": "β΄. Καὶ ἐὰν ἴσοις ἴσα προστεθῇ, τὰ ὅλα ἐστὶν ἴσα.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Common Notions",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=2"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u031",
+      "languages": {
+        "ja": {
+          "text": "等しいものから等しいものを引けば、残りも等しい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ひとしいものからひとしいものをひけば、のこりもひとしい。"
+        },
+        "en": {
+          "text": "Subtracting equals from equals leaves equal remainders.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Subtracting equals from equals leaves equal remainders."
+        },
+        "es": {
+          "text": "Al restar iguales de iguales, los restos son iguales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Al restar iguales de iguales, los restos son iguales."
+        },
+        "fr": {
+          "text": "Si l’on retranche des égaux à des égaux, les restes sont égaux.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Si l’on retranche des égaux à des égaux, les restes sont égaux."
+        },
+        "de": {
+          "text": "Nimmt man von Gleichem Gleiches weg, sind die Reste gleich.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Nimmt man von Gleichem Gleiches weg, sind die Reste gleich."
+        },
+        "ru": {
+          "text": "Если от равных отнять равные, остатки будут равны.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Если от равных отнять равные, остатки будут равны."
+        },
+        "ar": {
+          "text": "إِذَا طُرِحَتْ أَشْيَاءُ مُتَسَاوِيَةٌ مِنْ أَشْيَاءَ مُتَسَاوِيَةٍ، كَانَتِ الْبَوَاقِي مُتَسَاوِيَةً.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "إِذَا طُرِحَتْ أَشْيَاءُ مُتَسَاوِيَةٌ مِنْ أَشْيَاءَ مُتَسَاوِيَةٍ، كَانَتِ الْبَوَاقِي مُتَسَاوِيَةً.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIdhā ṭuriḥat ʾashyāʾu mutasāwiyatun min ʾashyāʾa mutasāwiyatin, kānati al-bawāqī mutasāwiyatan."
+          }
+        },
+        "zh": {
+          "text": "相等的事物减去相等的事物，余下的也相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "相等的事物减去相等的事物，余下的也相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xiāngděng de shìwù jiǎn qù xiāngděng de shìwù, yúxià de yě xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "같은 것들에서 같은 것들을 빼면 나머지도 같다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "같은 것들에서 같은 것들을 빼면 나머지도 같다."
+        },
+        "grc": {
+          "text": "γ΄. Καὶ ἐὰν ἀπὸ ἴσων ἴσα ἀφαιρεθῇ, τὰ καταλειπόμενά ἐστιν ἴσα.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Common Notions",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=2"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u032",
+      "languages": {
+        "ja": {
+          "text": "互いに重なり合うものは、互いに等しい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "たがいにかさなりあうものは、たがいにひとしい。"
+        },
+        "en": {
+          "text": "Things that coincide with one another are equal.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Things that coincide with one another are equal."
+        },
+        "es": {
+          "text": "Las cosas que coinciden entre sí son iguales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Las cosas que coinciden entre sí son iguales."
+        },
+        "fr": {
+          "text": "Des choses qui coïncident entre elles sont égales.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Des choses qui coïncident entre elles sont égales."
+        },
+        "de": {
+          "text": "Dinge, die sich decken, sind einander gleich.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Dinge, die sich decken, sind einander gleich."
+        },
+        "ru": {
+          "text": "Совмещающиеся друг с другом равны.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Совмещающиеся друг с другом равны."
+        },
+        "ar": {
+          "text": "الْأَشْيَاءُ الَّتِي تَنْطَبِقُ عَلَى بَعْضِهَا مُتَسَاوِيَةٌ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْأَشْيَاءُ الَّتِي تَنْطَبِقُ عَلَى بَعْضِهَا مُتَسَاوِيَةٌ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʾashyāʾu allatī tanṭabiqu ʿalā baʿḍihā mutasāwiyatun."
+          }
+        },
+        "zh": {
+          "text": "彼此重合的事物相等。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "彼此重合的事物相等。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bǐcǐ chónghé de shìwù xiāngděng."
+          }
+        },
+        "ko": {
+          "text": "서로 포개어 일치하는 것들은 같다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "서로 포개어 일치하는 것들은 같다."
+        },
+        "grc": {
+          "text": "ζ΄. Καὶ τὰ ἐφαρμόζοντα ἐπ' ἄλληλα ἴσα ἀλλήλοις ἐστίν.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Common Notions",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=2"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "u033",
+      "languages": {
+        "ja": {
+          "text": "全体は部分より大きい。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "ぜんたいはぶぶんよりおおきい。"
+        },
+        "en": {
+          "text": "The whole is greater than the part.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "The whole is greater than the part."
+        },
+        "es": {
+          "text": "El todo es mayor que la parte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "El todo es mayor que la parte."
+        },
+        "fr": {
+          "text": "Le tout est plus grand que la partie.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Le tout est plus grand que la partie."
+        },
+        "de": {
+          "text": "Das Ganze ist größer als der Teil.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Das Ganze ist größer als der Teil."
+        },
+        "ru": {
+          "text": "Целое больше части.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "Целое больше части."
+        },
+        "ar": {
+          "text": "الْكُلُّ أَكْبَرُ مِنَ الْجُزْءِ.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "الْكُلُّ أَكْبَرُ مِنَ الْجُزْءِ.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-kullu ʾakbaru mina al-juzʾi."
+          }
+        },
+        "zh": {
+          "text": "整体大于部分。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "整体大于部分。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhěngtǐ dà yú bùfen."
+          }
+        },
+        "ko": {
+          "text": "전체는 부분보다 크다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "ttsText": "전체는 부분보다 크다."
+        },
+        "grc": {
+          "text": "η΄. Καὶ τὸ ὅλον τοῦ μέρους μεῖζον [ἐστιν].",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "Εὐκλείδης; Clay Mathematics Institute — Elements, Book I: Definitions, Postulates, Common Notions"
+          },
+          "references": [
+            {
+              "title": "Clay Mathematics Institute — Book 1 Common Notions",
+              "url": "https://www.claymath.org/euclid_index/triangles-parallels-and-area/?chapter=2"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

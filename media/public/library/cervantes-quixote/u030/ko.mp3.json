@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b501b6d9d9d3232c3e020f3e47b210a2e442e25307f40d82016c1aaacc26238c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그는 베르나르도 델 카르피오를 더 좋아했다. 론세스바예스에서 마법으로 보호받는 롤단을 죽일 때, 헤라클레스가 대지의 아들 안타이오스를 두 팔로 졸라 죽인 수법을 썼기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fbd7a85fd515c9a9821425e57e2617ea4dfd3502da51df14133bd9de979bd14c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:03:57.411669+00:00"
+}

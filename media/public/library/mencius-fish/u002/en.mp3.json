@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9602a34b12d63ed69720dd53e76a6a3e8f6155679b9b08d764f63a5152dcedd6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "If I cannot have both, I give up the fish and take the bear’s paw.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "436ab86e793d9bb14faecdd02a95faf850fd50400ed6315503242c298e0033ac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:00:36.258654+00:00"
+}

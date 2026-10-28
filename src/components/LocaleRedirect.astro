@@ -1,0 +1,18 @@
+---
+import { withBase } from '../lib/catalog';
+import { DEFAULT_LOCALE } from '../i18n';
+interface Props { pagePath?: string }
+const { pagePath = '' } = Astro.props;
+const target = withBase(`${DEFAULT_LOCALE}/${pagePath}`);
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <title>language prism</title>
+  </head>
+  <body><a href={target}>日本語</a> / <a href={withBase(`en/${pagePath}`)}>English</a></body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6a58f5f0ea633d3424a9e663be11cf7d0a7538513a18542e28763ad82923c36f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ich ein ganzes Jahr frei nehmen könnte, würde ich gern an verschiedene Orte auf der Welt reisen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a533c8d29405eb155d6b1ca6a0196a36f9c4f2d67b1cc80a1db353533e790691",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:04:32.111242+00:00"
+}

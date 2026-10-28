@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8e85ebe16e2bb7337f0c60ae5ace0c1211e2445f6f4ef08073478509e9a6873e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pour comprendre le fonctionnement des ordinateurs, il faut s'intéresser au matériel autant qu'aux logiciels.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d9fd80211fb6ccf1c9885df4766c0963c8ccc0e4d79dd44a349575314a1f75e1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:44:59.913099+00:00"
+}

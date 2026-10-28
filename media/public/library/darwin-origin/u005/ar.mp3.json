@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "09713a282365e531170d4c7b96be79b4e17dae638d393e7899e502f68892b05f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ومعدل زيادة مرتفع إلى حد يؤدي إلى صراع من أجل الحياة، ومن ثم إلى الانتقاء الطبيعي، بما يستتبعه من تباعد الصفات وانقراض الأشكال الأقل تحسنًا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b23fc4bd0665a904336f2c81dc7e814095203f72ccf032d3dc2626147e4f2511",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:20:42.032461+00:00"
+}

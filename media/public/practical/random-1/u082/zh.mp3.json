@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3246c2b50d117f3a1d09cb7e75f36547d3f8ca0665a6e2efac6b319d09b91ab0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "总有一天，我想住进自己设计的房子，并在漫长的岁月里一点点完善它。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "067d6bc3ef8162db5cbdebe2046dba8f2481795d563f20b7701d3b9845bcaa59",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:06:44.685697+00:00"
+}

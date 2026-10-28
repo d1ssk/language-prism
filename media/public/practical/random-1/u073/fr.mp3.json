@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad60a78446c0ecc63ab5b8202070d7f5cebc8e4964598a42c366526e05cbfa41",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Même si j'échoue, je ne pense pas que ce soit du temps perdu tant que je peux en tirer quelque chose.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "845a997473ee447f5a207ddda687a9005d9998f4a08d916cda3830416859a74d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:29.598457+00:00"
+}

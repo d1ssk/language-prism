@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9792b90ab7205dec579469163252d0404d1dd80dbaed3b525750134283f79c11",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В этом блюде есть орехи? У меня на них аллергия.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d307ed56a5dbfb0aa8d5dbb1b09871af52d5ea334284f53f6672b33af53317f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:31.537489+00:00"
+}

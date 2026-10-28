@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "93d5aff33e68294fc0526d6ed25324bbaabed7eab6543733685797db1a56b1c2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "and so brought home as many as he could obtain;",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e5fac3be8bba220d47f6c5456a7b8755a1e3eb1e802c62640ae1b797d6d688ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:36:32.899390+00:00"
+}

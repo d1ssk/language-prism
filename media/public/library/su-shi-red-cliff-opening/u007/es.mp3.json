@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b038f36b07b0e75675127c0f346de32466352118ab6fb2f005ee0429243293c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "En aquella inmensidad, era como si cabalgáramos el viento por el vacío, sin saber dónde nos detendríamos; ligeros y flotantes, como si hubiéramos dejado atrás el mundo para estar solos, transformándonos en inmortales y ascendiendo a su reino.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cf3d1a7f6a0daeabb398e807072a2ce115b5f2c93e83a03acbc4ec42149177d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:07:16.307898+00:00"
+}

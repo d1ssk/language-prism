@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a58049b5c553bd254785a05f7aaa658dfa59b803964c9fa16874a7b2672a617c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Looking back on my experiences, unexpected events have often changed the direction of my life.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b478de5c9441e07113f280f0c4cb56925cafb562f2f25ba61f58deb24b4883e1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:24.915327+00:00"
+}

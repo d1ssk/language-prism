@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c598326559da48458cd933a9a57fc1666879c8390c014626a30243de649805ea",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "すみません、さいごのぶぶんがよくりかいできませんでした。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "17687ed9099bc48e2f9cd394ded50a3bd1c190248a4446c005929a76f474927e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:30:00.129632+00:00"
+}

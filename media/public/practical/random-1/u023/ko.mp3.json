@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2223f510555c051e4e56fa7ff0abd91ad5e72ac0b2d21327ca0d670e5537a683",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오늘 갑자기 급한 일이 생겨서 약속을 변경할 수 있을까요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "43a01c14ff9b23560f2a4a76b7aa49b5f878f70c9d8316b0055d21fa56f6ae17",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:25:36.192137+00:00"
+}

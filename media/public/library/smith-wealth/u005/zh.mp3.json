@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f48eff09dd868c393151c0ebd8ada0192a688e057331ab6cffda96bcd05ae9e9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "一个人拉伸金属丝，另一个人把它弄直，第三个人把它切断，第四个人磨尖，第五个人打磨顶端，以便装上针头；",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9df53d018b16a05b45b1c7cc8166005e7661d7faea0b76338cf4afb7fbc659bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:39:13.856454+00:00"
+}

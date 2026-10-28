@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "64a21e3a2c2619c2295d8e75f5a8b77fc485354512d4a5a9abb62dc257f61d04",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "실험 결과를 해석할 때는 측정의 불확실성을 잊어서는 안 돼요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b92a49dda07ebde335b17eb1aca90fbcdd78df47da1a2b212a6abe1a5c33b141",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:44:37.767843+00:00"
+}

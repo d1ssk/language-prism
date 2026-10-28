@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47c76cf7fe109e8bd98101c4150529414fa5795b4348492683fa30eb6665c5c5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "في قرية من قرى لامانشا، لا أرغب في تذكر اسمها، كان يعيش منذ عهد قريب نبيل ريفي من أولئك الذين يملكون رمحًا في حامله، وترسًا جلديًا قديمًا، وحصانًا هزيلًا، وكلب صيد سريعًا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c19f8dafd663c661c71f0944b89c4f3d40af109c0c25ff8efeb941c2baf79527",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:06:05.629243+00:00"
+}

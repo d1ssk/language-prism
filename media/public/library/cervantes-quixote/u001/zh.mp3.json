@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "871373a7ff7dd4c463ace6c4275e4d74ef6c361993950208d816e5b16b8bac55",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在拉曼查的一个村子里，村名我不愿想起，不久以前住着一位乡绅。他属于那种家有架上长矛、旧皮盾、瘦马和善跑猎犬的人。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5e1d15206537328c0ca81bdc44118a8535ea08a662662c08018698dcb76bff08",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:06:14.472625+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "71a63151cffd3bb82897f0f209130fa7bb9fab50c673631c96ff6097bfb36fd6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Eh ! qu’aimes-tu donc, extraordinaire étranger ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "80c70e3cb75b2f0930c59859864f26068c49a60ff5ede536881d1c3d3b5584dd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:33.005764+00:00"
+}

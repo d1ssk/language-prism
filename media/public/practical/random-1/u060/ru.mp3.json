@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ae2440436cba8b9d63eccdf83dcf39eef734cd893f1588cdba41a07520389c2b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "У меня нет с собой наличных, поэтому было бы удобно расплатиться электронным способом.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "238ddf3a002e4ccbb683c002b8130518aa3ecccddd8b470cef11cc45becda2ea",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:49:15.111391+00:00"
+}

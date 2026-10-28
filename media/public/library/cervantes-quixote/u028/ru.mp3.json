@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a6fba83a5f81893df62858b67f1615a1a30b3f55c0e99b26e5eece9922eb1b30",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "и так прочно утвердилась в его воображении истинность всей этой машины выдумок, что не было для него в мире истории достовернее.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "685ec5d7bdeba09a0de03162f27a8604a4bacb71b88411d5302d945c17dbba6a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:59:39.446003+00:00"
+}

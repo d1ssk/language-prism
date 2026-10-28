@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7aea63a0ccedfeaa13c85151bb7e0f721bf8465055b3b69dfa5db51cb4fbd5ea",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "人并不总是理性地行动，情绪和习惯也会对行为产生很大影响。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b97b153b7fda0ae9f4c4031641a08962129099dbe360e5b31f7e3f1a910653a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:00:34.200427+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "53a2ab0f9e3e477bf9c825148145a79ba16a15d380712f2e2e81558211137b32",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그의 성은 키하다 또는 케사다였다고 하는데, 이 일을 기록한 저자들 사이에 다소 차이가 있다. 다만 그럴듯한 추측으로는 키하노였던 듯하다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "972ff0abe26a08c9fdc978ca7ca9725e034c4482dee6662fab3fa3f7ce0b4ec4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:32:06.138180+00:00"
+}

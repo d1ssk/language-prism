@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dba9779a1d80f8d56be84c50df0b033f23347ef1ba31c3025754f9a47577d337",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Der Akku meines Smartphones ist fast leer, deshalb suche ich nach einer Steckdose in der Nähe.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7071e4b17530001bdf8daeea20a81a158138f5bfa9f513d48725ba95ba55cdf5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:48:04.039692+00:00"
+}

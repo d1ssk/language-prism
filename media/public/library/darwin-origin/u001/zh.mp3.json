@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "056d1003a63579a7de590139775713bb441ca2c14029bc586e5a39c8c45c0d86",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "凝望一片草木交错的坡岸，是很有趣的：那里覆盖着许多种植物，鸟儿在灌木丛中歌唱，各种昆虫来回飞舞，蠕虫在潮湿的泥土中爬行，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ad955d5e1dac930e718f7f2c85325d7258791dfd0409cd1752023bc645048ee3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:15:40.939396+00:00"
+}

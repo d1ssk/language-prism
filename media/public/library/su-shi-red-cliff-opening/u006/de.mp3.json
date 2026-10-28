@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e9e98e34a7794b50f37b2bdcda263d7851b9d2d52085e307f308bf9b78e0f4c1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir ließen unser schilfleichtes Boot treiben, wohin es wollte, und glitten über die unermessliche Wasserfläche.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7257919986b9a433db3ab6b695c0bed473df8e15322002a80c15acf2b09b8427",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:06:03.475364+00:00"
+}

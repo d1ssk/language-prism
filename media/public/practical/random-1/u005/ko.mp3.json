@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "077626fcfdf40d9f6398bdd0913771006267719d1ddc4d9a6bcbdb36919b90df",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 음식에 견과류가 들어 있나요? 제가 견과류 알레르기가 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5547f589e2c8673f8ed560c76f1cdedcd3dcf2f50a53c47c741de60d9ddf0815",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:15:42.410273+00:00"
+}

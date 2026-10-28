@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fb2b8634904b365959c246b47255b6344ba22b69e09dbcb0ad07205afb7b57f2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "제 생각은 조금 다르지만 왜 그렇게 생각하시는지는 이해할 수 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbc491cbc841151178f598c343d759b940256c553e42962c3a421aaa4e771528",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:51:25.426916+00:00"
+}

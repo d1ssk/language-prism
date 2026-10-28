@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1728325b3d6ee8fb8fc51cb86fd1ccd8a5734d9ef557783d7e8de25505047ecf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Even when we don't fully understand each other's language, the desire to understand each other can still come across.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fa08d5c35055610854b6a8e19dda0bcd151a0cd6d316b16efbcd70d206323031",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:55:33.313104+00:00"
+}

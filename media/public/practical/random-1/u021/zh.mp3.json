@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ebe1c89e1af7ee3ef778de799ca7d88659be2b1b25edae4e51702ddbb95c9d7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我们下午六点在车站检票口见面吧。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c6c2e73aa479f28d5994b8b479c6b6d259674cd078ffdfc590a11b788c07727a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:24:20.797045+00:00"
+}

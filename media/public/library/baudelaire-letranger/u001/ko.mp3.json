@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "af04b50e3408db5f20e4760c236761c3608950938fe8b29e717da4ad7c5559fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— 수수께끼 같은 사람이여, 누구를 가장 사랑하나요? 말해 보세요. 아버지, 어머니, 자매, 아니면 형제인가요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "22c52ba00dadd88379b50e3932e21d35942cc214317d3cec245cf73818824176",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:47:49.294461+00:00"
+}

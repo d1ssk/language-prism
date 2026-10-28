@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ecb64ed5b44e0134e6275138186207d3a08a9ffcba59382299ff4c7163c8a407",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "pour monter peu à peu comme par degrés jusqu’à la connaissance des plus composés, et supposant même de l’ordre entre ceux qui ne se précèdent point naturellement les uns les autres.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9b1c4abd11f291310e4ddd01b3bf2f1b6a6cd1e20efcc1474a879ea434d37102",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:30:27.212445+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "83cdf42521efcd2f5708a044596c19c974bf1589417321c897779ab65311333c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "y irse por todo el mundo con sus armas y caballo a buscar las aventuras, y a ejercitarse en todo aquello que él había leído que los caballeros andantes se ejercitaban,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0f42678c6c5f19e0f91db8c10e91a5ccefa842af4b9d23c86824dad128c8df2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:13:40.398105+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "242cbd76110bb0888ec64b307718fae06436dbdb2f71ae85e923d66a5c28d19f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "On dirait que le train a du retard, alors cherchons un autre itinéraire.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e2d0ca2478ea47160244a7073f0c46a9e8a21a3dbbf36a91e7b0262e52fae3df",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:16:54.584765+00:00"
+}

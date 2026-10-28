@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "daccbd16285ee24d7e20604ac2f8d86969ed3cd07d7c830fd6971fb805364823",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Не могу найти паспорт. Пытаюсь вспомнить, где пользовался им в последний раз.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2652291a3a040e03f655cae00f66693cd29b49179cc08559a03b18fe03b631dc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:20:25.644779+00:00"
+}

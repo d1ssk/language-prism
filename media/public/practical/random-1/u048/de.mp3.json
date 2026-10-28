@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6801bfba41e5e67c0ce2247e570b41314b77f0abb21be8fee764449949f3299b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Ende des Films war unerwartet, aber wenn man die ganze Geschichte betrachtet, ergibt es Sinn.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1ecf0249cddf9fe8791ef415515514c56df215f7f7555cfcde225ef8fa7b7e06",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:40:26.365757+00:00"
+}

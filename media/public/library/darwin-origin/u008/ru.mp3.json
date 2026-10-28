@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9a6077733685881026a82e90536b71299a46ffb2dc7c5c7b6003d97ef2c70dce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "и в том, что, пока наша планета продолжала своё обращение по неизменному закону тяготения, из столь простого начала развились и продолжают развиваться бесконечные формы, необычайно прекрасные и удивительные.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b2de615d35f8b11ab1a6b111b812e1e7b108e0cae74c85c8a2de07b370a3dbac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:24:28.946190+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f1467f05d63c0911e3e2c005323cb163dfb4567ab17e7a0c791c6655a6829920",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "そして、うたがうよちがまったくないほどめいせきかつはんめいにせいしんにあらわれるものだけを、じぶんのはんだんにふくめることだった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "84c9408258e22b9f5a6251e531c6d2b247a59c7cef8b11a392b74cc081211bd9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:26:46.730238+00:00"
+}

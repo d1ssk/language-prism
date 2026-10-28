@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "231fd2f7cc3f1ffeeb2091cdbb80793f9fd7ea7977da2aee0d032453b1cb0379",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "そこで、ひとりがよんまんはっせんぼんのじゅうぶんのいちをつくったとすれば、いちにちよんせんはっぴゃくほんをつくったとみなせる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3a298d649481aedbdd5970a4520fd4c88b1c76657d6f1a8104bc491b8607eb7f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:47:08.630374+00:00"
+}

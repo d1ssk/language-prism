@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "de38f0c6978f3d68cb0e3d695711ced172c28ab477259c562c63d55b7892e1d9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quelle est la différence de prix entre un aller simple et un aller-retour ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "da95fa38ba33f8800bb3891ee0758c58cad474d7faa7ee6c0854282817e4dfad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:17:57.638213+00:00"
+}

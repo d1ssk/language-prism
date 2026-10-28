@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d476ae1859b00fed19b6f666c7a547c61552e97b838239d23d542eee139963ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Normalmente disfruto pasando tiempo a solas, pero a veces me apetece hablar durante horas con mis amigos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e97834f139507036753e540d01e26c42c0cbd926ce5147dcd7d8a85f143bbda4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:41:39.515986+00:00"
+}

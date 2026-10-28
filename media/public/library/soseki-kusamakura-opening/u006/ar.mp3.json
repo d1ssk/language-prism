@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f3c428c0c2afd175dab4dd9e0324ad71820a5ca112dfe1e82b8f9837b8d27572",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "حين تشتد هذه الصعوبة، تنشأ الرغبة في الانتقال إلى مكان أكثر طمأنينة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6cbe165821fda1457bdcfeb31f74d4e555d2bfa5d4204914279b516297e2f8b0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:35.221605+00:00"
+}

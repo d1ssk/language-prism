@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8239f9969ece5dd2b0b2ac9ab50dbfc98df3b7fd307e47acd2eb20ed1707568f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Whom do you love best, enigmatic man? Tell me: your father, your mother, your sister or your brother?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "45bf298a1a0d88bffc0399518327809df25c9d1469878f5b7f21055e83918ff9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:47:09.114153+00:00"
+}

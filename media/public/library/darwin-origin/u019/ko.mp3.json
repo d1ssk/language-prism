@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13351b4d2bb18a2b68b35830bc3e972850ffb3ae325fb9193c935b7abf62a7da",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "우리는 미래를 내다보며, 더 크고 우세한 무리에 속하는 흔하고 널리 분포하는 종들이 결국 살아남아 새롭고 우세한 종들을 낳으리라고 예견할 수 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "32353ee3a91a6a78ebf11eea97244a5e7b5c2be7d983ecfbed4072ac9abe2672",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:25:07.992595+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "82c32552f2fb9da25c899c2103d932e6e10211dbadde77d57dbb969d18f997e4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Bernardo del Carpio gefiel ihm besser, weil er bei Roncesvalles den verzauberten Roldán mit der List des Herkules getötet hatte, der Antäus, den Sohn der Erde, in seinen Armen erwürgte.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "121f8b56778f0e3a3113c64108a65da3b74897f675e2f4c0e2d1ba6444881446",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:02:54.278492+00:00"
+}

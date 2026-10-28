@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8265c6a56da410e2ec3aa56a60436d817156155589d4dae0d67c686d9d772021",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "一锅牛肉比羊肉稍多的炖菜，多数晚上的凉拌碎肉，星期六的“忧愁与苦难”，星期五的小扁豆，以及星期天加上的一只乳鸽，耗去了他财产的四分之三。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3528ced8012798214065efbb031ebc3815a47ee4d135efe40df95c291ef5c84a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:08:11.922071+00:00"
+}

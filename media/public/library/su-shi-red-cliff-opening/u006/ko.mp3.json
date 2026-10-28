@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3c41f4cfae344ec26aeef8845f529c9ebec1d0adcc09751078da444166f762b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "갈대 한 잎 같은 작은 배가 가는 대로 맡겨 두고, 끝없이 펼쳐진 물 위를 건너갔다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "35a2dc1a6c44a1278f430b19074889947a8cd55e8579c30a28846f743f8d20ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:06:29.997908+00:00"
+}

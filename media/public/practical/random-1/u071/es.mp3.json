@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9303c6060bc82a1f7afc56c92b39184e71a1daf49dacbd2beb0afd165226aa73",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No quiero limitarme a memorizar conocimientos; quiero entender por qué son ciertos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1daf107c05177699f8688a597eb2e63a49597c993096cbc233f125827b077c84",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:57:03.546866+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b32dd902bf0ffa44cf4ecfb36b924c29c9d24ff83468d417602e6a96cda4ab7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "これまでのけいけんをふりかえると、よそうがいのできごとがじんせいのほうこうをかえることもおおかったです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "59e652042636d5fe53ae03eb983cd0eee84a07b5afba40a61dcb516f4640e5c9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:19.162224+00:00"
+}

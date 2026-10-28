@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5866d887b652782b7ced1f719c22faa57abb0417791b50e0c37fb0859a23795d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The air conditioner in my room doesn't seem to be working. Could you check it?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a0d2e81fd684779ced2d3b380ea59c529002cc98359dfe6d1cc6a86ab28695fd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:18:57.175343+00:00"
+}

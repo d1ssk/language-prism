@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3e3396353efbaa485a4b72879b7da73e8ebffcf90ce436b3b5e5521385cbff7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "— Je le hais comme vous haïssez Dieu.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6c5dda568e887bbd2e502b0c51688c31b65951b72c5a8b4b928b7a55835ea6d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:51:08.237991+00:00"
+}

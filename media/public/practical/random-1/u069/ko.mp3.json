@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0522948007e7a473362fdcb8ae034b9ebff127ec26043a5f07a25300e1b361bc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "언어가 완전히 통하지 않더라도 서로를 이해하려는 마음은 전해지는 법이에요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0c96308765b2fd83c53b1a2b08c67d9b34529f06541274f832b83a8efa26b1d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:56:11.472396+00:00"
+}

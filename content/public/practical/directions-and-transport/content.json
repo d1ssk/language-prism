@@ -1,0 +1,3632 @@
+{
+  "schemaVersion": 1,
+  "id": "directions-and-transport",
+  "slug": "directions-and-transport",
+  "type": "practical",
+  "title": {
+    "ja": "道を尋ねる・交通機関に乗る",
+    "en": "Directions and public transport"
+  },
+  "description": {
+    "ja": "街歩き、バス、電車、タクシーなど、さまざまな移動の場面で使う表現。",
+    "en": "Expressions for walking around town, taking buses and trains, and using taxis."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて作成した例文。既存の教材からの転載ではありません。",
+    "en": "Examples created with AI for this site, not reproduced from existing teaching materials."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み表記：OpenAI。",
+    "en": "Text and pronunciation readings: OpenAI."
+  },
+  "editorialNote": {
+    "ja": "街歩き、バス、電車、タクシーなど、さまざまな移動の場面で使う表現。 各小見出しは独立した場面です。短い掛け合いと単独で使える表現を組み合わせており、記事全体が一続きの会話ではありません。本文と読み表記を収録し、音声は未生成です。専門家による校閲は受けていません。",
+    "en": "Expressions for walking around town, taking buses and trains, and using taxis. Each heading introduces an independent situation. Short exchanges are mixed with standalone expressions; the article is not one continuous conversation. Text and pronunciation readings are included; audio has not been generated. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "すみません、駅へはどう行けばいいですか。",
+          "ttsText": "すみません、えきへはどういけばいいですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Excuse me, how do I get to the station?",
+          "ttsText": "Excuse me, how do I get to the station?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Disculpe, ¿cómo llego a la estación?",
+          "ttsText": "Disculpe, ¿cómo llego a la estación?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Excusez-moi, comment aller à la gare ?",
+          "ttsText": "Excusez-moi, comment aller à la gare ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Entschuldigung, wie komme ich zum Bahnhof?",
+          "ttsText": "Entschuldigung, wie komme ich zum Bahnhof?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините, как пройти к вокзалу?",
+          "ttsText": "Извините, как пройти к вокзалу?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا، كيف أصل إلى المحطة؟",
+          "ttsText": "عفوا، كيف أصل إلى المحطة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan, kayfa ʾaṣilu ʾilā al-maḥaṭṭati?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-maḥaṭṭati → al-maḥaṭṭah。 ʾilā al-maḥaṭṭati は連読すると ʾilā l-maḥaṭṭati とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-maḥaṭṭati → al-maḥaṭṭah. In connected speech, ʾilā al-maḥaṭṭati is linked as ʾilā l-maḥaṭṭati."
+            }
+          }
+        },
+        "zh": {
+          "text": "请问，去车站怎么走？",
+          "ttsText": "请问，去车站怎么走？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐngwèn, qù chēzhàn zěnme zǒu?"
+          }
+        },
+        "ko": {
+          "text": "실례합니다. 역에 가려면 어떻게 가야 하나요?",
+          "ttsText": "실례합니다. 역에 가려면 어떻게 가야 하나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "駅まで歩く",
+        "en": "Walking to the station"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "この道をまっすぐ行って、橋を渡ったら右に曲がってください。",
+          "ttsText": "このみちをまっすぐいって、はしをわたったらみぎにまがってください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Go straight along this road, cross the bridge, then turn right.",
+          "ttsText": "Go straight along this road, cross the bridge, then turn right.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Siga recto por esta calle, cruce el puente y gire a la derecha.",
+          "ttsText": "Siga recto por esta calle, cruce el puente y gire a la derecha.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Allez tout droit dans cette rue, traversez le pont, puis tournez à droite.",
+          "ttsText": "Allez tout droit dans cette rue, traversez le pont, puis tournez à droite.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gehen Sie diese Straße geradeaus, überqueren Sie die Brücke und biegen Sie dann rechts ab.",
+          "ttsText": "Gehen Sie diese Straße geradeaus, überqueren Sie die Brücke und biegen Sie dann rechts ab.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Идите прямо по этой улице, перейдите мост, потом поверните направо.",
+          "ttsText": "Идите прямо по этой улице, перейдите мост, потом поверните направо.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "سر في هذا الطريق إلى الأمام، واعبر الجسر، ثم انعطف يمينا.",
+          "ttsText": "سر في هذا الطريق إلى الأمام، واعبر الجسر، ثم انعطف يمينا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Sir fī hādhā aṭ-ṭarīqi ʾilā al-ʾamāmi, waʿbur al-jisra, thumma inʿaṭif yamīnan.",
+            "note": {
+              "ja": "Sir / uʿbur / inʿaṭif は男性一人に話す形です。女性一人に話す場合は Sīrī / uʿburī / inʿaṭifī になります。 この文で区切って読むときの休止形：yamīnan → yamīnā。 hādhā aṭ-ṭarīqi は連読すると hādhā ṭ-ṭarīqi とつながります。",
+              "en": "Sir / uʿbur / inʿaṭif addresses one man; use Sīrī / uʿburī / inʿaṭifī when addressing one woman. Pausal forms at the sentence breaks here: yamīnan → yamīnā. In connected speech, hādhā aṭ-ṭarīqi is linked as hādhā ṭ-ṭarīqi."
+            }
+          }
+        },
+        "zh": {
+          "text": "沿着这条路一直走，过桥后右转。",
+          "ttsText": "沿着这条路一直走，过桥后右转。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yánzhe zhè tiáo lù yīzhí zǒu, guò qiáo hòu yòu zhuǎn.",
+            "note": {
+              "ja": "この文では、発音時に yīzhí → yìzhí となります。",
+              "en": "In this sentence, the spoken forms are yīzhí → yìzhí."
+            }
+          }
+        },
+        "ko": {
+          "text": "이 길로 쭉 가서 다리를 건넌 다음 오른쪽으로 도세요.",
+          "ttsText": "이 길로 쭉 가서 다리를 건넌 다음 오른쪽으로 도세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "歩いてどのくらいかかりますか。",
+          "ttsText": "あるいてどのくらいかかりますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "How long does it take on foot?",
+          "ttsText": "How long does it take on foot?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Cuánto se tarda a pie?",
+          "ttsText": "¿Cuánto se tarda a pie?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Combien de temps faut-il à pied ?",
+          "ttsText": "Combien de temps faut-il à pied ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wie lange dauert es zu Fuß?",
+          "ttsText": "Wie lange dauert es zu Fuß?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Сколько времени идти пешком?",
+          "ttsText": "Сколько времени идти пешком?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كم يستغرق الوصول مشيا؟",
+          "ttsText": "كم يستغرق الوصول مشيا؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kam yastaghriqu al-wuṣūlu mashyan?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：mashyan → mashyā。 yastaghriqu al-wuṣūlu は連読すると yastaghriqu l-wuṣūlu とつながります。",
+              "en": "Pausal forms at the sentence breaks here: mashyan → mashyā. In connected speech, yastaghriqu al-wuṣūlu is linked as yastaghriqu l-wuṣūlu."
+            }
+          }
+        },
+        "zh": {
+          "text": "走路大概要多久？",
+          "ttsText": "走路大概要多久？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zǒulù dàgài yào duōjiǔ?"
+          }
+        },
+        "ko": {
+          "text": "걸어서 얼마나 걸리나요?",
+          "ttsText": "걸어서 얼마나 걸리나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "十分くらいです。",
+          "ttsText": "じゅっぷんくらいです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "About ten minutes.",
+          "ttsText": "About ten minutes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Unos diez minutos.",
+          "ttsText": "Unos diez minutos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Environ dix minutes.",
+          "ttsText": "Environ dix minutes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Etwa zehn Minuten.",
+          "ttsText": "Etwa zehn Minuten.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Около десяти минут.",
+          "ttsText": "Около десяти минут.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نحو عشر دقائق.",
+          "ttsText": "نحو عشر دقائق.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naḥwu ʿashri daqāʾiqa.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：daqāʾiqa → daqāʾiq。",
+              "en": "Pausal forms at the sentence breaks here: daqāʾiqa → daqāʾiq."
+            }
+          }
+        },
+        "zh": {
+          "text": "大概十分钟。",
+          "ttsText": "大概十分钟。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Dàgài shí fēnzhōng."
+          }
+        },
+        "ko": {
+          "text": "십 분 정도예요.",
+          "ttsText": "십 분 정도예요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u026",
+      "languages": {
+        "ja": {
+          "text": "道に迷ってしまいました。",
+          "ttsText": "みちにまよってしまいました。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "I'm lost.",
+          "ttsText": "I'm lost.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Me he perdido.",
+          "ttsText": "Me he perdido.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je me suis perdu.",
+          "ttsText": "Je me suis perdu.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "男性の話者の形 perdu です。女性の話者なら perdue と書きます。",
+              "en": "The male speaker uses perdu; a female speaker writes perdue."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ich habe mich verlaufen.",
+          "ttsText": "Ich habe mich verlaufen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Я заблудился.",
+          "ttsText": "Я заблудился.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "男性の話者の形 заблудился です。女性の話者なら заблудилась になります。",
+              "en": "The male speaker uses заблудился; a female speaker uses заблудилась."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "ضللت الطريق.",
+          "ttsText": "ضللت الطريق.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḍalaltu aṭ-ṭarīqa.",
+            "note": {
+              "ja": "Ḍalaltu aṭ-ṭarīqa は連読で ḍalaltu ṭ-ṭarīqa とつながります。 この文末で区切るときは aṭ-ṭarīqa → aṭ-ṭarīq となります。",
+              "en": "In connected speech, Ḍalaltu aṭ-ṭarīqa is linked as ḍalaltu ṭ-ṭarīqa. At the end of this sentence, the pausal form is aṭ-ṭarīqa → aṭ-ṭarīq."
+            }
+          }
+        },
+        "zh": {
+          "text": "我迷路了。",
+          "ttsText": "我迷路了。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ mílù le."
+          }
+        },
+        "ko": {
+          "text": "길을 잃었어요.",
+          "ttsText": "길을 잃었어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "道に迷ったとき",
+        "en": "When you are lost"
+      }
+    },
+    {
+      "id": "u027",
+      "languages": {
+        "ja": {
+          "text": "この道で美術館に行けますか。",
+          "ttsText": "このみちでびじゅつかんにいけますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Does this road lead to the art museum?",
+          "ttsText": "Does this road lead to the art museum?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Por esta calle se llega al museo de arte?",
+          "ttsText": "¿Por esta calle se llega al museo de arte?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que cette rue mène au musée d'art ?",
+          "ttsText": "Est-ce que cette rue mène au musée d'art ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Führt diese Straße zum Kunstmuseum?",
+          "ttsText": "Führt diese Straße zum Kunstmuseum?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "По этой улице можно дойти до художественного музея?",
+          "ttsText": "По этой улице можно дойти до художественного музея?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل يؤدي هذا الطريق إلى متحف الفن؟",
+          "ttsText": "هل يؤدي هذا الطريق إلى متحف الفن؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal yuʾaddī hādhā aṭ-ṭarīqu ʾilā matḥafi al-fanni?",
+            "note": {
+              "ja": "matḥafi al-fanni は連読で matḥafi l-fanni とつながります。 この文末で区切るときは al-fanni → al-fann となります。",
+              "en": "In connected speech, matḥafi al-fanni is linked as matḥafi l-fanni. At the end of this sentence, the pausal form is al-fanni → al-fann."
+            }
+          }
+        },
+        "zh": {
+          "text": "沿着这条路能到美术馆吗？",
+          "ttsText": "沿着这条路能到美术馆吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yánzhe zhè tiáo lù néng dào měishùguǎn ma?"
+          }
+        },
+        "ko": {
+          "text": "이 길로 가면 미술관에 갈 수 있나요?",
+          "ttsText": "이 길로 가면 미술관에 갈 수 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u028",
+      "languages": {
+        "ja": {
+          "text": "はい、二つ目の角を左に曲がってください。",
+          "ttsText": "はい、ふたつめのかどをひだりにまがってください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, turn left at the second corner.",
+          "ttsText": "Yes, turn left at the second corner.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, gire a la izquierda en la segunda esquina.",
+          "ttsText": "Sí, gire a la izquierda en la segunda esquina.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, tournez à gauche à la deuxième rue.",
+          "ttsText": "Oui, tournez à gauche à la deuxième rue.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, biegen Sie an der zweiten Ecke links ab.",
+          "ttsText": "Ja, biegen Sie an der zweiten Ecke links ab.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, поверните налево на втором повороте.",
+          "ttsText": "Да, поверните налево на втором повороте.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، انعطف يسارا عند المنعطف الثاني.",
+          "ttsText": "نعم، انعطف يسارا عند المنعطف الثاني.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, inʿaṭif yasāran ʿinda al-munʿaṭafi ath-thānī.",
+            "note": {
+              "ja": "inʿaṭif は男性一人に話す形です。女性一人には inʿaṭifī を使います。 ʿinda al-munʿaṭafi ath-thānī は連読で ʿinda l-munʿaṭafi th-thānī とつながります。",
+              "en": "inʿaṭif addresses one man; use inʿaṭifī for one woman. In connected speech, ʿinda al-munʿaṭafi ath-thānī is linked as ʿinda l-munʿaṭafi th-thānī."
+            }
+          }
+        },
+        "zh": {
+          "text": "能，在第二个路口左转。",
+          "ttsText": "能，在第二个路口左转。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Néng, zài dì èr ge lùkǒu zuǒ zhuǎn.",
+            "note": {
+              "ja": "「路口」と「左转」の間を区切る読みでは、zuǒ zhuǎn → zuó zhuǎn となります。",
+              "en": "With a phrase break between 路口 and 左转, zuǒ zhuǎn becomes zuó zhuǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "네, 두 번째 모퉁이에서 왼쪽으로 도세요.",
+          "ttsText": "네, 두 번째 모퉁이에서 왼쪽으로 도세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u017",
+      "languages": {
+        "ja": {
+          "text": "このバスは市役所に行きますか。",
+          "ttsText": "このばすはしやくしょにいきますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Does this bus go to city hall?",
+          "ttsText": "Does this bus go to city hall?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Este autobús va al ayuntamiento?",
+          "ttsText": "¿Este autobús va al ayuntamiento?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que ce bus va à la mairie ?",
+          "ttsText": "Est-ce que ce bus va à la mairie ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Fährt dieser Bus zum Rathaus?",
+          "ttsText": "Fährt dieser Bus zum Rathaus?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Этот автобус идёт до мэрии?",
+          "ttsText": "Этот автобус идёт до мэрии?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل تذهب هذه الحافلة إلى مبنى البلدية؟",
+          "ttsText": "هل تذهب هذه الحافلة إلى مبنى البلدية؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal tadhhabu hādhihi al-ḥāfilatu ʾilā mabnā al-baladiyyati?",
+            "note": {
+              "ja": "mabnā al-baladiyyati は連読で mabnā l-baladiyyati とつながります。 この文末で区切るときは al-baladiyyati → al-baladiyyah となります。",
+              "en": "In connected speech, mabnā al-baladiyyati is linked as mabnā l-baladiyyati. At the end of this sentence, the pausal form is al-baladiyyati → al-baladiyyah."
+            }
+          }
+        },
+        "zh": {
+          "text": "这辆公交车到市政府吗？",
+          "ttsText": "这辆公交车到市政府吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè liàng gōngjiāochē dào shìzhèngfǔ ma?"
+          }
+        },
+        "ko": {
+          "text": "이 버스는 시청에 가나요?",
+          "ttsText": "이 버스는 시청에 가나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "バスの行き先と運賃",
+        "en": "Bus destinations and fares"
+      }
+    },
+    {
+      "id": "u018",
+      "languages": {
+        "ja": {
+          "text": "いいえ、反対側のバス停から乗ってください。",
+          "ttsText": "いいえ、はんたいがわのばすていからのってください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "No, take the bus from the stop on the other side of the road.",
+          "ttsText": "No, take the bus from the stop on the other side of the road.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No, tome el autobús en la parada del otro lado de la calle.",
+          "ttsText": "No, tome el autobús en la parada del otro lado de la calle.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Non, prenez le bus à l'arrêt de l'autre côté de la rue.",
+          "ttsText": "Non, prenez le bus à l'arrêt de l'autre côté de la rue.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Nein, nehmen Sie den Bus an der Haltestelle auf der anderen Straßenseite.",
+          "ttsText": "Nein, nehmen Sie den Bus an der Haltestelle auf der anderen Straßenseite.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Нет, садитесь на остановке на другой стороне улицы.",
+          "ttsText": "Нет, садитесь на остановке на другой стороне улицы.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لا، اركب من موقف الحافلات على الجانب الآخر من الشارع.",
+          "ttsText": "لا، اركب من موقف الحافلات على الجانب الآخر من الشارع.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā, irkab min mawqifi al-ḥāfilāti ʿalā al-jānibi al-ʾākhari mina ash-shāriʿi.",
+            "note": {
+              "ja": "irkab は男性一人に話す形です。女性一人には irkabī を使います。 mina ash-shāriʿi は連読で mina sh-shāriʿi とつながります。 この文末で区切るときは ash-shāriʿi → ash-shāriʿ となります。",
+              "en": "irkab addresses one man; use irkabī for one woman. In connected speech, mina ash-shāriʿi is linked as mina sh-shāriʿi. At the end of this sentence, the pausal form is ash-shāriʿi → ash-shāriʿ."
+            }
+          }
+        },
+        "zh": {
+          "text": "不到，请到马路对面的车站坐车。",
+          "ttsText": "不到，请到马路对面的车站坐车。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù dào, qǐng dào mǎlù duìmiàn de chēzhàn zuò chē.",
+            "note": {
+              "ja": "この文では、発音時に Bù dào → Bú dào となります。",
+              "en": "In this sentence, the spoken form is Bù dào → Bú dào."
+            }
+          }
+        },
+        "ko": {
+          "text": "아니요, 길 건너편 정류장에서 타세요.",
+          "ttsText": "아니요, 길 건너편 정류장에서 타세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u019",
+      "languages": {
+        "ja": {
+          "text": "運賃はいくらですか。",
+          "ttsText": "うんちんはいくらですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "How much is the fare?",
+          "ttsText": "How much is the fare?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Cuánto cuesta el billete?",
+          "ttsText": "¿Cuánto cuesta el billete?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Combien coûte le trajet ?",
+          "ttsText": "Combien coûte le trajet ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wie viel kostet die Fahrt?",
+          "ttsText": "Wie viel kostet die Fahrt?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Сколько стоит проезд?",
+          "ttsText": "Сколько стоит проезд?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "كم الأجرة؟",
+          "ttsText": "كم الأجرة؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Kam al-ʾujratu?",
+            "note": {
+              "ja": "Kam al-ʾujratu は連読で kami l-ʾujratu とつながります。 この文末で区切るときは al-ʾujratu → al-ʾujrah となります。",
+              "en": "In connected speech, Kam al-ʾujratu is linked as kami l-ʾujratu. At the end of this sentence, the pausal form is al-ʾujratu → al-ʾujrah."
+            }
+          }
+        },
+        "zh": {
+          "text": "车费多少钱？",
+          "ttsText": "车费多少钱？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Chēfèi duōshao qián?"
+          }
+        },
+        "ko": {
+          "text": "요금은 얼마인가요?",
+          "ttsText": "요금은 얼마인가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u020",
+      "languages": {
+        "ja": {
+          "text": "料金はこちらに表示されています。",
+          "ttsText": "りょうきんはこちらにひょうじされています。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "The fares are displayed here.",
+          "ttsText": "The fares are displayed here.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Las tarifas están indicadas aquí.",
+          "ttsText": "Las tarifas están indicadas aquí.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Les tarifs sont affichés ici.",
+          "ttsText": "Les tarifs sont affichés ici.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Die Fahrpreise stehen hier.",
+          "ttsText": "Die Fahrpreise stehen hier.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Тарифы указаны здесь.",
+          "ttsText": "Тарифы указаны здесь.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "الأجرة موضحة هنا.",
+          "ttsText": "الأجرة موضحة هنا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ʾujratu muwaḍḍaḥatun hunā."
+          }
+        },
+        "zh": {
+          "text": "票价在这里显示。",
+          "ttsText": "票价在这里显示。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Piàojià zài zhèli xiǎnshì."
+          }
+        },
+        "ko": {
+          "text": "요금은 여기에 표시되어 있어요.",
+          "ttsText": "요금은 여기에 표시되어 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u021",
+      "languages": {
+        "ja": {
+          "text": "一日乗車券はありますか。",
+          "ttsText": "いちにちじょうしゃけんはありますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Do you have a day pass?",
+          "ttsText": "Do you have a day pass?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Hay un abono de un día?",
+          "ttsText": "¿Hay un abono de un día?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce qu'il existe un pass à la journée ?",
+          "ttsText": "Est-ce qu'il existe un pass à la journée ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gibt es eine Tageskarte?",
+          "ttsText": "Gibt es eine Tageskarte?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Есть проездной на один день?",
+          "ttsText": "Есть проездной на один день?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل توجد تذكرة ليوم كامل؟",
+          "ttsText": "هل توجد تذكرة ليوم كامل؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal tūjadu tadhkiratun liyawmin kāmilin?",
+            "note": {
+              "ja": "この文末で区切るときは kāmilin → kāmil となります。",
+              "en": "At the end of this sentence, the pausal form is kāmilin → kāmil."
+            }
+          }
+        },
+        "zh": {
+          "text": "有一日票吗？",
+          "ttsText": "有一日票吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yǒu yī rì piào ma?",
+            "note": {
+              "ja": "この文では、発音時に yī rì → yí rì となります。",
+              "en": "In this sentence, the spoken form is yī rì → yí rì."
+            }
+          }
+        },
+        "ko": {
+          "text": "하루 이용권이 있나요?",
+          "ttsText": "하루 이용권이 있나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "一日乗車券を探す",
+        "en": "Asking about a day pass"
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "空港までの片道切符を一枚お願いします。",
+          "ttsText": "くうこうまでのかたみちきっぷをいちまいおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "A one-way ticket to the airport, please.",
+          "ttsText": "A one-way ticket to the airport, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Un billete de ida al aeropuerto, por favor.",
+          "ttsText": "Un billete de ida al aeropuerto, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Un aller simple pour l'aéroport, s'il vous plaît.",
+          "ttsText": "Un aller simple pour l'aéroport, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Eine einfache Fahrt zum Flughafen, bitte.",
+          "ttsText": "Eine einfache Fahrt zum Flughafen, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Один билет до аэропорта в одну сторону, пожалуйста.",
+          "ttsText": "Один билет до аэропорта в одну сторону, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "تذكرة ذهاب فقط إلى المطار، من فضلك.",
+          "ttsText": "تذكرة ذهاب فقط إلى المطار، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Tadhkirata dhahābin faqaṭ ʾilā al-maṭāri, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人に話す場合は faḍliki になります。 この文で区切って読むときの休止形：faḍlika → faḍlik。 ʾilā al-maṭāri は連読すると ʾilā l-maṭāri とつながります。",
+              "en": "faḍlika addresses one man; use faḍliki when addressing one woman. Pausal forms at the sentence breaks here: faḍlika → faḍlik. In connected speech, ʾilā al-maṭāri is linked as ʾilā l-maṭāri."
+            }
+          }
+        },
+        "zh": {
+          "text": "请给我一张去机场的单程票。",
+          "ttsText": "请给我一张去机场的单程票。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng gěi wǒ yī zhāng qù jīchǎng de dānchéngpiào.",
+            "note": {
+              "ja": "この文では、発音時に Qǐng gěi wǒ → Qíng géi wǒ、yī zhāng → yì zhāng となります。 ここでは依頼部分をひとまとまりに発音する場合を示しています。間を置く位置によって第3声の変調のまとまりは変わります。",
+              "en": "In this sentence, the spoken forms are Qǐng gěi wǒ → Qíng géi wǒ; yī zhāng → yì zhāng. The request is read as one phrase here; pauses can change how the third-tone sequence is grouped."
+            }
+          }
+        },
+        "ko": {
+          "text": "공항까지 가는 편도 표 한 장 주세요.",
+          "ttsText": "공항까지 가는 편도 표 한 장 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "空港までの切符を買う",
+        "en": "Buying a ticket to the airport"
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "はい。今日お使いですか。",
+          "ttsText": "はい。きょうおつかいですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Certainly. Is it for today?",
+          "ttsText": "Certainly. Is it for today?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí. ¿Es para hoy?",
+          "ttsText": "Sí. ¿Es para hoy?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Bien sûr. C'est pour aujourd'hui ?",
+          "ttsText": "Bien sûr. C'est pour aujourd'hui ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gern. Für heute?",
+          "ttsText": "Gern. Für heute?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Конечно. На сегодня?",
+          "ttsText": "Конечно. На сегодня?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "حسنا. هل ستستخدمها اليوم؟",
+          "ttsText": "حسنا. هل ستستخدمها اليوم؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Ḥasanan. Hal satastakhdimuhā al-yawma?",
+            "note": {
+              "ja": "satastakhdimuhā は男性一人に話す形です。女性一人に話す場合は satastakhdimīnahā になります。 この文で区切って読むときの休止形：Ḥasanan → ḥasanā、al-yawma → al-yawm。 satastakhdimuhā al-yawma は連読すると satastakhdimuhā l-yawma とつながります。",
+              "en": "satastakhdimuhā addresses one man; use satastakhdimīnahā when addressing one woman. Pausal forms at the sentence breaks here: Ḥasanan → ḥasanā; al-yawma → al-yawm. In connected speech, satastakhdimuhā al-yawma is linked as satastakhdimuhā l-yawma."
+            }
+          }
+        },
+        "zh": {
+          "text": "好的，是今天用吗？",
+          "ttsText": "好的，是今天用吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Hǎo de, shì jīntiān yòng ma?"
+          }
+        },
+        "ko": {
+          "text": "네. 오늘 사용하실 건가요?",
+          "ttsText": "네. 오늘 사용하실 건가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "はい、今日使います。",
+          "ttsText": "はい、きょうつかいます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Yes, for today.",
+          "ttsText": "Yes, for today.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Sí, para hoy.",
+          "ttsText": "Sí, para hoy.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Oui, pour aujourd'hui.",
+          "ttsText": "Oui, pour aujourd'hui.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Ja, für heute.",
+          "ttsText": "Ja, für heute.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Да, на сегодня.",
+          "ttsText": "Да, на сегодня.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "نعم، سأستخدمها اليوم.",
+          "ttsText": "نعم، سأستخدمها اليوم.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Naʿam, saʾastakhdimuhā al-yawma.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-yawma → al-yawm。 saʾastakhdimuhā al-yawma は連読すると saʾastakhdimuhā l-yawma とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-yawma → al-yawm. In connected speech, saʾastakhdimuhā al-yawma is linked as saʾastakhdimuhā l-yawma."
+            }
+          }
+        },
+        "zh": {
+          "text": "对，今天用。",
+          "ttsText": "对，今天用。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Duì, jīntiān yòng."
+          }
+        },
+        "ko": {
+          "text": "네, 오늘 사용할 거예요.",
+          "ttsText": "네, 오늘 사용할 거예요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "では、こちらが切符です。",
+          "ttsText": "では、こちらがきっぷです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Here is your ticket, then.",
+          "ttsText": "Here is your ticket, then.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Entonces, aquí tiene su billete.",
+          "ttsText": "Entonces, aquí tiene su billete.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Alors, voici votre billet.",
+          "ttsText": "Alors, voici votre billet.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Dann ist hier Ihre Fahrkarte.",
+          "ttsText": "Dann ist hier Ihre Fahrkarte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Тогда вот ваш билет.",
+          "ttsText": "Тогда вот ваш билет.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "إذن، هذه تذكرتك.",
+          "ttsText": "إذن، هذه تذكرتك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIdhan, hādhihi tadhkiratuka.",
+            "note": {
+              "ja": "tadhkiratuka は男性一人に話す形です。女性一人に話す場合は tadhkiratuki になります。 この文で区切って読むときの休止形：tadhkiratuka → tadhkiratuk。",
+              "en": "tadhkiratuka addresses one man; use tadhkiratuki when addressing one woman. Pausal forms at the sentence breaks here: tadhkiratuka → tadhkiratuk."
+            }
+          }
+        },
+        "zh": {
+          "text": "那这是您的票。",
+          "ttsText": "那这是您的票。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nà zhè shì nín de piào."
+          }
+        },
+        "ko": {
+          "text": "그럼 여기 표 드리겠습니다.",
+          "ttsText": "그럼 여기 표 드리겠습니다.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "空港行きの電車は何番線ですか。",
+          "ttsText": "くうこういきのでんしゃはなんばんせんですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Which platform does the train to the airport leave from?",
+          "ttsText": "Which platform does the train to the airport leave from?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿De qué andén sale el tren al aeropuerto?",
+          "ttsText": "¿De qué andén sale el tren al aeropuerto?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "De quel quai part le train pour l'aéroport ?",
+          "ttsText": "De quel quai part le train pour l'aéroport ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Von welchem Gleis fährt der Zug zum Flughafen ab?",
+          "ttsText": "Von welchem Gleis fährt der Zug zum Flughafen ab?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "С какой платформы отправляется поезд в аэропорт?",
+          "ttsText": "С какой платформы отправляется поезд в аэропорт?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "من أي رصيف ينطلق القطار المتجه إلى المطار؟",
+          "ttsText": "من أي رصيف ينطلق القطار المتجه إلى المطار؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Min ʾayyi raṣīfin yanṭaliqu al-qiṭāru al-muttajihu ʾilā al-maṭāri?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-maṭāri → al-maṭār。 yanṭaliqu al-qiṭāru al-muttajihu は連読すると yanṭaliqu l-qiṭāru l-muttajihu とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-maṭāri → al-maṭār. In connected speech, yanṭaliqu al-qiṭāru al-muttajihu is linked as yanṭaliqu l-qiṭāru l-muttajihu."
+            }
+          }
+        },
+        "zh": {
+          "text": "去机场的列车在几号站台？",
+          "ttsText": "去机场的列车在几号站台？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qù jīchǎng de lièchē zài jǐ hào zhàntái?"
+          }
+        },
+        "ko": {
+          "text": "공항행 열차는 몇 번 승강장에서 타나요?",
+          "ttsText": "공항행 열차는 몇 번 승강장에서 타나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "乗り場と乗り換え",
+        "en": "Platforms and connections"
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "三番線です。次の電車は十分後に出ます。",
+          "ttsText": "さんばんせんです。つぎのでんしゃはじゅっぷんごにでます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Platform three. The next train leaves in ten minutes.",
+          "ttsText": "Platform three. The next train leaves in ten minutes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Del andén tres. El próximo tren sale dentro de diez minutos.",
+          "ttsText": "Del andén tres. El próximo tren sale dentro de diez minutos.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Du quai trois. Le prochain train part dans dix minutes.",
+          "ttsText": "Du quai trois. Le prochain train part dans dix minutes.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Von Gleis drei. Der nächste Zug fährt in zehn Minuten ab.",
+          "ttsText": "Von Gleis drei. Der nächste Zug fährt in zehn Minuten ab.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "С третьей платформы. Следующий поезд отправляется через десять минут.",
+          "ttsText": "С третьей платформы. Следующий поезд отправляется через десять минут.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "من الرصيف الثالث. ينطلق القطار القادم بعد عشر دقائق.",
+          "ttsText": "من الرصيف الثالث. ينطلق القطار القادم بعد عشر دقائق.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Mina ar-raṣīfi ath-thālithi. Yanṭaliqu al-qiṭāru al-qādimu baʿda ʿashri daqāʾiqa.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：ath-thālithi → ath-thālith、daqāʾiqa → daqāʾiq。 Mina ar-raṣīfi ath-thālithi は連読すると mina r-raṣīfi th-thālithi とつながります。",
+              "en": "Pausal forms at the sentence breaks here: ath-thālithi → ath-thālith; daqāʾiqa → daqāʾiq. In connected speech, Mina ar-raṣīfi ath-thālithi is linked as mina r-raṣīfi th-thālithi."
+            }
+          }
+        },
+        "zh": {
+          "text": "三号站台。下一班车十分钟后出发。",
+          "ttsText": "三号站台。下一班车十分钟后出发。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Sān hào zhàntái. Xià yī bān chē shí fēnzhōng hòu chūfā.",
+            "note": {
+              "ja": "この文では、発音時に yī bān → yì bān となります。",
+              "en": "In this sentence, the spoken forms are yī bān → yì bān."
+            }
+          }
+        },
+        "ko": {
+          "text": "삼 번 승강장이에요. 다음 열차는 십 분 후에 출발해요.",
+          "ttsText": "삼 번 승강장이에요. 다음 열차는 십 분 후에 출발해요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "途中で乗り換える必要はありますか。",
+          "ttsText": "とちゅうでのりかえるひつようはありますか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Do I need to change trains on the way?",
+          "ttsText": "Do I need to change trains on the way?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿Tengo que hacer transbordo?",
+          "ttsText": "¿Tengo que hacer transbordo?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Est-ce que je dois changer de train en route ?",
+          "ttsText": "Est-ce que je dois changer de train en route ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Muss ich unterwegs umsteigen?",
+          "ttsText": "Muss ich unterwegs umsteigen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Нужно ли делать пересадку?",
+          "ttsText": "Нужно ли делать пересадку?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "هل أحتاج إلى تغيير القطار في الطريق؟",
+          "ttsText": "هل أحتاج إلى تغيير القطار في الطريق؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Hal ʾaḥtāju ʾilā taghyīri al-qiṭāri fī aṭ-ṭarīqi?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：aṭ-ṭarīqi → aṭ-ṭarīq。 fī aṭ-ṭarīqi は連読すると fī ṭ-ṭarīqi とつながります。",
+              "en": "Pausal forms at the sentence breaks here: aṭ-ṭarīqi → aṭ-ṭarīq. In connected speech, fī aṭ-ṭarīqi is linked as fī ṭ-ṭarīqi."
+            }
+          }
+        },
+        "zh": {
+          "text": "中途需要换乘吗？",
+          "ttsText": "中途需要换乘吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhōngtú xūyào huànchéng ma?"
+          }
+        },
+        "ko": {
+          "text": "중간에 갈아타야 하나요?",
+          "ttsText": "중간에 갈아타야 하나요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "いいえ、この電車で空港まで行けます。",
+          "ttsText": "いいえ、このでんしゃでくうこうまでいけます。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "No, this train takes you all the way to the airport.",
+          "ttsText": "No, this train takes you all the way to the airport.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No, este tren llega directamente al aeropuerto.",
+          "ttsText": "No, este tren llega directamente al aeropuerto.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Non, ce train va directement à l'aéroport.",
+          "ttsText": "Non, ce train va directement à l'aéroport.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Nein, dieser Zug fährt direkt bis zum Flughafen.",
+          "ttsText": "Nein, dieser Zug fährt direkt bis zum Flughafen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Нет, на этом поезде можно доехать до аэропорта.",
+          "ttsText": "Нет, на этом поезде можно доехать до аэропорта.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لا، يمكنك الوصول إلى المطار بهذا القطار.",
+          "ttsText": "لا، يمكنك الوصول إلى المطار بهذا القطار.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā, yumkinuka al-wuṣūlu ʾilā al-maṭāri bihādhā al-qiṭāri.",
+            "note": {
+              "ja": "yumkinuka は男性一人に話す形です。女性一人に話す場合は yumkinuki になります。 この文で区切って読むときの休止形：al-qiṭāri → al-qiṭār。 bihādhā al-qiṭāri は連読すると bihādhā l-qiṭāri とつながります。",
+              "en": "yumkinuka addresses one man; use yumkinuki when addressing one woman. Pausal forms at the sentence breaks here: al-qiṭāri → al-qiṭār. In connected speech, bihādhā al-qiṭāri is linked as bihādhā l-qiṭāri."
+            }
+          }
+        },
+        "zh": {
+          "text": "不需要，这趟车可以直达机场。",
+          "ttsText": "不需要，这趟车可以直达机场。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù xūyào, zhè tàng chē kěyǐ zhídá jīchǎng.",
+            "note": {
+              "ja": "この文では、発音時に kěyǐ → kéyǐ となります。",
+              "en": "In this sentence, the spoken forms are kěyǐ → kéyǐ."
+            }
+          }
+        },
+        "ko": {
+          "text": "아니요, 이 열차로 공항까지 갈 수 있어요.",
+          "ttsText": "아니요, 이 열차로 공항까지 갈 수 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u022",
+      "languages": {
+        "ja": {
+          "text": "電車が遅れています。",
+          "ttsText": "でんしゃがおくれています。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "The train is delayed.",
+          "ttsText": "The train is delayed.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "El tren lleva retraso.",
+          "ttsText": "El tren lleva retraso.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Le train a du retard.",
+          "ttsText": "Le train a du retard.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Der Zug hat Verspätung.",
+          "ttsText": "Der Zug hat Verspätung.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Поезд задерживается.",
+          "ttsText": "Поезд задерживается.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "القطار متأخر.",
+          "ttsText": "القطار متأخر.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-qiṭāru mutaʾakhkhirun.",
+            "note": {
+              "ja": "この文末で区切るときは mutaʾakhkhirun → mutaʾakhkhir となります。",
+              "en": "At the end of this sentence, the pausal form is mutaʾakhkhirun → mutaʾakhkhir."
+            }
+          }
+        },
+        "zh": {
+          "text": "火车晚点了。",
+          "ttsText": "火车晚点了。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Huǒchē wǎndiǎn le.",
+            "note": {
+              "ja": "この文では、発音時に wǎndiǎn → wándiǎn となります。",
+              "en": "In this sentence, the spoken form is wǎndiǎn → wándiǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "열차가 지연되고 있어요.",
+          "ttsText": "열차가 지연되고 있어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "遅延と次の電車",
+        "en": "Delays and the next train"
+      }
+    },
+    {
+      "id": "u023",
+      "languages": {
+        "ja": {
+          "text": "次の電車は何時ですか。",
+          "ttsText": "つぎのでんしゃはなんじですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "What time is the next train?",
+          "ttsText": "What time is the next train?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "¿A qué hora sale el próximo tren?",
+          "ttsText": "¿A qué hora sale el próximo tren?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "À quelle heure est le prochain train ?",
+          "ttsText": "À quelle heure est le prochain train ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Wann fährt der nächste Zug?",
+          "ttsText": "Wann fährt der nächste Zug?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Во сколько следующий поезд?",
+          "ttsText": "Во сколько следующий поезд?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "متى ينطلق القطار التالي؟",
+          "ttsText": "متى ينطلق القطار التالي؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Matā yanṭaliqu al-qiṭāru at-tālī?",
+            "note": {
+              "ja": "al-qiṭāru at-tālī は連読で al-qiṭāru t-tālī とつながります。",
+              "en": "In connected speech, al-qiṭāru at-tālī is linked as al-qiṭāru t-tālī."
+            }
+          }
+        },
+        "zh": {
+          "text": "下一班火车是几点？",
+          "ttsText": "下一班火车是几点？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xià yī bān huǒchē shì jǐ diǎn?",
+            "note": {
+              "ja": "この文では、発音時に yī bān / jǐ diǎn → yì bān / jí diǎn となります。",
+              "en": "In this sentence, the spoken form is yī bān / jǐ diǎn → yì bān / jí diǎn."
+            }
+          }
+        },
+        "ko": {
+          "text": "다음 열차는 몇 시인가요?",
+          "ttsText": "다음 열차는 몇 시인가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u013",
+      "languages": {
+        "ja": {
+          "text": "すみません、次は空港ですか。",
+          "ttsText": "すみません、つぎはくうこうですか。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Excuse me, is the next stop the airport?",
+          "ttsText": "Excuse me, is the next stop the airport?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Disculpe, ¿la próxima parada es el aeropuerto?",
+          "ttsText": "Disculpe, ¿la próxima parada es el aeropuerto?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Excusez-moi, le prochain arrêt, c'est l'aéroport ?",
+          "ttsText": "Excusez-moi, le prochain arrêt, c'est l'aéroport ?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Entschuldigung, ist der nächste Halt der Flughafen?",
+          "ttsText": "Entschuldigung, ist der nächste Halt der Flughafen?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Извините, следующая остановка — аэропорт?",
+          "ttsText": "Извините, следующая остановка — аэропорт?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا، هل المحطة القادمة هي المطار؟",
+          "ttsText": "عفوا، هل المحطة القادمة هي المطار؟",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan, hal al-maḥaṭṭatu al-qādimatu hiya al-maṭāru?",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：al-maṭāru → al-maṭār。 hal al-maḥaṭṭatu al-qādimatu は連読すると hali l-maḥaṭṭatu l-qādimatu とつながります。",
+              "en": "Pausal forms at the sentence breaks here: al-maṭāru → al-maṭār. In connected speech, hal al-maḥaṭṭatu al-qādimatu is linked as hali l-maḥaṭṭatu l-qādimatu."
+            }
+          }
+        },
+        "zh": {
+          "text": "请问，下一站是机场吗？",
+          "ttsText": "请问，下一站是机场吗？",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐngwèn, xià yī zhàn shì jīchǎng ma?",
+            "note": {
+              "ja": "この文では、発音時に yī zhàn → yí zhàn となります。",
+              "en": "In this sentence, the spoken forms are yī zhàn → yí zhàn."
+            }
+          }
+        },
+        "ko": {
+          "text": "실례합니다. 다음 역이 공항인가요?",
+          "ttsText": "실례합니다. 다음 역이 공항인가요?",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "降りる駅を確かめる",
+        "en": "Checking where to get off"
+      }
+    },
+    {
+      "id": "u014",
+      "languages": {
+        "ja": {
+          "text": "いいえ、空港はその次です。",
+          "ttsText": "いいえ、くうこうはそのつぎです。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "No, the airport is the stop after that.",
+          "ttsText": "No, the airport is the stop after that.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "No, el aeropuerto es la siguiente después de esa.",
+          "ttsText": "No, el aeropuerto es la siguiente después de esa.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Non, l'aéroport, c'est l'arrêt d'après.",
+          "ttsText": "Non, l'aéroport, c'est l'arrêt d'après.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Nein, der Flughafen ist der übernächste Halt.",
+          "ttsText": "Nein, der Flughafen ist der übernächste Halt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Нет, аэропорт через одну остановку.",
+          "ttsText": "Нет, аэропорт через одну остановку.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "لا، المطار هو المحطة التي بعدها.",
+          "ttsText": "لا، المطار هو المحطة التي بعدها.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Lā, al-maṭāru huwa al-maḥaṭṭatu allatī baʿdahā.",
+            "note": {
+              "ja": "al-maḥaṭṭatu allatī は連読すると al-maḥaṭṭatu llatī とつながります。",
+              "en": "In connected speech, al-maḥaṭṭatu allatī is linked as al-maḥaṭṭatu llatī."
+            }
+          }
+        },
+        "zh": {
+          "text": "不是，机场是再下一站。",
+          "ttsText": "不是，机场是再下一站。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù shì, jīchǎng shì zài xià yī zhàn.",
+            "note": {
+              "ja": "この文では、発音時に Bù shì → Bú shì、yī zhàn → yí zhàn となります。",
+              "en": "In this sentence, the spoken forms are Bù shì → Bú shì; yī zhàn → yí zhàn."
+            }
+          }
+        },
+        "ko": {
+          "text": "아니요, 공항은 그다음 역이에요.",
+          "ttsText": "아니요, 공항은 그다음 역이에요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u015",
+      "languages": {
+        "ja": {
+          "text": "ありがとうございます。降りるところでした。",
+          "ttsText": "ありがとうございます。おりるところでした。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Thank you. I was about to get off.",
+          "ttsText": "Thank you. I was about to get off.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Gracias. Estaba a punto de bajarme.",
+          "ttsText": "Gracias. Estaba a punto de bajarme.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Merci. J'allais descendre.",
+          "ttsText": "Merci. J'allais descendre.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Danke. Ich wollte gerade aussteigen.",
+          "ttsText": "Danke. Ich wollte gerade aussteigen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Спасибо. Я уже собирался выходить.",
+          "ttsText": "Спасибо. Я уже собирался выходить.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "男性の話者の形 собирался です。女性の話者なら собиралась になります。",
+              "en": "The speaker is male (собирался); a female speaker uses собиралась."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "شكرا، كنت على وشك النزول.",
+          "ttsText": "شكرا، كنت على وشك النزول.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Shukran, kuntu ʿalā washki an-nuzūli.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：an-nuzūli → an-nuzūl。 washki an-nuzūli は連読すると washki n-nuzūli とつながります。",
+              "en": "Pausal forms at the sentence breaks here: an-nuzūli → an-nuzūl. In connected speech, washki an-nuzūli is linked as washki n-nuzūli."
+            }
+          }
+        },
+        "zh": {
+          "text": "谢谢，我差点就下车了。",
+          "ttsText": "谢谢，我差点就下车了。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Xièxie, wǒ chàdiǎn jiù xià chē le."
+          }
+        },
+        "ko": {
+          "text": "감사합니다. 내릴 뻔했어요.",
+          "ttsText": "감사합니다. 내릴 뻔했어요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u016",
+      "languages": {
+        "ja": {
+          "text": "どういたしまして。もうすぐ着きますよ。",
+          "ttsText": "どういたしまして。もうすぐつきますよ。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "You're welcome. We'll be there soon.",
+          "ttsText": "You're welcome. We'll be there soon.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "De nada. Ya llegamos pronto.",
+          "ttsText": "De nada. Ya llegamos pronto.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Je vous en prie. On arrive bientôt.",
+          "ttsText": "Je vous en prie. On arrive bientôt.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Gern geschehen. Wir sind bald da.",
+          "ttsText": "Gern geschehen. Wir sind bald da.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Не за что. Скоро приедем.",
+          "ttsText": "Не за что. Скоро приедем.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "عفوا، سنصل قريبا.",
+          "ttsText": "عفوا، سنصل قريبا.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʿAfwan, sanaṣilu qarīban.",
+            "note": {
+              "ja": "この文で区切って読むときの休止形：qarīban → qarībā。",
+              "en": "Pausal forms at the sentence breaks here: qarīban → qarībā."
+            }
+          }
+        },
+        "zh": {
+          "text": "不客气，我们快到了。",
+          "ttsText": "不客气，我们快到了。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù kèqi, wǒmen kuài dào le.",
+            "note": {
+              "ja": "この文では、発音時に Bù kèqi → Bú kèqi となります。",
+              "en": "In this sentence, the spoken forms are Bù kèqi → Bú kèqi."
+            }
+          }
+        },
+        "ko": {
+          "text": "천만에요. 곧 도착해요.",
+          "ttsText": "천만에요. 곧 도착해요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    },
+    {
+      "id": "u024",
+      "languages": {
+        "ja": {
+          "text": "このホテルまでお願いします。",
+          "ttsText": "このほてるまでおねがいします。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "To this hotel, please.",
+          "ttsText": "To this hotel, please.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "A este hotel, por favor.",
+          "ttsText": "A este hotel, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "À cet hôtel, s'il vous plaît.",
+          "ttsText": "À cet hôtel, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Zu diesem Hotel, bitte.",
+          "ttsText": "Zu diesem Hotel, bitte.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "До этой гостиницы, пожалуйста.",
+          "ttsText": "До этой гостиницы, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "إلى هذا الفندق، من فضلك.",
+          "ttsText": "إلى هذا الفندق، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾIlā hādhā al-funduqi, min faḍlika.",
+            "note": {
+              "ja": "faḍlika は男性一人に話す形です。女性一人には faḍliki を使います。 hādhā al-funduqi は連読で hādhā l-funduqi とつながります。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "faḍlika addresses one man; use faḍliki for one woman. In connected speech, hādhā al-funduqi is linked as hādhā l-funduqi. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "麻烦送我到这家酒店。",
+          "ttsText": "麻烦送我到这家酒店。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Máfan sòng wǒ dào zhè jiā jiǔdiàn."
+          }
+        },
+        "ko": {
+          "text": "이 호텔까지 가 주세요.",
+          "ttsText": "이 호텔까지 가 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      },
+      "heading": {
+        "ja": "タクシーで行き先を伝える",
+        "en": "Giving directions in a taxi"
+      }
+    },
+    {
+      "id": "u025",
+      "languages": {
+        "ja": {
+          "text": "ここで降ろしてください。",
+          "ttsText": "ここでおろしてください。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "en": {
+          "text": "Please drop me off here.",
+          "ttsText": "Please drop me off here.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "es": {
+          "text": "Déjeme aquí, por favor.",
+          "ttsText": "Déjeme aquí, por favor.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "fr": {
+          "text": "Déposez-moi ici, s'il vous plaît.",
+          "ttsText": "Déposez-moi ici, s'il vous plaît.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "de": {
+          "text": "Lassen Sie mich bitte hier aussteigen.",
+          "ttsText": "Lassen Sie mich bitte hier aussteigen.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ru": {
+          "text": "Высадите меня здесь, пожалуйста.",
+          "ttsText": "Высадите меня здесь, пожалуйста.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        },
+        "ar": {
+          "text": "أنزلني هنا، من فضلك.",
+          "ttsText": "أنزلني هنا، من فضلك.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾAnzilnī hunā, min faḍlika.",
+            "note": {
+              "ja": "ʾAnzilnī / faḍlika は男性一人に話す形です。女性一人には ʾAnzilīnī / faḍliki を使います。 この文末で区切るときは faḍlika → faḍlik となります。",
+              "en": "ʾAnzilnī / faḍlika addresses one man; use ʾAnzilīnī / faḍliki for one woman. At the end of this sentence, the pausal form is faḍlika → faḍlik."
+            }
+          }
+        },
+        "zh": {
+          "text": "请在这里让我下车。",
+          "ttsText": "请在这里让我下车。",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng zài zhèli ràng wǒ xià chē."
+          }
+        },
+        "ko": {
+          "text": "여기서 내려 주세요.",
+          "ttsText": "여기서 내려 주세요.",
+          "vocabulary": [],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          }
+        }
+      }
+    }
+  ]
+}

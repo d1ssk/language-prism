@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2141eb25059ddf23c037a683324cbc05678867d0c4ea123af2f7aed6965206a3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Podemos aventurar una mirada profética al futuro hasta el punto de predecir que serán las especies comunes y ampliamente distribuidas, pertenecientes a los grupos mayores y dominantes, las que acabarán prevaleciendo y originando nuevas especies dominantes.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ead4fa27f00173d10f259bc5df2852ec6f9f2f130f2b41f4c682cdf8bc307375",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:23:44.526454+00:00"
+}

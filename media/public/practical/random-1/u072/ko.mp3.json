@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b8a3cc9a1f5b563794f92f8d365fb0db3f1ad8bd6c7289a4ac0ededc631a9911",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "어제까지만 해도 어렵다고 생각했던 것이 어느 순간 갑자기 이해될 때가 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9d07b2bb17ee49958fc89f87c4e67dd8f29669dfb7de57ffcbc15666b10c19fd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:58:12.979464+00:00"
+}

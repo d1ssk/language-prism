@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d005b25facd1a9e30bc8d68b4d6baac32021d3b7441493c8de33f9ee5ed2f352",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ты знаешь поблизости тихое кафе, где можно спокойно поговорить?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4c517b14215d93755595a0421fa751648d3fe12e07733cb14c9b9978e32982d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:19.214560+00:00"
+}

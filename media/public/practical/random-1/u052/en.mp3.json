@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a00aed954f4beaaad7544ce6391ef9945885aa87eaa1c18571339e689d55600e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In mathematics, we sometimes start with a specific problem and discover a more general structure.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7f3f48400f87cdb17308eaeab6fc98040d6a14b71f76165ebe13eba495cbfb84",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:16.912905+00:00"
+}

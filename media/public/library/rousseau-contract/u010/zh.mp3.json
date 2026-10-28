@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "da58b915b819bce7b5069647eaf50cce57b98776806eabec6de07016bf0b710c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在谈到那里之前，我必须先证明我刚才提出的观点。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ca3530395f0c2b74f4916f66b753882980d5407fca2e4087ea62591cf1e640ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:59:44.157972+00:00"
+}

@@ -1,0 +1,1560 @@
+{
+  "schemaVersion": 1,
+  "id": "mencius-fish",
+  "slug": "mencius-fish",
+  "type": "library",
+  "title": {
+    "ja": "孟子",
+    "en": "Mencius"
+  },
+  "description": {
+    "ja": "「告子上」第10章より、魚と熊の掌、生命と義を比べる冒頭の一節。",
+    "en": "The opening comparison of fish and bear’s paw, life and righteousness, from Gaozi I, section 10."
+  },
+  "originalLanguage": "zh",
+  "author": "孟子",
+  "bibliography": {
+    "originalTitle": "孟子",
+    "originalAuthor": "孟子",
+    "title": {
+      "ja": "孟子",
+      "en": "Mencius"
+    },
+    "author": {
+      "ja": "孟子",
+      "en": "Mencius"
+    }
+  },
+  "sourceTitle": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）",
+  "sourceURL": "https://zh.wikisource.org/zh-hant/孟子·告子上",
+  "rights": {
+    "ja": "原文は著作権保護期間を満了した作品です。著者と採用した原典を明記しています。",
+    "en": "The original work is in the public domain; the author and the source used are identified."
+  },
+  "license": "Original work: public domain. New translations and notes: no separate licence specified.",
+  "attribution": {
+    "ja": "原文：孟子。収録元：維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）。他言語訳・読み・解説：ChatGPT。音声：Chatterbox。",
+    "en": "Original: 孟子. Source: 維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）. New translations, readings and notes: ChatGPT. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "原文を意味単位に分け、他の8言語は本サイト用に新しく訳しています。既存の翻訳版は転載していません。訳・読み・解説・生成音声は専門家未校閲です。中国語欄は古典中国語の原文で、拼音・音声は現代標準中国語による読みです。日本語欄は訓読ではなく現代語訳です。音声入力の「辟」は、意味と読みが対応する「避」に調整しています。",
+    "en": "The original is divided into meaning units. The other eight versions are new translations for this site, not copies of published translations. Translations, readings, notes and generated audio have not been reviewed by specialists. Chinese entries retain the Classical Chinese original; pinyin and speech use modern Standard Mandarin. Japanese is a modern translation, not a traditional kundoku reading. In speech input, 辟 is replaced by 避 to indicate the intended reading."
+  },
+  "excerpt": {
+    "isExcerpt": true,
+    "location": {
+      "ja": "「告子上」第10章の冒頭6文。「魚，我所欲也」から「故患有所不辟也」まで。",
+      "en": "Gaozi I, section 10, the first six sentences, from 魚，我所欲也 to 故患有所不辟也."
+    }
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "魚は私の欲するものだ。熊の掌もまた、私の欲するものだ。",
+          "ttsText": "うおはわたしのほっするものだ。くまのてのひらもまた、わたしのほっするものだ。",
+          "vocabulary": [
+            {
+              "term": "欲する",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Fish is something I desire; bear’s paw is also something I desire.",
+          "ttsText": "Fish is something I desire; bear’s paw is also something I desire.",
+          "vocabulary": [
+            {
+              "term": "desire",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "El pescado es algo que deseo; la pata de oso también es algo que deseo.",
+          "ttsText": "El pescado es algo que deseo; la pata de oso también es algo que deseo.",
+          "vocabulary": [
+            {
+              "term": "deseo",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Le poisson est ce que je désire ; la patte d'ours est aussi ce que je désire.",
+          "ttsText": "Le poisson est ce que je désire ; la patte d'ours est aussi ce que je désire.",
+          "vocabulary": [
+            {
+              "term": "désire",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Fisch ist etwas, das ich begehre; eine Bärentatze ist ebenfalls etwas, das ich begehre.",
+          "ttsText": "Fisch ist etwas, das ich begehre; eine Bärentatze ist ebenfalls etwas, das ich begehre.",
+          "vocabulary": [
+            {
+              "term": "begehre",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Рыба — то, чего я желаю; медвежья лапа — тоже то, чего я желаю.",
+          "ttsText": "Рыба — то, чего я желаю; медвежья лапа — тоже то, чего я желаю.",
+          "vocabulary": [
+            {
+              "term": "желаю",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "السمك مما أرغب فيه، وكف الدب أيضًا مما أرغب فيه.",
+          "ttsText": "السمك مما أرغب فيه، وكف الدب أيضًا مما أرغب فيه.",
+          "vocabulary": [
+            {
+              "term": "أرغب",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "As-samaku mimmā arghabu fīhi, wa-kaffu ad-dubbi ayḍan mimmā arghabu fīhi.",
+            "note": {
+              "ja": "ad-dubbi は冠詞の d が重なる読みです。fīhi で休止する場合は fīh となります。 末尾の fīhi は、そこで区切る場合 fīh と読みます。",
+              "en": "In ad-dubbi, d is doubled. If pausing after fīhi, it becomes fīh. At a pause here, final fīhi is pronounced fīh."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "魚，我所欲也；熊掌，亦我所欲也。",
+          "ttsText": "魚，我所欲也；熊掌，亦我所欲也。",
+          "vocabulary": [
+            {
+              "term": "欲",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "所＋動詞で「〜するもの」。亦は「〜もまた」、也は判断を示す文末の助字です。熊掌はこの比較では魚より重んじられる食物として置かれています。",
+              "en": "所 + verb nominalizes what is desired. 亦 means also, and 也 marks an assertion. Bear’s paw is introduced as the more highly valued food in the comparison."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yú, wǒ suǒ yù yě; xióngzhǎng, yì wǒ suǒ yù yě.",
+            "note": {
+              "ja": "我所の wǒ suǒ は wó suǒ と発音します。",
+              "en": "我所, wǒ suǒ, is spoken as wó suǒ."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "물고기는 내가 바라는 것이며, 곰의 발바닥도 내가 바라는 것이다.",
+          "ttsText": "물고기는 내가 바라는 것이며, 곰의 발바닥도 내가 바라는 것이다.",
+          "vocabulary": [
+            {
+              "term": "바라는",
+              "meaning": {
+                "ja": "手に入れたい、得たいと思うこと。",
+                "en": "Wanting or desiring to obtain something."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "両方を同時に得られないなら、魚を捨てて熊の掌を取る。",
+          "ttsText": "りょうほうをどうじにえられないなら、うおをすててくまのてのひらをとる。",
+          "vocabulary": [
+            {
+              "term": "取る",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "If I cannot have both, I give up the fish and take the bear’s paw.",
+          "ttsText": "If I cannot have both, I give up the fish and take the bear’s paw.",
+          "vocabulary": [
+            {
+              "term": "take",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si no puedo tener ambas cosas, dejo el pescado y elijo la pata de oso.",
+          "ttsText": "Si no puedo tener ambas cosas, dejo el pescado y elijo la pata de oso.",
+          "vocabulary": [
+            {
+              "term": "elijo",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si je ne peux avoir les deux, je renonce au poisson et choisis la patte d'ours.",
+          "ttsText": "Si je ne peux avoir les deux, je renonce au poisson et choisis la patte d'ours.",
+          "vocabulary": [
+            {
+              "term": "choisis",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wenn ich nicht beides zugleich haben kann, verzichte ich auf den Fisch und nehme die Bärentatze.",
+          "ttsText": "Wenn ich nicht beides zugleich haben kann, verzichte ich auf den Fisch und nehme die Bärentatze.",
+          "vocabulary": [
+            {
+              "term": "nehme",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если нельзя получить и то и другое, я откажусь от рыбы и выберу медвежью лапу.",
+          "ttsText": "Если нельзя получить и то и другое, я откажусь от рыбы и выберу медвежью лапу.",
+          "vocabulary": [
+            {
+              "term": "выберу",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "فإن لم أستطع الجمع بينهما، تركت السمك واخترت كف الدب.",
+          "ttsText": "فإن لم أستطع الجمع بينهما، تركت السمك واخترت كف الدب.",
+          "vocabulary": [
+            {
+              "term": "اخترت",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-in lam astaṭiʿ al-jamʿa baynahumā, taraktu as-samaka wa-ikhtartu kaffa ad-dubbi.",
+            "note": {
+              "ja": "文末 ad-dubbi は休止時 ad-dubb と読みます。",
+              "en": "Final ad-dubbi is pronounced ad-dubb at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "二者不可得兼，舍魚而取熊掌者也。",
+          "ttsText": "二者不可得兼，舍魚而取熊掌者也。",
+          "vocabulary": [
+            {
+              "term": "取",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "兼は両方を一緒に得ること。舍は捨てる意味で shě と読みます。者也が結びを作り、而が「捨てる」と「取る」をつなぎます。",
+              "en": "兼 means having both together. 舍 means give up and is read shě. 者也 closes the assertion, while 而 connects giving up one thing and taking the other."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Èr zhě bù kě dé jiān, shě yú ér qǔ xióngzhǎng zhě yě.",
+            "note": {
+              "ja": "舍は shě。「住居」を意味する shè ではありません。熊掌者也の連続する第3声は、句切り方に応じて前の音節が上昇調になります。",
+              "en": "舍 is shě, not shè (“dwelling”). The third-tone sequence in 熊掌者也 is grouped in speech, with earlier syllables becoming rising tones."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "둘 다 얻을 수 없다면 물고기를 버리고 곰의 발바닥을 택한다.",
+          "ttsText": "둘 다 얻을 수 없다면 물고기를 버리고 곰의 발바닥을 택한다.",
+          "vocabulary": [
+            {
+              "term": "택한다",
+              "meaning": {
+                "ja": "二つのうち価値を置く方を選ぶこと。",
+                "en": "Choosing the one valued more highly."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "生命もまた私の欲するものだ。義もまた、私の欲するものだ。",
+          "ttsText": "せいめいもまたわたしのほっするものだ。ぎもまた、わたしのほっするものだ。",
+          "vocabulary": [
+            {
+              "term": "義",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Life is also something I desire; righteousness is also something I desire.",
+          "ttsText": "Life is also something I desire; righteousness is also something I desire.",
+          "vocabulary": [
+            {
+              "term": "righteousness",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "La vida también es algo que deseo; la rectitud también es algo que deseo.",
+          "ttsText": "La vida también es algo que deseo; la rectitud también es algo que deseo.",
+          "vocabulary": [
+            {
+              "term": "rectitud",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "La vie est aussi ce que je désire ; la droiture est aussi ce que je désire.",
+          "ttsText": "La vie est aussi ce que je désire ; la droiture est aussi ce que je désire.",
+          "vocabulary": [
+            {
+              "term": "droiture",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Das Leben ist ebenfalls etwas, das ich begehre; Rechtschaffenheit ist ebenfalls etwas, das ich begehre.",
+          "ttsText": "Das Leben ist ebenfalls etwas, das ich begehre; Rechtschaffenheit ist ebenfalls etwas, das ich begehre.",
+          "vocabulary": [
+            {
+              "term": "Rechtschaffenheit",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Жизнь — тоже то, чего я желаю; праведность — тоже то, чего я желаю.",
+          "ttsText": "Жизнь — тоже то, чего я желаю; праведность — тоже то, чего я желаю.",
+          "vocabulary": [
+            {
+              "term": "праведность",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "الحياة أيضًا مما أرغب فيه، والاستقامة أيضًا مما أرغب فيه.",
+          "ttsText": "الحياة أيضًا مما أرغب فيه، والاستقامة أيضًا مما أرغب فيه.",
+          "vocabulary": [
+            {
+              "term": "الاستقامة",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥayātu ayḍan mimmā arghabu fīhi, wa-al-istiqāmatu ayḍan mimmā arghabu fīhi.",
+            "note": {
+              "ja": "末尾の fīhi は、そこで区切る場合 fīh と読みます。",
+              "en": "At a pause here, final fīhi is pronounced fīh."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "生，亦我所欲也；義，亦我所欲也。",
+          "ttsText": "生，亦我所欲也；義，亦我所欲也。",
+          "vocabulary": [
+            {
+              "term": "義",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "魚と熊掌の対比を、生と義へ移します。義は状況にかなう道徳的な正しさで、単なる個人的な好みとは区別されます。",
+              "en": "The comparison shifts from fish and bear’s paw to life and 義: moral rightness or righteousness, distinguished from a mere personal preference."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shēng, yì wǒ suǒ yù yě; yì, yì wǒ suǒ yù yě.",
+            "note": {
+              "ja": "義と亦はどちらも yì。我所は wó suǒ と発音します。",
+              "en": "義 and 亦 are both yì. 我所 is spoken as wó suǒ."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "삶도 내가 바라는 것이며, 의로움도 내가 바라는 것이다.",
+          "ttsText": "삶도 내가 바라는 것이며, 의로움도 내가 바라는 것이다.",
+          "vocabulary": [
+            {
+              "term": "의로움",
+              "meaning": {
+                "ja": "なすべきことをなす道徳的な正しさ。",
+                "en": "The moral rightness of doing what one ought to do."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "両方を同時に得られないなら、生命を捨てて義を取る。",
+          "ttsText": "りょうほうをどうじにえられないなら、せいめいをすててぎをとる。",
+          "vocabulary": [
+            {
+              "term": "両方",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "If I cannot have both, I give up life and choose righteousness.",
+          "ttsText": "If I cannot have both, I give up life and choose righteousness.",
+          "vocabulary": [
+            {
+              "term": "both",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Si no puedo tener ambas, renuncio a la vida y elijo la rectitud.",
+          "ttsText": "Si no puedo tener ambas, renuncio a la vida y elijo la rectitud.",
+          "vocabulary": [
+            {
+              "term": "ambas",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Si je ne peux avoir les deux, je renonce à la vie et choisis la droiture.",
+          "ttsText": "Si je ne peux avoir les deux, je renonce à la vie et choisis la droiture.",
+          "vocabulary": [
+            {
+              "term": "les deux",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wenn ich nicht beides zugleich haben kann, gebe ich das Leben auf und wähle die Rechtschaffenheit.",
+          "ttsText": "Wenn ich nicht beides zugleich haben kann, gebe ich das Leben auf und wähle die Rechtschaffenheit.",
+          "vocabulary": [
+            {
+              "term": "beides",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Если нельзя сохранить и то и другое, я откажусь от жизни и выберу праведность.",
+          "ttsText": "Если нельзя сохранить и то и другое, я откажусь от жизни и выберу праведность.",
+          "vocabulary": [
+            {
+              "term": "и то и другое",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "فإن لم أستطع الجمع بينهما، تركت الحياة واخترت الاستقامة.",
+          "ttsText": "فإن لم أستطع الجمع بينهما، تركت الحياة واخترت الاستقامة.",
+          "vocabulary": [
+            {
+              "term": "الجمع بينهما",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Fa-in lam astaṭiʿ al-jamʿa baynahumā, taraktu al-ḥayāta wa-ikhtartu al-istiqāmata.",
+            "note": {
+              "ja": "文末 al-istiqāmata は、休止時 al-istiqāmah となります。",
+              "en": "Final al-istiqāmata becomes al-istiqāmah at a pause."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "二者不可得兼，捨生而取義者也。",
+          "ttsText": "二者不可得兼，捨生而取義者也。",
+          "vocabulary": [
+            {
+              "term": "兼",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "二つ前の文と同じ構文を反復し、魚→生、熊掌→義へ語を置き換えて論を進めています。本文の舍／捨の字形差は採用版のままです。",
+              "en": "This repeats the structure of the earlier choice, replacing fish with life and bear’s paw with righteousness. The source’s differing forms 舍 and 捨 are retained."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Èr zhě bù kě dé jiān, shě shēng ér qǔ yì zhě yě.",
+            "note": {
+              "ja": "捨は shě。文末の者也は zhé yě と発音します。",
+              "en": "捨 is shě. Final 者也 is spoken as zhé yě."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "둘 다 얻을 수 없다면 삶을 버리고 의로움을 택한다.",
+          "ttsText": "둘 다 얻을 수 없다면 삶을 버리고 의로움을 택한다.",
+          "vocabulary": [
+            {
+              "term": "둘 다",
+              "meaning": {
+                "ja": "二つを同時に保つこと。",
+                "en": "Having or keeping both at the same time."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "生命も私の欲するものだが、欲するものの中には生命より重いものがある。だから、むやみに生き延びようとはしない。",
+          "ttsText": "せいめいもわたしのほっするものだが、ほっするもののなかにはせいめいよりおもいものがある。だから、むやみにいきのびようとはしない。",
+          "vocabulary": [
+            {
+              "term": "生命より",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Life is something I desire, but there is something I desire more than life; therefore I do not seek to preserve it by any means whatever.",
+          "ttsText": "Life is something I desire, but there is something I desire more than life; therefore I do not seek to preserve it by any means whatever.",
+          "vocabulary": [
+            {
+              "term": "more than life",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "La vida es algo que deseo, pero hay algo que deseo más que la vida; por eso no trato de conservarla a cualquier precio.",
+          "ttsText": "La vida es algo que deseo, pero hay algo que deseo más que la vida; por eso no trato de conservarla a cualquier precio.",
+          "vocabulary": [
+            {
+              "term": "más que la vida",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "La vie est ce que je désire, mais il est des choses que je désire plus que la vie ; c'est pourquoi je ne cherche pas à la conserver à tout prix.",
+          "ttsText": "La vie est ce que je désire, mais il est des choses que je désire plus que la vie ; c'est pourquoi je ne cherche pas à la conserver à tout prix.",
+          "vocabulary": [
+            {
+              "term": "plus que la vie",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Das Leben begehre ich, doch es gibt etwas, das ich mehr begehre als das Leben; deshalb suche ich nicht, es um jeden Preis zu bewahren.",
+          "ttsText": "Das Leben begehre ich, doch es gibt etwas, das ich mehr begehre als das Leben; deshalb suche ich nicht, es um jeden Preis zu bewahren.",
+          "vocabulary": [
+            {
+              "term": "mehr begehre als das Leben",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я желаю жизни, но есть то, чего я желаю больше жизни; поэтому я не стремлюсь сохранить её любой ценой.",
+          "ttsText": "Я желаю жизни, но есть то, чего я желаю больше жизни; поэтому я не стремлюсь сохранить её любой ценой.",
+          "vocabulary": [
+            {
+              "term": "больше жизни",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "الحياة مما أرغب فيه، لكن هناك ما أرغب فيه أكثر من الحياة، ولذلك لا أسعى إلى البقاء بأي وسيلة كانت.",
+          "ttsText": "الحياة مما أرغب فيه، لكن هناك ما أرغب فيه أكثر من الحياة، ولذلك لا أسعى إلى البقاء بأي وسيلة كانت.",
+          "vocabulary": [
+            {
+              "term": "أكثر من الحياة",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Al-ḥayātu mimmā arghabu fīhi, lākinna hunāka mā arghabu fīhi akthara mina al-ḥayāti, wa-lidhālika lā asʿā ilā al-baqāʾi bi-ayyi wasīlatin kānat."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "生亦我所欲，所欲有甚於生者，故不為茍得也。",
+          "ttsText": "生亦我所欲，所欲有甚於生者，故不為茍得也。",
+          "vocabulary": [
+            {
+              "term": "甚於生",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "甚於は「〜より甚だしい」という比較。茍得は道義を顧みず生を得ることです。為はここでは「行う」の意味で wéi と読みます。",
+              "en": "甚於 makes a comparison, “greater than.” 茍得 means obtaining survival without regard for moral rightness. 為 is wéi here, meaning do or pursue."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shēng yì wǒ suǒ yù, suǒ yù yǒu shèn yú shēng zhě, gù bù wéi gǒu dé yě.",
+            "note": {
+              "ja": "為は wéi、茍は gǒu。所欲の所は第3声ですが、次が第4声なので suǒ のままです。",
+              "en": "為 is wéi and 茍 is gǒu. 所 in 所欲 is followed by a fourth tone, so it remains suǒ."
+            }
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "삶도 내가 바라는 것이지만, 삶보다 더 바라는 것이 있으므로 구차하게 목숨을 얻으려 하지 않는다.",
+          "ttsText": "삶도 내가 바라는 것이지만, 삶보다 더 바라는 것이 있으므로 구차하게 목숨을 얻으려 하지 않는다.",
+          "vocabulary": [
+            {
+              "term": "삶보다 더",
+              "meaning": {
+                "ja": "生命を保つことより優先される価値。",
+                "en": "A value given priority over preserving life."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "死もまた私の嫌うものだが、嫌うものの中には死より重いものがある。だから、災いの中にも避けないものがある。",
+          "ttsText": "しもまたわたしのきらうものだが、きらうもののなかにはしよりおもいものがある。だから、わざわいのなかにもさけないものがある。",
+          "vocabulary": [
+            {
+              "term": "避けない",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Death is also something I dislike, but there is something I dislike more than death; therefore there are dangers I do not avoid.",
+          "ttsText": "Death is also something I dislike, but there is something I dislike more than death; therefore there are dangers I do not avoid.",
+          "vocabulary": [
+            {
+              "term": "do not avoid",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "La muerte también es algo que detesto, pero hay algo que detesto más que la muerte; por eso hay peligros que no evito.",
+          "ttsText": "La muerte también es algo que detesto, pero hay algo que detesto más que la muerte; por eso hay peligros que no evito.",
+          "vocabulary": [
+            {
+              "term": "no evito",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "La mort est aussi ce que je déteste, mais il est des choses que je déteste plus que la mort ; c'est pourquoi il est des périls que je n'évite pas.",
+          "ttsText": "La mort est aussi ce que je déteste, mais il est des choses que je déteste plus que la mort ; c'est pourquoi il est des périls que je n'évite pas.",
+          "vocabulary": [
+            {
+              "term": "n'évite",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Auch den Tod verabscheue ich, doch es gibt etwas, das ich mehr verabscheue als den Tod; deshalb gibt es Gefahren, denen ich nicht ausweiche.",
+          "ttsText": "Auch den Tod verabscheue ich, doch es gibt etwas, das ich mehr verabscheue als den Tod; deshalb gibt es Gefahren, denen ich nicht ausweiche.",
+          "vocabulary": [
+            {
+              "term": "nicht ausweiche",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Смерть — тоже то, что я ненавижу, но есть то, что я ненавижу больше смерти; поэтому есть беды, которых я не избегаю.",
+          "ttsText": "Смерть — тоже то, что я ненавижу, но есть то, что я ненавижу больше смерти; поэтому есть беды, которых я не избегаю.",
+          "vocabulary": [
+            {
+              "term": "не избегаю",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "والموت أيضًا مما أكره، لكن هناك ما أكرهه أكثر من الموت، ولذلك توجد أخطار لا أتجنبها.",
+          "ttsText": "والموت أيضًا مما أكره، لكن هناك ما أكرهه أكثر من الموت، ولذلك توجد أخطار لا أتجنبها.",
+          "vocabulary": [
+            {
+              "term": "لا أتجنبها",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "Wa-al-mawtu ayḍan mimmā akrahu, lākinna hunāka mā akrahuhu akthara mina al-mawti, wa-lidhālika tūjadu akhṭārun lā atajannabuhā."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+          "ttsText": "死亦我所惡，所惡有甚於死者，故患有所不避也。",
+          "vocabulary": [
+            {
+              "term": "不辟",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [
+            {
+              "ja": "惡は「嫌う」で wù。患は災い、辟はここでは避に通じ、bì と読みます。前文の「欲する／生」と「嫌う／死」が対になっています。",
+              "en": "惡 means dislike and is read wù. 患 means danger or calamity; 辟 is used for 避 and read bì. The sentence parallels the preceding pairing of desire and life with aversion and death."
+            }
+          ],
+          "translation": {
+            "method": "original",
+            "reviewStatus": "unreviewed",
+            "attribution": "維基文庫 — 孟子／告子上、第10章（繁體字表示、oldid=2637004）"
+          },
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Sǐ yì wǒ suǒ wù, suǒ wù yǒu shèn yú sǐ zhě, gù huàn yǒu suǒ bù bì yě.",
+            "note": {
+              "ja": "惡は wù、辟は bì。不辟は発音時 bú bì となります。死者は sí zhě と発音します。",
+              "en": "惡 is wù and 辟 is bì. 不辟 is spoken as bú bì, and 死者 as sí zhě."
+            }
+          },
+          "references": [
+            {
+              "title": "漢典 — 惡（wù）",
+              "url": "https://www.zdic.net/hans/惡"
+            }
+          ],
+          "audio": {
+            "path": "library/mencius-fish/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "죽음도 내가 싫어하는 것이지만, 죽음보다 더 싫어하는 것이 있으므로 피하지 않는 환난도 있다.",
+          "ttsText": "죽음도 내가 싫어하는 것이지만, 죽음보다 더 싫어하는 것이 있으므로 피하지 않는 환난도 있다.",
+          "vocabulary": [
+            {
+              "term": "피하지 않는",
+              "meaning": {
+                "ja": "道義を優先するため、ある危険から逃げないこと。",
+                "en": "Not evading a danger when moral rightness takes priority."
+              }
+            }
+          ],
+          "grammar": [],
+          "notes": [],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "New translation for language prism, created with ChatGPT."
+          },
+          "audio": {
+            "path": "library/mencius-fish/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ]
+}

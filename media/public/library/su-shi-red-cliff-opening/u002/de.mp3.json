@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e813784ed38c2e8cc31f272b440921b6e47dcd840931895e9be7d55d6c502c90",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Eine frische Brise kam sanft heran, und auf dem Wasser erhoben sich keine Wellen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e222ec3f5f2c1908bc746b81f04e589aa19f441fcd0fb564b6ba9e4de5c15636",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:01:48.518013+00:00"
+}

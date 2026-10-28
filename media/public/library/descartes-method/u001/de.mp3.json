@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1ac80b359334e75d12f1ba66d1fcf76d3ab0c6f3ef919d2fcde9520205bd283e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die erste Regel war, niemals etwas als wahr anzunehmen, solange ich nicht klar erkannte, dass es wahr war;",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "af1a8383d44cf9f80351432b11d3da977596fec90392dbafc3611efe01309fcc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:25:35.328801+00:00"
+}

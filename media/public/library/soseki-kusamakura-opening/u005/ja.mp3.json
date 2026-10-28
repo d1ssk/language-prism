@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "90874afbc56d623f31cbc295ff70d08eb03930da1a8de21cd7b50c262278059d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "とかくにひとのよはすみにくい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "53190451deeacce50ecf294b783efe4e5a46d4ef86abdf7b3a63ffdd04aee460",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:57:23.587035+00:00"
+}

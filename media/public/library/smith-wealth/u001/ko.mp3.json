@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c49350b08e420853ea66826e0c27dcc56fec0f6272cf0113278fab3c711ed17",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러므로 아주 사소한 제조업이지만 분업이 자주 주목받아 온 사례, 곧 핀 제조업을 들어 보자.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5cf1f63d81b07a9f94b50847c17d7cc73e66663285a31f6530021a9add4d7987",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:33:37.574121+00:00"
+}

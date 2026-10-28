@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5570acecef604ae7448b59a8d02ab35ea6ac5dcc8e874d8d01aea972614a6d4b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "En efecto, rematado su juicio, vino a dar en el más extraño pensamiento que jamás dió loco en el mundo;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "02cdc5288acae45efc623c162e0695ce75efa0b165ac5efb1971f5c6d4f52393",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T06:10:52.722388+00:00"
+}

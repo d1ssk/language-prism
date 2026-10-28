@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fad2f684b2901a0e7d3c521c35b0c6fb9490e0d272eb4f2d1452999689784ed7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Tuvo muchas veces competencia con el cura de su lugar (que era hombre docto, graduado en Sigüenza) sobre cuál había sido mejor caballero, Palmerín de Inglaterra o Amadís de Gaula;",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "49b4a81d85829b65148f29121194861f1d80d64a5a3c77cc250ad1de1ec5a3ed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:50:26.094051+00:00"
+}

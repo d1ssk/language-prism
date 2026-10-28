@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "50a3ba6f487f114c161529781c91e0401326e77fa573446859d48dd2894cf2bd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Depuis combien de temps faites-vous ce travail ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1344ab6171b02281c94955130ccd067423dd08b649ae3753edf6ec4ada0d600e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:26:45.174127+00:00"
+}

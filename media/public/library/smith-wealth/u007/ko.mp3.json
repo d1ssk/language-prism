@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2ca2b035d475666c8995121d3b08b8931654f548d38cdaa203a96fa0528f6452",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이처럼 핀 하나를 만드는 중요한 일은 약 열여덟 개의 별도 공정으로 나뉜다. 어떤 공장에서는 모두 다른 사람이 맡지만, 다른 곳에서는 같은 사람이 두세 공정을 맡기도 한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2437ce42e81a31826af9e2abf02fe111af11ba90e0819c224a2aaf93715c37e8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:43:03.187090+00:00"
+}

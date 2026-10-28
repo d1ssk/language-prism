@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cddeeaf71df97bc8370a8b97bcb88d2e24c6fa2f052c94ed0b2c522abf916c7c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "このちかくでおちついてはなせるかふぇをしっていますか？",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e0e83b3827d7f2486857e5d7a2a650832c79afa73132b13811f18ab01c13af0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:14:02.802858+00:00"
+}

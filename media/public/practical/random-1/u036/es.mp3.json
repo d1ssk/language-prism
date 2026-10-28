@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1db98dcce5ebca5a470b420739f1fbed73e962639eeafe04565b9b4a7ba9cf96",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Creo que es importante usar un idioma extranjero un poco cada día para mejorar.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3ce3170b1aa3fe0a429b8f1d4d2f3893d76cd098d6f88d8f20193c3050244cd2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:31:58.956563+00:00"
+}

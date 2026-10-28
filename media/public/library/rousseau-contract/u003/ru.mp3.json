@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b50407ba1b692421cb497fa283ad3900d1bcbb689ef9a8e7f398939def13b59",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Как произошла эта перемена? Я этого не знаю. Что может сделать её законной? Думаю, я могу разрешить этот вопрос.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "58908d9743a3af5de979c28a717a005c2e3e08000d5ee8c64a89a06f255e61c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:53:41.807746+00:00"
+}

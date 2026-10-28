@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3913b02d3b7290e50e1d8d046d5eb9859fb8efb0902855674cfef5facb1f2456",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "دعونا نراجع أهداف هذا المشروع مرة أخرى.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eb8fe5b01ba4ad84b5cd40fe32effe1ab4641370d8cf4233eda7e74cc1f529bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:27:19.320499+00:00"
+}

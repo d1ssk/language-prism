@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "04c3fc054b74429d90bbfbb0d207fa16a0eeef7220d3b3c1b9aaecec104ab97d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "My internet connection is unstable, so the video call might get disconnected.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5ee7e97e29e8d2c49847157768c67a234d780a3cc240dc7fc71918ab846f93c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:47:09.804808+00:00"
+}

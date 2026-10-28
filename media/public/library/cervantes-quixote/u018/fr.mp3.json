@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f4ccabb7d097d5d26768e6c272c2a2ec9406568cc889000d0ea9ccc6ecadadd6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ces raisonnements et leurs semblables faisaient perdre la tête au pauvre gentilhomme, qui veillait pour en démêler le sens ; Aristote lui-même, ressuscité à cette seule fin, n'aurait pu l'en tirer ni les comprendre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ebe983618c84db2e76515f2bf43c93829545f6e3c750f7e8670bab28925feede",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:43:30.291802+00:00"
+}

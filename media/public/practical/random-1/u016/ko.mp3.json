@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c905b1c7b6174d0b1d4b464c83cd53a7fde240aaa8bc0b9c1ce2a847ccb8b9e7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "우산을 가져오길 잘했어요. 생각보다 비가 많이 오네요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "142c0bf6f57263736ef0b74067ac4483f5b4c4cb707a2c6e9740638d81aa3c2e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:21:37.012510+00:00"
+}

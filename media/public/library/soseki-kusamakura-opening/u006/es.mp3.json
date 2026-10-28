@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e51fbdd54cd2d0351aa1e113f993922f89b7b2a0250a3dea8fd4db3c7129d5f5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando esa dificultad aumenta, entran ganas de mudarse a un lugar tranquilo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6648cba7f57879e4d0bd51af692d7d992b30d2908d38522ab6d4066ed202afdc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:07.954621+00:00"
+}

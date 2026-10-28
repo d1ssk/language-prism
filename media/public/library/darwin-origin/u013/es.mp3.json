@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "191c72eff94e5ac1f79efe0c0ea5044607cb9ed8eaef39b0f3bd8326aea96e99",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A mi juicio, concuerda mejor con lo que sabemos de las leyes impresas en la materia por el Creador",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e213b51c7673896c42fe19951591d9c86fa37b6e257a775154b15d9ccdf36a20",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:13:34.675392+00:00"
+}

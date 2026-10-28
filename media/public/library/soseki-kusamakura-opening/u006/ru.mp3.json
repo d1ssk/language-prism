@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cb565119731443e388f21e522a0d1f654097ffa5d7ae154d86b2bc200220069b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Когда эта трудность усиливается, хочется перебраться в более спокойное место.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3050a7ad7a52bb3c589c267469456d41aba636354ca86dd2c300e27bdce5050e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T19:58:28.423245+00:00"
+}

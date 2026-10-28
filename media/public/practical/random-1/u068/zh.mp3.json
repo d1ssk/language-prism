@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5a46e9855a6c009736642b0f1e0bcb20f4a7e09418ccb21abf645edce6396f95",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "到了一个陌生的国家，你会发现自己习以为常的事情并不一定放之四海而皆准。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3821bdd509b27a75bb48ac2111b73d69ea5d3b141a560346287e226526907146",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:55:14.970163+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9c9017340b6d72c54a15dc2231d2ced4d6824eaf5dd606bb8ce0eb79c510a714",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "このこうえんはきせつによってけしきがおおきくかわるので、なんどきてもあきません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f7797d883ab540f93aa8993f7b0bedfaf5a52b9275cf4142b68e130fbee4595b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:37:14.109345+00:00"
+}

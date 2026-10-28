@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "89b6e9bc344fa5ee9916c762b5f1f43000a805d3536e5b07b17d9d7c492c6cc6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Dans cette immensité, il nous semblait chevaucher le vent à travers le vide, sans savoir où nous nous arrêterions ; légers et flottants, comme si nous avions quitté le monde pour demeurer seuls, nous transformant en immortels et nous élevant vers leur séjour.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "245b48587917ad6f4b0f4ca65db156436052b3811cf8a18ae666de40998c7c04",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:07:31.043661+00:00"
+}

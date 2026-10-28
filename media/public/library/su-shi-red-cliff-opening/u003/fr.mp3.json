@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "759357bbbe2348de9456344583c8e29fa0ccfe40eaa9f422293e02b7f4385218",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nous levâmes nos coupes pour inviter les convives à boire, récitâmes le poème de la lune brillante et chantâmes la strophe de la beauté gracieuse.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e9a456aa6c33e2d07e67fe9852956b9c959ebd4166888d1609a11e2674d9a147",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:02:55.631397+00:00"
+}

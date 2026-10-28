@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4adf28d860cac935c430bc830427f644efe2e024efe64321f2acc36d8e978092",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "たしゅたようなしょくぶつにおおわれ、しげみではとりがうたい、さまざまなこんちゅうがとびかい、しめったつちのなかではむしがはう、くさきのいりくんだどてをながめるのはきょうみぶかい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab9800a28865f9184bc5120f3197964c502fc680d1ff151997fec3fe5b14ed1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:14:23.917726+00:00"
+}

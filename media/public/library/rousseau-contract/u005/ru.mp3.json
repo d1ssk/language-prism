@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d5099e3a603fbfb00a496f3216ffe6c26eca6db55591571be1fa6ea3b6c5060d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "«Пока народ принуждён повиноваться и повинуется, он поступает хорошо; как только он может сбросить ярмо и сбрасывает его, он поступает ещё лучше;",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13553846285573464c24f426af4f44bb8eb86961b8f894e050b73389df831005",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:55:30.533368+00:00"
+}

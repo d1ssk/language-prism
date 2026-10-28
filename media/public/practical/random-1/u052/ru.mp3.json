@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "62e36044ead67f510a5ccb0fc48d0ab7cad9c8df994015953e65da566085c66e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В математике иногда начинают с конкретной задачи и обнаруживают более общую структуру.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b8ca6e0c7000c9f3782160ade2e803cbc70c84bf1e404a42a87b0ee497afe30",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:43:38.064916+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "78a2e9476f5fd4fe193f74cf2460da43323376bdf3b8c066c015bfe98ca6f4c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كلما تقدمت التكنولوجيا، ازدادت حاجتنا إلى التفكير في الغاية من استخدامها.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7597a01940504e23ebebba8d43fd5348628fa779df3bf5cb174760dcc4c85458",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:02:06.928293+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d195e3781eb9bc7598a1e73ebf21d201631729a895247726debbd03fd727019",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je cherche un cadeau d'anniversaire. Vous auriez quelque chose à me conseiller ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "54e4c61f69d1ef480d1ce539d01ac58ff4071d6dee0db5633dd84c92ab825c9d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:49:50.714675+00:00"
+}

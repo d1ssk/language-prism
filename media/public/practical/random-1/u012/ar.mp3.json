@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dac3e617a003f40cc24922fce47da2df1800505f5a0ff961de934e1d3fc944c1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "يبدو أن مكيف الهواء في غرفتي لا يعمل. هل يمكنك فحصه من فضلك؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f0e8f538e8d56396b8a78dbf2a2360432971bed3b02ecbc322240b9bf8f3600",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:19:17.864897+00:00"
+}

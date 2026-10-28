@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "29f5e88fd75e20925f483e64377e955ee24d3f3aa31180a9f68f5adf59665773",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "et de penser que ces formes si savamment construites, si différentes les unes des autres et liées par une dépendance si complexe, ont toutes été produites par des lois agissant autour de nous.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "18174c2be555a5f32d5679015c749deb7e4f24fd0a4b240ebfcad09762156f41",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:16:33.034300+00:00"
+}

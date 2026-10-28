@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "67a4507e55a7293b447bb90b9476ab3db03bbe143d1522515728426ac0bfec2e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "فإن لم أستطع الجمع بينهما، تركت السمك واخترت كف الدب.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "814a58b53e5addbce8753817688df7f717383408f17cca51d54a40a778d1d16d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T23:01:00.013277+00:00"
+}

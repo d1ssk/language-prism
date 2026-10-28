@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bdc4a4f5a056d9ff0d0a97af923e6f4c71752fceda2110a5b885dba6e7f3a559",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если такая страна и есть, остаётся лишь отправиться туда, где живут существа, лишённые человечности.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3693f10f65a9b0077ac84495cedc38f855629ec8659a64b944b5e77fdc695521",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:56:18.185523+00:00"
+}

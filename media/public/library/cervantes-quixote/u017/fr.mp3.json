@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "433ca98e3e2592df66fdbfa3b4abead37b65347182cce3b7e13f14102dc8b1ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Et encore : « Les hauts cieux qui, par votre divinité, vous fortifient divinement avec les étoiles, vous rendent digne du mérite que mérite votre grandeur. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0a4d5dcc5ac13d0ef7a43a02b88b9f3486b1bf8caa9987d8ceb914ada6d21f02",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T05:41:37.300274+00:00"
+}

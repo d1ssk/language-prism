@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad9e3e73aa3a628fb2fc72686dcec5fbe4095525461091c885fdcb4b8a9963d7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ich auf meine bisherigen Erfahrungen zurückblicke, haben unerwartete Ereignisse oft die Richtung meines Lebens verändert.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aabbdea9753180fddf1a5c1305a55e875a00dc3c3b35848976fd0e6a1a3120fa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T22:03:45.687090+00:00"
+}

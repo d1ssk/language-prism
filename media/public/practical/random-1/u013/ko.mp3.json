@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "10e150378f0e9453efe594fabaadcc6d95169ba522e62f17ea2a974e81187ba5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "체크아웃한 후에 저녁까지 짐을 맡아 주실 수 있나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8fd8dc50ac781457fa6648f8c1ee1895521639f18a5b9ddfb74e4bb688fe35c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T21:19:56.503761+00:00"
+}

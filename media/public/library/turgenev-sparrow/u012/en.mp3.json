@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "565fa66aa036fbfb0aa7527fa2ba8c6a2b3fffbf4af72f55606e8c58307c69c6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Love, I thought, is stronger than death and the fear of death. By it alone, by love alone, life is sustained and set in motion.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6c8d82b4d78f9e3a75348d7a8f597968022914ff8e3d51fb69c75a5a2c143df4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-26T20:22:39.218140+00:00"
+}

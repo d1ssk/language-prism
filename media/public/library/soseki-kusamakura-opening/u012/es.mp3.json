@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "950cea7c06f7e98e2e5e599be34f3703fc4fef2f66c1904de4fc4a90a24069a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un país de seres sin humanidad sería aún más difícil de habitar que el mundo humano.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "00494fdddc3b914f8c43888ebd78d55e7aff7a8f0b17f3ee01e3fb035d3e9b52",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-27T04:56:41.660537+00:00"
+}
