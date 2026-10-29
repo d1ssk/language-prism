@@ -64,7 +64,7 @@ const messages: Record<keyof typeof ja, string> = {
   homeLanguages:
     "The nine languages are {languages}. I chose them based on my own interests, without any particular selection criteria.",
   homeAccuracy:
-    "The texts and explanations are mainly created using generative models, including ChatGPT. They have not been reviewed by specialists, and I do not guarantee the accuracy of vocabulary or grammar, or the naturalness of expressions. Audio is generated with {chatterbox}; its pronunciation and reading are not guaranteed to be correct either. (I plan to make corrections gradually, but I have also found unnatural pronunciation, extraneous audio and unwanted repetitions in some recordings.)",
+    "The texts and explanations are mainly created using generative models, including ChatGPT. They have not been reviewed by specialists, and I do not guarantee the accuracy of vocabulary or grammar, or the naturalness of expressions. Audio is generated with {chatterbox}; its pronunciation and reading are not guaranteed to be correct either. (I plan to make corrections gradually, but I have also found unnatural pronunciation, as well as extraneous audio and unwanted repetitions in some recordings.)",
   homeCollections:
     "Practical covers useful expressions for everyday conversation, travel, work, and similar situations, including short exchanges. Grammar groups example sentences by grammatical topic and sentence structure. Library explores texts from literature, philosophy, science, and other fields.",
   homeLibrary:
