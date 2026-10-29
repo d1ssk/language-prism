@@ -322,7 +322,7 @@ try {
             for (const unit of [firstUnit, lastUnit]) {
               await libraryReader.locator(`[data-audio-key="${unit.id}/${work.originalLanguage}"]`).click();
               await expect.poll(() => libraryReader.locator("#audio-player").evaluate((el: HTMLAudioElement) => el.currentTime)).toBeGreaterThan(0.15);
-              await libraryReader.locator("#stop-audio").click();
+              await libraryReader.evaluate(() => window.dispatchEvent(new Event("pagehide")));
             }
           }
         }
@@ -390,7 +390,7 @@ try {
             await expect.poll(played).toEqual(expected.slice(0, i + 1));
             await queuePage.locator("#audio-player").dispatchEvent("ended");
           }
-          await expect(queuePage.locator("#stop-audio")).toBeDisabled();
+          await expect.poll(() => queuePage.locator("#audio-player").getAttribute("src")).toBeNull();
         }
       } finally { await queueContext.close(); }
       await checkAudioStream(browser, site.url);

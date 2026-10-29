@@ -9,7 +9,7 @@ if (reader && reader.querySelector("#audio-player")) {
   const gap = reader.querySelector<HTMLSelectElement>("#gap")!;
   const audio = reader.querySelector<HTMLAudioElement>("#audio-player")!;
   const playAll = reader.querySelector<HTMLButtonElement>("#play-all")!;
-  const stopButton = reader.querySelector<HTMLButtonElement>("#stop-audio")!;
+  const playbackOrder = reader.querySelector<HTMLSelectElement>("#playback-order")!;
   const continueButton = reader.querySelector<HTMLButtonElement>("#continue-to-end")!;
   const jumpButton = reader.querySelector<HTMLButtonElement>("#jump-to-playing")!;
   const progress = reader.querySelector<HTMLElement>("#playback-progress")!;
@@ -26,13 +26,16 @@ if (reader && reader.querySelector("#audio-player")) {
   let stream: AudioStream | undefined;
   let interval = 0;
   let playingToEnd = false;
+  let shuffled = false;
   let lastPlayed: HTMLButtonElement | undefined;
   const updateActions = () => {
     progress.hidden = !active || !playingToEnd || !lastPlayed;
-    progress.textContent = progress.hidden ? "" : `(${buttons.indexOf(lastPlayed!) + 1}/${buttons.length})`;
+    progress.textContent = progress.hidden ? "" : shuffled
+      ? `${t("shuffledPlayback")} (${queue.indexOf(lastPlayed!) + 1}/${queue.length})`
+      : `(${buttons.indexOf(lastPlayed!) + 1}/${buttons.length})`;
     jumpButton.disabled = !lastPlayed;
     jumpButton.textContent = t(active && !waiting ? "jumpToPlaying" : "jumpToLastPlayed");
-    continueButton.disabled = !active || waiting || !queue[cursor] || queue.at(-1) === buttons.at(-1);
+    continueButton.disabled = !active || shuffled || waiting || !queue[cursor] || queue.at(-1) === buttons.at(-1);
   };
   const session = navigator.mediaSession;
   const setPlaybackState = (state: MediaSessionPlaybackState) => {
@@ -63,6 +66,7 @@ if (reader && reader.querySelector("#audio-player")) {
     generation++;
     active = waiting = paused = false;
     playingToEnd = false;
+    shuffled = false;
     clearTimeout(timer);
     stream?.dispose();
     stream = undefined;
@@ -71,7 +75,6 @@ if (reader && reader.querySelector("#audio-player")) {
     audio.load();
     queue = [];
     clearHighlight();
-    stopButton.disabled = true;
     updateActions();
     if (session) {
       session.playbackState = "none";
@@ -107,15 +110,15 @@ if (reader && reader.querySelector("#audio-player")) {
     try { await audio.play(); }
     catch { if (generation === token && active) stop(t("playbackFailed")); }
   };
-  const start = (next: HTMLButtonElement[], toEnd = false) => {
+  const start = (next: HTMLButtonElement[], toEnd = false, shuffle = false) => {
     stop();
     if (!next.length) { status.textContent = t("selectedNoAudio"); return; }
     queue = next;
     cursor = 0;
     active = true;
     playingToEnd = toEnd;
+    shuffled = shuffle;
     interval = Number(gap.value);
-    stopButton.disabled = false;
     if (next.length > 1 && interval === 0 && AudioStream.supported()) {
       const token = generation;
       showClip();
@@ -134,7 +137,17 @@ if (reader && reader.querySelector("#audio-player")) {
     void playCurrent();
   };
   buttons.forEach(button => button.addEventListener("click", () => start([button])));
-  playAll.addEventListener("click", () => start(buttons, true));
+  playAll.addEventListener("click", () => {
+    if (playbackOrder.value !== "shuffle") { start(buttons, true); return; }
+    const order = [...units];
+    // Fisher–Yates shuffles groups once per start; language order within each
+    // group stays intact, and pause/resume retains the resulting queue.
+    for (let i = order.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [order[i], order[j]] = [order[j], order[i]];
+    }
+    start(order.flatMap(unit => [...unit.querySelectorAll<HTMLButtonElement>("[data-audio]")]), true, true);
+  });
   reader.querySelectorAll<HTMLButtonElement>(".play-unit").forEach(button => {
     button.addEventListener("click", () => {
       const unit = button.closest(".unit")!;
@@ -170,7 +183,6 @@ if (reader && reader.querySelector("#audio-player")) {
       );
     });
   });
-  stopButton.addEventListener("click", () => stop());
   const pause = () => {
     if (!active) return;
     paused = true;

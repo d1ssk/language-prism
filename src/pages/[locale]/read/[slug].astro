@@ -28,7 +28,7 @@ const pageTitle = bibliography ? `${bibliography.originalTitle} — ${bibliograp
   </header>
   <div class="reader" id="reader">
     {audioCount === 0 && <p class="notice">{t('noAudio')}</p>}
-    {audioCount > 0 && <div class="play-buttons article-play-buttons" hidden><button id="play-all" disabled={audioCount === 0}>{t('playAll')} <small class="audio-count">{t('audioCount', { count: audioCount })}</small></button><button id="stop-audio" disabled>{t('stop')}</button></div>}
+    {audioCount > 0 && <div class="play-buttons article-play-buttons" hidden><button id="play-all" disabled={audioCount === 0}>{t('playAll')} <small class="audio-count">{t('audioCount', { count: audioCount })}</small></button><label class="playback-order">{t('playbackOrder')}<select id="playback-order"><option value="listed">{t('listedOrder')}</option><option value="shuffle">{t('shuffleGroups')}</option></select></label></div>}
     {audioCount > 0 && <section class="reader-toolbar" aria-label={t('readerSettings')} hidden>
       <div class="playback-actions"><button id="continue-to-end" disabled>{t('continueToEnd')} <small id="playback-progress" class="audio-count" hidden></small></button><button id="jump-to-playing" disabled>{t('jumpToPlaying')}</button></div>
       <button class="audio-settings-toggle" type="button" aria-expanded="false" aria-controls="audio-settings"><svg class="disclosure-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>{t('audioSettings')}</button><div class="audio-settings" id="audio-settings" hidden><div class="player-controls">

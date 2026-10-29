@@ -763,8 +763,10 @@ body:has(.reader-toolbar:not([hidden])) {
 .audio-settings p { font-size: 0.75rem; line-height: 1.6; margin-block: 0.35rem; }
 .reader-toolbar .player-controls label { display: flex; align-items: center; gap: 0.5rem; }
 .reader-toolbar .player-controls select { min-height: 40px; }
-.reader .article-play-buttons { flex-wrap: wrap; margin: 0 0 1rem; }
+.reader .article-play-buttons { flex-wrap: wrap; align-items: center; margin: 0 0 1rem; }
 .article-play-buttons button { min-height: 40px; }
+.playback-order { display: flex; align-items: center; gap: 0.5rem; font-size: 0.8rem; }
+.playback-order select { min-height: 40px; font-size: 0.8rem; }
 .playback-actions { grid-column: 1; grid-row: 1; display: flex; flex-wrap: wrap; gap: 0 1rem; }
 .reader .playback-actions button { font-size: 0.75rem; padding: 0.25rem 0; min-height: 36px; }
 .reader-toolbar > .playback-status {
