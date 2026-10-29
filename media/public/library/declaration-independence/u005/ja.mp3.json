@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8ce39e5df3afeb7dabb4c4fa6f0f348c81f6fc47d93cd066624174fa4e907093",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "たしかにしんりょは、ながくかくりつしてきたせいふをけいびでいちじてきなりゆうからかえるべきではないとおしえる。じっさい、あらゆるけいけんがしめすとおり、にんげんはわざわいにたえられるあいだは、なれしたしんだせいたいをはいしてみずからをただすよりも、たえしのぶけいこうにある。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "819c4c2eec18b2db3b4d126c866b22be6449a6bef41cdf417ca240772938930b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:10:22.929465+00:00"
+}

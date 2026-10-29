@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "11277ea27442abc2d4a2efcc120278813f153338b4e0d81e3dabbb79c32f1034",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Entschuldigung.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7003dc7e3d27487cc9cc6e2182006898089afb452be01a48c06820f02a00afe6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:15.949142+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "215143cdae36e6696f89a1eb8710c14232d6bbba7def27952064d2aa309caa05",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Entschuldigung, ist der nächste Halt der Flughafen?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f3dfa63ba784353e00e3fec4b6b0269cd50311eda3e7f210c11eb57d1a5448d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:58:35.001911+00:00"
+}

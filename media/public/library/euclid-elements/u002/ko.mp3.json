@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "35c544f34036d177850f2fff8028e6bc0ba257e392e6d74f6896b4b2ebfc099e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "선은 너비가 없는 길이이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "00f78b0911c3cf68750542002853d7d30d5cb1868535f81326906efc755940bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:55.506039+00:00"
+}

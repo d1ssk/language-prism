@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fa9ea238ffd1ca812b7048a847b825c8692892bf343f26b3ae84b0084c1a9559",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A straight line lies uniformly with respect to the points on it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f22c7b1ff9e90a08d80740f989a1384b2787ced771c93325888f7900055cf0b9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:21.261057+00:00"
+}

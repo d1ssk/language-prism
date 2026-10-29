@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ded0d913899c6aab4e8605b20547b0a6a130fcb6d9864bd926108330ae3e0a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아니요, 공항은 그다음 역이에요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "56b560fa7735ef1c9cafb943e90cdfb9da6197977a1517b05aeb34cf150ec5e3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:08.561334+00:00"
+}

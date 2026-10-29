@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "72feac8b911795285235b64c1eccaf8782f93ebc6f4a089e1e9e5568332d46e1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ces paroles éveillèrent dans la pierre un désir terrestre : elle aussi voulait goûter la gloire et la richesse humaines. Déplorant sa forme grossière et maladroite, elle parla d’une voix humaine : « Maîtres, votre disciple est une créature stupide, incapable même de vous saluer convenablement. Vous entendant évoquer la splendeur du monde, je la désire ardemment.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0abc6dbcf7f5ef8d27c53d1db0b932e40dca13ad48ab1ce94ccca937be1da93b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:20:57.207201+00:00"
+}

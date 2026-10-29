@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4159c32bab3eedf775e2f82a3b299fa923a35bc49260650670794dd23a03e24a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ここでたたかったゆうかんなひとびとは、いきているものもしんだものも、わたしたちのとぼしいちからではなにもくわえられず、なにもへらせないほどに、すでにこのちをせいなるものにしました。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "95e6acc2faad79b1e0a0057e30efeff137325ce89240f783120096fbd145b170",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:52:43.353294+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fdb41e5bbf3ec5f2f37fc3b3ff1c3409e266ae38b0c4d21ba73da1bec517c89c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "실례합니다. 다음 역이 공항인가요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1379f758a90f09fa666c553db47db7c45f81168eba46acaa7001ef1aab1104b4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:58:46.217083+00:00"
+}

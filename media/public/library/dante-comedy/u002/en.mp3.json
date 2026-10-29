@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e0a054c61b3e0437398eae2eb09c90acbaf4fe2ef4250c26208d16b610eb567",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ah, how hard it is to tell what that wood was like, so wild, harsh and formidable that the thought of it renews my fear!",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1793478a28ac6d7881e02a47101b14cdcd07a9b692fa0cfbb6589d997227b2e6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:56:02.664143+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7832d452d711b8a78dd69732a3f5b903019ac6542d51caba715ec92bddb11e17",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Todos estos pueblos difieren entre sí en lengua, costumbres y leyes.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf6f51fbb1848c10b00519f6957c721098d7ca40558c1c5af85b7d63f2b9baa4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:30:26.928160+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4e290e9fdb5dae44261b4619715e617fa7b0f77721e651c4f284402fb1ff2296",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La sopa estaba demasiado caliente para comerla, así que esperé hasta que se enfrió.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "21854ce11242c7d1299653ce1912519991723c76f71ac35f818f66f40aafcb4c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:57.532563+00:00"
+}

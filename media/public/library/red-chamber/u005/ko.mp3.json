@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad60fc91a5389828793d6d79c52d9124d3aa8708e78f01177ac13b3c480e2715",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "어느 날 탄식하던 중, 멀리서 승려 하나와 도사 하나가 다가오는 것이 보였습니다. 골격과 풍채가 범상치 않은 두 사람은 이야기하고 웃으며 봉우리 아래로 와 돌 곁에 앉아 활발히 담론했습니다. 처음에는 구름 낀 산과 안개 바다, 신선의 현묘한 이야기를 하다가 이윽고 인간 세상의 영화와 부귀를 이야기했습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "534f1e119e5e259e5740d035b9710729ce15e22ca40d626bc14968e05bf6e917",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:19:47.562829+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6ed9484528bc985e5a4b88c92d2497a94386b38a2288ef75b324cc96430daa75",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しかし、よりおおきないみでは、わたしたちにはこのちをささげることも、せいべつすることも、しんせいにすることもできません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e43a58cd67dbdfc29445afdfeb17a0f22f0413604cdd74f470bd4b24c8b5371a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:51:51.701633+00:00"
+}

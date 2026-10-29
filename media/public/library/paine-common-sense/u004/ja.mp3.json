@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e10b2ec610af44ed50a5f2737e55ca31316a057d3bbdd41ce5c180cf7e8c4958",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ぜんしゃはひごしゃであり、こうしゃはばっするものである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f6d6b5f9cb9c7cd2d4e025fd1977bb3857b1dd90cab7bb6ad5c28716453f43d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:02:34.450526+00:00"
+}

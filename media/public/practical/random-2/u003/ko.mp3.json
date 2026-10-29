@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "216068657eb6ae9c9178d37a29f86e49e3e75bb80357820c8c08adeb10b78315",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "박물관이 곧 문을 닫을 시간이어서, 나가기 전에 그 그림을 마지막으로 한 번 더 봤어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69d6ee09937f8f8191466b2a9b2748f447143186d075536dfff2081bffd9396e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:06.816369+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3273c913fdb04c790dfcd7addb6a68373988811e2d18cb15255876a5864bfa01",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "きゅうじつはどんなことをしていますか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aeac8dc26e0835b420c765b39af77065fdb5787e06a031966f1dd30e51fc9482",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:37.628524+00:00"
+}

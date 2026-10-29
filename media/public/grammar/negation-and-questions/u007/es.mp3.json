@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0816a40210e2a05a57fe7e6cdb1fb864cde31b0b72f9d827fa01c68e66426795",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Por la mañana bebo té.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82ae3536af02a2d7b62b5124000aee7f8f9301e77f55d5bc85a4f7cdee186798",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:34.488368+00:00"
+}

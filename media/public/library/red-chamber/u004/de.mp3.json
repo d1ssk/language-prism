@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f69c9d5f5ede47c944b69e3f04db6f82379e7dbafb4d5674b04ff69316422a26",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Doch nach dem Brennen war der Stein geistig erwacht. Als er sah, dass alle anderen den Himmel flicken durften und nur er als untauglich nicht ausgewählt war, beklagte er sich selbst und weinte Tag und Nacht voller Scham.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9d3d28b21b90e2d00418e2ea9ca43f8af4fdc81a0794285181877a246d6b5f4c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:16:16.100236+00:00"
+}

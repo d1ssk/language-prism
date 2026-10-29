@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "af880dc884f34a2ec8b6bdab2cf16355e76a65e7361d9366f243c17f163edced",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ya es hora de que los comunistas expongan abiertamente ante el mundo su visión, sus fines y sus tendencias, y opongan a los cuentos del fantasma del comunismo un manifiesto del propio partido.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3a8b931a3227e3e4c1f40e5a6131ad556c1a6fe2a9716f3b606a7e9dcaa4e56e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:43:32.278964+00:00"
+}

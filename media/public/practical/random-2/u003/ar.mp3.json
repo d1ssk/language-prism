@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e12b36244e1d0eeed4a72ce421723598a1a9b70c875f2c5e4594390bfbcddad5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كَانَ الْمَتْحَفُ عَلَى وَشْكِ أَنْ يُغْلِقَ أَبْوَابَهُ، لِذَلِكَ نَظَرْتُ إِلَى اللَّوْحَةِ مَرَّةً أَخِيرَةً قَبْلَ أَنْ أُغَادِرَ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "23bc8b2c316cf1ea0cb50fd302e2cdf06edd8d88eb2090ce64013f7b11264286",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:24:58.101146+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "251e78db41d00afb33c2a65a3848590fb92cbe16f78069e21bd1b3bb617c090d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "하나의 유령이 유럽을 떠돌고 있다. 공산주의의 유령이다. 옛 유럽의 모든 권력, 교황과 차르, 메테르니히와 기조, 프랑스 급진파와 독일 경찰관들이 이 유령을 쫓는 신성한 사냥을 위해 동맹했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3f4758d89ec6e54e886b61e7bcf0591d3769af63fc185a88e31036dedf369d4a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:40:35.834121+00:00"
+}

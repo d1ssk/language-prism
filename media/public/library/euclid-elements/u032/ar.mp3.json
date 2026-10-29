@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ee08758470b3e7f6ac892202be7c4b812a83978939407856163a2a6a4d8b0b55",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الْأَشْيَاءُ الَّتِي تَنْطَبِقُ عَلَى بَعْضِهَا مُتَسَاوِيَةٌ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b61eee82c0fa4bec62510b909ab6610e88eddf6b93118abf0e31a9583a721b91",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:47.636825+00:00"
+}

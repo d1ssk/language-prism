@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9f4389e2e99ca2d6b4f01e0d7909799bd70188f2a6c2d16acf835afa2d4b7c00",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lorsque disparaît leur espoir de les gagner et de les acquérir, ils retirent leurs mains de l’effort pour les obtenir.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f93084acdaca2b72683cba0f9d920787d1b186c094194999a9642f33c418662f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:39:41.298179+00:00"
+}

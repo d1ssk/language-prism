@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "84cd14f5985256b64199217c6d16762cb7e2df1daf2dec054c62572a602ab58a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "How much is the fare?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9b95e39293643bfd7ae4702cc7b63e1b35e6a95b9ca6b3558c61f2ccb8bd057f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:55.097863+00:00"
+}

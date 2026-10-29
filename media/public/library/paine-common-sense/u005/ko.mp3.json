@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "96a640c74c009c14b97d6ce168913e29a9d08c47666b57e823e99ecdfaed29ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사회는 어떤 상태에서도 축복이지만 정부는 최선의 상태에서도 필요악에 불과하고, 최악의 상태에서는 참을 수 없는 악이다. 정부가 없는 나라에서 예상할 만한 불행을 정부 때문에 겪거나 그 위험에 놓일 때, 우리 고통의 수단을 우리 스스로 제공한다는 생각이 불행을 더하기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "38af2c2335188cb51f361ef6eca5b90286bb1ea6d044108f5788fb03adeb9691",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:05:31.392076+00:00"
+}

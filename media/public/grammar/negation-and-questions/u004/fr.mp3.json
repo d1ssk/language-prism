@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b9fed35ff430a5ddaa1aa5809938580543eb90cc269abf04cf4cce8239501e46",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Oui, j'en bois.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "31931833a5a5862a51433ffeda06a956aeb18a9c9df91eb2716e492f6e15f170",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:21:50.463009+00:00"
+}

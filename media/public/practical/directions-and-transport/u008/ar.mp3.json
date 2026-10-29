@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0ca18cb15493ef3a40f6fca0da27363cf6b6f96e27d9b4e997868074f46f3378",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إذن، هذه تذكرتك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "18f2be8a1980d46c7261a6d1f6c7cb9b768349d76509837bd7e79e0cafe3d3c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:56:01.653662+00:00"
+}

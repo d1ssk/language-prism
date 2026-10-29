@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7de9470efc24df07e821044eb44fbb03e2ce7ee8ce28ec485584471162f95a68",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "두 신선은 억지로 막을 수 없음을 알고 탄식했습니다. “이 또한 고요함이 극에 이르면 움직임을 생각하고 무에서 유가 생기는 운수다. 그렇다면 데려가 누리게 해 주마. 다만 뜻대로 되지 않을 때 결코 후회하지 마라.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9dedd04fe45c610fbd0d2880a568b01349ebf84709f8606867463f3e28c17401",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:31:28.022465+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b98cb943c6636a1c02fe0b27336fc2908744a09b88ad9337b25dfb384f5862ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "두 신선은 함께 웃으며 말했습니다. “좋구나, 좋구나! 속세에 즐거움이 있기는 하지만 영원히 의지할 수는 없다. ‘미중부족’과 ‘호사다마’라는 여덟 글자가 늘 따라붙어, 순식간에 즐거움이 극에 달하면 슬픔이 생기고 사람과 사물이 변한다. 결국 한바탕 꿈이고 모든 경계가 공으로 돌아가니 차라리 가지 않는 편이 낫다.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bc157d67f8f9232b48e41806bca8441001a76c9c836ee601aa8e4eaa44a764d0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:28:39.907149+00:00"
+}

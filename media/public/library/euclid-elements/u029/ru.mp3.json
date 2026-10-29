@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b667c98b79173f76535f7d709291c3f505de53564a5efcfda7b3c454edb18d4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Равные одному и тому же равны между собой.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2eeca27b3e6e95fcfc59fc8d6f6169376c8e158f401bf560bd377e99255cb35e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:36:18.056250+00:00"
+}

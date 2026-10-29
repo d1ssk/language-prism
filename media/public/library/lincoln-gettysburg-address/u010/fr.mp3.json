@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1bef2efafafa412c3791631c35ebca9e994d7a6a75af7e1277a2800a714a5a14",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "C’est plutôt à nous de nous consacrer ici à la grande tâche qui nous reste : puiser auprès de ces morts honorés un dévouement accru à la cause pour laquelle ils ont donné l’ultime et pleine mesure de leur dévouement ; prendre ici la ferme résolution que ces morts ne soient pas morts en vain, que cette nation, sous Dieu, connaisse une nouvelle naissance de la liberté, et que le gouvernement du peuple, par le peuple et pour le peuple ne disparaisse pas de la terre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8cd295c650253604196792cc9e814ef82a0cc79a3861da4cbc59de6b57310a44",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:57:10.640714+00:00"
+}

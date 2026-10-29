@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f1db09a3246dc83b60e8bf57c798b84aa678830427fbe123b72a71cb29d64599",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si vous me témoignez un peu de compassion et m’emmenez dans le monde poussiéreux pour goûter quelques années aux richesses et aux tendres plaisirs, je garderai éternellement votre grande bonté en mémoire, durant dix mille ères. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a0b5cda0d4cb5775273300f2b44354671996282fcb1578be0a124bd9b7f64720",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:25:00.144937+00:00"
+}

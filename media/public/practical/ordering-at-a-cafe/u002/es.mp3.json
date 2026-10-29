@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3b4f5fed7d354e98b5a8738a66abeeab8fa5cd4b39728e31171f47d8f5fc16ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Para tomar aquí o para llevar?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8b51e4ef766813208fe91e8ae642487c4e580e0e0dbfe8641b9d65b3af7e00a0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:54.083643+00:00"
+}

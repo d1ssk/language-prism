@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a346957f5bb93aac33fc1df903d83912198e3a6f8fa57fac07d5b3ba5a0569ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿A las nueve o a las diez?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "df73786ea5c75824da83ed57c110dd6a06348d9549250bde233976e61a0be8ac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:43:23.369336+00:00"
+}

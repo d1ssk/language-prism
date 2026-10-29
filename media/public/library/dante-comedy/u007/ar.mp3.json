@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3f16f181d18b75c798e2e07f273cadc8319004c98b786c3e3ddd0eb1dfed28f6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "عِنْدَئِذٍ هَدَأَ قَلِيلًا ذَلِكَ الْخَوْفُ الَّذِي لَبِثَ فِي بُحَيْرَةِ قَلْبِي طَوَالَ اللَّيْلَةِ الَّتِي قَضَيْتُهَا فِي ذَلِكَ الْعَذَابِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "59b129016022afcc3af78e82846fd8e4ab931dece9e94a0c4e83c7ac55300e41",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:00:54.661676+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c13454f2061673d0a0d85e0c0d4d718f8a7ebfed0a9d796802dd02b633f410ce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The bank is next to the station.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ce191cf94feb74d2e0856e088789d56b9bc67c7664a379b966ff0646f2d47d4f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:12.274865+00:00"
+}

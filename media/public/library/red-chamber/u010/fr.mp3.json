@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b15170e3bed55a287e858740314b1d294ec6d78450ed49eb06a039bc099fbf6f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mais le désir terrestre de la pierre brûlait déjà. Comment aurait-elle pu entendre ces paroles ? Elle supplia encore et encore avec insistance.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d082d88e71d17008439dea22f7055b2ac74a1f4d5c1801ebbe6c74af699a8554",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:29:07.416839+00:00"
+}

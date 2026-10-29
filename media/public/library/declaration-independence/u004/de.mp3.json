@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ea438e71fa0c837e3447255286b3b0aac243e3d7d02b560eaf5e2e7064025120",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Sobald irgendeine Regierungsform diese Ziele zerstört, hat das Volk das Recht, sie zu ändern oder abzuschaffen und eine neue Regierung einzusetzen, sie auf solche Grundsätze zu gründen und ihre Gewalten so zu ordnen, wie es ihm zur Verwirklichung seiner Sicherheit und seines Glücks am geeignetsten erscheint.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f0dabecfc1f2771ea1f4bf33eb957b1e27af79f8bc9e46eae35b7bfd855569a0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:09:13.181162+00:00"
+}

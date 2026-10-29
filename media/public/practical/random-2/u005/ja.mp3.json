@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f8151f4a4adff8c620ba860189f9a4a13605d3cdef07330930fd55d5d7f9efd6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "すーぷがあつすぎてのめなかったので、さめるまでまちました。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b2659b5fe7ec57a30518420dafa9f78138657a21f5d6756d9c436fe017af460e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:48.783498+00:00"
+}

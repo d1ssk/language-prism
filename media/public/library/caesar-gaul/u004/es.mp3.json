@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "67fe50020ffe4a023b811213f392333f2aaf46c8e1516ac8330ca966d4fb0e7d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Los más valientes de todos son los belgas, porque están más alejados de la cultura y civilización de la provincia; los mercaderes los visitan con menor frecuencia llevando productos que ablandan el ánimo; y son los más cercanos a los germanos de la otra orilla del Rin, con quienes guerrean continuamente.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1f7ceada2195b7f4be2c28a1ef9d74700d366cb592bf827686e8bac40a8c7713",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:32:16.640366+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b02a5547bf90cebe20b92e9dd8dd4c93c63cc5abfe2734e5738b7e0214ef671d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pero el deseo mundano de la piedra ya ardía. ¿Cómo iba a escuchar esas palabras? Volvió a suplicar desesperadamente una y otra vez.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "377cbc919083dfebaae6d2d582376356c45d9bf9c2ea421352536fd731f1a61a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:29:00.256999+00:00"
+}

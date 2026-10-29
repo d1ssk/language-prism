@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e1e75aa5fc9519a565e6600093cd5ec96e879576e067afabefee6b420d49b2ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Siga recto por esta calle, cruce el puente y gire a la derecha.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "342c115b608dca7c9e9828cdcee4184ef72fa0d5a692a6a9d0fac0cb341841dc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:08.243490+00:00"
+}

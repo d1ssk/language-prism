@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38183250b1a8bcdc5e569fbab3be80705712778f44a8d4c031934bea05352425",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "您休息的时候一般做什么？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "17fb9de96e88d1dfa0ad744eff8736c8b417196b9fa65905a7ddb23e537ec8c5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:52.925255+00:00"
+}

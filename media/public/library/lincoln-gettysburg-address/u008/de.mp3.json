@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "70eb763ea2fecda0cac93d723311346a598050e08e7fb57657b008d3a63e6589",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die Welt wird kaum beachten und nicht lange erinnern, was wir hier sagen; doch sie kann niemals vergessen, was sie hier getan haben.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7304b323c5ed217100b12668fe39d093b175b56032a10656504be048a04c6519",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:54:16.496102+00:00"
+}

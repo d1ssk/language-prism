@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "96ece207589002ea36770fc0e28959252da5420671f15c8c6d72fd370adf580b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "شاهدته مع صديق في الأسبوع الماضي.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e6f6155a5a0afe2e46a1d23648a406e01bb14a30e54f9ae271e1a81074e61add",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:49.892950+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "060b4b78a862d0644d439576555737aff25ae1c21b4d8638a3b77da333b0abc6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我把伞借给了一个陌生人，第二天对方把伞还给了我。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "34e24e575e2f87b36bf6313fdc8ea1c2b23bd6cc87cea34419bc7e740d930227",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:40.224487+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "342d24895fe0a3cd899dc94c7630c8ba05ae6f7f98242936991f724533924374",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pourrais-je avoir un reçu, s'il vous plaît ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "693c77b6d8acfe6ff2c0d6a7bdbfd6befdd9ab3dd377c56e093d112995ac393b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:21:10.101974+00:00"
+}

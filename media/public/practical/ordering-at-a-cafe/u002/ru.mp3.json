@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e5c68692ca3da644d3ea032ccf4dd45e53bc7ab342090490f52df8bfd1ae4e8e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Здесь или с собой?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c5dffa006941192600965f53816f4ee244a6dcafd79e373e2325dee1c1aeac2e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:59.905672+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "07477681d0367a843ee63ed35cf0d2a05c9a381319fe8c8286cd2156bfe4509a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这杯拿铁可以换成豆奶吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0f3042c8e2fcf9192fbc364dacfe960fd1975c3c9abd313f0fabed3a5c478c77",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:22.269171+00:00"
+}

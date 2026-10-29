@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fff6263612d8f609e26705ce13e595039d7b2f277486ea32cac7501e698396ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Когда в ходе человеческих событий народу становится необходимо разорвать политические узы, соединявшие его с другим, и занять среди земных держав отдельное и равное положение, на которое дают ему право законы природы и Бога природы, должное уважение к мнению человечества требует объявить причины, побуждающие его к отделению.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b9968cabe674596cdff32cd954bc1db83c4e57587716d5a8577d02cbdda166ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:04:43.198905+00:00"
+}

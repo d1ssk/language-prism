@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "507564a0720efcd538e5fbe37a055e914c59d9c2a94e72de4f571b8b5462ae25",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "옛날 여와가 돌을 달구어 하늘을 메울 때, 대황산 무계애에서 높이 열두 장, 너비 스물네 장인 거친 돌 삼만 육천오백한 개를 만들었습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9c4766e99c064e4451d01576ffc1c0dad62e73664a53c98c46bb4ac9b3801107",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:14:11.063946+00:00"
+}

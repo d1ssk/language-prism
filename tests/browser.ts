@@ -222,7 +222,7 @@ try {
           } else {
             await expect(page.locator(".work-card")).toHaveCount(collection === "grammar" ? 3 : 6);
             if (collection === "practical") {
-              expect(await page.locator(".work-card a").evaluateAll(els => els.map(el => el.getAttribute("href")))).toEqual(["random-1", "greetings", "first-conversations", "asking-for-clarification", "directions-and-transport", "ordering-at-a-cafe"].map(slug => `/${locale}/read/${slug}/`));
+              expect(await page.locator(".work-card a").evaluateAll(els => els.map(el => el.getAttribute("href")))).toEqual(["random-1", "random-2", "greetings", "first-conversations", "asking-for-clarification", "directions-and-transport", "ordering-at-a-cafe"].map(slug => `/${locale}/read/${slug}/`));
               await expect(page.locator(`.work-card a[href="/${locale}/read/random-1/"]`)).toHaveText(locale === "ja" ? "ランダム 1" : "Random 1");
               await expect(page.locator(".work-card .work-audio-status")).toHaveText(locale === "ja" ? "音声あり" : "With audio");
             } else {
@@ -381,7 +381,7 @@ try {
         const work = JSON.parse(fs.readFileSync(path.join(ROOT, "content/public/library/darwin-origin/content.json"), "utf8"));
         for (const locale of ["ja", "en"] as const) {
           await queuePage.goto(`${site.url}/${locale}/read/darwin-origin/`);
-          await queuePage.locator(".audio-settings").evaluate((el: HTMLDetailsElement) => el.open = true);
+          await queuePage.locator(".audio-settings-toggle").click();
           await queuePage.locator("#gap").selectOption("0");
           const expected = work.units.flatMap((unit: { id: string }) => displayLanguages(locale).map(language => `${unit.id}/${language.code}`));
           const played = () => queuePage.evaluate(() => (window as any).__libraryPlayed.map((url: string) => url.match(/(u\d+\/[a-z]+)\.mp3$/)![1]));

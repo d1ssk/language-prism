@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "63ee324adc414e007330a9f85cb4a9ae1fdbfd433e979d4d0affc7d77bb7c885",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El tren lleva retraso.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "42c0ecb203d34b3f43c110c41abe0adcdb7f6b9e21fdaf14e6734815b473da83",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:52.940389+00:00"
+}

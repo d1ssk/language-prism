@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2034ad606b3917d20214b9313b3325cd256289668d7350862ad76b1ecb034b8d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Tiene una mesa para dos?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a6aebcecb8001ceb50d3a3fda7dd1b2481aaa0c28fabda2aa5efcf44621c505d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:13:52.276066+00:00"
+}

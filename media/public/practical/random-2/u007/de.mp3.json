@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8204058ab6f4b740df50da888d8cfa0d6b9a8c1849d437e044eacc1adc2e8548",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe die Adresse auf einen Zettel geschrieben, falls der Akku meines Handys leer wird.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "04b755af4767acad2a93e0a859aaed9d48c1d49275d77c41cf81257773a0d07c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:27:22.406444+00:00"
+}

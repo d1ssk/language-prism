@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bbab6911b06e8cf00aa6878b371771b7ea1e668d93d385eab5e2fe3b410ce8bb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Natürlich. Sagen Sie mir bitte, wenn etwas unklar ist.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "72bad6f98099a7d63eabe540ad46d42447db954b1124d55809795a91cb09984b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:24.146073+00:00"
+}

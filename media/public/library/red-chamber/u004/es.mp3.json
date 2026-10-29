@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "17957ba25d9a2dccc1dd69e290e9287839aeb767997d8436802f2ab2e3fbbe1c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pero la piedra había despertado a la conciencia espiritual tras pasar por el fuego. Al ver que todas las demás reparaban el cielo y que solo ella era incapaz de ser elegida, se lamentaba de sí misma, llorando día y noche de vergüenza.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c03a3cd161d881a62f7e396d0c9cca092818f68b2992b32f8893bdcdf8add508",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:15:54.428562+00:00"
+}

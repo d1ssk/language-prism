@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "15ca4c31f6abfe7a03d7b32ecc2d8e2ee753d1c10a1722176065b2fcbde48ad8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 버스는 시청에 가나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "191783c491b8ef8a1e7372d44af1f1c6e84eda90687c18555441ed14b8bba297",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:22.094286+00:00"
+}

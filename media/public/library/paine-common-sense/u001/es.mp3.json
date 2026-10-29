@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "917d0e7999d2145e0888624b3eac8279766ad64c1b2e3725d33474ad1e4d696b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Algunos escritores han confundido tanto la sociedad con el gobierno que apenas dejan distinción entre ambos, o ninguna; sin embargo, no solo son diferentes, sino que tienen orígenes distintos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f53ad4b4f03d0a75dea5101e0a0f944db1f40efc0dbcf44022dff4cf929c4445",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:59:35.314999+00:00"
+}

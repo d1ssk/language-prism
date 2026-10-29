@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e9a687314653d8048ccebcbc3d47a903d3695243523e10ccee296e5ced6fe2e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ظَنَّ الْجَمِيعُ أَنَّ النَّبَاتَ قَدْ مَاتَ، لَكِنْ ظَهَرَتْ وَرَقَةٌ جَدِيدَةٌ هٰذَا الصَّبَاحَ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cfa89087764ec8ff3a2c37c2428c68c5516f04930a7d1f04257f681e57360756",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:30:12.731135+00:00"
+}

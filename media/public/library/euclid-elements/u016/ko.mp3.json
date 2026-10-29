@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bcd72db73a50fb4b34a2287d7550c22f032bb601c9a193716628f438dcc1a902",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 점을 원의 중심이라고 한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "860821eeec856979d3b04d770991b1517ae9ae3f9aeb000eb3ea4256348e0e11",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:23:23.084310+00:00"
+}

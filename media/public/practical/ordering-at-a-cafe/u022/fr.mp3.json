@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cdef593bdce8cc97d17befcc5b5a3b59f1e3d0b9a27334f648098fac15a43bb8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Excusez-moi, mon plat n'est pas encore arrivé.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13a7f14c86112acb7c2f316d4b4d53a192cb0697772d98e3fd3a6593e1d67e01",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:56.481735+00:00"
+}

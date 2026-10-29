@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fbb51a6673717e835bb08a4592b1767be933b3ff7e8e363cf05343855677a020",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또한 직각삼각형은 직각을 하나, 둔각삼각형은 둔각을 하나 가지며, 예각삼각형은 세 각이 모두 예각이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "48e1ba4284fef68cbeb817ecf72f3d440dd9db4d817e56f4fb5631843ef73ab4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:28:51.763347+00:00"
+}

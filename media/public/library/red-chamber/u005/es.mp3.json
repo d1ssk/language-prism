@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fdb473cb3448252dc08ac18bc4be0cadeb5a8eda624016a52a1103ef49bdfaf2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un día, mientras se lamentaba, vio llegar de lejos a un monje budista y un daoísta, de figura y porte extraordinarios. Entre charlas y risas llegaron al pie del pico, se sentaron junto a la piedra y conversaron animadamente. Primero hablaron de montañas de nubes, mares de niebla y misterios de inmortales; después, de la gloria, riqueza y honores del mundo humano.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b2ec3b7000e20295f3633cb3719052f395a4c896b3e2f6e3bdc70ea9e22876e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:17:57.839872+00:00"
+}

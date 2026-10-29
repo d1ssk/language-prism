@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ade21dd1d612f9a2b0e8d6bd43686bb90d4f3b170770cb105b5d22ea528a32d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Después te llevaré a un país ilustrado y próspero, a una familia de altos funcionarios formada en poesía y ritos, a una tierra espléndida como flores y brocados, un hogar de ternura, riqueza y honores, donde puedas establecerte y vivir feliz».",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9efbed0f3e87119cd33df6628fb680192186e042ad91f8cd568b72c306df78c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:38:22.956272+00:00"
+}

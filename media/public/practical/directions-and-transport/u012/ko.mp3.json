@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "06186b3e1f8e9e17351cea07b9d93c8ffdc0547869afcc3c7cbd075df9e4aff2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아니요, 이 열차로 공항까지 갈 수 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9b0fbb79b052a62980267f96d9d6cb15d76ea529e9b9b1b19ac1d7f4948d3b41",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:47.686788+00:00"
+}

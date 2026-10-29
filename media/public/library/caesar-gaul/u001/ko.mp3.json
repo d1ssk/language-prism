@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1058b15aaf3cb000849113c6e3f1eb54a6e1254931848e0894428f49efe719a1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "갈리아 전체는 세 부분으로 나뉜다. 한 곳에는 벨가이족, 다른 곳에는 아퀴타니족, 세 번째에는 자기네 말로는 켈타이, 우리 말로는 갈리라고 불리는 사람들이 산다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6077cbf5ca722bb3049088410f1bcd2d51af5f1833f80a1782e1b1ed512653cd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:30:15.500860+00:00"
+}

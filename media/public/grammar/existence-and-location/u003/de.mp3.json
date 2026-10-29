@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "11769f720b8284d381024b33a24e3f2cd24525467bd0749c932274f0ab75477a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Buch liegt auf dem Schreibtisch.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "416088919753e0165989452c4ca5bfb1cd42f14dd231d68d8242aa0456065abc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:14:33.173695+00:00"
+}

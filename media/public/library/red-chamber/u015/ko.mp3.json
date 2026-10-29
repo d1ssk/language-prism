@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4726f2133850f4f64cdf11c5a0011199bdb0740a6e1ade52f62408329e23d664",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "승려는 그것을 손바닥에 올리고 웃으며 말했습니다. “모양은 이제 보물이 되었구나! 하지만 아직 진짜 특별한 점은 없다. 몇 글자를 더 새겨 누구나 한눈에 기이한 물건임을 알아보게 해야 한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b4775883dba60e5975480765e468fe0df00d4e66a7c141fc876f3f6a3a244ffb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:37:50.829723+00:00"
+}

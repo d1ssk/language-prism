@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8437a308db62761a213e9defbb6f29d159c5c0e020103c612facf175633cc029",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "钥匙在包里。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b02f5158f9db67488fedb0d240b17b20ded98dd95b40634b79001a051285578a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:15:31.989306+00:00"
+}

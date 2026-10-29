@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "55c7514cc3aaa3d2aa66d10827c01d4edc36ffd8f40c8169c0e9b190d9b5e7c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I'll show you how to do it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a73181e2440a583db6a352c71a5f0ae3a3124971c9c6098d85927ef1d67f96d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:49:35.912084+00:00"
+}

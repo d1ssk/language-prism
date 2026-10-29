@@ -60,15 +60,56 @@
           "ttsText": "うおはわたしのほっするものだ。くまのてのひらもまた、わたしのほっするものだ。",
           "vocabulary": [
             {
-              "term": "欲する",
+              "term": "魚",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "望ましい物の一つ。",
+                "en": "Fish, one desirable thing."
+              }
+            },
+            {
+              "term": "欲するもの",
+              "meaning": {
+                "ja": "手に入れたいと思う物。",
+                "en": "Something one wants to have."
+              }
+            },
+            {
+              "term": "熊の掌",
+              "meaning": {
+                "ja": "熊の手のひら。もう一つの望ましい物。",
+                "en": "A bear’s paw, the second desired thing."
+              }
+            },
+            {
+              "term": "もまた",
+              "meaning": {
+                "ja": "前の魚と同じく、という追加。",
+                "en": "Also, adding a second parallel item."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Aは ... だ。Bもまた ... だ",
+              "explanation": {
+                "ja": "同じ述語を二度使い、魚と熊の掌がともに欲しいと並べます。",
+                "en": "The repeated predicate places fish and bear’s paw side by side as desired things."
+              }
+            },
+            {
+              "point": "私の + 欲するもの",
+              "explanation": {
+                "ja": "の が望む主体を示し、欲するもの が望みの対象を名詞句にします。",
+                "en": "私の identifies the desiring person; 欲するもの turns the desired object into a noun phrase."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つの望みを並べる導入です。次文で、両立できないときの選択に進みます。",
+              "en": "This introduces two desirable things before asking what to choose when both cannot be obtained."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -85,15 +126,56 @@
           "ttsText": "Fish is something I desire; bear’s paw is also something I desire.",
           "vocabulary": [
             {
-              "term": "desire",
+              "term": "Fish",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "望ましい物の一つ。",
+                "en": "The first desired thing."
+              }
+            },
+            {
+              "term": "something I desire",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "Something I want."
+              }
+            },
+            {
+              "term": "bear’s paw",
+              "meaning": {
+                "ja": "熊の掌。二つ目の望ましい物。",
+                "en": "A bear’s paw, the second desired thing."
+              }
+            },
+            {
+              "term": "also",
+              "meaning": {
+                "ja": "同じ望みをもう一つに広げる。",
+                "en": "Adds the parallel second desire."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A is something ...; B is also something ...",
+              "explanation": {
+                "ja": "同じ構造を繰り返し、二つの対象を同じく欲することを強調します。",
+                "en": "The parallel clauses stress that both things are desired."
+              }
+            },
+            {
+              "point": "I desire",
+              "explanation": {
+                "ja": "関係節の I desire が something を限定し、誰の望みかを示します。",
+                "en": "The relative clause identifies what the speaker desires."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌は、これから示す選択のための二つの例です。",
+              "en": "Fish and bear’s paw are the two examples used to set up a choice."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -110,15 +192,56 @@
           "ttsText": "El pescado es algo que deseo; la pata de oso también es algo que deseo.",
           "vocabulary": [
             {
-              "term": "deseo",
+              "term": "El pescado",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "食べ物としての魚。",
+                "en": "Fish as food."
+              }
+            },
+            {
+              "term": "algo que deseo",
+              "meaning": {
+                "ja": "私が欲しい物。",
+                "en": "Something I desire."
+              }
+            },
+            {
+              "term": "la pata de oso",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "A bear’s paw."
+              }
+            },
+            {
+              "term": "también",
+              "meaning": {
+                "ja": "それもまた。",
+                "en": "Also."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A es algo ...; B también es algo ...",
+              "explanation": {
+                "ja": "同じ構造を繰り返し、二つとも望ましいと並べます。",
+                "en": "The parallel clauses put both desired things on equal footing."
+              }
+            },
+            {
+              "point": "que deseo",
+              "explanation": {
+                "ja": "que が algo を受け、望む物の内容を説明します。",
+                "en": "Relative que refers to algo and specifies what is desired."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは二つの食べ物を並べ、次文の選択条件を準備します。",
+              "en": "The two foods establish the terms of the choice in the next line."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -135,15 +258,56 @@
           "ttsText": "Le poisson est ce que je désire ; la patte d'ours est aussi ce que je désire.",
           "vocabulary": [
             {
-              "term": "désire",
+              "term": "Le poisson",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "食べ物としての魚。",
+                "en": "Fish as food."
+              }
+            },
+            {
+              "term": "ce que je désire",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "What I desire."
+              }
+            },
+            {
+              "term": "la patte d'ours",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "A bear’s paw."
+              }
+            },
+            {
+              "term": "aussi",
+              "meaning": {
+                "ja": "同じく、また。",
+                "en": "Also."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A est ce que ... ; B est aussi ce que ...",
+              "explanation": {
+                "ja": "二つの対象に同じ構造を使い、両方欲しいと示します。",
+                "en": "The repeated structure states that both are desired."
+              }
+            },
+            {
+              "point": "ce que + 主語 + 動詞",
+              "explanation": {
+                "ja": "ce que je désire は「私が欲するもの」という名詞句です。",
+                "en": "Ce que je désire functions as what I desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌を対にして、次の文の選択へ導きます。",
+              "en": "Fish and bear’s paw form the pair for the following choice."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -160,15 +324,56 @@
           "ttsText": "Fisch ist etwas, das ich begehre; eine Bärentatze ist ebenfalls etwas, das ich begehre.",
           "vocabulary": [
             {
-              "term": "begehre",
+              "term": "Fisch",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "食べ物としての魚。",
+                "en": "Fish as food."
+              }
+            },
+            {
+              "term": "etwas, das ich begehre",
+              "meaning": {
+                "ja": "私が欲するもの。",
+                "en": "Something I desire."
+              }
+            },
+            {
+              "term": "Bärentatze",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "Bear’s paw."
+              }
+            },
+            {
+              "term": "ebenfalls",
+              "meaning": {
+                "ja": "同じく、また。",
+                "en": "Likewise or also."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "etwas, das ...",
+              "explanation": {
+                "ja": "das ich begehre が etwas を修飾し、望む物だと説明します。",
+                "en": "The relative clause das ich begehre modifies etwas."
+              }
+            },
+            {
+              "point": "Fisch ist ...; eine Bärentatze ist ebenfalls ...",
+              "explanation": {
+                "ja": "同じ述語を繰り返し、二つとも欲しいという並列を作ります。",
+                "en": "The parallel clauses establish two equally desired things."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つの食べ物は、後の選択を説明するための対比です。",
+              "en": "The two foods set up the contrast used for the coming choice."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -185,15 +390,56 @@
           "ttsText": "Рыба — то, чего я желаю; медвежья лапа — тоже то, чего я желаю.",
           "vocabulary": [
             {
-              "term": "желаю",
+              "term": "Рыба",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "食べ物としての魚。",
+                "en": "Fish as food."
+              }
+            },
+            {
+              "term": "то, чего я желаю",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "What I desire."
+              }
+            },
+            {
+              "term": "медвежья лапа",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "A bear’s paw."
+              }
+            },
+            {
+              "term": "тоже",
+              "meaning": {
+                "ja": "それもまた。",
+                "en": "Also."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A — то, чего ...",
+              "explanation": {
+                "ja": "ダッシュと関係表現で、魚を望む対象として示します。",
+                "en": "The dash and relative phrase identify fish as something desired."
+              }
+            },
+            {
+              "point": "чего я желаю",
+              "explanation": {
+                "ja": "желать が生格 чего を取り、「私が望むもの」を表します。",
+                "en": "Желать governs genitive чего, forming what I desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つの望みを対にし、次文で両立できない場合を考えます。",
+              "en": "Two wishes are paired before the text considers a choice between them."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -210,15 +456,56 @@
           "ttsText": "السمك مما أرغب فيه، وكف الدب أيضًا مما أرغب فيه.",
           "vocabulary": [
             {
-              "term": "أرغب",
+              "term": "السمك",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "食べ物としての魚。",
+                "en": "Fish as food."
+              }
+            },
+            {
+              "term": "مما أرغب فيه",
+              "meaning": {
+                "ja": "私が望むものの一つ。",
+                "en": "Among the things I desire."
+              }
+            },
+            {
+              "term": "كف الدب",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "A bear’s paw."
+              }
+            },
+            {
+              "term": "أيضًا",
+              "meaning": {
+                "ja": "同じく、また。",
+                "en": "Also."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "مما + 文",
+              "explanation": {
+                "ja": "مما أرغب فيه は「私が望むものの中にある」と対象を説明します。",
+                "en": "مما أرغب فيه presents each as among what the speaker wants."
+              }
+            },
+            {
+              "point": "فيه の反復",
+              "explanation": {
+                "ja": "أرغب فيه を二度繰り返し、魚と熊の掌を並列します。",
+                "en": "Repeating أرغب فيه puts fish and bear’s paw in parallel."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つとも望むという導入で、次に両方は得られない場合の選択へ進みます。",
+              "en": "Both desires are introduced before the choice that follows."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -243,18 +530,54 @@
           "ttsText": "魚，我所欲也；熊掌，亦我所欲也。",
           "vocabulary": [
             {
-              "term": "欲",
+              "term": "魚",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "望ましい食べ物の一つ。",
+                "en": "Fish, one desired food."
+              }
+            },
+            {
+              "term": "我所欲也",
+              "meaning": {
+                "ja": "私が欲するものである。",
+                "en": "What I desire."
+              }
+            },
+            {
+              "term": "熊掌",
+              "meaning": {
+                "ja": "熊の掌。もう一つの望ましい物。",
+                "en": "Bear’s paw, the second desired item."
+              }
+            },
+            {
+              "term": "亦",
+              "meaning": {
+                "ja": "また、同じく。",
+                "en": "Also."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "A，我所欲也",
+              "explanation": {
+                "ja": "話題の A を先に置き、所欲 で「欲するもの」と説明します。",
+                "en": "The topic comes first; 所欲 identifies it as what is desired."
+              }
+            },
+            {
+              "point": "亦 + 同じ述語",
+              "explanation": {
+                "ja": "亦我所欲也 が同じ判断を熊掌にも広げます。",
+                "en": "亦 extends the same desire to bear’s paw."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "所＋動詞で「〜するもの」。亦は「〜もまた」、也は判断を示す文末の助字です。熊掌はこの比較では魚より重んじられる食物として置かれています。",
-              "en": "所 + verb nominalizes what is desired. 亦 means also, and 也 marks an assertion. Bear’s paw is introduced as the more highly valued food in the comparison."
+              "ja": "古典中国語の対句で二つの望みを並べ、次の選択に備えます。",
+              "en": "The parallel classical clauses place two wishes side by side before a choice."
             }
           ],
           "translation": {
@@ -281,15 +604,56 @@
           "ttsText": "물고기는 내가 바라는 것이며, 곰의 발바닥도 내가 바라는 것이다.",
           "vocabulary": [
             {
-              "term": "바라는",
+              "term": "물고기는",
               "meaning": {
-                "ja": "手に入れたい、得たいと思うこと。",
-                "en": "Wanting or desiring to obtain something."
+                "ja": "魚は。는 が話題を示します。",
+                "en": "Fish, marked as topic."
+              }
+            },
+            {
+              "term": "내가 바라는 것",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "What I desire."
+              }
+            },
+            {
+              "term": "곰의 발바닥",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "A bear’s paw."
+              }
+            },
+            {
+              "term": "도",
+              "meaning": {
+                "ja": "それもまた、という追加。",
+                "en": "Also, adding the second item."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A는 ... 것이며, B도 ... 것이다",
+              "explanation": {
+                "ja": "同じ構造を繰り返し、両方を望むことを示します。",
+                "en": "Parallel clauses state that both things are wanted."
+              }
+            },
+            {
+              "point": "-는 것",
+              "explanation": {
+                "ja": "바라는 것 が「望むもの」を名詞句にします。",
+                "en": "-는 것 nominalizes the thing one desires."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌という二つの望みを並べ、次の選択の前提にします。",
+              "en": "The two desired things set up the forced choice in the following line."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -311,15 +675,56 @@
           "ttsText": "りょうほうをどうじにえられないなら、うおをすててくまのてのひらをとる。",
           "vocabulary": [
             {
-              "term": "取る",
+              "term": "両方を同時に",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "魚と熊の掌を一緒に。",
+                "en": "Both fish and bear’s paw at once."
+              }
+            },
+            {
+              "term": "得られないなら",
+              "meaning": {
+                "ja": "手に入れることができない場合。",
+                "en": "If one cannot obtain them."
+              }
+            },
+            {
+              "term": "魚を捨てて",
+              "meaning": {
+                "ja": "魚の方を諦めて。",
+                "en": "Give up the fish."
+              }
+            },
+            {
+              "term": "熊の掌を取る",
+              "meaning": {
+                "ja": "熊の掌を選ぶ。",
+                "en": "Choose the bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-ないなら",
+              "explanation": {
+                "ja": "両方を得られないという条件を示し、そのときの選択を続けます。",
+                "en": "-ないなら sets the condition that both cannot be had."
+              }
+            },
+            {
+              "point": "Aを捨ててBを取る",
+              "explanation": {
+                "ja": "二つを対比し、魚を手放して熊の掌を選ぶことを表します。",
+                "en": "The paired verbs contrast giving up fish with choosing bear’s paw."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "望ましいものが二つあっても両立しないなら、より優先する方を取るという例です。",
+              "en": "The example shows choosing one desired thing when both cannot be obtained."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -336,15 +741,56 @@
           "ttsText": "If I cannot have both, I give up the fish and take the bear’s paw.",
           "vocabulary": [
             {
-              "term": "take",
+              "term": "cannot have both",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "二つとも同時には得られない。",
+                "en": "Cannot obtain the two together."
+              }
+            },
+            {
+              "term": "give up",
+              "meaning": {
+                "ja": "諦める、手放す。",
+                "en": "Relinquish."
+              }
+            },
+            {
+              "term": "the fish",
+              "meaning": {
+                "ja": "選ばない方の魚。",
+                "en": "The fish that is given up."
+              }
+            },
+            {
+              "term": "take the bear’s paw",
+              "meaning": {
+                "ja": "熊の掌の方を選ぶ。",
+                "en": "Choose the bear’s paw instead."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "If + 条件、主節",
+              "explanation": {
+                "ja": "両方を得られない場合を示し、その場合の選択を述べます。",
+                "en": "If sets the inability to have both before the choice."
+              }
+            },
+            {
+              "point": "give up A and take B",
+              "explanation": {
+                "ja": "二つの動詞を対にし、手放す物と取る物を明確にします。",
+                "en": "The paired verbs identify what is surrendered and what is chosen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つの欲しい物が両立しない場面を作り、優先順位を示します。",
+              "en": "The line creates a forced choice between two desirable things."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -361,15 +807,56 @@
           "ttsText": "Si no puedo tener ambas cosas, dejo el pescado y elijo la pata de oso.",
           "vocabulary": [
             {
-              "term": "elijo",
+              "term": "ambas cosas",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "魚と熊の掌の両方。",
+                "en": "Both fish and bear’s paw."
+              }
+            },
+            {
+              "term": "no puedo tener",
+              "meaning": {
+                "ja": "私は持てない。",
+                "en": "I cannot have."
+              }
+            },
+            {
+              "term": "dejo el pescado",
+              "meaning": {
+                "ja": "魚を手放す。",
+                "en": "I leave the fish."
+              }
+            },
+            {
+              "term": "elijo la pata de oso",
+              "meaning": {
+                "ja": "熊の掌を選ぶ。",
+                "en": "I choose the bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Si + 直説法現在",
+              "explanation": {
+                "ja": "両方得られない条件を現実的な仮定として示します。",
+                "en": "Si plus present indicative presents the possible condition."
+              }
+            },
+            {
+              "point": "dejo ... y elijo ...",
+              "explanation": {
+                "ja": "二つの一人称動詞を並べ、捨てる側と選ぶ側を対比します。",
+                "en": "The paired first-person verbs contrast what is given up and chosen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つとも望ましいが、両立しないときの優先順位を示します。",
+              "en": "Both are desired, but the sentence sets a priority when they cannot coexist."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -386,15 +873,56 @@
           "ttsText": "Si je ne peux avoir les deux, je renonce au poisson et choisis la patte d'ours.",
           "vocabulary": [
             {
+              "term": "les deux",
+              "meaning": {
+                "ja": "魚と熊の掌の両方。",
+                "en": "The two desired items."
+              }
+            },
+            {
+              "term": "renonce au poisson",
+              "meaning": {
+                "ja": "魚を諦める。",
+                "en": "Give up the fish."
+              }
+            },
+            {
               "term": "choisis",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "私は選ぶ。choisir の現在形。",
+                "en": "I choose; present form of choisir."
+              }
+            },
+            {
+              "term": "la patte d'ours",
+              "meaning": {
+                "ja": "熊の掌。",
+                "en": "The bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Si + 直説法現在",
+              "explanation": {
+                "ja": "両方得られない条件を示し、その場合の選択を述べます。",
+                "en": "Si plus present indicative introduces the forced-choice condition."
+              }
+            },
+            {
+              "point": "renoncer à + 名詞",
+              "explanation": {
+                "ja": "renonce au poisson で、魚を手放すことを表します。",
+                "en": "Renoncer à plus noun means relinquish the fish."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚を諦め、熊の掌を選ぶという二つの動作を対にしています。",
+              "en": "The verbs place giving up fish opposite choosing the bear’s paw."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -411,15 +939,56 @@
           "ttsText": "Wenn ich nicht beides zugleich haben kann, verzichte ich auf den Fisch und nehme die Bärentatze.",
           "vocabulary": [
             {
-              "term": "nehme",
+              "term": "beides zugleich",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "二つとも同時に。",
+                "en": "Both at the same time."
+              }
+            },
+            {
+              "term": "haben kann",
+              "meaning": {
+                "ja": "手に入れることができる。",
+                "en": "Can have."
+              }
+            },
+            {
+              "term": "verzichte ... auf den Fisch",
+              "meaning": {
+                "ja": "魚を諦める。",
+                "en": "Give up the fish."
+              }
+            },
+            {
+              "term": "nehme die Bärentatze",
+              "meaning": {
+                "ja": "熊の掌を取る。",
+                "en": "Take the bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Wenn + 従属節",
+              "explanation": {
+                "ja": "wenn 節で両方得られない条件を示し、主節で選択を述べます。",
+                "en": "The Wenn clause states the inability to have both."
+              }
+            },
+            {
+              "point": "verzichten auf + 対格",
+              "explanation": {
+                "ja": "auf den Fisch が、手放す対象を示します。",
+                "en": "Verzichten auf takes accusative den Fisch for what is relinquished."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌をどちらも欲しがる前文から、優先順位を示す選択へ進みます。",
+              "en": "The earlier two desires become a choice of which to prioritize."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -436,15 +1005,56 @@
           "ttsText": "Если нельзя получить и то и другое, я откажусь от рыбы и выберу медвежью лапу.",
           "vocabulary": [
             {
-              "term": "выберу",
+              "term": "и то и другое",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "その一方と他方、つまり両方。",
+                "en": "Both one thing and the other."
+              }
+            },
+            {
+              "term": "нельзя получить",
+              "meaning": {
+                "ja": "得ることができない。",
+                "en": "Cannot obtain."
+              }
+            },
+            {
+              "term": "откажусь от рыбы",
+              "meaning": {
+                "ja": "魚を諦める。",
+                "en": "I will give up the fish."
+              }
+            },
+            {
+              "term": "выберу медвежью лапу",
+              "meaning": {
+                "ja": "熊の掌を選ぶ。",
+                "en": "I will choose the bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Если + 条件",
+              "explanation": {
+                "ja": "両方得られない場合を示し、その後の選択へつなぎます。",
+                "en": "Если sets up the inability to obtain both."
+              }
+            },
+            {
+              "point": "отказаться от + 生格",
+              "explanation": {
+                "ja": "от рыбы が諦める対象を示し、完了体未来 откажусь で選択を述べます。",
+                "en": "Отказаться от governs genitive рыбы; future откажусь states the choice."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "両方ほしいが両立しないとき、熊の掌を優先する例です。",
+              "en": "The example prioritizes bear’s paw when both desired foods are unavailable together."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -461,15 +1071,56 @@
           "ttsText": "فإن لم أستطع الجمع بينهما، تركت السمك واخترت كف الدب.",
           "vocabulary": [
             {
-              "term": "اخترت",
+              "term": "فإن لم أستطع",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "もし私ができなければ。",
+                "en": "If I am unable."
+              }
+            },
+            {
+              "term": "الجمع بينهما",
+              "meaning": {
+                "ja": "二つを一緒に得ること。",
+                "en": "Combining or obtaining both."
+              }
+            },
+            {
+              "term": "تركت السمك",
+              "meaning": {
+                "ja": "魚を手放した。",
+                "en": "I would leave the fish."
+              }
+            },
+            {
+              "term": "اخترت كف الدب",
+              "meaning": {
+                "ja": "熊の掌を選んだ。",
+                "en": "I would choose the bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "إن + لم + 動詞",
+              "explanation": {
+                "ja": "إن لم أستطع が両方を得られない条件を示します。",
+                "en": "إن لم أستطع states the condition of being unable to have both."
+              }
+            },
+            {
+              "point": "تركت ... واخترت ...",
+              "explanation": {
+                "ja": "二つの完了形を並べ、手放す物と選ぶ物を対比します。",
+                "en": "The paired perfect verbs contrast surrendering fish with choosing bear’s paw."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "二つの望みが両立しないなら一方を選ぶ、という論証の例です。",
+              "en": "The sentence gives a choice between two desired things that cannot be had together."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -494,18 +1145,61 @@
           "ttsText": "二者不可得兼，舍魚而取熊掌者也。",
           "vocabulary": [
             {
-              "term": "取",
+              "term": "二者",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "魚と熊掌の二つ。",
+                "en": "The two: fish and bear’s paw."
+              }
+            },
+            {
+              "term": "不可得兼",
+              "meaning": {
+                "ja": "同時に両方を得られない。",
+                "en": "Cannot obtain both together."
+              }
+            },
+            {
+              "term": "舍魚",
+              "meaning": {
+                "ja": "魚を捨てる。",
+                "en": "Give up fish."
+              }
+            },
+            {
+              "term": "取熊掌",
+              "meaning": {
+                "ja": "熊の掌を取る。",
+                "en": "Choose bear’s paw."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "不可 + 動詞",
+              "explanation": {
+                "ja": "不可得兼 で二つを同時に得ることができないと述べます。",
+                "en": "不可得兼 states that both cannot be obtained together."
+              }
+            },
+            {
+              "point": "舍 A 而取 B",
+              "explanation": {
+                "ja": "而 が二つの選択行為を結び、捨てる物と取る物を対比します。",
+                "en": "而 joins giving up A to taking B."
+              }
+            },
+            {
+              "point": "者也",
+              "explanation": {
+                "ja": "選択全体を受けて「そうするものだ」と判断を締めくくります。",
+                "en": "者也 closes the statement by presenting the whole choice as the asserted course."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "兼は両方を一緒に得ること。舍は捨てる意味で shě と読みます。者也が結びを作り、而が「捨てる」と「取る」をつなぎます。",
-              "en": "兼 means having both together. 舍 means give up and is read shě. 者也 closes the assertion, while 而 connects giving up one thing and taking the other."
+              "ja": "古典中国語で、両方望んでも両立できない場合の選択を簡潔に示します。",
+              "en": "The classical Chinese sentence states a forced choice in compact parallel verbs."
             }
           ],
           "translation": {
@@ -532,15 +1226,56 @@
           "ttsText": "둘 다 얻을 수 없다면 물고기를 버리고 곰의 발바닥을 택한다.",
           "vocabulary": [
             {
-              "term": "택한다",
+              "term": "둘 다",
               "meaning": {
-                "ja": "二つのうち価値を置く方を選ぶこと。",
-                "en": "Choosing the one valued more highly."
+                "ja": "魚と熊の掌の両方。",
+                "en": "Both desired things."
+              }
+            },
+            {
+              "term": "얻을 수 없다면",
+              "meaning": {
+                "ja": "手に入れられないなら。",
+                "en": "If they cannot be obtained."
+              }
+            },
+            {
+              "term": "물고기를 버리고",
+              "meaning": {
+                "ja": "魚を手放して。",
+                "en": "Give up fish."
+              }
+            },
+            {
+              "term": "곰의 발바닥을 택한다",
+              "meaning": {
+                "ja": "熊の掌を選ぶ。",
+                "en": "Choose the bear’s paw."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-(으)ㄹ 수 없다면",
+              "explanation": {
+                "ja": "얻을 수 없다면 が両方得られない条件を作ります。",
+                "en": "-(으)ㄹ 수 없다면 sets the condition of not being able to obtain both."
+              }
+            },
+            {
+              "point": "A를 버리고 B를 택하다",
+              "explanation": {
+                "ja": "二つの動詞を対にし、魚を捨てて熊の掌を選ぶことを示します。",
+                "en": "The paired verbs contrast relinquishing fish and choosing bear’s paw."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "両方望んでも一緒には得られないとき、優先して取る方を示しています。",
+              "en": "The line shows which desired thing is prioritized when both cannot be had."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -562,15 +1297,56 @@
           "ttsText": "せいめいもまたわたしのほっするものだ。ぎもまた、わたしのほっするものだ。",
           "vocabulary": [
             {
+              "term": "生命",
+              "meaning": {
+                "ja": "生きていること。",
+                "en": "Life itself."
+              }
+            },
+            {
+              "term": "もまた",
+              "meaning": {
+                "ja": "前の魚・熊掌と同じく、という追加。",
+                "en": "Also, extending the earlier list of desires."
+              }
+            },
+            {
+              "term": "欲するもの",
+              "meaning": {
+                "ja": "手に入れたいと願うもの。",
+                "en": "Something one desires."
+              }
+            },
+            {
               "term": "義",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "正しいと考える道を守ること。",
+                "en": "Righteousness or adherence to what is right."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Aもまた ... Bもまた ...",
+              "explanation": {
+                "ja": "同じ構文を二度繰り返し、生命と義の両方を望むと強調します。",
+                "en": "The repeated structure states that both life and righteousness are desired."
+              }
+            },
+            {
+              "point": "私の欲するもの",
+              "explanation": {
+                "ja": "の が望む主体を示し、欲するもの が対象を名詞句にします。",
+                "en": "私の marks who desires; 欲するもの names the desired thing."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊掌の比喩から、人として生きる上での生命と義へ話題を移します。",
+              "en": "The argument moves from the food analogy to life and righteousness as moral choices."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -587,15 +1363,56 @@
           "ttsText": "Life is also something I desire; righteousness is also something I desire.",
           "vocabulary": [
             {
+              "term": "Life",
+              "meaning": {
+                "ja": "生きていること。",
+                "en": "Being alive."
+              }
+            },
+            {
+              "term": "also",
+              "meaning": {
+                "ja": "前の二つの望みと同じく。",
+                "en": "Also, continuing the pattern of desire."
+              }
+            },
+            {
+              "term": "something I desire",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "Something I want."
+              }
+            },
+            {
               "term": "righteousness",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "正しさ・義を守ること。",
+                "en": "Moral rightness or integrity."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A is also something ...; B is also something ...",
+              "explanation": {
+                "ja": "同じ構造を繰り返し、二つとも望ましいと示します。",
+                "en": "The parallel clauses present both life and righteousness as desired."
+              }
+            },
+            {
+              "point": "I desire",
+              "explanation": {
+                "ja": "関係節が something を修飾し、話し手の望みだと示します。",
+                "en": "The relative clause specifies whose desire each item is."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌の選択が、生命と義という倫理上の選択へ移ります。",
+              "en": "The food choice is recast as a moral choice between life and righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -612,15 +1429,56 @@
           "ttsText": "La vida también es algo que deseo; la rectitud también es algo que deseo.",
           "vocabulary": [
             {
-              "term": "rectitud",
+              "term": "La vida",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "生きていること。",
+                "en": "Life."
+              }
+            },
+            {
+              "term": "también",
+              "meaning": {
+                "ja": "同じく、また。",
+                "en": "Also."
+              }
+            },
+            {
+              "term": "algo que deseo",
+              "meaning": {
+                "ja": "私の望むもの。",
+                "en": "Something I desire."
+              }
+            },
+            {
+              "term": "la rectitud",
+              "meaning": {
+                "ja": "正しい道を守ること。",
+                "en": "Moral uprightness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A también es algo ...; B también es algo ...",
+              "explanation": {
+                "ja": "同じ形を繰り返し、生命と義をともに望むと述べます。",
+                "en": "The repeated clauses place life and uprightness side by side as desires."
+              }
+            },
+            {
+              "point": "que deseo",
+              "explanation": {
+                "ja": "que が algo を受け、望む対象を説明します。",
+                "en": "Relative que modifies algo, defining it as desired."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌という具体例が、生命と正しさの選択に置き換わります。",
+              "en": "The concrete food example gives way to a choice involving life and moral rightness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -637,15 +1495,56 @@
           "ttsText": "La vie est aussi ce que je désire ; la droiture est aussi ce que je désire.",
           "vocabulary": [
             {
-              "term": "droiture",
+              "term": "La vie",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "生命。",
+                "en": "Life."
+              }
+            },
+            {
+              "term": "aussi",
+              "meaning": {
+                "ja": "また、同じく。",
+                "en": "Also."
+              }
+            },
+            {
+              "term": "ce que je désire",
+              "meaning": {
+                "ja": "私の望むもの。",
+                "en": "What I desire."
+              }
+            },
+            {
+              "term": "la droiture",
+              "meaning": {
+                "ja": "誠実に正しい道を守ること。",
+                "en": "Moral uprightness or integrity."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A est aussi ... ; B est aussi ...",
+              "explanation": {
+                "ja": "同じ構造を繰り返し、二つとも欲しいと強調します。",
+                "en": "The matching clauses present both life and uprightness as desired."
+              }
+            },
+            {
+              "point": "ce que + 主語 + 動詞",
+              "explanation": {
+                "ja": "ce que je désire が「私が望むもの」という名詞句になります。",
+                "en": "Ce que je désire functions as what I desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "食べ物の選択を、命と義のどちらを重んじるかという問いに移します。",
+              "en": "The food analogy becomes a question about prioritizing life or righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -662,15 +1561,56 @@
           "ttsText": "Das Leben ist ebenfalls etwas, das ich begehre; Rechtschaffenheit ist ebenfalls etwas, das ich begehre.",
           "vocabulary": [
             {
+              "term": "Das Leben",
+              "meaning": {
+                "ja": "生命。",
+                "en": "Life."
+              }
+            },
+            {
+              "term": "ebenfalls",
+              "meaning": {
+                "ja": "同じく、また。",
+                "en": "Likewise."
+              }
+            },
+            {
+              "term": "etwas, das ich begehre",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "Something I desire."
+              }
+            },
+            {
               "term": "Rechtschaffenheit",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "正しさ・義を守ること。",
+                "en": "Righteousness or integrity."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A ist ebenfalls ...; B ist ebenfalls ...",
+              "explanation": {
+                "ja": "同じ構造を反復し、二つとも望むと示します。",
+                "en": "The repeated construction treats both as desired."
+              }
+            },
+            {
+              "point": "das ich begehre",
+              "explanation": {
+                "ja": "関係代名詞 das が etwas を受け、望むものだと説明します。",
+                "en": "Relative das refers to etwas and specifies the desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "具体的な食べ物の例から、生命と義という倫理上の選択へ進みます。",
+              "en": "The food analogy shifts to the ethical choice of life and righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -687,15 +1627,56 @@
           "ttsText": "Жизнь — тоже то, чего я желаю; праведность — тоже то, чего я желаю.",
           "vocabulary": [
             {
+              "term": "Жизнь",
+              "meaning": {
+                "ja": "生命。",
+                "en": "Life."
+              }
+            },
+            {
+              "term": "тоже",
+              "meaning": {
+                "ja": "同じく、また。",
+                "en": "Also."
+              }
+            },
+            {
+              "term": "то, чего я желаю",
+              "meaning": {
+                "ja": "私の望むもの。",
+                "en": "What I desire."
+              }
+            },
+            {
               "term": "праведность",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "正しさ・義を守ること。",
+                "en": "Righteousness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A — тоже то ...; B — тоже то ...",
+              "explanation": {
+                "ja": "ダッシュを用いた同じ構造で、二つの望みを並べます。",
+                "en": "The repeated dash construction pairs the two desires."
+              }
+            },
+            {
+              "point": "чего я желаю",
+              "explanation": {
+                "ja": "желать が生格 чего を取り、望むものを示します。",
+                "en": "Желать takes genitive чего in the phrase what I desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌の例を、命と道徳的な正しさへ置き換えます。",
+              "en": "The passage substitutes life and moral rightness for the food example."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -712,15 +1693,56 @@
           "ttsText": "الحياة أيضًا مما أرغب فيه، والاستقامة أيضًا مما أرغب فيه.",
           "vocabulary": [
             {
+              "term": "الحياة",
+              "meaning": {
+                "ja": "生命。",
+                "en": "Life."
+              }
+            },
+            {
+              "term": "أيضًا",
+              "meaning": {
+                "ja": "また、同じく。",
+                "en": "Also."
+              }
+            },
+            {
+              "term": "مما أرغب فيه",
+              "meaning": {
+                "ja": "私が望むものの一つ。",
+                "en": "Among what I desire."
+              }
+            },
+            {
               "term": "الاستقامة",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "正しい道を守ること。",
+                "en": "Uprightness or integrity."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A أيضًا مما ...",
+              "explanation": {
+                "ja": "同じ構造を生命と義に繰り返し、両方を望むと示します。",
+                "en": "The repeated structure presents both life and uprightness as desired."
+              }
+            },
+            {
+              "point": "مما أرغب فيه",
+              "explanation": {
+                "ja": "فيه の ه は ما を受け、「私が望むもの」を作る関係表現です。",
+                "en": "The suffix ه in فيه refers back to ما within the phrase what I desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "食べ物の比較から、人が命と義をどう選ぶかという主題へ移ります。",
+              "en": "The argument shifts from foods to the ethical choice of life and righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -745,18 +1767,54 @@
           "ttsText": "生，亦我所欲也；義，亦我所欲也。",
           "vocabulary": [
             {
+              "term": "生",
+              "meaning": {
+                "ja": "生命・生きること。",
+                "en": "Life."
+              }
+            },
+            {
+              "term": "亦",
+              "meaning": {
+                "ja": "また、同じく。",
+                "en": "Also."
+              }
+            },
+            {
+              "term": "我所欲也",
+              "meaning": {
+                "ja": "私が望むものである。",
+                "en": "What I desire."
+              }
+            },
+            {
               "term": "義",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "正しい道を守ること。",
+                "en": "Righteousness."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "A，亦我所欲也",
+              "explanation": {
+                "ja": "話題を先に置き、所欲 で望むものと述べます。",
+                "en": "The topic appears first, followed by 所欲, what is desired."
+              }
+            },
+            {
+              "point": "二つの対句",
+              "explanation": {
+                "ja": "生 と 義 に同じ形を使い、両方欲することを強調します。",
+                "en": "Matching clauses stress that both life and righteousness are desired."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "魚と熊掌の対比を、生と義へ移します。義は状況にかなう道徳的な正しさで、単なる個人的な好みとは区別されます。",
-              "en": "The comparison shifts from fish and bear’s paw to life and 義: moral rightness or righteousness, distinguished from a mere personal preference."
+              "ja": "魚と熊掌の選択を、生命と義の選択へ移す古典中国語の対句です。",
+              "en": "These parallel classical clauses turn the food analogy into a moral choice."
             }
           ],
           "translation": {
@@ -783,15 +1841,56 @@
           "ttsText": "삶도 내가 바라는 것이며, 의로움도 내가 바라는 것이다.",
           "vocabulary": [
             {
-              "term": "의로움",
+              "term": "삶도",
               "meaning": {
-                "ja": "なすべきことをなす道徳的な正しさ。",
-                "en": "The moral rightness of doing what one ought to do."
+                "ja": "生命も。도 が「も」を示します。",
+                "en": "Life also, with additive 도."
+              }
+            },
+            {
+              "term": "내가 바라는 것",
+              "meaning": {
+                "ja": "私が望むもの。",
+                "en": "What I desire."
+              }
+            },
+            {
+              "term": "의로움도",
+              "meaning": {
+                "ja": "義・正しさも。",
+                "en": "Righteousness also."
+              }
+            },
+            {
+              "term": "것이다",
+              "meaning": {
+                "ja": "そういうものである、という断定。",
+                "en": "Is such a thing; a declarative ending."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "A도 ... B도 ...",
+              "explanation": {
+                "ja": "同じ形を繰り返し、生命と義の両方を望むと示します。",
+                "en": "Repeated 도 places both life and righteousness among desired things."
+              }
+            },
+            {
+              "point": "-는 것",
+              "explanation": {
+                "ja": "바라는 것 が「望むもの」を名詞化します。",
+                "en": "-는 것 forms the noun phrase what I desire."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌のたとえが、生命と義の優先順位の問題になります。",
+              "en": "The food example becomes a question of how to rank life and righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -813,15 +1912,56 @@
           "ttsText": "りょうほうをどうじにえられないなら、せいめいをすててぎをとる。",
           "vocabulary": [
             {
-              "term": "両方",
+              "term": "両方を同時に",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "生命と義をともに。",
+                "en": "Both life and righteousness at once."
+              }
+            },
+            {
+              "term": "得られないなら",
+              "meaning": {
+                "ja": "両立させられない場合。",
+                "en": "If both cannot be kept."
+              }
+            },
+            {
+              "term": "生命を捨てて",
+              "meaning": {
+                "ja": "命を手放して。",
+                "en": "Give up life."
+              }
+            },
+            {
+              "term": "義を取る",
+              "meaning": {
+                "ja": "正しい道を選ぶ。",
+                "en": "Choose righteousness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-ないなら",
+              "explanation": {
+                "ja": "生命と義を両立できない条件を示します。",
+                "en": "-ないなら sets the condition that both cannot be retained."
+              }
+            },
+            {
+              "point": "Aを捨ててBを取る",
+              "explanation": {
+                "ja": "前の魚と熊掌の構文を繰り返し、命より義を優先します。",
+                "en": "The repeated give-up-A/take-B structure now prioritizes righteousness over life."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚を捨て熊の掌を取る具体例に対応する、倫理上の結論です。",
+              "en": "This is the moral conclusion corresponding to giving up fish for bear’s paw."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -838,15 +1978,56 @@
           "ttsText": "If I cannot have both, I give up life and choose righteousness.",
           "vocabulary": [
             {
-              "term": "both",
+              "term": "cannot have both",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "生命と義の両方は保てない。",
+                "en": "Cannot retain both life and righteousness."
+              }
+            },
+            {
+              "term": "give up life",
+              "meaning": {
+                "ja": "命を手放す。",
+                "en": "Surrender life."
+              }
+            },
+            {
+              "term": "choose",
+              "meaning": {
+                "ja": "意識して選ぶ。",
+                "en": "Select deliberately."
+              }
+            },
+            {
+              "term": "righteousness",
+              "meaning": {
+                "ja": "正しさ・義。",
+                "en": "Moral rightness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "If + 条件",
+              "explanation": {
+                "ja": "生命と義が両立しない場合を仮定します。",
+                "en": "If introduces a situation where both cannot be had."
+              }
+            },
+            {
+              "point": "give up A and choose B",
+              "explanation": {
+                "ja": "前の食べ物の文と同じ構造で、命を手放し義を選ぶと述べます。",
+                "en": "The same structure as the food example now states the ethical priority."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "先の魚と熊の掌の選択を、生命より義を重んじる結論に移しています。",
+              "en": "The earlier food choice becomes a commitment to righteousness over life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -865,13 +2046,54 @@
             {
               "term": "ambas",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "生命と義の両方。",
+                "en": "Both life and uprightness."
+              }
+            },
+            {
+              "term": "renuncio a la vida",
+              "meaning": {
+                "ja": "命を手放す。",
+                "en": "I give up life."
+              }
+            },
+            {
+              "term": "elijo",
+              "meaning": {
+                "ja": "私は選ぶ。",
+                "en": "I choose."
+              }
+            },
+            {
+              "term": "la rectitud",
+              "meaning": {
+                "ja": "正しい道を守ること。",
+                "en": "Moral uprightness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Si + 現在形",
+              "explanation": {
+                "ja": "二つを同時に得られない条件を示します。",
+                "en": "Si plus present tense introduces the forced-choice condition."
+              }
+            },
+            {
+              "point": "renunciar a / elegir",
+              "explanation": {
+                "ja": "手放す対象を a la vida、選ぶ対象を la rectitud で対比します。",
+                "en": "Renunciar a marks what is given up; elegir names what is chosen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌の例に対応し、命より正しさを優先すると明言します。",
+              "en": "Matching the food example, the speaker prioritizes right conduct over life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -890,13 +2112,54 @@
             {
               "term": "les deux",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "生命と義の両方。",
+                "en": "Both desired things."
+              }
+            },
+            {
+              "term": "renonce à la vie",
+              "meaning": {
+                "ja": "命を諦める。",
+                "en": "Give up life."
+              }
+            },
+            {
+              "term": "choisis",
+              "meaning": {
+                "ja": "私は選ぶ。",
+                "en": "I choose."
+              }
+            },
+            {
+              "term": "la droiture",
+              "meaning": {
+                "ja": "正しい道を守ること。",
+                "en": "Moral uprightness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Si + 直説法現在",
+              "explanation": {
+                "ja": "両方を得られない場合を条件として示します。",
+                "en": "Si plus present indicative sets the choice condition."
+              }
+            },
+            {
+              "point": "renoncer à A / choisir B",
+              "explanation": {
+                "ja": "手放す命と選ぶ義を二つの動詞で対比します。",
+                "en": "The paired verbs contrast life surrendered with righteousness chosen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "先の食べ物の選択を倫理上の選択に移し、義を重んじます。",
+              "en": "The food comparison turns into a moral choice favoring righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -913,15 +2176,56 @@
           "ttsText": "Wenn ich nicht beides zugleich haben kann, gebe ich das Leben auf und wähle die Rechtschaffenheit.",
           "vocabulary": [
             {
-              "term": "beides",
+              "term": "beides zugleich",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "二つとも同時に。",
+                "en": "Both at once."
+              }
+            },
+            {
+              "term": "das Leben aufgeben",
+              "meaning": {
+                "ja": "生命を手放す。",
+                "en": "Give up life."
+              }
+            },
+            {
+              "term": "wähle",
+              "meaning": {
+                "ja": "私は選ぶ。",
+                "en": "I choose."
+              }
+            },
+            {
+              "term": "Rechtschaffenheit",
+              "meaning": {
+                "ja": "正しさ・義。",
+                "en": "Righteousness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Wenn + 従属節",
+              "explanation": {
+                "ja": "生命と義が両立しない場合を先に示します。",
+                "en": "The Wenn clause sets the condition that both cannot be had."
+              }
+            },
+            {
+              "point": "aufgeben / wählen",
+              "explanation": {
+                "ja": "命を諦める動詞と義を選ぶ動詞を並べ、優先順位を示します。",
+                "en": "The paired verbs distinguish what is surrendered from what is chosen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌で示した選択の論理を、生命と義に適用します。",
+              "en": "The logic of the fish and bear’s-paw example is applied to life and righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -938,15 +2242,56 @@
           "ttsText": "Если нельзя сохранить и то и другое, я откажусь от жизни и выберу праведность.",
           "vocabulary": [
             {
-              "term": "и то и другое",
+              "term": "сохранить и то и другое",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "両方を保つ。",
+                "en": "Keep both things."
+              }
+            },
+            {
+              "term": "откажусь от жизни",
+              "meaning": {
+                "ja": "命を手放す。",
+                "en": "I will give up life."
+              }
+            },
+            {
+              "term": "выберу",
+              "meaning": {
+                "ja": "私は選ぶ。",
+                "en": "I will choose."
+              }
+            },
+            {
+              "term": "праведность",
+              "meaning": {
+                "ja": "義・正しさ。",
+                "en": "Righteousness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Если + 不定詞",
+              "explanation": {
+                "ja": "Если нельзя сохранить ... で、両方を保てない場合を一般的に示します。",
+                "en": "Если plus нельзя and infinitive sets a general inability to keep both."
+              }
+            },
+            {
+              "point": "完了体未来の対",
+              "explanation": {
+                "ja": "откажусь と выберу が、条件に対する一つの決断を表します。",
+                "en": "The paired perfective futures present a definite choice under the condition."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌の比較から、命と義を両立できなければ義を選ぶという判断へ進みます。",
+              "en": "The food comparison leads to choosing righteousness when life and righteousness cannot both be kept."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -963,15 +2308,56 @@
           "ttsText": "فإن لم أستطع الجمع بينهما، تركت الحياة واخترت الاستقامة.",
           "vocabulary": [
             {
+              "term": "فإن لم أستطع",
+              "meaning": {
+                "ja": "もし私ができなければ。",
+                "en": "If I cannot."
+              }
+            },
+            {
               "term": "الجمع بينهما",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "二つをともに保つこと。",
+                "en": "Combining both."
+              }
+            },
+            {
+              "term": "تركت الحياة",
+              "meaning": {
+                "ja": "生命を手放す。",
+                "en": "I would give up life."
+              }
+            },
+            {
+              "term": "اخترت الاستقامة",
+              "meaning": {
+                "ja": "義・正しい道を選ぶ。",
+                "en": "I would choose uprightness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "إن لم + 動詞",
+              "explanation": {
+                "ja": "両方を得られない条件を示します。",
+                "en": "إن لم plus verb sets the inability to keep both."
+              }
+            },
+            {
+              "point": "تركت ... واخترت ...",
+              "explanation": {
+                "ja": "先の魚と熊掌の文と同じ動詞を使い、生命と義に選択を移します。",
+                "en": "The same paired verbs as in the food example now govern life and uprightness."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "具体的な食べ物の選択から、命より義を重んじる結論へ進みます。",
+              "en": "The concrete food choice becomes a conclusion favoring moral uprightness over life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -996,18 +2382,54 @@
           "ttsText": "二者不可得兼，捨生而取義者也。",
           "vocabulary": [
             {
-              "term": "兼",
+              "term": "二者",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "生命と義の二つ。",
+                "en": "The two: life and righteousness."
+              }
+            },
+            {
+              "term": "不可得兼",
+              "meaning": {
+                "ja": "同時に両方を得られない。",
+                "en": "Cannot have both at once."
+              }
+            },
+            {
+              "term": "捨生",
+              "meaning": {
+                "ja": "生命を手放す。",
+                "en": "Surrender life."
+              }
+            },
+            {
+              "term": "取義",
+              "meaning": {
+                "ja": "義を選ぶ。",
+                "en": "Choose righteousness."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "舍／捨 A 而取 B",
+              "explanation": {
+                "ja": "前文の魚と熊掌の選択と同じ構文で、今回は生を捨て義を取ります。",
+                "en": "The same surrender-A/take-B structure now applies to life and righteousness."
+              }
+            },
+            {
+              "point": "者也",
+              "explanation": {
+                "ja": "選択全体を受け、その判断を断定して締めくくります。",
+                "en": "者也 closes the assertion of the whole choice."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "二つ前の文と同じ構文を反復し、魚→生、熊掌→義へ語を置き換えて論を進めています。本文の舍／捨の字形差は採用版のままです。",
-              "en": "This repeats the structure of the earlier choice, replacing fish with life and bear’s paw with righteousness. The source’s differing forms 舍 and 捨 are retained."
+              "ja": "古典中国語の対句が、食べ物の比喩を生命と義の倫理的な優先順位に変えます。",
+              "en": "The parallel classical form converts the food analogy into an ethical priority."
             }
           ],
           "translation": {
@@ -1036,13 +2458,54 @@
             {
               "term": "둘 다",
               "meaning": {
-                "ja": "二つを同時に保つこと。",
-                "en": "Having or keeping both at the same time."
+                "ja": "命と義の両方。",
+                "en": "Both life and righteousness."
+              }
+            },
+            {
+              "term": "얻을 수 없다면",
+              "meaning": {
+                "ja": "両立できないなら。",
+                "en": "If both cannot be had."
+              }
+            },
+            {
+              "term": "삶을 버리고",
+              "meaning": {
+                "ja": "命を手放して。",
+                "en": "Give up life."
+              }
+            },
+            {
+              "term": "의로움을 택한다",
+              "meaning": {
+                "ja": "義を選ぶ。",
+                "en": "Choose righteousness."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-(으)ㄹ 수 없다면",
+              "explanation": {
+                "ja": "二つを同時に保てないという条件を示します。",
+                "en": "The conditional says both cannot be retained."
+              }
+            },
+            {
+              "point": "A를 버리고 B를 택하다",
+              "explanation": {
+                "ja": "先の食べ物と同じ型で、命を捨てて義を取ると述べます。",
+                "en": "The earlier food-choice pattern now places righteousness above life."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊の掌の比喩に対応する、命と義についての結論です。",
+              "en": "This states the moral counterpart to the earlier fish-and-bear’s-paw choice."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1064,15 +2527,63 @@
           "ttsText": "せいめいもわたしのほっするものだが、ほっするもののなかにはせいめいよりおもいものがある。だから、むやみにいきのびようとはしない。",
           "vocabulary": [
             {
-              "term": "生命より",
+              "term": "生命も私の欲するもの",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "命は大切で、望ましいもの。",
+                "en": "Life is desired and valued."
+              }
+            },
+            {
+              "term": "生命より重いもの",
+              "meaning": {
+                "ja": "命以上に大切にするもの。文脈では義。",
+                "en": "Something valued above life; righteousness in this context."
+              }
+            },
+            {
+              "term": "だから",
+              "meaning": {
+                "ja": "前の比較から結論を導く。",
+                "en": "Therefore, introducing the consequence."
+              }
+            },
+            {
+              "term": "むやみに生き延びようとはしない",
+              "meaning": {
+                "ja": "どんな手段でも命を保とうとはしない。",
+                "en": "Will not try to survive by just any means."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-が + 対比",
+              "explanation": {
+                "ja": "命を望むという事実を認めたうえで、それ以上に重いものがあると転じます。",
+                "en": "-が concedes the desire for life before introducing a higher priority."
+              }
+            },
+            {
+              "point": "より + 比較",
+              "explanation": {
+                "ja": "生命より重い で、義の価値が命を上回ると述べます。",
+                "en": "より compares the value of righteousness with life."
+              }
+            },
+            {
+              "point": "-ようとはしない",
+              "explanation": {
+                "ja": "生き延びようとする意志を、無条件には持たないと否定します。",
+                "en": "-ようとはしない negates the intention to survive at any cost."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の「生命を捨てて義を取る」理由を説明します。生命を軽視するのではなく、義をさらに重く見ています。",
+              "en": "This explains choosing righteousness over life: life matters, but righteousness matters more."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1089,15 +2600,70 @@
           "ttsText": "Life is something I desire, but there is something I desire more than life; therefore I do not seek to preserve it by any means whatever.",
           "vocabulary": [
             {
-              "term": "more than life",
+              "term": "Life",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "望ましい生命。",
+                "en": "Life, which the speaker values."
+              }
+            },
+            {
+              "term": "something I desire more than life",
+              "meaning": {
+                "ja": "命以上に望むもの、文脈では義。",
+                "en": "Something desired above life, here righteousness."
+              }
+            },
+            {
+              "term": "therefore",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "For that reason."
+              }
+            },
+            {
+              "term": "preserve it",
+              "meaning": {
+                "ja": "命を保つ。it は life を指す。",
+                "en": "Keep life; it refers to life."
+              }
+            },
+            {
+              "term": "by any means whatever",
+              "meaning": {
+                "ja": "手段を問わずに。",
+                "en": "By any means, regardless of their moral cost."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "but + 比較",
+              "explanation": {
+                "ja": "命を望むことを認めながら、さらに望むものがあると対比します。",
+                "en": "But contrasts desire for life with a stronger desire."
+              }
+            },
+            {
+              "point": "there is something ...",
+              "explanation": {
+                "ja": "存在構文が生命より重んじる対象を導入し、後半の行動の理由になります。",
+                "en": "The existential clause introduces the higher value that motivates the conclusion."
+              }
+            },
+            {
+              "point": "do not seek to + 動詞",
+              "explanation": {
+                "ja": "do not seek to preserve it で、どんな手段でも生き残ろうとはしないと表します。",
+                "en": "Do not seek to preserve it rejects survival at any cost."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "義という高い価値があるため、命を守る手段にも限界があると述べます。",
+              "en": "Because righteousness ranks higher, the speaker sets a limit on the means used to survive."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1114,15 +2680,70 @@
           "ttsText": "La vida es algo que deseo, pero hay algo que deseo más que la vida; por eso no trato de conservarla a cualquier precio.",
           "vocabulary": [
             {
-              "term": "más que la vida",
+              "term": "La vida",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "望ましい生命。",
+                "en": "Life, which is valued."
+              }
+            },
+            {
+              "term": "algo que deseo más que la vida",
+              "meaning": {
+                "ja": "命より望むもの。",
+                "en": "Something desired more than life."
+              }
+            },
+            {
+              "term": "por eso",
+              "meaning": {
+                "ja": "だから、そのため。",
+                "en": "For that reason."
+              }
+            },
+            {
+              "term": "conservarla",
+              "meaning": {
+                "ja": "それを保つ。la は vida を指す。",
+                "en": "Preserve it; la refers to vida."
+              }
+            },
+            {
+              "term": "a cualquier precio",
+              "meaning": {
+                "ja": "どんな犠牲を払っても。",
+                "en": "At any price."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "pero + 比較",
+              "explanation": {
+                "ja": "生命への望みを認めたうえで、それ以上に重いものがあると転じます。",
+                "en": "Pero concedes valuing life before a higher priority."
+              }
+            },
+            {
+              "point": "más que + 名詞",
+              "explanation": {
+                "ja": "más que la vida が、命より強い望みを示します。",
+                "en": "Más que la vida states the stronger desire."
+              }
+            },
+            {
+              "point": "no trato de + 不定詞",
+              "explanation": {
+                "ja": "no trato de conservarla で、無条件の延命を求めないと表します。",
+                "en": "No trato de conservarla rejects preserving life at every cost."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "命は大切でも、それより義を重んじるため、どんな手段でも生き残るとはしません。",
+              "en": "Life matters, but a stronger commitment to right conduct limits the means of survival."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1139,15 +2760,70 @@
           "ttsText": "La vie est ce que je désire, mais il est des choses que je désire plus que la vie ; c'est pourquoi je ne cherche pas à la conserver à tout prix.",
           "vocabulary": [
             {
+              "term": "La vie",
+              "meaning": {
+                "ja": "望ましい生命。",
+                "en": "Life, which is valued."
+              }
+            },
+            {
               "term": "plus que la vie",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "命よりも強く。",
+                "en": "More than life."
+              }
+            },
+            {
+              "term": "c'est pourquoi",
+              "meaning": {
+                "ja": "だから。",
+                "en": "That is why."
+              }
+            },
+            {
+              "term": "la conserver",
+              "meaning": {
+                "ja": "命を保つ。la は vie を指す。",
+                "en": "Preserve it; la refers to vie."
+              }
+            },
+            {
+              "term": "à tout prix",
+              "meaning": {
+                "ja": "どんな代償を払っても。",
+                "en": "At any price."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "mais + 比較",
+              "explanation": {
+                "ja": "命を望むことを認めながら、より強い望みと対比します。",
+                "en": "Mais contrasts desire for life with a stronger desire."
+              }
+            },
+            {
+              "point": "il est des choses que ...",
+              "explanation": {
+                "ja": "「…するものがある」という文語的な存在表現です。",
+                "en": "Il est des choses que is a literary way to say there are things that."
+              }
+            },
+            {
+              "point": "ne ... pas à tout prix",
+              "explanation": {
+                "ja": "命を保つことを全面否定せず、「どんな代償でも」という無条件さを否定します。",
+                "en": "The negation rejects preservation at any price, not the value of life itself."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "義を命より重んじるため、生き延びる手段を選ぶという論理です。",
+              "en": "The argument values righteousness above life and therefore places moral limits on survival."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1164,15 +2840,70 @@
           "ttsText": "Das Leben begehre ich, doch es gibt etwas, das ich mehr begehre als das Leben; deshalb suche ich nicht, es um jeden Preis zu bewahren.",
           "vocabulary": [
             {
-              "term": "mehr begehre als das Leben",
+              "term": "Das Leben",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "望ましい生命。",
+                "en": "Life, which is valued."
+              }
+            },
+            {
+              "term": "mehr ... als das Leben",
+              "meaning": {
+                "ja": "命より強く。",
+                "en": "More than life."
+              }
+            },
+            {
+              "term": "deshalb",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "bewahren",
+              "meaning": {
+                "ja": "保つ、守る。",
+                "en": "Preserve."
+              }
+            },
+            {
+              "term": "um jeden Preis",
+              "meaning": {
+                "ja": "どんな代償を払っても。",
+                "en": "At any price."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "doch + 比較",
+              "explanation": {
+                "ja": "生命を望むことを認め、より重いものがあると対比します。",
+                "en": "Doch contrasts valuing life with a higher priority."
+              }
+            },
+            {
+              "point": "es gibt etwas, das ...",
+              "explanation": {
+                "ja": "関係節が生命より望む対象を説明します。",
+                "en": "The relative clause identifies the thing desired above life."
+              }
+            },
+            {
+              "point": "nicht ... um jeden Preis",
+              "explanation": {
+                "ja": "生存そのものではなく、無条件の延命を否定します。",
+                "en": "The negation rejects survival at any cost, not life itself."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "魚と熊掌の選択を受け、命より義を優先する理由を述べます。",
+              "en": "The line explains the earlier choice by placing righteousness above life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1189,15 +2920,70 @@
           "ttsText": "Я желаю жизни, но есть то, чего я желаю больше жизни; поэтому я не стремлюсь сохранить её любой ценой.",
           "vocabulary": [
             {
+              "term": "желаю жизни",
+              "meaning": {
+                "ja": "命を望む。",
+                "en": "Desire life."
+              }
+            },
+            {
               "term": "больше жизни",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "生命よりも強く。",
+                "en": "More than life."
+              }
+            },
+            {
+              "term": "поэтому",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "сохранить её",
+              "meaning": {
+                "ja": "命を保つ。её は жизнь を指す。",
+                "en": "Preserve it; её refers to life."
+              }
+            },
+            {
+              "term": "любой ценой",
+              "meaning": {
+                "ja": "どんな代償を払っても。",
+                "en": "At any price."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "но + 比較",
+              "explanation": {
+                "ja": "生命を望む一方で、それ以上に望むものがあると対比します。",
+                "en": "Но contrasts desire for life with a higher desire."
+              }
+            },
+            {
+              "point": "чего я желаю",
+              "explanation": {
+                "ja": "желать が生格 чего を取り、望みの対象を表します。",
+                "en": "Желать takes genitive чего for what is desired."
+              }
+            },
+            {
+              "point": "не стремлюсь + 不定詞",
+              "explanation": {
+                "ja": "не стремлюсь сохранить ... любой ценой で、無条件に延命しようとはしないと述べます。",
+                "en": "The phrase rejects trying to preserve life at any cost."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "命を重視しつつ、それ以上に義を重んじるため、手段を問わず生き延びることはしません。",
+              "en": "Life is valued, but righteousness places a limit on the means of survival."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1214,15 +3000,70 @@
           "ttsText": "الحياة مما أرغب فيه، لكن هناك ما أرغب فيه أكثر من الحياة، ولذلك لا أسعى إلى البقاء بأي وسيلة كانت.",
           "vocabulary": [
             {
+              "term": "الحياة",
+              "meaning": {
+                "ja": "望ましい生命。",
+                "en": "Life, which is valued."
+              }
+            },
+            {
               "term": "أكثر من الحياة",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "命より強く。",
+                "en": "More than life."
+              }
+            },
+            {
+              "term": "ولذلك",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "لا أسعى إلى البقاء",
+              "meaning": {
+                "ja": "生き残ることを追求しない。",
+                "en": "I do not seek to survive."
+              }
+            },
+            {
+              "term": "بأي وسيلة كانت",
+              "meaning": {
+                "ja": "どんな手段でも。",
+                "en": "By whatever means."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "لكن + 比較",
+              "explanation": {
+                "ja": "命を望むことを認めながら、さらに望むものがあると転じます。",
+                "en": "لكن contrasts desire for life with a higher desire."
+              }
+            },
+            {
+              "point": "هناك ما + 動詞",
+              "explanation": {
+                "ja": "هناك ما أرغب فيه が「望むものがある」という存在を示します。",
+                "en": "هناك ما أرغب فيه introduces something else the speaker desires."
+              }
+            },
+            {
+              "point": "لا ... بأي وسيلة",
+              "explanation": {
+                "ja": "生存自体よりも、手段を問わない生存追求を否定します。",
+                "en": "The negation rejects survival by any means rather than the value of life."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "生命以上に義を重んじるため、延命の方法を無条件には選ばないという結論です。",
+              "en": "Righteousness is valued above life, so the speaker rejects survival at any moral cost."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1243,18 +3084,61 @@
           "ttsText": "生亦我所欲，所欲有甚於生者，故不為茍得也。",
           "vocabulary": [
             {
-              "term": "甚於生",
+              "term": "生亦我所欲",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "生命も私が望むもの。",
+                "en": "Life, too, is what I desire."
+              }
+            },
+            {
+              "term": "所欲有甚於生者",
+              "meaning": {
+                "ja": "望みの中には生命より重いものがある。",
+                "en": "Among my desires is one valued above life."
+              }
+            },
+            {
+              "term": "故",
+              "meaning": {
+                "ja": "だから、という結論の接続語。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "不為茍得",
+              "meaning": {
+                "ja": "不義な方法でむやみに命を得ようとはしない。",
+                "en": "Do not obtain survival by unprincipled means."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "所欲 + 有 ... 者",
+              "explanation": {
+                "ja": "所欲 の中に、生命を上回るものがあると名詞句で示します。",
+                "en": "The construction states that among desired things is one surpassing life."
+              }
+            },
+            {
+              "point": "甚於 + 名詞",
+              "explanation": {
+                "ja": "甚於生 で、生命より強い望み・価値を表します。",
+                "en": "甚於生 means surpassing life in value or desire."
+              }
+            },
+            {
+              "point": "故 + 結論",
+              "explanation": {
+                "ja": "故 が前の価値判断から、不義な延命はしないという結論を導きます。",
+                "en": "故 connects the value comparison to the refusal of unprincipled survival."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "甚於は「〜より甚だしい」という比較。茍得は道義を顧みず生を得ることです。為はここでは「行う」の意味で wéi と読みます。",
-              "en": "甚於 makes a comparison, “greater than.” 茍得 means obtaining survival without regard for moral rightness. 為 is wéi here, meaning do or pursue."
+              "ja": "茍得 は単に命を保つことではなく、正しさを犠牲にしてでも生き延びることを指します。",
+              "en": "茍得 concerns gaining survival at the cost of principle, not merely staying alive."
             }
           ],
           "translation": {
@@ -1281,15 +3165,63 @@
           "ttsText": "삶도 내가 바라는 것이지만, 삶보다 더 바라는 것이 있으므로 구차하게 목숨을 얻으려 하지 않는다.",
           "vocabulary": [
             {
-              "term": "삶보다 더",
+              "term": "삶도 내가 바라는 것",
               "meaning": {
-                "ja": "生命を保つことより優先される価値。",
-                "en": "A value given priority over preserving life."
+                "ja": "命も望ましいもの。",
+                "en": "Life is desired."
+              }
+            },
+            {
+              "term": "삶보다 더 바라는 것",
+              "meaning": {
+                "ja": "生命以上に望むもの。",
+                "en": "Something desired above life."
+              }
+            },
+            {
+              "term": "구차하게",
+              "meaning": {
+                "ja": "体面や道義を損ねるやり方で。",
+                "en": "In a degrading or unprincipled way."
+              }
+            },
+            {
+              "term": "목숨을 얻으려 하지 않는다",
+              "meaning": {
+                "ja": "命を保とうとはしない。",
+                "en": "Does not try to preserve life."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-지만 + 比較",
+              "explanation": {
+                "ja": "命を望むことを認めつつ、より望むものがあると対比します。",
+                "en": "-지만 concedes the desire for life before a higher desire."
+              }
+            },
+            {
+              "point": "-으므로 + 結論",
+              "explanation": {
+                "ja": "価値の比較を理由に、無理な延命を拒む結論へ進みます。",
+                "en": "-으므로 turns the value comparison into a reason for the conclusion."
+              }
+            },
+            {
+              "point": "-(으)려 하지 않다",
+              "explanation": {
+                "ja": "얻으려 하지 않는다 は、そうしようという意志を否定します。",
+                "en": "-(으)려 하지 않다 rejects the intention to gain life that way."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "義を命より重く見るから、手段を問わず生き延びることはしないと述べます。",
+              "en": "Valuing righteousness above life sets a limit on how one seeks to survive."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1311,15 +3243,63 @@
           "ttsText": "しもまたわたしのきらうものだが、きらうもののなかにはしよりおもいものがある。だから、わざわいのなかにもさけないものがある。",
           "vocabulary": [
             {
-              "term": "避けない",
+              "term": "死もまた私の嫌うもの",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "死を避けたいと思うこと。",
+                "en": "Death is also something the speaker dislikes."
+              }
+            },
+            {
+              "term": "死より重いもの",
+              "meaning": {
+                "ja": "死よりさらに避けたいもの。文脈では義に反すること。",
+                "en": "Something worse than death; here, betraying righteousness."
+              }
+            },
+            {
+              "term": "だから",
+              "meaning": {
+                "ja": "前の比較から結論を導く。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "災いの中にも避けないもの",
+              "meaning": {
+                "ja": "危険でも、避けずに引き受けるものがある。",
+                "en": "Some dangers one does not avoid."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-が + 対比",
+              "explanation": {
+                "ja": "死を嫌うことを認めながら、それ以上に嫌うものがあると述べます。",
+                "en": "-が concedes dislike of death before a stronger aversion."
+              }
+            },
+            {
+              "point": "より + 比較",
+              "explanation": {
+                "ja": "死より重い で、死以上に避けたい事柄を比べます。",
+                "en": "より marks a thing judged more serious than death."
+              }
+            },
+            {
+              "point": "-の中にも + 否定",
+              "explanation": {
+                "ja": "災いの中にも避けないものがある と述べ、すべての危険を避けるわけではないと示します。",
+                "en": "The construction states that some dangers are not avoided, rather than all dangers."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の「命より大切なもの」に対応し、義に反するくらいなら危険を引き受けるという考えを示します。",
+              "en": "Paired with the previous line, this says one may face danger rather than violate righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1336,15 +3316,70 @@
           "ttsText": "Death is also something I dislike, but there is something I dislike more than death; therefore there are dangers I do not avoid.",
           "vocabulary": [
             {
+              "term": "Death",
+              "meaning": {
+                "ja": "嫌う対象となる死。",
+                "en": "Death, which is disliked."
+              }
+            },
+            {
+              "term": "something I dislike more than death",
+              "meaning": {
+                "ja": "死より嫌うもの。",
+                "en": "Something worse than death in the speaker’s judgment."
+              }
+            },
+            {
+              "term": "therefore",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "For that reason."
+              }
+            },
+            {
+              "term": "dangers",
+              "meaning": {
+                "ja": "危険・災い。",
+                "en": "Dangers or harms."
+              }
+            },
+            {
               "term": "do not avoid",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "避けない。",
+                "en": "Do not evade."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "but + 比較",
+              "explanation": {
+                "ja": "死を嫌うことを認めながら、さらに嫌うものがあると述べます。",
+                "en": "But contrasts dislike of death with an even stronger aversion."
+              }
+            },
+            {
+              "point": "more than + 名詞",
+              "explanation": {
+                "ja": "more than death が嫌悪の強さを比べます。",
+                "en": "More than death gives the comparison point."
+              }
+            },
+            {
+              "point": "there are ... I do not ...",
+              "explanation": {
+                "ja": "存在構文が避けない危険もあると示し、すべての危険を無視する意味にはしません。",
+                "en": "The existential clause says some dangers are faced, not that every danger is ignored."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "死より義に反することを恐れるため、避けずに受ける危険があるという論理です。",
+              "en": "Because violating righteousness is judged worse, some dangers are accepted."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1361,15 +3396,70 @@
           "ttsText": "La muerte también es algo que detesto, pero hay algo que detesto más que la muerte; por eso hay peligros que no evito.",
           "vocabulary": [
             {
+              "term": "La muerte",
+              "meaning": {
+                "ja": "死。",
+                "en": "Death."
+              }
+            },
+            {
+              "term": "detesto más que la muerte",
+              "meaning": {
+                "ja": "死より強く嫌う。",
+                "en": "Detest more than death."
+              }
+            },
+            {
+              "term": "por eso",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "peligros",
+              "meaning": {
+                "ja": "危険・災い。",
+                "en": "Dangers."
+              }
+            },
+            {
               "term": "no evito",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "避けない。",
+                "en": "I do not avoid."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "pero + 比較",
+              "explanation": {
+                "ja": "死への嫌悪を認めつつ、もっと嫌うものを示します。",
+                "en": "Pero concedes dislike of death before a greater aversion."
+              }
+            },
+            {
+              "point": "más que + 名詞",
+              "explanation": {
+                "ja": "más que la muerte で、嫌悪の程度を死と比べます。",
+                "en": "Más que la muerte compares the degree of aversion."
+              }
+            },
+            {
+              "point": "hay peligros que ...",
+              "explanation": {
+                "ja": "存在表現と関係節で、避けない危険もあると述べます。",
+                "en": "Hay plus relative clause identifies some dangers not avoided."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "義を失う方が死より悪いと考え、危険を引き受ける場合があると述べます。",
+              "en": "Some dangers are accepted because the loss of moral integrity is judged worse than death."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1386,15 +3476,70 @@
           "ttsText": "La mort est aussi ce que je déteste, mais il est des choses que je déteste plus que la mort ; c'est pourquoi il est des périls que je n'évite pas.",
           "vocabulary": [
             {
-              "term": "n'évite",
+              "term": "La mort",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "死。",
+                "en": "Death."
+              }
+            },
+            {
+              "term": "déteste plus que la mort",
+              "meaning": {
+                "ja": "死より強く嫌う。",
+                "en": "Dislike more than death."
+              }
+            },
+            {
+              "term": "c'est pourquoi",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "That is why."
+              }
+            },
+            {
+              "term": "périls",
+              "meaning": {
+                "ja": "危険・災い。",
+                "en": "Dangers."
+              }
+            },
+            {
+              "term": "je n'évite pas",
+              "meaning": {
+                "ja": "私は避けない。",
+                "en": "I do not avoid."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "mais + 比較",
+              "explanation": {
+                "ja": "死を嫌う一方で、さらに嫌うものがあると述べます。",
+                "en": "Mais contrasts aversion to death with a stronger aversion."
+              }
+            },
+            {
+              "point": "il est des choses / des périls",
+              "explanation": {
+                "ja": "文語的な存在表現を二度使い、より嫌うものと避けない危険を示します。",
+                "en": "The literary existential form introduces both a worse thing and dangers faced."
+              }
+            },
+            {
+              "point": "ne ... pas",
+              "explanation": {
+                "ja": "すべての危険ではなく、特定の危険を避けないという否定です。",
+                "en": "The negation applies to avoiding particular dangers, not to all dangers."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の命への欲求と対をなし、義を守るために危険を受ける可能性を示します。",
+              "en": "Paired with the desire for life, this line allows accepting danger to preserve righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1411,15 +3556,70 @@
           "ttsText": "Auch den Tod verabscheue ich, doch es gibt etwas, das ich mehr verabscheue als den Tod; deshalb gibt es Gefahren, denen ich nicht ausweiche.",
           "vocabulary": [
             {
+              "term": "den Tod",
+              "meaning": {
+                "ja": "死を。",
+                "en": "Death."
+              }
+            },
+            {
+              "term": "verabscheue",
+              "meaning": {
+                "ja": "強く嫌う。",
+                "en": "Abhor."
+              }
+            },
+            {
+              "term": "mehr ... als den Tod",
+              "meaning": {
+                "ja": "死以上に。",
+                "en": "More than death."
+              }
+            },
+            {
+              "term": "Gefahren",
+              "meaning": {
+                "ja": "危険・災い。",
+                "en": "Dangers."
+              }
+            },
+            {
               "term": "nicht ausweiche",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "避けない。",
+                "en": "Do not evade."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "doch + 比較",
+              "explanation": {
+                "ja": "死を嫌うことを認め、より嫌うものとの対比を作ります。",
+                "en": "Doch contrasts fear of death with a stronger aversion."
+              }
+            },
+            {
+              "point": "es gibt etwas, das ...",
+              "explanation": {
+                "ja": "関係節で死より嫌う対象があると述べます。",
+                "en": "The relative clause identifies something judged worse than death."
+              }
+            },
+            {
+              "point": "ausweichen + 与格",
+              "explanation": {
+                "ja": "denen は Gefahren を受ける与格の関係代名詞で、避けない危険を示します。",
+                "en": "Dative denen refers to Gefahren, the dangers one does not evade."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前文の「命は望むが無条件には保たない」と対応し、義のために危険を避けないと述べます。",
+              "en": "The line pairs with the refusal to preserve life at any cost and explains facing danger for principle."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1436,15 +3636,70 @@
           "ttsText": "Смерть — тоже то, что я ненавижу, но есть то, что я ненавижу больше смерти; поэтому есть беды, которых я не избегаю.",
           "vocabulary": [
             {
+              "term": "Смерть",
+              "meaning": {
+                "ja": "死。",
+                "en": "Death."
+              }
+            },
+            {
+              "term": "ненавижу больше смерти",
+              "meaning": {
+                "ja": "死よりさらに嫌う。",
+                "en": "Hate more than death."
+              }
+            },
+            {
+              "term": "поэтому",
+              "meaning": {
+                "ja": "そのため。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "беды",
+              "meaning": {
+                "ja": "災い。",
+                "en": "Misfortunes or dangers."
+              }
+            },
+            {
               "term": "не избегаю",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "避けない。",
+                "en": "Do not avoid."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "но + 比較",
+              "explanation": {
+                "ja": "死への嫌悪を認め、さらに嫌うものがあると述べます。",
+                "en": "Но contrasts dislike of death with a stronger aversion."
+              }
+            },
+            {
+              "point": "больше + 生格",
+              "explanation": {
+                "ja": "больше смерти で、死を比較の基準にします。",
+                "en": "Больше plus genitive смерти sets death as the comparison."
+              }
+            },
+            {
+              "point": "избегать + 生格",
+              "explanation": {
+                "ja": "которых が беды を受け、生格で「避けない災い」を表します。",
+                "en": "Genitive которых refers to беды as the dangers not avoided."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "死より義を失うことを嫌うため、受け入れる危険もあるという論理です。",
+              "en": "The reasoning allows facing some dangers because loss of righteousness is judged worse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1461,15 +3716,70 @@
           "ttsText": "والموت أيضًا مما أكره، لكن هناك ما أكرهه أكثر من الموت، ولذلك توجد أخطار لا أتجنبها.",
           "vocabulary": [
             {
+              "term": "الموت",
+              "meaning": {
+                "ja": "死。",
+                "en": "Death."
+              }
+            },
+            {
+              "term": "مما أكره",
+              "meaning": {
+                "ja": "私が嫌うものの一つ。",
+                "en": "Among what I dislike."
+              }
+            },
+            {
+              "term": "أكثر من الموت",
+              "meaning": {
+                "ja": "死より強く。",
+                "en": "More than death."
+              }
+            },
+            {
+              "term": "أخطار",
+              "meaning": {
+                "ja": "危険・災い。",
+                "en": "Dangers."
+              }
+            },
+            {
               "term": "لا أتجنبها",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "私はそれらを避けない。",
+                "en": "I do not avoid them."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "لكن + 比較",
+              "explanation": {
+                "ja": "死を嫌うことを認め、それ以上に嫌うものと対比します。",
+                "en": "لكن concedes aversion to death before a greater aversion."
+              }
+            },
+            {
+              "point": "هناك ما أكرهه",
+              "explanation": {
+                "ja": "存在表現で死より嫌うものがあると示します。",
+                "en": "هناك ما أكرهه introduces something judged worse than death."
+              }
+            },
+            {
+              "point": "أخطار لا أتجنبها",
+              "explanation": {
+                "ja": "後続の節が、避けない危険もあることを示します。",
+                "en": "The following clause identifies dangers the speaker does not avoid."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の生命への望みと対になり、義を守るため危険を受ける判断を示します。",
+              "en": "This balances the desire for life with a willingness to face danger for righteousness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1490,18 +3800,68 @@
           "ttsText": "死亦我所惡，所惡有甚於死者，故患有所不避也。",
           "vocabulary": [
             {
-              "term": "不辟",
+              "term": "死亦我所惡",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "死も私が嫌うもの。",
+                "en": "Death, too, is what I dislike."
+              }
+            },
+            {
+              "term": "所惡有甚於死者",
+              "meaning": {
+                "ja": "死よりさらに嫌うものがある。",
+                "en": "Among disliked things is one worse than death."
+              }
+            },
+            {
+              "term": "故",
+              "meaning": {
+                "ja": "だから。",
+                "en": "Therefore."
+              }
+            },
+            {
+              "term": "患",
+              "meaning": {
+                "ja": "災い・危険。",
+                "en": "Danger or calamity."
+              }
+            },
+            {
+              "term": "有所不辟",
+              "meaning": {
+                "ja": "避けないものがある。辟 は避ける意味。",
+                "en": "There are dangers not avoided; 辟 means avoid here."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "所惡 + 有 ... 者",
+              "explanation": {
+                "ja": "嫌うものの中に、死より重いものがあると示します。",
+                "en": "The construction identifies something disliked more than death."
+              }
+            },
+            {
+              "point": "甚於 + 名詞",
+              "explanation": {
+                "ja": "甚於死 が、死を超える嫌悪の強さを表します。",
+                "en": "甚於死 compares the aversion with death."
+              }
+            },
+            {
+              "point": "故 + 結論",
+              "explanation": {
+                "ja": "故 が価値判断から、避けない危険があるという結論を導きます。",
+                "en": "故 turns the comparison into the conclusion that some dangers are faced."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "惡は「嫌う」で wù。患は災い、辟はここでは避に通じ、bì と読みます。前文の「欲する／生」と「嫌う／死」が対になっています。",
-              "en": "惡 means dislike and is read wù. 患 means danger or calamity; 辟 is used for 避 and read bì. The sentence parallels the preceding pairing of desire and life with aversion and death."
+              "ja": "辟 はこの古典文では「避」に通じます。u005の命と義の比較を、死と災いの側から言い直します。",
+              "en": "辟 functions as avoid here. This restates the life-and-righteousness choice from the side of death and danger."
             }
           ],
           "translation": {
@@ -1534,15 +3894,63 @@
           "ttsText": "죽음도 내가 싫어하는 것이지만, 죽음보다 더 싫어하는 것이 있으므로 피하지 않는 환난도 있다.",
           "vocabulary": [
             {
+              "term": "죽음도",
+              "meaning": {
+                "ja": "死も。도 が追加を表します。",
+                "en": "Death also, with additive 도."
+              }
+            },
+            {
+              "term": "더 싫어하는 것",
+              "meaning": {
+                "ja": "さらに嫌うもの。",
+                "en": "Something disliked more."
+              }
+            },
+            {
               "term": "피하지 않는",
               "meaning": {
-                "ja": "道義を優先するため、ある危険から逃げないこと。",
-                "en": "Not evading a danger when moral rightness takes priority."
+                "ja": "避けない。",
+                "en": "Do not avoid."
+              }
+            },
+            {
+              "term": "환난",
+              "meaning": {
+                "ja": "災い・困難。",
+                "en": "Calamity or severe trouble."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-지만 + 比較",
+              "explanation": {
+                "ja": "死を嫌うことを認めながら、それより嫌うものを示します。",
+                "en": "-지만 concedes aversion to death before a stronger aversion."
+              }
+            },
+            {
+              "point": "-으므로 + 結論",
+              "explanation": {
+                "ja": "より嫌うものがあることを理由に、避けない災いもあると述べます。",
+                "en": "-으므로 links the stronger aversion to facing some dangers."
+              }
+            },
+            {
+              "point": "-지 않는 + 名詞",
+              "explanation": {
+                "ja": "피하지 않는 환난 で「避けない災い」を名詞句にします。",
+                "en": "-지 않는 modifies 환난 to identify dangers not avoided."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "義に反することを死より嫌うため、災いを避けない場合もあると述べます。",
+              "en": "The line says some dangers are faced because wrongdoing is judged worse than death."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",

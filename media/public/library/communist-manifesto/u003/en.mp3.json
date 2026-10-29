@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "53a3fe9fdaadb178207b5b9b3586f89479d0990dc261e52446352d02634ce75b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Two things follow from this fact.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "03a71f574dba739ee129f329416ad692e2e9f9115933f6de9893aab6a48ad7bd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:42:16.471378+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d53ef888199f29e792eb1011dcd3c95e3d9b10504a6ffd26f5e4c2ad6b4cbe3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "此石聽了，不覺打動凡心，也想要到人間去享一享這榮華富貴，但自恨粗蠢，不得已，便口吐人言，向那僧道說道：「大師，弟子蠢物，不能見禮了。適聞二位談那人世間榮耀繁華，心切慕之。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a5d5823ac49c746507f604cb15632214a3311929ac2fc00b4a4a6f80810f9666",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:22:10.961899+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "09242db5bc529b9a64efaef3be38659600f135c9fb8ec7f9c254dd7bd12200f8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "相等的事物减去相等的事物，余下的也相等。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf1c33fdb2b222de22a4d9c88758ffbd8071e97f54f95ca5c36a4b308c847b3b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:24.643448+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5903b47c80713175e1c37d308f6b5bd0c6b112de954ec2f2c12f0b44585ba405",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Une ligne est une longueur sans largeur.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7ad552009ca66406e780eb8a0e9b24dcdba43e6fab5edee53c684cb17935ad5b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:44.050395+00:00"
+}

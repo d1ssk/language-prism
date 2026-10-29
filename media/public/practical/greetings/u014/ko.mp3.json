@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "838a567ecd6fa9a6d6cf097026928774ded4db82cf89a672ec9b459dc39bcb64",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "몸조심하세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bef0f88692dcaf103169cc10fbefc8c2ac141cab299cbce5af0f720c1d2f9b33",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:02.233887+00:00"
+}

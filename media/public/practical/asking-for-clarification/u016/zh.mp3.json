@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97c1781fe2dc4bd786f366402c203aa8571c9bd433fb91dfd3e0f411909b2586",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "对，不一定要今天报名。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cceab9ea3100984851bdccef1d092732f559845d6be3b4f13e1ccca06cdf8022",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:06.482399+00:00"
+}

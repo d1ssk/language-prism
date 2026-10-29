@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "39223ba1c81ed64ffa66e6281437b707252a6295ce7892a6e320781df2ff0afe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "图形是由一个或多个边界围成的东西。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d80859f963642d455b239d61de3f3681b27e5657e152c826a1f487126385facc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:31.983149+00:00"
+}

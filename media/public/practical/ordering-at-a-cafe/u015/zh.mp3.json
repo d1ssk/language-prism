@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "390246a7cf5e28d1c5bb3b677d600f60b27002aec8decaa0542b1c5e9b48ec10",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "有两个人的位子吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "395bcaeddf77436661aa998b424b7af75527649ddcd10554d5373dc9afab9ea9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:02.570324+00:00"
+}

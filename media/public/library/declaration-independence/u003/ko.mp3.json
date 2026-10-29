@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8aa921dde1992866791d30bc6b1cc963fb77d193bd21708b8fe4b5161638869b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 권리를 보장하기 위해 사람들 사이에 정부가 세워지며, 그 정당한 권력은 통치받는 이들의 동의에서 나온다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0ca52391f69e25000b32eb6ef71737ed5b19df8e82ad4041f0a76cf65899a543",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:08:02.806687+00:00"
+}

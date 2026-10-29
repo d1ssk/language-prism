@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "113e803cd85450ab2a97c643ad69baee55d4810bcf33f724f63b6285afc7f203",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我把地址写在纸上，以防手机没电。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbc7d6de3ea49f16ff6d4ad6a01c9382ce37e31e4936df1552d6d97ea872807f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:27:33.628840+00:00"
+}

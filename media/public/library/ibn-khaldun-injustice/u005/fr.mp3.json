@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9fda390e10a44f9112596042ad82207bf555e26e11bdeffbc8e54f0fbea22e9f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si l’agression est faible, le retrait de l’activité rémunératrice l’est dans la même proportion.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "87c5cc09f415db222af0b11e3f56c52e4dd81423e262f604d82cedea11a7b6ad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:42:25.610652+00:00"
+}

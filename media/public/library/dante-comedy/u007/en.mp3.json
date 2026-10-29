@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "854343dd62c29855a1f7f492351dd717947c8514383828fe4e7a206f06d22fdd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Then the fear grew a little quieter, the fear that had lingered in the lake of my heart throughout the night I had passed in such distress.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "09e68da8379acff61313c05dee0adcbd3b84025f45af7bf4435a75988c7619b4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:00:24.665804+00:00"
+}

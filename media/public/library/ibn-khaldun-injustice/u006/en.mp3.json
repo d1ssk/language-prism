@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5ba9f59c0417c3139a8b9bb8079cb3a7d6219e39bd2a0ba91767bb523c642ce9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Civilization, its prosperity and the briskness of its markets depend on work and on people going to and fro in pursuit of their interests and earnings.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6dbf0743c09671d5018ea4f7c2775714cbf0b22ba916a120938cc6407e40b8d0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:43:00.573130+00:00"
+}

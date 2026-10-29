@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e8bb3698e4e1c2f81b0d24da19ebc0165873e8a9065f8311c0b26e766708d19f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Dónde está el partido de oposición al que sus adversarios gobernantes no hayan tachado de comunista? ¿Dónde el que no haya devuelto la acusación estigmatizadora de comunismo tanto a los opositores más avanzados como a sus enemigos reaccionarios?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7a881089757a79b3f475efeb932551a6e6adf9504dcecdd195821f20c09f962f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:41:07.591385+00:00"
+}

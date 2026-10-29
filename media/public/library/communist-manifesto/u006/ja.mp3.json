@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "23a97a5984f16fce2ad5c74cad29f42ea08d486e106957ff8200b93c17052c4e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "このもくてきのために、さまざまなこくせきのきょうさんしゅぎしゃがろんどんにあつまり、つぎのせんげんをきそうした。それはえいご、ふらんすご、どいつご、いたりあご、ふらまんご、でんまーくごでこうひょうされる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "73b48d336e9f6bc6fb7e529ec886a021cbf18105590453566205566ccade4dc3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:44:32.107663+00:00"
+}

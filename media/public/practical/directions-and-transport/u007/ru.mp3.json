@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e61ff9838b0ed81832d926a1b8b896f0856081692118d52939c3ba8b05c1c9e3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Да, на сегодня.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f636fb6561b3fd4143270c7ab5d746ea4596515702dc088598ae2e4734fe0b1f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:42.048523+00:00"
+}

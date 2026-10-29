@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7908a3b62600f76dcbf735c2b60c5aaae9b15a786ca71c64f791d823b90c0f25",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إِذَا طُرِحَتْ أَشْيَاءُ مُتَسَاوِيَةٌ مِنْ أَشْيَاءَ مُتَسَاوِيَةٍ، كَانَتِ الْبَوَاقِي مُتَسَاوِيَةً.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "65698469b8665067c7f47271fd1f83f574f22ab2d5a632eaa2d8a910c5f69979",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:20.971693+00:00"
+}

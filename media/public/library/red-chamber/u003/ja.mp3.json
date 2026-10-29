@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f49506c5f776d2146884646eb33c7b08496088a00272e5526ab30a831eadad9a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "じょかがつかったのはさんまんろくせんごひゃっこだけで、たったひとつつかわれずにのこったいしは、このやまのせいこうほうのふもとにすてられました。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "580e7975bf6c1740e0d5048a8d6d6106de0e880268833babb25c9452a85216dc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:14:17.673577+00:00"
+}

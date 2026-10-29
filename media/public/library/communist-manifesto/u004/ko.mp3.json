@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "86a7afe23538527b881da62565fe6ab6155f3e1176d62fe8f4ede63a253c3a81",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "공산주의는 이미 유럽의 모든 권력에 의해 하나의 세력으로 인정받고 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "17076154fde7b290483a790385adf83ebbe0319753b0fa21e82a754af988c31d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:43:05.803837+00:00"
+}

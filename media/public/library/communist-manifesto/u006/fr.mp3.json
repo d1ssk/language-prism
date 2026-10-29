@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ffa2d8a80cb7f887807ed1f1445ab48201589b7436df9adafcc62712cc1279dd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "À cette fin, des communistes de nationalités très diverses se sont réunis à Londres et ont rédigé le manifeste suivant, qui sera publié en anglais, français, allemand, italien, flamand et danois.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbc5d294b793fed9988771158c3602900c97a6a1a84d5cead23a4e9e6afe9420",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:44:59.796070+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0393acb4aedc43dc6fc19e7ae66e6c9e44fd368656c4f46d34ca31371249ef14",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "为此，不同国籍的共产党人在伦敦集会，拟定了以下宣言，将以英语、法语、德语、意大利语、弗拉芒语和丹麦语发表。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "18ad1e2e9ed7399c7ed31cba867467fa7d4a4702bd8dbef5b8b4ec0dd9b96784",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:45:39.611126+00:00"
+}

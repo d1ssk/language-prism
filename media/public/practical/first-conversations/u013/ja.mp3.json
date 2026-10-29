@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b1f8b9b8bbe2497f53ee8a42deb02fa06546ee97e57a78078cdc8f3c57817104",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "おはなしできてよかったです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f79a44f7f0dcc420c03f38d5fab84babf6b3ee66e2b9eadf91f3e0a7f3082537",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:06:55.320974+00:00"
+}

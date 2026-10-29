@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d3d16f4bf459542144f72fd4f01d6999b54cb26a86b9a2447fa6e82cef151b4e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "麻烦给我收据。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69b450fd7f5ab3a91f63ad21fff7f2935a7b0c72b1e760e80b5d0a691551c4e5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:21:18.048230+00:00"
+}

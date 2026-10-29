@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d7cd5c548cac2cc0dd9cc66ae63e02856c35d23774fde86e8e73ac421d8e89f8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "조금만 자비를 베풀어 제자를 속세로 데려가 부귀의 마당과 다정한 즐거움의 고장에서 몇 해 누리게 해 주신다면, 그 큰 은혜를 영원히 간직하여 만겁이 지나도 잊지 않겠습니다.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b0c7950db81ff10c1bc8283c1f5e7cdde595ddb876661072852c9c14ea62c949",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:25:53.493022+00:00"
+}

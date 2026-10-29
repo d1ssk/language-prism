@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c7c588fb2a44b6ede0a324d88f554d22bcdcd487df913fa82b618fba5bd888d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "알겠습니다. 상자에 담아 드릴게요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9d159a14bd909e456409a282ef3ce0e4e126d08509bce1e9f82a86d408976c1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:45.929424+00:00"
+}

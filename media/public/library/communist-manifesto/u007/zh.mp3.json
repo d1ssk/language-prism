@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cc08e5ed0c0ced5fb12dec101f79ff0081fb65e3756fbd0c65556a5ba8b5bd54",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "迄今一切社会的历史，都是阶级斗争的历史。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f370197902f8e19a3180bd79c99b09f6349b8a63c8e5d6ad1f9f3353e1243910",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:46:15.373128+00:00"
+}

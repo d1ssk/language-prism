@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "32cc9ee4b69f28306a4b533cd925009481c9b4a6d167ef65286d2d91f9f5c0a5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "那僧便念咒書符，大展幻術，將一塊大石登時變成一塊鮮明瑩洁的美玉，且又縮成扇墜大小的可佩可拿。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ff7e331ff46bfaf9668cfc8801504ce1651595d767cadef5c6eddac1b793c1ec",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:36:04.759073+00:00"
+}

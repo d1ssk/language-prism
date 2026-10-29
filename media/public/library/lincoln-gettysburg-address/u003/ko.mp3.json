@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c23e589d1a08382983ea3bf25df6039094a3aa2465cb50e11ee1bae26bbb3259",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "우리는 그 전쟁의 큰 전장에 모였습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "611c0283ae6edd10532b768cd70ddfff43d0017881840a48fdf339c1099bd809",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:50:20.232688+00:00"
+}

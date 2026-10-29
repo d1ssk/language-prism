@@ -57,81 +57,531 @@
       "languages": {
         "ja": {
           "text": "あなたに委ねられているのは行為だけであり、その結果では決してない。行為の結果を動機としてはならないが、行為しないことにも執着してはならない。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "委ねられているのは行為だけ",
+              "meaning": {
+                "ja": "人に与えられた領分を行動そのものに限る。",
+                "en": "Limits one’s sphere of control to the act itself."
+              }
+            },
+            {
+              "term": "その結果",
+              "meaning": {
+                "ja": "行為の後に生じる成果。",
+                "en": "The outcome that follows an action."
+              }
+            },
+            {
+              "term": "動機としてはならない",
+              "meaning": {
+                "ja": "成果を行動の目的に据えてはいけない。",
+                "en": "Must not make the result the reason for acting."
+              }
+            },
+            {
+              "term": "行為しないこと",
+              "meaning": {
+                "ja": "働きかけることを避ける無為。",
+                "en": "Inaction, or avoiding action."
+              }
+            },
+            {
+              "term": "執着してはならない",
+              "meaning": {
+                "ja": "そこに心を縛られてはいけない。",
+                "en": "Must not become attached to it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Aだけであり、Bではない",
+              "explanation": {
+                "ja": "行為への権限と成果への権限を分けて示します。",
+                "en": "The contrast separates action from a claim to results."
+              }
+            },
+            {
+              "point": "-てはならない の反復",
+              "explanation": {
+                "ja": "成果を動機にすることと無為に執着することをともに禁じます。",
+                "en": "The repeated prohibition rejects both result-seeking and attachment to inaction."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成果を求めないことは、何もしないことの勧めではないと続けて明示します。",
+              "en": "The verse rejects fixation on results while also rejecting inaction."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "あなたにゆだねられているのはこういだけであり、そのけっかではけっしてない。こういのけっかをどうきとしてはならないが、こういしないことにもしゅうちゃくしてはならない。"
+          "ttsText": "あなたにゆだねられているのはこういだけであり、そのけっかではけっしてない。こういのけっかをどうきとしてはならないが、こういしないことにもしゅうちゃくしてはならない。",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "Your entitlement is to action alone, never to its fruits. Do not let the fruits of action be your motive, but do not become attached to inaction either.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "entitlement",
+              "meaning": {
+                "ja": "権限、与えられた領分。",
+                "en": "A right or proper sphere."
+              }
+            },
+            {
+              "term": "action alone",
+              "meaning": {
+                "ja": "行為そのものだけ。",
+                "en": "Only the act one performs."
+              }
+            },
+            {
+              "term": "fruits",
+              "meaning": {
+                "ja": "行為から生じる成果を表す比喩。",
+                "en": "Results of action, pictured as fruits."
+              }
+            },
+            {
+              "term": "motive",
+              "meaning": {
+                "ja": "行動を起こす理由。",
+                "en": "A reason for acting."
+              }
+            },
+            {
+              "term": "inaction",
+              "meaning": {
+                "ja": "行為しないこと。",
+                "en": "Failure or refusal to act."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "alone, never",
+              "explanation": {
+                "ja": "行為だけに権限があり、成果にはないという対比を作ります。",
+                "en": "The contrast limits entitlement to action, not its results."
+              }
+            },
+            {
+              "point": "Do not ... but do not ... either",
+              "explanation": {
+                "ja": "成果を目的にすることと、無為に執着することの両方を禁じます。",
+                "en": "The two commands reject result-seeking and attachment to inaction."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成果から距離を置いても、行為そのものは続けるという教えです。",
+              "en": "Detachment from outcomes still leaves a duty to act."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Your entitlement is to action alone, never to its fruits. Do not let the fruits of action be your motive, but do not become attached to inaction either."
+          "ttsText": "Your entitlement is to action alone, never to its fruits. Do not let the fruits of action be your motive, but do not become attached to inaction either.",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Solo te corresponde actuar, nunca disponer de los frutos. No hagas de los frutos de la acción tu motivo, pero tampoco te apegues a la inacción.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "te corresponde actuar",
+              "meaning": {
+                "ja": "あなたの領分は行為することだ。",
+                "en": "Acting is your proper sphere."
+              }
+            },
+            {
+              "term": "frutos",
+              "meaning": {
+                "ja": "行為の成果を「果実」にたとえる。",
+                "en": "Results pictured as fruits."
+              }
+            },
+            {
+              "term": "motivo",
+              "meaning": {
+                "ja": "行動の動機。",
+                "en": "Motive for acting."
+              }
+            },
+            {
+              "term": "apegues",
+              "meaning": {
+                "ja": "執着する。",
+                "en": "Become attached."
+              }
+            },
+            {
+              "term": "inacción",
+              "meaning": {
+                "ja": "行為しないこと。",
+                "en": "Inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Solo ... nunca",
+              "explanation": {
+                "ja": "行為だけを自分の領分とし、成果を除きます。",
+                "en": "The contrast reserves one’s claim for action and excludes results."
+              }
+            },
+            {
+              "point": "No hagas ... pero tampoco",
+              "explanation": {
+                "ja": "成果を動機にせず、無為にも執着しない二つの禁止です。",
+                "en": "The two negatives forbid result-seeking and attachment to inaction."
+              }
+            },
+            {
+              "point": "disponer de",
+              "explanation": {
+                "ja": "成果を思いのままに扱う権限はないと示します。",
+                "en": "Disponer de means to have control over the fruits."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成果を手放す教えは、行動をやめる理由にはなりません。",
+              "en": "Letting go of outcomes is not a reason to stop acting."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Solo te corresponde actuar, nunca disponer de los frutos. No hagas de los frutos de la acción tu motivo, pero tampoco te apegues a la inacción."
+          "ttsText": "Solo te corresponde actuar, nunca disponer de los frutos. No hagas de los frutos de la acción tu motivo, pero tampoco te apegues a la inacción.",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Seule l’action relève de toi, jamais ses fruits. Que les fruits de l’action ne soient pas ton mobile, mais ne t’attache pas non plus à l’inaction.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "relève de toi",
+              "meaning": {
+                "ja": "あなたの領分に属する。",
+                "en": "Falls within your sphere."
+              }
+            },
+            {
+              "term": "ses fruits",
+              "meaning": {
+                "ja": "行為の成果を果実にたとえる。",
+                "en": "Its results, figured as fruits."
+              }
+            },
+            {
+              "term": "mobile",
+              "meaning": {
+                "ja": "行動の動機。",
+                "en": "Motive."
+              }
+            },
+            {
+              "term": "attachement",
+              "meaning": {
+                "ja": "執着。",
+                "en": "Attachment."
+              }
+            },
+            {
+              "term": "inaction",
+              "meaning": {
+                "ja": "無為、行為しないこと。",
+                "en": "Inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Seule ... jamais",
+              "explanation": {
+                "ja": "行為だけが自分の領分で、成果は決してそうでないと対比します。",
+                "en": "The contrast grants action, never its fruits, as one’s sphere."
+              }
+            },
+            {
+              "point": "Que ... ne soient pas",
+              "explanation": {
+                "ja": "成果を動機にしないよう求める接続法の勧告です。",
+                "en": "The subjunctive clause urges that results not become the motive."
+              }
+            },
+            {
+              "point": "ne ... pas non plus",
+              "explanation": {
+                "ja": "無為への執着も加えて否定します。",
+                "en": "The further negative rejects attachment to inaction as well."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "結果への執着を捨てることと、行動を放棄しないことを一つに結びます。",
+              "en": "The verse joins detachment from results with continued action."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Seule l’action relève de toi, jamais ses fruits. Que les fruits de l’action ne soient pas ton mobile, mais ne t’attache pas non plus à l’inaction."
+          "ttsText": "Seule l’action relève de toi, jamais ses fruits. Que les fruits de l’action ne soient pas ton mobile, mais ne t’attache pas non plus à l’inaction.",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Dir steht allein das Handeln zu, niemals dessen Früchte. Mache die Früchte des Handelns nicht zu deinem Beweggrund, doch hänge auch nicht am Nichthandeln.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Dir steht ... zu",
+              "meaning": {
+                "ja": "あなたに認められる。",
+                "en": "Is due to you."
+              }
+            },
+            {
+              "term": "Handeln",
+              "meaning": {
+                "ja": "行為すること。",
+                "en": "Acting."
+              }
+            },
+            {
+              "term": "Früchte",
+              "meaning": {
+                "ja": "行為の成果を果実で表す。",
+                "en": "Results represented as fruits."
+              }
+            },
+            {
+              "term": "Beweggrund",
+              "meaning": {
+                "ja": "行動を起こす動機。",
+                "en": "Motive."
+              }
+            },
+            {
+              "term": "Nichthandeln",
+              "meaning": {
+                "ja": "行為しないこと。",
+                "en": "Inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "allein ... niemals",
+              "explanation": {
+                "ja": "行為だけが領分で、結果はそこに含まれないと対比します。",
+                "en": "The contrast limits one’s claim to action, not results."
+              }
+            },
+            {
+              "point": "Mache ... nicht ... doch hänge auch nicht",
+              "explanation": {
+                "ja": "成果を動機にすることと無為への執着をともに退けます。",
+                "en": "The two commands reject both fixation on outcomes and inaction."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "結果に縛られず、それでも行為を続けるという二重の教えです。",
+              "en": "One should act without being bound to results."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Dir steht allein das Handeln zu, niemals dessen Früchte. Mache die Früchte des Handelns nicht zu deinem Beweggrund, doch hänge auch nicht am Nichthandeln."
+          "ttsText": "Dir steht allein das Handeln zu, niemals dessen Früchte. Mache die Früchte des Handelns nicht zu deinem Beweggrund, doch hänge auch nicht am Nichthandeln.",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Тебе принадлежит лишь действие, но никогда его плоды. Пусть плоды действия не будут твоим побуждением, однако не привязывайся и к бездействию.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "принадлежит лишь действие",
+              "meaning": {
+                "ja": "自分の領分は行為だけである。",
+                "en": "Only action belongs to one’s sphere."
+              }
+            },
+            {
+              "term": "плоды",
+              "meaning": {
+                "ja": "行為の成果を果実にたとえる。",
+                "en": "Results of action, figured as fruits."
+              }
+            },
+            {
+              "term": "побуждением",
+              "meaning": {
+                "ja": "行動への動機。",
+                "en": "Motive or impulse to act."
+              }
+            },
+            {
+              "term": "не привязывайся",
+              "meaning": {
+                "ja": "執着してはいけない。",
+                "en": "Do not become attached."
+              }
+            },
+            {
+              "term": "бездействию",
+              "meaning": {
+                "ja": "何もしないこと、無為。",
+                "en": "Inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "лишь ... но никогда",
+              "explanation": {
+                "ja": "行為を領分とし、成果をそこから除く対比です。",
+                "en": "The contrast grants action but excludes its results."
+              }
+            },
+            {
+              "point": "Пусть ... не будут",
+              "explanation": {
+                "ja": "成果が動機にならないよう求める勧告です。",
+                "en": "The construction urges that results not become the motive."
+              }
+            },
+            {
+              "point": "однако ... и",
+              "explanation": {
+                "ja": "さらに無為への執着も否定し、行為の継続を示します。",
+                "en": "The final clause also rejects attachment to inaction."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成果を追わずに行動することと、行動そのものを放棄しないことを説きます。",
+              "en": "The teaching combines detachment from results with a refusal of inaction."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Тебе принадлежит лишь действие, но никогда его плоды. Пусть плоды действия не будут твоим побуждением, однако не привязывайся и к бездействию."
+          "ttsText": "Тебе принадлежит лишь действие, но никогда его плоды. Пусть плоды действия не будут твоим побуждением, однако не привязывайся и к бездействию.",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "لَكَ الْحَقُّ فِي الْعَمَلِ وَحْدَهُ، لَا فِي ثِمَارِهِ أَبَدًا. فَلَا تَجْعَلْ ثِمَارَ الْعَمَلِ دَافِعَكَ، وَلَا تَتَعَلَّقْ بِتَرْكِ الْعَمَلِ أَيْضًا.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "الْحَقُّ فِي الْعَمَلِ",
+              "meaning": {
+                "ja": "行為に対する権限。",
+                "en": "A right concerning action."
+              }
+            },
+            {
+              "term": "ثِمَارِهِ",
+              "meaning": {
+                "ja": "その果実、行為の成果。",
+                "en": "Its fruits, meaning the results of action."
+              }
+            },
+            {
+              "term": "دَافِعَكَ",
+              "meaning": {
+                "ja": "あなたの動機。",
+                "en": "Your motive."
+              }
+            },
+            {
+              "term": "تَرْكِ الْعَمَلِ",
+              "meaning": {
+                "ja": "行為をやめること。",
+                "en": "Abandoning action."
+              }
+            },
+            {
+              "term": "تَتَعَلَّقْ",
+              "meaning": {
+                "ja": "執着する。",
+                "en": "Become attached."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "فِي ... لَا فِي",
+              "explanation": {
+                "ja": "行為には権限があるが、成果にはないという対比です。",
+                "en": "The paired phrases contrast a right to action with none to its fruits."
+              }
+            },
+            {
+              "point": "فَلَا تَجْعَلْ",
+              "explanation": {
+                "ja": "成果を動機にしないよう禁じる命令です。",
+                "en": "The negative command forbids making results the motive."
+              }
+            },
+            {
+              "point": "وَلَا تَتَعَلَّقْ",
+              "explanation": {
+                "ja": "行為を捨てることへの執着も禁じます。",
+                "en": "The second prohibition rejects attachment to inaction."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "行為の成果を求めない一方で、行為自体は放棄しないよう説きます。",
+              "en": "The verse rejects grasping at outcomes and also abandoning action."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -141,13 +591,81 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Laka al-ḥaqqu fī al-ʿamali waḥdahu, lā fī thimārihi ʾabadan. Fa-lā tajʿal thimāra al-ʿamali dāfiʿaka, wa-lā tataʿallaq bi-tarki al-ʿamali ʾayḍan."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "你所能掌握的只是行动，绝不是行动的成果。不要以成果为行动的动机，也不要执着于不行动。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "行动",
+              "meaning": {
+                "ja": "実際に行うこと。",
+                "en": "Action itself."
+              }
+            },
+            {
+              "term": "成果",
+              "meaning": {
+                "ja": "行為がもたらす結果。",
+                "en": "The result of an action."
+              }
+            },
+            {
+              "term": "动机",
+              "meaning": {
+                "ja": "行動を起こす理由。",
+                "en": "Motive."
+              }
+            },
+            {
+              "term": "执着",
+              "meaning": {
+                "ja": "心を縛られること。",
+                "en": "Attachment or fixation."
+              }
+            },
+            {
+              "term": "不行动",
+              "meaning": {
+                "ja": "何もしないこと。",
+                "en": "Inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "只是 ... 绝不是",
+              "explanation": {
+                "ja": "自分の領分を行動だけに限定し、結果を除きます。",
+                "en": "The contrast limits one’s sphere to action, excluding results."
+              }
+            },
+            {
+              "point": "不要 ... 也不要",
+              "explanation": {
+                "ja": "成果を動機にすることと無為への執着をともに禁じます。",
+                "en": "The repeated command forbids result-seeking and attachment to inaction."
+              }
+            },
+            {
+              "point": "以 ... 为",
+              "explanation": {
+                "ja": "成果を動機として扱うという関係を表します。",
+                "en": "The construction means to treat results as the motive."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成果を手放しても行動はやめない、という二つの要点を続けて述べます。",
+              "en": "The verse rejects attachment to results without endorsing inaction."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -157,28 +675,145 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Nǐ suǒ néng zhǎngwò de zhǐ shì xíngdòng, jué bù shì xíngdòng de chéngguǒ. Bù yào yǐ chéngguǒ wéi xíngdòng de dòngjī, yě bù yào zhízhuó yú bù xíngdòng."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "그대에게 맡겨진 것은 오직 행위이지, 결코 그 결실이 아니다. 행위의 결실을 동기로 삼지 말되, 행위하지 않는 것에도 집착하지 마라.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "맡겨진 것은 오직 행위",
+              "meaning": {
+                "ja": "与えられた領分は行為だけ。",
+                "en": "One’s sphere is action alone."
+              }
+            },
+            {
+              "term": "결실",
+              "meaning": {
+                "ja": "行為の結果を実りにたとえる。",
+                "en": "The result of action, figured as a fruit."
+              }
+            },
+            {
+              "term": "동기로 삼지",
+              "meaning": {
+                "ja": "行動の理由にしない。",
+                "en": "Do not make it the motive."
+              }
+            },
+            {
+              "term": "집착하지 마라",
+              "meaning": {
+                "ja": "執着してはいけない。",
+                "en": "Do not cling to it."
+              }
+            },
+            {
+              "term": "행위하지 않는 것",
+              "meaning": {
+                "ja": "行為しないこと。",
+                "en": "Inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-이지 ... 아니다",
+              "explanation": {
+                "ja": "行為は領分だが成果はそうでないという対比を作ります。",
+                "en": "The contrast separates action from entitlement to results."
+              }
+            },
+            {
+              "point": "-지 말되 ... -지 마라",
+              "explanation": {
+                "ja": "成果への欲求と無為への執着の両方を禁じます。",
+                "en": "The paired negatives reject result-seeking and attachment to inaction."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "結果を手放すことは、行動そのものをやめることではありません。",
+              "en": "Letting go of outcomes still requires acting."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "그대에게 맡겨진 것은 오직 행위이지, 결코 그 결실이 아니다. 행위의 결실을 동기로 삼지 말되, 행위하지 않는 것에도 집착하지 마라."
+          "ttsText": "그대에게 맡겨진 것은 오직 행위이지, 결코 그 결실이 아니다. 행위의 결실을 동기로 삼지 말되, 행위하지 않는 것에도 집착하지 마라.",
+          "audio": {
+            "path": "library/bhagavad-gita/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "sa": {
           "text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥२- ४७॥",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "कर्मण्येवाधिकारस्ते",
+              "meaning": {
+                "ja": "karmaṇi eva adhikāraḥ te。行為にのみあなたの権限がある。",
+                "en": "“Your claim is to action alone,” with joined Sanskrit words."
+              }
+            },
+            {
+              "term": "फलेषु",
+              "meaning": {
+                "ja": "phaleṣu。行為の「果実」、すなわち成果に。",
+                "en": "In the fruits, meaning the results."
+              }
+            },
+            {
+              "term": "कर्मफलहेतुर्भूः",
+              "meaning": {
+                "ja": "karma-phala-hetuḥ bhūḥ。成果を行為の動機にしてはならない。",
+                "en": "Do not become motivated by the fruits of action."
+              }
+            },
+            {
+              "term": "सङ्गोऽस्त्वकर्मणि",
+              "meaning": {
+                "ja": "saṅgaḥ astu akarmaṇi。無為への執着があってはならない。",
+                "en": "Let there be no attachment to inaction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "कर्मणि + एव",
+              "explanation": {
+                "ja": "母音がつながって कर्मण्येव となり、「行為にのみ」を表します。",
+                "en": "The vowel junction yields कर्मण्येव, “in action alone.”"
+              }
+            },
+            {
+              "point": "मा の反復",
+              "explanation": {
+                "ja": "成果への権限・成果を動機にすること・無為への執着を三度否定します。",
+                "en": "Repeated मा rejects claim to fruits, fruit-driven action, and inaction."
+              }
+            },
+            {
+              "point": "ते",
+              "explanation": {
+                "ja": "「あなたの」を表し、行為への अधिकारः を受ける相手を示します。",
+                "en": "The pronoun marks whose अधिकारः, or claim, is being described."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "adhikāra は行為への権限・資格を表す語。「結果を気にせず何をしてもよい」という意味ではなく、末尾では不作為への執着も戒めています。",
-              "en": "Adhikāra concerns entitlement or authority to act. The verse does not license careless action; its final clause also rejects attachment to inaction."
+              "ja": "第2章47節。成果を手放す教えと、無為に陥らない教えを一続きに述べます。",
+              "en": "Verse 2.47 pairs detachment from results with a warning against inaction."
             }
           ],
           "translation": {
@@ -194,81 +829,552 @@
       "languages": {
         "ja": {
           "text": "ダナンジャヤよ、ヨーガに立脚して執着を捨て、成功にも失敗にも等しい心で行為せよ。この平静がヨーガと呼ばれる。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "ダナンジャヤよ",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "ヨーガに立脚して",
+              "meaning": {
+                "ja": "ヨーガの心構えをよりどころとして。",
+                "en": "Standing in the discipline of yoga."
+              }
+            },
+            {
+              "term": "執着を捨て",
+              "meaning": {
+                "ja": "結果などに心を縛られない。",
+                "en": "Letting go of attachment."
+              }
+            },
+            {
+              "term": "成功にも失敗にも等しい心",
+              "meaning": {
+                "ja": "結果の良し悪しで心を偏らせない平静。",
+                "en": "An even mind in success and failure."
+              }
+            },
+            {
+              "term": "平静",
+              "meaning": {
+                "ja": "心が釣り合いを保つこと。",
+                "en": "Equanimity or evenness of mind."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-て、-せよ",
+              "explanation": {
+                "ja": "立脚・放棄・平静を条件に行為するよう命じます。",
+                "en": "The linked phrases specify the manner in which to act."
+              }
+            },
+            {
+              "point": "AにもBにも",
+              "explanation": {
+                "ja": "成功と失敗を並べ、どちらにも同じ心で向き合うと示します。",
+                "en": "The paired particles make success and failure equally relevant."
+              }
+            },
+            {
+              "point": "-と呼ばれる",
+              "explanation": {
+                "ja": "その平静をヨーガと名づける受身の形です。",
+                "en": "The passive form names this equanimity yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前節の「成果に執着せず行為せよ」を、成功と失敗への平静として具体化します。",
+              "en": "This verse defines acting without attachment as evenness amid success and failure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "だなんじゃやよ、よーがにりっきゃくしてしゅうちゃくをすて、せいこうにもしっぱいにもひとしいこころでこういせよ。このへいせいがよーがとよばれる。"
+          "ttsText": "だなんじゃやよ、よーがにりっきゃくしてしゅうちゃくをすて、せいこうにもしっぱいにもひとしいこころでこういせよ。このへいせいがよーがとよばれる。",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "Established in yoga, act without attachment, Dhananjaya, remaining equal in success and failure. This equanimity is called yoga.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Established in yoga",
+              "meaning": {
+                "ja": "ヨーガに心を据えて。",
+                "en": "Grounded in yoga."
+              }
+            },
+            {
+              "term": "attachment",
+              "meaning": {
+                "ja": "結果などへの執着。",
+                "en": "Clinging to outcomes."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "equal in success and failure",
+              "meaning": {
+                "ja": "成功と失敗を同じ心で受け止めて。",
+                "en": "Even-minded in success and failure."
+              }
+            },
+            {
+              "term": "equanimity",
+              "meaning": {
+                "ja": "心の平静、偏りのなさ。",
+                "en": "Evenness of mind."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "act without attachment",
+              "explanation": {
+                "ja": "行為を命じつつ、結果にとらわれない仕方を示します。",
+                "en": "The imperative requires action performed without clinging."
+              }
+            },
+            {
+              "point": "remaining equal",
+              "explanation": {
+                "ja": "分詞句が、行為するときの心の状態を添えます。",
+                "en": "The participial phrase describes the mental stance while acting."
+              }
+            },
+            {
+              "point": "is called",
+              "explanation": {
+                "ja": "平静をヨーガと名づける受身表現です。",
+                "en": "The passive identifies equanimity as yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでのヨーガは、成功と失敗に対して心を均衡させる態度として説明されます。",
+              "en": "Yoga here is explained as an even mind toward success and failure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Established in yoga, act without attachment, Dhananjaya, remaining equal in success and failure. This equanimity is called yoga."
+          "ttsText": "Established in yoga, act without attachment, Dhananjaya, remaining equal in success and failure. This equanimity is called yoga.",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Afianzado en el yoga, actúa sin apego, Dhananjaya, manteniéndote igual ante el éxito y el fracaso. Esa ecuanimidad se llama yoga.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Afianzado en el yoga",
+              "meaning": {
+                "ja": "ヨーガにしっかり立って。",
+                "en": "Firmly established in yoga."
+              }
+            },
+            {
+              "term": "sin apego",
+              "meaning": {
+                "ja": "執着なしに。",
+                "en": "Without attachment."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "éxito y fracaso",
+              "meaning": {
+                "ja": "成功と失敗。",
+                "en": "Success and failure."
+              }
+            },
+            {
+              "term": "ecuanimidad",
+              "meaning": {
+                "ja": "心の平静、釣り合い。",
+                "en": "Equanimity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "actúa",
+              "explanation": {
+                "ja": "命令形で行為するよう直接求めます。",
+                "en": "The imperative directly commands action."
+              }
+            },
+            {
+              "point": "manteniéndote igual",
+              "explanation": {
+                "ja": "現在分詞が、行為中に保つ心の平静を添えます。",
+                "en": "The gerund describes staying even-minded while acting."
+              }
+            },
+            {
+              "point": "se llama",
+              "explanation": {
+                "ja": "再帰形の受身的な表現で、その平静をヨーガと名づけます。",
+                "en": "The passive-like form names this equanimity yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成功でも失敗でも心を偏らせないことが、ここでのヨーガです。",
+              "en": "Yoga here means keeping an even mind in either success or failure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Afianzado en el yoga, actúa sin apego, Dhananjaya, manteniéndote igual ante el éxito y el fracaso. Esa ecuanimidad se llama yoga."
+          "ttsText": "Afianzado en el yoga, actúa sin apego, Dhananjaya, manteniéndote igual ante el éxito y el fracaso. Esa ecuanimidad se llama yoga.",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Établi dans le yoga, agis sans attachement, Dhananjaya, en gardant la même disposition dans la réussite et l’échec. Cette équanimité est appelée yoga.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Établi dans le yoga",
+              "meaning": {
+                "ja": "ヨーガに立脚して。",
+                "en": "Established in yoga."
+              }
+            },
+            {
+              "term": "sans attachement",
+              "meaning": {
+                "ja": "執着せずに。",
+                "en": "Without attachment."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "réussite et échec",
+              "meaning": {
+                "ja": "成功と失敗。",
+                "en": "Success and failure."
+              }
+            },
+            {
+              "term": "équanimité",
+              "meaning": {
+                "ja": "心の平静、同じ態度を保つこと。",
+                "en": "Equanimity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "agis",
+              "explanation": {
+                "ja": "命令形で行為を促します。",
+                "en": "The imperative calls for action."
+              }
+            },
+            {
+              "point": "en gardant",
+              "explanation": {
+                "ja": "現在分詞句が、行為中に保つ心の態度を説明します。",
+                "en": "The gerund phrase gives the mental stance to keep while acting."
+              }
+            },
+            {
+              "point": "est appelée",
+              "explanation": {
+                "ja": "受身形で、この平静をヨーガと名づけます。",
+                "en": "The passive names this equanimity yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "結果への執着を離れ、成功と失敗を等しく受け止めることを説きます。",
+              "en": "The verse describes detachment as evenness amid success and failure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Établi dans le yoga, agis sans attachement, Dhananjaya, en gardant la même disposition dans la réussite et l’échec. Cette équanimité est appelée yoga."
+          "ttsText": "Établi dans le yoga, agis sans attachement, Dhananjaya, en gardant la même disposition dans la réussite et l’échec. Cette équanimité est appelée yoga.",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Im Yoga gefestigt, handle ohne Anhaftung, Dhananjaya, und bleibe bei Erfolg und Misserfolg gleichmütig. Dieser Gleichmut wird Yoga genannt.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Im Yoga gefestigt",
+              "meaning": {
+                "ja": "ヨーガにしっかり立って。",
+                "en": "Firmly grounded in yoga."
+              }
+            },
+            {
+              "term": "ohne Anhaftung",
+              "meaning": {
+                "ja": "執着なしに。",
+                "en": "Without attachment."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "Erfolg und Misserfolg",
+              "meaning": {
+                "ja": "成功と失敗。",
+                "en": "Success and failure."
+              }
+            },
+            {
+              "term": "Gleichmut",
+              "meaning": {
+                "ja": "心の平静、動じなさ。",
+                "en": "Equanimity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "handle",
+              "explanation": {
+                "ja": "命令形で行為を求めます。",
+                "en": "The imperative commands action."
+              }
+            },
+            {
+              "point": "bleibe ... gleichmütig",
+              "explanation": {
+                "ja": "成功と失敗の両方で同じ態度を保つよう命じます。",
+                "en": "The second imperative asks for composure in both outcomes."
+              }
+            },
+            {
+              "point": "wird ... genannt",
+              "explanation": {
+                "ja": "受身で、その平静をヨーガと呼ぶと示します。",
+                "en": "The passive identifies the even mind as yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは行為を続けながら、結果の違いで心を変えないことがヨーガです。",
+              "en": "Yoga here is acting while remaining steady across different outcomes."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Im Yoga gefestigt, handle ohne Anhaftung, Dhananjaya, und bleibe bei Erfolg und Misserfolg gleichmütig. Dieser Gleichmut wird Yoga genannt."
+          "ttsText": "Im Yoga gefestigt, handle ohne Anhaftung, Dhananjaya, und bleibe bei Erfolg und Misserfolg gleichmütig. Dieser Gleichmut wird Yoga genannt.",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Утвердившись в йоге, действуй без привязанности, Дхананджая, оставаясь равным в успехе и неудаче. Эта невозмутимость называется йогой.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Утвердившись в йоге",
+              "meaning": {
+                "ja": "ヨーガに自分を据えて。",
+                "en": "Having established oneself in yoga."
+              }
+            },
+            {
+              "term": "без привязанности",
+              "meaning": {
+                "ja": "執着せずに。",
+                "en": "Without attachment."
+              }
+            },
+            {
+              "term": "Дхананджая",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "успехе и неудаче",
+              "meaning": {
+                "ja": "成功と失敗において。",
+                "en": "In success and failure."
+              }
+            },
+            {
+              "term": "невозмутимость",
+              "meaning": {
+                "ja": "心が乱れない平静。",
+                "en": "Composure or equanimity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Утвердившись",
+              "explanation": {
+                "ja": "副動詞が、行為に先立つ心構えを示します。",
+                "en": "The adverbial participle gives the prior mental stance."
+              }
+            },
+            {
+              "point": "оставаясь равным",
+              "explanation": {
+                "ja": "副動詞が、行為中に成功・失敗へ等しく向き合う状態を添えます。",
+                "en": "The second adverbial participle describes evenness while acting."
+              }
+            },
+            {
+              "point": "называется",
+              "explanation": {
+                "ja": "その平静がヨーガと呼ばれると示します。",
+                "en": "The verb names that composure yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "執着しない行為のあり方を、成功・失敗への平静として定義します。",
+              "en": "The verse defines detached action through an even response to outcomes."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Утвердившись в йоге, действуй без привязанности, Дхананджая, оставаясь равным в успехе и неудаче. Эта невозмутимость называется йогой."
+          "ttsText": "Утвердившись в йоге, действуй без привязанности, Дхананджая, оставаясь равным в успехе и неудаче. Эта невозмутимость называется йогой.",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "اعْمَلْ وَأَنْتَ ثَابِتٌ فِي الْيُوغَا، يَا دَانَانْجَايَا، تَارِكًا التَّعَلُّقَ وَمُتَّزِنًا فِي النَّجَاحِ وَالْفَشَلِ. فَهَذَا الِاتِّزَانُ يُسَمَّى الْيُوغَا.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "ثَابِتٌ فِي الْيُوغَا",
+              "meaning": {
+                "ja": "ヨーガに立脚している。",
+                "en": "Established in yoga."
+              }
+            },
+            {
+              "term": "دَانَانْجَايَا",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "تَارِكًا التَّعَلُّقَ",
+              "meaning": {
+                "ja": "執着を捨てて。",
+                "en": "Leaving attachment behind."
+              }
+            },
+            {
+              "term": "النَّجَاحِ وَالْفَشَلِ",
+              "meaning": {
+                "ja": "成功と失敗。",
+                "en": "Success and failure."
+              }
+            },
+            {
+              "term": "الِاتِّزَانُ",
+              "meaning": {
+                "ja": "心の釣り合い、平静。",
+                "en": "Balance or equanimity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "اعْمَلْ",
+              "explanation": {
+                "ja": "命令形で行為を求めます。",
+                "en": "The imperative commands action."
+              }
+            },
+            {
+              "point": "وَأَنْتَ ثَابِتٌ",
+              "explanation": {
+                "ja": "行為するときの状態を「ヨーガに立って」と添えます。",
+                "en": "The circumstantial clause describes acting while grounded in yoga."
+              }
+            },
+            {
+              "point": "يُسَمَّى",
+              "explanation": {
+                "ja": "受身形で、この平静をヨーガと呼ぶと示します。",
+                "en": "The passive names this balance yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "執着を捨て、成功と失敗に同じ心で行為することをヨーガと呼びます。",
+              "en": "Yoga is defined here as detached action with an even mind toward outcomes."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -278,13 +1384,74 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Iʿmal wa-ʾanta thābitun fī al-yūghā, yā Dānānjāyā, tārikan at-taʿalluqa wa-muttazinan fī an-najāḥi wa-al-fashali. Fa-hādhā al-ittizānu yusammā al-yūghā."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "持财者啊，安住于瑜伽，舍弃执着，以同样的心面对成功与失败而行动。这种平等心就叫作瑜伽。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "持财者",
+              "meaning": {
+                "ja": "ダナンジャヤに対応する中国語の呼びかけ。",
+                "en": "The Chinese address used for Dhananjaya."
+              }
+            },
+            {
+              "term": "安住于瑜伽",
+              "meaning": {
+                "ja": "ヨーガに心をしっかり据える。",
+                "en": "Remain grounded in yoga."
+              }
+            },
+            {
+              "term": "舍弃执着",
+              "meaning": {
+                "ja": "結果などへの執着を手放す。",
+                "en": "Abandon attachment."
+              }
+            },
+            {
+              "term": "成功与失败",
+              "meaning": {
+                "ja": "成功と失敗。",
+                "en": "Success and failure."
+              }
+            },
+            {
+              "term": "平等心",
+              "meaning": {
+                "ja": "結果で偏らない心。",
+                "en": "Evenness of mind."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "以 ... 而行动",
+              "explanation": {
+                "ja": "同じ心を保つことを、行為の仕方として示します。",
+                "en": "The phrase describes the manner in which one acts."
+              }
+            },
+            {
+              "point": "就叫作",
+              "explanation": {
+                "ja": "先の平等心を、ここでヨーガと名づけます。",
+                "en": "The construction identifies that evenness as yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "成果の違いに心を振り回されず行為することが、ここでのヨーガです。",
+              "en": "Yoga here means acting without being swayed by success or failure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -294,28 +1461,152 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Chícáizhě a, ānzhù yú yújiā, shěqì zhízhuó, yǐ tóngyàng de xīn miànduì chénggōng yǔ shībài ér xíngdòng. Zhè zhǒng píngděngxīn jiù jiàozuò yújiā."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "다난자야여, 요가에 굳게 서서 집착을 버리고 성공과 실패를 한결같은 마음으로 대하며 행위하라. 이러한 평정심을 요가라고 부른다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "다난자야여",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "요가에 굳게 서서",
+              "meaning": {
+                "ja": "ヨーガにしっかり立って。",
+                "en": "Firmly grounded in yoga."
+              }
+            },
+            {
+              "term": "집착을 버리고",
+              "meaning": {
+                "ja": "執着を捨てて。",
+                "en": "Letting go of attachment."
+              }
+            },
+            {
+              "term": "성공과 실패",
+              "meaning": {
+                "ja": "成功と失敗。",
+                "en": "Success and failure."
+              }
+            },
+            {
+              "term": "평정심",
+              "meaning": {
+                "ja": "偏らず静かな心。",
+                "en": "Equanimity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-고 ... -며",
+              "explanation": {
+                "ja": "執着を捨て、平静に向き合いながら行為する順序と様子をつなぎます。",
+                "en": "The connectives link detachment, evenness, and action."
+              }
+            },
+            {
+              "point": "-라고 부른다",
+              "explanation": {
+                "ja": "この平静をヨーガと名づけます。",
+                "en": "The phrase identifies this evenness as yoga."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "行為そのものを続け、成否に同じ心で向き合うのがヨーガです。",
+              "en": "Yoga here is action with the same steady mind in success and failure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "다난자야여, 요가에 굳게 서서 집착을 버리고 성공과 실패를 한결같은 마음으로 대하며 행위하라. 이러한 평정심을 요가라고 부른다."
+          "ttsText": "다난자야여, 요가에 굳게 서서 집착을 버리고 성공과 실패를 한결같은 마음으로 대하며 행위하라. 이러한 평정심을 요가라고 부른다.",
+          "audio": {
+            "path": "library/bhagavad-gita/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "sa": {
           "text": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनंजय । सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥२- ४८॥",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "योगस्थः",
+              "meaning": {
+                "ja": "yoga-sthaḥ。ヨーガに立っている者として。",
+                "en": "Established in yoga."
+              }
+            },
+            {
+              "term": "कुरु कर्माणि",
+              "meaning": {
+                "ja": "kuru karmāṇi。行為をせよ。",
+                "en": "Perform actions."
+              }
+            },
+            {
+              "term": "सङ्गं त्यक्त्वा",
+              "meaning": {
+                "ja": "saṅgaṃ tyaktvā。執着を捨てて。",
+                "en": "Having abandoned attachment."
+              }
+            },
+            {
+              "term": "सिद्ध्यसिद्ध्योः समो भूत्वा",
+              "meaning": {
+                "ja": "siddhy-asiddhyoḥ samo bhūtvā。成功と失敗に等しくなって。",
+                "en": "Being even in success and failure."
+              }
+            },
+            {
+              "term": "समत्वं योग उच्यते",
+              "meaning": {
+                "ja": "samatvaṃ yoga ucyate。平静がヨーガと呼ばれる。",
+                "en": "Equanimity is called yoga."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "त्यक्त्वा / भूत्वा",
+              "explanation": {
+                "ja": "二つの「〜して」の形が、執着を捨て平静になって行為せよとつなぎます。",
+                "en": "The two absolutives link relinquishing attachment and becoming even to the command to act."
+              }
+            },
+            {
+              "point": "सिद्ध्यसिद्ध्योः",
+              "explanation": {
+                "ja": "成功と不成功を一組として示し、両方に等しく向き合います。",
+                "en": "The paired form treats success and failure as the two outcomes to meet evenly."
+              }
+            },
+            {
+              "point": "उच्यते",
+              "explanation": {
+                "ja": "受身形で、平静をヨーガと呼ぶ定義を作ります。",
+                "en": "The passive defines equanimity as yoga."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "Dhanañjaya はアルジュナの呼称で、「財を勝ち取る者」の意。中国語訳では「持财者」としています。",
-              "en": "Dhanañjaya is an epithet of Arjuna, meaning winner of wealth; the Chinese translation uses 持财者."
+              "ja": "第2章48節。前節の行為と成果の区別を、成功・失敗への平静として具体化します。",
+              "en": "Verse 2.48 explains the previous distinction through evenness in success and failure."
             }
           ],
           "translation": {
@@ -331,81 +1622,552 @@
       "languages": {
         "ja": {
           "text": "ダナンジャヤよ、行為は知性のヨーガにはるかに劣る。知性によりどころを求めよ。結果を動機とする者は哀れである。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "ダナンジャヤよ",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "行為は ... 劣る",
+              "meaning": {
+                "ja": "ここでは成果にとらわれた行為を、知性に基づく態度と比べる。",
+                "en": "Compares fruit-driven action with action guided by discernment."
+              }
+            },
+            {
+              "term": "知性のヨーガ",
+              "meaning": {
+                "ja": "物事を見分ける知性に基づいたヨーガ。",
+                "en": "Yoga grounded in discernment."
+              }
+            },
+            {
+              "term": "よりどころを求めよ",
+              "meaning": {
+                "ja": "支えとなるものに身を寄せるよう命じる。",
+                "en": "Seek a refuge or firm ground."
+              }
+            },
+            {
+              "term": "結果を動機とする者",
+              "meaning": {
+                "ja": "成果を得るために行動する人。",
+                "en": "One whose action is driven by its results."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "AはBに劣る",
+              "explanation": {
+                "ja": "行為と知性のヨーガの優劣を明示します。",
+                "en": "The comparison ranks action below the yoga of discernment."
+              }
+            },
+            {
+              "point": "-を求めよ",
+              "explanation": {
+                "ja": "知性をよりどころにするよう直接命じます。",
+                "en": "The imperative urges refuge in discernment."
+              }
+            },
+            {
+              "point": "-とする者",
+              "explanation": {
+                "ja": "結果を動機に据える人を一つの集団として指します。",
+                "en": "The modifier identifies people motivated by outcomes."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前二節の文脈では、行為そのものの否定ではなく、成果に縛られる行為への批判です。",
+              "en": "In context, the criticism concerns action driven by results rather than action itself."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "だなんじゃやよ、こういはちせいのよーがにはるかにおとる。ちせいによりどころをもとめよ。けっかをどうきとするものはあわれである。"
+          "ttsText": "だなんじゃやよ、こういはちせいのよーがにはるかにおとる。ちせいによりどころをもとめよ。けっかをどうきとするものはあわれである。",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "Action is far inferior to the yoga of discernment, Dhananjaya. Seek refuge in discernment; pitiable are those whose motive is the fruit.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "far inferior",
+              "meaning": {
+                "ja": "はるかに劣る。",
+                "en": "Much lower in value."
+              }
+            },
+            {
+              "term": "yoga of discernment",
+              "meaning": {
+                "ja": "明辨に基づくヨーガ。",
+                "en": "Yoga guided by discernment."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "Seek refuge",
+              "meaning": {
+                "ja": "よりどころを求めよ。",
+                "en": "Find firm support."
+              }
+            },
+            {
+              "term": "motive is the fruit",
+              "meaning": {
+                "ja": "成果を得ることが行動の理由。",
+                "en": "Acting for the result."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "inferior to",
+              "explanation": {
+                "ja": "行為を知性のヨーガと比較します。",
+                "en": "The comparison ranks action below the yoga of discernment."
+              }
+            },
+            {
+              "point": "whose motive",
+              "explanation": {
+                "ja": "関係節が、哀れとされる人を成果目当ての人に限定します。",
+                "en": "The relative clause identifies those driven by the fruit."
+              }
+            },
+            {
+              "point": "pitiable are those",
+              "explanation": {
+                "ja": "語順を変えて「哀れ」と評価する語を前に出します。",
+                "en": "Inversion places the judgment pitiable first."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の「行為せよ」と矛盾せず、成果だけを求める行為を戒める文脈です。",
+              "en": "In context, the verse warns against fruit-driven action while still urging action."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Action is far inferior to the yoga of discernment, Dhananjaya. Seek refuge in discernment; pitiable are those whose motive is the fruit."
+          "ttsText": "Action is far inferior to the yoga of discernment, Dhananjaya. Seek refuge in discernment; pitiable are those whose motive is the fruit.",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "La acción es muy inferior al yoga del discernimiento, Dhananjaya. Busca refugio en el discernimiento; dignos de lástima son quienes tienen por motivo el fruto.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "muy inferior",
+              "meaning": {
+                "ja": "はるかに劣る。",
+                "en": "Far inferior."
+              }
+            },
+            {
+              "term": "discernimiento",
+              "meaning": {
+                "ja": "物事を見分ける知性。",
+                "en": "Discernment."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "Busca refugio",
+              "meaning": {
+                "ja": "よりどころを探せ。",
+                "en": "Seek refuge."
+              }
+            },
+            {
+              "term": "fruto",
+              "meaning": {
+                "ja": "行為の成果を果実にたとえる。",
+                "en": "The result of action, figured as fruit."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "inferior a",
+              "explanation": {
+                "ja": "行為を知性のヨーガと比較します。",
+                "en": "The construction compares action with the yoga of discernment."
+              }
+            },
+            {
+              "point": "quienes tienen por motivo",
+              "explanation": {
+                "ja": "成果を行動の動機にする人を指します。",
+                "en": "The relative phrase identifies people who act for results."
+              }
+            },
+            {
+              "point": "Busca",
+              "explanation": {
+                "ja": "命令形で、知性をよりどころにするよう促します。",
+                "en": "The imperative urges refuge in discernment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前節とのつながりでは、成果を目当てにする行為が批判の対象です。",
+              "en": "The earlier verses make fruit-seeking action the target of criticism."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "La acción es muy inferior al yoga del discernimiento, Dhananjaya. Busca refugio en el discernimiento; dignos de lástima son quienes tienen por motivo el fruto."
+          "ttsText": "La acción es muy inferior al yoga del discernimiento, Dhananjaya. Busca refugio en el discernimiento; dignos de lástima son quienes tienen por motivo el fruto.",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "L’action est de loin inférieure au yoga du discernement, Dhananjaya. Cherche refuge dans le discernement ; ceux qui ont le fruit pour mobile sont à plaindre.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "de loin inférieure",
+              "meaning": {
+                "ja": "はるかに劣る。",
+                "en": "Far inferior."
+              }
+            },
+            {
+              "term": "discernement",
+              "meaning": {
+                "ja": "見分ける知性。",
+                "en": "Discernment."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "Cherche refuge",
+              "meaning": {
+                "ja": "よりどころを探せ。",
+                "en": "Seek refuge."
+              }
+            },
+            {
+              "term": "fruit pour mobile",
+              "meaning": {
+                "ja": "成果を動機とすること。",
+                "en": "Taking the fruit as one’s motive."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "inférieure à",
+              "explanation": {
+                "ja": "行為を知性のヨーガより下に置く比較です。",
+                "en": "The comparison ranks action below the yoga of discernment."
+              }
+            },
+            {
+              "point": "ceux qui",
+              "explanation": {
+                "ja": "後続の関係節が、成果を動機にする人を指します。",
+                "en": "The relative clause identifies fruit-driven people."
+              }
+            },
+            {
+              "point": "Cherche",
+              "explanation": {
+                "ja": "命令形で知性に身を寄せるよう求めます。",
+                "en": "The imperative urges refuge in discernment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここで劣るとされるのは、前の教えに照らせば成果に縛られた行為です。",
+              "en": "Read with the earlier teaching, it is action bound to outcomes that is inferior."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "L’action est de loin inférieure au yoga du discernement, Dhananjaya. Cherche refuge dans le discernement ; ceux qui ont le fruit pour mobile sont à plaindre."
+          "ttsText": "L’action est de loin inférieure au yoga du discernement, Dhananjaya. Cherche refuge dans le discernement ; ceux qui ont le fruit pour mobile sont à plaindre.",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Das Handeln steht weit unter dem Yoga der Einsicht, Dhananjaya. Suche Zuflucht in der Einsicht; bedauernswert sind jene, deren Beweggrund die Frucht ist.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "weit unter",
+              "meaning": {
+                "ja": "はるかに下位に。",
+                "en": "Far below."
+              }
+            },
+            {
+              "term": "Einsicht",
+              "meaning": {
+                "ja": "見通し、明辨。",
+                "en": "Discernment or insight."
+              }
+            },
+            {
+              "term": "Dhananjaya",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "Zuflucht",
+              "meaning": {
+                "ja": "避難所、よりどころ。",
+                "en": "Refuge or firm support."
+              }
+            },
+            {
+              "term": "Beweggrund die Frucht",
+              "meaning": {
+                "ja": "成果を行動の動機とすること。",
+                "en": "Taking the result as one’s motive."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "steht ... unter",
+              "explanation": {
+                "ja": "行為を知性のヨーガより下に置きます。",
+                "en": "The construction ranks action below the yoga of insight."
+              }
+            },
+            {
+              "point": "deren",
+              "explanation": {
+                "ja": "関係代名詞が jene を受け、成果を動機とする人を説明します。",
+                "en": "The relative pronoun identifies those motivated by fruits."
+              }
+            },
+            {
+              "point": "Suche",
+              "explanation": {
+                "ja": "命令形で知性をよりどころにするよう求めます。",
+                "en": "The imperative urges refuge in insight."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前節の行為の勧めを踏まえ、成果に縛られた行為の低さを説きます。",
+              "en": "Against the earlier call to act, the warning targets attachment to results."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Das Handeln steht weit unter dem Yoga der Einsicht, Dhananjaya. Suche Zuflucht in der Einsicht; bedauernswert sind jene, deren Beweggrund die Frucht ist."
+          "ttsText": "Das Handeln steht weit unter dem Yoga der Einsicht, Dhananjaya. Suche Zuflucht in der Einsicht; bedauernswert sind jene, deren Beweggrund die Frucht ist.",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Действие намного ниже йоги различения, Дхананджая. Ищи опору в различении; жалки те, чьим побуждением служит плод.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "намного ниже",
+              "meaning": {
+                "ja": "はるかに劣る。",
+                "en": "Far below."
+              }
+            },
+            {
+              "term": "йога различения",
+              "meaning": {
+                "ja": "見分ける知性のヨーガ。",
+                "en": "Yoga of discernment."
+              }
+            },
+            {
+              "term": "Дхананджая",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "Ищи опору",
+              "meaning": {
+                "ja": "よりどころを求めよ。",
+                "en": "Seek support."
+              }
+            },
+            {
+              "term": "побуждением служит плод",
+              "meaning": {
+                "ja": "成果が行動の動機となる。",
+                "en": "The fruit serves as the motive."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ниже + 生格",
+              "explanation": {
+                "ja": "行為を知性のヨーガより下に置く比較です。",
+                "en": "The genitive marks the higher comparison point."
+              }
+            },
+            {
+              "point": "Ищи",
+              "explanation": {
+                "ja": "命令形で、知性に支えを求めるよう促します。",
+                "en": "The imperative urges support in discernment."
+              }
+            },
+            {
+              "point": "чьим побуждением",
+              "explanation": {
+                "ja": "関係節が、成果を動機とする人を説明します。",
+                "en": "The relative clause identifies those driven by the fruit."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "直前の行為の勧めと合わせると、戒めは成果目当ての行為に向きます。",
+              "en": "Read with the call to act, this warns against acting for rewards."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Действие намного ниже йоги различения, Дхананджая. Ищи опору в различении; жалки те, чьим побуждением служит плод."
+          "ttsText": "Действие намного ниже йоги различения, Дхананджая. Ищи опору в различении; жалки те, чьим побуждением служит плод.",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "الْعَمَلُ أَدْنَى بِكَثِيرٍ مِنْ يُوغَا التَّمْيِيزِ، يَا دَانَانْجَايَا. فَالْتَمِسْ مَلَاذًا فِي التَّمْيِيزِ؛ فَبُؤَسَاءُ هُمُ الَّذِينَ تَدْفَعُهُمُ الثِّمَارُ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "الْعَمَلُ أَدْنَى",
+              "meaning": {
+                "ja": "行為はより劣る。",
+                "en": "Action is lower."
+              }
+            },
+            {
+              "term": "يُوغَا التَّمْيِيزِ",
+              "meaning": {
+                "ja": "見分ける知性のヨーガ。",
+                "en": "Yoga of discernment."
+              }
+            },
+            {
+              "term": "دَانَانْجَايَا",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "الْتَمِسْ مَلَاذًا",
+              "meaning": {
+                "ja": "よりどころを求めよ。",
+                "en": "Seek refuge."
+              }
+            },
+            {
+              "term": "تَدْفَعُهُمُ الثِّمَارُ",
+              "meaning": {
+                "ja": "成果が人を行動へ駆り立てる。",
+                "en": "The fruits drive those people."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أَدْنَى ... مِنْ",
+              "explanation": {
+                "ja": "行為を知性のヨーガと比較し、低く置きます。",
+                "en": "The comparative places action below discernment."
+              }
+            },
+            {
+              "point": "فَالْتَمِسْ",
+              "explanation": {
+                "ja": "命令形が、知性によりどころを求めるよう促します。",
+                "en": "The imperative urges refuge in discernment."
+              }
+            },
+            {
+              "point": "الَّذِينَ",
+              "explanation": {
+                "ja": "関係節が、成果に動かされる人を指します。",
+                "en": "The relative clause identifies people driven by fruits."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前節で行為を命じているため、ここで批判されるのは成果を動機とする行為です。",
+              "en": "Since the preceding verse commands action, the criticism concerns acting for fruits."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -415,13 +2177,81 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Al-ʿamalu ʾadnā bi-kathīrin min yūghā at-tamyīzi, yā Dānānjāyā. Fa-iltamis malādhan fī at-tamyīzi; fa-buʾasāʾu humu alladhīna tadfaʿuhumu ath-thimāru."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "持财者啊，行动远不及明辨的瑜伽。应当以明辨为依归；以成果为动机的人是可怜的。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "持财者",
+              "meaning": {
+                "ja": "ダナンジャヤに対応する呼びかけ。",
+                "en": "The Chinese address for Dhananjaya."
+              }
+            },
+            {
+              "term": "明辨的瑜伽",
+              "meaning": {
+                "ja": "見分ける知性に基づくヨーガ。",
+                "en": "Yoga of discernment."
+              }
+            },
+            {
+              "term": "依归",
+              "meaning": {
+                "ja": "よりどころ。",
+                "en": "A refuge or source of support."
+              }
+            },
+            {
+              "term": "成果为动机",
+              "meaning": {
+                "ja": "成果を行動の理由にする。",
+                "en": "Take results as the motive."
+              }
+            },
+            {
+              "term": "可怜的",
+              "meaning": {
+                "ja": "哀れな。",
+                "en": "Pitiable."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "远不及",
+              "explanation": {
+                "ja": "行為を知性のヨーガよりはるか下に置きます。",
+                "en": "The phrase ranks action far below the yoga of discernment."
+              }
+            },
+            {
+              "point": "以 ... 为",
+              "explanation": {
+                "ja": "成果を動機として扱う関係を表します。",
+                "en": "The construction means taking results as the motive."
+              }
+            },
+            {
+              "point": "应当",
+              "explanation": {
+                "ja": "知性をよりどころにするよう勧めます。",
+                "en": "The modal urges reliance on discernment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の行為の勧めと合わせると、成果だけを追う行為が戒められています。",
+              "en": "In context, it is action driven by results that the verse warns against."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -431,28 +2261,152 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Chícáizhě a, xíngdòng yuǎn bù jí míngbiàn de yújiā. Yīngdāng yǐ míngbiàn wéi yīguī; yǐ chéngguǒ wéi dòngjī de rén shì kělián de."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "다난자야여, 행위는 분별의 요가에 훨씬 못 미친다. 분별에서 의지할 곳을 찾아라. 결실을 동기로 삼는 이들은 가련하다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "다난자야여",
+              "meaning": {
+                "ja": "アルジュナへの呼びかけ名。",
+                "en": "A name used to address Arjuna."
+              }
+            },
+            {
+              "term": "분별의 요가",
+              "meaning": {
+                "ja": "見分ける知性に基づくヨーガ。",
+                "en": "Yoga of discernment."
+              }
+            },
+            {
+              "term": "의지할 곳",
+              "meaning": {
+                "ja": "よりどころ。",
+                "en": "A place of refuge."
+              }
+            },
+            {
+              "term": "결실을 동기로",
+              "meaning": {
+                "ja": "成果を行動の理由として。",
+                "en": "Taking the result as motive."
+              }
+            },
+            {
+              "term": "가련하다",
+              "meaning": {
+                "ja": "哀れである。",
+                "en": "Is pitiable."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-에 못 미친다",
+              "explanation": {
+                "ja": "行為が知性のヨーガに及ばないと比較します。",
+                "en": "The construction ranks action below yoga of discernment."
+              }
+            },
+            {
+              "point": "-에서 ... 찾아라",
+              "explanation": {
+                "ja": "知性をよりどころとするよう命令します。",
+                "en": "The imperative asks one to find refuge in discernment."
+              }
+            },
+            {
+              "point": "-는 이들",
+              "explanation": {
+                "ja": "成果を動機とする人々を一つの集団として指します。",
+                "en": "The modifier identifies people motivated by results."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の行為の勧めを踏まえ、ここで低く見られるのは成果に執着する行為です。",
+              "en": "In context, the warning targets action tied to its fruits."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "다난자야여, 행위는 분별의 요가에 훨씬 못 미친다. 분별에서 의지할 곳을 찾아라. 결실을 동기로 삼는 이들은 가련하다."
+          "ttsText": "다난자야여, 행위는 분별의 요가에 훨씬 못 미친다. 분별에서 의지할 곳을 찾아라. 결실을 동기로 삼는 이들은 가련하다.",
+          "audio": {
+            "path": "library/bhagavad-gita/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "sa": {
           "text": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनंजय । बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥२- ४९॥",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "दूरेण ह्यवरं कर्म",
+              "meaning": {
+                "ja": "dūreṇa hi avaraṃ karma。行為ははるかに劣る。",
+                "en": "Action is far inferior."
+              }
+            },
+            {
+              "term": "बुद्धियोगात्",
+              "meaning": {
+                "ja": "buddhi-yogāt。知性のヨーガよりも。",
+                "en": "Than the yoga of discernment."
+              }
+            },
+            {
+              "term": "बुद्धौ शरणमन्विच्छ",
+              "meaning": {
+                "ja": "buddhau śaraṇam anviccha。知性によりどころを求めよ。",
+                "en": "Seek refuge in discernment."
+              }
+            },
+            {
+              "term": "कृपणाः फलहेतवः",
+              "meaning": {
+                "ja": "kṛpaṇāḥ phala-hetavaḥ。成果を動機とする人は哀れだ。",
+                "en": "Those driven by fruits are pitiable."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "बुद्धियोगात्",
+              "explanation": {
+                "ja": "-āt が比較の基準を示し、行為を知性のヨーガより下に置きます。",
+                "en": "The ending marks the yoga of discernment as the comparison point."
+              }
+            },
+            {
+              "point": "अन्विच्छ",
+              "explanation": {
+                "ja": "「求めよ」という命令形で、知性への依拠を促します。",
+                "en": "The imperative commands seeking refuge in discernment."
+              }
+            },
+            {
+              "point": "फलहेतवः",
+              "explanation": {
+                "ja": "「果実を動機とする人々」という複合語が、批判される対象を示します。",
+                "en": "The compound names those whose motive is the fruit."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "ここでの行為は、直前の詩節を受けて結果を求める行為として読みます。buddhi は知性・判断力を指します。",
-              "en": "In context, action here is read as action pursued for its fruits. Buddhi denotes intelligence or discernment."
+              "ja": "第2章49節。前二節を踏まえ、成果を動機とする行為と知性による行為を区別します。",
+              "en": "Verse 2.49 contrasts fruit-driven action with the practice grounded in discernment."
             }
           ],
           "translation": {
@@ -468,81 +2422,552 @@
       "languages": {
         "ja": {
           "text": "知性を備えた者は、この世で善行と悪行の両方を離れる。それゆえヨーガに努めよ。ヨーガとは行為における巧みさである。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "知性を備えた者",
+              "meaning": {
+                "ja": "前節の知性をよりどころにする人。",
+                "en": "A person guided by the discernment urged in the previous verse."
+              }
+            },
+            {
+              "term": "この世で",
+              "meaning": {
+                "ja": "いま生きている世界において。",
+                "en": "In this world."
+              }
+            },
+            {
+              "term": "善行と悪行の両方を離れる",
+              "meaning": {
+                "ja": "善悪の行為に縛られる状態から離れる。",
+                "en": "Leaves behind both good and bad deeds."
+              }
+            },
+            {
+              "term": "ヨーガに努めよ",
+              "meaning": {
+                "ja": "ヨーガを実践するよう命じる。",
+                "en": "Devote yourself to yoga."
+              }
+            },
+            {
+              "term": "行為における巧みさ",
+              "meaning": {
+                "ja": "行動の仕方に現れる熟達。",
+                "en": "Skill shown in how one acts."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "AとBの両方",
+              "explanation": {
+                "ja": "善行と悪行を一組として示し、ともに離れると述べます。",
+                "en": "The pair makes both kinds of deeds objects of leaving behind."
+              }
+            },
+            {
+              "point": "それゆえ",
+              "explanation": {
+                "ja": "前半の説明から、ヨーガを実践せよという勧めへ進みます。",
+                "en": "The connective moves from the claim to the exhortation."
+              }
+            },
+            {
+              "point": "AとはBである",
+              "explanation": {
+                "ja": "最後にヨーガを「行為における巧みさ」と定義します。",
+                "en": "The final clause defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "行為を捨てよとは言わず、知性と平静を伴う行為の仕方を説きます。",
+              "en": "The teaching concerns how to act with discernment and evenness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "ちせいをそなえたものは、このよでぜんこうとあっこうのりょうほうをはなれる。それゆえよーがにつとめよ。よーがとはこういにおけるたくみさである。"
+          "ttsText": "ちせいをそなえたものは、このよでぜんこうとあっこうのりょうほうをはなれる。それゆえよーがにつとめよ。よーがとはこういにおけるたくみさである。",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "One endowed with discernment leaves behind both good and bad deeds in this world. Therefore devote yourself to yoga: yoga is skill in action.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "endowed with discernment",
+              "meaning": {
+                "ja": "明辨を備えた。",
+                "en": "Equipped with discernment."
+              }
+            },
+            {
+              "term": "leaves behind",
+              "meaning": {
+                "ja": "後に残して離れる。",
+                "en": "Moves beyond."
+              }
+            },
+            {
+              "term": "good and bad deeds",
+              "meaning": {
+                "ja": "善行と悪行の両方。",
+                "en": "Both good and bad deeds."
+              }
+            },
+            {
+              "term": "devote yourself",
+              "meaning": {
+                "ja": "自分をその実践に向ける。",
+                "en": "Commit yourself."
+              }
+            },
+            {
+              "term": "skill in action",
+              "meaning": {
+                "ja": "行為する際の巧みさ。",
+                "en": "Skill in the practice of action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "both ... and",
+              "explanation": {
+                "ja": "善行と悪行をともに対象に含めます。",
+                "en": "The pair includes good and bad deeds alike."
+              }
+            },
+            {
+              "point": "Therefore",
+              "explanation": {
+                "ja": "前半からヨーガに努めよという勧めを導きます。",
+                "en": "The connector draws the exhortation from the first claim."
+              }
+            },
+            {
+              "point": "yoga is",
+              "explanation": {
+                "ja": "コロンの後で、ヨーガを行為の巧みさと定義します。",
+                "en": "After the colon, the clause defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の節から続く明辨と平静の教えを、行為の巧みさとしてまとめます。",
+              "en": "The verse gathers discernment and evenness into the idea of skill in action."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "One endowed with discernment leaves behind both good and bad deeds in this world. Therefore devote yourself to yoga: yoga is skill in action."
+          "ttsText": "One endowed with discernment leaves behind both good and bad deeds in this world. Therefore devote yourself to yoga: yoga is skill in action.",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Quien está dotado de discernimiento deja atrás en este mundo tanto las buenas como las malas obras. Por eso dedícate al yoga: el yoga es destreza en la acción.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "dotado de discernimiento",
+              "meaning": {
+                "ja": "明辨を備えた。",
+                "en": "Endowed with discernment."
+              }
+            },
+            {
+              "term": "deja atrás",
+              "meaning": {
+                "ja": "後に残して離れる。",
+                "en": "Leaves behind."
+              }
+            },
+            {
+              "term": "buenas ... malas obras",
+              "meaning": {
+                "ja": "善い行為と悪い行為。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "dedícate al yoga",
+              "meaning": {
+                "ja": "ヨーガに身を向けよ。",
+                "en": "Devote yourself to yoga."
+              }
+            },
+            {
+              "term": "destreza en la acción",
+              "meaning": {
+                "ja": "行為における巧みさ。",
+                "en": "Skill in action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "tanto ... como",
+              "explanation": {
+                "ja": "善行と悪行の両方を含めます。",
+                "en": "The pair includes both good and bad deeds."
+              }
+            },
+            {
+              "point": "Por eso",
+              "explanation": {
+                "ja": "前半の教えを受け、ヨーガの実践を促します。",
+                "en": "The connector draws the exhortation from the earlier claim."
+              }
+            },
+            {
+              "point": "el yoga es",
+              "explanation": {
+                "ja": "コロンの後でヨーガを行為の巧みさと定義します。",
+                "en": "The final clause defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "善悪の行為を離れることと、行為を巧みに行うことを続けて説きます。",
+              "en": "The verse joins leaving deeds behind with skillful action."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Quien está dotado de discernimiento deja atrás en este mundo tanto las buenas como las malas obras. Por eso dedícate al yoga: el yoga es destreza en la acción."
+          "ttsText": "Quien está dotado de discernimiento deja atrás en este mundo tanto las buenas como las malas obras. Por eso dedícate al yoga: el yoga es destreza en la acción.",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Celui qui est doué de discernement laisse ici-bas derrière lui les bonnes comme les mauvaises actions. Consacre-toi donc au yoga : le yoga est habileté dans l’action.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "doué de discernement",
+              "meaning": {
+                "ja": "明辨を備えた。",
+                "en": "Gifted with discernment."
+              }
+            },
+            {
+              "term": "ici-bas",
+              "meaning": {
+                "ja": "この世で。",
+                "en": "Here in this world."
+              }
+            },
+            {
+              "term": "bonnes ... mauvaises actions",
+              "meaning": {
+                "ja": "善行と悪行。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "Consacre-toi",
+              "meaning": {
+                "ja": "身を捧げよ、努めよ。",
+                "en": "Devote yourself."
+              }
+            },
+            {
+              "term": "habileté dans l’action",
+              "meaning": {
+                "ja": "行為における巧みさ。",
+                "en": "Skill in action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "les bonnes comme les mauvaises",
+              "explanation": {
+                "ja": "善悪の両方の行為を含めます。",
+                "en": "The pairing includes both good and bad actions."
+              }
+            },
+            {
+              "point": "donc",
+              "explanation": {
+                "ja": "前半を受けてヨーガに努めよと勧めます。",
+                "en": "Donc draws the exhortation from what precedes."
+              }
+            },
+            {
+              "point": "le yoga est",
+              "explanation": {
+                "ja": "最後の節でヨーガを行為の巧みさと定義します。",
+                "en": "The final clause defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "知性に立つ人のあり方を、行為の巧みさとして結びます。",
+              "en": "The verse links discernment with skill in how one acts."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Celui qui est doué de discernement laisse ici-bas derrière lui les bonnes comme les mauvaises actions. Consacre-toi donc au yoga : le yoga est habileté dans l’action."
+          "ttsText": "Celui qui est doué de discernement laisse ici-bas derrière lui les bonnes comme les mauvaises actions. Consacre-toi donc au yoga : le yoga est habileté dans l’action.",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Wer mit Einsicht handelt, lässt in dieser Welt sowohl gute als auch schlechte Taten hinter sich. Widme dich daher dem Yoga: Yoga ist Geschick im Handeln.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "mit Einsicht",
+              "meaning": {
+                "ja": "明辨を備えて。",
+                "en": "With discernment."
+              }
+            },
+            {
+              "term": "gute ... schlechte Taten",
+              "meaning": {
+                "ja": "善行と悪行。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "hinter sich",
+              "meaning": {
+                "ja": "自分の後ろへ、つまり離れて。",
+                "en": "Behind oneself."
+              }
+            },
+            {
+              "term": "Widme dich",
+              "meaning": {
+                "ja": "身を向けよ、専念せよ。",
+                "en": "Devote yourself."
+              }
+            },
+            {
+              "term": "Geschick im Handeln",
+              "meaning": {
+                "ja": "行為における巧みさ。",
+                "en": "Skill in acting."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "sowohl ... als auch",
+              "explanation": {
+                "ja": "善行と悪行の両方を含めます。",
+                "en": "The pair includes both good and bad deeds."
+              }
+            },
+            {
+              "point": "daher",
+              "explanation": {
+                "ja": "前半を理由としてヨーガの実践を促します。",
+                "en": "The connector makes the exhortation follow from the first claim."
+              }
+            },
+            {
+              "point": "Yoga ist",
+              "explanation": {
+                "ja": "コロンの後で、ヨーガを行為の巧みさと定義します。",
+                "en": "The clause after the colon defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "行為の放棄ではなく、知性を伴う行為の仕方に焦点を当てます。",
+              "en": "The focus is the manner of action guided by insight."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Wer mit Einsicht handelt, lässt in dieser Welt sowohl gute als auch schlechte Taten hinter sich. Widme dich daher dem Yoga: Yoga ist Geschick im Handeln."
+          "ttsText": "Wer mit Einsicht handelt, lässt in dieser Welt sowohl gute als auch schlechte Taten hinter sich. Widme dich daher dem Yoga: Yoga ist Geschick im Handeln.",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Обладающий различением оставляет в этом мире позади и добрые, и дурные дела. Поэтому посвяти себя йоге: йога есть искусность в действии.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Обладающий различением",
+              "meaning": {
+                "ja": "明辨を備えた者。",
+                "en": "A person possessing discernment."
+              }
+            },
+            {
+              "term": "добрые ... дурные дела",
+              "meaning": {
+                "ja": "善行と悪行。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "позади",
+              "meaning": {
+                "ja": "後ろに、離れて。",
+                "en": "Behind oneself."
+              }
+            },
+            {
+              "term": "посвяти себя",
+              "meaning": {
+                "ja": "自分を捧げよ、努めよ。",
+                "en": "Devote yourself."
+              }
+            },
+            {
+              "term": "искусность в действии",
+              "meaning": {
+                "ja": "行為における巧みさ。",
+                "en": "Skill in action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "и ... и",
+              "explanation": {
+                "ja": "善行と悪行をともに含める対句です。",
+                "en": "The repeated conjunction includes both kinds of deed."
+              }
+            },
+            {
+              "point": "Поэтому",
+              "explanation": {
+                "ja": "前半からヨーガの実践を勧める結論へ進みます。",
+                "en": "The connector draws an exhortation from the prior claim."
+              }
+            },
+            {
+              "point": "йога есть",
+              "explanation": {
+                "ja": "名詞を並べ、ヨーガを行為の巧みさと定義します。",
+                "en": "The clause defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "知性を備えた行為のあり方が、ここでは巧みさとして表されます。",
+              "en": "Discernment in action is presented here as a kind of skill."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Обладающий различением оставляет в этом мире позади и добрые, и дурные дела. Поэтому посвяти себя йоге: йога есть искусность в действии."
+          "ttsText": "Обладающий различением оставляет в этом мире позади и добрые, и дурные дела. Поэтому посвяти себя йоге: йога есть искусность в действии.",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "مَنْ تَحَلَّى بِالتَّمْيِيزِ يَتَجَاوَزُ فِي هَذَا الْعَالَمِ الْأَعْمَالَ الْحَسَنَةَ وَالسَّيِّئَةَ مَعًا. فَاجْتَهِدْ إِذَنْ فِي الْيُوغَا؛ فَالْيُوغَا مَهَارَةٌ فِي الْعَمَلِ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "تَحَلَّى بِالتَّمْيِيزِ",
+              "meaning": {
+                "ja": "明辨を身につけた。",
+                "en": "Possesses discernment."
+              }
+            },
+            {
+              "term": "الْأَعْمَالَ الْحَسَنَةَ وَالسَّيِّئَةَ",
+              "meaning": {
+                "ja": "善行と悪行。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "يَتَجَاوَزُ",
+              "meaning": {
+                "ja": "越えて離れる。",
+                "en": "Moves beyond."
+              }
+            },
+            {
+              "term": "فَاجْتَهِدْ",
+              "meaning": {
+                "ja": "だから努めよ。",
+                "en": "Therefore strive."
+              }
+            },
+            {
+              "term": "مَهَارَةٌ فِي الْعَمَلِ",
+              "meaning": {
+                "ja": "行為における巧みさ。",
+                "en": "Skill in action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "مَنْ + 動詞",
+              "explanation": {
+                "ja": "明辨を備えた「人」を取り出し、その人の行為を述べます。",
+                "en": "The relative construction introduces the person of discernment."
+              }
+            },
+            {
+              "point": "فَ ... إِذَنْ",
+              "explanation": {
+                "ja": "前半の内容からヨーガに努めよという勧めへ進みます。",
+                "en": "The connectors draw the exhortation from the earlier statement."
+              }
+            },
+            {
+              "point": "فَالْيُوغَا مَهَارَةٌ",
+              "explanation": {
+                "ja": "ヨーガを「巧みさ」と名づける名詞文です。",
+                "en": "The nominal clause defines yoga as skill."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "善悪の行為を離れるという説明を、ヨーガの実践と行為の巧みさにつなげます。",
+              "en": "The verse moves from leaving deeds behind to practicing yoga as skill in action."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -552,13 +2977,81 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Man taḥallā bi-at-tamyīzi yatajāwazu fī hādhā al-ʿālami al-ʾaʿmāla al-ḥasanata wa-as-sayyiʾata maʿan. Fa-ijtahid ʾidhan fī al-yūghā; fa-al-yūghā mahāratun fī al-ʿamali."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "具备明辨的人，在此世超越善业与恶业。因此，应当致力于瑜伽；瑜伽就是行动中的善巧。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "具备明辨",
+              "meaning": {
+                "ja": "見分ける知性を備える。",
+                "en": "Possess discernment."
+              }
+            },
+            {
+              "term": "此世",
+              "meaning": {
+                "ja": "この世。",
+                "en": "This world."
+              }
+            },
+            {
+              "term": "善业与恶业",
+              "meaning": {
+                "ja": "善い行為と悪い行為。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "致力于瑜伽",
+              "meaning": {
+                "ja": "ヨーガに努める。",
+                "en": "Devote oneself to yoga."
+              }
+            },
+            {
+              "term": "行动中的善巧",
+              "meaning": {
+                "ja": "行為する中での巧みさ。",
+                "en": "Skillfulness in action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "与",
+              "explanation": {
+                "ja": "善業と悪業を並べ、両方を対象にします。",
+                "en": "The conjunction joins good and bad deeds as a pair."
+              }
+            },
+            {
+              "point": "因此",
+              "explanation": {
+                "ja": "前半を受けて、ヨーガの実践を勧めます。",
+                "en": "The connector leads from the claim to the exhortation."
+              }
+            },
+            {
+              "point": "就是",
+              "explanation": {
+                "ja": "ヨーガを行為における巧みさと定義します。",
+                "en": "The construction defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "知性を備えて行為することを、最後に「善巧」として示します。",
+              "en": "The verse ends by calling discernment in action skillfulness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -568,28 +3061,152 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Jùbèi míngbiàn de rén, zài cǐ shì chāoyuè shànyè yǔ èyè. Yīncǐ, yīngdāng zhìlì yú yújiā; yújiā jiù shì xíngdòng zhōng de shànqiǎo."
+          },
+          "audio": {
+            "path": "library/bhagavad-gita/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "분별을 갖춘 이는 이 세상에서 선행과 악행 모두를 벗어난다. 그러므로 요가에 힘써라. 요가는 행위에서의 능숙함이다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "분별을 갖춘 이",
+              "meaning": {
+                "ja": "明辨を備えた人。",
+                "en": "A person possessing discernment."
+              }
+            },
+            {
+              "term": "선행과 악행",
+              "meaning": {
+                "ja": "善行と悪行。",
+                "en": "Good and bad deeds."
+              }
+            },
+            {
+              "term": "벗어난다",
+              "meaning": {
+                "ja": "離れ、超える。",
+                "en": "Moves beyond."
+              }
+            },
+            {
+              "term": "요가에 힘써라",
+              "meaning": {
+                "ja": "ヨーガに努めよ。",
+                "en": "Devote yourself to yoga."
+              }
+            },
+            {
+              "term": "행위에서의 능숙함",
+              "meaning": {
+                "ja": "行為における巧みさ。",
+                "en": "Skill in action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-과 ... 모두",
+              "explanation": {
+                "ja": "善行と悪行の両方を含めます。",
+                "en": "The pairing includes both good and bad deeds."
+              }
+            },
+            {
+              "point": "그러므로",
+              "explanation": {
+                "ja": "前半の説明を受け、ヨーガに努めるよう勧めます。",
+                "en": "The connector draws the exhortation from the first claim."
+              }
+            },
+            {
+              "point": "-이다",
+              "explanation": {
+                "ja": "ヨーガを行為の巧みさと定義します。",
+                "en": "The copular ending defines yoga as skill in action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "知性を備えた行為のあり方が、ヨーガの巧みさとしてまとめられます。",
+              "en": "The verse sums up discerning action as skill in yoga."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "분별을 갖춘 이는 이 세상에서 선행과 악행 모두를 벗어난다. 그러므로 요가에 힘써라. 요가는 행위에서의 능숙함이다."
+          "ttsText": "분별을 갖춘 이는 이 세상에서 선행과 악행 모두를 벗어난다. 그러므로 요가에 힘써라. 요가는 행위에서의 능숙함이다.",
+          "audio": {
+            "path": "library/bhagavad-gita/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "sa": {
           "text": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते । तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥२- ५०॥",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "बुद्धियुक्तो जहातीह",
+              "meaning": {
+                "ja": "buddhi-yuktaḥ jahāti iha。知性を備えた者はこの世で離れる。",
+                "en": "One endowed with discernment leaves behind in this world."
+              }
+            },
+            {
+              "term": "उभे सुकृतदुष्कृते",
+              "meaning": {
+                "ja": "ubhe sukṛta-duṣkṛte。善行と悪行の両方。",
+                "en": "Both good and bad deeds."
+              }
+            },
+            {
+              "term": "तस्माद्योगाय युज्यस्व",
+              "meaning": {
+                "ja": "tasmāt yogāya yujyasva。それゆえヨーガに努めよ。",
+                "en": "Therefore devote yourself to yoga."
+              }
+            },
+            {
+              "term": "योगः कर्मसु कौशलम्",
+              "meaning": {
+                "ja": "yogaḥ karmasu kauśalam。ヨーガは行為における巧みさ。",
+                "en": "Yoga is skill in actions."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "उभे",
+              "explanation": {
+                "ja": "「二つとも」の形が善と悪の行為を一組として示します。",
+                "en": "The dual word includes both good and bad deeds."
+              }
+            },
+            {
+              "point": "युज्यस्व",
+              "explanation": {
+                "ja": "「努めよ」という命令形で、ヨーガの実践を促します。",
+                "en": "The imperative calls one to devote oneself to yoga."
+              }
+            },
+            {
+              "point": "कर्मसु",
+              "explanation": {
+                "ja": "「行為の中で」という複数の場所を示し、巧みさの働く場を定めます。",
+                "en": "The locative plural situates skill in actions."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "善悪を区別しなくてよいという指示ではなく、行為とその業果に縛られることから離れるという文脈です。",
-              "en": "The context is freedom from bondage to actions and their karmic consequences, not permission to disregard ethical distinctions."
+              "ja": "第2章50節。知性に立つ人のあり方から、ヨーガを行為の巧みさと定義して結びます。",
+              "en": "Verse 2.50 concludes by defining yoga as skill in action."
             }
           ],
           "translation": {

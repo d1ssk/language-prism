@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9d7a6f49ebe8ac8a56139343af2f4e20283369269aa624b521c9939dddfddc5b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러나 오랜 권력 남용과 권리 침해가 한결같은 목적을 추구하여 인민을 절대적 전제 아래 두려는 의도를 드러낼 때, 그러한 정부를 무너뜨리고 미래의 안전을 위한 새로운 보장을 마련하는 것은 인민의 권리이자 의무이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9b8b203d8bda19f89ac4710cce3375165c908f2c676ba6e35c3fd82eed46afb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:15.275765+00:00"
+}

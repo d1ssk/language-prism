@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2023fae136ebb0d009c5340589d954cf4777a78778b9506078b93f1ee246eace",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いいえ、このでんしゃでくうこうまでいけます。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9367531403fca08e4ff3689fb1d467a564865b78f8553adfa107cd0c859bab2e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:24.098235+00:00"
+}

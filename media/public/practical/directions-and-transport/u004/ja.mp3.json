@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "94694a151ebdd4ae2838a743e67e2599960235b12ff57ae4ef1e4fc88e0874a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "じゅっぷんくらいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c6b7bb60e4c2ee4134d76ef916e81d0dd8acacac13771dd8a2db7d3bc14282b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:48.957246+00:00"
+}

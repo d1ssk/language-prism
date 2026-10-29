@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4af775ff351357744caec56a5827cab7573ea956fdc6cb36431e8cb1be49536f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "팔십칠 년 전, 우리 선조들은 이 대륙에 자유 속에서 태어나 모든 사람은 평등하게 창조되었다는 명제에 헌신하는 새로운 나라를 세웠습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "49a51dcf7b9f0d3003d951baf7fe39a23704acc14eec62470de32490a7488361",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:48:33.862351+00:00"
+}

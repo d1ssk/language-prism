@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ce418536409bbd1462927ff04790e2f27f99c35fa9659746420912159eb9a82a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Aquitania se extiende desde el Garumna hasta los Pirineos y la parte del océano junto a Hispania; mira entre el poniente y el norte.]",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "899be418335f71c92e3ac0956e9df085b93df7b8fb9b2ef988f0df02dcd7f8c1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:38:05.600519+00:00"
+}

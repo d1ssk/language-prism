@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "543c0c45f7a4c9f116f4b13685f184b7fc6da49afc7ef380a23d4cdd7a6b1069",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "一旦失去了赚取和获取财产的希望，他们就会收手，不再为此努力。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5b3120307bcb26d6f074b50f165c20528a173d32399ccff95d7666addcb963f4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:40:01.084784+00:00"
+}

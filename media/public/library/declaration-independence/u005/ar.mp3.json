@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f38874e5a416eec5d09e5deacfcab56a3397f77903cf7c2bfb8942ec2d898fc9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إِنَّ التَّعَقُّلَ يَقْضِي بِأَلَّا تُغَيَّرَ الْحُكُومَاتُ الرَّاسِخَةُ مُنْذُ زَمَنٍ طَوِيلٍ لِأَسْبَابٍ تَافِهَةٍ وَعَابِرَةٍ؛ وَتُظْهِرُ التَّجَارِبُ كُلُّهَا أَنَّ الْبَشَرَ أَمْيَلُ إِلَى تَحَمُّلِ الشُّرُورِ مَا دَامَتْ مُحْتَمَلَةً مِنْ إِنْصَافِ أَنْفُسِهِمْ بِإِلْغَاءِ الْأَشْكَالِ الَّتِي اعْتَادُوهَا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6ca51863397e3e64f8498830797e0cf5180ce2d2af5803d4baff2d11c003c10e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:11:44.845911+00:00"
+}

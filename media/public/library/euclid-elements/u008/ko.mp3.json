@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ffd9c123da173348668039f2e4541d64892719b8154724073a060d148d4006ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "평면각은 같은 평면에서 만나되 한 직선 위에 놓이지 않는 두 선이 서로 이루는 기울기이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "46c9df4d4c429057701fd6359f4d063317b62bfcf91ee2b293b22b8b9af49b29",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:17:58.213913+00:00"
+}

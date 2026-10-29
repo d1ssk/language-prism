@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "140ffa4ab07a42fb8a20d1048ff28ed96e30d0beb5d48e5bd270405eef1f339c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "共产党人早该向全世界公开自己的观点、目的和趋向，以党自身的宣言回应关于共产主义幽灵的传说。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "53212916b6796157af679e8493b4085d600c6ee969084e4ba57912857803f385",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:44:15.538991+00:00"
+}

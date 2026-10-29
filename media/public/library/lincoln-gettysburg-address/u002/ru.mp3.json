@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6bcdc6c7f8a53c409c4b88dcd2e8ac2860d12b896df01c28f33aca2955989a09",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Теперь мы вовлечены в великую гражданскую войну, которая проверяет, может ли эта нация, или любая нация, так зачатая и так преданная своему принципу, долго существовать.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2527a63084d564ff42c6fc0d1df589e70d9af3418de5bc6ef20087d4728c652",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:49:23.686611+00:00"
+}

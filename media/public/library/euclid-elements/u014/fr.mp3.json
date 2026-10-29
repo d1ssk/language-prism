@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b087c1be5ccc8dfd27c172b23428b885b64a987a7bc751e256369a76ccf5b7ba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Une figure est ce qui est enfermé par une ou plusieurs limites.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fd47353c110f6e69ddf6619ac519b5c878685812c9d36a5a699747b4671bbabe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:19.226513+00:00"
+}

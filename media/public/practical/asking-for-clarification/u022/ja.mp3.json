@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b73fcb710ff14aede998e428da9b474e0804a3d9b3c7b2cdd877f772e7b02f5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "すこしかんがえるじかんをください。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f2a9c3d71a570137a7b9a6504dbf3cb5dd019ee338f65b205a11dc96371dff2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:50:13.713073+00:00"
+}

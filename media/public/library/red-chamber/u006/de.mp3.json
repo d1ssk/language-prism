@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0591d85751585d583b7b2cbfa40e07bd932f1f99649fdc331daf1fa1b196be17",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das weckte weltliches Verlangen im Stein: Auch er wollte menschliche Pracht und Reichtum genießen. Seine rohe, plumpe Gestalt beklagend, sprach er mit menschlicher Stimme zu Mönch und Daoist: „Meister, euer Schüler ist ein stumpfes Wesen und kann euch nicht einmal angemessen begrüßen. Als ich euch vom Glanz der Welt sprechen hörte, erfasste mich tiefe Sehnsucht danach.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f38835dddf7939d5f022ab8f25459e62885fc5706a014decd1cdcf35d8af79a6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:21:15.992187+00:00"
+}

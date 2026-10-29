@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "adc937657a6edb1bb7ef7b17c9a47bb222630025141363c7cd6dbe2d8fb2ff47",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 길로 쭉 가서 다리를 건넌 다음 오른쪽으로 도세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "81c2110ff56533c25eeb5997c982ec2596f4fed35df2f3dc8384b4c7f62d9806",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:29.797613+00:00"
+}

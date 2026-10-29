@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5cbaa762920d6bc5d2086045872f6620bef5b4d8d87f1c19e74d5fb2a60ed313",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "فَالشُّجْعَانُ، الْأَحْيَاءُ مِنْهُمْ وَالْأَمْوَاتُ، الَّذِينَ كَافَحُوا هُنَا قَدْ قَدَّسُوهَا بِمَا يَتَجَاوَزُ كَثِيرًا قُدْرَتَنَا الضَّعِيفَةَ عَلَى الزِّيَادَةِ أَوِ النُّقْصَانِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5bc19f0686732d3c9121dbade54251c17b68127d1508d7f13a83966906726742",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:53:30.596796+00:00"
+}

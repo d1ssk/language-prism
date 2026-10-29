@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "192985a68deffd825379350afa81771eb352997fe203caa729081712eb33b9bc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le retrait des sujets de l’effort pour gagner leur vie est proportionnel à l’ampleur de l’agression.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8a99b7d6cbd36311d1e68eb9906f381441344c09fb969a61fcfa6f0ec88701fb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:40:24.934685+00:00"
+}

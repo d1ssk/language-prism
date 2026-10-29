@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "194efdfdd3d9b63aae459cb0ca0ba0f64d9b908bdeb849cff1be6c37a3111257",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Soit, je vais employer la puissance bouddhique pour t’aider. Quand ton ère prendra fin, je te rendrai ta substance première et clorai cette affaire. Cela te convient-il ? » La pierre ne cessait de le remercier.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "98911c86fd2540cd5a009a0acd646b44d311e316296fcbcdc4d493a17dea35b1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:33:36.712748+00:00"
+}

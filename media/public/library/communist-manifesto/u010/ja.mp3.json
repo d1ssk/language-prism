@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c922cdd9269f7b5d35c7756044e358d9e15544f56cd0ed44ec69721d40078c66",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ほうけんしゃかいのほうかいからうまれたきんだいぶるじょあしゃかいは、かいきゅうのたいりつをなくさなかった。ただ、あたらしいかいきゅう、あたらしいよくあつのじょうけん、あたらしいとうそうのかたちを、ふるいものにかえておいただけである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "10da8e76f684c6cd555fd5fcd127b1ee3822a0be4af59277c48a50e924be3f09",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:51:39.491131+00:00"
+}

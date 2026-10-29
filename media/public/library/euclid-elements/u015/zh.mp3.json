@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ea8fb267da2e63b4dfa96b6927bb1b2e7a64b5056688679e75ecddcc4cbc2759",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "圆是由一条线［称为圆周］围成的平面图形，从图形内部某一点向这条线［圆周］所作的所有直线都彼此相等。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "52f6b539efb16a3253c7d1e111185558003cd2b9268c92dc105b6d669b9d0daf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:22:53.486543+00:00"
+}

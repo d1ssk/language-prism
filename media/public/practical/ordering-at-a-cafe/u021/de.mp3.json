@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3a78fa08e4ea2398d1d4e27559bccc9444dd24a25223900f17386dcb532b400e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Bitte ohne Chili.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7d7a70da85ac3191ffb552ebb1410026bc4ab04f736a94eceaa651422e8443bd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:51.673125+00:00"
+}

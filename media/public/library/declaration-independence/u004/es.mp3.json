@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b92500ecc9abb833ce36bd8252a58550d4a389c5b3aa702f546826e7f91235a3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Siempre que una forma de gobierno destruya estos fines, el pueblo tiene derecho a modificarla o abolirla e instituir un nuevo gobierno, asentándolo sobre los principios y organizando sus poderes de la forma que juzgue más adecuada para lograr su seguridad y felicidad.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9e11defa6de0ac15199cc0c5f6c59a6e856c083ace2eaa1630ac0984e6de1129",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:08:45.128301+00:00"
+}

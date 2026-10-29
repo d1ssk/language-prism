@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "889120228e9852ce2e7ba577ec9bfb8ba058ca927d4f98627a092fdf7987cf72",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "C’est plutôt à nous, les vivants, de nous consacrer ici à l’œuvre inachevée que ceux qui ont combattu ici ont jusqu’à présent si noblement fait avancer.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "628ba1f661d3e7b62ec67e4c783859e0cd10c32caefe65282e62bfc37a49d8ab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:55:14.902522+00:00"
+}

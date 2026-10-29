@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bf56af8888b1373ada86424658d762d61cb810cf165cae7ebb0784b164927522",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Est-ce que cette place est libre ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5c25414e926f5e1d6730706c0cdead2c239e817e65a00ae9203b830446225698",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:40.132592+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "70e20ac5917ba3cb26426bb0fc2c549c2374b932361a9c96fd6edfecaa30b558",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "نعم، من فضلك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4569b004d51750930ada2a02447d08518ba3240a8757ace6923d8329957e7d13",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:19.937794+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "75372aea152bfcbebfbc3ee8b0b8937675c8700096fe848f2b97bfdd481232a6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "삼 번 승강장이에요. 다음 열차는 십 분 후에 출발해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "652e79dd00370ccc7f1e79cdcfe869e5a945f4dc3713f5a16391a1593b063362",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:01.940873+00:00"
+}

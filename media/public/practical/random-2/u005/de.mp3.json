@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "68ff0d142f85ae66c9fb5e3adb00b3f1c1090d330c27a324e69f4452a6df0c75",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die Suppe war zu heiß zum Essen, also wartete ich, bis sie abgekühlt war.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "29d3789f11c0c442c954759e5315cb3e17fd2980d33f12f14f1c2dc4e7b5bdc0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:04.777969+00:00"
+}

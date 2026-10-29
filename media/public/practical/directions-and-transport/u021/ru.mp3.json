@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "571bc6cdb9591829be91d9135768736c7cf03354e8a20a356ca4e7b8af13c463",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Есть проездной на один день?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79d2bee4c6141cd78d36b338d2c910856e319c310f6fc325397bc468f54178a0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:54:38.374707+00:00"
+}

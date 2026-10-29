@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b27b33cecb16af51410e60ed0bc466db711c02c6ee67f7676685f623ace547f4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Et si une droite qui en coupe deux autres forme du même côté des angles intérieurs dont la somme est inférieure à deux droits, ces deux droites, prolongées indéfiniment, se rencontrent du côté où les angles sont inférieurs à deux droits.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8ecf96e72600f851aaa021bd91235ebf14ae0dc78d537f908feac047abf4beb1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:34:56.010077+00:00"
+}

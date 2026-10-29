@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b716fd626525b6417c008f706cd35fb8d9cb4a7c8e52328e6f64da426506ee9a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El Garumna separa a los galos de los aquitanos, y el Matrona y el Sequana los separan de los belgas.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8cbac00b5e117303a9178af5f5ae47527c950071986d10f623fd632662fec28f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:31:02.122321+00:00"
+}

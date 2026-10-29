@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ac8592591a66b093f0c6cfd94f90c50dc4141afa092f1572f647b58af349a873",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A surface has only length and width.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7d573b3979f15d21edd66b340f58b9df9e431f33ae7450c98ee5b7ea9428bddc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:53.769772+00:00"
+}

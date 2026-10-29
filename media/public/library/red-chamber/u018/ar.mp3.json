@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "be8442678063f4724b30e6399f599ebab0d8fdbf7f87352e960c0352691b1422",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ابْتَسَمَ الرَّاهِبُ: «لَا تَسْأَلِ الْآنَ؛ سَتَفْهَمُ مِنْ تِلْقَاءِ نَفْسِكَ فِيمَا بَعْدُ». ثُمَّ وَضَعَ الْحَجَرَ فِي كُمِّهِ وَمَضَى خَفِيفًا مَعَ النَّاسِكِ الطَّاوِيِّ، وَلَمْ يُعْرَفْ إِلَى أَيِّ مَكَانٍ أَوْ دَارٍ تَوَجَّهَا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "be14e3d1b81202c608691bf72f62348abe0784d7a6f50a13219360a740db77fb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:41:59.869891+00:00"
+}

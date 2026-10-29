@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38f1e84d95d4402a97ce3de08242e5b6f10cb7a66b8053023a44f9085a1c1090",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إلى هذا الفندق، من فضلك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3815a07ed8bf01cabb2c9a9e19d316f3842b329131433f0f1991582ffe0af70f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:00:04.558305+00:00"
+}

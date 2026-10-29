@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fb6a83311470c8fe5a3ef7559184eb4819f3131b0971ae9b07e49106bfde66b0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Freier und Sklave, Patrizier und Plebejer, Baron und Leibeigner, Zunftbürger und Gesell, kurz, Unterdrücker und Unterdrückte standen in stetem Gegensatz zu einander, führten einen ununterbrochenen, bald versteckten bald offenen Kampf, einen Kampf, der jedesmal mit einer revolutionären Umgestaltung der ganzen Gesellschaft endete, oder mit dem gemeinsamen Untergang der kämpfenden Klassen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ca19c3d3a041d7e1e65f7673ad2d92bb70a0c7eadfedd3a0683431e7f9f5e8c9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:47:49.152495+00:00"
+}

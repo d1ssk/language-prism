@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c81b537b175a954949b5b343cb818b0a1cee74a4aba3425152215f15dd4ac89f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이야기 나눌 수 있어서 좋았어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1404b9523dc8878f680e53835b24bec2b0a14aa5dd7ac729b8fb07d706b75d6b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:12.115498+00:00"
+}

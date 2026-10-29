@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7033e5f0d5b1e21e4650b99f8b34a71e448437496fec5347cf1d803f58155d42",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Zum Hiertrinken oder zum Mitnehmen?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1c219c1949d595d968d03201c140205731927a54099cf4046e94260519606de9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:58.236437+00:00"
+}

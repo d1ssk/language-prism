@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d30f6b253af06adbc22c05ad5d23c963cbc80e5e425594112d76bc3d487506df",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "حاول أن تردد بعدي.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "85f7e7c1838344ceeea2dda5c53fd25d58d52e5edba434d8076ef2d9c28da7df",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:47:07.639595+00:00"
+}

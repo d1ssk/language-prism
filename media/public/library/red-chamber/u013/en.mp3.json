@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5649bbd23c04b8117a01f4224de7129c78f91526740958c1fec65e663256f9c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Very well, I shall now use the power of the Buddhist teaching to help you. When your aeon ends, I shall restore your original substance and conclude this matter. Does that suit you?” The stone thanked him endlessly.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c9b71b5e7c332c2533e24c915165dc13c310153e6d75832bc1ffd5014ded73c9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:33:16.383067+00:00"
+}

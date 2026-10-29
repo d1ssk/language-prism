@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f4cbb9328c7a49db536e4d340b3da6d7d0e2d5ed7906275ae086f1300cc2c4b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Свободный и раб, патриций и плебей, барон и крепостной, цеховой мастер и подмастерье — словом, угнетатели и угнетённые — постоянно противостояли друг другу, вели непрерывную, то скрытую, то открытую борьбу, которая всякий раз завершалась революционным преобразованием всего общества либо общей гибелью борющихся классов.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4e6c0996a64732f114dd6b8eaf49cd03acc4aea20b06c487a8828f416093df4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:48:07.185380+00:00"
+}

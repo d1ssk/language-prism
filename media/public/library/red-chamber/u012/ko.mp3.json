@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b47207c2f767a5e73d2ca0047dbc0d6473a522629fba748e632ff63bee8bbbda",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "돌은 “물론이지요, 물론이지요”라고 답했습니다. 승려가 다시 말했습니다. “네 영성은 밝다 해도 몸은 이렇게 거칠고 둔하며 특별히 귀한 점도 없구나. 이런 모습으로는 발 디딤돌밖에 되지 못한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "54b0e0908c482fcb0fb995f22c3a4e26d5da24c08c005943992e39de09adac6b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:32:58.143979+00:00"
+}

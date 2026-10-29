@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d8795c5a3294d4aaf3ddba8aabb10be8c2fda742e25bcba2d937ecda09bd3554",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "おんがくをきくのはむかしからすきでしたが、じぶんでえんそうしたり、おんがくのこうぞうをまなんだりしはじめたのは、ついさいきんです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b8cf30aad540bf66db335457380f7c6bb998836f975035102486a0dca952cd4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:28:55.803651+00:00"
+}

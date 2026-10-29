@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e53645aaae8e240c92c31fe976133927f79ca9ae692fc1ffbd946f82a20b5888",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "大家都以为这株植物死了，可是今天早上冒出了一片新叶子。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0868db0ed6563dbf7c527e89bc4600b43c4d63e8e3d4ec86b74258b3e980a0d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:30:16.917275+00:00"
+}

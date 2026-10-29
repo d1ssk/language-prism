@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0b0bdd2f7b33eb2e3d2ebdd1f57a2fa8f20f58474dce118ff8606a78910ac76a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Да, можно. За это будет доплата.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "62ad2f27f3763fa01bd4ce781782399e8968f0519fda3d2c4c5eec5c93afcc9e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:40.070835+00:00"
+}

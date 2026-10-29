@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cd628db0ccd88894e0978794492c052daf01d1820bfda0b307ce1586254f94a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le moine récita des incantations et traça des talismans, déployant sa magie. En un instant, il transforma la grosse pierre en un beau jade lumineux et pur, puis le réduisit à la taille d’un pendentif d’éventail, que l’on pouvait porter sur soi ou tenir.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f182dadfe34786d2ef9a730c7a9dbb2c51dbc16b8450bf48a19a73eb4aeb805c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:35:16.418298+00:00"
+}

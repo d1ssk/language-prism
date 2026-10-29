@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4f56f704f367ffb33a14a14db1f609424cd807a15689df459115cb81eb5e3a4e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如蒙發一點慈心，攜帶弟子得入紅塵，在那富貴場中，溫柔鄉裏受享幾年，自當永佩洪恩，萬劫不忘也。」",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "54cfb2d5f0a903484addd69b9191554834953130c27008e7c7d40f59f4133314",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:25:43.861146+00:00"
+}

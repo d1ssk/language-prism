@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b84c9654ca9e627b3c2dc9e7490943d24aae1816feb3bc2c0bf98a9fe613b24e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Тупой угол больше прямого.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3ea6c80134f402e3c0c5489b679bf41a3c4db2f16e09b67dabb26370c1556263",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:14.370664+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d1791b54534347e24db97b3d94fc488371e28984412d9f221babca303e9eaf2a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "مرحبا. فنجان قهوة، من فضلك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ccd0ff502ec9ac9e15531011fc5c9e3599c9304ac4991b0a0cba242f7dc33691",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:42.665767+00:00"
+}

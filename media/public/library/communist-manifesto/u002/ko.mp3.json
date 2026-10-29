@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "995e144eb0424d72ada434a0bd61035f6fabaa7eb7b5f41ab90eb752d8675e2f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "권력을 잡은 적들에게 공산주의라는 비난을 받지 않은 반대당이 어디 있는가? 더 진보적인 반대파와 반동적인 적들에게 공산주의라는 낙인을 되던지지 않은 반대당이 어디 있는가?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cba9fc0a4f111e1a325867215dc83d3e319e334434119e72ccc7f45a34fae4ea",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:42:12.132316+00:00"
+}

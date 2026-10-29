@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6773e50a42ecd29f3e4f9b36659e8fb35d95fb31cad4b464ae5a232a3602f3e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "제자의 바탕은 거칠고 둔하지만 영성은 조금 트였습니다. 더구나 두 분의 신선 같은 모습을 보니 보통 분들이 아니며, 하늘을 메우고 세상을 구할 재주와 만물을 이롭게 하고 사람을 구할 덕을 지니셨음이 틀림없습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3f0050344d13de2d191861e3af75ed232381fbf4338465d96ee55a11e47a8675",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:24:21.983942+00:00"
+}

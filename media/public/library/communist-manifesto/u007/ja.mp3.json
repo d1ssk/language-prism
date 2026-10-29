@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cb1113f0f54dff2aa514fa2d15fc46d50151935cc30d694246a543c27e70bc40",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "これまでのあらゆるしゃかいのれきしは、かいきゅうとうそうのれきしである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9d817cc22aa694c2be4049748682433de095379aa20c3692534f99be4e921f8f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:45:51.913212+00:00"
+}

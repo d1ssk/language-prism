@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "49f8bfb3bad8b459e8aef6145f41d4ba53ae060c2bdd71a5b9f58183462dfca9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "«Por supuesto, por supuesto», respondió la piedra. El monje continuó: «Tendrás espíritu, pero tu materia es tan tosca y torpe que no hay en ti nada raro ni precioso. Así solo sirves para apoyar el pie.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f459aa6c3566c2746d01a99f9b16c94401f6f7dcaae5e445079a370dafce7aa8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:32:00.000672+00:00"
+}

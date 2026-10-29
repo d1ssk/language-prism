@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b8ee4660dc2ca4a3460c391655783b22e56330991e19c676234fc4e87c58e523",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wisse, dass Übergriffe auf das Vermögen der Menschen ihre Hoffnung zerstören, es zu erwerben und zu verdienen, weil sie sehen, dass es ihnen am Ende geraubt wird.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "616546771b8be484f984a4774dffe8c8799a95b0c2f96c6c9c2c57b2afd7bcb9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:38:51.447150+00:00"
+}

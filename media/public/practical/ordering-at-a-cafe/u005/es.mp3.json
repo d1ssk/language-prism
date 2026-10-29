@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6e8844e1b43723b13631e6b23c7f9664282787e8dbffb62143777a3de5c3dbd4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Se puede preparar este café con leche de soja?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0df5ce6cc4c1c46c421a5a52ec41505d2f203b79eec8df3b649cefaf60927ed4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:08.282541+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9d8c7bb2145c3b7402d22228cd5d52bd26018e98312f0ee5d855240998915d6e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Buenos días.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "578fd1efc82c3a3ca12b0cad6bb307cb7bd7083d74dd4245e9733a1d40c3133f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:40.633997+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3829be072ac1e73311dabb03f75351dfcf912cb16ee1aeed4976b8a56fbd4c8f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Все думали, что растение погибло, но сегодня утром появился новый лист.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "62c7eff4af4fa03917cdf98942ed92a5b30ef9a72f085ad8c89be8e1df2100d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:30:07.461343+00:00"
+}

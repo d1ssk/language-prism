@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8d3fd261050004563205725af37481bb2ae49cb00c6b23093f9b722e02ab93d8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "博物馆快要关门了，所以我离开前又看了一眼那幅画。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c7c71da82ac32ca6ef9a97b053f4eb245a77a415a90b779ca571906e9494a1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:01.851309+00:00"
+}

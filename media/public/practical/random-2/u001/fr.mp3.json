@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8e895275c7427816816239a365c989521e3020f64c1640be113eff271bcd51c7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J’ai laissé le livre ouvert près de la fenêtre et, quand je suis revenu, le vent avait tourné plusieurs pages.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1f3aed015911717907dc40ffe46a2af0f7a33192f89feec93fda822e208a0fbc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:23:23.929521+00:00"
+}

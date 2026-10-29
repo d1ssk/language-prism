@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6013c7c54a680dc9eea06beac08fea29f17e28b6d76cbe9996b83d9fd62bd48",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Уважаемые читатели, откуда, по-вашему, взялась эта книга? Рассказ о её происхождении кажется нелепым, но при внимательном рассмотрении полон глубокого интереса. Позвольте объяснить её историю, чтобы слушающие всё поняли без сомнений.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dc0b0d454d3f5bdb55273233fe45048cca67387aa503f0b921ca9c9c53e8587c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:12:02.045445+00:00"
+}

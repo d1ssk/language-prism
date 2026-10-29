@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ffa111e31ce97d8baa8ed6d74e3d5295bff50b966db404bff7ee13896665270",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "新年快乐。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "838cf66567132866a42f18e016ea49751b0a2e4e3e57ec22082e1e7068ee87c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:02.514934+00:00"
+}

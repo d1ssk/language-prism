@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dafac9c24c058b645d32f0e0d4b42a4068f67f7c9d02d3f385109151645e236b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "방에는 아무도 없어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "87e9028d5a43d48ce126e91e068760fa0dfc7045fab57899b11b2b23f33972fc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:57.226709+00:00"
+}

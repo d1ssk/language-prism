@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "12e516c1fc5009ed8b09b5ccbc7e94db3fcd12e013d80e26aa29cf051dfde9fc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "저도요. 다음에 또 뵈어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b7b8db6915a70a2c92870a8aa6bacbd575cf305b27d0576d9ce2c8af76d38f9d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:34.475433+00:00"
+}

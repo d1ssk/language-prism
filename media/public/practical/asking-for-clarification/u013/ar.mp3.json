@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a075a2e68dfb2770a4419b73fe048c61c5445cf190f212706f0f302418cdfbaf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لم أسمع الجزء الأخير بوضوح.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bc2b047122f09321490f46d6e4ab25407396411cbb33a1840427636a3ea54581",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:53.960603+00:00"
+}

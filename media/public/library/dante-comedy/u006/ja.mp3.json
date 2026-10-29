@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "20823d8c6371f37422f060e2d4f64863135f761dc82e8280f3ed268588934b3e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしはうえをみた。おかのかたはすでに、どのみちでもひとをまっすぐみちびくてんたいのひかりをまとっていた。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b66873e1a50eaaf56f8b814777a2bcd3fd2500be17cc21a7f8c4a0f15bd527bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:59:23.508431+00:00"
+}

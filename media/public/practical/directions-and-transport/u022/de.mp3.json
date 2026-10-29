@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "46811c9752da90645eb344bf7b8ba66f43b2d901e3734886d207e28a9f9a4d4b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Der Zug hat Verspätung.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "268dd5d9ce42ce1826f311e074f218419f83cb68dea26afb50ba9aa2b03824d0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:56.557658+00:00"
+}

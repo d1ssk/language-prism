@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7dcfb576747bc9f9bf97af92efa96873f3c9c8d7c591fc56c75941a00f514417",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "面是只有长度和宽度的东西。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7acf3911afce73f0807f44f2f0b8027f73f676a9e47552e238ac1b4133b48e29",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:16:08.554603+00:00"
+}

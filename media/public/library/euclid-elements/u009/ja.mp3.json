@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6780f9bc52aa83129eaf0926b798ecdde1232c8d76ed08988faca93e9b945f88",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "かくをかこむせんがちょくせんであるとき、そのかくはちょくせんかくとよばれる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2d56ffe6866ac43cef8f6e0ba89fd748f41391fa45c500276f545aa72366ca35",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:18:01.900054+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "865faaa02bad5a257ba7bef4978a2a4d8410220accc0012f5a255579a41d9adb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "سبق لي أن زرت اليابان.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4473c3481aca4ffd24f33fc7665b63ae048a50546103be6855b2df2add4d6f7b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:17:29.676760+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c76f1326e0e5beba34d61fa65793aaecf6a88454028a3b4b84dad4f5e2b2bea",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Or, depuis son passage au feu, la pierre s’était éveillée à la conscience spirituelle. Voyant toutes les autres réparer le ciel tandis qu’elle seule était jugée incapable, elle se lamentait sur elle-même et pleurait jour et nuit de honte.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "805a80e2888e7fd992b3b745ff96458c1ee91fa1af8c77d9e6602efd205a8e7e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:16:05.416618+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c5d89c3c256b260ea825dfbdda97ad4d8fe10a1749c62b4fccb2416cc686613f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un angle aigu est plus petit qu’un angle droit.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "47f3df0dbc07f576e706c4cf40ad91bdd91c3e3a3e6f1e5c57a0c14702bbf6ba",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:32.810570+00:00"
+}

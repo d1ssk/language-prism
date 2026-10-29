@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d432ff057a317cb43dfc64c8be1a11e1961c3e9d6ecea1a03c407d42baf221e7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "так и мой дух, всё ещё бежавший, обернулся, чтобы вновь взглянуть на проход, который ещё никогда никого не пропускал живым.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "08a20a28670f43dfff8e7c831fa6e243aacb5aac4806096805a5e36e7cb38bde",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:02:34.430520+00:00"
+}

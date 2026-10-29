@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bc2b9c1fc9d6f613eda53284c873503e7c3a3c4faef7c5c8a6011fe74650c387",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nos corresponde más bien a nosotros, los vivos, consagrarnos aquí a la obra inconclusa que quienes lucharon aquí han hecho avanzar tan noblemente hasta ahora.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "10cf882d26528ce568c2b697bb012de58de9c507edc5e8152e93cc00039890b1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:55:08.036769+00:00"
+}

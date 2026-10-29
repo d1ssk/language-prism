@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a8eb1a30ef8c0d8c0c1927e067a3fb93667de5cc8dd60ccbff07bcc21afe11cc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nachdem der Strom ausgefallen war, redeten wir im Dunkeln weiter, bis jemand eine Kerze fand.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8ec9a5c98b614dd9c787b5e90f1653bed7eb8d74dabb054bb2505852b82896ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:28:01.629865+00:00"
+}

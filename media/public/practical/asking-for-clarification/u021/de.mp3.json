@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5a0f6823089da69f16053f576007eb8e0413d5ac953b35979978e610f2b2def6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nur die Zahlen noch einmal, bitte.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f906a2c1ed9d2e9c8a24bd9d83a854f53916e8a3134238c36950119d0c6b326c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:50:01.625144+00:00"
+}

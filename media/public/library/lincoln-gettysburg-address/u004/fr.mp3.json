@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f365857ca82ffc43cbe924d8b4f85b0a266e7b9b7bb530895b1f542128fff1bd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nous sommes venus consacrer une partie de ce terrain comme dernière demeure de ceux qui ont donné ici leur vie pour que cette nation puisse vivre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a3914efb65e8a18bc3bb9a8501354f021b3fee59add6ff6a55cc07c98955a67b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:50:45.306616+00:00"
+}

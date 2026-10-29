@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a6402a45ae887f7cfce7d82a74866b8612c52ace87e1dffcc8a779fa38b4aef4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "このほてるまでおねがいします。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4a17f8d16ab4ad4448df417a8709d1eda7395d15375c992be060371a50af1937",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:52.671518+00:00"
+}

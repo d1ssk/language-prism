@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "90a0972af445f628c7c444306de866708e352ffcc63ac7568d20a998ddf40b3b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그런데 그 돌은 불에 단련된 뒤 영성이 트여 있었습니다. 다른 돌들은 모두 하늘을 메우는데 자기만 재주가 없어 뽑히지 못한 것을 보고, 스스로 원망하고 탄식하며 밤낮으로 슬피 울고 부끄러워했습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ead2ee7336053fe39a5434168e9dc3b9d5c58e9e36bf7dd3c143563522271b63",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:17:02.843261+00:00"
+}

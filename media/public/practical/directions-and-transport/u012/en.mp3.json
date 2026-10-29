@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "04fbd624697225221808c7440fb0644047fae977ef5a75e63e618948e0f030e1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, this train takes you all the way to the airport.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "440aec1d7f87afb42d3e80263236d7d6dc64a8ad1e02ef64e237d37c45241ea2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:26.987360+00:00"
+}

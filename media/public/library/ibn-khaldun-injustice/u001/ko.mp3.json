@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e9742f38ef995853d77d3127d2650fc9bf7bf576e3aa12b5c574785e899cc892",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사람들의 재산을 침해하면 재산을 얻고 벌려는 희망이 사라진다는 것을 알아야 한다. 결국 자기 손에서 약탈당하리라는 것을 알기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "288e851ec8d364867c2125641aa3b7e00f54c900b43787f2c70391177a326c33",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:39:22.732914+00:00"
+}

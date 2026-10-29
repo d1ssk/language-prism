@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff5337b442e6e1f8fa39d185c923d2ca5a22620fd94a9a8cae934ae38bd03f93",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Celui qui est doué de discernement laisse ici-bas derrière lui les bonnes comme les mauvaises actions. Consacre-toi donc au yoga : le yoga est habileté dans l’action.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cdb8dae6d9714c7789a376225f39a9e8882c3ee504df3c3bc6297eb157cf3d0c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:28:08.965446+00:00"
+}

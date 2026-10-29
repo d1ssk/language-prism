@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "84bbb0a10d529c2ab10dd9600b04ef6a7e919cdbb1fd7e16b69b5d10a9a519e3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¡Ah, qué difícil es decir cómo era aquel bosque, tan salvaje, áspero y temible que recordarlo renueva mi miedo!",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "85d0efaef44408aad3af89639e89be1e919b255c00e45d58c1d032ab40a9bf6d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:56:08.502982+00:00"
+}

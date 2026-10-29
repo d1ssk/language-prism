@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dc66c413d88f8368de5f46ad457dd7a3a6079946702ace9fd2cacb3bd31e190a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Do you have a table for two?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c4f452e95087f560fec47d2ddd5852d901dd79719c85fd255992a09614a05285",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:13:50.314867+00:00"
+}

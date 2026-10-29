@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c94e0bf08b583336d29ef5a4b7c6a56c00972e72ced48ef44827d30b0c78b594",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Does this road lead to the art museum?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bc7bf7dbc4aa3b0c00836284e63d5d43603af8cea5304f39a33b32fdfefcdd4e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:52:21.407992+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3edcf2cf0ca99413b7cb99f99cb353270f4e5c5247eac42076c87a3b42165269",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "عيد ميلاد سعيد.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "42ebbf76160566787044df7a81d99f111418ea6aa003da21272dbb24949c2fb3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:45.599748+00:00"
+}

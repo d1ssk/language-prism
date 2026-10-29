@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d5624cc4348ff7b65873a3fa7cec43b06c298b7e57aa3d9290ab54cc872b6411",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El grado en que los súbditos dejan de esforzarse por ganar es proporcional a la magnitud de la agresión.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "72a8ae846bd050dbf1e7243ee0053c3022099dc5a5be5a801a4456e6e2e49d2a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:40:20.757400+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4cc6af0373dece8edd9e33c6dd8ab1b6d56bd61157df00e31e8bf67f3c201adf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A line is length without width.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4feb3eeb3758e94c0e6f6e441d1a29ecb51d1a5f3d04a99ce4d8a4021cbe770",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:38.937414+00:00"
+}

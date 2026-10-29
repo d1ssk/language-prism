@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "df02031ddc7c8b1b2d1a1cf72cd506f5182feab81d6f842e4b9adf0ab15c9384",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "En épocas anteriores encontramos casi por todas partes una división completa de la sociedad en estamentos, con múltiples grados de posición social. En Roma había patricios, caballeros, plebeyos y esclavos; en la Edad Media, señores feudales, vasallos, maestros gremiales, oficiales y siervos, además de gradaciones particulares dentro de casi cada clase.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "73c1ea16eddc6e16225b03ccd616df68992264cd7915af4a93550ef72e2fa191",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:49:42.733243+00:00"
+}

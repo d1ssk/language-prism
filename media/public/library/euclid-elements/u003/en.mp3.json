@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "048674682fc8d36215986f5c4a1d532354fc1f7d9728d8ddb5e11df17947648f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The ends of a line are points.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d31ff724ac926c5b96ddec50b9d369dfe9ac8c5b67916cb65873c55e8c36c63c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:59.636174+00:00"
+}

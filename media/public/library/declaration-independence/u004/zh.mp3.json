@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "104ddc77300f2bff4492f6356e90712b80a536f2ba2b10754325dee0686de068",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "任何政体一旦破坏这些目的，人民就有权改变或废除它，并建立新的政府，以他们认为最能实现自身安全和幸福的原则为基础，按相应形式组织政府的权力。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b7bd8721affcf40d32958a193bb798a9d5d96bb892133d3133057604a388f8ae",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:09:57.353494+00:00"
+}

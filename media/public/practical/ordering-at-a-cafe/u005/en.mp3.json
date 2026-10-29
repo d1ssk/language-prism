@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b2dcdc99f4d61824691ffad0f79b7d29e2c39b725c7ab080bf577f929f3bd0eb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Can I have this latte with soy milk instead?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eb79ac527d09a1733980c57a94f9317e9400c465ee158813cc2c93e45c0e0a5e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:05.628516+00:00"
+}

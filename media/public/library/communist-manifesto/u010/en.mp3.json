@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "849609feba955f07338789e1ec61ca0d9027d1ffe803f824529a77efda309bdb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Modern bourgeois society, emerging from the collapse of feudal society, has not abolished class antagonisms. It has merely put new classes, new conditions of oppression and new forms of struggle in place of the old.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "481e2b679ed2401353cf87efb5ebb444af2100b32f78a3f9fba7eea5df77b384",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:51:49.460753+00:00"
+}

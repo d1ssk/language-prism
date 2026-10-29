@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e536d793a917cf22973dac0ddf9124023c48de85870ef670ec8648301698162a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "去机场的列车在几号站台？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8152e0d08f8e6499578117c063f7e4bcec9443bef875772f560287d89b1b4d45",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:56:27.958095+00:00"
+}

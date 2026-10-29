@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f23ce8924da81737a83e701c8b985d1572a319d35d16f77f79ed9b8141ac9158",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "あさはおちゃをのみます。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d5384a06897dcdf35a8d9ef93daf6aabaebc87ca6b4badce6e4c2baf3d31551",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:31.061842+00:00"
+}

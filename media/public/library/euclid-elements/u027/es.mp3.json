@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4efafce1bbdbe9e656b62668b0f83bed26b6210ad56dcdc4d9b4256f83d9a98c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Y que todos los ángulos rectos sean iguales entre sí.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "29af6171a7a0a6af0c6d939cbe682e1ce01fe64b4c8c394afa9a95a66e1ade04",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:48.957807+00:00"
+}

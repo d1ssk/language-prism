@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "61f56da91524bad2616dd0531959af7db02f2d24979249a725d5a06e378eec5e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El territorio de los belgas comienza en los confines de la Galia, se extiende hasta el bajo Rin y mira al norte y al sol naciente.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bc4a2054e68c4270c95f3114f84b22e6777cf318c943466c481d635efb19c32d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:37:09.419246+00:00"
+}

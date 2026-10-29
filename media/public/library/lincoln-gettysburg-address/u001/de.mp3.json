@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b7f5bd303a4927814338090c20212e2505e7ddc3c116e9f5ba27c36c09018a81",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Vor siebenundachtzig Jahren gründeten unsere Väter auf diesem Kontinent eine neue Nation, in Freiheit entstanden und dem Grundsatz verpflichtet, dass alle Menschen gleich geschaffen sind.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "da9f0df657d3727ec655bfdbf5f8d0da34d54bb2fc71659a24d3f2dcc0f8b18d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:47:59.565682+00:00"
+}

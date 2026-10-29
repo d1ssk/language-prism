@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d7ef94cac1b19a3eb7c94e4dc4f983c9c8d058d88072fa9cef9cfab0379a5128",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しかし、わたしたちのじだい、ぶるじょあじーのじだいをとくちょうづけるのは、かいきゅうのたいりつをたんじゅんかしたことである。しゃかいぜんたいはますます、てきたいするふたつのおおきなじんえい、ちょくせつむかいあうふたつのだいかいきゅう、ぶるじょあじーとぷろれたりあーとにぶんれつしていく。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b8f36f859a59d4b2ea9d093bcb3cf4e213869eb72e836fd62f64bdab219b757",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:53:18.181042+00:00"
+}

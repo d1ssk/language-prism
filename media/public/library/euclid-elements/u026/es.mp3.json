@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9f1f5efbeb27a8ce4b8f40f8e29e20b1f85e5475068900d9b0fbb6dd7c771e1b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Y que se pueda trazar un círculo con cualquier centro y distancia.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d52d3159e455906f6c3570e156d693fb8cea588d0f94c1a47b35a014f9849c3f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:21.995088+00:00"
+}

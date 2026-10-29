@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e8fd60dc50f37acc401a428cc1cd9a43bac330e1bed6e9ed00a16a2b25d273d8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Además, un triángulo rectángulo tiene un ángulo recto, uno obtusángulo un ángulo obtuso y uno acutángulo tres ángulos agudos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1c2054da36593e3e4b31da30138601f4f5a323278d501df3f51f060032d31b73",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:28:07.922397+00:00"
+}

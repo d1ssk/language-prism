@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9d0bcd494176252a56aa0cc4ed8d8f19813ceaa870f05cb83228d71617efe228",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un jour, au milieu de ses plaintes, elle vit venir de loin un moine bouddhiste et un taoïste, d’allure et de maintien extraordinaires. Parlant et riant, ils arrivèrent sous le pic, s’assirent près d’elle et conversèrent librement. Ils évoquèrent d’abord montagnes de nuages, mers de brume et mystères des immortels, puis la gloire, les richesses et les honneurs du monde humain.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "62abd49696375ff8a04a4c030d0fcad69d8fdccc1c83e9a2121ae19127fb16ad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:18:14.967490+00:00"
+}

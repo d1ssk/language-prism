@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d05eb5fc5cc11f722d32ad19cd9825f6aca93aa929f6186be76247b25596929f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если посягательство невелико, сокращение заработка соразмерно ему.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "54f3c349bda786d8c9959132e912469f325aba3f5cb89cf26e54f7b306c01a03",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:42:33.922524+00:00"
+}

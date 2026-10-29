@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "deaf1bde9ec5d95c74c84231f63034829259a3703894d765870fe6655aa8ffad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "И построение круга с любым центром и расстоянием.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db433a8f4bfb4a6608212e72219e8fb4980f8d007c06ae3647aedcbfe5fcb500",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:31.432289+00:00"
+}

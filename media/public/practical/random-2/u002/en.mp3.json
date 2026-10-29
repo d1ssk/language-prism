@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ced375ebcffd407490d32a502ed1de2de644887e1a2d9ae67531df10bd9a6a90",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I’d heard this melody many times before, but I only noticed the bass line yesterday.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0faf1815b81a496eeea39be2411f3d9c294c4c0638a6ef4ff042962d1be46dd6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:23:56.650712+00:00"
+}

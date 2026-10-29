@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b50463a52f20cf1b49107348c2dbfbaa298b46a24a7d63c542349d8032068965",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "공항까지 가는 편도 표 한 장 주세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a41f66b100abbc835fae71c6de2506972c5d7be34b9fd129715bd4aff54aa5b2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:09.687933+00:00"
+}

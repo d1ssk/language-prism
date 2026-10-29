@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6955d414a3ca72530e71a6cccfb7660a7c96fefba602a25b34dc44823ca037dd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Abre a las nueve de la mañana.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "458969911870251f34b41d3aa9c812e909e6074efdbc1c0ad59f80edc82925bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:24:07.558557+00:00"
+}

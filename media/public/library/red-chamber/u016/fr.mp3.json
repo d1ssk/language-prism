@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9beb4018227f6700b6a2f0c2ece09f2dee488b6ac58767dba89dfa29cc4cc016",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Puis je t’emmènerai dans un pays éclairé et prospère, dans une famille de dignitaires nourrie de poésie et de rites, en un lieu brillant de fleurs et de brocart, un foyer de douceur, de richesse et d’honneur, pour t’y établir heureux. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bbac17733e4f380302fcfb4c38cacdb5c9d05ca0e4e57244f319c663a03669a5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:38:34.429211+00:00"
+}

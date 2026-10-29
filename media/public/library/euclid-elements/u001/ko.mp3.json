@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a2bd6326ec49a7a7a8e975b3280f2dc2e86e7d4d2670d41b1510f74dd5899e2e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "점은 부분이 없는 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82c05c845a3eeba457f1b69aa2ba51a4f34a13de8d8e9aae1da9a47e37865d78",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:34.794093+00:00"
+}

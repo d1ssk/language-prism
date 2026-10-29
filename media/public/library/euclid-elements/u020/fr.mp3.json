@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cbe967f6fca4fe6b6c7164395a144a99cf131a22fd1b180cde4e5c0b0873f0b3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Parmi les figures à trois côtés, le triangle équilatéral a trois côtés égaux, l’isocèle seulement deux, et le scalène trois côtés inégaux.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8e7fff55a9cd10dce9dac1b437204368f78f8f2ae62ecfd0d7abb57a9a97b48d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:26:59.906909+00:00"
+}

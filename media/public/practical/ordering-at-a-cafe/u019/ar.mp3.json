@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "49ffcc2cd71cafcc990b80b617272b3ab49d6ac50e39a8163a6b7f078e4efdef",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هل هذا الطبق حار؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "64a378d20defc32fb5a392736290595d93f13f97a176a55db1a564952eb68f86",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:11.146071+00:00"
+}

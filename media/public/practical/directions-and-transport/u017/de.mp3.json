@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f730e55dcfc289b9e4ace9d9fc61d14be13dee3efc506b9f7d583235852f8eac",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Fährt dieser Bus zum Rathaus?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f8b76a52930e5bdebeacfaebc7d1d48849c31a2ecab225eb33cfd6a8580ead5f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:12.872067+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4a867a657799c8a3b0165cd8232e9a9c2c97978c02e3b210a154292a05d333c7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Abrí la ventana y oí a los pájaros.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bddec3a1861a03d07de09f0ffe16d8e20648c69eb54a014c9e66891b50a526cc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:49.107563+00:00"
+}

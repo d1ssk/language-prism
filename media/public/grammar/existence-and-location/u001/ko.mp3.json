@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4db1deb572b20b45a952015aefadd34bfd2241a4092b5938becba72eceaaf9e5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 방에는 책상이 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1f5db3c64a61d232e519c7c852b73d2b410fae78493b58b75b51b7d32b977030",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:10:25.420751+00:00"
+}

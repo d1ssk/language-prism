@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e7542f998e90eea8f8dffca1f44f22db44abf3c6901b5b3959b4f514591a21da",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J'ai déjà vu ce film.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6a26763e9ce7b4b96e33c01406bbe0226bfb52b2f28c70391457fb5b8cd9e6a2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:07.980164+00:00"
+}

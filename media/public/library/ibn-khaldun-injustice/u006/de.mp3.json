@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c42c514f48fbfa4937ad1eba77662804bc8bb07291ce7be3e1ed2fea67b55b3e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Gemeinwesen, sein Wohlstand und der lebhafte Handel seiner Märkte beruhen auf Arbeit und dem Hin und Her der Menschen, die ihren Interessen und ihrem Erwerb nachgehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8908cffcda5b12fdb92a5edb0b3d82e9dac4b48fa52cab91f8bd66ebc360f739",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:43:25.507795+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c41902dd50f96a71e044026878dc08b0a20cbd4d3e72e2d9f60c01ed1cbbf757",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "What do you do for work?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5138ce00fb4b0025ee662e60f9981d6c264202d47fd7bffcd528c723c081200b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:24.462410+00:00"
+}

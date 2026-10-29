@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2b14fbb0b0720af08b6d0d233badaee275f37ead71a67197ce38621bd0c49f1c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Comment allez-vous ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cae15617276b901146f90270c2fdfd7be7f86655ecdc25db2217541519cd2499",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:08:42.674790+00:00"
+}

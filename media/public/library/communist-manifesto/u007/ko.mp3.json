@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "84a6cb24820b2a197aca58f08e2dfc3f4c9da4ae48fb53933d36c4e96e76bf21",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "지금까지 모든 사회의 역사는 계급투쟁의 역사이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3c9f212e673cfc7e86ffd9ee53f0f552792d075611006a496738a86163efee9b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:46:18.646806+00:00"
+}

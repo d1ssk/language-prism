@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e08e82fd23020f47fa6fa69cf0efe2c66e80bdcba8be302e1169d720ff5aafa3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich auch. Hoffentlich sehen wir uns wieder.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db0beb95cb321b68400c747525978bc896968e65914cda3171f889f3ea3a402d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:23.991184+00:00"
+}

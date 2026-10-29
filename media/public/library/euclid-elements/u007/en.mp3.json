@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b5f9306bd345314baefbd6372817aab26e0b5f0554fd0341b577cff8033f811f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A plane surface lies uniformly with respect to the straight lines on it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79158f9d4bb4c850ca189824e6b1793ed6431f25f50991acc432684f122632aa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:16:37.027646+00:00"
+}

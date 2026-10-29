@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6c938f5079b2373c8357fddb1fee4ee58731961f36f4d0d18e5374320c1e66a3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "にんげんのできごとのなりゆきのなかで、あるじんみんがほかのじんみんとむすんできたせいじてきなつながりをとき、しぜんのほうとしぜんのかみのほうによってみとめられるどくりつしたたいとうのちいを、ちじょうのしょせいりょくのあいだにしめるひつようがしょうじることがある。そのとき、じんるいのいけんをしかるべくそんちょうするならば、ぶんりへとみずからをうながすりゆうをあきらかにしなければならない。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "413ab9038b77ed670dd5a63f1a210e649f6f8208bcfaaa1b3ce1a7fc7dd7a8a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:03:15.210336+00:00"
+}

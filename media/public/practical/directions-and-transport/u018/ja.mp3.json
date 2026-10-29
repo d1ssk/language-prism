@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "826fbb873830a5135a25bc264f983d6b6ef1b4ab38e149fd96552e9e20e1d320",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いいえ、はんたいがわのばすていからのってください。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "478a136cab05024b5b285a84d6da3c6fef4a2d32d8950002344b97116dd81488",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:24.938246+00:00"
+}

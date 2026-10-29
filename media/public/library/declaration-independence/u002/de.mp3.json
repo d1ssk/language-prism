@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "309506c7973db92753180bd2266485a758cccd2edcface9505733f16f264539c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir halten diese Wahrheiten für selbstverständlich: Alle Menschen sind gleich geschaffen, ihr Schöpfer hat sie mit gewissen unveräußerlichen Rechten ausgestattet, darunter Leben, Freiheit und das Streben nach Glück.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9519e89b1bb62e83bc94bba9d1f494acd87c4a3db983ddba925e1938c237820c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:06:26.202483+00:00"
+}

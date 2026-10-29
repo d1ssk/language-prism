@@ -52,6 +52,11 @@ export class AudioStream {
     URL.revokeObjectURL(this.url);
   }
 
+  append(urls: string[]) {
+    this.urls.push(...urls);
+    void this.pump();
+  }
+
   private fail() {
     if (!this.controller.signal.aborted) this.onError();
   }
@@ -85,7 +90,7 @@ export class AudioStream {
 
   private async pump() {
     if (this.busy || !this.buffer || this.controller.signal.aborted || this.source.readyState === "closed") return;
-    if (this.source.readyState === "ended" && this.refill === undefined) return;
+    if (this.source.readyState === "ended" && this.refill === undefined && this.next === this.urls.length) return;
     this.busy = true;
     const buffer = this.buffer;
     const { signal } = this.controller;

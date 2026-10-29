@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0b51113c3807617ad84da9db476e840a7e57fbff0a6e8c764b8ec51c2c038e74",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这个房间里有一张书桌。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "922ccc848061a353eb95284fe94695524294c6b0e84dbef24b42f360d6f0695e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:10:23.618957+00:00"
+}

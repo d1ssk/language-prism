@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "279bea4e35ae16334c7fe767018c1508a1cf15d9b0d379be3fd36d2da1029aaf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Certainly. Is it for today?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db62abe1eae7e7f27d1cbf63fe8f182def3c214f94ade1e47576fa565b641107",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:13.566530+00:00"
+}

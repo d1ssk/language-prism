@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "896ac42f26daa46178eee038e99111b59bf7b99f816a326d5c815b089c167f39",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Der Mönch hielt ihn auf der Handfläche und lächelte: „Deine Form ist nun ein Schatz, doch eine wirkliche Besonderheit fehlt noch. Ich muss einige Schriftzeichen eingravieren, damit jeder sofort erkennt, dass du ein wundersames Ding bist.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "733264448dd141b40d7f9478f29b198e5431e8174d63cc9a875e302c3da8e15b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:37:07.411153+00:00"
+}

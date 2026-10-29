@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eaa6b6d90bab02b718333a05f23013ebc89784e49f8de2e1b7bcbc2eedbd0a4d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn ihr etwas Mitgefühl zeigt und mich in die staubige Welt mitnehmt, damit ich einige Jahre Reichtum und zärtliche Freuden genieße, werde ich eure große Güte ewig im Herzen bewahren und auch nach zehntausend Weltaltern nicht vergessen.“",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eca7dc5b441c7fb83c06bda8e4eb7c809ee486c86a49d3a26c104ddafda12242",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:25:12.672499+00:00"
+}

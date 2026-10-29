@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "141afb9bc13757f8b675e1dfb7525b10c7c04a2141cd212c524d200083ed4bde",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Pero después llegué al pie de una colina, donde terminaba aquel valle que me había traspasado el corazón de miedo,",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c7f187f7d800867d67372154c17312920b7d9dca212d0557eea70929411fbde8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:47.405159+00:00"
+}

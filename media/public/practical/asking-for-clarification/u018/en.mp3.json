@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b092a15eded3999ca690cf6c3326c6be4901096c3c2be3194ff0acef57a73156",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Yes, from Monday.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9e59e37f085f86deb58618a8071bfdf09956dcb79a5b31850f6b74eabd2190ad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:41.243625+00:00"
+}

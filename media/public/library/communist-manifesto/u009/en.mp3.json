@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5d961a9eb6af16c8bc25050169c917729db4bc22bc3e8d212deb9746f4adc435",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In earlier historical periods we find almost everywhere society fully divided into different estates, with many gradations of social rank. Ancient Rome had patricians, knights, plebeians and slaves; the Middle Ages had feudal lords, vassals, guild masters, journeymen and serfs, with further distinct gradations within almost every class.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fc3dd56ef12876fda053d203c5e2f676c3b038553ec460c5b49ef1e3fc5087ef",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:49:22.147814+00:00"
+}

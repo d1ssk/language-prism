@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f4fc0654a433ccd8eb31182180c714462ab654db3b8f093a80c9921a8f6a506e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "どのくらいべんきょうしていますか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "27dc0a96c705700700a834101cd7a1edbe3822c56d65b38b47255eeeb5c444b5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:03:27.599629+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a579b222de5397803ec6bee80cfb6a047e23fc2fe05162e1f1f77d98026c714d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "천만에요. 곧 도착해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "26fa3b5db859202ce46242206eb9db39adcd58f72d56534295d67f9d2ad339b9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:50.699782+00:00"
+}

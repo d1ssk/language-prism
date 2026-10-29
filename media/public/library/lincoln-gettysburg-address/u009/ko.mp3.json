@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cf537b8cfafb18c86a74452f05d51e999dab8afd3d4f3c54388b9c1858a3bfba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오히려 살아 있는 우리가 이곳에서, 여기서 싸운 이들이 지금까지 그토록 고귀하게 진전시킨 미완의 과업에 헌신해야 합니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ac32e8b3edbde9689fa4692ec55c4b35901eb0796559423a8e6ff9238ff9cd2b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:55:50.024840+00:00"
+}

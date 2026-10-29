@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ee2bbd872e02c4db8c70d7d127eaf68fb593c2c87b199d38ce2414d0dcd7c81b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "휴대폰 배터리가 다 될까 봐 주소를 종이에 적어 뒀어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5ab10ee910ab14eb8c38fe3dff1c39a05b3a74fb50c8ff536a7bb7fc337456d2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:27:37.163004+00:00"
+}

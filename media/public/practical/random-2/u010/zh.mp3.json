@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5b32733280cb894f17c68a888d1adb30e1637b2ea6cf91ab5f1143ac921300b3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我一直都喜欢听音乐，不过最近才开始自己演奏，也开始学习音乐的结构。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e2997a1053af6300e10be775d35091bc96b1bac6e04a3d49a8411033b047e3bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:29:38.973138+00:00"
+}

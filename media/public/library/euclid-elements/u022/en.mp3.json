@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "41334b185026aa621f6c530aa5f173f9ed410e03b05c3941e5feb28a82c6ba2c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Among quadrilaterals, a square is equilateral and right-angled; an oblong is right-angled but not equilateral; a rhombus is equilateral but not right-angled; and a rhomboid has equal opposite sides and angles but is neither equilateral nor right-angled. Let all other quadrilaterals be called trapezia.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "807c8df41c70dc50caa5588699a792a429990499d298bd35f18f570c3462d757",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:29:19.372059+00:00"
+}

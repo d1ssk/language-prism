@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cca117e2f6a24b54dce217d5e16623b4c57c1b75b03515204973181a37a21728",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il y a quatre-vingt-sept ans, nos pères ont fait naître sur ce continent une nouvelle nation, conçue dans la liberté et vouée au principe selon lequel tous les êtres humains sont créés égaux.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7cde0f5c0fb1bbd09d48e7f64e8e2e3d4e03351b7160b9dbf171d7592d5fcfa1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:47:51.489379+00:00"
+}

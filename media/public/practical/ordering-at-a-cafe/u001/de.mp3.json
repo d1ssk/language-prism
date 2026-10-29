@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c02427b366b4c3c36efa0994ccd4f0568d9c8da2ef5a459b86293ab50ed12531",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Guten Tag. Einen Kaffee, bitte.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3f889ebca814f071464f1b02ac27e27735c8dd1d29c0b524061f9982fe336d98",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:37.114020+00:00"
+}

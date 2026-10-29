@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d203396edc3037e4c01a0e045db957bfe322966b9f3ac6f924dfa42479d7eb54",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사람들이 생계를 구하는 일을 멈추고 벌이에서 손을 떼면 시장이 침체하고 사정이 어지러워진다. 사람들은 그 통치 영역 밖으로 흩어져 경계 너머에서 먹고살 길을 찾는다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb85fc0fc683d17da2dba8a11beb27aabf29a89edc5a6f25e884df82ca1ea839",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:45:32.247305+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "08711c8cb5d043c559cdafec98b1ce06bc16390e4c0de905ffef39aff2d9b0d9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "An acute angle is smaller than a right angle.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4baab1e386cc287b08c48eafb9911a902503ed907b89a9f8600341555a180cd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:27.262692+00:00"
+}

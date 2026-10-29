@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1534ed7fce687fd86cf5b90462dbe06f0e34fe0c81737fc1de1b7006e8cce5db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Yes, we can. There is an extra charge.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "30da7ebbf0c868d045575f91181013da486b7d288d38c336e447ecf58e4ad9c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:29.785436+00:00"
+}

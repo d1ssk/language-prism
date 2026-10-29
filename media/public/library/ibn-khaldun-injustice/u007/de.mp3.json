@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "26eb585c8da5b2afbe2e232e552976293c58c4e6f1239f5a9d0f4e14fa5b370c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn die Menschen ihren Lebensunterhalt nicht mehr verfolgen und sich vom Erwerb zurückziehen, stocken die Märkte und die Verhältnisse geraten ins Wanken. Die Menschen zerstreuen sich in andere Gebiete, um außerhalb dieses Herrschaftsbereichs Nahrung zu finden.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "649e1f34b9fa089d93e2a878d3966ac39c9d037e4e205b26024dc9168e40f95a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:44:47.596629+00:00"
+}

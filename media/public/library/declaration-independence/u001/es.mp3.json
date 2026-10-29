@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a46ced04ed3ce6d76e8238724ea54982a2321d1477429e085d93d5e00aaedbc4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando, en el curso de los acontecimientos humanos, un pueblo necesita disolver los vínculos políticos que lo han unido a otro y ocupar entre las potencias de la tierra la posición separada e igual a la que le dan derecho las leyes de la naturaleza y del Dios de la naturaleza, el debido respeto a las opiniones de la humanidad exige que exponga las causas que lo impulsan a separarse.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0a5c1c84e0e1ebcb47d2560853b4d816b7d53c7e251fed8a2dc0a570a8441c25",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:03:50.929849+00:00"
+}

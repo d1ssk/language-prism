@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "acde00f11dbe347fadeb153e5cb56d5a6856cd4cdddb8d6dfa01cf01f89acbd3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Для этого коммунисты самых разных национальностей собрались в Лондоне и составили следующий манифест, который будет опубликован на английском, французском, немецком, итальянском, фламандском и датском языках.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a5039facc35856f68eeed272f5e9a9ca621c0d722be5333fd34f75ec0512a868",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:45:20.912616+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6f41b1cb18c8632f007f79e8b0dd37dfc76d363181ef5099b5de93b2c00727a1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러나 우리 시대, 부르주아지의 시대는 계급 대립을 단순화했다는 특징이 있다. 사회 전체는 점점 더 두 개의 거대한 적대 진영, 직접 맞서는 두 거대 계급인 부르주아지와 프롤레타리아트로 갈라진다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "131757ed1f5564c3000af39e8322173c67f6ed6d238854ef95d49af3ab5acc94",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:55:04.525085+00:00"
+}

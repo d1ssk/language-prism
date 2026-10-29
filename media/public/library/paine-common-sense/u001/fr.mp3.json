@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a0c38e7bf8a416c8fcec358b3518eb56889b84520cbb8303828ae6a824ff517a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Certains auteurs ont tellement confondu la société et le gouvernement qu’ils ne laissent presque aucune distinction entre eux ; pourtant, ils diffèrent non seulement par leur nature, mais aussi par leur origine.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b7df9c563fc69efd9cde5d606e3c0d7f172d6759d2239c68043b222ea0c4731c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:59:43.204911+00:00"
+}

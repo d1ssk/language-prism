@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8cfbbf1fd6957ff99b7565dd1ff02714f14cf71098d617bd9caeb1ffa3a3d071",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A circle is a plane figure bounded by one line [called the circumference], such that all straight lines drawn to it [to the circumference] from one point inside the figure are equal to one another.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "49d99c17c5beb421ef64ba9485a1870b1f6c604a16c7f0923d037527089ffb1e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:54.478668+00:00"
+}

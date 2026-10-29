@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "95b1cc0613fb3c2d94804c3fdccbc0c19f2ba74590f9159c37a57554eabff269",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Könnten Sie etwas langsamer sprechen?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b026cfbd75c2c60a63033b3994befa72e2a9bb7314b7ca4512b06c3b48f1e4e8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:43:59.386559+00:00"
+}

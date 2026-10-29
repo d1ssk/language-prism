@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b96aff54ea4d5135e6ba30731d1eb25f8f4acf1f397035692d765512399c3ef2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Общество в любом состоянии — благо, но правительство даже в лучшем случае лишь необходимое зло, а в худшем — невыносимое. Когда оно причиняет нам те же бедствия или подвергает им, какие можно ожидать в стране без правительства, наше несчастье усиливается мыслью, что мы сами предоставляем средства для наших страданий.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bac3a0caca192fa2208b6170aea9679ea61156387676d1817eabf1e06e1b71f3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:04:42.604542+00:00"
+}

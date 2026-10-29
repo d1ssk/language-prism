@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bdc5f731d41e2b9d453bed7348b157703abd00346c4d8dffe594685861823e87",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No sé explicar bien cómo entré allí, tan lleno de sueño estaba en el momento en que abandoné el camino verdadero.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "708d8fa248a2647d3431afc371d5b3567804afda10be05457648b830970afefd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:57:59.123399+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9a5550b38b402cfacb974ad85beba7937ba0299871d2a1784bdae51a7417890b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Here is your ticket, then.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cc25685992e5c1f4ffeb2e7890c23137da6d70206206067f6728d04e4885b9c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:51.779548+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2e1c94b6a8287909b6317fe8ba296d87c4f4343f02f75e6517596b918bc140e1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Moi aussi. J'espère qu'on se reverra.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d45ff0e6d7b2ee39e4cc83af84f0f90853882c6e0d5111dae26322f582c6b727",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:21.485769+00:00"
+}

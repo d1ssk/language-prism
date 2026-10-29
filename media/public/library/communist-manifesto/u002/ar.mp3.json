@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d5deeaf5a8732b4936a58dcc1c24fa5eaed23c815b798d31e35e638202c9791d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أَيْنَ حِزْبُ الْمُعَارَضَةِ الَّذِي لَمْ يَصِمْهُ خُصُومُهُ الْحَاكِمُونَ بِالشُّيُوعِيَّةِ؟ وَأَيْنَ الْحِزْبُ الَّذِي لَمْ يَرُدَّ تُهْمَةَ الشُّيُوعِيَّةِ الْوَاصِمَةَ إِلَى الْمُعَارِضِينَ الْأَكْثَرِ تَقَدُّمًا وَإِلَى أَعْدَائِهِ الرَّجْعِيِّينَ عَلَى السَّوَاءِ؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c11b862a69f6c54e52f5d2b8f0c9a17b902f350c55b86111e297ef97a8b62a7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:41:53.288987+00:00"
+}

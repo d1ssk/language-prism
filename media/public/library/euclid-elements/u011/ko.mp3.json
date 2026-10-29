@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c6827198c83be168605bdaeee8b9ad1b1f1ac25d469fbad473f4da1708c4a016",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "둔각은 직각보다 큰 각이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e9a6c24075947cd9ae7f4962565b8e22b67db198fa48dc7b30bd65ed2738ccea",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:22.221175+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "485f1a4f7b689440743d6f1a83b1bb0d5847108b4668d14693ac41b2a1bac096",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "بَلْ عَلَيْنَا نَحْنُ الْأَحْيَاءَ أَنْ نَتَفَانَى هُنَا فِي الْعَمَلِ غَيْرِ الْمُكْتَمِلِ الَّذِي دَفَعَهُ إِلَى الْأَمَامِ بِكُلِّ نُبْلٍ أُولَئِكَ الَّذِينَ قَاتَلُوا هُنَا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3e83f6b9951941f3c202441b6452bd4255cb65c9e56649cccdb408b1d82cd1e8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:55:36.317708+00:00"
+}

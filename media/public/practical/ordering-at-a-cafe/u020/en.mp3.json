@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5287740c153120e07e2dc8a99fde07e01764d78be43ae1c4291d2094266499d3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It's a little spicy, but we can adjust the spice level.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "26cc9fc4c9c68a91626d0a86fc97e375c6d3117e84d842d4632daa3350a58789",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:20.390368+00:00"
+}

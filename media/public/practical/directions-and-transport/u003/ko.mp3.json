@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "627db78e0f272bedb1b1a4bc15e54a0a16edac1a59d9596fe69069b98a8c407c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "걸어서 얼마나 걸리나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aacde0d7e10b25db8fd2e73a1f466b1fae76d2b5e5c23cfe92a6b1a1a465badd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:47.326257+00:00"
+}

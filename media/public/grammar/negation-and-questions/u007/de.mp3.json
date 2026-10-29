@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4a630d066805d242bb67c887569ce7cd1f11d14c9acafbecfdce7371a1b6262b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Morgens trinke ich Tee.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "99390a3c8ca96198745542f9388afac22329c536a88347c6d70f6748f497f866",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:38.202752+00:00"
+}

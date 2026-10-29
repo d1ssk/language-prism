@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c8afdd0f5c157052a6817b25e6a1e1973cfc7d9a4cec29b7f980f0dfbd86b4c6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wenn es im Lauf menschlicher Ereignisse für ein Volk nötig wird, die politischen Bande zu lösen, die es mit einem anderen verbunden haben, und unter den Mächten der Erde die selbstständige und gleiche Stellung einzunehmen, zu der die Gesetze der Natur und ihres Gottes es berechtigen, verlangt angemessene Achtung vor den Meinungen der Menschheit, die Gründe für die Trennung darzulegen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "02bf8008f6f1a733b1ba5d60058bad1c873643d0fb65001bfaf512e2ea63d79a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:04:22.423104+00:00"
+}

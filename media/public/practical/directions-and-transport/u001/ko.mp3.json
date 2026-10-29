@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97c92c751585e4087a530769aeb0614d8c6d4f282a5452ca0a9c3b1c5ab7ebda",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "실례합니다. 역에 가려면 어떻게 가야 하나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1833e6b53926cf9834fe7ead92afd5f8a419361193ed30766e8ebf803ec84089",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:50:57.657009+00:00"
+}

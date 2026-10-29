@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f3d478257b105243805ac990bb16c193c72c227dfe2af3d4d57d47183dbf8127",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "“Of course, of course,” said the stone. The monk continued: “You may have a spiritual nature, but your substance is so coarse and dull, with nothing rare or precious about it. As you are, you are fit only to be stepped on.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "817d4b28200e0273023cb20fb40289d921e145af8ca4302fcfc8fc6e8d748c5d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:31:49.207611+00:00"
+}

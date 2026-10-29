@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3fd1b5ec844fc44bffa5548ed335012ab434cf08b34986aa46f2bd879a35cccb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Una línea es longitud sin anchura.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "323007cb592ad979213e889585ab68ec121af76e49dbc161925be04874571a5c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:41.356207+00:00"
+}

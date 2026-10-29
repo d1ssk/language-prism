@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "31621dd6bb9c95868855234ac3639838669cb39053f834d3f4e01b6ab763be25",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَكَمَنْ خَرَجَ مِنَ الْبَحْرِ إِلَى الشَّاطِئِ لَاهِثًا، ثُمَّ الْتَفَتَ إِلَى الْمِيَاهِ الْخَطِرَةِ وَحَدَّقَ فِيهَا،",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "51f15c8260d20aaddf6fff84ba212e8485149e4535de15ab45e0e944ee6cd904",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:01:48.908906+00:00"
+}

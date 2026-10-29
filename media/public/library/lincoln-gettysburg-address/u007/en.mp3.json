@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7a05c17be8553fb5f45cf1ee2ac6f5c8d0d64c0e94d2c6bf55eec1fbbcf3ecba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The brave men, living and dead who struggled here have consecrated it far above our poor power to add or detract.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "831f6b8a1fa2bea2cf9d550016bae4fbb88e7dc8975d76c289f3f226873fdef8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:52:48.762800+00:00"
+}

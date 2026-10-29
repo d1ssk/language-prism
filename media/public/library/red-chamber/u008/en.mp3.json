@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff7ca18ed053508eb721ee19223c2bf47b1dce2ee813f4f9864def777552124d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "If you would show a little compassion and take me into the dusty world to enjoy a few years among wealth and tender pleasures, I would cherish your great kindness forever and never forget it through ten thousand aeons.”",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f1ccbe2769b3efb0d6d5b1ffdcfe7a791da050f76d6a78969e5d55bdab61ffa6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:24:40.614131+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e4a4002811309d6723a103d15096935a1252229c21f73b8c074b91fbbb2139fa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "じゆうみんとどれい、きぞくとへいみん、りょうしゅとのうど、どうぎょうくみあいのおやかたとしょくにん、ようするによくあつするものとよくあつされるものは、たえずたいりつし、ときにはかくれ、ときにはこうぜんたる、とぎれないとうそうをつづけてきた。そのとうそうはつねに、しゃかいぜんたいのかくめいてきなへんかくか、とうそうするかいきゅうのともだおれにおわった。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8c4af364547a42c8f9fe6bdb79e43b3a756481c715df0f3960cc17595059db57",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:46:33.482781+00:00"
+}

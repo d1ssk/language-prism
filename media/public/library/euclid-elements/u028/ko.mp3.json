@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "52ebac02d7d2984fbd190b87a87ad299c0969c3c2a56e7ae688918a2e8db56eb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "한 직선이 두 직선과 만나 같은 쪽 내각의 합을 두 직각보다 작게 만들면, 두 직선을 끝없이 늘였을 때 내각의 합이 두 직각보다 작은 쪽에서 만난다는 것.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "af8f3efffb1a8e7cc3e2944ef4c9e2c622c82b08eb1de17f865d05dfbf0275ef",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:35:59.569239+00:00"
+}

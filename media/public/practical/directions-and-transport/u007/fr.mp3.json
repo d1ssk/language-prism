@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "856eecd7365c08dcf37faf8d0a1b78652411b1a28b5518dc85f5f9975eea8d37",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Oui, pour aujourd'hui.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed618eb42c16cb37eb837ef249113f67a5366515972e646a7b9fcbcee29468d8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:34.859233+00:00"
+}

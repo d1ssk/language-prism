@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "00959696f2e028ff3616d2064436ac027963b4303e37fc3b8fa4132aad07d3e3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es sei zugestanden, von jedem Punkt zu jedem Punkt eine Gerade zu ziehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e664381dfe8d79d24f4f27e31f730871b023264f51f7ee62e92b4c87719be5cd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:32:24.771630+00:00"
+}

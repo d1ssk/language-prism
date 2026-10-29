@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3957314a0fd68d86e5a9b038f8b1d053a1f43fe3f9ce78d8c922a9eba640cc3d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여와는 삼만 육천오백 개만 썼고, 쓰이지 않은 돌 하나만 남자 그 산 청경봉 아래에 버렸습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "feca974179bf2fa254a74a52f3ac8ae02b60c68e560dd8e120f5e6cd81cedae3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:15:17.413318+00:00"
+}

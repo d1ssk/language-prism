@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ea07ae18f510cc180e16ba519b7f1593c87e873ba2ce15e956e7c8a7b5d2651a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ふたりですが、せきはあいていますか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8527fece5a1aaa19f46d338c7ad91f5f64e9a59bfc8234edeb8abc9983aef722",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:13:48.451924+00:00"
+}

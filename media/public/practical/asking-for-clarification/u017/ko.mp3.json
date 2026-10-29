@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e8b78737d3131d9825179367940a28010cf1a98c9eec574b634b13aec9178f91",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "‘다음 주’라는 건 월요일부터라는 뜻인가요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6ed4738d650d1189eb620979aaeac07d14349737139899be0951a01ef34663ff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:37.724701+00:00"
+}

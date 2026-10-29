@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "768b4f08ced93d490c6a0bef0bbdeda7d135c62d163440ceaef5d288d3335d9d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "도형은 하나 또는 여러 경계로 둘러싸인 것이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "35af745f19d15afaedce0b0190a2e72705574b14102ac6e571b780d0aeffe1c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:35.243294+00:00"
+}

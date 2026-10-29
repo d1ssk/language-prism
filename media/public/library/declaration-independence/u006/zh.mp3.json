@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b12851b6e1d39e64f72f206dc41a79376dae5e2e6d993b440751b0e5df8f35d4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "但是，当一连串滥权和侵夺始终追求同一目标，表明要把人民置于绝对专制之下时，推翻这样的政府，并为未来的安全设立新的保障，就是人民的权利，也是人民的义务。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "552b80bb77c8f62646f4c39eb336c493ecc1ef6c225bad2984689c2e8a07967a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:02.297205+00:00"
+}

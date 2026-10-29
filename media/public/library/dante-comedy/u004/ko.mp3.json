@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a673e196d5675e7a107ec092e7bb1d0f5ca7b87688fb73f213f49ee498c9441e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "어떻게 그곳에 들어갔는지 제대로 말할 수 없다. 참된 길을 떠났을 때 나는 그토록 깊은 잠에 빠져 있었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b94f3372a986deced1d4e482346889ec9f2b9799f137180f92064dfc66ee6f2c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:30.994742+00:00"
+}

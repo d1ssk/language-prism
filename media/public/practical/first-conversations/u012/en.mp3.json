@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "87277876d095ed684dccbed74ff0123bc2e4c3c280ba74f63783a761465b2e03",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I like cooking.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "480451340e2b8f9b289af5125dbc3fab90041334b500b4c6539a2e5f69c66159",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:19.939288+00:00"
+}

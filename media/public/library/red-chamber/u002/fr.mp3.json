@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c5d22dee1866a0f1f862c660d90ffde5c76f071f5c64edb95e57a4f187cdf772",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Autrefois, lorsque Nüwa fondit des pierres pour réparer le ciel, elle façonna à la Falaise sans Fondement du mont du Grand Désert 36 501 pierres brutes, hautes de douze zhang et larges de vingt-quatre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "416e76926c7bdec8dd0be68e4fb58f0264d6dfac814ef456b4e8a1c0a848840b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:13:14.630049+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38b536a3098e4aa22cc67cca8552c85fb35eb8d13e692c559f9ee1a0623d769f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "한 직선이 다른 직선 위에 서서 서로 이웃한 두 각을 같게 만들면 각각은 직각이며, 세운 직선은 다른 직선에 대한 수선이라고 한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8d2c9fd6a0da17ae40f65571a092de4ba0b1d705f0310d1b042028f828af9ac7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:19:58.509743+00:00"
+}

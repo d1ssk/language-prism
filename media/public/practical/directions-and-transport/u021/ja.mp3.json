@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "83037798d68286e6d6e4e875694bb64ee3d93d3892753e4e0b59f0d9ceacd13a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いちにちじょうしゃけんはありますか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7457b6c7de12b9d9ba97a978d1cbb8c0596c136b1182c3d8b3c9fc2037fb3ae6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:54:28.415255+00:00"
+}

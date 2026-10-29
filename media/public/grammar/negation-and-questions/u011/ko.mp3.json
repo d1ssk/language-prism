@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fec570b0a64b89204bb2b927d1395dde8f4fc95d9d991d9b5a102a12d32c7d19",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 가게는 몇 시에 문을 여나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1653381980b3824f3fa6cea439e028a83a10fe1aaca5e5b8fb5a26bf0cb056ed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:24:02.085505+00:00"
+}

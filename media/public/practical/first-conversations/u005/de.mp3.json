@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "00e262a7e70ea4a436c4504daf428ad59a915aa5e31f4ef2d0345e634fca81e8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Was machen Sie beruflich?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b287424e52ba1bf506fe36043d3aff50296c5485295a448870e84608e27829a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:30.535990+00:00"
+}

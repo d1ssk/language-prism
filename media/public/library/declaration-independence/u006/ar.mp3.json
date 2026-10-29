@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2de702fb526a201a3a9994da8035aeb0be0d337c1e985a5382775fd3c306babf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَلَكِنْ عِنْدَمَا تَكْشِفُ سِلْسِلَةٌ طَوِيلَةٌ مِنَ التَّجَاوُزَاتِ وَالِاغْتِصَابَاتِ، تَسْعَى بِثَبَاتٍ إِلَى الْهَدَفِ نَفْسِهِ، عَنْ قَصْدٍ لِإِخْضَاعِهِمْ لِاسْتِبْدَادٍ مُطْلَقٍ، فَمِنْ حَقِّهِمْ وَمِنْ وَاجِبِهِمْ أَنْ يُطِيحُوا بِتِلْكَ الْحُكُومَةِ وَيُقِيمُوا ضَمَانَاتٍ جَدِيدَةً لِأَمْنِهِمُ الْمُقْبِلِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fae19746f2109d7af8da67310dbfec2f1f255e3c529737a30516565be6c3da29",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:13:49.941771+00:00"
+}

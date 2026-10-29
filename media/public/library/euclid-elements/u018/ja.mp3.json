@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0dbaef7b06f7adbd08c465335e9625455d8e844a160901d9839c0cfcbf3917c8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "はんえんとは、ちょっけいと、それによってきりとられたえんしゅうとでかこまれたずけいである。はんえんのちゅうしんは、えんのちゅうしんとおなじである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c35cc571dcb7ec3ade18f8f01842fa0a9b6c795aa3308359c6cb05ce0797f4a2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:24:30.453628+00:00"
+}

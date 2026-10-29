@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e3cd8868875c4e400656fe26a6b2e455b0197dbb1cac51c5d86e3ddd35e57842",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "메뉴 좀 볼 수 있을까요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "020d59e54957522edb5708e3c2a04ea3a05171f2b7374149d29a54c1aa5e6b0d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:42.296183+00:00"
+}

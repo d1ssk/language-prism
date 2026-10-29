@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b4c40d3a1be5d7a9e33539fe87cc5e6d3c6b71c47d19e438a39bd827982050a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "같이 계산하시나요, 따로 계산하시나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8ea4a66bd2ea6da168242c4b4662e17ca37d85b9f6296048b6e9c41aa7c5a06d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:03.527523+00:00"
+}

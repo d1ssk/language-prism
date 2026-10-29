@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fa874050a2acaf635b3e84e6ca57390d3b4827fcde9502a4d84703f80b8f6217",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "二仙知不可強制，乃歎道：「此亦靜極思動，無中生有之數也。既如此，我們便攜你去受享受享，只是到不得意時，切莫後悔。」",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fdc0ed2c08f4a62839aee24686dbd76bdd9b37026b722eb5f077abd329a09f6b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:31:16.885745+00:00"
+}

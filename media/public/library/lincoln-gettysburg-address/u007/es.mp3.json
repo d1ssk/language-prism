@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f88cae3027da74dbf8cd81fc61df0199b11aca214950f225fc2527f27fde0307",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Los hombres valientes, vivos y muertos, que lucharon aquí la han consagrado mucho más allá de nuestra pobre capacidad de añadir o restar nada.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f34da8467456ba398db632a88297981e39eb053c2929632f3167443ae90865b9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:53:01.715140+00:00"
+}

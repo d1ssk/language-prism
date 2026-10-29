@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f18551b50c8b1966e5f944d09d08106d91304b22337ea5f234427c4f2e71860c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在以往的历史时代，几乎到处都能看到社会完整地划分为不同等级，社会地位又有多重层次。古罗马有贵族、骑士、平民和奴隶；中世纪有封建领主、附庸、行会师傅、帮工和农奴，而且几乎每个阶级内部又有特殊的层次。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82645fe0485412e6226d7e53b56d59869798813d1703fb4633d3d13d7ae58b66",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:51:14.461781+00:00"
+}

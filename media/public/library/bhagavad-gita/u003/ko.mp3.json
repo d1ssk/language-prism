@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8987ac21307e8c59923aa713693f14191c0295863af05c18217e4a666f96e1d4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "다난자야여, 행위는 분별의 요가에 훨씬 못 미친다. 분별에서 의지할 곳을 찾아라. 결실을 동기로 삼는 이들은 가련하다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c8ac2c403da43684ff3c249c4d81433ebc5d0c2367d74b3f934b214dc5fb3819",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:37.451491+00:00"
+}

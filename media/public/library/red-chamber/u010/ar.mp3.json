@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "53302d884e235940ffe1d746293000ec689d86c2c6fc9d9f0298f39cae4af35c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لَكِنَّ رَغْبَةَ الْحَجَرِ فِي الدُّنْيَا كَانَتْ قَدِ اشْتَعَلَتْ؛ فَكَيْفَ يَسْمَعُ هَذَا الْكَلَامَ؟ وَعَادَ يَتَوَسَّلُ بِإِلْحَاحٍ مَرَّةً بَعْدَ أُخْرَى.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f3e1a415dbd57034b5b7bc7bc71110a0bd81b54d8ede89f8a9e718f8ad5259fa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:29:27.525211+00:00"
+}

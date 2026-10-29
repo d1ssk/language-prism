@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "871b39470018aa6f847ffeecec74fac8c888f9be547947073e0dea8acd31e431",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Enchanté. Je m'appelle Ali.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb9fc162129b2bf5435f781e6add87ea5e0103acdc96e25d52fe76af09a49400",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:00:57.595165+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b51532d148a1c762badf94fc35e8f41c98a64537f88e5bb04e8d9ae8e8660cae",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "さいごのぶぶんがききとれませんでした。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "31e294d3548a00abb2899fa72f0efd68fae91a15e3085d50481de71e408dc849",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:40.128144+00:00"
+}

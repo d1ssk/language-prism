@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "04e6e0fa0cc9d99fd73daeb825d1a9404b401c6a9cf6eb2be5823619404b5516",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Что вы пьёте по утрам?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b9c344283d65338407fe5c5af016e36ae8dbc65afd9d58c86d15577cd6b2601e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:24.013188+00:00"
+}

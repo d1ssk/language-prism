@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1e1e2128c716b119d35356dcf797b4f62d8f367c45615a3304b95fc29aa43fd7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "일본에 가 본 적이 있나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50b06de51ed95ef35095a1b7e71730765cb817393b224f5108ad852fbe6592e0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:09.709716+00:00"
+}

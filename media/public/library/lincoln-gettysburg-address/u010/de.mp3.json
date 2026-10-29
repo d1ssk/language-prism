@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d22b511eb8e9908665b07cadcda1579e5889b2cdfb9a4bdd7082193fef2f92a9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Vielmehr ist es an uns, uns hier der großen Aufgabe zu widmen, die vor uns liegt: von diesen geehrten Toten eine stärkere Hingabe an jene Sache zu empfangen, für die sie das letzte volle Maß ihrer Hingabe gaben; hier fest zu beschließen, dass diese Toten nicht vergebens gestorben sein sollen, dass diese Nation unter Gott eine neue Geburt der Freiheit erleben soll und dass die Regierung des Volkes, durch das Volk und für das Volk nicht von der Erde verschwinden soll.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3df44b2d531cbf14e21aaece839d7108bba467418301d986422618c1f0dec720",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:57:34.427232+00:00"
+}

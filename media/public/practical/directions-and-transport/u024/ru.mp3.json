@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ab3aebc5330b4a8854410d49b6f0f319cd0fbbc61d278285ca6136d76978bdeb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "До этой гостиницы, пожалуйста.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "51783843c0935c8f3cc3ee87c8a16dc3d805e28ff48b854503f1cce85739fd34",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:00:02.300814+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bed04bcf481b623a9abad567886f7598613912ceeb12ecf301bbe526108fd679",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Disculpe, ¿la próxima parada es el aeropuerto?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cf8eb4367c52d9d3dcc9402335b4c44db5482058a8eb68192a42a4df76f22890",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:58:29.519962+00:00"
+}

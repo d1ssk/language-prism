@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f5a42b7721152df39a8faa384616e4dc3fd76d30dbdbbd1b5523045633c131d6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando una recta levantada sobre otra forma ángulos adyacentes iguales, cada uno es un ángulo recto, y la recta levantada se llama perpendicular a aquella sobre la que se levanta.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "230a997c44854752f8ce5d51162535b24bc28a78eee9c084eef8d28e95fb7a1e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:19:06.382012+00:00"
+}

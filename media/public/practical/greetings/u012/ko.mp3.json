@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8f932ef2771dcc6e0b3d250f4afb5308b806832b3b5015ff2387d34b815b1ad0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "안녕히 가세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "52a35a1177897b8805ab1dc5eec4dd1a3fd87ae9ec9b65ee3e9015c567d14aec",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:35.387105+00:00"
+}

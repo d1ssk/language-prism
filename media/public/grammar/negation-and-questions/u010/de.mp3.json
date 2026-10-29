@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "78e5b410e9a5336edb7d3a94d1c8a73b9e7fa89856986ed9e4335191f00bbcbd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ist dieses Geschäft heute geöffnet?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2dcc3fd15866ea476b894a6630510f08303e6390e45470c6e8312f31f414397d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:23:33.296536+00:00"
+}

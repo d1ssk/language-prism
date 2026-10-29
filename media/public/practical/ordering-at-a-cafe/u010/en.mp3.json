@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1e3472ca42a16fe196254fa16a1ac77f7da7dbcd01e3926fb3fb77c1a90e48f8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Is the cake to go as well?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f96a4a2013b65bdaaf207962968751a0339a4d9caefc8d7c315f5db855fe4bcd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:17:53.537011+00:00"
+}

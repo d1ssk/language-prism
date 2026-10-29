@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "569a88df65a91c50facda742dca9a8684d59395f5d396185b533d9be9107d990",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "原來，當年女媧氏煉石補天之時，於大荒山無稽崖煉成高經十二丈，方經二十四丈頑石三萬六千五百零一塊。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "85e4828f253435cea041b9f24af916e6d5a8dbb418b056962707c24fbeb13f84",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:14:03.818472+00:00"
+}

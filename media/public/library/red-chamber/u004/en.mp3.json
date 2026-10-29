@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "33f569c6b421c031eae001615cb1f0198c87180fea78cdcf5b52eeed26b40c53",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Unexpectedly, the stone had awakened to spiritual awareness after being refined by fire. Seeing every other stone used to repair heaven while it alone was unfit for selection, it lamented its own inadequacy, weeping day and night in shame.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aecb0969510080e1ba3a5ed20096f406e30ee45bdc58bbb2dc2d09f83ee6bd61",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:15:40.834867+00:00"
+}

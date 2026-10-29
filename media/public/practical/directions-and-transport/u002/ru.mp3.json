@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "75b7dbfb6eff0525bc4bb32b56b896e1e313785d495ca420143ffd063e479d74",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Идите прямо по этой улице, перейдите мост, потом поверните направо.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "05121a1a24d31f1152acede6a99ebb39d2f704a6535a5a29d00bb4550e685a9f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:19.414215+00:00"
+}

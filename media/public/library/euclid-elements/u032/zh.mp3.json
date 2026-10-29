@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e53e5d92410c85e5b9d06546bd0a066ae12e991b4d2facc1d17284a4bfb3bb32",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "彼此重合的事物相等。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "72f078525514883863ea4623a0dd634b5f6b4246c2f4e8d0a1bce09a4a9204dc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:49.743169+00:00"
+}

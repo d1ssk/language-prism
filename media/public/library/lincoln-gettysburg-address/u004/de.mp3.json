@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7f1ddd70b699b799c1925990285e8fd931fe5b2e02b5b49a13390d9330ccb451",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir sind gekommen, um einen Teil dieses Feldes als letzte Ruhestätte denen zu widmen, die hier ihr Leben gaben, damit diese Nation leben möge.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b16daa0d24d47b8c0d4bb98c9750260988089b4a4e6ee0a2ada9eabc0fb54e17",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:50:52.018866+00:00"
+}

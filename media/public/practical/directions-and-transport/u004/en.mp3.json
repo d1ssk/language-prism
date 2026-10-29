@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e504f41870ccced44c6f30900a6549067ca9f51f69acd622dbcc08eaaad2fa17",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "About ten minutes.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "16e55151f7e111b37f3976e727aeaf6ce8c48c65f9bf38cb902589d2285fe95c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:50.579157+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9068efae6775a7215921386ec7dca14e26247eb9183ec9e02d2519d6b249d743",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الْخَطُّ طُولٌ بِلَا عَرْضٍ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d967b914dd4a9b09db791ec29318bfb880095d9872d3802fc6a15e0ad4d66c6d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:50.974677+00:00"
+}

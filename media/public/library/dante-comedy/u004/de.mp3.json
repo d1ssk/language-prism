@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "aaed941d7773d97867cdb8128cec90614f6590e8cc6c4ae9593754b87c3560a0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich kann nicht recht erzählen, wie ich hineingeriet, so sehr war ich vom Schlaf erfüllt, als ich den wahren Weg verließ.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f8987692149a55e9f0f42cf49be5f32be551864f6c629fc1a1cfb82cabfe6a37",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:09.424939+00:00"
+}

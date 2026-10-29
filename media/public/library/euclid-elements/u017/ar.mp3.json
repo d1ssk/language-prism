@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f498590c2ff546af0f5a7d70d8f94ca6cc3f0d79e119eb649859bb4e46a6e1ba",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "قُطْرُ الدَّائِرَةِ خَطٌّ مُسْتَقِيمٌ يَمُرُّ بِمَرْكَزِهَا وَيَنْتَهِي مِنَ الْجَانِبَيْنِ عِنْدَ مُحِيطِهَا، وَيَقْسِمُهَا أَيْضًا إِلَى نِصْفَيْنِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2876112206c5e055f92e11432f56242a0461b382cc12eda9bf3e341da534a343",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:24:12.424637+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8f28586be11c2e0f90bed60a62427ea29b09d7745fbe75ce0a7aba3729b333ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Можно посмотреть меню?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c082cb33f88d0f1cb0ff7979de6eaebdfe5a0ac608eadc1a08183ad9757a046e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:35.101018+00:00"
+}

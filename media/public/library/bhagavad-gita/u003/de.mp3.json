@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f0010af2f85dcdd760a259751d430d02431aa48cb67af1c149cee31e999d570a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Handeln steht weit unter dem Yoga der Einsicht, Dhananjaya. Suche Zuflucht in der Einsicht; bedauernswert sind jene, deren Beweggrund die Frucht ist.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b835276476f00d28d86dd47c178cbeb46be13b3318ebb87f56c9d8069ceb7f4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:11.344813+00:00"
+}

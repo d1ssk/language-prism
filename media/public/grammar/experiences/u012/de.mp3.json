@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e702431776988d32dd82eb4a1726b40c9fae5ddb6f88d099e6aaff2f1c69149f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe ihn letzte Woche mit einem Freund gesehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c615d5e2ca4eae1d504adab2269c57720156e6600e4abefc8653996738d978a9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:44.579408+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "67c57fed4f81a8921767439dd19730dd2cf3952eea641d37891cc9c095413a36",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لم نلتق منذ وقت طويل.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "403dd7495a24799f7bbbe810738537beeb5f891a42c2d3f1e8b5da008a9f4e93",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:14.489384+00:00"
+}

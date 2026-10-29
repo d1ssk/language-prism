@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e4e552860ea497a983e4f12e3be324cd9f268eac1e7a82ffde2895f12209a0fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오히려 우리는 이곳에서 눈앞에 남은 위대한 과업에 헌신해야 합니다. 명예로운 이 죽은 이들이 마지막 남은 헌신을 모두 바친 그 대의에 더욱 깊이 헌신할 마음을 그들에게서 얻어야 합니다. 이들이 헛되이 죽지 않았으며, 이 나라가 하나님 아래에서 자유의 새로운 탄생을 맞이하고, 국민의, 국민에 의한, 국민을 위한 정부가 지상에서 사라지지 않도록 하겠다고 이곳에서 굳게 결의해야 합니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "63f46b40674616387035801d056e82d666c35754ec6fb27eec310e4a58f0220a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:59:06.535853+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bd30b44962554a8804ead77ce4569dd56d36b97c487098f7e90f31c4652f6861",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هذا المتجر مفتوح اليوم.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "20e321a23ff56e5afca071bcad141c419d7ec9fe26407a72b3a2fc0311e1fb7e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:59.948807+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2597100139d2ce8976088a59cf3a81ed82bff4a4ce130508364e6644a5085f7a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "سبق لي أن شاهدت هذا الفيلم.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3c419fc3cc56e1be3cca8b246ccc3131c48a448c8b7cf7de4384cfb9a001bdc4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:14.116732+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1392b784a86326cf50d1747541db433ddcb881b764f27ad37e24990ead300b92",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Though my substance is coarse and dull, my spirit has some understanding. Your immortal bearing shows that you are no ordinary beings: surely you have the talent to repair heaven and save the world, and the virtue to benefit creatures and help humankind.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7cfcc9b78ac7535957c63b275c259be91b9a764458bd9901ed7e85d20b41032e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:22:52.917626+00:00"
+}

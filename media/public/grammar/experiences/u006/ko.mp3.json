@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "76b6e792dd3d86609bd4645315284e71561ab5ecff4494e22ba1373878d5f641",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "일본에 온 것은 이번이 처음이에요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c66568c8aeb3b2923ffb09ca79c00358ae7548d7a58f6315b222df07fa9c825c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:19:06.700990+00:00"
+}

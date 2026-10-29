@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0ae36da594dc6089d4290cfc2d58601d71d81a379dd813c5ee8142f493abfb43",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I've always loved listening to music, but I only recently started playing music myself and studying how it's structured.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0798070cabb9a6f6e55330a04eeca99456fea135bf8c2d690a83051c9596a486",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:29:01.451308+00:00"
+}

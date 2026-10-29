@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0f6539ab851c1d94e1d454643f3372774d05d62447c45bdc39fe91c2f88af23d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我去年去了日本。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9859eb6f2d2f409aa0ed6c32928360e74e800806461d45edf5c6966d5a343890",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:44.310279+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "be08a541dccc989dea9663a4c330440a5b3d3762f23b3773234453ca36d4bb29",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 말을 들은 돌은 저도 모르게 속세를 향한 마음이 움직여 인간 세상의 영화와 부귀를 누리고 싶어졌습니다. 하지만 거칠고 둔한 자신을 한탄하며 마침내 사람의 말로 승려와 도사에게 말했습니다. “대사님들, 제자는 어리석은 물건이라 예를 갖추어 인사도 못 합니다. 두 분이 세상의 영화를 말씀하시는 것을 듣고 간절히 흠모하게 되었습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "273ff3d3aa6ed7f240b668e87fcd0fdeb6cc126347d5b6d28f242c65117050a8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:22:31.432079+00:00"
+}

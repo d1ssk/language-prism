@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "10c019fbabc39296f9116ea7cdfe9d48754acfa14dda75908ae8722ec625614e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "最后那部分我没听清楚。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f3e1b6b1af0b5ae67f4a5a124640f0d0489b0be0fef22c0e365fc11402a392a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:56.106267+00:00"
+}

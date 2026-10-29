@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b2f9a5383321664f132a73e2db4b6efe68042b0d9421ad871336d0fcac3a660",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Everyone thought the plant was dead, but a new leaf appeared this morning.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b455633438faf6bc63818a7c8cb3e6caa4469f299b9c73b91421092934825cca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:29:51.193794+00:00"
+}

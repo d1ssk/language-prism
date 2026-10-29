@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1b5bdbf859e4aa529321d4af3a33ca8ec69566b3111fa8545047be83ec661975",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إذن، يكفي أن أسجل في موعد أقصاه غدا، أليس كذلك؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8ed3c99cb3ebb99182c5d614c9e01b8fa7a2724facc8bd1cea2362856c604b45",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:47:34.477763+00:00"
+}

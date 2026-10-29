@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7f9fb00d9a07d84e774a317403b7e4af6a267c8f4d93144c4a4f120d4472a22c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Est-ce que je peux payer par carte ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "78834d41d1434756a44593733396d5510282b6cc130a2c6be4b8ea4a674a2c6e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:28.291171+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6826efdc752787116d43f44e3005d823660599a172a49f86e468f616411dbdf2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여전히 도망치던 내 마음도 뒤를 돌아보며, 누구도 살아서 지나가게 한 적 없는 그 길을 다시 바라보았다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8ba334e22e222d61ffb8d1f53a4a0901b31be3713a61784f14c0851e05892e1f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:02:54.916421+00:00"
+}

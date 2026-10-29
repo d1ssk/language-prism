@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "28dbfec9e45326bb26caa396123de3885dbf1d791a40bb86dcda376f423b41dd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Merci.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2e5d245bf38222bf357307097b1c9ba2f763d709a3ec4f3eb98c83c07d838c5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:09:14.308409+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "095914c26850c02790265b1fc431d3421be0c732e85aab194c7ea42c8c36e83c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Um wie viel Uhr öffnet dieses Geschäft?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f19f8553891bfbd575a11efdb8da99cf535f709918981b06c41123008e247237",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:23:52.735476+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "46d2b913b1af765e4ff635ed294267b43012893a6d685a5123088f43bf13ff49",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Добрый вечер.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b5875ac8122261c8b1df0fa3765238b090e832f14babeb2de66d60d13d394903",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:08:11.059579+00:00"
+}

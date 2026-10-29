@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dff5e8caf81968f0a6b1b725c6e03d13de46a0f51f9cbed1a88d69888f164bca",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "« Bien sûr, bien sûr », répondit la pierre. Le moine poursuivit : « Tu as peut-être l’esprit éveillé, mais ta matière est si grossière et obtuse, sans rien de rare ni de précieux, qu’en l’état tu ne sers que de marchepied.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "da28984dcfddbc41b9697891efb728f7f2ce4593eb387471c623ff02dfe5c807",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:32:09.183449+00:00"
+}

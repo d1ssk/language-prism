@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "277bedaa884ce0e3ebca78804927cf7f70237fa1ef34b641561bbc409f0fa72e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, no bebo café.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "46f6c8b4eea11bccaf2e1f0904995a90c4643ef09b52ed555a8025e58d6d11c0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:03.684379+00:00"
+}

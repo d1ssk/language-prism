@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13fbe24e5f5ae3b565dbebc3b25f6405b5ad618c65aa2e8ee56d795995effc48",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在人类事务的发展过程中，当一个民族必须解除曾把它同另一个民族联系起来的政治纽带，并在世界各强国之间取得自然法和自然之神的法赋予它的独立而平等的地位时，对人类意见应有的尊重，要求它说明促使自己分离的原因。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "23b88016924e0918369abdbafbe9cb59acd1ce07183a6fb47889da9e18f7bd1d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:05:21.966117+00:00"
+}

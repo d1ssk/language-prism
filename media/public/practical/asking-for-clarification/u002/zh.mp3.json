@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e82e798b029464b3523dfec94650cf0892c090b8f428fe702b00dca984c39d6d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我们明天九点集合。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6f5965e01d343f5a34288d87eb54c3415d6a24e8e23fde907cf3eab79502ca29",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:43:15.743868+00:00"
+}

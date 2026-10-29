@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ee3fb4d74978186cd995588ba82bbf80574d89fd8c5dab35b3373f74acb3623",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "明天见。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "466fc670eea755bb31482e224a5672baea6054b2fca5f9cc3cd632381530aba4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:46.907537+00:00"
+}

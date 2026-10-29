@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b42696f49f1127b13033044db3098a68abfab8eefb886df74bf4aedbfef7fb5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "正如一个从大海逃上岸的人，喘着气，回头凝望那危险的海水，",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cf9e5193873750ae0a10e297543141bb99e79ebb211cdc39554bd7d1595a95b5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:01:54.108303+00:00"
+}

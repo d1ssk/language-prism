@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "00eec16db6de1f7b86348be95f6af28e608f42f80f158f9e03195836610a4072",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "あらうみからきしへぬけだしたものが、いきをきらしながらきけんなすいめんをふりかえり、じっとみつめるように、",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b3d36b64ea34756ef384167ea1ec430a0d8fcbcaf4fb1c3c119cc59da62afa64",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:01:11.590086+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e123d7c18210d245eea55c9a8746cdcfcac73aee73eec2c0d9e361f3c0ee0c28",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "When their hope of earning and acquiring it disappears, they withdraw their hands from striving for it.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "88eff00e9a9400d2a8de993e8b49e5ece70d6217e007b30a8a63f4193c8883b7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:39:31.394597+00:00"
+}

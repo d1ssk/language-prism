@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a3ad8806c5a72e2e9e04b325f38a3a0089ad673b8cecb0c230724fecae2cabe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这段旋律我以前听过很多遍，但直到昨天我才注意到低音声部。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "119985957c31db66c7ac6d0afb33b082cb6cebdcabd86835f2e44e5ad1f0ea86",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:24:23.360249+00:00"
+}

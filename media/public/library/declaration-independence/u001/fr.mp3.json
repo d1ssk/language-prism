@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "478fee97b5e5dbe3967482c78bf49134c84d33e6d8998e83f97ac087e07c64cc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lorsque, dans le cours des événements humains, un peuple doit dissoudre les liens politiques qui l’ont uni à un autre et prendre parmi les puissances de la terre la place distincte et égale que lui accordent les lois de la nature et du Dieu de la nature, le respect dû aux opinions de l’humanité exige qu’il expose les causes qui le poussent à la séparation.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9081a2ca640821bfab9bd80c7e6a80bb321f0b0d449d71696b07405bd7d6a646",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:04:04.677844+00:00"
+}

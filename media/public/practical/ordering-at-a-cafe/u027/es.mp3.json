@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c0d5bd618530dd624a36687abf68b498a24f78ecb4e159e57c4edc1dc85948a8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Me puede dar un recibo?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "78304a733ae5894146b23c964836c3dc7d402da7a4ab4d406f355f060ca490ad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:21:07.903281+00:00"
+}

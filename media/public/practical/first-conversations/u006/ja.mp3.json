@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dcde2fc153c3fb3258ad0e06ee5f678b67a8c7f12937b57d82be3a5f10b8a01a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "だいがくでにほんごをおしえています。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "589c2407422c712c6392ec4c273f3546b28c98f203ebac1fe667e87404742408",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:40.635861+00:00"
+}

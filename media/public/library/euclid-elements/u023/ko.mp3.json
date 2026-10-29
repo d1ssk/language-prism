@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "55b4a5e2040d63f624efbdc0690668cc225845262507bcec7d06a4d6f6176cab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "평행선은 같은 평면에 있으며 양쪽으로 끝없이 늘여도 어느 쪽에서도 서로 만나지 않는 직선이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aebbae217b06662227925cae0f77b3972bc86195ed571701ccd17419ea0d869f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:32:06.929142+00:00"
+}

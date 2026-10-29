@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "24bf71455d3b8f64507e8a30f259d2d914179214079116c300b1b5638ccb5929",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "さんぺんけいのうち、みっつのへんがひとしいものはせいさんかくけい、ふたつだけがひとしいものはにとうへんさんかくけい、みっつがひとしくないものはふとうへんさんかくけいである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41078430a6a770bd553592204a55086dfd38dfb0e07a39867ec9b8e5f6bd13aa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:26:37.456318+00:00"
+}

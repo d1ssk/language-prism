@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e24365fb46d9448cbf7b01b149b37c1a82356248c29d63f2b54521947a1a7ecf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "책을 창가에 펼쳐 둔 채 나갔다가 돌아와 보니, 바람에 몇 페이지가 넘어가 있었어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3493c150c7cd0840d2b34aa050e7511743cc91040165a76b589a951a086a06c6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:23:48.221260+00:00"
+}

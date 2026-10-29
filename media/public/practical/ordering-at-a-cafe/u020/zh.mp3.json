@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a7c132ce45c4dded895164abbcfe5f61e8ea14712e6e76e18ab90f51e5f73b21",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "有一点辣，不过辣度可以调整。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9c26abb136bf1d2acf4c00f75c16c1babd9bc3dd57825145e620a8c3b2531677",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:39.768426+00:00"
+}

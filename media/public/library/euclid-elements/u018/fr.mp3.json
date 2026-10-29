@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d7b6dc9fcaa922440d2426c75c4de53ea9510c8a70f5567af22e450ac8e4766c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un demi-cercle est la figure délimitée par un diamètre et la portion de circonférence qu’il découpe. Son centre est le même que celui du cercle.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9d7f55138063be0b20c08cb6fe8c263cf18c682dfa1658719f11b6728ede125f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:24:51.074567+00:00"
+}

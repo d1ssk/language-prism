@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "517e0ed1e62e39e48d27683acf0a74bf99d859674c9ecccfe68f909fb9973203",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그대에게 맡겨진 것은 오직 행위이지, 결코 그 결실이 아니다. 행위의 결실을 동기로 삼지 말되, 행위하지 않는 것에도 집착하지 마라.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e70cf7dc3949449a6c9f6bcec7ffea4d785fb78ab1f2294816dc4c359d433f2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:25:25.395849+00:00"
+}

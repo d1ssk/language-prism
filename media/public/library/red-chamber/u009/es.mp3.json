@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "79f24dfb275d4520ad23b038c3f40b7ad4287a11ebf0e8469b3a5617ce4b9f09",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Los dos inmortales sonrieron a la vez. «¡Muy bien, muy bien! En ese mundo hay placeres, pero no se puede confiar en ellos para siempre. Lo acompañan los ocho caracteres de “defectos entre la belleza” y “lo bueno encuentra muchos demonios”: en un instante la alegría extrema se vuelve tristeza y cambian personas y cosas. Al final todo es un sueño y vuelve al vacío; mejor no ir».",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5eeda4e884715bc56dc33105290968395458576e43d39f30f1a19aca93bce91a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:26:50.276401+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "92267732da956cb13287aca21f31145a62b5e098278115fddba1d265f258e133",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Давным-давно Нюйва, выплавляя камни для починки неба, изготовила у Скалы Безосновательности на горе Великой Пустоши 36 501 необработанный камень, каждый высотой двенадцать чжанов и шириной двадцать четыре.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bb7a99a450b1bb2f16d86a2d4f8f99e63d59859175bd9204f2bdf702e8cec533",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:13:38.957673+00:00"
+}

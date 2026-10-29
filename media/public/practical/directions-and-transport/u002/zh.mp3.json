@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "22a349b7211754a789cb51695c02f81318ee6aafc6c11aebeca29c0932d290ff",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "沿着这条路一直走，过桥后右转。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0f761e7904d5d7088aa878c718b834ef76361dbd16dcd808025b1b4f399bfa73",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:26.513006+00:00"
+}

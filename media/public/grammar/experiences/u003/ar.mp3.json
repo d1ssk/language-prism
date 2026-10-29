@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d7bf3c3da10d0314b787a3cbc7568cc7702b3ceb1b82630d1fdd0b4fe322b028",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هل سبق لك أن زرت اليابان؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8be819a91684371ffded69d9f1c9619132a5085094041c5c30e9ac31ec5ced65",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:06.076054+00:00"
+}

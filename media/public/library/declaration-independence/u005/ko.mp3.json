@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e552a7048a9b9c17af5235fd0ccb10086d5ea0f668c17229a4c33e06ab62d31b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "신중함은 오래 확립된 정부를 사소하고 일시적인 이유로 바꾸지 말라고 가르친다. 모든 경험이 보여 주듯, 사람들은 고통을 참을 수 있는 동안에는 익숙한 정부 형태를 폐지하여 스스로 바로잡기보다 견디는 쪽으로 기운다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8b0cb14bf7055f9e30eb63677dc4f241a9881cf0be6179f097715f3eba57331c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:12:11.193753+00:00"
+}

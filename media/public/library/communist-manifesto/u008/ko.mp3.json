@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a19fa74471413c4555702f30eb4e93af50397d6df2b68c6bbea921286d6e4750",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "자유민과 노예, 귀족과 평민, 영주와 농노, 길드 장인과 직공, 요컨대 억압자와 피억압자는 끊임없이 대립하며 때로 숨은, 때로 공공연한 투쟁을 이어 왔다. 그 투쟁은 매번 사회 전체의 혁명적 변혁이나 서로 싸우는 계급들의 공동 몰락으로 끝났다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "152886743dfe5d096c6e60cf9053836c66c2cd210c8c33a19f897aa0fae0ad94",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:48:51.894636+00:00"
+}

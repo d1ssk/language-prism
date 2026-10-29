@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "803890f999fb4b6f5228f5f310929993af4f72e5053d8f159e8fc6aaf39e6c46",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "숫자만 다시 한번 말씀해 주세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e7db8db0da3f8724d392c0c87846cc910871e1ef4764fcdfcfc075042d4321d7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:50:11.322541+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5d6c054a263687facf275727a0e23b56e88bae68fc759687b92630d7598ab5b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "We didn't realize the tide was coming in until the path back disappeared.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "36ac7d68479bb977c853e98a4fefc6a3d734aef1edb4b1482cac1de97538ea44",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:30:53.648215+00:00"
+}

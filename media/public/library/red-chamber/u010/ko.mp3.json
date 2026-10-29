@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ff092a9501deab671d86d251951bb3acf6494f0866b6d4512f48a5a736385fd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러나 돌의 속세를 향한 마음은 이미 타올랐습니다. 그런 말이 귀에 들어올 리 없었습니다. 다시 몇 번이고 간절히 빌었습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0c6e8f631d603b45c6fd19402cf0eccc2b78d094aaef16c63e9d95232b0f1e7b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:29:38.171757+00:00"
+}

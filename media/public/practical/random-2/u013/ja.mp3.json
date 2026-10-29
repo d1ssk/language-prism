@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "caeb2c55fc59424899d8bd210420df174c8d85604b012707415702f10883d2bd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "かえりみちがしおにしずんでみえなくなるまで、わたしたちはしおがみちてきていることにきづきませんでした。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eddf8ffd21daf68b81d1b8ff67d3c54d6341ced5b2a1205d6a1837f67e5ddb2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:30:49.759041+00:00"
+}

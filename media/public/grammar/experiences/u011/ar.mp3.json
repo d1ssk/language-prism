@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "adc038648669a7417e59ad439c12000d0d7823c34c7b594696ffe7c195fac7df",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "متى شاهدته؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d9934f70c955fb92e75d07e72fb92b621dc38b7c8724cc21a03635c99d9c0304",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:29.332572+00:00"
+}

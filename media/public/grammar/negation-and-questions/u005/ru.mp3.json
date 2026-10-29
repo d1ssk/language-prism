@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "407d2d68a4cd18261fe4561535bff0fee9f351f6e5d37b72a0d410bf6a32bfdc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Нет, не пью.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "068a2905d457b58400ff1d1552662b8f86fbc08ecc7d8e0a7e354dab01ba9c35",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:08.458693+00:00"
+}

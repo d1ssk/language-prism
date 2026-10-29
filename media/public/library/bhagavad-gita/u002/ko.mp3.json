@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3768247f2e08465472f1206c83bddc9cd9e7b096a8c11b2c0dcb31c08d12369b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "다난자야여, 요가에 굳게 서서 집착을 버리고 성공과 실패를 한결같은 마음으로 대하며 행위하라. 이러한 평정심을 요가라고 부른다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f029b15af53fb0295667f3de15e3047a473b10148b08a68d76998b18372e182",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:26:32.202078+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "da7950b4bbc1c5f2baf154f21f6662a765dd54f90b936e274baaa86ccbff165a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "فخفّ ساكن القطر وخلت دياره وخربت أمصاره واختلّ باختلاله حال الدّولة والسّلطان لما أنّها صورة للعمران تفسد بفساد مادّتها ضرورة",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "24e226a52194ade3703ea3bf10002022fc58333933c732dd7af2b8194ed98933",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:46:54.410994+00:00"
+}

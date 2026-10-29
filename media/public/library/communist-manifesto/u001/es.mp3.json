@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "57f5d968db63a18f22ac1915870d94f0e720a103b965be1893dac79c9325f039",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un fantasma recorre Europa: el fantasma del comunismo. Todos los poderes de la vieja Europa se han aliado en una cacería sagrada contra él: el papa y el zar, Metternich y Guizot, los radicales franceses y los policías alemanes.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "afb4f6b3f5ff3c7b2a598e9295c1d869fcac830b72540b11118d2bcd9c3553eb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:39:26.717202+00:00"
+}

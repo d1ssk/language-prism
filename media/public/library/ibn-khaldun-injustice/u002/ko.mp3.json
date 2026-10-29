@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38a24499d23ae4e4a140dd2733a654dd30467b3d51db8ae437c18fd736e9fb98",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "재산을 벌고 얻을 희망이 사라지면, 사람들은 그것을 위한 노력에서 손을 뗀다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c2fb930d521b6dd183bdbc725534c3f5d24180893ed892da3843ade74c877ff0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:40:05.769424+00:00"
+}

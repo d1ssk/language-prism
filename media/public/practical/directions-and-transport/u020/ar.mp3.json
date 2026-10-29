@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6cae2ee989db476b556d36e85a6eca1bf34ec4935be99e1f287b783b1deee148",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الأجرة موضحة هنا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "706542f7b5fe42cee5884e99b71b185f4256eb55324d71ffdb9fa12f4f3f87f0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:54:21.788552+00:00"
+}

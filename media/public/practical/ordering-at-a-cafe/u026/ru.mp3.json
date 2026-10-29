@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d455016f2be3f5b860977753e387847ef08d41e58fb4b52b629210383b01eb83",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Отдельно, пожалуйста.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5c439fe2feb1b39597cb3681d447eaf2f07ce686cb52090c8307d3dbe40f2b4b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:14.633003+00:00"
+}

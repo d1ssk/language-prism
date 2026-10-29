@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a7dbe62576f3b56e1aa58f690707bee77c4c0d89474670f86b426d52a54fa10c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wie lange dauert es zu Fuß?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9140fc99b59387f2a9a7cb4d32772757c58ec77d6575af2425424a46a9746b74",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:39.410045+00:00"
+}

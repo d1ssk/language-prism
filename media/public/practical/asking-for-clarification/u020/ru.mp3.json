@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "26c10f2fe61ea651feafd4ea8f153716351ddfc96861e7bde768fda6abd256cb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я покажу вам, как это делается.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "72bf68ba1ed94c9297b9fe7af50c9fd6f64e6c8e6d1701b54516c6e005f882b9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:49:44.314671+00:00"
+}

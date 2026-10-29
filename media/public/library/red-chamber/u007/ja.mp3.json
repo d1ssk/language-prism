@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1f9bce444af5b88bbd304e4c2ac1409501586739ab23763fda9ce4de28998ee2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "でしのからだはあらくにぶくとも、こころにはたしょうのさとりがあります。そのうえ、おふたりのせんにんのようなおすがたから、ただものではなく、てんをおぎないよをすくうさいと、ばんぶつをりしひとをすくうとくをおもちだとわかります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cd6df74be3099a8ad94a875fbb9839a7ec953184c6a13380276d4b2d3b9c7097",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:22:41.452770+00:00"
+}

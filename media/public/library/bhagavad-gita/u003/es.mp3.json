@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b29d8fdb5b9e55f2581197271adc8791655d7f5386a09812a8ba3ea2753d13ed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La acción es muy inferior al yoga del discernimiento, Dhananjaya. Busca refugio en el discernimiento; dignos de lástima son quienes tienen por motivo el fruto.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5310178c9c3ed15e7c778174be23a9573f9c00a83ee33204679bf9db7aecf578",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:26:56.278836+00:00"
+}

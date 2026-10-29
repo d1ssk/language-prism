@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "65ccff3b0f3c702761cda6691f878a8f6110ba7e9b7df9c812ddc1a6ba31ae05",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Les deux immortels comprirent qu’on ne pouvait la contraindre et soupirèrent : « C’est aussi le destin : l’immobilité extrême cherche le mouvement et l’être naît du néant. Soit, nous t’emmènerons goûter ces plaisirs. Mais ne regrette rien lorsque tu seras déçue. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "74203ac737ee064fe28debb8f4a4e36a2a538b7d08cce6e02dac7d4c6f099b40",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:30:28.587169+00:00"
+}

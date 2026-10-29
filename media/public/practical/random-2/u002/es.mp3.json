@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ecf0797e0c9ad48864583c430c1d48747f3a40a8ac738be60f7bfe3daae0dd0b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ya había oído esta melodía muchas veces, pero no me fijé en la línea de bajo hasta ayer.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f512851093570960a9d54509a7438a758df0369c31eb350d3679398ecc1c5a2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:24:00.715739+00:00"
+}

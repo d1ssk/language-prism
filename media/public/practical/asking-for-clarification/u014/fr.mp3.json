@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "99b9e14249838c5092729844fc10ea70ea813b7ae67ef54ff758f3a05871af41",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J'ai dit : « Pourriez-vous me donner votre numéro de réservation ? »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69b28eb634439d90a1c06c84cb5f63687f524192592645e9b7d81abe1ca8d050",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:45:10.468262+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2fba6eac1e78cd66162694a57db3dd65db3c015b0e0e367ad959987f185922b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "そうはそれをてのひらにのせ、わらっていいました。すがたはたしかにたからものになった。だが、まだほんとうのとりえがない。もういくもじかほりつけ、ひとめでふしぎなしなだとわかるようにしてこそよい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dbd7054fa36b75e3335a80a1edf066cc40f5648ff2ffee112d1d5da396eb543e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:36:24.278014+00:00"
+}

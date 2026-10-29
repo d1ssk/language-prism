@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "77ef7d037012983f89dbe465fd1c25c7435d98b682b5a7a2daee1a6f6db92706",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The stone could not contain its joy. “What wonders will your disciple possess, and where will you take me? Please explain clearly, so that I may no longer be puzzled.”",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3adb8f35018f12bfaaba70d136018d40f821bb5599eb81c089d0472237483e7a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:39:48.106403+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "998319c3eb72ff348a3f22b12ffade9ac466f4b0d4c83b9269f1818592bf830e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Letztes Jahr war ich in Japan.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "05ba6dddb03e489f0813887b3da81b32357d009a504341633f3f7bf1235bccdb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:37.987105+00:00"
+}

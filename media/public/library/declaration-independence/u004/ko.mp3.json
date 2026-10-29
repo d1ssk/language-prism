@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42d8e89cf6f1b8c7bd1fb80dd72fa8449886a05738bb2b7455ab649e49876d68",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "어떤 정부 형태든 이 목적을 해치게 되면, 인민은 그것을 바꾸거나 폐지하고 새로운 정부를 세울 권리가 있다. 자신들의 안전과 행복을 가장 잘 실현할 것으로 여기는 원칙에 기초를 두고 그에 맞는 형태로 권력을 조직할 권리이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "74e5dc6167fe020dc765518aaba12c7dde00f20e6e3a184bb032889d80598271",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:10:09.938737+00:00"
+}

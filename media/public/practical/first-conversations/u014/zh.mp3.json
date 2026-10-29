@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fc36c65bea3d5aac0c3348bcf49683eb6f29b7724460590db6579acd2cb338e3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我也是。希望下次再见。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cbf2b8fb8ee60010e4b6be4e9b4668b796e62245a885af62a0ba599245c9512c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:32.124532+00:00"
+}

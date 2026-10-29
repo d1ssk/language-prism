@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "becd79e6f89afdb83e19fdfcbf1a4d8565b39aba67801d9d47dd0abf57f1ed6b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我说不清自己怎样走进了那里；离开真正的道路时，我是那样昏昏欲睡。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "48ba53cc31adaf90f999b4d887c56dbdee7874916f2671f056857501b20eeebb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:25.536867+00:00"
+}

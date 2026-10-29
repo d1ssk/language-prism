@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "555098c4795dc3d1c7714873478895ffa09282546e9409c6139177065b72f92d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Нет, пока не пробовал.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2f53332824a0043b969daf8dfbc95e1a79e517d98396b21d6dfb6b08f2a4042b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:19:36.688502+00:00"
+}

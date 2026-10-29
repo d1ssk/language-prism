@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "81cc194c78239424f50b93b65fd7d5d9bcc5230640a4e0f75c583a22e7e11916",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لَكِنَّ الْحَجَرَ اكْتَسَبَ وَعْيًا رُوحِيًّا بَعْدَ صَقْلِهِ بِالنَّارِ. وَحِينَ رَأَى أَنَّ كُلَّ الْحِجَارَةِ أَسْهَمَتْ فِي تَرْمِيمِ السَّمَاءِ إِلَّا هُوَ لِعَدَمِ صَلَاحِيَّتِهِ، أَخَذَ يَلُومُ نَفْسَهُ وَيَنْدُبُهَا وَيَبْكِي لَيْلًا وَنَهَارًا خَجَلًا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b88be60d46f93422f49c70a00ddcc9fc32a46387a0da264e5a734c7c2e750c89",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:16:42.310461+00:00"
+}

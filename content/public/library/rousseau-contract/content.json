@@ -60,15 +60,49 @@
           "ttsText": "にんげんはじゆうなものとしてうまれた。それなのに、いたるところでくさりにつながれている。",
           "vocabulary": [
             {
-              "term": "鎖",
+              "term": "自由なものとして",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "人間に本来ある状態として自由を位置づける。",
+                "en": "Free as an original human condition."
+              }
+            },
+            {
+              "term": "それなのに",
+              "meaning": {
+                "ja": "前半と現実の対立を示す。",
+                "en": "Yet; introduces a contrast with reality."
+              }
+            },
+            {
+              "term": "鎖につながれている",
+              "meaning": {
+                "ja": "拘束や支配を鎖の像で表す。",
+                "en": "Bound in chains as an image of constraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…生まれた。それなのに…",
+              "explanation": {
+                "ja": "生来の自由と現実の拘束を二文で強く対照する。",
+                "en": "The two sentences sharply contrast original freedom with present constraint."
+              }
+            },
+            {
+              "point": "いたるところで",
+              "explanation": {
+                "ja": "例外的な場所でなく、広く見られる状況だと述べる。",
+                "en": "The phrase presents bondage as widespread rather than isolated."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "鎖は政治的・社会的な拘束の比喩で、この対立が以後の正当な社会秩序を問う出発点となる。",
+              "en": "Chains figure social and political constraint; the contrast launches the inquiry into legitimate social order."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -85,15 +119,49 @@
           "ttsText": "Human beings are born free, yet everywhere they are in chains.",
           "vocabulary": [
             {
-              "term": "chains",
+              "term": "born free",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "生まれながら自由である。",
+                "en": "Free by birth."
+              }
+            },
+            {
+              "term": "yet",
+              "meaning": {
+                "ja": "前半から逆の現実へ転じる。",
+                "en": "Introduces a contrary state of affairs."
+              }
+            },
+            {
+              "term": "in chains",
+              "meaning": {
+                "ja": "鎖につながれた状態。ここでは拘束の比喩。",
+                "en": "Bound by chains, figuratively constrained."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Human beings are born…",
+              "explanation": {
+                "ja": "現在形で人間一般について述べる。",
+                "en": "The present tense states a general claim about human beings."
+              }
+            },
+            {
+              "point": "yet everywhere they are…",
+              "explanation": {
+                "ja": "yetが自由と拘束を対照し、everywhereが広がりを強める。",
+                "en": "Yet contrasts freedom with constraint, while everywhere broadens the claim."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "chains は単なる金属の鎖ではなく、人間が置かれる社会的・政治的な拘束を描く。",
+              "en": "Chains evokes social and political constraint beyond literal metal links."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -110,15 +178,49 @@
           "ttsText": "El ser humano ha nacido libre, y en todas partes se encuentra encadenado.",
           "vocabulary": [
             {
+              "term": "ser humano",
+              "meaning": {
+                "ja": "人間一般。",
+                "en": "Human beings in general."
+              }
+            },
+            {
+              "term": "ha nacido libre",
+              "meaning": {
+                "ja": "自由なものとして生まれた。",
+                "en": "Has been born free."
+              }
+            },
+            {
               "term": "encadenado",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "鎖につながれた、拘束された。",
+                "en": "Chained or constrained."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "ha nacido…se encuentra…",
+              "explanation": {
+                "ja": "現在完了の出生と現在の状態を並べ、対立を作る。",
+                "en": "The perfect birth statement is set against the present condition."
+              }
+            },
+            {
+              "point": "y en todas partes…",
+              "explanation": {
+                "ja": "接続詞yが前半に続き、en todas partesが拘束の普遍性を示す。",
+                "en": "Y links the clauses, while en todas partes widens the claim."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "encadenado は実際の鎖に限定せず、社会的・政治的な拘束を表す比喩として読む。",
+              "en": "Encadenado is a figure for social and political constraint, beyond literal chains."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -135,18 +237,47 @@
           "ttsText": "L’homme est né libre, et partout il est dans les fers.",
           "vocabulary": [
             {
-              "term": "fers",
+              "term": "L’homme",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "ここでは人間一般。",
+                "en": "Human beings in general."
+              }
+            },
+            {
+              "term": "est né libre",
+              "meaning": {
+                "ja": "自由に生まれた。",
+                "en": "Was born free."
+              }
+            },
+            {
+              "term": "dans les fers",
+              "meaning": {
+                "ja": "鉄の鎖の中に、つまり拘束されている。",
+                "en": "In irons, figuratively under constraint."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "est né…est…",
+              "explanation": {
+                "ja": "出生の自由と現在の状態を二つの述語で対照する。",
+                "en": "The two predicates contrast freedom at birth with the present condition."
+              }
+            },
+            {
+              "point": "et partout…",
+              "explanation": {
+                "ja": "etが後半を続け、partoutが拘束の広がりを強調する。",
+                "en": "Et connects the clauses; partout emphasizes the widespread condition."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "l’homme は人間一般。les fers は直訳すると鉄ですが、ここでは拘束具・隷属の比喩です。et は文脈上の強い対比をつないでいます。",
-              "en": "L’homme refers to humanity in general. Les fers literally means irons and evokes shackles or subjection. Et connects a sharp contextual contrast."
+              "ja": "dans les fers は文字通りの鉄具だけでなく、社会や政治の拘束を表す比喩である。",
+              "en": "Dans les fers figuratively evokes social and political bonds, not only literal irons."
             }
           ],
           "translation": {
@@ -165,15 +296,49 @@
           "ttsText": "Der Mensch ist frei geboren, und überall liegt er in Ketten.",
           "vocabulary": [
             {
-              "term": "Ketten",
+              "term": "Der Mensch",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "人間一般。",
+                "en": "The human being in general."
+              }
+            },
+            {
+              "term": "frei geboren",
+              "meaning": {
+                "ja": "自由なものとして生まれた。",
+                "en": "Born free."
+              }
+            },
+            {
+              "term": "in Ketten",
+              "meaning": {
+                "ja": "鎖につながれた状態、拘束の比喩。",
+                "en": "In chains, figuratively constrained."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "ist frei geboren…liegt…",
+              "explanation": {
+                "ja": "出生時の自由と現在の拘束を二つの述語で対照する。",
+                "en": "The predicates contrast birth in freedom with present bondage."
+              }
+            },
+            {
+              "point": "und überall…",
+              "explanation": {
+                "ja": "undが後半を続け、überallが拘束の広がりを示す。",
+                "en": "Und connects the clauses, while überall broadens the claim."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Ketten は政治的・社会的な拘束の像であり、この対立が正当な秩序を問う導入となる。",
+              "en": "Ketten figures social and political constraint, introducing the question of legitimate order."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -190,15 +355,49 @@
           "ttsText": "Человек родился свободным, а повсюду он в оковах.",
           "vocabulary": [
             {
-              "term": "оковах",
+              "term": "Человек",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "人間一般を指す単数形。",
+                "en": "A singular noun standing for humankind."
+              }
+            },
+            {
+              "term": "свободным",
+              "meaning": {
+                "ja": "自由な者として。",
+                "en": "As a free person."
+              }
+            },
+            {
+              "term": "в оковах",
+              "meaning": {
+                "ja": "足かせの中に、拘束された状態。",
+                "en": "In shackles; under constraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "родился…он в оковах",
+              "explanation": {
+                "ja": "出生時の自由と現在の拘束を並べる。",
+                "en": "The clauses set original freedom against present bondage."
+              }
+            },
+            {
+              "point": "а повсюду…",
+              "explanation": {
+                "ja": "аが対照を示し、повсюдуが状態の広がりを示す。",
+                "en": "А marks the contrast; повсюду presents it as widespread."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "оковах は金属の足かせだけでなく、社会的・政治的な拘束の比喩である。",
+              "en": "Оковах is a figure for social and political constraint, beyond literal shackles."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -215,15 +414,49 @@
           "ttsText": "وُلد الإنسان حرًا، وهو في كل مكان مكبل بالأغلال.",
           "vocabulary": [
             {
-              "term": "الأغلال",
+              "term": "وُلد الإنسان",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "人間は生まれた。受動形で出生を述べる。",
+                "en": "The human being was born; the verb is passive."
+              }
+            },
+            {
+              "term": "حرًا",
+              "meaning": {
+                "ja": "自由な者として。",
+                "en": "Free."
+              }
+            },
+            {
+              "term": "مكبل بالأغلال",
+              "meaning": {
+                "ja": "鎖で縛られた、拘束された。",
+                "en": "Bound in chains."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "وُلد…حرًا",
+              "explanation": {
+                "ja": "受動動詞の後のحرًاが出生時の状態を示す。",
+                "en": "حرًا states the condition in which the human being was born."
+              }
+            },
+            {
+              "point": "وهو في كل مكان…",
+              "explanation": {
+                "ja": "و以下が現在の拘束を示し、出生時の自由と対照する。",
+                "en": "The clause after و contrasts present constraint with original freedom."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "الأغلال は社会的・政治的な拘束の比喩で、次の正当性の問いを導く。",
+              "en": "الأغلال figures social and political constraint and leads into the legitimacy question."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -248,15 +481,49 @@
           "ttsText": "人生来是自由的，却处处身陷枷锁。",
           "vocabulary": [
             {
+              "term": "生来",
+              "meaning": {
+                "ja": "生まれながら。",
+                "en": "By birth."
+              }
+            },
+            {
+              "term": "自由",
+              "meaning": {
+                "ja": "拘束されない状態。",
+                "en": "Freedom from constraint."
+              }
+            },
+            {
               "term": "枷锁",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "足かせと鎖。ここでは支配や束縛の比喩。",
+                "en": "Shackles, figuratively bondage."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "人生来是…",
+              "explanation": {
+                "ja": "人間一般の本来の状態を述べる。",
+                "en": "The clause states a general original condition."
+              }
+            },
+            {
+              "point": "却处处…",
+              "explanation": {
+                "ja": "却が逆接を、处处が拘束の広がりを示す。",
+                "en": "却 gives the contrast; 处处 stresses its ubiquity."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "枷锁 は文字通りの器具だけでなく、社会的・政治的な拘束を表す。",
+              "en": "枷锁 evokes social and political constraint, not only literal restraints."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -277,15 +544,49 @@
           "ttsText": "인간은 자유롭게 태어났으나 어디에서나 사슬에 묶여 있다.",
           "vocabulary": [
             {
-              "term": "사슬",
+              "term": "자유롭게 태어나다",
               "meaning": {
-                "ja": "ここでは人間を拘束する状態の比喩。",
-                "en": "Here, an image of a condition that binds or subjugates people."
+                "ja": "自由なものとして生まれる。",
+                "en": "To be born free."
+              }
+            },
+            {
+              "term": "어디에서나",
+              "meaning": {
+                "ja": "あらゆる場所で。",
+                "en": "Everywhere."
+              }
+            },
+            {
+              "term": "사슬에 묶이다",
+              "meaning": {
+                "ja": "鎖につながれ、拘束される。",
+                "en": "To be bound in chains."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "태어났으나…",
+              "explanation": {
+                "ja": "-으나が出生時の自由と現在の拘束を対照する。",
+                "en": "The -으나 ending contrasts freedom at birth with present bondage."
+              }
+            },
+            {
+              "point": "묶여 있다",
+              "explanation": {
+                "ja": "受け身の動作の結果として拘束状態が続くことを示す。",
+                "en": "The resultative form presents bondage as an ongoing state."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "사슬 は社会的・政治的な拘束の比喩であり、次の正当性の問いにつながる。",
+              "en": "사슬 figures social and political constraint, preparing the question of legitimacy."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -309,13 +610,47 @@
             {
               "term": "主人",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "他人を支配すると考える者。",
+                "en": "A person claiming authority over others."
+              }
+            },
+            {
+              "term": "思い込んでいる",
+              "meaning": {
+                "ja": "事実とは限らない考えを信じている。",
+                "en": "Believes something that may be mistaken."
+              }
+            },
+            {
+              "term": "奴隷",
+              "meaning": {
+                "ja": "自由を奪われ、支配される者。",
+                "en": "An enslaved person."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…者が、実は…",
+              "explanation": {
+                "ja": "主人という自己認識と、実際の拘束を対照する。",
+                "en": "The clause contrasts a supposed master with actual bondage."
+              }
+            },
+            {
+              "point": "…以上に…",
+              "explanation": {
+                "ja": "支配される側の人々よりも拘束が深いと比較する。",
+                "en": "The comparative says the would-be master may be even more enslaved than the others."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "主人／奴隷の逆転によって、他人を支配しているつもりの者も自由ではない可能性を示す。",
+              "en": "The master-slave reversal suggests that even one who claims to rule others may lack freedom."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -332,15 +667,49 @@
           "ttsText": "Someone may believe himself the master of others and yet be more enslaved than they are.",
           "vocabulary": [
             {
-              "term": "master",
+              "term": "believe himself",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分をそうだと信じる。",
+                "en": "To regard oneself as something."
+              }
+            },
+            {
+              "term": "master of others",
+              "meaning": {
+                "ja": "他人を支配する主人。",
+                "en": "A person claiming rule over others."
+              }
+            },
+            {
+              "term": "more enslaved",
+              "meaning": {
+                "ja": "より強く束縛されている。",
+                "en": "Under even greater bondage."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "may believe…and yet be…",
+              "explanation": {
+                "ja": "mayが可能性を示し、yetが自己認識と実態を対照する。",
+                "en": "May marks possibility; yet contrasts belief with actual condition."
+              }
+            },
+            {
+              "point": "than they are",
+              "explanation": {
+                "ja": "theyは支配される側のothersを受ける。",
+                "en": "They refers to the others whom the person claims to master."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "誰が実際にどんな鎖につながれるかはまだ説明せず、主人と奴隷の立場が逆転し得ると示す。",
+              "en": "The sentence does not yet specify the bonds; it states the paradox that a supposed master may be less free."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -357,15 +726,49 @@
           "ttsText": "Hay quien se cree amo de los demás y no deja por ello de ser más esclavo que ellos.",
           "vocabulary": [
             {
-              "term": "amo",
+              "term": "se cree amo",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分を主人だと思う。",
+                "en": "Considers himself a master."
+              }
+            },
+            {
+              "term": "los demás",
+              "meaning": {
+                "ja": "ほかの人々。",
+                "en": "Other people."
+              }
+            },
+            {
+              "term": "más esclavo",
+              "meaning": {
+                "ja": "より強く奴隷的な状態。",
+                "en": "More enslaved."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Hay quien…",
+              "explanation": {
+                "ja": "「〜する者がいる」という不特定の人を導く。",
+                "en": "Hay quien introduces an unspecified person who acts this way."
+              }
+            },
+            {
+              "point": "no deja por ello de ser…",
+              "explanation": {
+                "ja": "主人と思うことによっても奴隷でなくなるわけではないと述べる。",
+                "en": "The phrase says that believing oneself master does not stop one from being enslaved."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ellos は支配されるとされる他人を受ける。主人という自己認識と実際の自由の欠如が対照される。",
+              "en": "Ellos refers to the supposed subjects; self-image as master contrasts with lack of freedom."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -382,18 +785,47 @@
           "ttsText": "Tel se croit le maître des autres qui ne laisse pas d’être plus esclave qu’eux.",
           "vocabulary": [
             {
-              "term": "maître",
+              "term": "se croit le maître",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分を主人だと考える。",
+                "en": "Thinks himself the master."
+              }
+            },
+            {
+              "term": "des autres",
+              "meaning": {
+                "ja": "他人たちの。",
+                "en": "Of other people."
+              }
+            },
+            {
+              "term": "plus esclave",
+              "meaning": {
+                "ja": "より強く束縛された者。",
+                "en": "More enslaved."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Tel…qui…",
+              "explanation": {
+                "ja": "不特定の人を挙げ、その人について後続の節で逆転を述べる。",
+                "en": "Tel introduces a person whose condition is then paradoxically described."
+              }
+            },
+            {
+              "point": "ne laisse pas d’être…",
+              "explanation": {
+                "ja": "「それでもなお〜である」という表現で、主人でも奴隷的だと述べる。",
+                "en": "This idiom means “still is,” despite the claim to mastery."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "Tel … qui … は「ある者は…だが、その者は…」。ne laisse pas de は「それでもなお〜である」で、「〜するのをやめない」と逐語的に読むと意味を取りにくくなります。",
-              "en": "Tel … qui … singles out a person with the stated traits. Ne laisse pas de means “nevertheless does/is”; it is not a literal statement about allowing something."
+              "ja": "qu’eux のeuxは支配される側のautresを受け、主人と奴隷の立場が逆転する。",
+              "en": "Eux refers to the others; the comparison reverses the expected master-slave relation."
             }
           ],
           "translation": {
@@ -412,15 +844,49 @@
           "ttsText": "Mancher hält sich für den Herrn der anderen und ist dennoch mehr Sklave als sie.",
           "vocabulary": [
             {
-              "term": "Herrn",
+              "term": "hält sich für",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分を〜だと思う。",
+                "en": "Considers oneself to be."
+              }
+            },
+            {
+              "term": "Herrn der anderen",
+              "meaning": {
+                "ja": "他人の主人。",
+                "en": "Master of others."
+              }
+            },
+            {
+              "term": "mehr Sklave",
+              "meaning": {
+                "ja": "より強く奴隷のように束縛される。",
+                "en": "More enslaved."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "hält sich für…",
+              "explanation": {
+                "ja": "für＋対格で自分の思い込む身分を示す。",
+                "en": "Für plus accusative gives the identity one claims for oneself."
+              }
+            },
+            {
+              "point": "und ist dennoch…",
+              "explanation": {
+                "ja": "dennochが自己認識と実際の拘束の対照を示す。",
+                "en": "Dennoch contrasts the claim to mastery with actual bondage."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "sie はanderenを受ける。主人を自称する者が、従う側以上に不自由かもしれないと述べる。",
+              "en": "Sie refers to the others; the supposed master may be less free than those he claims to rule."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -437,15 +903,49 @@
           "ttsText": "Иной считает себя господином других и тем не менее оказывается ещё большим рабом, чем они.",
           "vocabulary": [
             {
-              "term": "господином",
+              "term": "считает себя",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分を〜だと思う。",
+                "en": "Considers himself to be."
+              }
+            },
+            {
+              "term": "господином других",
+              "meaning": {
+                "ja": "他人の主人。",
+                "en": "Master of others."
+              }
+            },
+            {
+              "term": "большим рабом",
+              "meaning": {
+                "ja": "より強く奴隷的な状態。",
+                "en": "A greater slave."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Иной…",
+              "explanation": {
+                "ja": "「ある者は」と不特定の人物を挙げる。",
+                "en": "Иной introduces an unspecified person."
+              }
+            },
+            {
+              "point": "тем не менее…чем…",
+              "explanation": {
+                "ja": "逆接と比較を重ね、主人を自認する者の方が拘束されると述べる。",
+                "en": "The concessive and comparative together reverse the expected relation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "они はдругихを受ける。支配される人々より、支配者を自認する者の方が不自由という逆説である。",
+              "en": "Они refers to the others; the paradox is that the supposed ruler may be less free."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -462,15 +962,49 @@
           "ttsText": "قد يظن المرء نفسه سيد الآخرين، لكنه مع ذلك أشد عبودية منهم.",
           "vocabulary": [
             {
-              "term": "سيد",
+              "term": "يظن المرء نفسه",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分自身を〜と思う。",
+                "en": "A person thinks himself to be."
+              }
+            },
+            {
+              "term": "سيد الآخرين",
+              "meaning": {
+                "ja": "他人の主人。",
+                "en": "Master of others."
+              }
+            },
+            {
+              "term": "أشد عبودية",
+              "meaning": {
+                "ja": "より強い隷属状態。",
+                "en": "More deeply enslaved."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "قد يظن…",
+              "explanation": {
+                "ja": "قدがそのように考える人がいる可能性を示す。",
+                "en": "قد allows for the possibility that someone thinks this way."
+              }
+            },
+            {
+              "point": "لكنه مع ذلك…",
+              "explanation": {
+                "ja": "しかし・それでもと重ね、主人という思い込みと実態を対照する。",
+                "en": "The contrastive phrase opposes the claim of mastery to actual bondage."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "منهم の代名詞はالآخرينを受け、主人を自認する者が彼らより不自由だという比較である。",
+              "en": "The suffix in منهم refers to الآخرين; the supposed master is compared with those others."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -491,15 +1025,49 @@
           "ttsText": "有人自以为是别人的主人，却仍然比他们更像奴隶。",
           "vocabulary": [
             {
+              "term": "自以为",
+              "meaning": {
+                "ja": "自分ではそうだと思う。",
+                "en": "To suppose oneself to be."
+              }
+            },
+            {
               "term": "主人",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "他人を支配する者。",
+                "en": "A master over others."
+              }
+            },
+            {
+              "term": "更像奴隶",
+              "meaning": {
+                "ja": "より強く拘束された者のようだ。",
+                "en": "More like a slave."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "有人…",
+              "explanation": {
+                "ja": "不特定の人物を挙げる。",
+                "en": "有人 introduces an unspecified person."
+              }
+            },
+            {
+              "point": "却仍然比他们更…",
+              "explanation": {
+                "ja": "逆接と比較を組み合わせ、主人の自己認識と実際の不自由を対照する。",
+                "en": "The contrastive comparative reverses the expected master-slave relation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "他们 は「别人」を受け、支配される側より支配者を自認する人の方が束縛されるという逆説を示す。",
+              "en": "他们 refers to the others; the supposed master may be more constrained than those people."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -520,15 +1088,49 @@
           "ttsText": "다른 이들의 주인이라고 생각하는 사람이 오히려 그들보다 더한 노예이기도 하다.",
           "vocabulary": [
             {
-              "term": "주인",
+              "term": "주인이라고 생각하다",
               "meaning": {
-                "ja": "他人を支配する立場の者。",
-                "en": "A person in a position of authority over others."
+                "ja": "自分を主人だと考える。",
+                "en": "To think oneself the master."
+              }
+            },
+            {
+              "term": "다른 이들",
+              "meaning": {
+                "ja": "ほかの人々。",
+                "en": "Other people."
+              }
+            },
+            {
+              "term": "더한 노예",
+              "meaning": {
+                "ja": "より強く拘束された者。",
+                "en": "A person more deeply enslaved."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-이라고 생각하는 사람이…",
+              "explanation": {
+                "ja": "自分を主人とみなす人物を修飾節で特定する。",
+                "en": "The modifier identifies the person who thinks himself master."
+              }
+            },
+            {
+              "point": "오히려…보다 더한…",
+              "explanation": {
+                "ja": "予想とは逆に、支配される側より不自由だと比較する。",
+                "en": "The reversal and comparison say the supposed master may be less free."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그들 は支配されるとされる人々を受け、主人と奴隷の立場を逆転させる。",
+              "en": "그들 refers to the others, reversing the expected master-slave relationship."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -550,15 +1152,49 @@
           "ttsText": "このへんかはどのようにおこったのか。わたしにはわからない。なにがそれをせいとうなものにできるのか。このといにはこたえられるとおもう。",
           "vocabulary": [
             {
-              "term": "正当",
+              "term": "この変化",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "自由に生まれた人間が拘束されるようになったこと。",
+                "en": "The shift from original freedom to social constraint."
+              }
+            },
+            {
+              "term": "正当なもの",
+              "meaning": {
+                "ja": "単に存在するだけでなく、権利として認められるもの。",
+                "en": "Something justified, not merely existing."
+              }
+            },
+            {
+              "term": "答えられる",
+              "meaning": {
+                "ja": "問いの理由を示せること。",
+                "en": "To give a reasoned answer."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "どのように…／何が…",
+              "explanation": {
+                "ja": "変化の発生過程と正当化の根拠を別々の問いにする。",
+                "en": "The paired questions separate how the change happened from what could justify it."
+              }
+            },
+            {
+              "point": "私には分からない／…と思う",
+              "explanation": {
+                "ja": "第一の問いには答えず、第二の問いを扱う姿勢を示す。",
+                "en": "The author declines the first question and undertakes the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この箇所は歴史的な発生の説明よりも、自由を制限する社会秩序に正当な根拠があるかを主題とする。",
+              "en": "The focus shifts from a historical account of bondage to the grounds on which social order might be legitimate."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -575,15 +1211,49 @@
           "ttsText": "How did this change come about? I do not know. What can make it legitimate? I believe I can resolve that question.",
           "vocabulary": [
             {
+              "term": "this change",
+              "meaning": {
+                "ja": "自由な出生から拘束された状態への変化。",
+                "en": "The change from being born free to living in constraint."
+              }
+            },
+            {
               "term": "legitimate",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "正当な根拠を持つ。",
+                "en": "Justified by a valid basis."
+              }
+            },
+            {
+              "term": "resolve that question",
+              "meaning": {
+                "ja": "その問いに答えを与える。",
+                "en": "Give a reasoned answer to that question."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "How did…? What can…?",
+              "explanation": {
+                "ja": "howは発生過程、whatは正当化の根拠を問う。",
+                "en": "How asks about historical process; what asks about a basis for legitimacy."
+              }
+            },
+            {
+              "point": "I do not know…I believe…",
+              "explanation": {
+                "ja": "二つの問いに対する姿勢を対比し、扱う主題を絞る。",
+                "en": "The contrasting replies narrow the author’s inquiry to legitimacy."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "it はthis changeを受ける。著者は変化が起きた方法は分からないとしつつ、正当化の条件は論じられるとする。",
+              "en": "It refers to this change; the author sets aside how it happened while taking up whether it can be justified."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -600,15 +1270,49 @@
           "ttsText": "¿Cómo se produjo este cambio? Lo ignoro. ¿Qué puede hacerlo legítimo? Creo poder resolver esta cuestión.",
           "vocabulary": [
             {
+              "term": "este cambio",
+              "meaning": {
+                "ja": "自由から拘束への変化。",
+                "en": "The change from freedom to bondage."
+              }
+            },
+            {
               "term": "legítimo",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "正当な根拠がある。",
+                "en": "Legitimate or justified."
+              }
+            },
+            {
+              "term": "resolver esta cuestión",
+              "meaning": {
+                "ja": "この問いに答える。",
+                "en": "Resolve this question."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "¿Cómo…? ¿Qué…?",
+              "explanation": {
+                "ja": "発生の仕方と正当化の根拠を別々に尋ねる。",
+                "en": "The questions distinguish process from grounds of legitimacy."
+              }
+            },
+            {
+              "point": "Lo ignoro…Creo poder…",
+              "explanation": {
+                "ja": "第一の問いは知らないとし、第二には答えられると述べる。",
+                "en": "The paired replies reject the first inquiry and take up the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "hacerlo のloは変化を指す。主題は歴史的な経緯ではなく、その変化を正当化できる条件である。",
+              "en": "Lo in hacerlo refers to the change; the subject is its justification rather than its chronology."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -625,18 +1329,47 @@
           "ttsText": "Comment ce changement s’est-il fait ? Je l’ignore. Qu’est-ce qui peut le rendre légitime ? Je crois pouvoir résoudre cette question.",
           "vocabulary": [
             {
+              "term": "ce changement",
+              "meaning": {
+                "ja": "自由から拘束への変化。",
+                "en": "The shift from freedom to bondage."
+              }
+            },
+            {
               "term": "légitime",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "正当な根拠を持つ。",
+                "en": "Legitimate or justified."
+              }
+            },
+            {
+              "term": "résoudre cette question",
+              "meaning": {
+                "ja": "問いに答える。",
+                "en": "Resolve this question."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Comment…? Qu’est-ce qui…?",
+              "explanation": {
+                "ja": "発生過程と正当性の根拠を分けて問う。",
+                "en": "The two questions separate historical process from grounds for legitimacy."
+              }
+            },
+            {
+              "point": "Je l’ignore…Je crois pouvoir…",
+              "explanation": {
+                "ja": "第一は知らないとし、第二には答えられると示す。",
+                "en": "The paired answers leave the first aside and take up the second."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "s’est-il fait は倒置疑問。rendre＋目的語＋形容詞は「〜を…にする」。ここで著者は、変化の歴史的原因と正当化の条件を分けています。",
-              "en": "S’est-il fait uses interrogative inversion. Rendre + object + adjective means “make something …”. Rousseau separates the historical cause of the change from the conditions that would justify it."
+              "ja": "le rendre légitime のleはce changementを受ける。議論の中心は変化がどう起きたかより、何がそれを正当化するかである。",
+              "en": "Le refers to the change; the inquiry concerns justification more than its historical occurrence."
             }
           ],
           "translation": {
@@ -655,15 +1388,49 @@
           "ttsText": "Wie ist dieser Wandel zustande gekommen? Ich weiß es nicht. Was kann ihn rechtmäßig machen? Ich glaube, diese Frage beantworten zu können.",
           "vocabulary": [
             {
+              "term": "dieser Wandel",
+              "meaning": {
+                "ja": "自由から拘束への変化。",
+                "en": "The change from freedom to constraint."
+              }
+            },
+            {
               "term": "rechtmäßig",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "権利にかなっている、正当である。",
+                "en": "Legitimate or lawful."
+              }
+            },
+            {
+              "term": "diese Frage beantworten",
+              "meaning": {
+                "ja": "その問いに答える。",
+                "en": "Answer that question."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Wie…? Was…?",
+              "explanation": {
+                "ja": "変化の発生とその正当化を別の問いにする。",
+                "en": "The questions distinguish how the change arose from what could justify it."
+              }
+            },
+            {
+              "point": "Ich weiß es nicht…Ich glaube…",
+              "explanation": {
+                "ja": "第一には答えず、第二の問いを扱うと述べる。",
+                "en": "The paired replies set aside the first question and undertake the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ihn はWandelを受ける。歴史的な経緯より、自由の制限を正当化できる根拠が焦点となる。",
+              "en": "Ihn refers to Wandel; the focus is justification of constraint, rather than historical sequence."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -680,15 +1447,49 @@
           "ttsText": "Как произошла эта перемена? Я этого не знаю. Что может сделать её законной? Думаю, я могу разрешить этот вопрос.",
           "vocabulary": [
             {
+              "term": "эта перемена",
+              "meaning": {
+                "ja": "自由から拘束への変化。",
+                "en": "The change from freedom to constraint."
+              }
+            },
+            {
               "term": "законной",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "法的・正当な根拠を持つ。",
+                "en": "Lawful or legitimate."
+              }
+            },
+            {
+              "term": "разрешить этот вопрос",
+              "meaning": {
+                "ja": "この問いを解く。",
+                "en": "Resolve this question."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Как…? Что…?",
+              "explanation": {
+                "ja": "変化の発生過程と正当化の根拠を分けて問う。",
+                "en": "The questions distinguish process from justification."
+              }
+            },
+            {
+              "point": "Я этого не знаю…Думаю…",
+              "explanation": {
+                "ja": "第一は知らないとし、第二に答える意向を示す。",
+                "en": "The replies set aside the first question and take up the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "её はпеременаを受ける。何がその変化を正当なものにできるかが中心となる。",
+              "en": "Её refers to перемена; the central question asks what could make the change legitimate."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -705,15 +1506,49 @@
           "ttsText": "كيف حدث هذا التغير؟ لا أعلم. ما الذي يمكن أن يجعله مشروعًا؟ أعتقد أنني أستطيع حل هذا السؤال.",
           "vocabulary": [
             {
-              "term": "مشروعًا",
+              "term": "هَذَا التَّغَيُّرُ",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "自由から拘束への変化。",
+                "en": "The shift from freedom to constraint."
+              }
+            },
+            {
+              "term": "مَشْرُوعًا",
+              "meaning": {
+                "ja": "正当な根拠がある。",
+                "en": "Legitimate or justified."
+              }
+            },
+            {
+              "term": "حَلُّ هَذَا السُّؤَالِ",
+              "meaning": {
+                "ja": "その問いに答えること。",
+                "en": "Resolving that question."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "كَيْفَ…؟ مَا الَّذِي…؟",
+              "explanation": {
+                "ja": "発生の仕方と正当化の根拠を分けて問う。",
+                "en": "The two questions distinguish process from grounds of legitimacy."
+              }
+            },
+            {
+              "point": "لَا أَعْلَمُ…أَعْتَقِدُ…",
+              "explanation": {
+                "ja": "第一は知らないとし、第二には答えられると示す。",
+                "en": "The paired replies set aside the first question and take up the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "يجعله のهは変化を受ける。歴史的な起源より、その変化が正当となる条件を探る。",
+              "en": "The suffix in يجعله refers to the change; the author seeks its grounds rather than its history."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -738,15 +1573,49 @@
           "ttsText": "这种变化是怎样发生的？我不知道。什么能使它具有正当性？我相信我能够解答这个问题。",
           "vocabulary": [
             {
+              "term": "这种变化",
+              "meaning": {
+                "ja": "自由な出生から拘束への移行。",
+                "en": "The change from freedom at birth to constraint."
+              }
+            },
+            {
               "term": "正当性",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "正しいと認められる根拠。",
+                "en": "A basis for legitimacy."
+              }
+            },
+            {
+              "term": "解答",
+              "meaning": {
+                "ja": "問いに答えること。",
+                "en": "To answer or resolve a question."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "怎样发生…？什么能使…？",
+              "explanation": {
+                "ja": "発生過程と正当化の条件を分けて問う。",
+                "en": "The paired questions distinguish occurrence from justification."
+              }
+            },
+            {
+              "point": "我不知道…我相信…",
+              "explanation": {
+                "ja": "第一の問いは知らず、第二には答えられるとする。",
+                "en": "The contrasting replies set aside the first inquiry and take up the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "它 は这种变化を受ける。著者は自由が失われた歴史より、その制約を正当化できるかに焦点を置く。",
+              "en": "它 refers to the change; the focus is whether the loss of freedom can be justified."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -767,15 +1636,49 @@
           "ttsText": "이 변화는 어떻게 일어났는가? 나는 모른다. 무엇이 그것을 정당하게 만들 수 있는가? 나는 이 질문에 답할 수 있다고 생각한다.",
           "vocabulary": [
             {
-              "term": "정당",
+              "term": "이 변화",
               "meaning": {
-                "ja": "権威や服従を受け入れる根拠があること。",
-                "en": "Having a justifying basis for authority or obedience."
+                "ja": "自由から拘束への変化。",
+                "en": "The change from freedom to constraint."
+              }
+            },
+            {
+              "term": "정당하게",
+              "meaning": {
+                "ja": "正当な根拠を持つように。",
+                "en": "Legitimately."
+              }
+            },
+            {
+              "term": "답할 수 있다",
+              "meaning": {
+                "ja": "問いに答えを示せる。",
+                "en": "Can give an answer."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "어떻게…? 무엇이…?",
+              "explanation": {
+                "ja": "発生過程と正当化の根拠を別々に問う。",
+                "en": "The questions separate historical process from grounds of legitimacy."
+              }
+            },
+            {
+              "point": "나는 모른다…생각한다",
+              "explanation": {
+                "ja": "第一には答えず、第二を論じる姿勢を示す。",
+                "en": "The paired replies set aside the first question and undertake the second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그것 は이 변화を受ける。論点は変化の歴史より、拘束が正当となる条件である。",
+              "en": "그것 refers to the change; the issue is justification of constraint rather than its history."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -799,13 +1702,47 @@
             {
               "term": "力",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人々を服従させる実力。",
+                "en": "Force used to compel obedience."
+              }
+            },
+            {
+              "term": "そこから生じる結果",
+              "meaning": {
+                "ja": "力による支配や服従という帰結。",
+                "en": "The consequences of force, including submission."
+              }
+            },
+            {
+              "term": "こう言うだろう",
+              "meaning": {
+                "ja": "仮定の下で述べる考えを予告する。",
+                "en": "Signals what the speaker would say under the supposition."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "もし…のなら…だろう",
+              "explanation": {
+                "ja": "現実の議論を力だけに限定した仮定を置く。",
+                "en": "The conditional imagines reasoning only from force."
+              }
+            },
+            {
+              "point": "そこから",
+              "explanation": {
+                "ja": "「そこ」は力を受け、結果の出所を示す。",
+                "en": "そこ refers to force and identifies the source of its effect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "次の引用は力だけを基準にした仮の議論であり、著者が最終的に採る正当性の根拠とは区別される。",
+              "en": "The following quotation tests an argument based only on force before the author returns to legitimacy."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -824,13 +1761,47 @@
             {
               "term": "force",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人を服従させる実力。",
+                "en": "Power used to compel obedience."
+              }
+            },
+            {
+              "term": "effect arising from it",
+              "meaning": {
+                "ja": "力から生じる結果。",
+                "en": "The effect produced by force."
+              }
+            },
+            {
+              "term": "I would say",
+              "meaning": {
+                "ja": "仮定の下での発言を予告する。",
+                "en": "Introduces what the speaker would say in that case."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "If I considered…I would say",
+              "explanation": {
+                "ja": "過去形とwouldで、現実とは異なる条件を仮定する。",
+                "en": "The past form and would mark a hypothetical line of reasoning."
+              }
+            },
+            {
+              "point": "arising from it",
+              "explanation": {
+                "ja": "現在分詞句がeffectを修飾し、itはforceを受ける。",
+                "en": "The participial phrase modifies effect; it refers to force."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "続く引用は力の結果だけを考えた場合の仮説で、正当な権利の説明をまだ完成させない。",
+              "en": "The quoted reasoning that follows is provisional and based only on force, before legitimacy is addressed."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -849,13 +1820,47 @@
             {
               "term": "fuerza",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "服従を強いる実力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "efecto",
+              "meaning": {
+                "ja": "力から生じる結果。",
+                "en": "An effect or consequence."
+              }
+            },
+            {
+              "term": "diría",
+              "meaning": {
+                "ja": "「私は言うだろう」という条件法。",
+                "en": "Would say; conditional of decir."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Si…considerara…, diría…",
+              "explanation": {
+                "ja": "接続法過去と条件法で仮定の議論を置く。",
+                "en": "The imperfect subjunctive and conditional mark hypothetical reasoning."
+              }
+            },
+            {
+              "point": "no…más que…",
+              "explanation": {
+                "ja": "力とその結果だけに考察を限定する。",
+                "en": "No…más que restricts the inquiry to force and its effect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "de ella のellaはfuerzaを受ける。次の引用は力に限定した仮の論理を示す。",
+              "en": "Ella refers to fuerza; the quotation that follows tests reasoning limited to force."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -874,16 +1879,45 @@
             {
               "term": "force",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "服従を強いる実力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "effet",
+              "meaning": {
+                "ja": "力から生じる結果。",
+                "en": "The resulting effect."
+              }
+            },
+            {
+              "term": "je dirais",
+              "meaning": {
+                "ja": "「私は言うだろう」という条件法。",
+                "en": "I would say; a conditional form."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Si…considérais…, je dirais…",
+              "explanation": {
+                "ja": "半過去と条件法で仮の考察を示す。",
+                "en": "The imperfect and conditional set up a hypothetical line of thought."
+              }
+            },
+            {
+              "point": "ne…que…",
+              "explanation": {
+                "ja": "力とその結果だけに考察を限定する。",
+                "en": "Ne…que restricts consideration to force and its effect."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "ne … que は限定で「〜だけ」。si＋半過去と条件法 dirais が仮定を作ります。en は de la force を受けます。",
-              "en": "Ne … que limits the scope to force and its effects. Si + imperfect combines with conditional dirais. En stands for de la force."
+              "ja": "en dérive のenはla forceを受ける。続く引用は力だけを考えた場合の仮の結論である。",
+              "en": "En refers to force; the quotation gives a provisional conclusion from force alone."
             }
           ],
           "translation": {
@@ -904,13 +1938,47 @@
             {
               "term": "Gewalt",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人を従わせる実力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "Wirkung",
+              "meaning": {
+                "ja": "そこから生じる結果。",
+                "en": "An effect or consequence."
+              }
+            },
+            {
+              "term": "würde ich sagen",
+              "meaning": {
+                "ja": "仮定の下なら言うだろう。",
+                "en": "I would say under that supposition."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Wenn ich…betrachtete, würde ich…",
+              "explanation": {
+                "ja": "接続法を含む条件文で、力に限定した仮の考察を示す。",
+                "en": "The conditional frames a hypothetical inquiry limited to force."
+              }
+            },
+            {
+              "point": "aus ihr hervorgehende…",
+              "explanation": {
+                "ja": "分詞句がWirkungを修飾し、ihrはGewaltを受ける。",
+                "en": "The participial modifier describes Wirkung; ihr refers to Gewalt."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "続く引用は力だけに基づく仮の議論で、正当性の根拠そのものをまだ示していない。",
+              "en": "The following quotation tests force alone without yet establishing a legitimate basis."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -929,13 +1997,47 @@
             {
               "term": "силу",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人を従わせる実力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "вытекающее…действие",
+              "meaning": {
+                "ja": "力から生じる作用・結果。",
+                "en": "An effect flowing from force."
+              }
+            },
+            {
+              "term": "я сказал бы",
+              "meaning": {
+                "ja": "仮定の下で述べる発言。",
+                "en": "I would say under that supposition."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Если бы…я сказал бы",
+              "explanation": {
+                "ja": "быを使って現実と異なる仮定を示す。",
+                "en": "The бы forms establish a hypothetical condition and result."
+              }
+            },
+            {
+              "point": "из неё",
+              "explanation": {
+                "ja": "неёはсилуを受け、結果の出所を示す。",
+                "en": "Неё refers to force and marks the source of the effect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "引用は力だけを考えた場合の仮説であり、正当な権利の根拠をまだ結論していない。",
+              "en": "The quoted argument is provisional, considering force alone before the issue of legitimate right."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -952,15 +2054,49 @@
           "ttsText": "لو لم أنظر إلا إلى القوة والأثر الناشئ عنها، لقلت:",
           "vocabulary": [
             {
-              "term": "القوة",
+              "term": "الْقُوَّةِ",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人を従わせる力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "الْأَثَرِ النَّاشِئِ عَنْهَا",
+              "meaning": {
+                "ja": "その力から生じる結果。",
+                "en": "The effect arising from it."
+              }
+            },
+            {
+              "term": "لَقُلْتُ",
+              "meaning": {
+                "ja": "その条件なら私は言うだろう。",
+                "en": "I would say under that condition."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "لَوْ…لَقُلْتُ",
+              "explanation": {
+                "ja": "لوとلـが仮定とその帰結を結ぶ。",
+                "en": "لو sets the supposition; لـ marks its result."
+              }
+            },
+            {
+              "point": "إِلَّا إِلَى…",
+              "explanation": {
+                "ja": "否定に続くإلاで、考える対象を力とその結果だけに限定する。",
+                "en": "إلا after negation restricts consideration to force and its effect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "عَنْهَا のهاはالقوةを受ける。続く引用は力に限定した仮の議論である。",
+              "en": "The suffix ها refers to force; the following quotation considers that premise alone."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -987,13 +2123,47 @@
             {
               "term": "强力",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人を従わせる実力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "结果",
+              "meaning": {
+                "ja": "力から生じる影響。",
+                "en": "The consequence of force."
+              }
+            },
+            {
+              "term": "我会说",
+              "meaning": {
+                "ja": "仮定の下での発言を予告する。",
+                "en": "Introduces what the speaker would say in that case."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "如果…我会…",
+              "explanation": {
+                "ja": "力だけを考えるという仮定と、その下での発言を結ぶ。",
+                "en": "如果…会… links a hypothetical condition to the resulting statement."
+              }
+            },
+            {
+              "point": "只考虑…",
+              "explanation": {
+                "ja": "只が考察の対象を力とその結果に限定する。",
+                "en": "只 restricts the inquiry to force and its consequences."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "它 は强力を指す。次の引用は力だけに基づく仮の推論を示す。",
+              "en": "它 refers to force; the quotation that follows tests reasoning from force alone."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1020,13 +2190,47 @@
             {
               "term": "힘",
               "meaning": {
-                "ja": "ここでは服従を強いる物理的な力。",
-                "en": "Here, coercive power that compels obedience."
+                "ja": "人を服従させる実力。",
+                "en": "Compelling force."
+              }
+            },
+            {
+              "term": "거기서 생기는 결과",
+              "meaning": {
+                "ja": "力から生じる影響。",
+                "en": "The effect arising from it."
+              }
+            },
+            {
+              "term": "이렇게 말할 것이다",
+              "meaning": {
+                "ja": "仮定の下での言葉を予告する。",
+                "en": "Signals what the speaker would say in that case."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-다면…말할 것이다",
+              "explanation": {
+                "ja": "力だけを考える仮定とその結果を結ぶ。",
+                "en": "The conditional links a hypothetical inquiry to the statement that follows."
+              }
+            },
+            {
+              "point": "-만을 고려하다",
+              "explanation": {
+                "ja": "対象を力とその結果だけに限定する。",
+                "en": "The particle 만 restricts consideration to force and its effect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "거기 は힘を受ける。続く引用は力だけを基準にした仮の議論である。",
+              "en": "거기 refers to force; the following quotation tests an argument based on force alone."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1048,15 +2252,56 @@
           "ttsText": "「みんしゅうがふくじゅうをしいられ、ふくじゅうしているあいだは、それでよい。しかし、くびきをふりはらえるようになってじっさいにふりはらうなら、なおよい。",
           "vocabulary": [
             {
+              "term": "民衆",
+              "meaning": {
+                "ja": "ここでは服従を強いられる人々の集団。",
+                "en": "A people compelled to obey."
+              }
+            },
+            {
+              "term": "服従を強いられ",
+              "meaning": {
+                "ja": "外からの力によって従わされる。",
+                "en": "Forced to submit by another’s power."
+              }
+            },
+            {
               "term": "くびき",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "家畜をつなぐ道具から転じた支配の比喩。",
+                "en": "A yoke, figuratively a burden of domination."
+              }
+            },
+            {
+              "term": "振り払う",
+              "meaning": {
+                "ja": "支配を取り除く。",
+                "en": "To throw off the imposed restraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…あいだは…しかし…なら…",
+              "explanation": {
+                "ja": "服従を免れない間と解放できる時を対比する。",
+                "en": "The clauses contrast unavoidable obedience with the chance to become free."
+              }
+            },
+            {
+              "point": "…ようになって実際に…",
+              "explanation": {
+                "ja": "できる状態になるだけでなく、現に行動することを重ねる。",
+                "en": "The wording requires actual action as well as the ability to act."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここは力だけを基準にした仮の発言で、支配される間の服従も、機会があれば支配を脱することも評価する。",
+              "en": "This provisional force-based argument approves obedience under compulsion and resistance once liberation becomes possible."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1073,15 +2318,56 @@
           "ttsText": "“So long as a people is compelled to obey and does obey, it does well; as soon as it can throw off the yoke and does so, it does better still;",
           "vocabulary": [
             {
+              "term": "compelled to obey",
+              "meaning": {
+                "ja": "力によって服従を強いられる。",
+                "en": "Forced to submit."
+              }
+            },
+            {
+              "term": "does well",
+              "meaning": {
+                "ja": "その状況では適切に行動する。",
+                "en": "Acts properly in the circumstances."
+              }
+            },
+            {
               "term": "yoke",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "くびきから転じた支配の比喩。",
+                "en": "A yoke, metaphorically oppressive rule."
+              }
+            },
+            {
+              "term": "throw off",
+              "meaning": {
+                "ja": "支配を振り払う。",
+                "en": "Remove an imposed restraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "So long as…as soon as…",
+              "explanation": {
+                "ja": "服従を強いられる期間と、解放が可能になった時点を対比する。",
+                "en": "The paired time clauses contrast compelled obedience with the moment freedom becomes possible."
+              }
+            },
+            {
+              "point": "can throw off…and does so",
+              "explanation": {
+                "ja": "能力と実際の行動を分け、両方がそろう場合を述べる。",
+                "en": "The verbs distinguish being able to resist from actually doing so."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "it はa peopleを受ける単数扱いの代名詞。文末のセミコロンで、次の文に理由が続く。",
+              "en": "It treats a people as a singular collective; the semicolon leads into the reason in the next unit."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1098,15 +2384,56 @@
           "ttsText": "«Mientras un pueblo se ve obligado a obedecer y obedece, hace bien; en cuanto puede sacudirse el yugo y se lo sacude, hace todavía mejor;",
           "vocabulary": [
             {
+              "term": "pueblo",
+              "meaning": {
+                "ja": "一つの民衆・民族。",
+                "en": "A people."
+              }
+            },
+            {
+              "term": "obligado a obedecer",
+              "meaning": {
+                "ja": "服従を強いられた。",
+                "en": "Compelled to obey."
+              }
+            },
+            {
               "term": "yugo",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "くびき、支配の比喩。",
+                "en": "A yoke, figuratively domination."
+              }
+            },
+            {
+              "term": "sacudirse",
+              "meaning": {
+                "ja": "身にかかったものを振り払う。",
+                "en": "To shake off a burden."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Mientras…en cuanto…",
+              "explanation": {
+                "ja": "強いられる間と、脱する力を得た時を対比する。",
+                "en": "The paired clauses contrast the period of compulsion with the first chance to escape."
+              }
+            },
+            {
+              "point": "puede…y se lo sacude",
+              "explanation": {
+                "ja": "可能性と実行を並べ、実際に支配を振り払うことを述べる。",
+                "en": "The sentence pairs ability with actually shaking off the yoke."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "lo はyugoを指す。直後の文は、支配を振り払う行為がなぜよいかを説明する。",
+              "en": "Lo refers to yugo; the next unit explains why throwing it off is justified."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1123,18 +2450,54 @@
           "ttsText": "« Tant qu’un peuple est contraint d’obéir et qu’il obéit, il fait bien ; sitôt qu’il peut secouer le joug, et qu’il le secoue, il fait encore mieux ;",
           "vocabulary": [
             {
+              "term": "peuple",
+              "meaning": {
+                "ja": "一つの民衆・国民。",
+                "en": "A people."
+              }
+            },
+            {
+              "term": "contraint d’obéir",
+              "meaning": {
+                "ja": "服従を強いられる。",
+                "en": "Compelled to obey."
+              }
+            },
+            {
               "term": "joug",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "くびき、支配の比喩。",
+                "en": "A yoke, metaphorically domination."
+              }
+            },
+            {
+              "term": "secouer",
+              "meaning": {
+                "ja": "振り払う。",
+                "en": "To shake off."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Tant que…sitôt que…",
+              "explanation": {
+                "ja": "強制が続く期間と、解放が可能になる時を対比する。",
+                "en": "The time clauses contrast the period of compulsion with the first chance for release."
+              }
+            },
+            {
+              "point": "peut secouer…et…le secoue",
+              "explanation": {
+                "ja": "可能であることと実際に行うことを分けて述べる。",
+                "en": "The verbs distinguish ability to throw off the yoke from doing it."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "tant que は継続条件、sitôt que は「〜するとすぐ」。joug は家畜のくびきから、支配・隷属を表す比喩になっています。",
-              "en": "Tant que means “as long as”; sitôt que means “as soon as”. Joug is a yoke, used figuratively for subjection."
+              "ja": "le はjougを指す。次の文で、民衆が支配を脱する権利の理屈が続く。",
+              "en": "Le refers to joug; the next unit supplies the argument about the people’s right to escape it."
             }
           ],
           "translation": {
@@ -1153,15 +2516,56 @@
           "ttsText": "„Solange ein Volk zum Gehorsam gezwungen ist und gehorcht, handelt es gut; sobald es das Joch abschütteln kann und es abschüttelt, handelt es noch besser;",
           "vocabulary": [
             {
+              "term": "Volk",
+              "meaning": {
+                "ja": "民衆・国民の集団。",
+                "en": "A people."
+              }
+            },
+            {
+              "term": "zum Gehorsam gezwungen",
+              "meaning": {
+                "ja": "服従を強いられて。",
+                "en": "Forced into obedience."
+              }
+            },
+            {
               "term": "Joch",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "くびき、支配の比喩。",
+                "en": "A yoke, figuratively oppression."
+              }
+            },
+            {
+              "term": "abschütteln",
+              "meaning": {
+                "ja": "振り払う。",
+                "en": "To shake off."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Solange…sobald…",
+              "explanation": {
+                "ja": "強制下の期間と解放できる時点を対照する。",
+                "en": "The paired clauses contrast continued compulsion with the first chance to escape."
+              }
+            },
+            {
+              "point": "kann und es abschüttelt",
+              "explanation": {
+                "ja": "可能性と実際の行動を区別する。",
+                "en": "The wording distinguishes being able to throw it off from doing so."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "es はJochを指す。続く文が、この行動をよりよいと呼ぶ理由を示す。",
+              "en": "Es refers to Joch; the following unit explains why the act is judged better."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1178,15 +2582,56 @@
           "ttsText": "«Пока народ принуждён повиноваться и повинуется, он поступает хорошо; как только он может сбросить ярмо и сбрасывает его, он поступает ещё лучше;",
           "vocabulary": [
             {
+              "term": "народ",
+              "meaning": {
+                "ja": "服従を強いられる民衆。",
+                "en": "A people under compulsion."
+              }
+            },
+            {
+              "term": "принуждён повиноваться",
+              "meaning": {
+                "ja": "服従を強いられる。",
+                "en": "Forced to obey."
+              }
+            },
+            {
               "term": "ярмо",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "くびき、支配の比喩。",
+                "en": "A yoke, figuratively oppressive rule."
+              }
+            },
+            {
+              "term": "сбросить",
+              "meaning": {
+                "ja": "振り落とす。",
+                "en": "To throw off."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Пока…как только…",
+              "explanation": {
+                "ja": "強制が続く間と、脱出できる時を対比する。",
+                "en": "The time clauses contrast compulsion with the first chance to escape."
+              }
+            },
+            {
+              "point": "может сбросить…и сбрасывает…",
+              "explanation": {
+                "ja": "できることと実際に行うことを区別する。",
+                "en": "The verbs separate ability from action."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "его はярмоを指す。次の文で、同じ権利によって自由を取り戻すという説明が続く。",
+              "en": "Его refers to ярмо; the next unit explains reclaiming freedom by the same right."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1203,15 +2648,56 @@
           "ttsText": "«ما دام شعب مضطرًا إلى الطاعة ويطيع، فهو يحسن التصرف؛ وما إن يستطيع نفض النير وينفضه، فإنه يحسن التصرف أكثر؛",
           "vocabulary": [
             {
-              "term": "النير",
+              "term": "شَعْبٌ",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "一つの民衆・民族。",
+                "en": "A people."
+              }
+            },
+            {
+              "term": "مُضْطَرًّا إِلَى الطَّاعَةِ",
+              "meaning": {
+                "ja": "服従を強いられている。",
+                "en": "Compelled to obey."
+              }
+            },
+            {
+              "term": "النِّيرَ",
+              "meaning": {
+                "ja": "くびき、支配の比喩。",
+                "en": "A yoke, figuratively domination."
+              }
+            },
+            {
+              "term": "نَفْضَ",
+              "meaning": {
+                "ja": "振り払うこと。",
+                "en": "Shaking off a restraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "مَا دَامَ…وَمَا إِنْ…",
+              "explanation": {
+                "ja": "強制が続く間と、解放が可能になる時を対比する。",
+                "en": "The paired clauses contrast ongoing compulsion with the moment escape becomes possible."
+              }
+            },
+            {
+              "point": "يَسْتَطِيعُ…وَيَنْفُضُهُ",
+              "explanation": {
+                "ja": "できることと実際に振り払うことを区別する。",
+                "en": "The verbs distinguish ability from the act of throwing off the yoke."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "يَنْفُضُهُ のهはالنيرを受ける。次の文で民衆が自由を取り戻す根拠を説明する。",
+              "en": "The suffix ه in يَنْفُضُهُ refers to the yoke; the next unit gives the reasoning for recovering freedom."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1236,15 +2722,56 @@
           "ttsText": "“一个民族被迫服从而且确实服从时，它做得对；一旦它能够摆脱枷锁并且摆脱了，就做得更好；",
           "vocabulary": [
             {
+              "term": "民族",
+              "meaning": {
+                "ja": "ここでは服従を強いられる民衆の集団。",
+                "en": "A people under compulsion."
+              }
+            },
+            {
+              "term": "被迫服从",
+              "meaning": {
+                "ja": "他者の力で従わされる。",
+                "en": "Forced to obey."
+              }
+            },
+            {
               "term": "枷锁",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "支配や束縛の比喩。",
+                "en": "Shackles, figuratively domination."
+              }
+            },
+            {
+              "term": "摆脱",
+              "meaning": {
+                "ja": "拘束から抜け出す。",
+                "en": "To shake off an imposed restraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…时…；一旦…就…",
+              "explanation": {
+                "ja": "強制下の行動と、解放が可能になった場合を対比する。",
+                "en": "The paired clauses contrast compelled obedience with the chance to break free."
+              }
+            },
+            {
+              "point": "能够摆脱…并且摆脱了",
+              "explanation": {
+                "ja": "可能性と実際の行動を重ね、後者をよりよいと評価する。",
+                "en": "The phrase separates ability to escape from actually doing so."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "次の文では、自由を奪ったのと同じ権利を用いて取り戻すことの根拠を論じる。",
+              "en": "The next unit argues about reclaiming liberty under the same right used to take it away."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1269,15 +2796,56 @@
           "ttsText": "“한 민족이 복종을 강요받아 복종하는 동안에는 잘하는 것이다. 그러나 멍에를 벗어던질 수 있게 되어 실제로 벗어던진다면 더욱 잘하는 것이다.",
           "vocabulary": [
             {
+              "term": "한 민족",
+              "meaning": {
+                "ja": "一つの民衆・民族。",
+                "en": "A people."
+              }
+            },
+            {
+              "term": "복종을 강요받다",
+              "meaning": {
+                "ja": "服従を強いられる。",
+                "en": "To be compelled to obey."
+              }
+            },
+            {
               "term": "멍에",
               "meaning": {
-                "ja": "支配から逃れられない状態を表す比喩。",
-                "en": "A metaphor for the burden of subjection."
+                "ja": "くびき、支配の比喩。",
+                "en": "A yoke, figuratively domination."
+              }
+            },
+            {
+              "term": "벗어던지다",
+              "meaning": {
+                "ja": "身についた支配を振り払う。",
+                "en": "To throw off an imposed restraint."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-는 동안에는…그러나…다면…",
+              "explanation": {
+                "ja": "強制が続く間と、解放できる場合を対比する。",
+                "en": "The clauses contrast obedience under compulsion with possible liberation."
+              }
+            },
+            {
+              "point": "-ㄹ 수 있게 되어 실제로…",
+              "explanation": {
+                "ja": "できる状態になることと、実行することを区別する。",
+                "en": "The wording distinguishes gaining the ability to escape from actually escaping."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "次の文は、支配を振り払うことがなぜよりよいかを権利の対比で説明する。",
+              "en": "The next unit explains why throwing off the yoke is judged better."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1299,15 +2867,56 @@
           "ttsText": "じゆうをうばったのとおなじけんりによってじゆうをとりもどすのだから、とりもどすことにこんきょがあるか、さもなければうばうがわにもこんきょはなかったことになるからだ」。",
           "vocabulary": [
             {
-              "term": "取り戻す",
+              "term": "同じ権利",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "自由を奪う際に持ち出された権利と同じ論理。",
+                "en": "The same claimed right invoked to take liberty away."
+              }
+            },
+            {
+              "term": "自由を取り戻す",
+              "meaning": {
+                "ja": "失われた自由を回復する。",
+                "en": "To reclaim lost freedom."
+              }
+            },
+            {
+              "term": "根拠",
+              "meaning": {
+                "ja": "行為を正当化する理由。",
+                "en": "A justification for an action."
+              }
+            },
+            {
+              "term": "奪う側",
+              "meaning": {
+                "ja": "民衆の自由を取り上げた者。",
+                "en": "Those who deprived the people of liberty."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…のだから…",
+              "explanation": {
+                "ja": "前文の支配を振り払う評価について理由を示す。",
+                "en": "The causal phrase explains why resistance in the preceding sentence is judged better."
+              }
+            },
+            {
+              "point": "…か、さもなければ…",
+              "explanation": {
+                "ja": "二つの可能性を示し、どちらでも力だけの支配は自明の権利ではないとする。",
+                "en": "The alternatives say either recovery is justified or the original seizure lacked justification."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは自由を奪った側の理屈を、そのまま民衆が自由を取り戻す側にも適用して矛盾を示す。",
+              "en": "The argument applies the captors’ claimed right to the people’s recovery of freedom, exposing a problem in rule by force."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1324,15 +2933,63 @@
           "ttsText": "for, recovering its freedom by the same right that took it away, either it is justified in reclaiming it, or those who deprived it of freedom were not justified in doing so.”",
           "vocabulary": [
             {
-              "term": "reclaiming",
+              "term": "recovering its freedom",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "民衆が失った自由を取り戻すこと。",
+                "en": "A people regaining its lost liberty."
+              }
+            },
+            {
+              "term": "same right",
+              "meaning": {
+                "ja": "自由を奪う側が主張したのと同じ権利。",
+                "en": "The same claimed right used to take it away."
+              }
+            },
+            {
+              "term": "reclaiming it",
+              "meaning": {
+                "ja": "自由を再び自分のものとすること。",
+                "en": "Taking liberty back."
+              }
+            },
+            {
+              "term": "deprived it of freedom",
+              "meaning": {
+                "ja": "民衆から自由を奪った。",
+                "en": "Took liberty away from the people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "for…",
+              "explanation": {
+                "ja": "前文の「支配を振り払う方がよい」の理由を導く。",
+                "en": "For introduces the reason for the preceding judgment."
+              }
+            },
+            {
+              "point": "either…or…",
+              "explanation": {
+                "ja": "自由の回復に根拠があるか、元の剥奪に根拠がないかを二者択一にする。",
+                "en": "The alternatives give either a justified recovery or an unjustified original seizure."
+              }
+            },
+            {
+              "point": "that took it away",
+              "explanation": {
+                "ja": "関係節がsame rightを修飾し、itはfreedomを受ける。",
+                "en": "The relative clause modifies right; it refers to freedom."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "its と it はa peopleとfreedomを文脈に応じて指す。力だけの論理では支配者だけに永続的な権利を与えられない。",
+              "en": "Its refers to the people; it in took it away refers to freedom. Force alone cannot reserve permanent right for the ruler."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1349,15 +3006,63 @@
           "ttsText": "pues, al recobrar su libertad por el mismo derecho que se la arrebató, o tiene fundamento para recuperarla, o no lo había para quitársela».",
           "vocabulary": [
             {
-              "term": "recuperarla",
+              "term": "recobrar su libertad",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "民衆が自由を取り戻す。",
+                "en": "A people recovering its freedom."
+              }
+            },
+            {
+              "term": "mismo derecho",
+              "meaning": {
+                "ja": "自由を奪った側が主張したのと同じ権利。",
+                "en": "The same claimed right used for the seizure."
+              }
+            },
+            {
+              "term": "arrebató",
+              "meaning": {
+                "ja": "力ずくで奪った。",
+                "en": "Took away by force."
+              }
+            },
+            {
+              "term": "fundamento",
+              "meaning": {
+                "ja": "正当化の根拠。",
+                "en": "A basis for justification."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "pues…",
+              "explanation": {
+                "ja": "前文の評価の理由を導く。",
+                "en": "Pues introduces the reason for the preceding judgment."
+              }
+            },
+            {
+              "point": "al recobrar…",
+              "explanation": {
+                "ja": "al＋不定詞が自由を取り戻す行為を前提として置く。",
+                "en": "Al plus infinitive sets up the act of recovering freedom."
+              }
+            },
+            {
+              "point": "o…o…",
+              "explanation": {
+                "ja": "回復に根拠があるか、元の剥奪にはなかったかという選択肢を示す。",
+                "en": "The alternatives say either recovery is justified or the original seizure was not."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "se la arrebató のlaはlibertadを受け、seはその自由を奪われた民衆を指す。",
+              "en": "La refers to libertad; se refers to the people from whom it was taken."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1374,18 +3079,61 @@
           "ttsText": "car, recouvrant sa liberté par le même droit qui la lui a ravie, ou il est fondé à la reprendre, ou on ne l’était point à la lui ôter. »",
           "vocabulary": [
             {
-              "term": "reprendre",
+              "term": "recouvrant sa liberté",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "自由を取り戻すこと。",
+                "en": "Recovering one’s liberty."
+              }
+            },
+            {
+              "term": "même droit",
+              "meaning": {
+                "ja": "奪う側が用いたのと同じ権利。",
+                "en": "The same claimed right used to seize liberty."
+              }
+            },
+            {
+              "term": "ravie",
+              "meaning": {
+                "ja": "奪われた。",
+                "en": "Taken away."
+              }
+            },
+            {
+              "term": "fondé à la reprendre",
+              "meaning": {
+                "ja": "取り戻す正当な根拠がある。",
+                "en": "Justified in taking it back."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "car…",
+              "explanation": {
+                "ja": "前文の評価を説明する理由を導く。",
+                "en": "Car introduces the reason for the preceding judgment."
+              }
+            },
+            {
+              "point": "recouvrant…",
+              "explanation": {
+                "ja": "現在分詞が民衆による自由の回復を前提として置く。",
+                "en": "The participle sets the people’s recovery of liberty as the premise."
+              }
+            },
+            {
+              "point": "ou…ou…",
+              "explanation": {
+                "ja": "回復の正当性か、元の剥奪の不当性かを示す。",
+                "en": "The alternatives give either justified recovery or unjustified seizure."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "ou … ou … は二者択一。la は liberté、lui は peuple を指します。ne l’était point の le は fondé を受け、「根拠がある状態」を指します。",
-              "en": "Ou … ou … sets out alternatives. La refers to liberté, lui to peuple. In ne l’était point, le stands for fondé, the state of being justified."
+              "ja": "la lui a ravie のlaはliberté、luiはpeupleを受け、奪われた対象と人々を分ける。",
+              "en": "La refers to liberty and lui to the people, separating the thing taken from those deprived."
             }
           ],
           "translation": {
@@ -1404,15 +3152,63 @@
           "ttsText": "denn wenn es seine Freiheit mit demselben Recht zurückgewinnt, mit dem man sie ihm geraubt hat, ist es entweder berechtigt, sie wiederzunehmen, oder man war nicht berechtigt, sie ihm zu nehmen.“",
           "vocabulary": [
             {
-              "term": "wiederzunehmen",
+              "term": "Freiheit zurückgewinnt",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "失った自由を取り戻す。",
+                "en": "Regains lost freedom."
+              }
+            },
+            {
+              "term": "demselben Recht",
+              "meaning": {
+                "ja": "自由を奪った際と同じ権利。",
+                "en": "The same claimed right used in taking it away."
+              }
+            },
+            {
+              "term": "berechtigt",
+              "meaning": {
+                "ja": "正当な権利がある。",
+                "en": "Justified or entitled."
+              }
+            },
+            {
+              "term": "geraubt",
+              "meaning": {
+                "ja": "奪った。",
+                "en": "Stole or forcibly took."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "denn wenn…",
+              "explanation": {
+                "ja": "前文の評価を、自由の回復を想定して説明する。",
+                "en": "Denn introduces the reason; wenn sets the case of recovering freedom."
+              }
+            },
+            {
+              "point": "entweder…oder…",
+              "explanation": {
+                "ja": "回復が正当か、元の剥奪が不当かを二者択一にする。",
+                "en": "The alternatives say either recovery is justified or seizure was not."
+              }
+            },
+            {
+              "point": "mit demselben Recht…mit dem…",
+              "explanation": {
+                "ja": "与格の同じ権利を繰り返し、双方に同一基準を適用する。",
+                "en": "The repeated right applies the same standard to both sides."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "es はVolk、sie はFreiheitを受ける。民衆から自由を奪った側だけに特権を認めない論理である。",
+              "en": "Es refers to the people and sie to freedom; the argument denies a special right to those who seized it."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1429,15 +3225,63 @@
           "ttsText": "ведь, возвращая себе свободу по тому же праву, по которому её у него отняли, он либо имеет основание вернуть её, либо не было основания её отнимать».",
           "vocabulary": [
             {
-              "term": "вернуть",
+              "term": "возвращая себе свободу",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "自分の自由を取り戻しながら。",
+                "en": "Recovering one’s own freedom."
+              }
+            },
+            {
+              "term": "по тому же праву",
+              "meaning": {
+                "ja": "自由を奪う際と同じ権利によって。",
+                "en": "By the same claimed right."
+              }
+            },
+            {
+              "term": "имеет основание",
+              "meaning": {
+                "ja": "正当な根拠がある。",
+                "en": "Has justification."
+              }
+            },
+            {
+              "term": "отнимать",
+              "meaning": {
+                "ja": "奪い取る。",
+                "en": "To take away."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "ведь…",
+              "explanation": {
+                "ja": "前文の判断の理由を導く。",
+                "en": "Ведь introduces the reason for the preceding judgment."
+              }
+            },
+            {
+              "point": "либо…либо…",
+              "explanation": {
+                "ja": "取り戻す側に根拠があるか、奪った側に根拠がなかったかを並べる。",
+                "en": "The alternatives set justified recovery against unjustified original seizure."
+              }
+            },
+            {
+              "point": "по которому…",
+              "explanation": {
+                "ja": "関係節がправуを修飾し、自由を奪ったときの権利と結ぶ。",
+                "en": "The relative clause links the same right to the original taking."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "её はсвободуを受ける。力で奪った側だけに永続的な権利を認めることはできないという議論である。",
+              "en": "Её refers to freedom; the argument resists granting permanent entitlement only to the captors."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1454,15 +3298,63 @@
           "ttsText": "لأنه إذ يسترد حريته بالحق نفسه الذي سلبه إياها، فإما أن يكون محقًا في استعادتها، وإما أن من سلبه إياها لم يكن محقًا في ذلك».",
           "vocabulary": [
             {
-              "term": "استعادتها",
+              "term": "يَسْتَرِدُّ حُرِّيَّتَهُ",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "自分の自由を取り戻す。",
+                "en": "Recovers his or its freedom."
+              }
+            },
+            {
+              "term": "بِالْحَقِّ نَفْسِهِ",
+              "meaning": {
+                "ja": "奪う側が用いたのと同じ権利。",
+                "en": "By the very same claimed right."
+              }
+            },
+            {
+              "term": "سَلَبَهُ إِيَّاهَا",
+              "meaning": {
+                "ja": "彼からそれを奪った。",
+                "en": "Took it away from him."
+              }
+            },
+            {
+              "term": "مُحِقًّا",
+              "meaning": {
+                "ja": "正当な根拠がある。",
+                "en": "Justified."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "لِأَنَّهُ…",
+              "explanation": {
+                "ja": "前文で支配を脱する方がよいとした理由を示す。",
+                "en": "لأنه explains why throwing off domination is judged better."
+              }
+            },
+            {
+              "point": "فَإِمَّا…وَإِمَّا…",
+              "explanation": {
+                "ja": "回復が正当か、元の剥奪が不当かを二者択一にする。",
+                "en": "The paired forms set justified recovery against unjustified original seizure."
+              }
+            },
+            {
+              "point": "الَّذِي سَلَبَهُ…",
+              "explanation": {
+                "ja": "関係節が同じ権利を説明し、自由を奪った側の論理を取り上げる。",
+                "en": "The relative clause describes the same right as the one used in taking liberty."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "حُرِّيَّتَهُ のهは民衆を受け、إِيَّاهَا のهاは自由を指す。",
+              "en": "The suffix ه in حريته refers to the people; ها in إياها refers to freedom."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1487,15 +3379,63 @@
           "ttsText": "因为，它凭借夺走其自由的同一种权利重获自由，那么，要么它有理由夺回自由，要么当初就没有理由夺走它的自由。”",
           "vocabulary": [
             {
-              "term": "夺回",
+              "term": "重获自由",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "失った自由を取り戻す。",
+                "en": "To regain lost liberty."
+              }
+            },
+            {
+              "term": "同一种权利",
+              "meaning": {
+                "ja": "奪った側が主張したのと同じ権利。",
+                "en": "The same claimed right used for the seizure."
+              }
+            },
+            {
+              "term": "有理由",
+              "meaning": {
+                "ja": "正当化する根拠がある。",
+                "en": "To have justification."
+              }
+            },
+            {
+              "term": "夺走",
+              "meaning": {
+                "ja": "自由を取り上げる。",
+                "en": "To take away liberty."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "因为…",
+              "explanation": {
+                "ja": "前文で支配を振り払うことを肯定した理由を導く。",
+                "en": "因为 introduces the reason for approving resistance."
+              }
+            },
+            {
+              "point": "要么…要么…",
+              "explanation": {
+                "ja": "自由の回復が正当か、元の剥奪が不当かを並べる。",
+                "en": "The alternatives set justified recovery against unjustified original seizure."
+              }
+            },
+            {
+              "point": "凭借…重获…",
+              "explanation": {
+                "ja": "何に基づいて自由を取り戻すかを示す。",
+                "en": "凭借 names the basis used to reclaim liberty."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "它 は前文の民族を受け、其自由 はその民衆の自由を指す。力の論理を支配者だけの特権にはできない。",
+              "en": "它 refers to the people and 其自由 to their liberty; the logic of force cannot be reserved for rulers."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1520,15 +3460,63 @@
           "ttsText": "빼앗겼던 것과 같은 권리로 자유를 되찾는 것이므로, 되찾을 정당한 근거가 있거나, 애초에 빼앗을 정당한 근거가 없었던 셈이기 때문이다.”",
           "vocabulary": [
             {
-              "term": "되찾",
+              "term": "자유를 되찾다",
               "meaning": {
-                "ja": "奪われた自由を再び得ること。",
-                "en": "Recovering freedom that has been taken away."
+                "ja": "奪われた自由を取り戻す。",
+                "en": "To reclaim lost freedom."
+              }
+            },
+            {
+              "term": "같은 권리",
+              "meaning": {
+                "ja": "奪った側が主張したのと同じ権利。",
+                "en": "The same claimed right used in the seizure."
+              }
+            },
+            {
+              "term": "정당한 근거",
+              "meaning": {
+                "ja": "正しいと認められる理由。",
+                "en": "A legitimate basis."
+              }
+            },
+            {
+              "term": "빼앗다",
+              "meaning": {
+                "ja": "他人の自由を奪う。",
+                "en": "To take another’s freedom."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-므로…때문이다",
+              "explanation": {
+                "ja": "前文の評価の理由として、自由を取り戻す論理を示す。",
+                "en": "The causal endings connect the argument to the preceding judgment."
+              }
+            },
+            {
+              "point": "-거나…없었던 셈",
+              "explanation": {
+                "ja": "回復に根拠があるか、元の剥奪にはなかったかという二択を示す。",
+                "en": "The alternatives give either justified recovery or unjustified original seizure."
+              }
+            },
+            {
+              "point": "애초에…",
+              "explanation": {
+                "ja": "最初に自由を奪った時点へ議論を戻す。",
+                "en": "애초에 directs attention back to the original act of taking liberty."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは同じ基準を奪う側と取り戻す側に当て、力だけから一方の永続的な権利を導けないとする。",
+              "en": "The same standard is applied to captors and people reclaiming freedom; force alone cannot secure permanent entitlement for one side."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1550,15 +3538,49 @@
           "ttsText": "だが、しゃかいちつじょは、ほかのあらゆるけんりのきそとなるしんせいなけんりである。",
           "vocabulary": [
             {
+              "term": "社会秩序",
+              "meaning": {
+                "ja": "社会を成り立たせる人々の関係と制度。",
+                "en": "The arrangement of social relations and institutions."
+              }
+            },
+            {
+              "term": "神聖な権利",
+              "meaning": {
+                "ja": "重く尊重すべき権利。",
+                "en": "A right treated as deeply worthy of respect."
+              }
+            },
+            {
               "term": "基礎",
               "meaning": {
-                "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "ja": "他の権利が依拠する土台。",
+                "en": "The foundation on which other rights rest."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "だが…",
+              "explanation": {
+                "ja": "力だけを基準にした仮の議論から、社会秩序の権利へ転じる。",
+                "en": "The conjunction turns from the provisional force argument to the right of social order."
+              }
+            },
+            {
+              "point": "…基礎となる…",
+              "explanation": {
+                "ja": "関係する節が、その権利の重要性を他の権利との関係で示す。",
+                "en": "The modifier explains the importance of social order through its support of other rights."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "社会秩序が重要だと認めたうえで、次の文ではその権利が自然に由来するのかを問う。",
+              "en": "The author affirms the importance of social order before asking where its right comes from."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1575,15 +3597,49 @@
           "ttsText": "But the social order is a sacred right that serves as the foundation of all the others.",
           "vocabulary": [
             {
+              "term": "social order",
+              "meaning": {
+                "ja": "社会の制度と人々の関係の秩序。",
+                "en": "The ordering of social institutions and relations."
+              }
+            },
+            {
+              "term": "sacred right",
+              "meaning": {
+                "ja": "重く尊重されるべき権利。",
+                "en": "A right held to deserve deep respect."
+              }
+            },
+            {
               "term": "foundation",
               "meaning": {
-                "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "ja": "ほかの権利を支える土台。",
+                "en": "The basis supporting other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "But…",
+              "explanation": {
+                "ja": "力だけを考える引用から本論へ戻る。",
+                "en": "But turns back from the provisional force-based quotation."
+              }
+            },
+            {
+              "point": "that serves as…",
+              "explanation": {
+                "ja": "関係節がsacred rightを修飾し、他の権利の土台という役割を示す。",
+                "en": "The relative clause modifies sacred right and states its foundational role."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "all the others は他の権利すべてを指す。社会秩序の権利は重要だが、次文でその起源が問われる。",
+              "en": "All the others means other rights; the next sentence asks the origin of this important right."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1600,15 +3656,49 @@
           "ttsText": "Pero el orden social es un derecho sagrado que sirve de base a todos los demás.",
           "vocabulary": [
             {
+              "term": "orden social",
+              "meaning": {
+                "ja": "社会の制度と関係の秩序。",
+                "en": "The order of social institutions and relations."
+              }
+            },
+            {
+              "term": "derecho sagrado",
+              "meaning": {
+                "ja": "深く尊重される権利。",
+                "en": "A right considered deeply worthy of respect."
+              }
+            },
+            {
               "term": "base",
               "meaning": {
                 "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "en": "A foundation for other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Pero…",
+              "explanation": {
+                "ja": "前の力だけに基づく仮の議論から本論へ転じる。",
+                "en": "Pero turns from the provisional argument based on force."
+              }
+            },
+            {
+              "point": "que sirve de base…",
+              "explanation": {
+                "ja": "関係節がderecho sagradoを修飾し、その役割を示す。",
+                "en": "The relative clause modifies derecho sagrado and explains its role."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "todos los demás は他の権利すべてを指す。社会秩序の重要性を認めた後、その根拠を問う。",
+              "en": "Todos los demás refers to all other rights; the argument next seeks the basis of social order."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1625,18 +3715,47 @@
           "ttsText": "Mais l’ordre social est un droit sacré qui sert de base à tous les autres.",
           "vocabulary": [
             {
+              "term": "ordre social",
+              "meaning": {
+                "ja": "社会の制度と人々の関係の秩序。",
+                "en": "The ordering of social institutions and relations."
+              }
+            },
+            {
+              "term": "droit sacré",
+              "meaning": {
+                "ja": "深く尊重される権利。",
+                "en": "A right considered sacred."
+              }
+            },
+            {
               "term": "base",
               "meaning": {
                 "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "en": "A foundation for other rights."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Mais…",
+              "explanation": {
+                "ja": "力に関する仮の議論から社会秩序の権利へ転じる。",
+                "en": "Mais turns from provisional reasoning about force to social order."
+              }
+            },
+            {
+              "point": "qui sert de base…",
+              "explanation": {
+                "ja": "関係節がdroit sacréを修飾し、他の権利の土台であると示す。",
+                "en": "The relative clause modifies droit sacré and gives its foundational role."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "Mais で、力だけを扱った仮定から社会秩序の正当性へ議論を戻します。tous les autres には droits が省略されています。",
-              "en": "Mais turns from the hypothetical account based only on force to the legitimacy of social order. Droits is understood after tous les autres."
+              "ja": "tous les autres は他の権利を指す。社会秩序の権利を尊重しつつ、次の文ではその起源を調べる。",
+              "en": "Tous les autres refers to other rights; the next sentence examines this right’s origin."
             }
           ],
           "translation": {
@@ -1655,15 +3774,49 @@
           "ttsText": "Doch die gesellschaftliche Ordnung ist ein heiliges Recht, das allen anderen als Grundlage dient.",
           "vocabulary": [
             {
+              "term": "gesellschaftliche Ordnung",
+              "meaning": {
+                "ja": "社会の制度と関係の秩序。",
+                "en": "The ordering of social institutions and relations."
+              }
+            },
+            {
+              "term": "heiliges Recht",
+              "meaning": {
+                "ja": "深く尊重される権利。",
+                "en": "A sacred right."
+              }
+            },
+            {
               "term": "Grundlage",
               "meaning": {
                 "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "en": "A foundation for other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Doch…",
+              "explanation": {
+                "ja": "力だけの仮の議論から本論へ転じる。",
+                "en": "Doch turns from the provisional force argument."
+              }
+            },
+            {
+              "point": "das allen anderen…dient",
+              "explanation": {
+                "ja": "関係節dasがRechtを受け、他の権利の土台となることを示す。",
+                "en": "The relative clause with das refers to Recht and gives its role as a foundation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "allen anderen は他の権利を受ける。社会秩序は重要だが、続いてその権利の出所が問われる。",
+              "en": "Allen anderen refers to other rights; the origin of this important right is then examined."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1680,15 +3833,49 @@
           "ttsText": "Но общественный порядок — священное право, служащее основанием всех остальных прав.",
           "vocabulary": [
             {
+              "term": "общественный порядок",
+              "meaning": {
+                "ja": "社会の制度と関係の秩序。",
+                "en": "The order of social institutions and relations."
+              }
+            },
+            {
+              "term": "священное право",
+              "meaning": {
+                "ja": "深く尊重すべき権利。",
+                "en": "A sacred right."
+              }
+            },
+            {
               "term": "основанием",
               "meaning": {
-                "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "ja": "他の権利を支える基礎。",
+                "en": "A foundation for other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Но…",
+              "explanation": {
+                "ja": "力に基づく仮の議論から社会秩序の権利へ転じる。",
+                "en": "Но turns from provisional force-based reasoning to social order."
+              }
+            },
+            {
+              "point": "служащее основанием…",
+              "explanation": {
+                "ja": "分詞がправоを修飾し、他の権利の土台とする。",
+                "en": "The participle modifies право and identifies its foundational role."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "всех остальных прав は他の権利すべてを指す。続く文はその基礎となる権利の出所を問う。",
+              "en": "Всех остальных прав means all other rights; the next sentence asks where this foundational right originates."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1705,15 +3892,49 @@
           "ttsText": "لكن النظام الاجتماعي حق مقدس يقوم عليه سائر الحقوق.",
           "vocabulary": [
             {
-              "term": "يقوم عليه",
+              "term": "النِّظَامُ الِاجْتِمَاعِيُّ",
               "meaning": {
-                "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "ja": "社会の制度と関係の秩序。",
+                "en": "The order of social institutions and relations."
+              }
+            },
+            {
+              "term": "حَقٌّ مُقَدَّسٌ",
+              "meaning": {
+                "ja": "深く尊重される権利。",
+                "en": "A sacred right."
+              }
+            },
+            {
+              "term": "سَائِرُ الْحُقُوقِ",
+              "meaning": {
+                "ja": "ほかの権利すべて。",
+                "en": "All the other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "لَكِنْ…",
+              "explanation": {
+                "ja": "力だけの仮の議論から社会秩序の権利へ転じる。",
+                "en": "لكن turns from provisional force-based reasoning."
+              }
+            },
+            {
+              "point": "يَقُومُ عَلَيْهِ…",
+              "explanation": {
+                "ja": "عليهがこの権利を受け、他の権利がその上に立つと述べる。",
+                "en": "عليه refers to this right and says other rights rest upon it."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "神聖な権利と呼んでも自然に由来するとは限らない。次の文でその起源を問う。",
+              "en": "Calling it sacred does not settle whether it arises from nature; the next unit addresses its source."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1738,15 +3959,49 @@
           "ttsText": "但是，社会秩序是一项神圣的权利，是其他一切权利的基础。",
           "vocabulary": [
             {
+              "term": "社会秩序",
+              "meaning": {
+                "ja": "社会の制度と人々の関係の秩序。",
+                "en": "The ordering of social institutions and relations."
+              }
+            },
+            {
+              "term": "神圣的权利",
+              "meaning": {
+                "ja": "深く尊重される権利。",
+                "en": "A sacred right."
+              }
+            },
+            {
               "term": "基础",
               "meaning": {
-                "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "ja": "他の権利が依拠する土台。",
+                "en": "A foundation for other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "但是…",
+              "explanation": {
+                "ja": "力だけに基づく仮の議論から本論へ戻る。",
+                "en": "但是 returns from the provisional force argument."
+              }
+            },
+            {
+              "point": "是…是…",
+              "explanation": {
+                "ja": "同じ主語に二つの述語を重ね、権利の性格と役割を示す。",
+                "en": "The repeated 是 gives both the status and function of social order."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "其他一切权利 は社会秩序以外の権利を指す。次の文では、この基礎的な権利の起源を問う。",
+              "en": "其他一切权利 means rights other than social order; the next unit examines its origin."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1771,15 +4026,49 @@
           "ttsText": "그러나 사회 질서는 다른 모든 권리의 토대가 되는 신성한 권리이다.",
           "vocabulary": [
             {
+              "term": "사회 질서",
+              "meaning": {
+                "ja": "社会の制度と関係の秩序。",
+                "en": "The order of social institutions and relations."
+              }
+            },
+            {
+              "term": "신성한 권리",
+              "meaning": {
+                "ja": "深く尊重すべき権利。",
+                "en": "A sacred right."
+              }
+            },
+            {
               "term": "토대",
               "meaning": {
-                "ja": "他の権利を支える土台。",
-                "en": "The basis on which other rights rest."
+                "ja": "他の権利を支える基礎。",
+                "en": "A foundation for other rights."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "그러나…",
+              "explanation": {
+                "ja": "力だけを考えた仮の議論から本論へ転じる。",
+                "en": "그러나 turns from the provisional force argument."
+              }
+            },
+            {
+              "point": "-가 되는…",
+              "explanation": {
+                "ja": "社会秩序が他の権利の土台になることを修飾節で述べる。",
+                "en": "The modifier says social order forms the basis of other rights."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "다른 모든 권리 は社会秩序以外の権利を指す。次の文でその基礎の起源を問う。",
+              "en": "다른 모든 권리 refers to other rights; the next sentence asks the source of this foundational right."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1801,15 +4090,49 @@
           "ttsText": "しかし、このけんりはしぜんからしょうじるものではない。したがって、それはやくそくごとにもとづいている。",
           "vocabulary": [
             {
+              "term": "この権利",
+              "meaning": {
+                "ja": "前文で述べた社会秩序の権利。",
+                "en": "The right of social order mentioned before."
+              }
+            },
+            {
+              "term": "自然から生じる",
+              "meaning": {
+                "ja": "人間の自然な状態から直接与えられる。",
+                "en": "Arise directly from nature."
+              }
+            },
+            {
               "term": "約束事",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の間で取り決めた合意や慣行。",
+                "en": "Agreements or conventions among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "しかし…したがって…",
+              "explanation": {
+                "ja": "自然由来を否定し、合意に基づくという結論へ進む。",
+                "en": "The paired connectives reject natural origin and infer a basis in agreement."
+              }
+            },
+            {
+              "point": "それは…",
+              "explanation": {
+                "ja": "それは前文の「この権利」を受け、同じ権利の根拠を述べる。",
+                "en": "それ refers back to the same right and states its basis."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "社会秩序の権利を重要と認めつつ、その根拠は自然ではなく人々の合意にあると主張する。",
+              "en": "The right is important, yet its basis is said to lie in human agreement rather than nature."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1826,15 +4149,49 @@
           "ttsText": "Yet this right does not come from nature; it is therefore founded on agreements.",
           "vocabulary": [
             {
+              "term": "this right",
+              "meaning": {
+                "ja": "前文の社会秩序の権利。",
+                "en": "The right of social order just mentioned."
+              }
+            },
+            {
+              "term": "nature",
+              "meaning": {
+                "ja": "人間の自然な状態や自然の与えるもの。",
+                "en": "The natural condition or natural source."
+              }
+            },
+            {
               "term": "agreements",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の間の取り決め。",
+                "en": "Arrangements made among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Yet…",
+              "explanation": {
+                "ja": "重要な権利だという前文から、その起源への問いへ転じる。",
+                "en": "Yet shifts from the right’s importance to its source."
+              }
+            },
+            {
+              "point": "does not…; it is therefore…",
+              "explanation": {
+                "ja": "自然由来を否定してから、合意に基づくと推論する。",
+                "en": "The two clauses reject a natural source and infer a conventional one."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "it はthis rightを受ける。社会秩序の権利は神聖とされても、人々の合意によって成立すると述べる。",
+              "en": "It refers to this right; sacred status is consistent here with a basis in human agreements."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1851,15 +4208,49 @@
           "ttsText": "Sin embargo, este derecho no procede de la naturaleza; se funda, por tanto, en convenciones.",
           "vocabulary": [
             {
+              "term": "este derecho",
+              "meaning": {
+                "ja": "前文の社会秩序の権利。",
+                "en": "The right of social order from the previous sentence."
+              }
+            },
+            {
+              "term": "naturaleza",
+              "meaning": {
+                "ja": "自然、合意に先立つ状態。",
+                "en": "Nature as distinct from human agreement."
+              }
+            },
+            {
               "term": "convenciones",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の取り決め・合意。",
+                "en": "Human conventions or agreements."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Sin embargo…",
+              "explanation": {
+                "ja": "前文で権利を重く評価した後、その自然由来を否定する。",
+                "en": "Sin embargo turns from the right’s importance to a denial of natural origin."
+              }
+            },
+            {
+              "point": "no procede…; se funda…",
+              "explanation": {
+                "ja": "出所を否定し、次に合意という根拠を示す。",
+                "en": "The clauses deny one source and give another: convention."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "se funda の主語はeste derechoで、社会秩序の権利が合意に基づくと述べる。",
+              "en": "The subject of se funda is este derecho: the right rests on conventions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1876,18 +4267,47 @@
           "ttsText": "Cependant ce droit ne vient point de la nature ; il est donc fondé sur des conventions.",
           "vocabulary": [
             {
+              "term": "ce droit",
+              "meaning": {
+                "ja": "社会秩序の権利。",
+                "en": "The right of social order."
+              }
+            },
+            {
+              "term": "nature",
+              "meaning": {
+                "ja": "合意に先立つ自然。",
+                "en": "Nature as distinct from agreement."
+              }
+            },
+            {
               "term": "conventions",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の取り決め。",
+                "en": "Human conventions or agreements."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Cependant…",
+              "explanation": {
+                "ja": "前文の権利の重要性を認めたうえで、自然由来を否定する。",
+                "en": "Cependant turns from the right’s importance to its origin."
+              }
+            },
+            {
+              "point": "ne vient point…; il est donc…",
+              "explanation": {
+                "ja": "否定とdoncの推論で、自然ではなく合意を根拠とする。",
+                "en": "The negative and donc infer convention rather than nature as the basis."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "donc が前半からの結論を示します。conventions はここでは会議ではなく、人々の取り決めや合意です。",
-              "en": "Donc marks a conclusion from the first clause. Conventions here means agreements or arrangements, not conferences."
+              "ja": "il はce droitを受ける。神聖な権利でも、人々の合意から成立すると論じる。",
+              "en": "Il refers to ce droit; even this sacred right is said to arise from agreements."
             }
           ],
           "translation": {
@@ -1906,15 +4326,49 @@
           "ttsText": "Dieses Recht stammt jedoch nicht aus der Natur; es beruht folglich auf Vereinbarungen.",
           "vocabulary": [
             {
+              "term": "Dieses Recht",
+              "meaning": {
+                "ja": "前文の社会秩序の権利。",
+                "en": "The right of social order."
+              }
+            },
+            {
+              "term": "Natur",
+              "meaning": {
+                "ja": "人間の合意に先立つ自然。",
+                "en": "Nature before human agreement."
+              }
+            },
+            {
               "term": "Vereinbarungen",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の取り決め・合意。",
+                "en": "Agreements among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "jedoch nicht…",
+              "explanation": {
+                "ja": "前文の権利の重要性から、その自然由来を否定する。",
+                "en": "Jedoch turns from the right’s importance to deny a natural source."
+              }
+            },
+            {
+              "point": "folglich…",
+              "explanation": {
+                "ja": "自然由来でないことから、合意に基づくという結論を導く。",
+                "en": "Folglich marks the inference that agreements provide its basis."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "es はDieses Rechtを受ける。社会秩序の権利を、人々の取り決めによって成立するものとする。",
+              "en": "Es refers to Dieses Recht; the right is grounded in human arrangements."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1931,15 +4385,49 @@
           "ttsText": "Однако это право не происходит от природы; следовательно, оно основано на соглашениях.",
           "vocabulary": [
             {
+              "term": "это право",
+              "meaning": {
+                "ja": "社会秩序の権利。",
+                "en": "The right of social order."
+              }
+            },
+            {
+              "term": "природы",
+              "meaning": {
+                "ja": "人間の合意に先立つ自然。",
+                "en": "Nature as distinct from agreement."
+              }
+            },
+            {
               "term": "соглашениях",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の取り決め。",
+                "en": "Agreements among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Однако…",
+              "explanation": {
+                "ja": "権利の重要性を認めたうえで、その自然由来を否定する。",
+                "en": "Однако turns from the right’s importance to deny a natural origin."
+              }
+            },
+            {
+              "point": "следовательно…",
+              "explanation": {
+                "ja": "自然に由来しないことから、合意に基づくという結論を導く。",
+                "en": "Следовательно signals the inference to agreements."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "оно はэто правоを受ける。権利が神聖とされても、その起源は人々の合意にあると論じる。",
+              "en": "Оно refers to это право; its sacred status does not make its source natural."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1956,15 +4444,49 @@
           "ttsText": "غير أن هذا الحق لا يأتي من الطبيعة، فهو إذن قائم على اتفاقات.",
           "vocabulary": [
             {
-              "term": "اتفاقات",
+              "term": "هَذَا الْحَقُّ",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "前文の社会秩序の権利。",
+                "en": "The right of social order just discussed."
+              }
+            },
+            {
+              "term": "الطَّبِيعَةِ",
+              "meaning": {
+                "ja": "人々の取り決めに先立つ自然。",
+                "en": "Nature as distinct from human agreement."
+              }
+            },
+            {
+              "term": "اتِّفَاقَاتٍ",
+              "meaning": {
+                "ja": "人々の間の合意。",
+                "en": "Agreements among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "غَيْرَ أَنَّ…",
+              "explanation": {
+                "ja": "前文で権利を重く評価した後、起源の説明へ転じる。",
+                "en": "غير أن turns from the right’s importance to its origin."
+              }
+            },
+            {
+              "point": "لَا يَأْتِي…فَهُوَ إِذَنْ…",
+              "explanation": {
+                "ja": "自然由来を否定し、合意という基盤を結論する。",
+                "en": "The negative clause and إذن infer an agreed basis rather than a natural one."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "هُوَ はهذا الحقを受け、社会秩序を支える権利の根拠を示す。",
+              "en": "هو refers to هذا الحق and states the basis of the right supporting social order."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1989,15 +4511,49 @@
           "ttsText": "然而，这项权利并非来自自然，因此它建立在约定之上。",
           "vocabulary": [
             {
+              "term": "这项权利",
+              "meaning": {
+                "ja": "前文の社会秩序の権利。",
+                "en": "The right of social order from the preceding sentence."
+              }
+            },
+            {
+              "term": "自然",
+              "meaning": {
+                "ja": "人間の取り決めとは別の自然。",
+                "en": "Nature as distinct from convention."
+              }
+            },
+            {
               "term": "约定",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々が合意した取り決め。",
+                "en": "Agreements or conventions among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "然而…因此…",
+              "explanation": {
+                "ja": "自然由来を否定した後、合意に基づくと結論する。",
+                "en": "然而 introduces the denial of natural origin; 因此 marks the inference."
+              }
+            },
+            {
+              "point": "并非来自…",
+              "explanation": {
+                "ja": "自然が出所ではないことを明示する。",
+                "en": "并非来自 explicitly rules out nature as the source."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "它 は这项权利を受け、社会秩序の権利は自然ではなく人々の合意に基づくと述べる。",
+              "en": "它 refers to this right; social order rests on human conventions rather than nature."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2018,15 +4574,49 @@
           "ttsText": "하지만 이 권리는 자연에서 나오지 않는다. 그러므로 그것은 합의에 기초한다.",
           "vocabulary": [
             {
+              "term": "이 권리",
+              "meaning": {
+                "ja": "前文の社会秩序の権利。",
+                "en": "The right of social order just mentioned."
+              }
+            },
+            {
+              "term": "자연에서 나오지 않는다",
+              "meaning": {
+                "ja": "自然に由来しない。",
+                "en": "Does not arise from nature."
+              }
+            },
+            {
               "term": "합의",
               "meaning": {
-                "ja": "人々の間で定められた取り決め。",
-                "en": "Arrangements established by agreement among people."
+                "ja": "人々の間で結ばれた取り決め。",
+                "en": "Agreement among people."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "하지만…",
+              "explanation": {
+                "ja": "前文の権利の重要性から、その起源への問いに転じる。",
+                "en": "하지만 turns from the right’s importance to its origin."
+              }
+            },
+            {
+              "point": "그러므로…",
+              "explanation": {
+                "ja": "自然に由来しないことから、合意に基づくと結論する。",
+                "en": "그러므로 signals the inference to agreement."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그것 は이 권리を受ける。社会秩序の権利は重要でも、自然ではなく人間の合意によるとする。",
+              "en": "그것 refers to this right; its importance is compatible with a basis in human agreement."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2048,15 +4638,49 @@
           "ttsText": "もんだいは、それらのやくそくごとがどのようなものかをしることにある。",
           "vocabulary": [
             {
-              "term": "知る",
+              "term": "問題",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "これから明らかにすべき論点。",
+                "en": "The question now to be settled."
+              }
+            },
+            {
+              "term": "それらの約束事",
+              "meaning": {
+                "ja": "前文で社会秩序の根拠とされた合意。",
+                "en": "The agreements just identified as the basis of social order."
+              }
+            },
+            {
+              "term": "どのようなものか",
+              "meaning": {
+                "ja": "内容や性質が何か。",
+                "en": "What those agreements are like."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…ことにある",
+              "explanation": {
+                "ja": "探究の中心を「知ること」として示す。",
+                "en": "The construction identifies determining the agreements as the central task."
+              }
+            },
+            {
+              "point": "それらの…",
+              "explanation": {
+                "ja": "複数の指示語が前文の「約束事」を受ける。",
+                "en": "The plural demonstrative links back to the agreements just mentioned."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "社会秩序が合意に基づくという主張を受け、次にその合意の具体的な内容を問う。",
+              "en": "Having grounded social order in agreement, the author turns to the content of those agreements."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2073,15 +4697,49 @@
           "ttsText": "The question is to determine what those agreements are.",
           "vocabulary": [
             {
+              "term": "the question",
+              "meaning": {
+                "ja": "これから解くべき問題。",
+                "en": "The issue to be settled."
+              }
+            },
+            {
               "term": "determine",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "明らかにする、特定する。",
+                "en": "To establish or identify."
+              }
+            },
+            {
+              "term": "those agreements",
+              "meaning": {
+                "ja": "前文の社会秩序を支える合意。",
+                "en": "The agreements said to support social order."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "The question is to…",
+              "explanation": {
+                "ja": "to不定詞が問題の内容を示す。",
+                "en": "The infinitive states what must be done to answer the question."
+              }
+            },
+            {
+              "point": "what those agreements are",
+              "explanation": {
+                "ja": "間接疑問が、合意の内容・性質を尋ねる。",
+                "en": "The embedded question asks what the agreements consist of."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "those は直前のagreementsを受ける。合意が根拠だというだけでは足りず、その中身を示す必要がある。",
+              "en": "Those refers to the agreements just named; calling them the basis is not yet an account of their content."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2098,15 +4756,49 @@
           "ttsText": "Se trata de saber cuáles son esas convenciones.",
           "vocabulary": [
             {
+              "term": "Se trata de",
+              "meaning": {
+                "ja": "問題は〜することだ。",
+                "en": "The issue is to do something."
+              }
+            },
+            {
               "term": "saber",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "知る、明らかにする。",
+                "en": "To know or determine."
+              }
+            },
+            {
+              "term": "esas convenciones",
+              "meaning": {
+                "ja": "前文の社会秩序を支える取り決め。",
+                "en": "Those conventions supporting social order."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Se trata de saber…",
+              "explanation": {
+                "ja": "非人称表現で探究の課題を示す。",
+                "en": "The impersonal construction states the inquiry’s task."
+              }
+            },
+            {
+              "point": "cuáles son…",
+              "explanation": {
+                "ja": "間接疑問が、どの取り決めなのかを尋ねる。",
+                "en": "The embedded question asks which conventions are at issue."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "esas は前文のconvencionesを受ける。社会秩序の基礎になる合意を具体的に特定する段階である。",
+              "en": "Esas points to the preceding conventions; the next step is to identify them concretely."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2123,18 +4815,47 @@
           "ttsText": "Il s’agit de savoir quelles sont ces conventions.",
           "vocabulary": [
             {
+              "term": "Il s’agit de",
+              "meaning": {
+                "ja": "問題は〜することだ。",
+                "en": "The task is to do something."
+              }
+            },
+            {
               "term": "savoir",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "知る、明らかにする。",
+                "en": "To know or determine."
+              }
+            },
+            {
+              "term": "ces conventions",
+              "meaning": {
+                "ja": "前文の社会秩序の基礎となる取り決め。",
+                "en": "Those conventions supporting social order."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Il s’agit de savoir…",
+              "explanation": {
+                "ja": "非人称構文で探究の中心を示す。",
+                "en": "The impersonal construction identifies the task."
+              }
+            },
+            {
+              "point": "quelles sont…",
+              "explanation": {
+                "ja": "間接疑問が、どの合意なのかを問う。",
+                "en": "The embedded question asks what these agreements are."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "il s’agit de は「問題となっているのは〜である」。quelles sont ces conventions は savoir の目的となる間接疑問です。",
-              "en": "Il s’agit de means “what is at issue is …”. Quelles sont ces conventions is an embedded question governed by savoir."
+              "ja": "ces は前文のconventionsを受ける。合意が根拠だと述べた後、その内容を定める必要がある。",
+              "en": "Ces points back to the conventions just named; their content now needs to be determined."
             }
           ],
           "translation": {
@@ -2153,15 +4874,49 @@
           "ttsText": "Es gilt zu erkennen, welche Vereinbarungen dies sind.",
           "vocabulary": [
             {
+              "term": "Es gilt",
+              "meaning": {
+                "ja": "〜する必要がある。",
+                "en": "It is necessary to."
+              }
+            },
+            {
               "term": "erkennen",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "見極める、明らかにする。",
+                "en": "To recognize or establish."
+              }
+            },
+            {
+              "term": "Vereinbarungen",
+              "meaning": {
+                "ja": "社会秩序を支える人々の合意。",
+                "en": "Agreements that support social order."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Es gilt zu erkennen…",
+              "explanation": {
+                "ja": "非人称表現とzu不定詞で、次に行うべき探究を示す。",
+                "en": "The impersonal phrase with zu-infinitive states the next inquiry."
+              }
+            },
+            {
+              "point": "welche…dies sind",
+              "explanation": {
+                "ja": "間接疑問が、どの取り決めなのかを問う。",
+                "en": "The embedded question asks which agreements these are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "dies は前文で社会秩序の基礎とされた取り決めを指す。",
+              "en": "Dies points to the agreements just said to ground social order."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2178,15 +4933,49 @@
           "ttsText": "Нужно выяснить, что это за соглашения.",
           "vocabulary": [
             {
+              "term": "Нужно",
+              "meaning": {
+                "ja": "〜する必要がある。",
+                "en": "It is necessary."
+              }
+            },
+            {
               "term": "выяснить",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "調べて明らかにする。",
+                "en": "To find out."
+              }
+            },
+            {
+              "term": "соглашения",
+              "meaning": {
+                "ja": "社会秩序を支える合意。",
+                "en": "Agreements supporting social order."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Нужно выяснить…",
+              "explanation": {
+                "ja": "非人称表現が探究の課題を示す。",
+                "en": "The impersonal phrase states the task of inquiry."
+              }
+            },
+            {
+              "point": "что это за…",
+              "explanation": {
+                "ja": "「どのような〜か」を尋ねる形で、合意の内容を問う。",
+                "en": "This construction asks what kind of agreements these are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "это は前文の合意を受ける。起源を合意に求めた後、具体的に何が合意されたかを調べる。",
+              "en": "Это points back to the agreements; their specific content remains to be determined."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2203,15 +4992,49 @@
           "ttsText": "والمطلوب معرفة ما هذه الاتفاقات.",
           "vocabulary": [
             {
-              "term": "معرفة",
+              "term": "الْمَطْلُوبُ",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "求められていること。",
+                "en": "What is required."
+              }
+            },
+            {
+              "term": "مَعْرِفَةُ",
+              "meaning": {
+                "ja": "知ること、明らかにすること。",
+                "en": "Knowing or identifying."
+              }
+            },
+            {
+              "term": "هَذِهِ الِاتِّفَاقَاتُ",
+              "meaning": {
+                "ja": "前文の社会秩序の基礎となる合意。",
+                "en": "These agreements grounding social order."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "وَالْمَطْلُوبُ مَعْرِفَةُ…",
+              "explanation": {
+                "ja": "名詞文で次の探究課題を示す。",
+                "en": "The nominal clause states the next task of inquiry."
+              }
+            },
+            {
+              "point": "مَا هَذِهِ الِاتِّفَاقَاتُ",
+              "explanation": {
+                "ja": "疑問語ماで合意の中身を問う。",
+                "en": "The interrogative ما asks what these agreements are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "هَذِهِ は前文のاتفاقاتを受ける。社会秩序を支える合意の具体的な内容が未解決の問題である。",
+              "en": "هَذِهِ points to the preceding agreements; their concrete content remains the question."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2236,15 +5059,49 @@
           "ttsText": "问题在于弄清这些约定是什么。",
           "vocabulary": [
             {
+              "term": "问题",
+              "meaning": {
+                "ja": "次に答えるべき論点。",
+                "en": "The question to be settled."
+              }
+            },
+            {
               "term": "弄清",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "調べて明らかにする。",
+                "en": "To clarify or determine."
+              }
+            },
+            {
+              "term": "这些约定",
+              "meaning": {
+                "ja": "前文の社会秩序を支える合意。",
+                "en": "The agreements said to ground social order."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "问题在于…",
+              "explanation": {
+                "ja": "探究の中心を後続の句に置く。",
+                "en": "问题在于 identifies what the inquiry now turns on."
+              }
+            },
+            {
+              "point": "这些约定是什么",
+              "explanation": {
+                "ja": "疑問形を文中に置き、合意の内容を問う。",
+                "en": "The embedded question asks what the agreements are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "这些 は前文の约定を受ける。合意に基づくというだけでなく、その具体的な内容を確かめる。",
+              "en": "这些 refers to the agreements just mentioned; their contents must still be established."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2265,15 +5122,49 @@
           "ttsText": "문제는 그러한 합의가 무엇인지 알아내는 것이다.",
           "vocabulary": [
             {
-              "term": "알아내는",
+              "term": "문제",
               "meaning": {
-                "ja": "何を取り決めているのか明らかにすること。",
-                "en": "Establishing what the agreements consist of."
+                "ja": "これから答える論点。",
+                "en": "The question to be answered."
+              }
+            },
+            {
+              "term": "그러한 합의",
+              "meaning": {
+                "ja": "前文の社会秩序の基礎となる合意。",
+                "en": "The agreements said to ground social order."
+              }
+            },
+            {
+              "term": "알아내다",
+              "meaning": {
+                "ja": "調べて明らかにする。",
+                "en": "To find out."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "문제는…것이다",
+              "explanation": {
+                "ja": "名詞化した内容を、問題の中心として示す。",
+                "en": "The nominalized clause states the central task."
+              }
+            },
+            {
+              "point": "무엇인지",
+              "explanation": {
+                "ja": "間接疑問形で、合意の内容を尋ねる。",
+                "en": "The embedded question asks what the agreements are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그러한 は前文の합의を受ける。合意が存在するという主張から、具体的な内容の探究へ進む。",
+              "en": "그러한 points back to the agreements just named; the inquiry now seeks their content."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2295,15 +5186,49 @@
           "ttsText": "そこにすすむまえに、わたしはいまのべたことをりっしょうしなければならない。",
           "vocabulary": [
             {
-              "term": "立証",
+              "term": "そこに進む",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "合意の内容を明らかにする段階へ進む。",
+                "en": "Move on to identifying the agreements."
+              }
+            },
+            {
+              "term": "今述べたこと",
+              "meaning": {
+                "ja": "社会秩序の権利は自然でなく合意に基づくという主張。",
+                "en": "The claim just made about social order resting on agreement."
+              }
+            },
+            {
+              "term": "立証する",
+              "meaning": {
+                "ja": "根拠を示して確かめる。",
+                "en": "Establish a claim by reasons."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "…前に、…",
+              "explanation": {
+                "ja": "次の問題に進む前の作業を示す。",
+                "en": "The opening sets a task to complete before the next topic."
+              }
+            },
+            {
+              "point": "…なければならない",
+              "explanation": {
+                "ja": "著者自身に論証の義務があることを示す。",
+                "en": "The obligation form states the author must supply a proof."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "社会秩序の根拠となる合意を詳しく論じる前に、その前提をまず論証するという文章の道筋を示す。",
+              "en": "The author announces the order of argument: establish the premise before detailing the agreements."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2320,15 +5245,49 @@
           "ttsText": "Before reaching that point, I must establish what I have just put forward.",
           "vocabulary": [
             {
+              "term": "reaching that point",
+              "meaning": {
+                "ja": "合意の内容を論じる段階に至ること。",
+                "en": "Arriving at the discussion of the agreements."
+              }
+            },
+            {
               "term": "establish",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "根拠を示して立証する。",
+                "en": "Support a claim with reasons."
+              }
+            },
+            {
+              "term": "put forward",
+              "meaning": {
+                "ja": "主張として提示する。",
+                "en": "Advance an argument."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Before reaching…",
+              "explanation": {
+                "ja": "before句が次の主題に進む前の順序を示す。",
+                "en": "The before phrase orders the steps of the argument."
+              }
+            },
+            {
+              "point": "what I have just put forward",
+              "explanation": {
+                "ja": "what節が、直前の主張を一つの目的語としてまとめる。",
+                "en": "The what-clause packages the immediately preceding claim as what must be established."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "that point は合意の具体的な内容を問う段階を指す。著者はその前に前提を証明すると予告する。",
+              "en": "That point means determining the agreements; the author first promises to establish the premise."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2345,15 +5304,49 @@
           "ttsText": "Antes de llegar ahí, debo establecer lo que acabo de afirmar.",
           "vocabulary": [
             {
+              "term": "llegar ahí",
+              "meaning": {
+                "ja": "そこ、つまり合意の内容の議論へ進む。",
+                "en": "Reach the discussion of the agreements."
+              }
+            },
+            {
               "term": "establecer",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "根拠を示して立証する。",
+                "en": "Establish with reasons."
+              }
+            },
+            {
+              "term": "acabo de afirmar",
+              "meaning": {
+                "ja": "たった今主張した。",
+                "en": "Have just asserted."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Antes de llegar…",
+              "explanation": {
+                "ja": "antes de＋不定詞で論証の順序を示す。",
+                "en": "Antes de plus infinitive orders the argument’s steps."
+              }
+            },
+            {
+              "point": "lo que acabo de afirmar",
+              "explanation": {
+                "ja": "lo queが直前の主張を一つの対象にする。",
+                "en": "Lo que packages the preceding claim as the object to establish."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ahí は合意の具体的な内容を調べる段階を指す。著者は先に自分の前提を論証する。",
+              "en": "Ahí points to the agreements inquiry; the author first establishes his premise."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2370,18 +5363,47 @@
           "ttsText": "Avant d’en venir là, je dois établir ce que je viens d’avancer.",
           "vocabulary": [
             {
+              "term": "en venir là",
+              "meaning": {
+                "ja": "その問題、合意の内容へ進む。",
+                "en": "Come to the question of the agreements."
+              }
+            },
+            {
               "term": "établir",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "根拠を示して立証する。",
+                "en": "Establish or demonstrate."
+              }
+            },
+            {
+              "term": "je viens d’avancer",
+              "meaning": {
+                "ja": "たった今提示した。",
+                "en": "Have just put forward."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Avant d’en venir là",
+              "explanation": {
+                "ja": "avant de＋不定詞が議論の順序を示す。",
+                "en": "Avant de plus infinitive sets the order of argument."
+              }
+            },
+            {
+              "point": "ce que je viens d’avancer",
+              "explanation": {
+                "ja": "ce queが直前の主張を一つの対象として受ける。",
+                "en": "Ce que packages the preceding claim as what must be established."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "venir de＋不定詞は直前の出来事。avancer はここでは「前進する」でなく「主張を提出する」です。dois は devoir の現在形で義務を示します。",
-              "en": "Venir de + infinitive expresses the recent past. Avancer here means put forward a claim. Dois is the present of devoir, expressing an obligation."
+              "ja": "en…là は合意の内容を明らかにする段階を指す。先に社会秩序についての前提を立証する。",
+              "en": "The phrase points to the inquiry into agreements; the author first establishes his premise."
             }
           ],
           "translation": {
@@ -2400,15 +5422,49 @@
           "ttsText": "Bevor ich dazu komme, muss ich begründen, was ich soeben vorgebracht habe.",
           "vocabulary": [
             {
+              "term": "dazu komme",
+              "meaning": {
+                "ja": "その論点に進む。",
+                "en": "Come to that point in the argument."
+              }
+            },
+            {
               "term": "begründen",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "根拠を示す。",
+                "en": "To justify with reasons."
+              }
+            },
+            {
+              "term": "soeben vorgebracht",
+              "meaning": {
+                "ja": "たった今提示した。",
+                "en": "Just put forward."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Bevor ich…muss ich…",
+              "explanation": {
+                "ja": "次の話題へ進む前に、先の主張の論証が必要だと示す。",
+                "en": "The bevor-clause and main clause order the required steps."
+              }
+            },
+            {
+              "point": "was ich…vorgebracht habe",
+              "explanation": {
+                "ja": "関係的なwas節が、直前の主張全体を受ける。",
+                "en": "The was-clause refers to the claim just advanced."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "dazu は合意が何かという問題を受ける。先にその問いの前提を論証するという宣言である。",
+              "en": "Dazu refers to the question of what the agreements are; the author first proves the premise."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2425,15 +5481,49 @@
           "ttsText": "Прежде чем перейти к этому, я должен обосновать то, что только что утверждал.",
           "vocabulary": [
             {
+              "term": "перейти к этому",
+              "meaning": {
+                "ja": "その問題へ移る。",
+                "en": "Move on to that point."
+              }
+            },
+            {
               "term": "обосновать",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "理由を示して立証する。",
+                "en": "Justify with reasons."
+              }
+            },
+            {
+              "term": "только что утверждал",
+              "meaning": {
+                "ja": "たった今主張した。",
+                "en": "Just asserted."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Прежде чем…",
+              "explanation": {
+                "ja": "「〜する前に」と論証の順序を示す。",
+                "en": "Прежде чем orders the steps as “before doing so.”"
+              }
+            },
+            {
+              "point": "то, что…",
+              "explanation": {
+                "ja": "直前に述べた主張を一つの目的語にまとめる。",
+                "en": "То, что packages the preceding assertion as one object."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "этому は合意の具体的な内容を問う段階を受ける。その前に社会秩序の根拠の主張を立証する。",
+              "en": "Этому points to determining the agreements; the author first establishes his claim about social order."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2450,15 +5540,49 @@
           "ttsText": "وقبل الوصول إلى ذلك، علي أن أثبت ما طرحته للتو.",
           "vocabulary": [
             {
-              "term": "أثبت",
+              "term": "الْوُصُولِ إِلَى ذَلِكَ",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "そこ、つまり合意の問題に到達すること。",
+                "en": "Reaching the question of the agreements."
+              }
+            },
+            {
+              "term": "أَنْ أُثْبِتَ",
+              "meaning": {
+                "ja": "立証すること。",
+                "en": "To establish or prove."
+              }
+            },
+            {
+              "term": "مَا طَرَحْتُهُ لِلتَّوِّ",
+              "meaning": {
+                "ja": "たった今提示したこと。",
+                "en": "What I have just put forward."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "وَقَبْلَ الْوُصُولِ…",
+              "explanation": {
+                "ja": "قبلが次の論点へ進む前という順序を示す。",
+                "en": "قبل orders the argument before the next topic."
+              }
+            },
+            {
+              "point": "عَلَيَّ أَنْ أُثْبِتَ…",
+              "explanation": {
+                "ja": "عليّが著者自身の論証の義務を示す。",
+                "en": "عليّ assigns the duty of proof to the author."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ذَلِكَ は合意の内容を問う段階を指す。先に前文の主張を根拠づけると予告する。",
+              "en": "ذَلِكَ refers to determining the agreements; the author first promises to support his preceding claim."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2483,15 +5607,49 @@
           "ttsText": "在谈到那里之前，我必须先证明我刚才提出的观点。",
           "vocabulary": [
             {
+              "term": "谈到那里",
+              "meaning": {
+                "ja": "そこ、合意の内容の議論へ進む。",
+                "en": "Reach the discussion of the agreements."
+              }
+            },
+            {
               "term": "证明",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "根拠を示して立証する。",
+                "en": "Establish with reasons."
+              }
+            },
+            {
+              "term": "刚才提出的观点",
+              "meaning": {
+                "ja": "たった今示した主張。",
+                "en": "The claim just advanced."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "在…之前…",
+              "explanation": {
+                "ja": "次の問題へ進む前の論証順序を示す。",
+                "en": "在…之前 sets the order before moving to the next topic."
+              }
+            },
+            {
+              "point": "必须先…",
+              "explanation": {
+                "ja": "先に前提を証明する必要を強調する。",
+                "en": "必须先 stresses the need to establish the premise first."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "那里 は約定が何かを問う段階を指す。著者はその前に直前の主張を論証する。",
+              "en": "那里 points to identifying the agreements; the author first proves the preceding claim."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2512,15 +5670,49 @@
           "ttsText": "그 문제로 넘어가기 전에, 나는 방금 제시한 내용을 입증해야 한다.",
           "vocabulary": [
             {
-              "term": "입증",
+              "term": "그 문제로 넘어가다",
               "meaning": {
-                "ja": "すでに述べた主張に根拠を与えること。",
-                "en": "Providing justification for a claim already made."
+                "ja": "合意の内容の問題へ進む。",
+                "en": "Move on to the question of the agreements."
+              }
+            },
+            {
+              "term": "입증하다",
+              "meaning": {
+                "ja": "根拠を示して確かめる。",
+                "en": "Establish with reasons."
+              }
+            },
+            {
+              "term": "방금 제시한 내용",
+              "meaning": {
+                "ja": "たった今提示した主張。",
+                "en": "The claim just presented."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "-기 전에…",
+              "explanation": {
+                "ja": "-기 전에 が次の問題へ進む前の順序を示す。",
+                "en": "The -기 전에 phrase orders the argument before the next topic."
+              }
+            },
+            {
+              "point": "-아야 한다",
+              "explanation": {
+                "ja": "前提を立証する必要を示す義務表現。",
+                "en": "The obligation form says the premise must first be established."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그 문제 は約定が何かという問いを受ける。著者は先にその前提を証明する。",
+              "en": "그 문제 refers to what the agreements are; the author first promises to prove the premise."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",

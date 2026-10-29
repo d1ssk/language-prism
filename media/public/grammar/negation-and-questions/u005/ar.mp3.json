@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7c918cb469b72f51660e74257855dfb5ceeb1e1d4fca55ed2441f3a503e42172",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لا، لا أشرب القهوة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aca80c7c4d804653709842433e693ee69a87d544a2e34e0ebc5f4e4ae5792fc9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:10.217931+00:00"
+}

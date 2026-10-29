@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fe54df6f55a24a1aa43bdeb58f3473dd2e78d019312dfe2ba8b1e9f87620dcd1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "おすすめはなんですか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5aaa35779a4ea61cb53893704e19ee13effe889b7e71173671a7a07275d1ef29",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:44.301922+00:00"
+}

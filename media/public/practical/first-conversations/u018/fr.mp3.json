@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "890a8275a3c49f9e426bb637007629b3002deaddffd0e103e60949f308393222",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Appelez-moi Mina.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8a9c10943eca9ca388ad1f61bbe778f2463836f71f4f33e9b52b7448566df394",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:11.197801+00:00"
+}

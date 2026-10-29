@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "50a2e5143f23b5870aa5a4100cff0a8ac824e113e432267171e9974b38ed8305",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "うんちんはいくらですか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "060cf56ae51490900e05f7a3cf087fc61a0a0fda26d6b0c8e6e56e6ed1d5faea",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:53.574857+00:00"
+}

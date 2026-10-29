@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2d01ff2173a6adb63a189ccd537cd069c2414e61fbb0132b4707179c736d5b22",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "بَعْدَ أَنْ اِنْقَطَعَ التَّيَّارُ الْكَهْرَبَائِيُّ، وَاصَلْنَا الْحَدِيثَ فِي الظَّلَامِ حَتَّى عَثَرَ أَحَدٌ عَلَى شَمْعَةٍ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "753b0c2de12357b35145140e2ee53ae3ee6d9b48f6ca255f3f31db4130279813",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:28:14.399820+00:00"
+}

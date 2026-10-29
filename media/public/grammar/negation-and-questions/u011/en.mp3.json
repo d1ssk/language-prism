@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "860259f95f2f9a96ddc9a5a4d856fe003b6e8af2bbedc4e7e077753d615ceb33",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "What time does this shop open?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3872939bf2289ea6d7fb414d2c8d5b367cdd2790efa2379a25d7104d03ab2177",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:23:45.773143+00:00"
+}

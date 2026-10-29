@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "43f5a470f577de942cd9aa7b98d0ffb340009cc58e8e277446ac2c7ddc3c3463",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Суп был слишком горячим, чтобы его есть, поэтому я подождал, пока он не остыл.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9ff16099ad2a3daba10fa42cee45c98f125e0871a9f6ea836c6ec8254085b782",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:11.158411+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "067d0885046dc236b0547c40a33d4d2331c68382b9b14cdb8f3f1e709f711f96",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Action is far inferior to the yoga of discernment, Dhananjaya. Seek refuge in discernment; pitiable are those whose motive is the fruit.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d7db07b6747eab812747d95c2cbbe9a669fc535a89f4fcd80f7917ccdf2d049d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:26:47.077240+00:00"
+}

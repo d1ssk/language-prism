@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7d86c7e74c6b25831f702a443fbaf1ebcc7497689d3cafb3d8de1450350dbc34",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "一个幽灵在欧洲游荡：共产主义的幽灵。旧欧洲的一切权力都联合起来，对这个幽灵展开神圣的追猎：教皇与沙皇，梅特涅与基佐，法国激进派与德国警察。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb08a1631635950d859b98ec6fdf6b5eea0f60922a577fbb4031a512b438209b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:40:24.994822+00:00"
+}

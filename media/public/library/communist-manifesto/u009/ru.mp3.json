@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "27517c4bb6e2acecc6f5050a2b988c171e25a9d1220afe6fed39f67452464ed2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В прежние эпохи почти повсюду обнаруживается полное расчленение общества на различные сословия, многообразная градация общественного положения. В древнем Риме были патриции, всадники, плебеи, рабы; в Средние века — феодалы, вассалы, цеховые мастера, подмастерья, крепостные, а почти внутри каждого класса — ещё особые подразделения.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "761475f4c442fc688476cfb50d554deb4d2881cc4f6973348a39c721ccdf596f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:50:39.903904+00:00"
+}

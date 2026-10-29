@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9bbc38821955414447a688f302691ec7dc1a466f0da755e08a256af65e7c219e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "だなんじゃやよ、よーがにりっきゃくしてしゅうちゃくをすて、せいこうにもしっぱいにもひとしいこころでこういせよ。このへいせいがよーがとよばれる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "92ed9c23402c9b6f155d6725e1b96e1426f0523c08ed0cb6be4a2c03ddc310b9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:25:32.434181+00:00"
+}

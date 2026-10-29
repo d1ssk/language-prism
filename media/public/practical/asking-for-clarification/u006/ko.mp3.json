@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9f2ac5110038ef499efc4313ad905964b1e6aa9da37554d38dcd9c78362bca1e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "물론이죠. 이해가 안 되는 부분이 있으면 말씀해 주세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0033f64bde237f2ffa31febf0957457fb8cc4a66304964eef41bc460f74fae24",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:37.419209+00:00"
+}

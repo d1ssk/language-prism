@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d6eee466492789113f110046a99aaf63e2c65e98126550b87ccf30a3245405fd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "إِذَا أُضِيفَتْ أَشْيَاءُ مُتَسَاوِيَةٌ إِلَى أَشْيَاءَ مُتَسَاوِيَةٍ، كَانَتِ الْمَجَامِيعُ مُتَسَاوِيَةً.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "09a2af6dc3b5c4fe3a8ebd5ceb46fc3e52a9e19d1d2986c54c31be3440422f39",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:36:50.795503+00:00"
+}

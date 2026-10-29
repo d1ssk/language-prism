@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "40955df251dce88301e75ed77f3f0cf32b32a54e3809ee8c79f3f44459692498",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La société est un bienfait en tout état, mais le gouvernement, même au meilleur, n’est qu’un mal nécessaire, et au pire un mal intolérable ; car lorsque nous subissons par lui les mêmes misères, ou y sommes exposés, que dans un pays sans gouvernement, notre malheur s’accroît à la pensée que nous fournissons les moyens de notre souffrance.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed88a716949746f2684771005faade828838d7974e1028cbb1841a2385df1073",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:04:05.383616+00:00"
+}

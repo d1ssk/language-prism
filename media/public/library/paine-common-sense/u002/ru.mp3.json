@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "70d858312d6d2ee6c2da139997b67d09db05f090324f1eae18f7292ba16d48b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Общество рождается из наших потребностей, правительство — из нашей порочности; первое способствует счастью положительно, соединяя наши привязанности, второе — отрицательно, сдерживая наши пороки.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6c5da54dc876dd33b7949dacc9929da0839dc41d294048a8b7f0a388cf720873",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:01:32.622603+00:00"
+}

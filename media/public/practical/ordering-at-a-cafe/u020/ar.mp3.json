@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "529000ae9c4dc7a3718ebc4aa56fef1182af4f40174134c209aa36931cd8ef8d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هو حار قليلا، لكن يمكننا تقليل كمية الفلفل.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7cb7a64c9e4fa3184350113d850ec5dc3bd144a5970388b76a5420dc2474bfb1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:37.090743+00:00"
+}

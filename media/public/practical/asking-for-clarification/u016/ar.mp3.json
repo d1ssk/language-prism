@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "39ff3bed8c0e2654ec8f84a9497b4855245d1042c1aacf0ea198f56dc0d7a543",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "نعم، ليس من الضروري أن تسجل اليوم.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "40a996d97dd5fbd71018f67b8c5a56b30e7dcc91cfc16c11ce3b4f3f601ef1ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:04.128176+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e8c4415a1d18cfabd70e02c0f8131d74a3ea81405f6c90f245045c125dcfa832",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "并允许以任意中心和距离画圆。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9e2cc92738f6b3f042572fe1d441e684f7fd9e5d89735b89d417ebeee7e8273d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:36.891647+00:00"
+}

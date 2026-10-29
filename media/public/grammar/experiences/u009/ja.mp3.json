@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "baec36e7f8471265f980a25c0495c0729bd7a3127f71ff0f0fd276de9b512175",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "いつかたべてみたいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab184ae3b90756add9d51f2003ef3ec7cd9bbae3495170b6d359e93ee6cc3af5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:19:44.459488+00:00"
+}

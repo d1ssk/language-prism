@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5d7131369a46679ca28bef0b73ee297817054946984daf3134ec4fad678330ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La sociedad es una bendición en cualquier estado, pero el gobierno, aun en el mejor, solo es un mal necesario, y en el peor un mal intolerable; pues, cuando un gobierno nos hace sufrir o nos expone a las mismas miserias que esperaríamos en un país sin gobierno, nuestra desgracia aumenta al pensar que nosotros aportamos los medios de nuestro sufrimiento.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cd03dd78ca588f0a96970a18c61d823662d63ae72520c510587c8984bf3152be",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:03:50.401116+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d4a37eadb04b69225b625a8a95b3a4968a5b6e82b41b035a245f31e3d2d63252",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Der Mönch sprach Zauberformeln und schrieb Talismane. Mit großer Zauberkunst verwandelte er den riesigen Stein augenblicklich in ein helles, reines Stück Jade und verkleinerte es auf die Größe eines Fächeranhängers, zum Tragen oder Halten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "750c534cd80c6aea65596d9bf5aab405ed395f28baf2b497ace33e5e3bc65007",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:35:30.350799+00:00"
+}

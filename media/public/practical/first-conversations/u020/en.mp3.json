@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "73dcebad30a88a66794ddcdfa586e58e70f0c58653f6956638beb56deb2f9c6f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, I'm here on holiday.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6e11a115741180e682a19f246faf7e4532cc940f5b10fffbbbad0e2a112c290a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:21.339682+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ded5cee090c9336ea50fbe23c9971d4cc69fc792862e7bc626b7f6e2d41308f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Allez tout droit dans cette rue, traversez le pont, puis tournez à droite.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d3c16b6865f2358249e35edbcc39356ee2b681db042a57f40eecaf8b1bb52fdf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:11.542294+00:00"
+}

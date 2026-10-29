@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f44c2745ffdc837765201701c4eea9d1e6aeeca6569a854da8f63ddd1b89f205",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "We have come to dedicate a portion of that field as a final resting-place for those who here gave their lives that that nation might live.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4024ff9a9298a84d8d414f0f4c8e770e973cc85297bd2213cc3cf162c5be6fd2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:50:32.952488+00:00"
+}

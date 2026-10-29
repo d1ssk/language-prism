@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a0b692626fc6582bfb0dc2df8474bc0cf7b9ed53f71cbe4f29b1c58b0ef3ab72",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nüwa solo utilizó 36.500. Quedó una única piedra sin usar, que abandonó al pie del Pico de la Cresta Verde de aquella montaña.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "642469ae698b274d426902fe0d30463c25351c33ebdd44f08f6af30f1fa18937",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:14:31.758895+00:00"
+}

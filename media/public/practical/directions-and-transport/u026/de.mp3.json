@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dcda33f0ad1bf7a28775d3cd8f0a8f25090d7eaba3efade0f664384ae41d090e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe mich verlaufen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4a4c66414b83956ee60b41386ae21dd20b269f0681c65bee190afe1baccac890",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:52:10.852615+00:00"
+}

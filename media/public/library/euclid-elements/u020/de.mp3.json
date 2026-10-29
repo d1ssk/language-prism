@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a8ceb2f2e70b3c8eb8f0dc66774a13851ad118fca82b863843e37eada4b83373",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Unter den dreiseitigen Figuren hat ein gleichseitiges Dreieck drei gleiche Seiten, ein gleichschenkliges nur zwei gleiche und ein ungleichseitiges drei ungleiche Seiten.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "86f4adad13d4a276f2ee0d8fa10d4ff0710c8471838d095651904bb6d2d7839b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:27:08.466991+00:00"
+}

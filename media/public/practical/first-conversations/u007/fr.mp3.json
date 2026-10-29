@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "422673a67de7ad2e3798fa0457c89cb8e3c6f4594b68f3cd1fc05a2a6349d2e7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ah, d'accord. Moi, j'apprends le japonais.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a5c12da29e594e89b8e9e7cd961c0e8182b7ca659d4ed31f34b26ac5a78d1f8c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:03:12.365599+00:00"
+}

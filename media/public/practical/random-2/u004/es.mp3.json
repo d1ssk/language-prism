@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "02eb1cc6ea9337bf0b106bb5b87fcceca148b3e436b5dbc4d56c272efc3c342b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le presté mi paraguas a una persona que no conocía, y al día siguiente me lo devolvió.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "40c7f997b5b76c048d8c02a69ef82307d0a147565822c0bc41d4ea0595e08c20",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:18.078112+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9bf6bc9a7d175a9c1a1217bdf442844e814add648daa94612a52f5e22fe3326c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Elle est si amère que la mort l’est à peine davantage ; mais pour parler du bien que j’y trouvai, je dirai les autres choses que j’y vis.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "573008df5e83b746dee0ad2f83c6a36dd95fa0e7281f9f2ff9fbada9d25b4040",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:57:07.551916+00:00"
+}

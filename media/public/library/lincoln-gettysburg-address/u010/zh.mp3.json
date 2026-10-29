@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c8cb40614f00fdc374f82396a4c1ecd829e946e93267709eef1ceb0d1f047d45",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我们更应在这里献身于面前尚未完成的伟大任务：从这些受人尊敬的死者身上，汲取更深的献身精神，投身于他们为之献出最后全部忠诚的事业；在这里坚定决心，使这些死者没有白白牺牲，使这个国家在上帝之下迎来自由的新生，使民有、民治、民享的政府不从地上消失。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d758becdb1db6011d57ca61b087bbc71ea3d9b6ead232d94f645a45fbd3815e4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:58:45.088535+00:00"
+}

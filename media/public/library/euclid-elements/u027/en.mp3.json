@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "265bcb3c5befb5b4aff0bf7874a954d6e99bafc0ec3dbf56c16d26c85e8e0c2e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "And that all right angles are equal to each other.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "40ff3c498f78dab52f321e706fbb3f8890b36aa84a9171a44f349aa1819f0f0e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:45.839696+00:00"
+}

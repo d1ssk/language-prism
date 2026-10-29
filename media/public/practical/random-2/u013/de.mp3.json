@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1aaa2644f5129f0dc9b9694e2abf81f94b9a5c1fdcb6432eba1b3ecb7b9e1230",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wir merkten erst, dass das Wasser stieg, als der Rückweg verschwunden war.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e898099c94265ba0529f29d1e966df8483dc07e2b90e377cd597b3a56f3f8fde",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:31:05.534907+00:00"
+}

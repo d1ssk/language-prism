@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2f3f39733070de208f200cfc6da75e89598d354533f9f2fa98105786ba8a953a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "あるひ、いしがなげいていると、とおくからひとりのそうとひとりのどうしがやってきました。こっかくもすがたもなみなみならず、はなしわらいながらみねのしたまできて、いしのそばにすわり、おおいにかたりあいました。はじめはくものやまやきりのうみ、せんにんのふしぎなはなしでしたが、やがてにんげんせかいのえいがやふうきのはなしになりました。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3a703cd8c212096d59f902f80385874a6304b73961d341b404708df0b0bce91b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:17:19.452832+00:00"
+}

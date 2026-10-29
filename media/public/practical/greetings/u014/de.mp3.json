@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ddf3017d092d57b7bd8f0fa7be36bbfabe5e434b005c1e83361f9fe6eb7c3e6c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Passen Sie auf sich auf.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "360e23fc31ac45a569bb0a7f98f652e13f9bc84e04e02e6460a687f98f931291",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:55.903426+00:00"
+}

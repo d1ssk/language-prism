@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "778efa8e4f11e41726b7941dc98fc61393d56b6d47b07ff080bcddff3ad3a79d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "社会源于我们的需要，政府源于我们的邪恶；前者通过联结我们的感情，积极地增进幸福，后者通过约束我们的恶习，消极地增进幸福。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6cb2d642c67636017cfa015584eed2ab313dc6bf0a6a4f975c297b7b0111febf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:01:52.373092+00:00"
+}

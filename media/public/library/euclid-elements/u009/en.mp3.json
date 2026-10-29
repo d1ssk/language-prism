@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "322977f544d84c0d88d5b9da44dcd99eb93dda2e5777e360c4a0b3f52e88ffcf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "When the lines bounding an angle are straight, the angle is called rectilinear.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "435973f083cdad7a47b80ede9ad3e7ee5c879867d471b649ab6a6133fd85a844",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:18:05.623145+00:00"
+}

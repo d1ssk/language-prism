@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bdff8c63313feed373328214f4799b304cdf1e51138248d69c47058e7859f134",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "このじじつから、ふたつのことがあきらかになる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1a9fb5e1cc2fc20665512a3fc264373313e52eada079fbc229c9194692e02d27",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:42:14.687411+00:00"
+}

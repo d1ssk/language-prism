@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e7f2ab4abaab318d577e74324e8cda68f56929c148aa4523248283bd8a1d275f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그다음 너를 문물이 밝고 번성한 나라, 시와 예를 갖춘 고관의 집안, 꽃과 비단처럼 화려한 땅, 다정함과 부귀가 있는 고장으로 데려가 편안히 즐겁게 살게 하마.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "942d7cab38c1a21c1689b49805d4e5290ce4e0d342340a40a25dc2ca981befa2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:39:29.804726+00:00"
+}

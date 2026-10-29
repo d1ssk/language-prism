@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2719f61c0ddbd49dde0a8b5a8213ae5ff88b38ea56a6240d0b6e9f6567ba6fb9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ist dieses Gericht scharf?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2c3dcdfae95a77c4e374506331cfc23746c792355854b22abc8ca4d79eebcfd0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:07.486491+00:00"
+}

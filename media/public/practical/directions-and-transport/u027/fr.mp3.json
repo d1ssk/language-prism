@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "400e7dea6088da3dc8be212babdf8fecee0f0f6a1018efe07f429f3df38465c3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Est-ce que cette rue mène au musée d'art ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7eaa40c2ad82c70ea4aa4e470b96714d2b4829601a21b87fd6ba626cf745e450",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:52:26.122150+00:00"
+}

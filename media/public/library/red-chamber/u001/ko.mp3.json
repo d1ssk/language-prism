@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "324c960bafec14b529134d0cf98c5aa005d8e89db5c3aecce9a6248ffad30010",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "독자 여러분, 이 책은 어디에서 왔다고 생각하십니까? 그 내력은 황당하게 들리지만 자세히 음미하면 깊은 재미가 있습니다. 제가 그 내력을 밝혀 듣는 분들이 분명히 알고 의문을 품지 않게 하겠습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cba1880d66afd401df723d673161faccbc733b3832ada99c76059fe5192df91f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:12:34.319243+00:00"
+}

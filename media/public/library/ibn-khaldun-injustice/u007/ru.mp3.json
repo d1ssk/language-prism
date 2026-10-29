@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "52cee1c8c1aafe8e2859d5d6d46c38f2272528e579db135f5e7f48006d26dd15",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Когда люди прекращают добывать средства к жизни и отказываются от заработка, рынки замирают и условия расстраиваются. Люди рассеиваются по областям вне этой державы, ища пропитание за её пределами.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ee26d06420a36b4dc1830e5abaf6969f21a3f89f1e39da4f79960b4bae6cfdf9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:45:00.168154+00:00"
+}

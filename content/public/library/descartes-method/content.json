@@ -60,15 +60,56 @@
           "ttsText": "だいいちのきそくは、あきらかにしんであるとにんしきしたのでなければ、どんなものもけっしてしんとしてうけいれないことだった。",
           "vocabulary": [
             {
-              "term": "明らかに",
+              "term": "第一の規則",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "四つの方法上の規則の最初のものです。",
+                "en": "The first of four rules for reasoning."
+              }
+            },
+            {
+              "term": "明らかに真",
+              "meaning": {
+                "ja": "疑いを残さず真だと認識できる状態です。",
+                "en": "Recognized as true with clear evidence."
+              }
+            },
+            {
+              "term": "真として受け入れない",
+              "meaning": {
+                "ja": "判断の中で真だと認めないことです。",
+                "en": "Decline to affirm a claim as true."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "〜のでなければ",
+              "explanation": {
+                "ja": "真だと認識できることを、受け入れるための必要条件にします。",
+                "en": "The conditional makes clear knowledge a requirement for acceptance."
+              }
+            },
+            {
+              "point": "どんなものも決して〜ない",
+              "explanation": {
+                "ja": "対象を限定せず、例外なく慎重に判断する規則です。",
+                "en": "The negative applies broadly, with no item exempted."
+              }
+            },
+            {
+              "point": "〜ことだった",
+              "explanation": {
+                "ja": "規則の中身を名詞化し、過去の方針として述べます。",
+                "en": "The nominalized clause presents the content of the rule."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この第一の規則はu002・u003で具体化され、性急さと先入観を避け、明晰な判断だけを残すと続きます。",
+              "en": "U002–u003 spell out this first rule: avoid haste and preconception, and admit only clear judgments."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -85,15 +126,56 @@
           "ttsText": "The first rule was never to accept anything as true unless I clearly knew it to be so;",
           "vocabulary": [
             {
-              "term": "clearly",
+              "term": "first rule",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "デカルトの四つの方法上の規則の最初です。",
+                "en": "The first of Descartes’s four rules for reasoning."
+              }
+            },
+            {
+              "term": "accept anything as true",
+              "meaning": {
+                "ja": "ある事柄を真だと判断に取り入れることです。",
+                "en": "Admit a claim into one’s judgments as true."
+              }
+            },
+            {
+              "term": "clearly knew",
+              "meaning": {
+                "ja": "明晰な根拠をもって知ることです。",
+                "en": "Know with clear evidence."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "never ... unless ...",
+              "explanation": {
+                "ja": "真だと明晰に知ることを、受け入れの必要条件にします。",
+                "en": "The exception clause makes clear knowledge necessary for acceptance."
+              }
+            },
+            {
+              "point": "anything as true",
+              "explanation": {
+                "ja": "asが「何として受け入れるか」を示し、真という判断を付けます。",
+                "en": "As marks the status assigned to anything being accepted."
+              }
+            },
+            {
+              "point": "knew it to be so",
+              "explanation": {
+                "ja": "soは「真である」を受け、同じ内容の繰り返しを避けます。",
+                "en": "So stands for “true,” avoiding repetition."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "セミコロンからu002・u003へ第一の規則の具体化が続きます。",
+              "en": "The semicolon leaves the first rule open for its practical clarification in u002 and u003."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -110,15 +192,56 @@
           "ttsText": "La primera regla era no aceptar nunca nada como verdadero sin conocer con evidencia que lo era;",
           "vocabulary": [
             {
+              "term": "primera regla",
+              "meaning": {
+                "ja": "四つの思考方法のうち最初の規則です。",
+                "en": "The first of four rules for reasoning."
+              }
+            },
+            {
+              "term": "como verdadero",
+              "meaning": {
+                "ja": "真であるものとして、という判断の扱いです。",
+                "en": "As true: the status assigned in judgment."
+              }
+            },
+            {
               "term": "con evidencia",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "明らかな根拠をもって、という意味です。",
+                "en": "With clear evidence."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "no aceptar nunca ... sin ...",
+              "explanation": {
+                "ja": "明白に知ることなしには決して受け入れない、という条件を作ります。",
+                "en": "The double negative and sin make clear knowledge necessary for acceptance."
+              }
+            },
+            {
+              "point": "que lo era",
+              "explanation": {
+                "ja": "loは対象の事柄を受け、eraはそれが真であることを述べます。",
+                "en": "Lo refers to the thing judged, and era asserts that it was true."
+              }
+            },
+            {
+              "point": "era ... conocer",
+              "explanation": {
+                "ja": "過去形の規則提示に不定詞を続け、規則の内容を示します。",
+                "en": "The past-tense frame introduces the rule, followed by infinitives giving its content."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "末尾のセミコロンからu002・u003へ、性急さを避ける具体的な方法が続きます。",
+              "en": "The semicolon leads to u002–u003, which spell out how to avoid hasty acceptance."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -135,18 +258,54 @@
           "ttsText": "Le premier était de ne recevoir jamais aucune chose pour vraie que je ne la connusse évidemment être telle ;",
           "vocabulary": [
             {
+              "term": "premier",
+              "meaning": {
+                "ja": "四つの規則の最初のものです。",
+                "en": "The first of four rules."
+              }
+            },
+            {
+              "term": "recevoir ... pour vraie",
+              "meaning": {
+                "ja": "事柄を真と受け入れることです。",
+                "en": "Accept a thing as true."
+              }
+            },
+            {
               "term": "évidemment",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "ここでは明証をもって、はっきりと、という意味です。",
+                "en": "Clearly or with evident grounds here."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "ne ... jamais ... que ...",
+              "explanation": {
+                "ja": "「明らかに知ったもの以外は決して受け入れない」という限定です。",
+                "en": "The negative and restrictive que limit acceptance to what is clearly known."
+              }
+            },
+            {
+              "point": "je ne la connusse",
+              "explanation": {
+                "ja": "laはchoseを受け、古い綴りの接続法で認識の条件を述べます。",
+                "en": "La refers to chose; the older spelling gives a subjunctive condition of knowledge."
+              }
+            },
+            {
+              "point": "de ne recevoir ...",
+              "explanation": {
+                "ja": "de＋不定詞が、第一の規則の内容を示します。",
+                "en": "De plus infinitive gives the content of the first rule."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "Le premier は第一の規則を指します。que je ne la connusse … は古い制限的な構文で、「明らかにそうだと知るのでなければ」。connusse は connaître の接続法半過去です。",
-              "en": "Le premier refers to the first rule. The older restrictive construction que je ne la connusse … means “unless I knew it clearly to be so.” Connusse is the imperfect subjunctive of connaître."
+              "ja": "étoit、connusseは原文の古い語形・綴りです。u002・u003で第一の規則の実践内容が続きます。",
+              "en": "Étoit and connusse preserve older usage; u002–u003 continue the practical meaning of this rule."
             }
           ],
           "translation": {
@@ -165,15 +324,56 @@
           "ttsText": "Die erste Regel war, niemals etwas als wahr anzunehmen, solange ich nicht klar erkannte, dass es wahr war;",
           "vocabulary": [
             {
-              "term": "klar",
+              "term": "erste Regel",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "四つの方法上の規則の最初です。",
+                "en": "The first of four rules of method."
+              }
+            },
+            {
+              "term": "als wahr anzunehmen",
+              "meaning": {
+                "ja": "真だと判断して受け入れることです。",
+                "en": "Accept something as true."
+              }
+            },
+            {
+              "term": "klar erkannte",
+              "meaning": {
+                "ja": "明晰に認識したことです。",
+                "en": "Recognized clearly."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "niemals ... solange ... nicht ...",
+              "explanation": {
+                "ja": "明らかに真と認識するまでは、受け入れないという条件です。",
+                "en": "The paired negatives make clear recognition a condition of acceptance."
+              }
+            },
+            {
+              "point": "dass es wahr war",
+              "explanation": {
+                "ja": "dass節が認識の内容を示し、esは前のetwasを受けます。",
+                "en": "The dass clause states what was recognized; es points back to etwas."
+              }
+            },
+            {
+              "point": "war ... anzunehmen",
+              "explanation": {
+                "ja": "名詞Regelを受け、不定詞句で規則の中身を述べます。",
+                "en": "The infinitive phrase after war supplies the rule’s content."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002・u003はこの規則を、性急な判断を避け明晰なものだけ採る方法として具体化します。",
+              "en": "U002–u003 specify this rule by rejecting haste and admitting only clear judgments."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -190,15 +390,56 @@
           "ttsText": "Первое правило состояло в том, чтобы никогда не принимать ничего за истину, пока я не познаю с очевидностью, что это так;",
           "vocabulary": [
             {
+              "term": "Первое правило",
+              "meaning": {
+                "ja": "四つの方法上の規則の最初です。",
+                "en": "The first of four rules of method."
+              }
+            },
+            {
+              "term": "принимать ... за истину",
+              "meaning": {
+                "ja": "ある事柄を真として認めることです。",
+                "en": "Accept something as true."
+              }
+            },
+            {
               "term": "с очевидностью",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "明らかな証拠・確信をもって、という意味です。",
+                "en": "With evident grounds or clarity."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "в том, чтобы ...",
+              "explanation": {
+                "ja": "規則が何を求めるかを不定詞で示します。",
+                "en": "The construction introduces the required action of the rule."
+              }
+            },
+            {
+              "point": "никогда ... пока ... не ...",
+              "explanation": {
+                "ja": "真だとはっきり分かるまで、決して受け入れないという条件です。",
+                "en": "The negative pattern makes evident knowledge a condition for acceptance."
+              }
+            },
+            {
+              "point": "что это так",
+              "explanation": {
+                "ja": "такは「真である」という直前の内容を受けます。",
+                "en": "Так refers back to the claim that the matter is true."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002・u003はこの第一の規則を、判断で避けることと採るものの両面から具体化します。",
+              "en": "U002–u003 develop this first rule through what to avoid and what to admit."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -215,15 +456,56 @@
           "ttsText": "كانت القاعدة الأولى ألا أقبل أي شيء على أنه حق ما لم أعرف بوضوح أنه كذلك؛",
           "vocabulary": [
             {
+              "term": "القاعدة الأولى",
+              "meaning": {
+                "ja": "四つの方法上の規則の最初です。",
+                "en": "The first of four rules for reasoning."
+              }
+            },
+            {
+              "term": "أقبل أي شيء",
+              "meaning": {
+                "ja": "どんな事柄でも受け入れることです。",
+                "en": "Accept any matter or claim."
+              }
+            },
+            {
               "term": "بوضوح",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "明晰に、はっきりと、という意味です。",
+                "en": "Clearly, with evident understanding."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "ألا أقبل ... ما لم ...",
+              "explanation": {
+                "ja": "明らかに知ることを、真として受け入れるための条件にします。",
+                "en": "The negative condition makes clear knowledge necessary before acceptance."
+              }
+            },
+            {
+              "point": "على أنه حق",
+              "explanation": {
+                "ja": "対象を「真であるものとして」扱う判断を示します。",
+                "en": "The phrase marks the claim as something judged true."
+              }
+            },
+            {
+              "point": "أنه كذلك",
+              "explanation": {
+                "ja": "كذلكは前の「真である」を受け、同じ内容の反復を避けます。",
+                "en": "كذلك stands for the preceding claim that it is true."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "末尾のセミコロンからu002・u003へ第一の規則の具体化が続きます。",
+              "en": "The semicolon leads into u002–u003, which spell out the first rule."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -248,15 +530,56 @@
           "ttsText": "第一条规则是，除非我清楚地认识到某事确实如此，否则绝不把它当作真实的来接受；",
           "vocabulary": [
             {
-              "term": "清楚",
+              "term": "第一条规则",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "四つの方法上の規則の最初です。",
+                "en": "The first of four rules of method."
+              }
+            },
+            {
+              "term": "清楚地认识",
+              "meaning": {
+                "ja": "明晰な根拠をもって知ることです。",
+                "en": "Recognize with clear evidence."
+              }
+            },
+            {
+              "term": "当作真实的来接受",
+              "meaning": {
+                "ja": "ある事柄を真だと判断に取り入れることです。",
+                "en": "Admit a claim as true in judgment."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "除非……否则……",
+              "explanation": {
+                "ja": "明らかに真と知ることを、受け入れの必要条件にします。",
+                "en": "The unless pattern makes clear knowledge a condition of acceptance."
+              }
+            },
+            {
+              "point": "绝不……",
+              "explanation": {
+                "ja": "例外なく受け入れないという強い否定を示します。",
+                "en": "绝不 expresses an emphatic refusal to accept without the condition."
+              }
+            },
+            {
+              "point": "某事确实如此",
+              "explanation": {
+                "ja": "「如此」はその事柄が真だという内容を受けます。",
+                "en": "如此 points back to the claim that the matter is true."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "末尾のセミコロンからu002・u003へ、第一の規則の具体的な判断方法が続きます。",
+              "en": "The semicolon leads to u002–u003, which detail how the first rule guides judgment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -281,15 +604,56 @@
           "ttsText": "첫째 규칙은 어떤 것이 참임을 명백히 알지 못하는 한, 결코 그것을 참으로 받아들이지 않는 것이었다.",
           "vocabulary": [
             {
+              "term": "첫째 규칙",
+              "meaning": {
+                "ja": "四つの方法上の規則の最初です。",
+                "en": "The first of four rules of method."
+              }
+            },
+            {
+              "term": "참임",
+              "meaning": {
+                "ja": "真であるということです。",
+                "en": "The state of being true."
+              }
+            },
+            {
               "term": "명백히",
               "meaning": {
-                "ja": "ここでは、真であることを明瞭に認識すること。",
-                "en": "Here, clearly recognizing something as true."
+                "ja": "疑いを残さず明らかに、という意味です。",
+                "en": "Clearly and evidently."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "알지 못하는 한",
+              "explanation": {
+                "ja": "明白に真と知るまでは受け入れないという条件です。",
+                "en": "The condition requires clear knowledge before acceptance."
+              }
+            },
+            {
+              "point": "결코 ... 않다",
+              "explanation": {
+                "ja": "「決して〜しない」という強い否定で、規則を示します。",
+                "en": "The emphatic negative presents the rule without exceptions."
+              }
+            },
+            {
+              "point": "참으로 받아들이지 않는 것",
+              "explanation": {
+                "ja": "「真として受け入れない」を名詞化し、規則の内容にします。",
+                "en": "The nominalized clause supplies the content of the rule."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002・u003で、性急さを避け、明晰な判断だけを採るという中身が続きます。",
+              "en": "U002–u003 develop the rule by rejecting haste and admitting only clear judgments."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -311,15 +675,56 @@
           "ttsText": "つまり、せいきゅうなはんだんとせんにゅうかんをちゅういぶかくさけること、",
           "vocabulary": [
             {
+              "term": "性急な判断",
+              "meaning": {
+                "ja": "十分に調べる前に結論を出すことです。",
+                "en": "Judgment made before adequate examination."
+              }
+            },
+            {
               "term": "先入観",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "調べる前から持っている思い込みです。",
+                "en": "A prior belief that may bias judgment."
+              }
+            },
+            {
+              "term": "注意深く避ける",
+              "meaning": {
+                "ja": "誤りの原因を意識して取り除くことです。",
+                "en": "Deliberately keep sources of error out of judgment."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "つまり",
+              "explanation": {
+                "ja": "u001の「真と受け入れる条件」を言い換えて具体化します。",
+                "en": "The connector spells out the practical meaning of u001’s condition."
+              }
+            },
+            {
+              "point": "〜と〜を避ける",
+              "explanation": {
+                "ja": "判断の早さと既存の思い込みを、二つの妨げとして並べます。",
+                "en": "The paired objects identify haste and preconception as two obstacles."
+              }
+            },
+            {
+              "point": "読点で続く",
+              "explanation": {
+                "ja": "この句だけでは第一の規則が終わらず、u003で採るべき判断が続きます。",
+                "en": "The comma leaves the first rule open for the positive requirement in u003."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002は避けるべきものを示す側で、u003は判断に含めてよいものを示す側です。",
+              "en": "U002 states what to avoid; u003 states what may be included in judgment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -336,15 +741,56 @@
           "ttsText": "that is, carefully to avoid hasty judgment and preconception,",
           "vocabulary": [
             {
+              "term": "that is",
+              "meaning": {
+                "ja": "直前の規則を具体的に言い換える表現です。",
+                "en": "An expression introducing a clarification of the preceding rule."
+              }
+            },
+            {
+              "term": "hasty judgment",
+              "meaning": {
+                "ja": "十分な吟味の前に下す結論です。",
+                "en": "A conclusion reached before adequate examination."
+              }
+            },
+            {
               "term": "preconception",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "調べる前からある思い込みです。",
+                "en": "A prior belief that may bias examination."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "that is, ...",
+              "explanation": {
+                "ja": "u001の受け入れ条件を、実際に避けるべきものとして言い換えます。",
+                "en": "The phrase reformulates u001’s acceptance rule as a practical warning."
+              }
+            },
+            {
+              "point": "to avoid ...",
+              "explanation": {
+                "ja": "u001のto acceptに対応する不定詞で、第一の規則の中身を続けます。",
+                "en": "The infinitive continues the first rule alongside u001’s “to accept.”"
+              }
+            },
+            {
+              "point": "hasty judgment and preconception",
+              "explanation": {
+                "ja": "二つの名詞を並べ、急ぐことと先入観を別の危険として示します。",
+                "en": "The coordinated nouns distinguish haste from prior bias."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "コンマからu003へ続き、誤りを避ける面と明晰なものを採る面が一つの規則になります。",
+              "en": "The comma continues into u003: the first rule has both a negative side, avoiding error, and a positive side, admitting clear ideas."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -361,15 +807,56 @@
           "ttsText": "es decir, evitar cuidadosamente la precipitación y los prejuicios,",
           "vocabulary": [
             {
+              "term": "es decir",
+              "meaning": {
+                "ja": "前の規則を言い換えて説明する表現です。",
+                "en": "That is: an explanatory restatement."
+              }
+            },
+            {
+              "term": "precipitación",
+              "meaning": {
+                "ja": "十分な検討前に急いで判断することです。",
+                "en": "Haste in judgment before adequate examination."
+              }
+            },
+            {
               "term": "prejuicios",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "検討前からある偏見や先入観です。",
+                "en": "Prejudices or prior assumptions."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "es decir ...",
+              "explanation": {
+                "ja": "u001の規則を、避けるべき二つの危険として具体化します。",
+                "en": "This restates u001 as two practical dangers to avoid."
+              }
+            },
+            {
+              "point": "evitar cuidadosamente ...",
+              "explanation": {
+                "ja": "不定詞が第一の規則の内容を続け、副詞が注意の仕方を示します。",
+                "en": "The infinitive continues the rule; the adverb stresses care."
+              }
+            },
+            {
+              "point": "la ... y los ...",
+              "explanation": {
+                "ja": "二つの名詞を並べ、性急さと偏見を別々の妨げとして示します。",
+                "en": "The coordinated nouns separate haste from prejudice."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "コンマからu003へ続き、避けるべきものの後に判断へ含めるべきものを述べます。",
+              "en": "The comma leads into u003, which names what may be admitted after stating what to avoid."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -386,18 +873,54 @@
           "ttsText": "c’est-à-dire, d’éviter soigneusement la précipitation et la prévention,",
           "vocabulary": [
             {
+              "term": "c’est-à-dire",
+              "meaning": {
+                "ja": "前の規則を説明し直す「つまり」です。",
+                "en": "That is to say; it introduces a clarification."
+              }
+            },
+            {
+              "term": "précipitation",
+              "meaning": {
+                "ja": "十分な検討前に急いで判断することです。",
+                "en": "Haste in judgment before examination."
+              }
+            },
+            {
               "term": "prévention",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "ここでは予防ではなく、先入観・偏見です。",
+                "en": "Here, preconception or prejudice, not preventive action."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "c’est-à-dire ...",
+              "explanation": {
+                "ja": "u001の規則を、避けるべき誤りとして言い換えます。",
+                "en": "The phrase reformulates u001’s rule as a warning against error."
+              }
+            },
+            {
+              "point": "d’éviter ...",
+              "explanation": {
+                "ja": "de＋不定詞が、第一の規則の実践内容を続けます。",
+                "en": "De plus infinitive continues the practical content of the first rule."
+              }
+            },
+            {
+              "point": "la ... et la ...",
+              "explanation": {
+                "ja": "性急さと先入観を二つの妨げとして並べます。",
+                "en": "The coordinated nouns identify haste and bias as separate obstacles."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "prévention はここでは予防措置ではなく、前もって抱く判断・先入観です。précipitation は十分考えないまま急いで結論を出すこと。",
-              "en": "Prévention here means prejudgment or preconception, not a preventive measure. Précipitation is rushing to a judgment."
+              "ja": "préventionはこの古い文脈では先入観です。u003で、逆に採用すべき明晰な判断が続きます。",
+              "en": "Prévention means preconception in this older context. U003 turns to what may be admitted."
             }
           ],
           "translation": {
@@ -416,15 +939,56 @@
           "ttsText": "das heißt, sorgfältig Übereilung und Vorurteile zu vermeiden,",
           "vocabulary": [
             {
+              "term": "das heißt",
+              "meaning": {
+                "ja": "前の規則を「つまり」と言い換えます。",
+                "en": "That is; an explanatory restatement."
+              }
+            },
+            {
+              "term": "Übereilung",
+              "meaning": {
+                "ja": "十分に考える前の性急さです。",
+                "en": "Haste before adequate examination."
+              }
+            },
+            {
               "term": "Vorurteile",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "検討前から持つ先入観・偏見です。",
+                "en": "Prejudices or prior assumptions."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "das heißt ...",
+              "explanation": {
+                "ja": "u001の抽象的な規則を、具体的に避ける行為へ言い換えます。",
+                "en": "The phrase restates u001’s abstract rule as a practical prohibition."
+              }
+            },
+            {
+              "point": "... zu vermeiden",
+              "explanation": {
+                "ja": "zu不定詞が、第一の規則の中身を続けます。",
+                "en": "The zu infinitive continues the content of the first rule."
+              }
+            },
+            {
+              "point": "Übereilung und Vorurteile",
+              "explanation": {
+                "ja": "急いだ判断と既存の思い込みを、別の障害として並べます。",
+                "en": "The paired nouns separate haste from prior bias."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002は避ける側の条件で、u003は判断に含める側の条件です。",
+              "en": "U002 gives the negative side of the rule; u003 gives the positive side."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -441,15 +1005,56 @@
           "ttsText": "то есть тщательно избегать поспешности и предубеждения,",
           "vocabulary": [
             {
+              "term": "то есть",
+              "meaning": {
+                "ja": "前の規則を具体的に言い換える「つまり」です。",
+                "en": "That is: a clarification of the preceding rule."
+              }
+            },
+            {
+              "term": "поспешности",
+              "meaning": {
+                "ja": "吟味する前に急いで判断することです。",
+                "en": "Haste before adequate examination."
+              }
+            },
+            {
               "term": "предубеждения",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "調べる前からある先入観・偏見です。",
+                "en": "Preconception or prejudice."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "то есть ...",
+              "explanation": {
+                "ja": "u001の受け入れ条件を、避けるべきものとして説明します。",
+                "en": "The phrase recasts u001’s acceptance rule in terms of what to avoid."
+              }
+            },
+            {
+              "point": "избегать ...",
+              "explanation": {
+                "ja": "不定詞が第一の規則の実践内容を続けます。",
+                "en": "The infinitive continues the practical content of the first rule."
+              }
+            },
+            {
+              "point": "поспешности и предубеждения",
+              "explanation": {
+                "ja": "属格の二語を並べ、性急さと先入観を別の妨げとして示します。",
+                "en": "The two genitive nouns name haste and preconception as separate obstacles."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u003では逆に、判断へ取り込める明晰なものを述べます。",
+              "en": "U003 then states the clear content that may be admitted into judgment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -466,15 +1071,56 @@
           "ttsText": "أي أن أتجنب بعناية التسرع والأحكام المسبقة،",
           "vocabulary": [
             {
+              "term": "أي",
+              "meaning": {
+                "ja": "直前の規則を言い換える「つまり」です。",
+                "en": "That is; it introduces an explanation."
+              }
+            },
+            {
+              "term": "التسرع",
+              "meaning": {
+                "ja": "吟味する前に急いで判断することです。",
+                "en": "Haste in judgment before proper examination."
+              }
+            },
+            {
               "term": "الأحكام المسبقة",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "検討前からある先入観・偏見です。",
+                "en": "Preconceived judgments or prejudices."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "أي أن أتجنب ...",
+              "explanation": {
+                "ja": "u001の規則を具体化し、何を避けるかを示します。",
+                "en": "This explains u001’s rule by naming what must be avoided."
+              }
+            },
+            {
+              "point": "بعناية",
+              "explanation": {
+                "ja": "避ける行為を修飾し、注意深く行うと述べます。",
+                "en": "The prepositional phrase modifies avoiding and stresses care."
+              }
+            },
+            {
+              "point": "التسرع والأحكام المسبقة",
+              "explanation": {
+                "ja": "性急さと先入観を並列し、二種類の誤りの原因を示します。",
+                "en": "The coordinated nouns identify haste and prejudice as two sources of error."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002で避けるものを示し、u003で判断に含めるものを示します。",
+              "en": "U002 identifies what to avoid; u003 specifies what may enter judgment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -499,15 +1145,56 @@
           "ttsText": "也就是说，要谨慎地避免仓促判断和先入之见，",
           "vocabulary": [
             {
+              "term": "也就是说",
+              "meaning": {
+                "ja": "前の規則を言い換えて説明する表現です。",
+                "en": "That is to say; it clarifies the preceding rule."
+              }
+            },
+            {
+              "term": "仓促判断",
+              "meaning": {
+                "ja": "十分な吟味の前に急いで下す判断です。",
+                "en": "A hasty judgment before adequate examination."
+              }
+            },
+            {
               "term": "先入之见",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "調べる前から抱いている思い込みです。",
+                "en": "A preconceived view or bias."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "也就是说……",
+              "explanation": {
+                "ja": "u001の規則を、避けるべき二つの危険として言い換えます。",
+                "en": "This restates u001’s rule in terms of two dangers to avoid."
+              }
+            },
+            {
+              "point": "要……避免……",
+              "explanation": {
+                "ja": "守るべき行為を示し、注意深く避けることを求めます。",
+                "en": "要 introduces the required action of careful avoidance."
+              }
+            },
+            {
+              "point": "……和……",
+              "explanation": {
+                "ja": "性急さと先入観を別々の妨げとして並べます。",
+                "en": "The paired nouns separate hasty judgment from preconception."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u003では、何を判断に含めてよいかという積極的な条件が続きます。",
+              "en": "U003 follows with the positive condition for what may be included in judgment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -528,15 +1215,56 @@
           "ttsText": "즉 성급한 판단과 선입견을 신중히 피하고,",
           "vocabulary": [
             {
+              "term": "즉",
+              "meaning": {
+                "ja": "前の規則を具体的に言い換える「つまり」です。",
+                "en": "That is; it clarifies the preceding rule."
+              }
+            },
+            {
+              "term": "성급한 판단",
+              "meaning": {
+                "ja": "十分に検討する前の急いだ判断です。",
+                "en": "A hasty judgment before adequate examination."
+              }
+            },
+            {
               "term": "선입견",
               "meaning": {
-                "ja": "吟味するより前に抱いている判断。",
-                "en": "A judgment already held before examination."
+                "ja": "調べる前からある思い込みや偏見です。",
+                "en": "Preconception or prejudice."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "즉 ...",
+              "explanation": {
+                "ja": "u001の規則を、避けるべき二つの危険として具体化します。",
+                "en": "This restates u001’s rule as two dangers to avoid."
+              }
+            },
+            {
+              "point": "... 피하고",
+              "explanation": {
+                "ja": "連結語尾で、避ける行為をu003の「判断に含める」に続けます。",
+                "en": "The connective ending links avoidance to the inclusion rule in u003."
+              }
+            },
+            {
+              "point": "성급한 ... 과 선입견",
+              "explanation": {
+                "ja": "性急さと先入観を別々の障害として並べます。",
+                "en": "The coordination distinguishes haste from prior bias."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002は避けるものを、u003は採るものを示し、第一の規則を両面から説明します。",
+              "en": "U002 states what to avoid; u003 states what to admit, giving both sides of the first rule."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -558,15 +1286,63 @@
           "ttsText": "そして、うたがうよちがまったくないほどめいせきかつはんめいにせいしんにあらわれるものだけを、じぶんのはんだんにふくめることだった。",
           "vocabulary": [
             {
-              "term": "判断",
+              "term": "明晰",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "対象がはっきりと捉えられることです。",
+                "en": "Clear: readily and distinctly perceived."
+              }
+            },
+            {
+              "term": "判明",
+              "meaning": {
+                "ja": "他のものと混同せず区別できることです。",
+                "en": "Distinct: separable from other ideas."
+              }
+            },
+            {
+              "term": "疑う余地",
+              "meaning": {
+                "ja": "疑いを持つ理由や機会です。",
+                "en": "Ground or occasion for doubt."
+              }
+            },
+            {
+              "term": "判断に含める",
+              "meaning": {
+                "ja": "真として採用する考えの中に入れることです。",
+                "en": "Admit something into one’s judgments."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "〜ものだけを",
+              "explanation": {
+                "ja": "判断へ入れる対象を、明晰で判明なものに厳しく限定します。",
+                "en": "The limiting phrase restricts admission to clear and distinct content."
+              }
+            },
+            {
+              "point": "〜ほど〜",
+              "explanation": {
+                "ja": "明晰さの程度が疑う余地をなくすほどだと示します。",
+                "en": "The degree construction relates clarity to the absence of grounds for doubt."
+              }
+            },
+            {
+              "point": "そして",
+              "explanation": {
+                "ja": "u002の避ける条件に、採用する条件を加えます。",
+                "en": "The connector adds a positive requirement to u002’s negative one."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「明晰」と「判明」はここで対にされる認識の条件です。疑いがないという感覚だけでなく、そのように現れる内容に限ると述べます。",
+              "en": "Clarity and distinctness are paired requirements here; the rule restricts judgment to content presented in that way, beyond a mere feeling of confidence."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -585,13 +1361,61 @@
             {
               "term": "judgments",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽について自分が下す判断です。",
+                "en": "One’s assessments of what is true."
+              }
+            },
+            {
+              "term": "presented itself to my mind",
+              "meaning": {
+                "ja": "考えが精神に現れる・示されることです。",
+                "en": "Appeared to or was grasped by the mind."
+              }
+            },
+            {
+              "term": "clearly and distinctly",
+              "meaning": {
+                "ja": "はっきり捉えられ、他と区別できるように、ということです。",
+                "en": "In a way that is clear and distinguishable from other ideas."
+              }
+            },
+            {
+              "term": "occasion to doubt",
+              "meaning": {
+                "ja": "疑いを持つ理由や機会です。",
+                "en": "A reason or opening for doubt."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "and to include ... only what ...",
+              "explanation": {
+                "ja": "u002のavoidと並び、判断に採る対象を限定します。",
+                "en": "The infinitive pairs with u002’s avoid and restricts what can enter judgment."
+              }
+            },
+            {
+              "point": "what presented itself ...",
+              "explanation": {
+                "ja": "関係的なwhat節が、採るべき内容そのものを指します。",
+                "en": "The free relative clause identifies the content allowed into judgment."
+              }
+            },
+            {
+              "point": "so clearly and distinctly that ...",
+              "explanation": {
+                "ja": "程度と結果を結び、明晰さが疑う余地をなくすと述べます。",
+                "en": "The result construction links clarity and distinctness to absence of doubt."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "第一の規則の積極面です。u002で性急さと先入観を除き、ここでは採用できる内容を限定します。",
+              "en": "This is the positive half of the first rule: u002 removes haste and preconception, while this clause limits what may be accepted."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -610,13 +1434,54 @@
             {
               "term": "juicios",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽について下す判断です。",
+                "en": "Judgments about what is true."
+              }
+            },
+            {
+              "term": "claridad y distinción",
+              "meaning": {
+                "ja": "明晰さと、他から区別できる明瞭さです。",
+                "en": "Clarity and distinctness from other ideas."
+              }
+            },
+            {
+              "term": "ponerlo en duda",
+              "meaning": {
+                "ja": "それを疑わしいものとして扱うことです。",
+                "en": "Call it into doubt."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "no ... sino lo que ...",
+              "explanation": {
+                "ja": "否定とsinoで、判断へ入れるものを明晰な内容だけに限定します。",
+                "en": "The negative with sino restricts judgments to what meets the condition."
+              }
+            },
+            {
+              "point": "se presentara ... no tuviera ...",
+              "explanation": {
+                "ja": "接続法が限定する内容と、その結果として疑いがないことを述べます。",
+                "en": "Subjunctives describe the qualifying appearance and the resulting lack of doubt."
+              }
+            },
+            {
+              "point": "tanta ... que ...",
+              "explanation": {
+                "ja": "明晰さの程度が、疑う理由を残さないほどだと結びます。",
+                "en": "The degree construction links clarity to the absence of grounds for doubt."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002で避けるべき性急さ・偏見を示し、ここでは判断に入れてよいものを示します。",
+              "en": "U002 names haste and bias to avoid; this clause states what may enter judgment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -635,16 +1500,52 @@
             {
               "term": "jugements",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽についての自分の判断です。",
+                "en": "One’s judgments about truth."
+              }
+            },
+            {
+              "term": "clairement et distinctement",
+              "meaning": {
+                "ja": "明晰に、他と区別できる形で、という意味です。",
+                "en": "Clearly and distinctly, apart from other ideas."
+              }
+            },
+            {
+              "term": "mettre en doute",
+              "meaning": {
+                "ja": "疑いを差し挟むことです。",
+                "en": "Bring into doubt."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "ne ... rien de plus ... que ...",
+              "explanation": {
+                "ja": "判断へ入れるものを、条件を満たす内容だけに限定します。",
+                "en": "The restrictive negative limits judgment to content meeting the condition."
+              }
+            },
+            {
+              "point": "si ... que ...",
+              "explanation": {
+                "ja": "明晰さの程度から、疑う機会がないという結果を導きます。",
+                "en": "The degree construction links clarity to the absence of doubt."
+              }
+            },
+            {
+              "point": "ce qui se présenteroit ...",
+              "explanation": {
+                "ja": "関係的なce quiが精神に現れる内容を指し、古い綴りの動詞を伴います。",
+                "en": "Ce qui identifies the content appearing to the mind, with an older verb spelling."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "comprendre は「理解する」ではなく「含める」。si … que は程度と結果を結びます。n’eusse は avoir の接続法半過去です。",
-              "en": "Comprendre means “include” here. Si … que links degree to result. N’eusse is the negated imperfect subjunctive of avoir."
+              "ja": "présenteroitとeusseは原文の古い形です。u002の否定面に対し、ここは採用する条件を示します。",
+              "en": "Présenteroit and eusse preserve older usage; this is the positive counterpart to u002."
             }
           ],
           "translation": {
@@ -665,13 +1566,54 @@
             {
               "term": "Urteile",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽についての自分の判断です。",
+                "en": "One’s judgments about truth."
+              }
+            },
+            {
+              "term": "klar und deutlich",
+              "meaning": {
+                "ja": "明晰で、ほかの内容と区別できるように、ということです。",
+                "en": "Clearly and distinctly from other ideas."
+              }
+            },
+            {
+              "term": "Anlass ... zu zweifeln",
+              "meaning": {
+                "ja": "疑いを持つ理由や機会です。",
+                "en": "A reason or occasion to doubt."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "nur das ... was ...",
+              "explanation": {
+                "ja": "判断へ取り入れる内容を、後の関係節を満たすものだけに限定します。",
+                "en": "The restrictive construction admits only what meets the relative clause."
+              }
+            },
+            {
+              "point": "so ... dass ...",
+              "explanation": {
+                "ja": "明晰さの程度が、疑う理由をなくすほどだと示します。",
+                "en": "The result clause ties the degree of clarity to the absence of doubt."
+              }
+            },
+            {
+              "point": "daran zu zweifeln",
+              "explanation": {
+                "ja": "daranは前の認識内容を受け、それを疑うことを指します。",
+                "en": "Daran points back to the content being judged and marks what is doubted."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002が避けるものを、u003が判断へ採るものの条件を述べます。",
+              "en": "U002 states what to avoid; u003 states the conditions for what to admit."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -690,13 +1632,54 @@
             {
               "term": "суждения",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽についての自分の判断です。",
+                "en": "One’s judgments about truth."
+              }
+            },
+            {
+              "term": "ясно и отчётливо",
+              "meaning": {
+                "ja": "はっきりと、他と区別できるように、という意味です。",
+                "en": "Clearly and distinctly from other ideas."
+              }
+            },
+            {
+              "term": "повода сомневаться",
+              "meaning": {
+                "ja": "疑いを持つ理由や機会です。",
+                "en": "A reason to doubt."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "лишь то, что ...",
+              "explanation": {
+                "ja": "判断に含める内容を、後の条件に合うものだけに限定します。",
+                "en": "The restrictive phrase admits only what meets the following condition."
+              }
+            },
+            {
+              "point": "настолько ... что ...",
+              "explanation": {
+                "ja": "明晰さの程度が、疑いを残さない結果につながると示します。",
+                "en": "The degree-result construction links clarity to the lack of doubt."
+              }
+            },
+            {
+              "point": "представлялось моему уму",
+              "explanation": {
+                "ja": "与格моему умуで、内容が誰の精神に現れるかを示します。",
+                "en": "The dative phrase says to whose mind the content appears."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002で避けるべきものを示した後、ここでは判断へ含めてよいものを絞ります。",
+              "en": "After u002 names what to avoid, this clause restricts what may be admitted."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -715,13 +1698,61 @@
             {
               "term": "أحكامي",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽についての自分の判断です。",
+                "en": "My judgments about truth."
+              }
+            },
+            {
+              "term": "يتجلى لعقلي",
+              "meaning": {
+                "ja": "精神にはっきり現れることです。",
+                "en": "Appears clearly to my mind."
+              }
+            },
+            {
+              "term": "بوضوح وتميز",
+              "meaning": {
+                "ja": "明晰で、他と区別できるように、という意味です。",
+                "en": "With clarity and distinctness."
+              }
+            },
+            {
+              "term": "مجال للشك",
+              "meaning": {
+                "ja": "疑いを差し挟む余地です。",
+                "en": "Room or occasion for doubt."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "ألا ... إلا ...",
+              "explanation": {
+                "ja": "否定と例外で、判断へ入れるものを条件に合う内容だけに限定します。",
+                "en": "The negative and exception restrict admission to content meeting the condition."
+              }
+            },
+            {
+              "point": "ما يتجلى ...",
+              "explanation": {
+                "ja": "関係的なماが、精神に現れる内容を指します。",
+                "en": "ما identifies the content appearing to the mind."
+              }
+            },
+            {
+              "point": "لا يتركان لي ...",
+              "explanation": {
+                "ja": "双数形の動詞がوضوح وتميزの二つを受け、疑いの余地を残さないと述べます。",
+                "en": "The dual verb refers to clarity and distinctness and says they leave no room for doubt."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002で避けるべきもの、u003で採れるものを示し、第一の規則が完成します。",
+              "en": "U002 names what to avoid; u003 names what may be admitted, completing the first rule."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -748,13 +1779,54 @@
             {
               "term": "判断",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "真偽について自分が下す評価です。",
+                "en": "One’s assessment of what is true."
+              }
+            },
+            {
+              "term": "清晰而分明",
+              "meaning": {
+                "ja": "はっきりと捉えられ、他と区別できる様子です。",
+                "en": "Clear and distinct from other ideas."
+              }
+            },
+            {
+              "term": "毫无理由怀疑",
+              "meaning": {
+                "ja": "疑う根拠がまったくないことです。",
+                "en": "Having no grounds for doubt."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "只纳入那些……的东西",
+              "explanation": {
+                "ja": "判断へ入れる対象を、後の条件を満たすものだけに限定します。",
+                "en": "The restrictive construction admits only things meeting the condition."
+              }
+            },
+            {
+              "point": "呈现在我心中、使我……",
+              "explanation": {
+                "ja": "精神に現れることと、疑う理由がないことを連続する修飾で示します。",
+                "en": "Linked modifiers describe appearing to the mind and leaving no reason for doubt."
+              }
+            },
+            {
+              "point": "并且",
+              "explanation": {
+                "ja": "u002の避ける行為に、採る内容の条件を加えます。",
+                "en": "The connector adds a positive admission rule to u002’s avoidance rule."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002で性急さと先入観を避け、ここでは採用する内容を明晰で判明なものに限ります。",
+              "en": "U002 rejects haste and preconception; this clause limits admission to clear and distinct content."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -779,15 +1851,56 @@
           "ttsText": "또한 내 정신에 아주 명석하고 판명하게 나타나서 의심할 여지가 전혀 없는 것만을 판단에 포함하는 것이었다.",
           "vocabulary": [
             {
-              "term": "판단",
+              "term": "명석하고 판명하게",
               "meaning": {
-                "ja": "何を真と認めるかについての決定。",
-                "en": "Decisions about what is accepted as true."
+                "ja": "はっきりと捉えられ、他と区別できるように、ということです。",
+                "en": "Clearly and distinctly from other ideas."
+              }
+            },
+            {
+              "term": "의심할 여지",
+              "meaning": {
+                "ja": "疑いを持つ余地です。",
+                "en": "Room or grounds for doubt."
+              }
+            },
+            {
+              "term": "판단에 포함하는",
+              "meaning": {
+                "ja": "真だと判断する内容へ取り入れることです。",
+                "en": "Admit something into one’s judgments."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "... 나타나서 ...",
+              "explanation": {
+                "ja": "精神に現れる明晰さが、疑いをなくすというつながりを示します。",
+                "en": "The connective links clear appearance to the absence of doubt."
+              }
+            },
+            {
+              "point": "... 것만을 ...",
+              "explanation": {
+                "ja": "判断に含める対象を、条件に合うものだけに限定します。",
+                "en": "The particle 만 restricts admission to what meets the condition."
+              }
+            },
+            {
+              "point": "포함하는 것이었다",
+              "explanation": {
+                "ja": "名詞化して、第一の規則の積極面を述べます。",
+                "en": "The nominalization states the positive half of the first rule."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002が避けるべきものを、u003が採ってよいものを示し、第一の規則がまとまります。",
+              "en": "U002 gives what to avoid; u003 gives what may be admitted, completing the first rule."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -809,15 +1922,63 @@
           "ttsText": "だいにのきそくは、けんとうするなんもんをひとつひとつ、できるだけおおくの、しかもよりよくとくためにひつようなだけのしょうぶぶんにわけることだった。",
           "vocabulary": [
             {
+              "term": "第二の規則",
+              "meaning": {
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "難問",
+              "meaning": {
+                "ja": "検討するうえで解決が難しい課題です。",
+                "en": "A difficulty to be examined and resolved."
+              }
+            },
+            {
               "term": "小部分",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "難問を分析できるように分けた要素です。",
+                "en": "Smaller parts into which a difficulty is divided."
+              }
+            },
+            {
+              "term": "必要なだけ",
+              "meaning": {
+                "ja": "無制限に分けるのでなく、よりよい解決に要る程度です。",
+                "en": "As much division as better resolution requires."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "〜ことだった",
+              "explanation": {
+                "ja": "「分ける」という行為を名詞化し、規則の内容にします。",
+                "en": "The nominalized action of dividing supplies the rule’s content."
+              }
+            },
+            {
+              "point": "できるだけ多くの、しかも〜必要なだけの",
+              "explanation": {
+                "ja": "分割の可能性と解決への必要性を、二つの基準として重ねます。",
+                "en": "The two phrases combine what is possible with what is needed for better resolution."
+              }
+            },
+            {
+              "point": "よりよく解くために",
+              "explanation": {
+                "ja": "分割を目的そのものではなく、問題解決の手段として示します。",
+                "en": "The purpose phrase presents division as a means to solving the problem better."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この規則は難問を分析しやすい部分に分ける方法です。分割の多さだけが目的ではありません。",
+              "en": "The rule makes a difficulty easier to examine by dividing it; the number of parts is not an end in itself."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -834,15 +1995,63 @@
           "ttsText": "The second was to divide each difficulty I examined into as many parts as possible and as necessary to resolve it better.",
           "vocabulary": [
             {
-              "term": "parts",
+              "term": "second",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "difficulty",
+              "meaning": {
+                "ja": "検討するうえで解決が難しい課題です。",
+                "en": "A problem or obstacle under examination."
+              }
+            },
+            {
+              "term": "divide ... into parts",
+              "meaning": {
+                "ja": "問題を分析しやすい要素に分けることです。",
+                "en": "Break a difficulty into more manageable components."
+              }
+            },
+            {
+              "term": "resolve it better",
+              "meaning": {
+                "ja": "問題をよりよく解決することです。",
+                "en": "Solve the difficulty more effectively."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "The second was to divide ...",
+              "explanation": {
+                "ja": "序数と不定詞で、第二の規則の内容を簡潔に提示します。",
+                "en": "The ordinal plus infinitive introduces the content of the second rule."
+              }
+            },
+            {
+              "point": "each difficulty I examined",
+              "explanation": {
+                "ja": "関係代名詞が省かれた節がdifficultyを限定します。",
+                "en": "A relative clause with an omitted pronoun restricts which difficulties are meant."
+              }
+            },
+            {
+              "point": "as many ... as possible and as necessary",
+              "explanation": {
+                "ja": "分割できる範囲と、解決に必要な範囲を二つの基準として並べます。",
+                "en": "The paired as phrases balance possible division with what resolution requires."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "目的は難問を解きやすくすることです。「できるだけ多く」は解決に必要な分割と結び付きます。",
+              "en": "The point is to make each difficulty easier to resolve; “as many” is tied to what is necessary for that purpose."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -859,15 +2068,63 @@
           "ttsText": "La segunda era dividir cada una de las dificultades que examinara en tantas partes como fuera posible y como hiciera falta para resolverlas mejor.",
           "vocabulary": [
             {
-              "term": "partes",
+              "term": "segunda",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "dificultades",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "Difficulties being examined."
+              }
+            },
+            {
+              "term": "dividir ... en partes",
+              "meaning": {
+                "ja": "課題を分析しやすい部分に分けることです。",
+                "en": "Divide a problem into manageable parts."
+              }
+            },
+            {
+              "term": "resolverlas mejor",
+              "meaning": {
+                "ja": "それらの難問をよりよく解くことです。",
+                "en": "Resolve the difficulties more effectively."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "La segunda era dividir ...",
+              "explanation": {
+                "ja": "序数に不定詞を続け、第二の規則の内容を示します。",
+                "en": "The ordinal plus infinitive introduces the second rule’s action."
+              }
+            },
+            {
+              "point": "que examinara",
+              "explanation": {
+                "ja": "関係節がdificultadesを限定し、検討する課題を指します。",
+                "en": "The relative clause restricts the difficulties under examination."
+              }
+            },
+            {
+              "point": "tantas ... como ... y como ...",
+              "explanation": {
+                "ja": "可能な多さと解決に必要な多さを並べて分割の程度を示します。",
+                "en": "The paired comparison phrases give possibility and necessity as measures of division."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "las in resolverlasは複数のdificultadesを受けます。分割は解決をよくするための手段です。",
+              "en": "Las in resolverlas refers to the difficulties; division serves better resolution."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -884,18 +2141,61 @@
           "ttsText": "Le second, de diviser chacune des difficultés que j’examinerais, en autant de parcelles qu’il se pourrait, et qu’il serait requis pour les mieux résoudre.",
           "vocabulary": [
             {
+              "term": "second",
+              "meaning": {
+                "ja": "四つの規則の二番目です。",
+                "en": "The second of four rules."
+              }
+            },
+            {
+              "term": "difficultés",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "Difficulties under examination."
+              }
+            },
+            {
               "term": "parcelles",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "難問を分けて得る小さな部分です。",
+                "en": "Small parts into which a difficulty is divided."
+              }
+            },
+            {
+              "term": "résoudre",
+              "meaning": {
+                "ja": "問題を解決することです。",
+                "en": "Resolve a problem."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Le second, de diviser ...",
+              "explanation": {
+                "ja": "動詞の省略を伴う列挙で、de＋不定詞が規則の中身を示します。",
+                "en": "In the elliptical list, de plus infinitive supplies the rule’s content."
+              }
+            },
+            {
+              "point": "que j’examinerois",
+              "explanation": {
+                "ja": "関係節がdifficultésを限定し、古い綴りの条件法を用います。",
+                "en": "The relative clause limits the difficulties and uses an older conditional spelling."
+              }
+            },
+            {
+              "point": "en autant ... qu’il ... et qu’il ...",
+              "explanation": {
+                "ja": "可能な程度と必要な程度を並べ、分割の範囲を示します。",
+                "en": "The paired clauses give what is possible and what is required as measures of division."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "autant … que は数量の対応。il seroit requis は「必要とされるだろう」という受身で、単に細分化するのでなく解決に必要な分割を求めています。",
-              "en": "Autant … que correlates quantities. Il seroit requis is passive, “would be required”: the rule calls for divisions needed to solve the difficulty, not subdivision for its own sake."
+              "ja": "examinerois、pourroit、seroitは原文の古い綴りです。分割はよりよい解決のためです。",
+              "en": "Examinerois, pourroit, and seroit preserve older spellings; division serves better resolution."
             }
           ],
           "translation": {
@@ -914,15 +2214,63 @@
           "ttsText": "Die zweite war, jede untersuchte Schwierigkeit in so viele Teile zu zerlegen, wie es möglich und zu ihrer besseren Lösung nötig wäre.",
           "vocabulary": [
             {
+              "term": "zweite",
+              "meaning": {
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "Schwierigkeit",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "A difficulty under examination."
+              }
+            },
+            {
               "term": "Teile",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "分割した後の小部分です。",
+                "en": "Parts into which the difficulty is divided."
+              }
+            },
+            {
+              "term": "zerlegen",
+              "meaning": {
+                "ja": "一つのものを構成部分に分けることです。",
+                "en": "Break something down into components."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "jede ... Schwierigkeit",
+              "explanation": {
+                "ja": "jedeで検討する難問を一つずつ対象にします。",
+                "en": "Jede applies the rule to each examined difficulty."
+              }
+            },
+            {
+              "point": "so viele ... wie ...",
+              "explanation": {
+                "ja": "分割する数を、可能性と解決に必要な程度で測ります。",
+                "en": "The comparison measures the number of parts by possibility and need."
+              }
+            },
+            {
+              "point": "zu ihrer besseren Lösung",
+              "explanation": {
+                "ja": "zu＋名詞句で、分割の目的をよりよい解決と示します。",
+                "en": "The prepositional phrase gives better resolution as the purpose of division."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "分割は多いほどよいという単純な主張ではなく、問題を解きやすくするために行います。",
+              "en": "Division is guided by better resolution, not by maximizing the number of parts for its own sake."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -939,15 +2287,63 @@
           "ttsText": "Второе — разделять каждую рассматриваемую трудность на столько частей, сколько возможно и сколько требуется для её лучшего разрешения.",
           "vocabulary": [
             {
-              "term": "частей",
+              "term": "Второе",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "трудность",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "A difficulty under examination."
+              }
+            },
+            {
+              "term": "разделять ... на ... части",
+              "meaning": {
+                "ja": "課題を小さな部分へ分けることです。",
+                "en": "Divide a problem into parts."
+              }
+            },
+            {
+              "term": "разрешения",
+              "meaning": {
+                "ja": "難問の解決です。",
+                "en": "Resolution of a difficulty."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Второе — ...",
+              "explanation": {
+                "ja": "ダッシュの後に不定詞を置き、第二の規則の中身を示します。",
+                "en": "The dash introduces the infinitive giving the second rule."
+              }
+            },
+            {
+              "point": "каждую рассматриваемую ...",
+              "explanation": {
+                "ja": "分詞が「検討される難問」を限定し、каждуюで一つずつ扱います。",
+                "en": "The participle restricts the difficulties, while каждую applies the rule individually."
+              }
+            },
+            {
+              "point": "столько ... сколько ... и сколько ...",
+              "explanation": {
+                "ja": "可能な数と必要な数という二つの尺度で、分割の程度を示します。",
+                "en": "The repeated comparison gives possibility and necessity as two measures."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "分割は、よりよい解決に役立つ程度で行うという規則です。",
+              "en": "The rule calls for division to the extent useful for resolving the difficulty."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -964,15 +2360,63 @@
           "ttsText": "والثانية أن أقسم كل صعوبة أفحصها إلى أكبر عدد ممكن من الأجزاء، وبالقدر اللازم لحلها على نحو أفضل.",
           "vocabulary": [
             {
-              "term": "الأجزاء",
+              "term": "الثانية",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "صعوبة",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "A difficulty under examination."
+              }
+            },
+            {
+              "term": "أقسم ... إلى ... الأجزاء",
+              "meaning": {
+                "ja": "難問を小さな部分に分けることです。",
+                "en": "Divide a difficulty into parts."
+              }
+            },
+            {
+              "term": "لحلها",
+              "meaning": {
+                "ja": "それを解決するために、という目的です。",
+                "en": "For the purpose of resolving it."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "أن أقسم ...",
+              "explanation": {
+                "ja": "أن＋動詞が第二の規則で行うことを示します。",
+                "en": "أن plus a verb states the action required by the second rule."
+              }
+            },
+            {
+              "point": "كل صعوبة أفحصها",
+              "explanation": {
+                "ja": "كلで難問を一つずつ扱い、後ろの動詞節で検討対象を限定します。",
+                "en": "كل applies the rule to each difficulty; the following verb limits which ones."
+              }
+            },
+            {
+              "point": "أكبر عدد ممكن ... وبالقدر اللازم",
+              "explanation": {
+                "ja": "可能な多さと解決に必要な程度を並べ、分割の範囲を定めます。",
+                "en": "The paired phrases measure division by what is possible and what is needed."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「できるだけ多く」は「よりよく解くのに必要なだけ」と結び付き、無意味な細分化を目的としません。",
+              "en": "“As many as possible” is joined to what better resolution needs; subdivision is not its own aim."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -997,15 +2441,63 @@
           "ttsText": "第二条是，把我考察的每一个难题，分成尽可能多、并且为更好地解决它所需要的若干小部分。",
           "vocabulary": [
             {
+              "term": "第二条",
+              "meaning": {
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "难题",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "A difficulty under examination."
+              }
+            },
+            {
               "term": "小部分",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "分割した後の分析しやすい要素です。",
+                "en": "Smaller, more manageable parts."
+              }
+            },
+            {
+              "term": "解决",
+              "meaning": {
+                "ja": "問題を解くことです。",
+                "en": "Resolve a problem."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "把……分成……",
+              "explanation": {
+                "ja": "難問を目的語として取り出し、小部分へ分割することを示します。",
+                "en": "The 把 construction foregrounds the difficulty and its division into parts."
+              }
+            },
+            {
+              "point": "尽可能多、并且……所需要的",
+              "explanation": {
+                "ja": "可能な多さと、解決に必要な多さを二つの条件として並べます。",
+                "en": "The modifiers balance what is possible with what is needed for resolution."
+              }
+            },
+            {
+              "point": "每一个",
+              "explanation": {
+                "ja": "難問を一つ一つ対象にすることを示します。",
+                "en": "The phrase applies the rule to each difficulty individually."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "分割は分析を助ける方法であり、部分の数を増やすこと自体が目的ではありません。",
+              "en": "Division helps analysis; increasing the number of parts is not the goal by itself."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1030,15 +2522,63 @@
           "ttsText": "둘째는 검토하는 어려움을 하나하나 가능한 한 많이, 또 더 잘 해결하는 데 필요한 만큼의 작은 부분으로 나누는 것이었다.",
           "vocabulary": [
             {
+              "term": "둘째",
+              "meaning": {
+                "ja": "四つの方法上の規則の二番目です。",
+                "en": "The second of four rules of method."
+              }
+            },
+            {
+              "term": "어려움",
+              "meaning": {
+                "ja": "検討する難しい課題です。",
+                "en": "A difficulty under examination."
+              }
+            },
+            {
               "term": "작은 부분",
               "meaning": {
-                "ja": "問題を解きやすくするための分割単位。",
-                "en": "Smaller divisions that make a problem easier to resolve."
+                "ja": "難問を分けて得る小さな要素です。",
+                "en": "Small parts into which the difficulty is divided."
+              }
+            },
+            {
+              "term": "해결하는 데",
+              "meaning": {
+                "ja": "解決するために、という目的です。",
+                "en": "For the purpose of resolving it."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "하나하나 ... 나누는 것",
+              "explanation": {
+                "ja": "難問を個別に対象にし、分割する行為を名詞化して規則とします。",
+                "en": "The construction applies the rule to each difficulty and nominalizes division."
+              }
+            },
+            {
+              "point": "가능한 한 많이 ... 필요한 만큼",
+              "explanation": {
+                "ja": "分割できる程度と解決に必要な程度を並べます。",
+                "en": "The paired measures balance possibility and need for resolution."
+              }
+            },
+            {
+              "point": "더 잘 해결하는 데",
+              "explanation": {
+                "ja": "分割の目的を、よりよい問題解決と示します。",
+                "en": "The phrase makes better resolution the purpose of division."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "小部分を増やすこと自体ではなく、難問を解きやすくすることが中心です。",
+              "en": "The aim is easier resolution of the difficulty, not subdivision for its own sake."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1060,15 +2600,63 @@
           "ttsText": "だいさんのきそくは、もっともたんじゅんでもっともにんしきしやすいたいしょうからはじめ、じゅんじょにしたがってじぶんのしこうをすすめること、",
           "vocabulary": [
             {
-              "term": "順序",
+              "term": "第三の規則",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "単純",
+              "meaning": {
+                "ja": "構成や関係が複雑でないことです。",
+                "en": "Less complex in structure or relation."
+              }
+            },
+            {
+              "term": "認識しやすい対象",
+              "meaning": {
+                "ja": "理解・把握しやすい事柄です。",
+                "en": "Objects easiest to grasp or understand."
+              }
+            },
+            {
+              "term": "順序に従って",
+              "meaning": {
+                "ja": "考える道筋を飛ばさず、段階を追うことです。",
+                "en": "Proceeding step by step in an ordered sequence."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "〜から始め",
+              "explanation": {
+                "ja": "最初に扱うものを、単純で知りやすい対象に定めます。",
+                "en": "The starting point is fixed as what is simplest and easiest to know."
+              }
+            },
+            {
+              "point": "〜て、〜こと",
+              "explanation": {
+                "ja": "始めることと考えを進めることを結び、規則の一部として述べます。",
+                "en": "The linked verbs connect the starting point with the ordering of thought."
+              }
+            },
+            {
+              "point": "読点で続く",
+              "explanation": {
+                "ja": "第三の規則はu006の複雑なものへ上る段階まで続きます。",
+                "en": "The comma leaves the third rule open through u006’s ascent to complex matters."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは「単純なものから複雑なものへ」という思考の順序を定め、u006がその進み方を詳しくします。",
+              "en": "This sets the order from simple to complex; u006 details how the ascent proceeds."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1085,15 +2673,63 @@
           "ttsText": "The third was to guide my thoughts in order, beginning with the simplest objects and those easiest to know,",
           "vocabulary": [
             {
-              "term": "order",
+              "term": "third",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "guide my thoughts",
+              "meaning": {
+                "ja": "自分の思考の進み方を制御することです。",
+                "en": "Direct the course of one’s thinking."
+              }
+            },
+            {
+              "term": "in order",
+              "meaning": {
+                "ja": "筋道を立てた順序に従って、ということです。",
+                "en": "In a deliberate sequence."
+              }
+            },
+            {
+              "term": "simplest objects",
+              "meaning": {
+                "ja": "最も複雑でない対象です。",
+                "en": "The least complex objects under consideration."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "The third was to guide ...",
+              "explanation": {
+                "ja": "序数と不定詞で、第三の規則の中心動作を示します。",
+                "en": "The ordinal plus infinitive states the action required by the third rule."
+              }
+            },
+            {
+              "point": "beginning with ...",
+              "explanation": {
+                "ja": "現在分詞句が、思考の出発点を単純で知りやすい対象と示します。",
+                "en": "The participial phrase sets the starting point among simple, knowable objects."
+              }
+            },
+            {
+              "point": "the simplest ... and those easiest ...",
+              "explanation": {
+                "ja": "単純さと認識のしやすさを、出発点の二つの特徴として並べます。",
+                "en": "The paired descriptions give simplicity and ease of knowing as starting criteria."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "コンマからu006へ第三の規則が続き、思考は段階的に複雑なものへ進みます。",
+              "en": "The comma continues the third rule in u006, where thought moves gradually toward the complex."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1110,15 +2746,63 @@
           "ttsText": "La tercera era conducir mis pensamientos por orden, comenzando por los objetos más simples y más fáciles de conocer,",
           "vocabulary": [
             {
-              "term": "orden",
+              "term": "tercera",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "conducir mis pensamientos",
+              "meaning": {
+                "ja": "自分の思考を導き進めることです。",
+                "en": "Guide the course of one’s thoughts."
+              }
+            },
+            {
+              "term": "por orden",
+              "meaning": {
+                "ja": "定めた順序に従って、ということです。",
+                "en": "In an ordered sequence."
+              }
+            },
+            {
+              "term": "objetos más simples",
+              "meaning": {
+                "ja": "最も複雑でない対象です。",
+                "en": "The simplest objects being considered."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "La tercera era conducir ...",
+              "explanation": {
+                "ja": "序数と不定詞で、第三の規則の内容を述べます。",
+                "en": "The ordinal plus infinitive introduces the third rule."
+              }
+            },
+            {
+              "point": "comenzando por ...",
+              "explanation": {
+                "ja": "現在分詞句が思考の出発点を示します。",
+                "en": "The gerund phrase identifies where thought should begin."
+              }
+            },
+            {
+              "point": "más simples y más fáciles ...",
+              "explanation": {
+                "ja": "単純さと知りやすさを並べ、出発点を二つの面から定めます。",
+                "en": "The paired comparatives set simplicity and ease of knowing as starting criteria."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "文末のコンマからu006へ進み、複雑なものへ段階的に上ることが続きます。",
+              "en": "The comma leads to u006, where thought ascends gradually toward the complex."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1135,18 +2819,61 @@
           "ttsText": "Le troisième, de conduire par ordre mes pensées, en commençant par les objets les plus simples et les plus aisés à connaître,",
           "vocabulary": [
             {
-              "term": "ordre",
+              "term": "troisième",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules."
+              }
+            },
+            {
+              "term": "conduire ... mes pensées",
+              "meaning": {
+                "ja": "自分の思考を導くことです。",
+                "en": "Guide the course of one’s thoughts."
+              }
+            },
+            {
+              "term": "par ordre",
+              "meaning": {
+                "ja": "段階を踏む順序に従って、ということです。",
+                "en": "In an ordered sequence."
+              }
+            },
+            {
+              "term": "les plus aisés à connoître",
+              "meaning": {
+                "ja": "最も知りやすい対象です。",
+                "en": "The easiest objects to know."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Le troisième, de conduire ...",
+              "explanation": {
+                "ja": "動詞が省かれた列挙で、de＋不定詞が第三の規則を示します。",
+                "en": "In the elliptical list, de plus infinitive gives the third rule."
+              }
+            },
+            {
+              "point": "en commençant par ...",
+              "explanation": {
+                "ja": "en＋現在分詞が、思考の出発点を示します。",
+                "en": "The gerund phrase sets the starting point for thought."
+              }
+            },
+            {
+              "point": "les plus simples et les plus aisés ...",
+              "explanation": {
+                "ja": "単純さと認識の容易さを並べ、出発点を定めます。",
+                "en": "The paired superlatives give two qualities of the starting objects."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "en commençant はジェロンディフで、思考を進める方法を示します。les plus … は最上級。connoître は現代の connaître に相当します。",
-              "en": "En commençant is a gerund construction showing how to proceed. Les plus … forms a superlative. Connoître corresponds to modern connaître."
+              "ja": "connoîtreは原文の古い綴りです。第三の規則はu006の複雑なものへの上昇へ続きます。",
+              "en": "Connoître preserves an older spelling; u006 continues the ascent toward complex things."
             }
           ],
           "translation": {
@@ -1165,15 +2892,63 @@
           "ttsText": "Die dritte war, meine Gedanken geordnet zu führen, angefangen bei den einfachsten und am leichtesten zu erkennenden Gegenständen,",
           "vocabulary": [
             {
+              "term": "dritte",
+              "meaning": {
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "meine Gedanken",
+              "meaning": {
+                "ja": "自分の考え・思考の流れです。",
+                "en": "One’s thoughts or course of thinking."
+              }
+            },
+            {
               "term": "geordnet",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "筋道のある順序に沿って、ということです。",
+                "en": "In an ordered way."
+              }
+            },
+            {
+              "term": "einfachsten ... Gegenständen",
+              "meaning": {
+                "ja": "最も単純な対象です。",
+                "en": "The simplest objects under consideration."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Die dritte war ... zu führen",
+              "explanation": {
+                "ja": "不定詞句が第三の規則の行為を示します。",
+                "en": "The zu infinitive phrase states the action of the third rule."
+              }
+            },
+            {
+              "point": "angefangen bei ...",
+              "explanation": {
+                "ja": "分詞句が思考の出発点を示します。",
+                "en": "The participial phrase identifies the starting point."
+              }
+            },
+            {
+              "point": "einfachsten und ... leichtesten",
+              "explanation": {
+                "ja": "単純さと知りやすさを二つの基準として並べます。",
+                "en": "The paired superlatives give simplicity and ease of knowing as two criteria."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "文末のコンマからu006の複雑なものへの段階的な上昇が続きます。",
+              "en": "The final comma leads to the gradual ascent to complex matters in u006."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1190,15 +2965,63 @@
           "ttsText": "Третье — вести свои мысли по порядку, начиная с предметов самых простых и самых лёгких для познания,",
           "vocabulary": [
             {
+              "term": "Третье",
+              "meaning": {
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "вести свои мысли",
+              "meaning": {
+                "ja": "自分の思考を導くことです。",
+                "en": "Guide one’s thoughts."
+              }
+            },
+            {
               "term": "по порядку",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "定めた順序に沿って、ということです。",
+                "en": "In an ordered sequence."
+              }
+            },
+            {
+              "term": "самых простых",
+              "meaning": {
+                "ja": "最も複雑でない対象です。",
+                "en": "The simplest objects."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "Третье — ...",
+              "explanation": {
+                "ja": "ダッシュの後に不定詞を置き、第三の規則の中身を示します。",
+                "en": "The dash introduces the infinitive stating the third rule."
+              }
+            },
+            {
+              "point": "начиная с ...",
+              "explanation": {
+                "ja": "副動詞句が思考の出発点を示します。",
+                "en": "The verbal adverb phrase gives the starting point."
+              }
+            },
+            {
+              "point": "самых простых и самых лёгких ...",
+              "explanation": {
+                "ja": "単純さと知りやすさを、出発点の二つの特徴とします。",
+                "en": "The paired superlatives set simplicity and ease of knowing as starting criteria."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u006では、そこから複雑なものの認識へ少しずつ上ると続きます。",
+              "en": "U006 continues by moving gradually from that start toward knowledge of the complex."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1215,15 +3038,63 @@
           "ttsText": "والثالثة أن أقود أفكاري بترتيب، مبتدئًا بالأشياء الأبسط والأسهل معرفة،",
           "vocabulary": [
             {
+              "term": "الثالثة",
+              "meaning": {
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "أقود أفكاري",
+              "meaning": {
+                "ja": "自分の思考の流れを導くことです。",
+                "en": "Guide the course of my thoughts."
+              }
+            },
+            {
               "term": "بترتيب",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "筋道のある順序で、ということです。",
+                "en": "In an ordered sequence."
+              }
+            },
+            {
+              "term": "الأشياء الأبسط",
+              "meaning": {
+                "ja": "より単純な対象です。",
+                "en": "The simpler objects under consideration."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "أن أقود ...",
+              "explanation": {
+                "ja": "أن＋動詞が第三の規則で行うことを示します。",
+                "en": "أن plus a verb states the action required by the third rule."
+              }
+            },
+            {
+              "point": "مبتدئًا بـ ...",
+              "explanation": {
+                "ja": "分詞が思考の出発点を示します。",
+                "en": "The participle identifies where the sequence begins."
+              }
+            },
+            {
+              "point": "الأبسط والأسهل معرفة",
+              "explanation": {
+                "ja": "単純さと知りやすさを、始める対象の二つの特徴とします。",
+                "en": "The paired forms give simplicity and ease of knowing as starting criteria."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u006で、単純なものから複雑なものへ段階的に進む方法が続きます。",
+              "en": "U006 continues with a gradual move from simple things to complex ones."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1248,15 +3119,63 @@
           "ttsText": "第三条是，按顺序引导我的思想，从最简单、最容易认识的对象开始，",
           "vocabulary": [
             {
-              "term": "顺序",
+              "term": "第三条",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "按顺序",
+              "meaning": {
+                "ja": "筋道を立てた順序に従って、ということです。",
+                "en": "In a deliberate sequence."
+              }
+            },
+            {
+              "term": "引导我的思想",
+              "meaning": {
+                "ja": "自分の思考の進み方を導くことです。",
+                "en": "Guide the course of my thinking."
+              }
+            },
+            {
+              "term": "最简单、最容易认识",
+              "meaning": {
+                "ja": "単純さと知りやすさという二つの基準です。",
+                "en": "The simplest and easiest to know."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "从……开始",
+              "explanation": {
+                "ja": "思考の出発点を単純で知りやすい対象に定めます。",
+                "en": "The construction places the starting point among simple, knowable objects."
+              }
+            },
+            {
+              "point": "按顺序……",
+              "explanation": {
+                "ja": "順序を守ることを第三の規則の中心に据えます。",
+                "en": "The phrase makes orderly progression central to the rule."
+              }
+            },
+            {
+              "point": "最……、最……",
+              "explanation": {
+                "ja": "二つの最上級を並べ、始める対象の条件を重ねます。",
+                "en": "The paired superlatives give two qualifications for the starting objects."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "末尾のコンマからu006へ続き、複雑なものへ上る段階を述べます。",
+              "en": "The final comma leads into u006’s gradual ascent toward complex objects."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1277,15 +3196,63 @@
           "ttsText": "셋째는 가장 단순하고 가장 알기 쉬운 대상부터 시작하여, 순서에 따라 생각을 이끌어 가는 것이었다.",
           "vocabulary": [
             {
-              "term": "순서",
+              "term": "셋째",
               "meaning": {
-                "ja": "思考を進めるときの配列や手順。",
-                "en": "An arrangement or sequence in which thought proceeds."
+                "ja": "四つの方法上の規則の三番目です。",
+                "en": "The third of four rules of method."
+              }
+            },
+            {
+              "term": "단순하고",
+              "meaning": {
+                "ja": "構成や関係が複雑でないことです。",
+                "en": "Simple rather than complex."
+              }
+            },
+            {
+              "term": "알기 쉬운 대상",
+              "meaning": {
+                "ja": "理解・把握しやすい対象です。",
+                "en": "Objects easy to know or grasp."
+              }
+            },
+            {
+              "term": "순서에 따라",
+              "meaning": {
+                "ja": "段階を追った順序に沿って、ということです。",
+                "en": "According to an ordered sequence."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "... 부터 시작하여",
+              "explanation": {
+                "ja": "思考の出発点を単純で知りやすいものに定めます。",
+                "en": "The phrase fixes the starting point among simple, knowable things."
+              }
+            },
+            {
+              "point": "... 생각을 이끌어 가는 것",
+              "explanation": {
+                "ja": "思考を進める行為を名詞化し、規則の内容とします。",
+                "en": "The nominalized phrase makes guiding thought the rule’s content."
+              }
+            },
+            {
+              "point": "가장 ... 가장 ...",
+              "explanation": {
+                "ja": "二つの最上級を並べ、単純さと認識の容易さを重ねます。",
+                "en": "The paired superlatives combine simplicity with ease of knowing."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "韓国語ではここで一文を閉じますが、u006に複雑なものへ上る続きの内容があります。",
+              "en": "The Korean sentence closes here, while u006 continues the ascent toward complexity."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1307,15 +3274,63 @@
           "ttsText": "それによって、だんをのぼるようにすこしずつもっともふくざつなもののにんしきにいたり、しぜんにはぜんごかんけいのないもののあいだにさえじゅんじょをそうていすることだった。",
           "vocabulary": [
             {
-              "term": "少しずつ",
+              "term": "段を上るように",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "階段を一段ずつ上る比喩で、思考の段階性を示します。",
+                "en": "A stair-climbing image for stepwise reasoning."
+              }
+            },
+            {
+              "term": "最も複雑なもの",
+              "meaning": {
+                "ja": "多くの要素や関係から成る対象です。",
+                "en": "The most complex objects or matters."
+              }
+            },
+            {
+              "term": "前後関係のないもの",
+              "meaning": {
+                "ja": "自然に決まる順序を持たない事柄です。",
+                "en": "Things without an inherent sequence."
+              }
+            },
+            {
+              "term": "順序を想定",
+              "meaning": {
+                "ja": "考えるための順番を仮に設けることです。",
+                "en": "Impose a working order for analysis."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "それによって",
+              "explanation": {
+                "ja": "u005の単純なものから始める方針を受け、その先の到達点を示します。",
+                "en": "This links the start with simple objects in u005 to the later ascent."
+              }
+            },
+            {
+              "point": "〜ように少しずつ",
+              "explanation": {
+                "ja": "階段の比喩で、複雑なものへ段階を飛ばさず進む様子です。",
+                "en": "The simile depicts gradual movement without skipping steps."
+              }
+            },
+            {
+              "point": "〜さえ",
+              "explanation": {
+                "ja": "自然な順序がない対象にも順序を置くという、規則の適用範囲を広げます。",
+                "en": "The particle extends ordering even to things without a natural sequence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005・u006を合わせて第三の規則です。「順序を想定」は事物に元からその順番があると断定することではありません。",
+              "en": "Together u005–u006 form the third rule. Imposing an order for thought does not claim that the order exists naturally."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1334,13 +3349,68 @@
             {
               "term": "little by little",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "少しずつ、段階を追って、という意味です。",
+                "en": "Gradually, in small stages."
+              }
+            },
+            {
+              "term": "as if by steps",
+              "meaning": {
+                "ja": "階段を上るように、という比喩です。",
+                "en": "As though climbing a staircase."
+              }
+            },
+            {
+              "term": "most complex",
+              "meaning": {
+                "ja": "要素や関係が最も入り組んだ対象です。",
+                "en": "The objects with the most involved structure or relations."
+              }
+            },
+            {
+              "term": "supposing an order",
+              "meaning": {
+                "ja": "思考のために順番を仮定することです。",
+                "en": "Positing an order as a method of reasoning."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "to rise ... to knowledge ...",
+              "explanation": {
+                "ja": "u005のto guideに続く不定詞で、単純なものから複雑なものへの到達を述べます。",
+                "en": "The infinitive continues u005’s rule, moving from simple beginnings toward complex knowledge."
+              }
+            },
+            {
+              "point": "as if by steps",
+              "explanation": {
+                "ja": "挿入の比喩が、思考の進み方の段階性を強調します。",
+                "en": "The inserted simile emphasizes stepwise progress."
+              }
+            },
+            {
+              "point": "even supposing ...",
+              "explanation": {
+                "ja": "自然な前後関係がない場合にも順序を仮定するという拡張です。",
+                "en": "The participial phrase extends ordering to things without an inherent sequence."
+              }
+            },
+            {
+              "point": "that do not naturally precede ...",
+              "explanation": {
+                "ja": "関係節が「自然な順序のないもの」を限定します。",
+                "en": "The relative clause specifies the things lacking a natural precedence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005で始まる第三の規則を締めます。仮の順序は思考の道具で、すべての対象に自然な順序があるという主張ではありません。",
+              "en": "This completes the third rule begun in u005. The imposed order guides reasoning; it does not claim an inherent sequence in every subject."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1359,13 +3429,61 @@
             {
               "term": "poco a poco",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "少しずつ、段階を踏んで、という意味です。",
+                "en": "Gradually, step by step."
+              }
+            },
+            {
+              "term": "como por grados",
+              "meaning": {
+                "ja": "階段や段階を上るように、という比喩です。",
+                "en": "As if ascending by stages."
+              }
+            },
+            {
+              "term": "los más compuestos",
+              "meaning": {
+                "ja": "要素が最も多く組み合わさった対象です。",
+                "en": "The most compound or complex objects."
+              }
+            },
+            {
+              "term": "suponiendo un orden",
+              "meaning": {
+                "ja": "分析のために順序を仮定することです。",
+                "en": "Positing an order to guide reasoning."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "para ascender ...",
+              "explanation": {
+                "ja": "u005の思考を導く行為の目的・進路を示します。",
+                "en": "The purpose clause gives the direction of thought begun in u005."
+              }
+            },
+            {
+              "point": "suponiendo incluso ...",
+              "explanation": {
+                "ja": "現在分詞が、自然な順序のない場合にも仮の順序を置くと追加します。",
+                "en": "The gerund adds the possibility of ordering even where no natural sequence exists."
+              }
+            },
+            {
+              "point": "que no se preceden ...",
+              "explanation": {
+                "ja": "関係節が、自然には前後しない対象を限定します。",
+                "en": "The relative clause identifies things without natural precedence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005から続く第三の規則です。仮定した順序は考えるための方法で、対象固有の順番とは限りません。",
+              "en": "This continues the third rule from u005; an assumed order is a method, not necessarily inherent in the objects."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1384,16 +3502,59 @@
             {
               "term": "peu à peu",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "少しずつ、段階を追って、という意味です。",
+                "en": "Gradually, little by little."
+              }
+            },
+            {
+              "term": "comme par degrés",
+              "meaning": {
+                "ja": "段を上るように、という比喩です。",
+                "en": "As though rising by stages."
+              }
+            },
+            {
+              "term": "plus composés",
+              "meaning": {
+                "ja": "より多くの要素が組み合わさった複雑な対象です。",
+                "en": "More compound or complex objects."
+              }
+            },
+            {
+              "term": "supposant de l’ordre",
+              "meaning": {
+                "ja": "考えるための順番を仮に置くことです。",
+                "en": "Assuming an order as a reasoning method."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "pour monter ...",
+              "explanation": {
+                "ja": "u005の単純な出発点から、複雑な対象へ向かう目的を示します。",
+                "en": "The infinitive gives the ascent from u005’s simple starting point."
+              }
+            },
+            {
+              "point": "comme par degrés",
+              "explanation": {
+                "ja": "比喩によって、思考の段階的な進み方を示します。",
+                "en": "The simile portrays reasoning in stages."
+              }
+            },
+            {
+              "point": "entre ceux qui ...",
+              "explanation": {
+                "ja": "関係節が自然な前後関係を持たない対象を限定します。",
+                "en": "The relative clause specifies things without inherent precedence."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "pour monter は目的を示します。les plus composés は前の objets を受ける名詞的な表現。ne … point は強い否定です。",
-              "en": "Pour monter states a purpose. Les plus composés stands for the most complex objects, carrying over objets. Ne … point is an emphatic negative."
+              "ja": "jusques、connoissance、précèdent pointは原文の古い表記・否定です。順序は思考のために仮定します。",
+              "en": "Jusques and connoissance preserve older usage, and ne ... point is a negative; the order is assumed for reasoning."
             }
           ],
           "translation": {
@@ -1414,13 +3575,61 @@
             {
               "term": "nach und nach",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "少しずつ、段階を踏んで、という意味です。",
+                "en": "Gradually, step by step."
+              }
+            },
+            {
+              "term": "gleichsam stufenweise",
+              "meaning": {
+                "ja": "階段状に進むように、という比喩です。",
+                "en": "As if by steps."
+              }
+            },
+            {
+              "term": "zusammengesetztesten",
+              "meaning": {
+                "ja": "最も多くの要素が組み合わさった対象です。",
+                "en": "The most compound or complex things."
+              }
+            },
+            {
+              "term": "Ordnung anzunehmen",
+              "meaning": {
+                "ja": "考察のために順序を仮定することです。",
+                "en": "Assume an order for analysis."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "um ... aufzusteigen",
+              "explanation": {
+                "ja": "u005で始めた思考の進路を、目的の不定詞で示します。",
+                "en": "The purpose infinitive gives the ascent from the start in u005."
+              }
+            },
+            {
+              "point": "zwischen Dingen ... die ...",
+              "explanation": {
+                "ja": "関係節が、自然な順序を持たない事物を限定します。",
+                "en": "The relative clause identifies things lacking a natural sequence."
+              }
+            },
+            {
+              "point": "sogar ... anzunehmen",
+              "explanation": {
+                "ja": "自然な前後関係がない場合にも、仮の順序を設けると強調します。",
+                "en": "Sogar extends the method to imposing order where none is inherent."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005と合わせて第三の規則です。仮定する順序は考えるためのもので、事物固有の順番とは限りません。",
+              "en": "This completes the third rule from u005; the assumed order need not be inherent in the things."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1439,13 +3648,61 @@
             {
               "term": "постепенно",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "少しずつ、段階を踏んで、という意味です。",
+                "en": "Gradually, in stages."
+              }
+            },
+            {
+              "term": "словно по ступеням",
+              "meaning": {
+                "ja": "階段を上るように、という比喩です。",
+                "en": "As though climbing steps."
+              }
+            },
+            {
+              "term": "самых сложных",
+              "meaning": {
+                "ja": "構造や関係が最も複雑な対象です。",
+                "en": "The most complex objects."
+              }
+            },
+            {
+              "term": "предполагая порядок",
+              "meaning": {
+                "ja": "思考のために順序を仮定することです。",
+                "en": "Assuming an order as a method of thought."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "чтобы ... подниматься",
+              "explanation": {
+                "ja": "u005で始めた思考が複雑な対象へ進む目的・方向を示します。",
+                "en": "The purpose clause gives the direction of the thought begun in u005."
+              }
+            },
+            {
+              "point": "словно по ступеням",
+              "explanation": {
+                "ja": "階段の比喩で、段階を飛ばさず進む様子を示します。",
+                "en": "The stair simile depicts progress by stages."
+              }
+            },
+            {
+              "point": "даже между теми, которые ...",
+              "explanation": {
+                "ja": "自然な前後関係のない対象まで、順序の仮定を広げます。",
+                "en": "The construction extends ordering even to things without natural precedence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005から続く第三の規則です。仮定した順序を、対象に生まれつきある順番と混同しません。",
+              "en": "This continues the third rule from u005; the assumed sequence is not necessarily inherent in the objects."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1464,13 +3721,61 @@
             {
               "term": "شيئًا فشيئًا",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "少しずつ、段階的に、という意味です。",
+                "en": "Little by little, in stages."
+              }
+            },
+            {
+              "term": "كأنني أصعد درجات",
+              "meaning": {
+                "ja": "階段を上るように、という比喩です。",
+                "en": "As if climbing stairs."
+              }
+            },
+            {
+              "term": "أكثرها تركيبًا",
+              "meaning": {
+                "ja": "要素が最も複雑に組み合わさった対象です。",
+                "en": "The most compound or complex of them."
+              }
+            },
+            {
+              "term": "مفترضًا ترتيبًا",
+              "meaning": {
+                "ja": "考察のために順序を仮定することです。",
+                "en": "Assuming an order as a reasoning method."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "لأرتقي ...",
+              "explanation": {
+                "ja": "لِ＋動詞で、u005から複雑なものへ進む目的を示します。",
+                "en": "The purpose form gives the ascent from the simple start in u005."
+              }
+            },
+            {
+              "point": "كأنني ...",
+              "explanation": {
+                "ja": "階段の比喩で、思考が段階を追う様子を表します。",
+                "en": "The simile depicts reasoning in steps."
+              }
+            },
+            {
+              "point": "حتى بين ... التي لا ...",
+              "explanation": {
+                "ja": "自然な前後関係のない対象にさえ、順序を仮定すると広げます。",
+                "en": "The construction extends assumed order even to things without natural precedence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005とu006で第三の規則です。順序は考えるための仮定であり、対象に固有とは限りません。",
+              "en": "Together u005–u006 state the third rule; the order is assumed for thought, not necessarily inherent."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1497,13 +3802,61 @@
             {
               "term": "一步一步",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "一段ずつ、段階を追って、という意味です。",
+                "en": "Step by step."
+              }
+            },
+            {
+              "term": "仿佛登台阶一般",
+              "meaning": {
+                "ja": "階段を上るように、という比喩です。",
+                "en": "As if climbing stairs."
+              }
+            },
+            {
+              "term": "最复杂对象",
+              "meaning": {
+                "ja": "構造や関係が最も入り組んだ対象です。",
+                "en": "The most complex objects."
+              }
+            },
+            {
+              "term": "假定一种顺序",
+              "meaning": {
+                "ja": "考察のために順番を仮に置くことです。",
+                "en": "Posit an order as a reasoning tool."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "以便……",
+              "explanation": {
+                "ja": "u005の単純な出発点から、複雑な対象へ進む目的を示します。",
+                "en": "The purpose phrase gives the ascent from u005’s simple starting point."
+              }
+            },
+            {
+              "point": "甚至……也……",
+              "explanation": {
+                "ja": "自然な前後関係のない事物にも順序を想定すると広げます。",
+                "en": "The pattern extends ordering even to things without inherent sequence."
+              }
+            },
+            {
+              "point": "在……之间",
+              "explanation": {
+                "ja": "順序を置く対象同士の関係を示します。",
+                "en": "The locative phrase identifies the things between which order is imposed."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005から続く第三の規則です。仮の順序は考えるための方法で、自然な順番とは限りません。",
+              "en": "This continues the third rule from u005; a working order need not be a natural sequence."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1528,15 +3881,63 @@
           "ttsText": "그리하여 계단을 오르듯 조금씩 가장 복잡한 것의 인식에 이르고, 자연적으로 앞뒤 관계가 없는 것들 사이에도 순서를 가정하는 것이었다.",
           "vocabulary": [
             {
-              "term": "조금씩",
+              "term": "계단을 오르듯",
               "meaning": {
-                "ja": "段階を追って進むこと。",
-                "en": "Proceeding gradually through stages."
+                "ja": "階段を上るように、という比喩です。",
+                "en": "As though climbing stairs."
+              }
+            },
+            {
+              "term": "가장 복잡한 것",
+              "meaning": {
+                "ja": "要素や関係が最も入り組んだ対象です。",
+                "en": "The most complex matters."
+              }
+            },
+            {
+              "term": "앞뒤 관계",
+              "meaning": {
+                "ja": "自然に定まる先後の順序です。",
+                "en": "An inherent before-and-after relation."
+              }
+            },
+            {
+              "term": "순서를 가정",
+              "meaning": {
+                "ja": "考えるための順番を仮に設けることです。",
+                "en": "Assume an order for reasoning."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "그리하여 ... 이르고",
+              "explanation": {
+                "ja": "u005の単純な出発点から複雑な対象へ到達するとつなぎます。",
+                "en": "The connective links u005’s simple starting point to complex knowledge."
+              }
+            },
+            {
+              "point": "... 듯 조금씩",
+              "explanation": {
+                "ja": "階段の比喩で段階的な進み方を示します。",
+                "en": "The simile depicts gradual, stepwise movement."
+              }
+            },
+            {
+              "point": "... 없는 것들 사이에도",
+              "explanation": {
+                "ja": "自然な順序のない対象にまで仮の順序を広げます。",
+                "en": "The phrase extends assumed ordering to things without a natural sequence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005と合わせて第三の規則です。仮定する順序が対象に元からあるとは述べていません。",
+              "en": "This completes the third rule from u005; it does not claim the assumed order exists naturally."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1558,15 +3959,63 @@
           "ttsText": "さいごのきそくは、なにもみおとしていないとかくしんできるほどかんぜんなまいきょとぜんぱんてきなみなおしを、あらゆるばあいにおこなうことだった。",
           "vocabulary": [
             {
-              "term": "見落とし",
+              "term": "最後の規則",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "四つの方法上の規則の四番目です。",
+                "en": "The fourth and final rule of method."
+              }
+            },
+            {
+              "term": "完全な枚挙",
+              "meaning": {
+                "ja": "検討すべき項目を漏れなく列挙することです。",
+                "en": "A complete listing of items to consider."
+              }
+            },
+            {
+              "term": "全般的な見直し",
+              "meaning": {
+                "ja": "全体を広く点検し直すことです。",
+                "en": "A comprehensive review of the whole."
+              }
+            },
+            {
+              "term": "見落としていない",
+              "meaning": {
+                "ja": "必要な項目を抜かしていないことです。",
+                "en": "Having omitted nothing relevant."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "〜ほど〜",
+              "explanation": {
+                "ja": "枚挙と見直しの徹底度を、漏れがないと確信できる程度で示します。",
+                "en": "The degree construction measures completeness by confidence that nothing is omitted."
+              }
+            },
+            {
+              "point": "〜と〜を、あらゆる場合に行う",
+              "explanation": {
+                "ja": "列挙と全体の点検を対にし、例外なく実行する規則とします。",
+                "en": "The paired actions are required in every case."
+              }
+            },
+            {
+              "point": "〜ことだった",
+              "explanation": {
+                "ja": "行為全体を名詞化し、最後の規則の内容にします。",
+                "en": "The nominalized phrase gives the content of the last rule."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「枚挙」は要素を一つずつ点検する側、「見直し」は全体を振り返る側で、両方で漏れを防ぎます。",
+              "en": "Enumeration checks items one by one; review checks the whole, together guarding against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1583,15 +4032,70 @@
           "ttsText": "And the last was everywhere to make enumerations so complete and reviews so comprehensive that I could be certain of omitting nothing.",
           "vocabulary": [
             {
-              "term": "omitting",
+              "term": "enumerations",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "検討事項を項目ごとに列挙することです。",
+                "en": "Lists or counts of items requiring examination."
+              }
+            },
+            {
+              "term": "reviews",
+              "meaning": {
+                "ja": "一通り考えた内容を点検し直すことです。",
+                "en": "Rechecks of what has been considered."
+              }
+            },
+            {
+              "term": "comprehensive",
+              "meaning": {
+                "ja": "全体を広く覆うことです。",
+                "en": "Covering the whole relevant scope."
+              }
+            },
+            {
+              "term": "omitting nothing",
+              "meaning": {
+                "ja": "必要な点を一つも抜かさないことです。",
+                "en": "Leaving out no relevant point."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "the last was ... to make ...",
+              "explanation": {
+                "ja": "序数と不定詞で、最後の規則の実行内容を述べます。",
+                "en": "The ordinal plus infinitive introduces the final rule’s practice."
+              }
+            },
+            {
+              "point": "so complete ... so comprehensive that ...",
+              "explanation": {
+                "ja": "二つの程度表現をthat節の結果へ結び、漏れがないと確信できる水準を示します。",
+                "en": "The paired degree phrases lead to confidence that nothing is left out."
+              }
+            },
+            {
+              "point": "enumerations ... and reviews ...",
+              "explanation": {
+                "ja": "項目ごとの列挙と全体の見直しを、補い合う手順として並べます。",
+                "en": "The coordinated nouns pair item-by-item enumeration with overall review."
+              }
+            },
+            {
+              "point": "everywhere",
+              "explanation": {
+                "ja": "場所というより、どの検討でも行うことを示します。",
+                "en": "Here it means in every case of inquiry, not a physical location."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "枚挙は項目ごとに、見直しは全体を点検し、第四の規則は両方で漏れを防ぎます。",
+              "en": "Enumeration checks individual items, while review surveys the whole; the fourth rule uses both to guard against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1608,15 +4112,63 @@
           "ttsText": "Y la última era hacer en todas partes enumeraciones tan completas y revisiones tan generales que tuviera la seguridad de no omitir nada.",
           "vocabulary": [
             {
-              "term": "omitir",
+              "term": "enumeraciones",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "検討事項を項目ごとに列挙することです。",
+                "en": "Item-by-item enumerations."
+              }
+            },
+            {
+              "term": "revisiones",
+              "meaning": {
+                "ja": "考えた内容をもう一度点検することです。",
+                "en": "Reviews of what has been considered."
+              }
+            },
+            {
+              "term": "generales",
+              "meaning": {
+                "ja": "全体に及ぶ、という意味です。",
+                "en": "Broad enough to cover the whole."
+              }
+            },
+            {
+              "term": "omitir nada",
+              "meaning": {
+                "ja": "必要なことを何も抜かさないことです。",
+                "en": "Leave nothing relevant out."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "La última era hacer ...",
+              "explanation": {
+                "ja": "序数と不定詞で、最後の規則の中身を示します。",
+                "en": "The ordinal plus infinitive introduces the last rule’s action."
+              }
+            },
+            {
+              "point": "tan ... y ... tan ... que ...",
+              "explanation": {
+                "ja": "列挙と見直しの徹底度が、漏れがないという確信につながります。",
+                "en": "The paired degree phrases lead to confidence of no omission."
+              }
+            },
+            {
+              "point": "en todas partes",
+              "explanation": {
+                "ja": "物理的な場所だけでなく、どの検討でも行うという範囲です。",
+                "en": "The phrase extends the practice to all cases of inquiry."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "列挙で個別の項目を、見直しで全体を点検し、二つを合わせて漏れを防ぎます。",
+              "en": "Enumeration checks items; review surveys the whole, together guarding against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1633,18 +4185,61 @@
           "ttsText": "Et le dernier, de faire partout des dénombrements si entiers et des revues si générales, que je fusse assuré de ne rien omettre.",
           "vocabulary": [
             {
+              "term": "dénombrements",
+              "meaning": {
+                "ja": "検討事項を一つずつ数え上げることです。",
+                "en": "Item-by-item enumerations."
+              }
+            },
+            {
+              "term": "revues",
+              "meaning": {
+                "ja": "全体を振り返って点検することです。",
+                "en": "Reviews or surveys of the whole."
+              }
+            },
+            {
+              "term": "entiers",
+              "meaning": {
+                "ja": "欠けるところなく完全な、という意味です。",
+                "en": "Complete, without missing parts."
+              }
+            },
+            {
               "term": "omettre",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "必要なことを抜かすことです。",
+                "en": "Omit something relevant."
               }
             }
           ],
-          "grammar": [],
+          "grammar": [
+            {
+              "point": "Le dernier, de faire ...",
+              "explanation": {
+                "ja": "省略を伴う列挙で、de＋不定詞が最後の規則を示します。",
+                "en": "In the elliptical list, de plus infinitive states the final rule."
+              }
+            },
+            {
+              "point": "si ... et ... si ... que ...",
+              "explanation": {
+                "ja": "列挙と見直しの徹底度から、漏れがないという確信を導きます。",
+                "en": "The paired degree phrases connect thorough checks with confidence of no omissions."
+              }
+            },
+            {
+              "point": "ne rien omettre",
+              "explanation": {
+                "ja": "否定のne ... rienが、何も漏らさないことを示します。",
+                "en": "The negative ne ... rien expresses omitting nothing."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "si … que は「非常に…なので〜」。fusse は être の接続法半過去です。ne rien omettre では rien が不定詞の前に置かれます。",
-              "en": "Si … que connects degree with result. Fusse is the imperfect subjunctive of être. In ne rien omettre, rien precedes the infinitive."
+              "ja": "dénombrementsは項目ごとの確認、revuesは全体の確認です。fusseは原文の古い接続法形です。",
+              "en": "Dénombrements checks items, revues surveys the whole; fusse is an older subjunctive form."
             }
           ],
           "translation": {
@@ -1663,15 +4258,63 @@
           "ttsText": "Und die letzte war, überall so vollständige Aufzählungen und so umfassende Überprüfungen vorzunehmen, dass ich sicher sein konnte, nichts ausgelassen zu haben.",
           "vocabulary": [
             {
+              "term": "Aufzählungen",
+              "meaning": {
+                "ja": "検討事項を項目ごとに列挙することです。",
+                "en": "Item-by-item enumerations."
+              }
+            },
+            {
+              "term": "Überprüfungen",
+              "meaning": {
+                "ja": "考えた内容を点検し直すことです。",
+                "en": "Reviews or rechecks."
+              }
+            },
+            {
+              "term": "umfassende",
+              "meaning": {
+                "ja": "対象全体を覆うほど広いことです。",
+                "en": "Comprehensive enough to cover the whole."
+              }
+            },
+            {
               "term": "ausgelassen",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "必要なことを抜かした、という意味です。",
+                "en": "Left out or omitted."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "so ... und so ... dass ...",
+              "explanation": {
+                "ja": "列挙と見直しの徹底度が、漏れのない確信をもたらすと示します。",
+                "en": "The paired degree expressions lead to assurance that nothing was omitted."
+              }
+            },
+            {
+              "point": "vorzunehmen",
+              "explanation": {
+                "ja": "不定詞が、最後の規則で実行する行為を示します。",
+                "en": "The infinitive supplies the action required by the final rule."
+              }
+            },
+            {
+              "point": "nichts ausgelassen zu haben",
+              "explanation": {
+                "ja": "完了不定詞で、点検後に漏れがなかったと確信する内容を示します。",
+                "en": "The perfect infinitive gives what one can be sure of after the check."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Aufzählungenは個別の項目、Überprüfungenは全体を確認し、二つで漏れを防ぎます。",
+              "en": "Enumerations check the items, while reviews check the whole; together they guard against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1688,15 +4331,63 @@
           "ttsText": "И последнее — повсюду делать настолько полные перечисления и настолько всеобъемлющие обзоры, чтобы быть уверенным, что ничто не упущено.",
           "vocabulary": [
             {
-              "term": "упущено",
+              "term": "перечисления",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "検討事項を一つずつ列挙することです。",
+                "en": "Item-by-item enumerations."
+              }
+            },
+            {
+              "term": "обзоры",
+              "meaning": {
+                "ja": "全体を見渡して点検することです。",
+                "en": "Surveys or reviews of the whole."
+              }
+            },
+            {
+              "term": "всеобъемлющие",
+              "meaning": {
+                "ja": "対象全体を広く覆うことです。",
+                "en": "Comprehensive in scope."
+              }
+            },
+            {
+              "term": "не упущено",
+              "meaning": {
+                "ja": "何も見落とされていないことです。",
+                "en": "Nothing has been overlooked."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "И последнее — ...",
+              "explanation": {
+                "ja": "ダッシュの後に不定詞を置き、最後の規則を示します。",
+                "en": "The dash introduces the infinitive stating the final rule."
+              }
+            },
+            {
+              "point": "настолько ... и настолько ... чтобы ...",
+              "explanation": {
+                "ja": "列挙と見直しの徹底度から、漏れのない確信へつなぎます。",
+                "en": "The degree phrases lead to the goal of confidence that nothing is missed."
+              }
+            },
+            {
+              "point": "повсюду делать",
+              "explanation": {
+                "ja": "物理的な場所より、どの検討にも適用することを示します。",
+                "en": "This extends the practice to every case of inquiry rather than a location."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "перечисленияが個別項目、обзорыが全体を点検し、二つで漏れを防ぎます。",
+              "en": "Enumerations check individual items; reviews survey the whole, guarding against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1713,15 +4404,63 @@
           "ttsText": "والأخيرة أن أجري في كل موضع إحصاءات كاملة ومراجعات شاملة إلى حد يضمن لي أنني لم أغفل شيئًا.",
           "vocabulary": [
             {
-              "term": "أغفل",
+              "term": "الأخيرة",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "四つの方法上の規則の最後です。",
+                "en": "The last of four rules of method."
+              }
+            },
+            {
+              "term": "إحصاءات كاملة",
+              "meaning": {
+                "ja": "項目を漏れなく数え上げることです。",
+                "en": "Complete enumerations of items."
+              }
+            },
+            {
+              "term": "مراجعات شاملة",
+              "meaning": {
+                "ja": "対象全体に及ぶ見直しです。",
+                "en": "Comprehensive reviews of the whole."
+              }
+            },
+            {
+              "term": "لم أغفل شيئًا",
+              "meaning": {
+                "ja": "何も見落としていないことです。",
+                "en": "I have overlooked nothing."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "أن أجري ...",
+              "explanation": {
+                "ja": "أن＋動詞が最後の規則で行うことを示します。",
+                "en": "أن plus a verb states the action required by the last rule."
+              }
+            },
+            {
+              "point": "إلى حد يضمن ...",
+              "explanation": {
+                "ja": "列挙と見直しの徹底度が、漏れのない確信へつながります。",
+                "en": "The degree phrase connects thorough checking with assurance of no omission."
+              }
+            },
+            {
+              "point": "في كل موضع",
+              "explanation": {
+                "ja": "物理的な場所より、どの検討でも行う範囲を示します。",
+                "en": "The phrase applies the practice to every inquiry, not simply each physical place."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "إحصاءاتは項目ごとの点検、مراجعاتは全体の点検で、二つを合わせて漏れを防ぎます。",
+              "en": "Enumerations check items; reviews survey the whole, together guarding against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1746,15 +4485,63 @@
           "ttsText": "最后一条是，在所有情况下都进行如此完整的列举和如此全面的复查，使我确信没有遗漏任何东西。",
           "vocabulary": [
             {
+              "term": "最后一条",
+              "meaning": {
+                "ja": "四つの方法上の規則の最後です。",
+                "en": "The last of four rules of method."
+              }
+            },
+            {
+              "term": "完整的列举",
+              "meaning": {
+                "ja": "項目を一つずつ漏れなく挙げることです。",
+                "en": "A complete item-by-item enumeration."
+              }
+            },
+            {
+              "term": "全面的复查",
+              "meaning": {
+                "ja": "全体を広く見直すことです。",
+                "en": "A comprehensive review of the whole."
+              }
+            },
+            {
               "term": "遗漏",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "必要なことを見落とすことです。",
+                "en": "Leave out something relevant."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "如此……如此……使……",
+              "explanation": {
+                "ja": "列挙と見直しの徹底度が、漏れのない確信へつながります。",
+                "en": "The paired degree expressions lead to confidence of no omission."
+              }
+            },
+            {
+              "point": "在所有情况下",
+              "explanation": {
+                "ja": "この点検を、どの検討にも適用する範囲を示します。",
+                "en": "The phrase applies the check in every case of inquiry."
+              }
+            },
+            {
+              "point": "没有遗漏任何东西",
+              "explanation": {
+                "ja": "二重の否定的表現で、必要な項目を一つも抜かさないと示します。",
+                "en": "The negative phrasing stresses that no relevant item is left out."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "列举が個別項目を、复查が全体を点検し、二つの作業で見落としを防ぎます。",
+              "en": "Enumeration checks individual items; review surveys the whole, guarding against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1779,15 +4566,63 @@
           "ttsText": "마지막은 어느 경우에나 완전한 열거와 전반적인 검토를 하여, 아무것도 빠뜨리지 않았음을 확신할 수 있게 하는 것이었다.",
           "vocabulary": [
             {
-              "term": "빠뜨리지",
+              "term": "마지막",
               "meaning": {
-                "ja": "確認すべきものを抜かすこと。",
-                "en": "Leaving out something that should be checked."
+                "ja": "四つの方法上の規則の最後です。",
+                "en": "The last of four rules of method."
+              }
+            },
+            {
+              "term": "완전한 열거",
+              "meaning": {
+                "ja": "検討項目を一つずつ漏れなく挙げることです。",
+                "en": "Complete item-by-item enumeration."
+              }
+            },
+            {
+              "term": "전반적인 검토",
+              "meaning": {
+                "ja": "対象全体を広く振り返ることです。",
+                "en": "A broad review of the whole."
+              }
+            },
+            {
+              "term": "빠뜨리지 않았음",
+              "meaning": {
+                "ja": "必要なことを抜かしていないことです。",
+                "en": "Having omitted nothing relevant."
               }
             }
           ],
-          "grammar": [],
-          "notes": [],
+          "grammar": [
+            {
+              "point": "... 하여 ... 있게 하는 것",
+              "explanation": {
+                "ja": "列挙と見直しによって、漏れがないと確信できる結果を示します。",
+                "en": "The connective links enumeration and review to confidence in completeness."
+              }
+            },
+            {
+              "point": "아무것도 ... 않다",
+              "explanation": {
+                "ja": "強い否定で、必要なことを一つも抜かさないと表します。",
+                "en": "The emphatic negative says nothing relevant is left out."
+              }
+            },
+            {
+              "point": "어느 경우에나",
+              "explanation": {
+                "ja": "この点検を、どんな検討にも当てはめる範囲を示します。",
+                "en": "The phrase applies the practice to every case of inquiry."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "열거は個別項目を、검토は全体を点検し、二つを合わせて漏れを防ぎます。",
+              "en": "Enumeration checks items; review checks the whole, together guarding against omissions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",

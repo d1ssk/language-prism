@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e7c24e1c373c3434753bbdaced2ac3ccacf553bdc89638bf08f22dc4143bb741",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Me trae la carta, por favor?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "feb421fc3bfcedbd67dc1d2f14317c83d2b211328f98ba46ab9ca6749ef9ec81",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:29.017404+00:00"
+}

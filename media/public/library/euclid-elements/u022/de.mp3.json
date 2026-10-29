@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3964a5f27012798962b931114ee2407060b5957333e43c121df028e46d1b805c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Unter den Vierecken ist das Quadrat gleichseitig und rechtwinklig; das längliche Rechteck rechtwinklig, aber nicht gleichseitig; die Raute gleichseitig, aber nicht rechtwinklig; das Rhomboid hat gleiche gegenüberliegende Seiten und Winkel, ist aber weder gleichseitig noch rechtwinklig. Alle übrigen Vierecke sollen Trapeze heißen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a99f93a7bc4e0be439c72b00742bee00becf8c21e1a83047c69b8b2e0cd44b55",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:30:06.908857+00:00"
+}

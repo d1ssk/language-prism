@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0dc93c3f3872bbad238ae678db2b8a602358e9bf8f578d34c5dd43a6f991d7b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Dieser Punkt heißt Mittelpunkt des Kreises.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e198c3a0d61bed2e8bc3bf39239a2ba2961643fb53c0a55176acd02a70bb18c2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:23:13.431173+00:00"
+}

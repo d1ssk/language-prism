@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "903090776e4784f41613ddfcd2874a8650548b41857bc47a52c32329d13eb4be",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아퀴타니아는 가룸나강에서 피레네산맥과 히스파니아에 인접한 대양 부분까지 뻗고, 해 지는 쪽과 북쪽 사이를 향한다.］",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "55a81057a2f34235d4183297292fcbc72b94e4569f265176ab6d4bf3fb00f920",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:38:49.925298+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "16021683955a03ba1ea7b4f13d3fd4838df3494c561ee062e88d40543dfbf703",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Монах положил его на ладонь и улыбнулся: «Видом ты теперь сокровище, но настоящего особого достоинства ещё нет. Надо вырезать несколько знаков, чтобы каждый с первого взгляда узнал чудесную вещь.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d652fcec6d308fe31ce05ccdc55c2d5760144ec8dbf2b1019963a221ea85573e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:37:19.706569+00:00"
+}

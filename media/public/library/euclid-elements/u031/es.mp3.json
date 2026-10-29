@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cbbe62ac60eb1745b90be856a0abc38c194990f98af84c72c0242d68148e2b9e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Al restar iguales de iguales, los restos son iguales.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "edc5341f407bcd6e869859335a4d05b543f9a546531715b29187759ff0ec046d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:06.979201+00:00"
+}

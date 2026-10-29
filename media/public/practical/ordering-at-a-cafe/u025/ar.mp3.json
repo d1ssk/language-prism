@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "23771178003e585615c1d303793831897d8ac4423467b708b43e99dd9a2b0e35",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هل ستدفعون معا أم كل شخص على حدة؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e9440669328ce28eeb73d400833dd89318095b8fe0efae1d04183cb1439445d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:19:58.479832+00:00"
+}

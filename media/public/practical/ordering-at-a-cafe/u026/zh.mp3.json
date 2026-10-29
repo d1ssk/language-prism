@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5736a2fa518479d658bb83081ffc920ece14e28b19d8307f0110eadee5bc4699",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "分开结账，谢谢。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "faa52db0354e7dcd4ad69df9961258c225ac9095855ab26d92efb7657c1617d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:19.394545+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "01e25269d8d2d655eab7bb58b263c66b4fbf6a18626aaa60b47b5d37a475a9e8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَضَعَهُ الرَّاهِبُ عَلَى رَاحَتِهِ وَقَالَ ضَاحِكًا: «صَارَ شَكْلُكَ كَنْزًا حَقًّا، وَلَكِنْ لَا مِيزَةَ حَقِيقِيَّةً فِيهِ بَعْدُ. يَجِبُ أَنْ أَنْقُشَ عَلَيْكَ بِضْعَةَ رُمُوزٍ لِيَعْرِفَ النَّاظِرُ فَوْرًا أَنَّكَ شَيْءٌ عَجِيبٌ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "323b45c59e530f1983b5653cb2fb27eff40bba729246c858cab434a6fc4efcbe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:37:32.167556+00:00"
+}

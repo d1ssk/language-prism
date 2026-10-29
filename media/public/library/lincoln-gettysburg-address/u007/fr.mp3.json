@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fd5f06d169faf645cc52e93547032691a2c7b6d459ff065da29290b417f3865c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Les hommes courageux, vivants et morts, qui ont lutté ici l’ont consacrée bien au-delà de notre faible pouvoir d’y ajouter ou d’en retrancher quoi que ce soit.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2b0bfd87685ad4803817302e4c51fefc73f8d6319e028ce05e976034127542c3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:53:08.109083+00:00"
+}

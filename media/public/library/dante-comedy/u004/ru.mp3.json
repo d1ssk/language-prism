@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff9d2badaea7d8c14abe694c9dd6c4b49acca20945878df57aa809c72f400397",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я не могу толком сказать, как вошёл туда: настолько я был объят сном в тот миг, когда оставил истинный путь.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2fbec4106ee74720dcd23ffb07ba6b957b323be4bacef6595f6c6d72f0661afd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:15.758020+00:00"
+}

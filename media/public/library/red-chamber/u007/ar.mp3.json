@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9c6e12b6c19c9a5f9108944546ec3601fe96b727b3c0a2123b3521ebcac190c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "مَعَ أَنَّ مَادَّتِي خَشِنَةٌ بَلِيدَةٌ، فَفِي رُوحِي قَدْرٌ مِنَ الْفَهْمِ. وَهَيْئَتُكُمَا الْخَالِدَةُ تَدُلُّ عَلَى أَنَّكُمَا لَسْتُمَا عَادِيَّيْنِ؛ فَلَدَيْكُمَا حَتْمًا مَوْهِبَةُ تَرْمِيمِ السَّمَاءِ وَإِنْقَاذِ الْعَالَمِ، وَفَضِيلَةُ نَفْعِ الْخَلْقِ وَإِغَاثَةِ الْبَشَرِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "51da78667c50c030a9c3d59f899dc783d0728b9c23ad58ec39b35d7f2db923b8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:24:00.288203+00:00"
+}

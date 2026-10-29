@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e79a3b3051ac7992eaa90e00f5fd806e41d60a106afda3503f01b84beb6b549e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "مَنْ تَحَلَّى بِالتَّمْيِيزِ يَتَجَاوَزُ فِي هَذَا الْعَالَمِ الْأَعْمَالَ الْحَسَنَةَ وَالسَّيِّئَةَ مَعًا. فَاجْتَهِدْ إِذَنْ فِي الْيُوغَا؛ فَالْيُوغَا مَهَارَةٌ فِي الْعَمَلِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dcd3aca1e2e3017dfa72643bd148038e287050f663372bd0b31723304f62b4ab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:28:33.696746+00:00"
+}

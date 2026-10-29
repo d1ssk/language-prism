@@ -88,6 +88,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -142,6 +147,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -196,6 +206,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -250,6 +265,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -304,6 +324,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -358,6 +383,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -420,6 +450,11 @@
               "ja": "この文で区切って読むときの休止形：maktabun → maktab。 hādhihi al-ghurfati は連読すると hādhihi l-ghurfati とつながります。",
               "en": "Pausal forms at the sentence breaks here: maktabun → maktab. In connected speech, hādhihi al-ghurfati is linked as hādhihi l-ghurfati."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -482,6 +517,11 @@
               "ja": "この文では、発音時に yī zhāng → yì zhāng となります。",
               "en": "In this sentence, the spoken forms are yī zhāng → yì zhāng."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -536,6 +576,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -595,6 +640,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -649,6 +699,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -703,6 +758,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -757,6 +817,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -811,6 +876,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -865,6 +935,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -927,6 +1002,11 @@
               "ja": "この文で区切って読むときの休止形：kitābun → kitāb。 ʿalā al-maktabi は連読すると ʿalā l-maktabi とつながります。",
               "en": "Pausal forms at the sentence breaks here: kitābun → kitāb. In connected speech, ʿalā al-maktabi is linked as ʿalā l-maktabi."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -989,6 +1069,11 @@
               "ja": "この文では、発音時に yī běn → yì běn となります。",
               "en": "In this sentence, the spoken forms are yī běn → yì běn."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -1043,6 +1128,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -1102,6 +1192,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -1156,6 +1251,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -1210,6 +1310,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -1264,6 +1369,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -1318,6 +1428,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -1372,6 +1487,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -1434,6 +1554,11 @@
               "ja": "この文で区切って読むときの休止形：al-maktabi → al-maktab。 ʿalā al-maktabi は連読すると ʿalā l-maktabi とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-maktabi → al-maktab. In connected speech, ʿalā al-maktabi is linked as ʿalā l-maktabi."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -1492,6 +1617,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Nà běn shū zài shūzhuō shang."
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -1546,6 +1676,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -1605,6 +1740,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -1659,6 +1799,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -1713,6 +1858,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -1767,6 +1917,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -1821,6 +1976,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -1875,6 +2035,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -1937,6 +2102,11 @@
               "ja": "この文で区切って読むときの休止形：qiṭṭatun → qiṭṭah。 taḥta al-kursiyyi は連読すると taḥta l-kursiyyi とつながります。",
               "en": "Pausal forms at the sentence breaks here: qiṭṭatun → qiṭṭah. In connected speech, taḥta al-kursiyyi is linked as taḥta l-kursiyyi."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -1999,6 +2169,11 @@
               "ja": "この文では、発音時に yī zhī → yì zhī となります。",
               "en": "In this sentence, the spoken forms are yī zhī → yì zhī."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -2053,6 +2228,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -2112,6 +2292,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -2166,6 +2351,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -2220,6 +2410,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -2274,6 +2469,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -2328,6 +2528,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -2382,6 +2587,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -2444,6 +2654,11 @@
               "ja": "この文で区切って読むときの休止形：al-kursiyyi → al-kursiyy。 taḥta al-kursiyyi は連読すると taḥta l-kursiyyi とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-kursiyyi → al-kursiyy. In connected speech, taḥta al-kursiyyi is linked as taḥta l-kursiyyi."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -2502,6 +2717,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Nà zhī māo zài yǐzi xiàmian."
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -2556,6 +2776,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -2615,6 +2840,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -2669,6 +2899,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -2723,6 +2958,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -2777,6 +3017,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -2831,6 +3076,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -2885,6 +3135,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -2947,6 +3202,11 @@
               "ja": "この文で区切って読むときの休止形：al-ḥaqībati → al-ḥaqībah。 fī al-ḥaqībati は連読すると fī l-ḥaqībati とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-ḥaqībati → al-ḥaqībah. In connected speech, fī al-ḥaqībati is linked as fī l-ḥaqībati."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -3005,6 +3265,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Yàoshi zài bāo lǐ."
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -3059,6 +3324,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -3118,6 +3388,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -3172,6 +3447,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -3226,6 +3506,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -3280,6 +3565,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -3334,6 +3624,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -3388,6 +3683,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -3450,6 +3750,11 @@
               "ja": "この文で区切って読むときの休止形：al-ḥaqībati → al-ḥaqībah。 fī al-ḥaqībati は連読すると fī l-ḥaqībati とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-ḥaqībati → al-ḥaqībah. In connected speech, fī al-ḥaqībati is linked as fī l-ḥaqībati."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -3512,6 +3817,11 @@
               "ja": "この文では、発音時に bù zài → bú zài となります。",
               "en": "In this sentence, the spoken forms are bù zài → bú zài."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -3566,6 +3876,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -3625,6 +3940,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -3679,6 +3999,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -3733,6 +4058,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -3787,6 +4117,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -3841,6 +4176,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -3895,6 +4235,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -3953,6 +4298,11 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Hal yūjadu bankun qarībun min hunā?"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -4011,6 +4361,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Zhè fùjìn yǒu yínháng ma?"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -4065,6 +4420,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -4124,6 +4484,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -4178,6 +4543,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -4232,6 +4602,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -4286,6 +4661,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -4340,6 +4720,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -4394,6 +4779,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -4456,6 +4846,11 @@
               "ja": "この文で区切って読むときの休止形：al-maḥaṭṭati → al-maḥaṭṭah。 bijānibi al-maḥaṭṭati は連読すると bijānibi l-maḥaṭṭati とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-maḥaṭṭati → al-maḥaṭṭah. In connected speech, bijānibi al-maḥaṭṭati is linked as bijānibi l-maḥaṭṭati."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -4514,6 +4909,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Yínháng zài chēzhàn pángbiān."
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -4568,6 +4968,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -4627,6 +5032,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -4681,6 +5091,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -4735,6 +5150,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -4789,6 +5209,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -4843,6 +5268,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -4897,6 +5327,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -4959,6 +5394,11 @@
               "ja": "この文で区切って読むときの休止形：al-ghurfati → al-ghurfah。 fī al-ghurfati は連読すると fī l-ghurfati とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-ghurfati → al-ghurfah. In connected speech, fī al-ghurfati is linked as fī l-ghurfati."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -5021,6 +5461,11 @@
               "ja": "この文では、発音時に lǐ yǒu → lí yǒu となります。",
               "en": "In this sentence, the spoken forms are lǐ yǒu → lí yǒu."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -5075,6 +5520,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -5134,6 +5584,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -5188,6 +5643,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -5242,6 +5702,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -5296,6 +5761,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -5350,6 +5820,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -5404,6 +5879,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -5466,6 +5946,11 @@
               "ja": "この文で区切って読むときの休止形：al-ghurfati → al-ghurfah。 fī al-ghurfati は連読すると fī l-ghurfati とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-ghurfati → al-ghurfah. In connected speech, fī al-ghurfati is linked as fī l-ghurfati."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -5524,6 +6009,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Fángjiān lǐ méiyǒu rén."
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -5578,6 +6068,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -5637,6 +6132,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -5691,6 +6191,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -5745,6 +6250,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -5799,6 +6309,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -5853,6 +6368,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -5907,6 +6427,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -5969,6 +6494,11 @@
               "ja": "この文で区切って読むときの休止形：al-bayti → al-bayt。 fī al-bayti は連読すると fī l-bayti とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-bayti → al-bayt. In connected speech, fī al-bayti is linked as fī l-bayti."
             }
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -6027,6 +6557,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ xiànzài zài jiā."
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -6081,6 +6616,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/existence-and-location/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }

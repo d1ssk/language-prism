@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "51a0fe41505d88f1d53236478d3c1741b16268074b09d1c1c4e1be3c9b1e13de",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Gern geschehen. Wir sind bald da.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c4db797d2a649bcbbc795ee10c3bc4f565eabbc8076093b7cb03bb8a0b940906",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:41.609030+00:00"
+}

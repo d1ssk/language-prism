@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c9d357373dbd013d62cf93cb15d671c5061c908d6ba1434465b7d81edf336e1a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "むしろ、ここでたたかったひとびとがこれまでけだかくすすめてきたみかんのしごとに、ここでみをささげるべきなのは、いきているわたしたちです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79ce7a2fb5164eac30d89eff6aac961613ec06a8c345c5d7d67e0d4b291e0bbf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:54:52.715252+00:00"
+}

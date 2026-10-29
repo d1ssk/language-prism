@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "483ba0e2476562a8b97ad81e7a9a94a4ec23b33029e284fb7c43db3e127405f7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 고양이는 의자 아래에 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e2ccb9465286f613caadfdde7bbb0c7ee5687524bb90c6154ceaaf1c2343560",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:15:17.157270+00:00"
+}

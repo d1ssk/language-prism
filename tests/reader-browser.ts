@@ -36,13 +36,26 @@ export async function checkAudioStream(browser: Browser, origin: string) {
       expect(await audio.getAttribute("src")).toBe(src);
       expect(await page.evaluate(() => (window as any).__streamTest.plays)).toBe(1);
       await audio.evaluate((el: HTMLAudioElement) => { el.playbackRate = 1; el.pause(); });
-      await expect(page.locator("#player-status")).toHaveText(locale === "ja" ? "再生を一時停止しました。" : "Playback paused.");
+      await expect(page.locator("#player-status")).toBeHidden();
       await audio.evaluate((el: HTMLAudioElement) => el.play());
       await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.duration)).toBeLessThan(Infinity);
       await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = el.duration - 0.1; });
       await expect(page.locator("#stop-audio")).toBeDisabled();
-      await expect(page.locator("#player-status")).toHaveText(locale === "ja" ? "再生が終わりました。" : "Playback finished.");
+      await expect(page.locator("#player-status")).toBeHidden();
     }
+
+    // Extend an already-buffered unit stream without replacing or restarting it.
+    await page.goto(`${origin}/ja/read/random-1/`);
+    await page.locator('.unit').nth(await page.locator('.unit').count() - 2).locator('.play-unit').click();
+    const extendingAudio = page.locator('#audio-player');
+    await expect.poll(() => extendingAudio.evaluate((el: HTMLAudioElement) => Number.isFinite(el.duration))).toBe(true);
+    await extendingAudio.evaluate((el: HTMLAudioElement) => el.pause());
+    const previous = await extendingAudio.evaluate((el: HTMLAudioElement) => ({ src: el.src, time: el.currentTime, duration: el.duration }));
+    await page.locator('#continue-to-end').click();
+    await expect.poll(() => extendingAudio.evaluate((el: HTMLAudioElement) => el.duration)).toBeGreaterThan(previous.duration);
+    expect(await extendingAudio.evaluate((el: HTMLAudioElement) => ({ src: el.src, time: el.currentTime, paused: el.paused }))).toEqual({ src: previous.src, time: previous.time, paused: true });
+    await expect(page.locator('#continue-to-end')).toBeDisabled();
+    await page.locator('#stop-audio').click();
 
     // A long article buffers a bounded window, then refills evicted audio when
     // the user seeks back. The same source remains attached throughout.
@@ -91,6 +104,8 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await page.goto(`${origin}/${locale}/read/random-1/`);
       await expect(page.locator("h1")).toHaveText(locale === "ja" ? "ランダム 1" : "Random 1");
       await expect(page.locator(".reader-toolbar")).toBeVisible();
+      await expect(page.locator('.reader-toolbar #play-all, .reader-toolbar #stop-audio')).toHaveCount(0);
+      await expect(page.locator('.article-play-buttons #play-all')).toBeVisible();
       await expect(page.locator(".audio-button:enabled")).toHaveCount(keys.length);
       await expect(page.locator(".play-unit:enabled")).toHaveCount(work.units.length);
       await expect(page.locator(".play-from:enabled")).toHaveCount(work.units.length);
@@ -165,16 +180,64 @@ export async function checkReader(browser: Browser, origin: string, mode: string
   const reset = () => mock.evaluate(() => { (window as any).__mediaTest.played = []; });
   const ended = () => mock.locator("#audio-player").dispatchEvent("ended");
   async function setting(page: Page, id: string, value: string) {
-    await page.locator(".audio-settings").evaluate((el: HTMLDetailsElement) => el.open = true);
+    if (await page.locator("#audio-settings").isHidden()) {
+      await page.locator(".audio-settings-toggle").click();
+    }
     await page.locator(id).selectOption(value);
   }
   try {
     await mock.goto(`${origin}/ja/read/random-1/`);
     await setting(mock, "#gap", "0");
     await setting(mock, "#speed", "1.5");
+    await expect(mock.locator('#continue-to-end')).toBeDisabled();
+    await expect(mock.locator('#jump-to-playing')).toBeDisabled();
+    await mock.locator('[data-audio-key="u002/ko"]').click();
+    await expect(mock.locator('#playback-progress')).toBeHidden();
+    await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
+    await mock.locator('#continue-to-end').click();
+    await expect(mock.locator('#playback-progress')).toHaveText(`(18/${keys.length})`);
+    expect(await played()).toEqual(['u002/ko']);
+    expect(await mock.evaluate(() => navigator.mediaSession.playbackState)).toBe('paused');
+    await expect(mock.locator('#continue-to-end')).toBeDisabled();
+    await mock.emulateMedia({ reducedMotion: 'reduce' });
+    await mock.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await mock.locator('#jump-to-playing').click();
+    const visible = await mock.locator('[data-audio-key="u002/ko"]').evaluate(el => {
+      const rect = el.getBoundingClientRect();
+      return rect.top >= 0 && rect.bottom < document.querySelector('.reader-toolbar')!.getBoundingClientRect().top;
+    });
+    expect(visible).toBe(true);
+    expect(await played()).toEqual(['u002/ko']);
+    await mock.evaluate(() => (window as any).__mediaTest.actions.play());
+    await ended();
+    expect(await played()).toEqual(['u002/ko', 'u002/ko', 'u003/ja']);
+    await expect(mock.locator('#playback-progress')).toHaveText(`(19/${keys.length})`);
+    await mock.locator('#stop-audio').click();
+    await expect(mock.locator('#playback-progress')).toBeHidden();
+    await expect(mock.locator('#jump-to-playing')).toBeEnabled();
+    await expect(mock.locator('#jump-to-playing')).toHaveText('最後に再生した文へ移動');
+    await expect(mock.locator('#continue-to-end')).toBeDisabled();
+    await mock.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await mock.locator('#jump-to-playing').click();
+    expect(await mock.locator('[data-audio-key="u003/ja"]').evaluate(el => {
+      const rect = el.getBoundingClientRect();
+      return rect.top >= 0 && rect.bottom < document.querySelector('.reader-toolbar')!.getBoundingClientRect().top;
+    })).toBe(true);
+    expect(await played()).toEqual(['u002/ko', 'u002/ko', 'u003/ja']);
+    await mock.locator('[data-audio-key="u002/ko"]').click();
+    await ended();
+    await expect(mock.locator('#jump-to-playing')).toBeEnabled();
+    await mock.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await mock.locator('#jump-to-playing').click();
+    expect(await mock.locator('[data-audio-key="u002/ko"]').evaluate(el => {
+      const rect = el.getBoundingClientRect();
+      return rect.top >= 0 && rect.bottom < document.querySelector('.reader-toolbar')!.getBoundingClientRect().top;
+    })).toBe(true);
+    await reset();
     // A zero-gap transition must run in the ended event, without waiting for a
     // background timer. Notification pause/play must retain the current queue.
     await mock.locator("#play-all").click();
+    await expect(mock.locator('#playback-progress')).toHaveText(`(1/${keys.length})`);
     expect(await mock.evaluate(() => navigator.mediaSession.playbackState)).toBe("playing");
     expect(await mock.evaluate(() => navigator.mediaSession.metadata?.title)).toBe("ランダム 1");
     expect(await mock.evaluate(() => {
@@ -183,7 +246,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     })).toBe(2);
     await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
     expect(await mock.evaluate(() => navigator.mediaSession.playbackState)).toBe("paused");
-    await expect(mock.locator("#player-status")).toHaveText("再生を一時停止しました。");
+    await expect(mock.locator("#player-status")).toBeHidden();
     await mock.evaluate(() => (window as any).__mediaTest.actions.play());
     expect(await played()).toEqual(["u001/ja", "u001/en", "u001/en"]);
     await ended();
@@ -217,7 +280,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       expect(await mock.locator("#audio-player").evaluate((el: HTMLAudioElement) => el.playbackRate)).toBe(1.5);
       await ended();
     }
-    await expect(mock.locator("#player-status")).toHaveText("再生が終わりました。");
+    await expect(mock.locator("#player-status")).toBeHidden();
     expect(await unitsTop()).toBe(initialTop);
     await expect(mock.locator("#stop-audio")).toBeDisabled();
     await reset();
@@ -260,10 +323,10 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     await mock.locator("#u002 .play-from").focus();
     await mock.keyboard.press("Enter");
     expect(await played()).toEqual([keys[9]]);
-    await expect(mock.locator("#player-status")).toContainText("2組目から再生中");
+    await expect(mock.locator("#player-status")).toBeHidden();
     await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
     await mock.evaluate(() => (window as any).__mediaTest.actions.play());
-    await expect(mock.locator("#player-status")).toContainText("2組目から再生中");
+    await expect(mock.locator("#player-status")).toBeHidden();
     await ended();
     expect(await played()).toEqual([keys[9], keys[9], keys[10]]);
     await mock.locator("#stop-audio").click();
@@ -277,11 +340,13 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await mock.locator(`#${tailUnit} .play-from`).click();
       for (let i = 0; i < expected.length; i++) {
         expect(await played()).toEqual(expected.slice(0, i + 1));
-        await expect(mock.locator("#player-status")).toContainText(`${i + 1} / ${expected.length}`);
+        await expect(mock.locator('#playback-progress')).toHaveText(`(${keys.length - expected.length + i + 1}/${keys.length})`);
+        await expect(mock.locator("#player-status")).toBeHidden();
         await ended();
       }
       await expect(mock.locator("#stop-audio")).toBeDisabled();
-      await expect(mock.locator("#player-status")).toHaveText(locale === "ja" ? "再生が終わりました。" : "Playback finished.");
+      await expect(mock.locator('#playback-progress')).toBeHidden();
+      await expect(mock.locator("#player-status")).toBeHidden();
     }
     await mock.goto(`${origin}/ja/read/random-1/`);
 
@@ -295,7 +360,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await mock.locator("#play-all").click();
       expect(await unitsTop()).toBe(top);
       await ended();
-      await expect(mock.locator("#player-status")).toHaveText("次の文章までの間隔…");
+      await expect(mock.locator("#player-status")).toBeHidden();
       await expect(mock.locator("#audio-player")).toBeVisible();
       expect(await unitsTop()).toBe(top);
       await expect.poll(played).toEqual(["u001/ja", "u001/en"]);
@@ -316,7 +381,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
         await expect.poll(played).toEqual(expected.slice(0, i + 1));
         await ended();
       }
-      await expect(mock.locator("#player-status")).toHaveText("Playback finished.");
+      await expect(mock.locator("#player-status")).toBeHidden();
     }
     await mock.goto(`${origin}/ja/read/random-1/`);
 
@@ -329,11 +394,10 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     await setting(mock, "#gap", "0");
     await mock.locator("#play-all").click();
     await expect.poll(played).toEqual(["u001/en"]);
-    await expect(mock.locator("#player-status")).toContainText("未生成 1 件はスキップ");
+    await expect(mock.locator("#player-status")).toBeHidden();
     await mock.locator("#u001 .play-from").click();
     expect(await played()).toEqual(["u001/en", "u001/en"]);
-    await expect(mock.locator("#player-status")).toContainText("1組目から再生中");
-    await expect(mock.locator("#player-status")).toContainText("未生成 1 件はスキップ");
+    await expect(mock.locator("#player-status")).toBeHidden();
     await mock.locator("#stop-audio").click();
   } finally { await context.close(); }
 }

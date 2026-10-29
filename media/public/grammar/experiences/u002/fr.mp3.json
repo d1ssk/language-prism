@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "169e904f397bea9b2bcf11bf4b20bce865009949a5113e652eb385e301948125",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je ne suis jamais allé au Japon.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b4567ff9b441c097b11cecc90db60c9a5e531949d35ea50c23143124cf5d9cf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:17:41.345959+00:00"
+}

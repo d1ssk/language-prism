@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8c3374dab54f7a1f1b0a510d0b9f18646e60a95e103fde4ed0c471852f615add",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "And if a straight line crossing two straight lines makes the interior angles on the same side together less than two right angles, those two lines, extended without limit, meet on the side where the angles are less than two right angles.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bce99c33e713759f0e239a04b5d25026fc37c16036e56e607477ec2ccea7ff1c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:34:30.179719+00:00"
+}

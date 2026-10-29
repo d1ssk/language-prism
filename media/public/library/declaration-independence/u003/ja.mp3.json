@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5baac96b27e4852b57d0689dbc3fc464f6c479438656dd2d1d06f856bafc7275",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "これらのけんりをかくほするために、ひとびとのあいだにせいふがもうけられ、そのせいとうなけんりょくはとうちされるもののどういにゆらいする。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d5ef86c83f828e4df79237c8121d82ffb928bddb10d9c81910abde8f7c89d7bd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:07:14.679922+00:00"
+}

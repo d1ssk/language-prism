@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "018eee264494e3bec019c1b7d4294062a09a9a991743d4ed2f0d8611dd51660e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wie viel kostet die Fahrt?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4798d987f31fa66e56361593bcb6e411cbe35bb2f1435aee5a0af2adfce6e43d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:54:00.335392+00:00"
+}

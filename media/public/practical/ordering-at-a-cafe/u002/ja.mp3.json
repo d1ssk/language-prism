@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "828eccbd58e6d5badcd52c224cacfe9226d14d76bbdfac8079c242ac5458ed30",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "てんないでおめしあがりですか、おもちかえりですか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a6fe4fd160e21b1a1aa9ef678a7c5bb2266e1890d5212a49d7e233e9d1b9a5a1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:50.370230+00:00"
+}

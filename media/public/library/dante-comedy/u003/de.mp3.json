@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97a2ba22fc6972e2835e18208115a1d29f0f588ea837fe9f5668f76c80f5057f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "So bitter ist er, dass der Tod kaum bitterer ist; doch um von dem Guten zu erzählen, das ich dort fand, will ich auch von den anderen Dingen sprechen, die ich sah.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d3f62b7805f73919ae833a0795648a7c564a844f6b5975ee6cc628f75307e2b3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:57:13.732876+00:00"
+}

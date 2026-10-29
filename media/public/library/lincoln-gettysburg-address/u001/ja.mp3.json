@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bc7d898ffb2294e6869bbbf0156237a47451811af7111ced156781ec1f2f3d7f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "はちじゅうななねんまえ、わたしたちのふそはこのたいりくに、じゆうのうちにうまれ、すべてのひとはびょうどうにつくられたというめいだいにささげられた、あたらしいくにをきずきました。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d75b36bb3602759302688a63277f11747cbcacd68a0501cca81fce9680ac81e2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:47:25.647815+00:00"
+}

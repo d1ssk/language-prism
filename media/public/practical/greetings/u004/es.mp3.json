@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d9b3c18c2f259d6c03495417c90f6265053ba6a5cb3695ba162a18740a4a9a08",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Buenas noches.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "53047e96f17657ec57e1a224cec338d0a7e345267cfd304d51379da7ca942677",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:08:20.090841+00:00"
+}

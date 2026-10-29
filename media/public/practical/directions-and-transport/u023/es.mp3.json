@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d36c2b3a55bcbcc99542d7a350e247a2ff2ed41b38f3a3de9dfda1b120bbe860",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿A qué hora sale el próximo tren?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3b8bf49feaa79e575063262170a93c68605f979494a1eae26bb213a85b5387f6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:58:09.766234+00:00"
+}

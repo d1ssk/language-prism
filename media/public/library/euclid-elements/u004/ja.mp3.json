@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b20096aff8b63161025a885ff45ab4e45b17200f678e02ee3b7802e24b5bfebb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ちょくせんとは、そのうえのてんにたいしていちようにいちするせんである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b9d5759673f4c99e0dfc8bfb16b2b59101b3ff7bf7b2680d38085cf76ba7784f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:18.290589+00:00"
+}

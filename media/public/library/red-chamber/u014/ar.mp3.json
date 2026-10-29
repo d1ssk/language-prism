@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "871f51fff2d2f7d6311c8ad80d2fe4dde0e34a6e3185f29cd88455191a9dc173",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "تَلَا الرَّاهِبُ التَّعَاوِيذَ وَكَتَبَ الطَّلَاسِمَ، وَأَظْهَرَ سِحْرًا عَظِيمًا، فَحَوَّلَ الْحَجَرَ الْكَبِيرَ فَوْرًا إِلَى يَشْمٍ جَمِيلٍ مُشْرِقٍ صَافٍ، ثُمَّ صَغَّرَهُ إِلَى حَجْمِ قِلَادَةِ مِرْوَحَةٍ، يُمْكِنُ لُبْسُهُ أَوْ حَمْلُهُ بِالْيَدِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69ecad9c94cbf4ee06cbf60d7e08c7d8c86e12899d819213f3619a019c07e2bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:35:55.534036+00:00"
+}

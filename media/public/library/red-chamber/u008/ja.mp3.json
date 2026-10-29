@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9454d6cab6522c5e5043d365e534b7e17e2def107643ad70ccef233a8e57f35d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "すこしでもじひをおかけくださり、でしをぞくせへつれていって、ふうきのば、やさしいたのしみのさとですうねんすごさせてくださるなら、そのたいおんをいつまでもこころにきざみ、いくまんのこうをへてもわすれません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c5484ccf05d159af6aac5dc66f32e4a77200bbc7eb74a06d3dd66dc257f4601c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:24:31.649567+00:00"
+}

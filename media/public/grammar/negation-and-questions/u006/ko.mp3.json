@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "659e919158b76ddc469c62af24b8df40c2c89c9f0e4a92eab8b3ce3f6c7d6ff0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아침에는 뭘 마시나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e6b53d1720b5b6616dd2ae7a76b8c0095a2e12bc905e4fe613f12c0b208ecf50",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:29.238516+00:00"
+}

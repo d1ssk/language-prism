@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3ad897a29c89642a55b943adb7487fb344c1a227cc5791267653270ea8c7de3a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我现在住在东京。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "858413e18059858c7fc6ec042be47124bbc706ed3318808d0460f34fb072ed71",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:01:45.584130+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8bbfc94b0e539053ae1496b130dc6ea61aedacdd3384f652d144f9594787a788",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Население страны редеет, дома пустеют, города разрушаются. Вместе с этим расстраиваются государство и власть: они являются формой общественной жизни и неизбежно разрушаются с разрушением своей материи.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bde76dcd914365aa8beab41b9a7c41d04495baec6a4e7022692e414983170d3a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:46:44.986088+00:00"
+}

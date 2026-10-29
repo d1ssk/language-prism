@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d4b6fd96b6ba682bbf2f51029531239652fb4db540fa74e8dd1b46c27c48b3d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "نَعُدُّ هَذِهِ الْحَقَائِقَ بَدِيهِيَّةً: أَنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ، وَأَنَّ خَالِقَهُمْ مَنَحَهُمْ حُقُوقًا مُعَيَّنَةً لَا يَجُوزُ التَّنَازُلُ عَنْهَا، وَأَنَّ مِنْ بَيْنِهَا الْحَيَاةَ وَالْحُرِّيَّةَ وَالسَّعْيَ إِلَى السَّعَادَةِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5722d5f3a9bd97583117b27a1870c03b44a60c65388fc1e5d858af33cc96277b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:06:50.772498+00:00"
+}

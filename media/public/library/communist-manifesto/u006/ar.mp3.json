@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5f6f76691fb3500e99d1d095c9fed195849ff248a2a87ab05d849f858ff89bbc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لِهَذَا الْغَرَضِ اجْتَمَعَ شُيُوعِيُّونَ مِنْ جِنْسِيَّاتٍ مُتَنَوِّعَةٍ فِي لَنْدَنَ وَصَاغُوا الْبَيَانَ التَّالِيَ، الَّذِي سَيُنْشَرُ بِالْإِنْجِلِيزِيَّةِ وَالْفَرَنْسِيَّةِ وَالْأَلْمَانِيَّةِ وَالْإِيطَالِيَّةِ وَالْفَلَمَنْكِيَّةِ وَالدَّنْمَارْكِيَّةِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bd64ea0f2a52cac44b7e8d3419b689e4e947e8625ef3e5218947182f3fa1c6a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:45:31.578257+00:00"
+}

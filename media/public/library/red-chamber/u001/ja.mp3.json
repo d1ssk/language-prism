@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5dc482c62f0786c0663cd5232d17460c497e48962e2ac2ed24eaa65beb64f962",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "どくしゃのみなさま、このほんはどこからきたとおもわれますか。そのいわれはこうとうむけいにきこえますが、よくあじわえばふかいおもむきがあります。まずわたしがこのらいれきをあきらかにして、おききになるかたがたのうたがいをはらしましょう。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eded84baff86a212e3d75b97e76ad3e233486a00865dad1f6c13979693e9c1fc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:11:06.788597+00:00"
+}

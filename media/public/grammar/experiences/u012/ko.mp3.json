@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b1e0114fdfe6e3d939c90809fe435ec0640384cb8358fca0a927fa7d7217aa96",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "지난주에 친구와 봤어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a953cafd139456f22cffde07b9dfa5403c06ce8d5de144cebdfd583a45de9e59",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:54.197751+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ebb4c343c824f1a12851255cf88f823c2c342de45886cdcd2336e8a1a1139908",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "停电以后，我们一直在黑暗中聊天，直到有人找到了一根蜡烛。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "90bf4e33f8ee2ab27cb6935b066e464eb5247aaf218155e8e9896ff79379e620",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:28:18.381196+00:00"
+}

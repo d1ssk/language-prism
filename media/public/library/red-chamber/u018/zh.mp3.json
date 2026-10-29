@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a4a7f1d9e9ba2a11089624f95f313323758f13ce59107a7118ee0e81e6fcad3e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "那僧笑道：「你且莫問，日後自然明白的。」說着，便袖了那石，同那道人飄然而去，竟不知投奔何方何舍。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7a2bf5e4661d392ba63f9785e7fdb7eea9731f7f632316a15a385b12cfe0aab3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:42:08.563970+00:00"
+}

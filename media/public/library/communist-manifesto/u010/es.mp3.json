@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2be28dd65f90a79869b26e3daedd4a11814d74914439a29cb6b0753e5cc9f83c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La sociedad burguesa moderna, surgida del hundimiento de la sociedad feudal, no ha eliminado los antagonismos de clase. Solo ha sustituido los antiguos por nuevas clases, nuevas condiciones de opresión y nuevas formas de lucha.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "97b434c3b393636e64ef98a8f68d4c9e3215491ec1aa32aa4e8e3f06c7e3bc7c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:52:01.157763+00:00"
+}

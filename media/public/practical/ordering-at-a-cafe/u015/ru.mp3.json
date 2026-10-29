@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6809efd0c187c181bc483cd4e0810bf67ef2e267e6f61423976f27e5ba28bf6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "У вас есть столик на двоих?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ecfec16120e2ad73bc8ed82847d73e08d4b19a708e7dbb3af27a163f2d4be797",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:13:58.364011+00:00"
+}

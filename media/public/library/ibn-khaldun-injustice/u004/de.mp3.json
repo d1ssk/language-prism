@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f30969b85860b4ead6966610b1fb4f09dfcbf5e4f74f5dc05e4663fbee2ca4c1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Sind die Übergriffe groß und erstrecken sie sich auf alle Erwerbswege, wird auch der Erwerb allgemein aufgegeben, weil das Eindringen auf allen Wegen jede Hoffnung zerstört.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0b2afca18388d592cddf08167584359b3434b132f91bcd8a038bd7bef279c71e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:41:31.558298+00:00"
+}

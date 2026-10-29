@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d0bcd05011e7894829db8309171a2da71eb0f5ca7a5ad0057d27c31297b0827",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "具备明辨的人，在此世超越善业与恶业。因此，应当致力于瑜伽；瑜伽就是行动中的善巧。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "311374bb4c9c292a31012ca3c13e1bbc2ce3fa9225c913b366dbae78deade230",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:28:40.688945+00:00"
+}

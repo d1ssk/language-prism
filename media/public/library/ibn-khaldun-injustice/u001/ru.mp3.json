@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eb44e96d3c1488181af15deae5219f1268dbf176d17c622831fbcb96cd6121a4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Знай, что посягательство на имущество людей уничтожает их надежду приобретать и зарабатывать его: они видят, что в конце концов оно будет вырвано из их рук.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cc1fe1de6a4a3fc4ae2a6cafe61e14dfe2fcdb10c13e1360c98b7e75b212cc0f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:38:59.837159+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "06c231d18e7c5a3b0e644b0ed01d44c9ac4ea433a7a40e76c64195eda8e3b147",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如果侵害较轻，减少谋生的程度也与之相应。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0da9d222d1fb2c25283318b1f290bc3c9ccf48578a44c61b9e34b29601188f31",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:42:41.442033+00:00"
+}

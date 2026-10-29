@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "82e4285032e6e92b823745e3d5640a15494cf29236925b28abb9accda04ab584",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Dear readers, where do you think this book came from? Its origins may sound absurd, yet close consideration reveals a deep interest. Let me explain its history so that those who hear it may understand without confusion.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7c47b66792e2646001789cbb91e53b4247dc7c599fdf2e9882ab17fde1a11af7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:11:16.360896+00:00"
+}

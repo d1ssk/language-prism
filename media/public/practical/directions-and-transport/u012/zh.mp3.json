@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "63519ff41817e0732bb82d751ccf6f6f14062fd065785d60f6c5ce5bb5cb96df",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "不需要，这趟车可以直达机场。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79febbd5c843e1eea05d198e96312d065505e3e4ae1d1b663e2b407eb3591c78",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:45.052215+00:00"
+}

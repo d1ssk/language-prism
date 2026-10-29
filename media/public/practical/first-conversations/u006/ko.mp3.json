@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b31ba62ebce9a6480ec8861dbc7dcca08913cb4aa5b455510db1778e7172ce8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "대학교에서 일본어를 가르쳐요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c3e0e1c073d6c83c126d0a993acf7c30f91043c697dfa04ed57b3ca65d0d10ce",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:03:01.182106+00:00"
+}

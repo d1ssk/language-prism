@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4e8544a504e0715af09832d43967889a840cb1d525e7a1a2ec7c653e6ad6f072",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Dans les époques antérieures, nous trouvons presque partout la société entièrement divisée en ordres, avec de multiples degrés de position sociale. Rome avait patriciens, chevaliers, plébéiens et esclaves ; le Moyen Âge, seigneurs féodaux, vassaux, maîtres de corporation, compagnons et serfs, et presque chaque classe comportait encore ses propres degrés.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "be53420c77c5157f1f3366a49e4e4c27cc7a9d1f304e58cdd29e600bcc723c4c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:50:00.650036+00:00"
+}

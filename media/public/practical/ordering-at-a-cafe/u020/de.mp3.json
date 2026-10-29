@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cb306871017c8a4e49184d20a44939bf589abac9b97f1c7d38c6dfc902fffb4a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es ist etwas scharf, aber wir können die Schärfe anpassen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a18ae575e8d6390ba8cea3782973f27f514300fb851d9ba6d3207dc4e8b0b7e7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:30.272399+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8866c46b16348f1644eaa3ec23a738a775c30da57f1ef4eb97142cfe4a68c069",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El monje sonrió: «No preguntes por ahora; con el tiempo lo entenderás». Dicho esto, guardó la piedra en la manga y se alejó flotando con el daoísta. Nadie supo hacia qué lugar o qué casa se dirigían.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f71e9037ac9e810216fca8e269ad3717f387a642f468299c913d4c9f13c0a742",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:41:17.905133+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "840c8b7340e344396ad4401332936a8334f7e84f76736f1e6bb99f4a4a083fb3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Oui, j'y suis allé deux fois.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "02221d88e7a579775ea21e4b669cf684c65ef98ebb22c93f27b0c73639954db8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:17.731984+00:00"
+}

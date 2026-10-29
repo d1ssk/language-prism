@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a22e8bf33d1c766664b13b5ef12f339d14cca850c549295e42e7abfdd8c7b0d6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wo ist die Oppositionspartei, die nicht von ihren regierenden Gegnern als kommunistisch verschrieen worden wäre, wo die Oppositionspartei, die den fortgeschritteneren Oppositionsleuten sowohl, wie ihren reaktionären Gegnern den brandmarkenden Vorwurf des Kommunismus nicht zurückgeschleudert hätte?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a647d666d9e6619f935a361669df840bbbdf5521a908cac5c0d3511a3136e353",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:41:31.177044+00:00"
+}

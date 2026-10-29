@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c93905967f54250fef99d376db98c7b2a87cd4ab0bfb1eb180b11b9a3b5ac30f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "直线图形由直线围成：三条线围成三边形，四条线围成四边形，多于四条线围成多边形。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "588436779ac49263ee3bacbbdeb22412dd77f2a4a40d5a29ace8cb1b05652d25",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:26:22.772538+00:00"
+}

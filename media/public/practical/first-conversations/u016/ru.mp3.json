@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8065954ea649d80c0717d2bfe21f123af8a63f0b64f924808365d2f6206847ae",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Да, садитесь.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a1d71b8310ac2d92ae149c63677e2a7c0d327196112955f762e26cd77993ffc2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:59.586315+00:00"
+}

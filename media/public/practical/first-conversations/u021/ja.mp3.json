@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c48607d0b7eb0874d220c7f72bcd7c01c46e346b7ba47c5ac3cb65ad26df46da",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "れんらくさきをこうかんしてもいいですか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "240940b5ded5c6f2f298078701dcd4e707478077a8bd67aa1fb8e6b11bbcc66e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:06:07.108630+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1dba305dcb8d131c66c7f3deca07a7865178da934a5df45aa02e622535e1db76",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Извините, мне ещё не принесли заказанное блюдо.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "11b28d5d8ec1231ab05ba8bcf3c36fa88221acdf74d5a4632b5be2b2190e9b7f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:19:02.470702+00:00"
+}

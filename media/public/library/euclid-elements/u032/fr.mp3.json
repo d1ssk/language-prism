@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "55bc24aaa6a28f0bb615f5f2bcdd4a9c5a6e6feab7968c2dda22f4bc05f4f636",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Des choses qui coïncident entre elles sont égales.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3fe64ec332d145f261c12ec1813b9ca238c20ac0a5b704cb4ca6c7b218211189",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:38.294651+00:00"
+}

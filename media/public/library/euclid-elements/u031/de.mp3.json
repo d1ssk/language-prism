@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a7cba0351cc38d1325fe60b7808dccac67be6bdb32b2029ed7d451850f289644",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nimmt man von Gleichem Gleiches weg, sind die Reste gleich.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f4e739102cde42d2e0f0e87284809ed18360fd19a5352667bfdcb38d3a56be8e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:13.145031+00:00"
+}

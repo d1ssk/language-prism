@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d711889cf2ce0a927a684c4171bf1778028143338e36c589b55395b80e249029",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "二仙師聽畢，齊憨笑道：「善哉，善哉！那紅塵中有卻有些樂事，但不能永遠依恃。況又有美中不足、好事多魔八個字緊相連屬，瞬息間則又樂极悲生，人非物換，究竟是到頭一夢，萬境歸空，倒不如不去的好。」",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4c9c208b14efaf91d18b127a46bfc6f537f39e4b67aac93ef2023ad0d712fffd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:28:22.081094+00:00"
+}

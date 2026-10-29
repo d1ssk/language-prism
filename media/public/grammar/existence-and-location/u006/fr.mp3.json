@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b740aca2a5123d88a6da0c6ce0eb82e0063711ce4d601456d4b4c525b91b288b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La clé est dans le sac.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a1a4c0ddd1732121a807a0da1806fd5fd25636f03f943f32ba83132693f6a5ad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:15:24.459750+00:00"
+}

@@ -48,23 +48,63 @@
           "ttsText": "じんじゅつのあき、しちがつじゅうろくにち、そしはきゃくとともにふねをうかべ、せきへきのもとであそんだ。",
           "vocabulary": [
             {
+              "term": "壬戌の秋",
+              "meaning": {
+                "ja": "干支で壬戌に当たる年の秋。",
+                "en": "Autumn in the renxu year of the sexagenary cycle."
+              }
+            },
+            {
               "term": "七月十六日",
               "meaning": {
-                "ja": "旧暦の日付。既望は満月の翌日。",
-                "en": "A lunar-calendar date; jiwang is the day after the full moon."
+                "ja": "旧暦七月の十六日。",
+                "en": "The sixteenth day of the seventh lunar month."
+              }
+            },
+            {
+              "term": "蘇子",
+              "meaning": {
+                "ja": "作者の蘇軾を敬って呼ぶ形。",
+                "en": "Master Su, referring to the author Su Shi."
+              }
+            },
+            {
+              "term": "舟を浮かべ",
+              "meaning": {
+                "ja": "舟に乗り、水上へ出る。",
+                "en": "Put a boat on the water and go boating."
+              }
+            },
+            {
+              "term": "赤壁の下",
+              "meaning": {
+                "ja": "赤壁と呼ばれる場所のふもと。",
+                "en": "Below the place called Red Cliff."
               }
             }
           ],
           "grammar": [
             {
-              "point": "〜とともに",
+              "point": "時と主語 + 二つの動作",
               "explanation": {
-                "ja": "同行者を示す。蘇子は作者自身を指す呼び方。",
-                "en": "Marks a companion. Master Su is the author referring to himself."
+                "ja": "冒頭の季節・日付の後に蘇子を主語とし、舟を浮かべることと遊ぶことを続けて述べます。",
+                "en": "The sentence sets time, then follows Master Su through launching the boat and enjoying the outing."
+              }
+            },
+            {
+              "point": "客とともに / 赤壁の下で",
+              "explanation": {
+                "ja": "とともに が同行者、で が舟遊びの場所を示します。",
+                "en": "とともに marks companions; で locates the boating excursion."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "『赤壁賦』の場面を、時・人物・場所の順に定める書き出しです。中国語原文の「既望」は満月の翌日で、旧暦十六日に当たります。",
+              "en": "The opening fixes time, participants, and place. The Chinese 既望 means the day after the full moon, the lunar month’s sixteenth day."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -81,23 +121,63 @@
           "ttsText": "In the autumn of the renxu year, on the sixteenth day of the seventh lunar month, Master Su went boating with his guests below the Red Cliff.",
           "vocabulary": [
             {
+              "term": "renxu year",
+              "meaning": {
+                "ja": "干支の壬戌年。",
+                "en": "The renxu year in the traditional cyclical calendar."
+              }
+            },
+            {
+              "term": "sixteenth day of the seventh lunar month",
+              "meaning": {
+                "ja": "旧暦七月十六日。",
+                "en": "The sixteenth day of the seventh lunar month."
+              }
+            },
+            {
+              "term": "Master Su",
+              "meaning": {
+                "ja": "作者の蘇軾を敬って呼ぶ形。",
+                "en": "An honorific reference to the author Su Shi."
+              }
+            },
+            {
               "term": "went boating",
               "meaning": {
-                "ja": "舟遊びをした。",
-                "en": "Took a boat out for pleasure."
+                "ja": "舟遊びに出かけた。",
+                "en": "Took a boat outing."
+              }
+            },
+            {
+              "term": "below the Red Cliff",
+              "meaning": {
+                "ja": "赤壁のふもとで。",
+                "en": "At the foot of Red Cliff."
               }
             }
           ],
           "grammar": [
             {
-              "point": "with his guests",
+              "point": "In ... , on ...",
               "explanation": {
-                "ja": "with は同行を示す。below は崖の下にある水面上の位置を表す。",
-                "en": "With marks companionship; below locates the boat on the water beneath the cliff."
+                "ja": "季節・年と日付を二つの前置詞句で示してから出来事を述べます。",
+                "en": "Two opening prepositional phrases set the year, season, and day before the event."
+              }
+            },
+            {
+              "point": "with his guests / below ...",
+              "explanation": {
+                "ja": "with が同行者、below が舟遊びの場所を示します。",
+                "en": "With identifies companions; below locates the outing."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "中国語原文の「七月既望」を十六日として明示し、場面の時・人・場所を定めます。",
+              "en": "The translation makes the original 七月既望 explicit as the lunar month’s sixteenth day."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -114,23 +194,63 @@
           "ttsText": "En el otoño del año renxu, el decimosexto día del séptimo mes lunar, el maestro Su salió a pasear en barca con sus invitados al pie del Acantilado Rojo.",
           "vocabulary": [
             {
-              "term": "al pie de",
+              "term": "año renxu",
               "meaning": {
-                "ja": "〜のふもとに。",
-                "en": "At the foot of."
+                "ja": "干支の壬戌年。",
+                "en": "The renxu year of the cyclical calendar."
+              }
+            },
+            {
+              "term": "séptimo mes lunar",
+              "meaning": {
+                "ja": "旧暦の七月。",
+                "en": "The seventh lunar month."
+              }
+            },
+            {
+              "term": "maestro Su",
+              "meaning": {
+                "ja": "作者蘇軾への敬称。",
+                "en": "Master Su, the author Su Shi."
+              }
+            },
+            {
+              "term": "pasear en barca",
+              "meaning": {
+                "ja": "舟で遊覧する。",
+                "en": "Go for a boat ride."
+              }
+            },
+            {
+              "term": "Acantilado Rojo",
+              "meaning": {
+                "ja": "赤壁という地名。",
+                "en": "Red Cliff, the named location."
               }
             }
           ],
           "grammar": [
             {
-              "point": "salió a pasear",
+              "point": "En ... , ...",
               "explanation": {
-                "ja": "salir a＋不定詞は、ある活動をするために出かけること。",
-                "en": "Salir a plus an infinitive means to go out to do an activity."
+                "ja": "年・季節・日付を冒頭の句で設定してから舟遊びを述べます。",
+                "en": "Opening time phrases locate the boating event in the cyclical year and lunar month."
+              }
+            },
+            {
+              "point": "salió a + 不定詞",
+              "explanation": {
+                "ja": "salió a pasear で「遊覧に出かけた」という動きを表します。",
+                "en": "Salió a pasear describes going out for a ride."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の「既望」を旧暦十六日と解き、蘇子・客・赤壁を配置します。",
+              "en": "The translation interprets 既望 as the sixteenth lunar day and establishes Su, guests, and Red Cliff."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -147,23 +267,63 @@
           "ttsText": "En automne de l’année renxu, le seizième jour du septième mois lunaire, maître Su alla se promener en barque avec ses invités au pied de la Falaise rouge.",
           "vocabulary": [
             {
-              "term": "au pied de",
+              "term": "année renxu",
               "meaning": {
-                "ja": "〜のふもとに。",
-                "en": "At the foot of."
+                "ja": "干支の壬戌年。",
+                "en": "The renxu year of the traditional cycle."
+              }
+            },
+            {
+              "term": "septième mois lunaire",
+              "meaning": {
+                "ja": "旧暦七月。",
+                "en": "The seventh lunar month."
+              }
+            },
+            {
+              "term": "maître Su",
+              "meaning": {
+                "ja": "作者蘇軾への敬称。",
+                "en": "Master Su, referring to Su Shi."
+              }
+            },
+            {
+              "term": "se promener en barque",
+              "meaning": {
+                "ja": "舟で遊覧する。",
+                "en": "Take a boat outing."
+              }
+            },
+            {
+              "term": "Falaise rouge",
+              "meaning": {
+                "ja": "赤壁の地名。",
+                "en": "Red Cliff."
               }
             }
           ],
           "grammar": [
             {
+              "point": "En automne ... , le ...",
+              "explanation": {
+                "ja": "季節・年と日付を先に置き、舟遊びの時を定めます。",
+                "en": "The opening phrases establish the season, cyclical year, and date."
+              }
+            },
+            {
               "point": "alla se promener",
               "explanation": {
-                "ja": "aller の単純過去 alla に不定詞が続き、舟遊びに出た出来事を語る。",
-                "en": "Alla is the past historic of aller; the following infinitive states the outing’s purpose."
+                "ja": "aller + 不定詞で、舟遊びに出かける動きを示します。",
+                "en": "Aller plus infinitive describes setting out for a boat outing."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の「七月既望」を旧暦十六日として示す訳です。",
+              "en": "The translation spells out 七月既望 as the sixteenth day of the lunar month."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -180,23 +340,63 @@
           "ttsText": "Im Herbst des Renxu-Jahres, am sechzehnten Tag des siebten Mondmonats, unternahm Meister Su mit seinen Gästen eine Bootsfahrt unterhalb der Roten Felswand.",
           "vocabulary": [
             {
-              "term": "eine Bootsfahrt unternehmen",
+              "term": "Renxu-Jahres",
               "meaning": {
-                "ja": "舟遊びをする。",
-                "en": "To take a boat trip."
+                "ja": "干支の壬戌年。",
+                "en": "The renxu year of the cyclical calendar."
+              }
+            },
+            {
+              "term": "siebten Mondmonats",
+              "meaning": {
+                "ja": "旧暦七月の。",
+                "en": "Of the seventh lunar month."
+              }
+            },
+            {
+              "term": "Meister Su",
+              "meaning": {
+                "ja": "作者蘇軾への敬称。",
+                "en": "Master Su, referring to the author."
+              }
+            },
+            {
+              "term": "Bootsfahrt",
+              "meaning": {
+                "ja": "舟遊び。",
+                "en": "Boat excursion."
+              }
+            },
+            {
+              "term": "Roten Felswand",
+              "meaning": {
+                "ja": "赤壁という地名。",
+                "en": "Red Cliff."
               }
             }
           ],
           "grammar": [
             {
-              "point": "mit seinen Gästen",
+              "point": "Im Herbst ... , am ...",
               "explanation": {
-                "ja": "mit は与格を取り、Gäste は複数与格 Gästen になる。",
-                "en": "Mit takes the dative; the plural Gäste becomes Gästen."
+                "ja": "年・季節と日付を前置詞句で先に示します。",
+                "en": "The time phrases set the cyclical year, season, and date first."
+              }
+            },
+            {
+              "point": "unternahm + 対格",
+              "explanation": {
+                "ja": "unternahm ... eine Bootsfahrt は舟遊びを行ったという動作を表します。",
+                "en": "Unternahm takes eine Bootsfahrt as its accusative object."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "旧暦十六日を明示し、蘇子と客が赤壁の下で舟に乗る場面を設定します。",
+              "en": "The translation makes the lunar sixteenth explicit and sets Su and his guests below Red Cliff."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -213,23 +413,63 @@
           "ttsText": "Осенью года жэньсюй, в шестнадцатый день седьмого лунного месяца, учитель Су отправился с гостями на лодочную прогулку у подножия Красной скалы.",
           "vocabulary": [
             {
-              "term": "у подножия",
+              "term": "года жэньсюй",
               "meaning": {
-                "ja": "〜のふもとで。",
-                "en": "At the foot of."
+                "ja": "干支の壬戌年の。",
+                "en": "Of the renxu year in the traditional cycle."
+              }
+            },
+            {
+              "term": "седьмого лунного месяца",
+              "meaning": {
+                "ja": "旧暦七月の。",
+                "en": "Of the seventh lunar month."
+              }
+            },
+            {
+              "term": "учитель Су",
+              "meaning": {
+                "ja": "作者蘇軾への敬称。",
+                "en": "Master Su, a respectful reference to Su Shi."
+              }
+            },
+            {
+              "term": "лодочную прогулку",
+              "meaning": {
+                "ja": "舟遊びを。",
+                "en": "A boat excursion."
+              }
+            },
+            {
+              "term": "Красной скалы",
+              "meaning": {
+                "ja": "赤壁という場所の。",
+                "en": "Of Red Cliff."
               }
             }
           ],
           "grammar": [
             {
-              "point": "отправился с гостями",
+              "point": "Осенью ... , в ...",
               "explanation": {
-                "ja": "с＋造格が同行者を示す。отправился は出発したという完了した出来事。",
-                "en": "С plus the instrumental marks companions; the perfective отправился presents the departure as an event."
+                "ja": "季節・年と旧暦の日付を先に置いて場面を定めます。",
+                "en": "The opening phrases set the season, cyclical year, and lunar date."
+              }
+            },
+            {
+              "point": "отправился на + 対格",
+              "explanation": {
+                "ja": "отправился на лодочную прогулку で舟遊びへ出かけたことを表します。",
+                "en": "Отправился на plus accusative describes setting out on a boat excursion."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "中国語原文の「既望」を旧暦十六日と表し、登場人物と場所を明示します。",
+              "en": "The translation renders 既望 as the lunar sixteenth and names the people and place."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -246,23 +486,63 @@
           "ttsText": "في خريف عام رن شو، في اليوم السادس عشر من الشهر القمري السابع، خرج المعلم سو مع ضيوفه في نزهة بالقارب عند سفح الجرف الأحمر.",
           "vocabulary": [
             {
-              "term": "عند سفح",
+              "term": "عام رن شو",
               "meaning": {
-                "ja": "〜のふもとで。",
-                "en": "At the foot of."
+                "ja": "干支の壬戌年。",
+                "en": "The renxu year of the cyclical calendar."
+              }
+            },
+            {
+              "term": "اليوم السادس عشر",
+              "meaning": {
+                "ja": "十六日。",
+                "en": "The sixteenth day."
+              }
+            },
+            {
+              "term": "الشهر القمري السابع",
+              "meaning": {
+                "ja": "旧暦七月。",
+                "en": "The seventh lunar month."
+              }
+            },
+            {
+              "term": "المعلم سو",
+              "meaning": {
+                "ja": "作者蘇軾への敬称。",
+                "en": "Master Su, a respectful name for the author."
+              }
+            },
+            {
+              "term": "نزهة بالقارب",
+              "meaning": {
+                "ja": "舟での遊覧。",
+                "en": "A boat excursion."
               }
             }
           ],
           "grammar": [
             {
-              "point": "مع ضيوفه",
+              "point": "في ... في ...",
               "explanation": {
-                "ja": "مع は同行を表し、ضيوفه は「彼の客たち」。接尾辞 ـه が蘇子を指す。",
-                "en": "Maʿa marks companionship; the suffix -hi in ḍuyūfihi refers to Master Su: his guests."
+                "ja": "二つの في 句で季節・年と日付を先に示します。",
+                "en": "The two في phrases set the season, year, and day before the action."
+              }
+            },
+            {
+              "point": "خرج + في نزهة",
+              "explanation": {
+                "ja": "خرج ... في نزهة で、舟遊びへ出かけたことを表します。",
+                "en": "خرج ... في نزهة describes setting out for an excursion."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の「既望」を旧暦十六日として明示し、赤壁のふもとの場面を定めます。",
+              "en": "The translation makes 既望 explicit as the lunar sixteenth and locates the outing at Red Cliff."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Fī kharīfi ʿāmi Rin Shū, fī al-yawmi as-sādisi ʿashara mina ash-shahri al-qamariyyi as-sābiʿi, kharaja al-muʿallimu Sū maʿa ḍuyūfihi fī nuzhatin bi-al-qāribi ʿinda safḥi al-jurfi al-ʾaḥmari."
@@ -283,26 +563,61 @@
           "ttsText": "壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。",
           "vocabulary": [
             {
-              "term": "既望",
+              "term": "壬戌之秋",
               "meaning": {
-                "ja": "旧暦の十六日。壬戌はここでは1082年。",
-                "en": "The sixteenth day of a lunar month. Renxu here denotes 1082."
+                "ja": "干支で壬戌の年の秋。",
+                "en": "Autumn of the renxu year in the cyclical calendar."
+              }
+            },
+            {
+              "term": "七月既望",
+              "meaning": {
+                "ja": "旧暦七月の満月の翌日、十六日。",
+                "en": "The day after the full moon in the seventh lunar month, the sixteenth."
+              }
+            },
+            {
+              "term": "苏子与客",
+              "meaning": {
+                "ja": "蘇子と客人たち。苏子 は作者蘇軾への呼び名。",
+                "en": "Master Su and his guests; 苏子 refers to Su Shi."
+              }
+            },
+            {
+              "term": "泛舟",
+              "meaning": {
+                "ja": "舟を水に浮かべて遊ぶ。",
+                "en": "Float a boat and go boating."
+              }
+            },
+            {
+              "term": "赤壁之下",
+              "meaning": {
+                "ja": "赤壁のふもとで。",
+                "en": "Below Red Cliff."
               }
             }
           ],
           "grammar": [
             {
-              "point": "游于赤壁之下",
+              "point": "之 + 名詞",
               "explanation": {
-                "ja": "于 は場所を導き、之 は「赤壁」と「下」をつなぐ。古典中国語の語順を保っている。",
-                "en": "于 introduces the location and 之 connects 赤壁 with 下. This is the original Classical Chinese wording."
+                "ja": "壬戌之秋／赤壁之下 の 之 は、前の語と後の時・場所の名詞を結びます。",
+                "en": "之 links renxu to autumn and Red Cliff to the place below it."
+              }
+            },
+            {
+              "point": "游于 + 場所",
+              "explanation": {
+                "ja": "于 が舟遊びをした場所を示し、赤壁之下 へつなぎます。",
+                "en": "于 introduces the location of the outing below Red Cliff."
               }
             }
           ],
           "notes": [
             {
-              "ja": "蘇子は作者の蘇軾自身を指します。日付は旧暦です。",
-              "en": "Master Su refers to Su Shi himself. The date uses the lunar calendar."
+              "ja": "古典中国語の書き出しです。「既望」は「望」の満月の翌日を指し、日付を十六日と特定できます。",
+              "en": "This classical Chinese opening uses 既望 for the day after the full moon, identifying the date as the sixteenth."
             }
           ],
           "pronunciation": {
@@ -325,23 +640,63 @@
           "ttsText": "임술년 가을, 음력 칠월 열엿샛날, 소자는 손님들과 배를 띄워 적벽 아래에서 노닐었다.",
           "vocabulary": [
             {
-              "term": "열엿샛날",
+              "term": "임술년 가을",
               "meaning": {
-                "ja": "十六日。ここでは旧暦の日付。",
-                "en": "The sixteenth day, here of a lunar month."
+                "ja": "干支の壬戌年の秋。",
+                "en": "Autumn of the im-sul year in the cyclical calendar."
+              }
+            },
+            {
+              "term": "음력 칠월 열엿샛날",
+              "meaning": {
+                "ja": "旧暦七月十六日。",
+                "en": "The sixteenth day of the seventh lunar month."
+              }
+            },
+            {
+              "term": "소자",
+              "meaning": {
+                "ja": "作者蘇軾への呼び名。",
+                "en": "Master Su, referring to the author Su Shi."
+              }
+            },
+            {
+              "term": "배를 띄워",
+              "meaning": {
+                "ja": "舟を水に浮かべて。",
+                "en": "Launching a boat."
+              }
+            },
+            {
+              "term": "적벽 아래",
+              "meaning": {
+                "ja": "赤壁の下で。",
+                "en": "Below Red Cliff."
               }
             }
           ],
           "grammar": [
             {
-              "point": "배를 띄워",
+              "point": "-와/과 함께 の意味",
               "explanation": {
-                "ja": "띄우다 は「浮かべる」。-어 が舟を浮かべる動作を次の遊覧につなぐ。",
-                "en": "띄우다 means to float or launch; -어 connects launching the boat with the excursion."
+                "ja": "손님들과 が同行者を示し、舟遊びを共にしたことを表します。",
+                "en": "손님들과 identifies the guests accompanying Su."
+              }
+            },
+            {
+              "point": "-아/어 + 後続動詞",
+              "explanation": {
+                "ja": "띄워 ... 노닐었다 で、舟を浮かべてからその場所で遊んだ動きをつなぎます。",
+                "en": "띄워 links launching the boat to enjoying the outing."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "「既望」を旧暦十六日と訳し、赤壁の下の舟遊びを描き始めます。",
+              "en": "The translation gives 既望 as the lunar sixteenth and opens the boating scene."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -363,23 +718,56 @@
           "ttsText": "きよらかなかぜがゆるやかにふいてきて、みなもになみはたたなかった。",
           "vocabulary": [
             {
-              "term": "波が立つ",
+              "term": "清らかな風",
               "meaning": {
-                "ja": "水面に波が生じる。",
-                "en": "For waves to rise on the water."
+                "ja": "澄んだ心地よい風。",
+                "en": "A clear, pleasant breeze."
+              }
+            },
+            {
+              "term": "ゆるやかに",
+              "meaning": {
+                "ja": "急がず穏やかに。",
+                "en": "Gently or slowly."
+              }
+            },
+            {
+              "term": "水面",
+              "meaning": {
+                "ja": "舟の周囲の水の表面。",
+                "en": "The surface of the water around the boat."
+              }
+            },
+            {
+              "term": "波は立たなかった",
+              "meaning": {
+                "ja": "水面に波が起きなかった。",
+                "en": "No waves rose."
               }
             }
           ],
           "grammar": [
             {
-              "point": "吹いてきて",
+              "point": "-て + 後続節",
               "explanation": {
-                "ja": "〜てくる は話し手のいる場所への接近を表す。",
-                "en": "-Te kuru expresses movement toward the speaker’s location."
+                "ja": "吹いてきて が風の動きを示し、後半の静かな水面へつなぎます。",
+                "en": "-て links the breeze’s arrival to the calm water scene."
+              }
+            },
+            {
+              "point": "波は + 否定過去",
+              "explanation": {
+                "ja": "は が波を話題にし、立たなかった で波のない状態を述べます。",
+                "en": "は makes the waves the topic; negative past states that none arose."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "舟遊びの穏やかな始まりを、風は吹くのに波は立たないという二つの描写で示します。",
+              "en": "The boat outing begins calmly: a breeze moves, but the water stays without waves."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -396,23 +784,56 @@
           "ttsText": "A clear breeze came gently, and no waves rose on the water.",
           "vocabulary": [
             {
-              "term": "breeze",
+              "term": "clear breeze",
               "meaning": {
-                "ja": "穏やかな風。",
-                "en": "A light wind."
+                "ja": "澄んだ心地よい風。",
+                "en": "A fresh, clear breeze."
+              }
+            },
+            {
+              "term": "came gently",
+              "meaning": {
+                "ja": "ゆるやかに吹いてきた。",
+                "en": "Arrived softly."
+              }
+            },
+            {
+              "term": "no waves",
+              "meaning": {
+                "ja": "波が一つもない。",
+                "en": "Not any waves."
+              }
+            },
+            {
+              "term": "rose on the water",
+              "meaning": {
+                "ja": "水面に起きた。",
+                "en": "Formed on the water."
               }
             }
           ],
           "grammar": [
             {
-              "point": "no waves rose",
+              "point": "A ... , and ...",
               "explanation": {
-                "ja": "no が複数名詞 waves を否定し、rose は rise の過去形。",
-                "en": "No negates the plural noun waves; rose is the past tense of rise."
+                "ja": "and が風の動きと波のない水面を一つの場面に結びます。",
+                "en": "And joins the moving breeze with the still surface."
+              }
+            },
+            {
+              "point": "no + 複数名詞",
+              "explanation": {
+                "ja": "no waves rose で、波がまったく立たなかったと述べます。",
+                "en": "No before plural waves expresses the complete absence of waves."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "中国語原文「清风徐来，水波不兴」の簡潔な並列を、風と水の対照で表します。",
+              "en": "The translation preserves the concise pairing of breeze and still water in 清风徐来，水波不兴."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -429,23 +850,56 @@
           "ttsText": "Una brisa fresca llegaba suavemente, y no se levantaban olas en el agua.",
           "vocabulary": [
             {
-              "term": "brisa",
+              "term": "Una brisa fresca",
               "meaning": {
-                "ja": "そよ風。",
-                "en": "A light breeze."
+                "ja": "涼しく心地よい風。",
+                "en": "A fresh breeze."
+              }
+            },
+            {
+              "term": "llegaba suavemente",
+              "meaning": {
+                "ja": "静かにやってきた。",
+                "en": "Came gently."
+              }
+            },
+            {
+              "term": "olas",
+              "meaning": {
+                "ja": "波。",
+                "en": "Waves."
+              }
+            },
+            {
+              "term": "en el agua",
+              "meaning": {
+                "ja": "水面で。",
+                "en": "On the water."
               }
             }
           ],
           "grammar": [
             {
+              "point": "線過去 llegaba / levantaban",
+              "explanation": {
+                "ja": "風と水の背景描写を、継続的な過去の場面として示します。",
+                "en": "The imperfect verbs describe the breeze and water as an ongoing background scene."
+              }
+            },
+            {
               "point": "no se levantaban olas",
               "explanation": {
-                "ja": "再帰形 levantarse が波が生じることを表す。複数主語 olas に動詞が一致する。",
-                "en": "Levantarse describes the waves rising; the verb agrees with the plural subject olas."
+                "ja": "再帰・中動的な形で、波が自然に立つことを否定します。",
+                "en": "The pronominal verb describes waves rising on their own and negates it."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "風がそよぎながら水面は静か、という舟遊びの初景です。",
+              "en": "The first scene of the excursion has a soft breeze but a still surface."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -462,23 +916,56 @@
           "ttsText": "Une brise fraîche venait doucement, et pas une vague ne se levait sur l’eau.",
           "vocabulary": [
             {
-              "term": "brise",
+              "term": "Une brise fraîche",
               "meaning": {
-                "ja": "そよ風。",
-                "en": "A light breeze."
+                "ja": "涼しく心地よいそよ風。",
+                "en": "A fresh breeze."
+              }
+            },
+            {
+              "term": "venait doucement",
+              "meaning": {
+                "ja": "静かに吹いてきた。",
+                "en": "Came gently."
+              }
+            },
+            {
+              "term": "pas une vague",
+              "meaning": {
+                "ja": "波一つさえない。",
+                "en": "Not a single wave."
+              }
+            },
+            {
+              "term": "sur l’eau",
+              "meaning": {
+                "ja": "水面に。",
+                "en": "On the water."
               }
             }
           ],
           "grammar": [
             {
-              "point": "pas une vague ne",
+              "point": "線過去 venait / se levait",
               "explanation": {
-                "ja": "pas un/une＋名詞＋ne は「一つも〜ない」と強調する否定。",
-                "en": "Pas un/une plus a noun and ne emphasizes that not even one existed or acted."
+                "ja": "風と水面を、続く過去の情景として描きます。",
+                "en": "The imperfect verbs portray an ongoing past scene."
+              }
+            },
+            {
+              "point": "pas une + 単数名詞",
+              "explanation": {
+                "ja": "pas une vague で、波が一つもないことを強調します。",
+                "en": "Pas une plus singular noun emphasizes not a single wave."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "風と水を対照させ、舟遊びの静かな始まりを示します。",
+              "en": "The breeze and still water establish a calm beginning to the outing."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -495,23 +982,56 @@
           "ttsText": "Eine frische Brise kam sanft heran, und auf dem Wasser erhoben sich keine Wellen.",
           "vocabulary": [
             {
-              "term": "Brise",
+              "term": "Eine frische Brise",
               "meaning": {
-                "ja": "そよ風。",
-                "en": "A light breeze."
+                "ja": "心地よい新鮮な風。",
+                "en": "A fresh breeze."
+              }
+            },
+            {
+              "term": "kam sanft heran",
+              "meaning": {
+                "ja": "柔らかく吹いてきた。",
+                "en": "Came gently nearer."
+              }
+            },
+            {
+              "term": "auf dem Wasser",
+              "meaning": {
+                "ja": "水面に。",
+                "en": "On the water."
+              }
+            },
+            {
+              "term": "keine Wellen",
+              "meaning": {
+                "ja": "波がない。",
+                "en": "No waves."
               }
             }
           ],
           "grammar": [
             {
-              "point": "erhoben sich keine Wellen",
+              "point": "前半 + und + 後半",
               "explanation": {
-                "ja": "sich erheben は「立ち上がる」。場所句を先頭に置いたため、動詞の後に主語が来る。",
-                "en": "Sich erheben means to rise. The initial location phrase places the subject after the finite verb."
+                "ja": "und が風の到来と波のない水面を並べます。",
+                "en": "Und joins the incoming breeze and the absence of waves."
+              }
+            },
+            {
+              "point": "keine + 複数名詞",
+              "explanation": {
+                "ja": "keine Wellen で波の発生を否定します。",
+                "en": "Keine before plural Wellen states that no waves rose."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "風が吹いても波は立たない静けさを描きます。",
+              "en": "A breeze moves while the water remains free of waves."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -528,23 +1048,56 @@
           "ttsText": "Лёгкий свежий ветерок веял плавно, и на воде не поднимались волны.",
           "vocabulary": [
             {
-              "term": "ветерок",
+              "term": "Лёгкий свежий ветерок",
               "meaning": {
-                "ja": "ветер の指小形で、穏やかな小さい風。",
-                "en": "A diminutive of ветер, suggesting a light breeze."
+                "ja": "軽く心地よい風。",
+                "en": "A light fresh breeze."
+              }
+            },
+            {
+              "term": "веял плавно",
+              "meaning": {
+                "ja": "穏やかに吹いていた。",
+                "en": "Blew gently."
+              }
+            },
+            {
+              "term": "на воде",
+              "meaning": {
+                "ja": "水面に。",
+                "en": "On the water."
+              }
+            },
+            {
+              "term": "не поднимались волны",
+              "meaning": {
+                "ja": "波は立たなかった。",
+                "en": "Waves did not rise."
               }
             }
           ],
           "grammar": [
             {
-              "point": "не поднимались волны",
+              "point": "不完了体の過去",
               "explanation": {
-                "ja": "подниматься はここでは波が立つこと。複数の волны に過去形が一致する。",
-                "en": "Подниматься here means to rise; the plural past-tense form agrees with волны."
+                "ja": "веял と поднимались で、続いている情景を過去として描きます。",
+                "en": "Imperfective past verbs present the breeze and water as an ongoing scene."
+              }
+            },
+            {
+              "point": "не + 動詞",
+              "explanation": {
+                "ja": "не поднимались が波の発生を否定します。",
+                "en": "Не negates the rising of waves."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "風の動きと水面の静けさを並べ、舟遊びの穏やかな始まりを示します。",
+              "en": "The moving breeze and still water set a peaceful boating scene."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -561,23 +1114,56 @@
           "ttsText": "هب نسيم صاف برفق، ولم ترتفع أمواج على الماء.",
           "vocabulary": [
             {
+              "term": "هب نسيم",
+              "meaning": {
+                "ja": "そよ風が吹いた。",
+                "en": "A breeze blew."
+              }
+            },
+            {
+              "term": "صاف",
+              "meaning": {
+                "ja": "澄んだ、清らかな。",
+                "en": "Clear or pure."
+              }
+            },
+            {
               "term": "برفق",
               "meaning": {
-                "ja": "穏やかに、やさしく。",
+                "ja": "穏やかに。",
                 "en": "Gently."
+              }
+            },
+            {
+              "term": "أمواج",
+              "meaning": {
+                "ja": "波。",
+                "en": "Waves."
               }
             }
           ],
           "grammar": [
             {
-              "point": "لم ترتفع",
+              "point": "هب + 主語",
               "explanation": {
-                "ja": "لم は未完了形を要求して過去の出来事を否定する。非人間複数 أمواج には女性単数形を用いる。",
-                "en": "Lam negates a past event using the jussive imperfect; the nonhuman plural ʾamwāj takes feminine singular agreement."
+                "ja": "動詞 هب の後に主語 نسيم を置き、風の到来を描きます。",
+                "en": "The verb هب precedes its subject نسيم to depict the breeze."
+              }
+            },
+            {
+              "point": "لم + 未完了形",
+              "explanation": {
+                "ja": "لم ترتفع で、波が立たなかったと過去を否定します。",
+                "en": "لم plus imperfect verb negates the rising of waves in the past."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "澄んだ風は吹くが波は立たない、静かな水面の描写です。",
+              "en": "The breeze moves while waves do not rise, creating a calm water scene."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Habba nasīmun ṣāfin bi-rifqin, wa-lam tartafiʿ ʾamwājun ʿalā al-māʾi."
@@ -598,23 +1184,56 @@
           "ttsText": "清风徐来，水波不兴。",
           "vocabulary": [
             {
-              "term": "徐",
+              "term": "清风",
               "meaning": {
-                "ja": "ゆっくりと、おだやかに。",
-                "en": "Slowly; gently."
+                "ja": "澄んだ心地よい風。",
+                "en": "A clear, pleasant breeze."
+              }
+            },
+            {
+              "term": "徐来",
+              "meaning": {
+                "ja": "ゆるやかに吹いてくる。",
+                "en": "Comes slowly and gently."
+              }
+            },
+            {
+              "term": "水波",
+              "meaning": {
+                "ja": "水面の波。",
+                "en": "Waves on the water."
+              }
+            },
+            {
+              "term": "不兴",
+              "meaning": {
+                "ja": "起こらない・立たない。",
+                "en": "Do not arise."
               }
             }
           ],
           "grammar": [
             {
-              "point": "水波不兴",
+              "point": "主語 + 述語の並列",
               "explanation": {
-                "ja": "兴 はここでは「起こる」。二つの四字句が風の動きと水の静けさを対照させる。",
-                "en": "兴 means to arise here. Two four-character clauses contrast the breeze’s movement with the still water."
+                "ja": "清风徐来 と 水波不兴 の二つの短い句が風と水を対照させます。",
+                "en": "Two compact subject-predicate clauses contrast moving air with still water."
+              }
+            },
+            {
+              "point": "不 + 動詞",
+              "explanation": {
+                "ja": "不兴 が波の発生を否定し、水面の静けさを示します。",
+                "en": "不 negates 兴, describing the water as still."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "古典中国語の四字句二つで、赤壁での舟遊びの穏やかな情景を作ります。",
+              "en": "Two compact classical clauses establish the calm opening of the Red Cliff outing."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Qīngfēng xú lái, shuǐbō bù xīng."
@@ -635,23 +1254,56 @@
           "ttsText": "맑은 바람이 살며시 불어오고, 물에는 파도가 일지 않았다.",
           "vocabulary": [
             {
-              "term": "살며시",
+              "term": "맑은 바람",
               "meaning": {
-                "ja": "そっと、静かに。",
-                "en": "Gently; softly."
+                "ja": "澄んだ心地よい風。",
+                "en": "A clear, pleasant breeze."
+              }
+            },
+            {
+              "term": "살며시 불어오고",
+              "meaning": {
+                "ja": "そっと吹いてきて。",
+                "en": "Blew in gently."
+              }
+            },
+            {
+              "term": "물에는",
+              "meaning": {
+                "ja": "水には・水面では。",
+                "en": "On the water."
+              }
+            },
+            {
+              "term": "파도가 일지 않았다",
+              "meaning": {
+                "ja": "波は立たなかった。",
+                "en": "No waves arose."
               }
             }
           ],
           "grammar": [
             {
-              "point": "일지 않았다",
+              "point": "-고 + 後続節",
               "explanation": {
-                "ja": "일다「波が立つ」に -지 않았다 をつけ、過去の否定を作る。",
-                "en": "-지 않았다 negates the past of 일다, here meaning for waves to rise."
+                "ja": "불어오고 が風の動きを後半の水面の描写につなぎます。",
+                "en": "-고 joins the breeze’s movement to the water’s stillness."
+              }
+            },
+            {
+              "point": "-지 않았다",
+              "explanation": {
+                "ja": "일지 않았다 は波が起こらなかったという過去の否定です。",
+                "en": "-지 않았다 negates the rising of waves in the past."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "風が吹いても波は立たない静けさを並べ、舟遊びの情景を作ります。",
+              "en": "The moving breeze and wave-free water establish a peaceful outing."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -673,23 +1325,63 @@
           "ttsText": "しゅはいをあげてきゃくにすすめ、めいげつのしをぎんじ、ようちょうのしょうをうたった。",
           "vocabulary": [
             {
-              "term": "吟じる",
+              "term": "酒杯を上げて",
               "meaning": {
-                "ja": "詩を節をつけて朗読する。",
-                "en": "To recite a poem with a rhythmic or melodic delivery."
+                "ja": "杯を持ち上げ、酒を勧めて。",
+                "en": "Raised a cup to offer a drink."
+              }
+            },
+            {
+              "term": "客に勧め",
+              "meaning": {
+                "ja": "客人に酒を勧め。",
+                "en": "Invited the guests to drink."
+              }
+            },
+            {
+              "term": "明月の詩",
+              "meaning": {
+                "ja": "明るい月を題材にした詩。",
+                "en": "A poem of the bright moon."
+              }
+            },
+            {
+              "term": "吟じ",
+              "meaning": {
+                "ja": "節をつけて詩を声に出し。",
+                "en": "Recited a poem aloud."
+              }
+            },
+            {
+              "term": "窈窕の章",
+              "meaning": {
+                "ja": "優美な姿を歌う章句。",
+                "en": "A verse of graceful beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "勧め、吟じ、歌った",
+              "point": "-て、-て、-た",
               "explanation": {
-                "ja": "連用形で動作を並べ、最後の述語で過去を表す。",
-                "en": "Continuative forms link the actions; the final predicate supplies the past tense."
+                "ja": "杯を上げ、勧め、吟じ、歌うという舟上の行動を順に並べます。",
+                "en": "The linked verbs list the successive actions of toasting, reciting, and singing."
+              }
+            },
+            {
+              "point": "客に + 勧める",
+              "explanation": {
+                "ja": "に が酒を勧められる相手を示します。",
+                "en": "に marks the guests as the recipients of the offered drink."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "静かな川での舟遊びが、酒と詩歌をともなう宴へ進みます。中国語原文は《明月》と《窈窕》を名で示しています。",
+              "en": "The calm outing turns to drink and verse. The Chinese original names 《明月》 and 《窈窕》 directly."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -706,23 +1398,63 @@
           "ttsText": "We raised our cups to urge our guests to drink, recited the poem of the bright moon, and sang the verse of graceful beauty.",
           "vocabulary": [
             {
-              "term": "urge someone to drink",
+              "term": "raised our cups",
               "meaning": {
-                "ja": "人に酒を勧める。",
-                "en": "To encourage someone to drink."
+                "ja": "杯を上げた。",
+                "en": "Lifted drinking cups."
+              }
+            },
+            {
+              "term": "urge our guests to drink",
+              "meaning": {
+                "ja": "客に酒を勧める。",
+                "en": "Invite the guests to drink."
+              }
+            },
+            {
+              "term": "recited",
+              "meaning": {
+                "ja": "詩を声に出して唱えた。",
+                "en": "Spoke the poem aloud."
+              }
+            },
+            {
+              "term": "bright moon",
+              "meaning": {
+                "ja": "明るい月。",
+                "en": "The bright moon."
+              }
+            },
+            {
+              "term": "verse of graceful beauty",
+              "meaning": {
+                "ja": "優美な姿を歌う章句。",
+                "en": "A verse of graceful beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "raised, recited, and sang",
+              "point": "to + 動詞",
               "explanation": {
-                "ja": "三つの過去形が動作を並べる。原文では省略された主語を we と補った。",
-                "en": "Three past-tense verbs coordinate the actions. We supplies a subject left implicit in the original."
+                "ja": "to urge ... to drink が杯を上げた目的を示します。",
+                "en": "To urge ... to drink explains why the cups were raised."
+              }
+            },
+            {
+              "point": "raised ... recited ... sang",
+              "explanation": {
+                "ja": "三つの過去形を並べ、宴の行動を順に描きます。",
+                "en": "Three coordinated past verbs narrate the sequence at the gathering."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文は詩と章句を《明月》《窈窕》と名指します。英訳はその意味を説明的に示しています。",
+              "en": "The original names 《明月》 and 《窈窕》; this version renders their meanings descriptively."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -739,23 +1471,63 @@
           "ttsText": "Alzamos las copas para invitar a beber a los huéspedes, recitamos el poema de la luna brillante y cantamos la estrofa de la belleza delicada.",
           "vocabulary": [
             {
-              "term": "estrofa",
+              "term": "Alzamos las copas",
               "meaning": {
-                "ja": "詩の一節。",
-                "en": "A stanza or verse."
+                "ja": "私たちは杯を上げた。",
+                "en": "We raised the cups."
+              }
+            },
+            {
+              "term": "invitar a beber",
+              "meaning": {
+                "ja": "酒を飲むよう勧める。",
+                "en": "Invite someone to drink."
+              }
+            },
+            {
+              "term": "recitamos",
+              "meaning": {
+                "ja": "私たちは詩を朗じた。",
+                "en": "We recited."
+              }
+            },
+            {
+              "term": "luna brillante",
+              "meaning": {
+                "ja": "明るい月。",
+                "en": "The bright moon."
+              }
+            },
+            {
+              "term": "estrofa de la belleza delicada",
+              "meaning": {
+                "ja": "繊細な美を歌う節。",
+                "en": "A stanza of delicate beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "para invitar a beber",
+              "point": "para + 不定詞",
               "explanation": {
-                "ja": "para＋不定詞で目的を示し、invitar a＋不定詞で勧める行動を示す。",
-                "en": "Para plus an infinitive marks purpose; invitar a plus an infinitive identifies the invited action."
+                "ja": "para invitar a beber が杯を上げた目的を示します。",
+                "en": "Para plus infinitive gives the purpose of raising the cups."
+              }
+            },
+            {
+              "point": "Alzamos / recitamos / cantamos",
+              "explanation": {
+                "ja": "一人称複数の過去形を並べ、舟の一行が行った三つの行動を描きます。",
+                "en": "The first-person plural preterites list what the group did."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "中国語原文の詩の名《明月》と章の名《窈窕》を、内容が分かる語句にしています。",
+              "en": "The translation renders the named poem and verse by descriptive phrases."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -772,23 +1544,63 @@
           "ttsText": "Nous levâmes nos coupes pour inviter les convives à boire, récitâmes le poème de la lune brillante et chantâmes la strophe de la beauté gracieuse.",
           "vocabulary": [
             {
-              "term": "convives",
+              "term": "levâmes nos coupes",
               "meaning": {
-                "ja": "酒席・食事の客たち。",
-                "en": "Guests at a meal or gathering."
+                "ja": "私たちは杯を上げた。",
+                "en": "We raised our cups."
+              }
+            },
+            {
+              "term": "inviter les convives à boire",
+              "meaning": {
+                "ja": "同席者に酒を勧める。",
+                "en": "Invite the companions to drink."
+              }
+            },
+            {
+              "term": "récitâmes",
+              "meaning": {
+                "ja": "私たちは朗じた。",
+                "en": "We recited."
+              }
+            },
+            {
+              "term": "lune brillante",
+              "meaning": {
+                "ja": "明るい月。",
+                "en": "Bright moon."
+              }
+            },
+            {
+              "term": "strophe de la beauté gracieuse",
+              "meaning": {
+                "ja": "優美を歌う節。",
+                "en": "A stanza of graceful beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "levâmes, récitâmes, chantâmes",
+              "point": "pour + 不定詞",
               "explanation": {
-                "ja": "いずれも一人称複数の単純過去。文学的な語りで一連の行為を示す。",
-                "en": "These are first-person plural past historic forms, narrating a sequence of actions."
+                "ja": "pour inviter ... à boire が杯を上げた目的を示します。",
+                "en": "Pour plus infinitive states the reason for raising the cups."
+              }
+            },
+            {
+              "point": "単純過去の並列",
+              "explanation": {
+                "ja": "levâmes、récitâmes、chantâmes が物語中の連続した行動を示します。",
+                "en": "The passé simple verbs narrate successive actions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文で名指された《明月》《窈窕》の詩句を、意味の分かる表現にしています。",
+              "en": "The named 《明月》 and 《窈窕》 passages are presented through their meanings."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -805,23 +1617,63 @@
           "ttsText": "Wir hoben die Becher, um die Gäste zum Trinken einzuladen, trugen das Gedicht vom hellen Mond vor und sangen die Strophe von der anmutigen Schönheit.",
           "vocabulary": [
             {
-              "term": "vortragen",
+              "term": "hoben die Becher",
               "meaning": {
-                "ja": "詩などを朗読する。",
-                "en": "To recite or perform a text."
+                "ja": "杯を上げた。",
+                "en": "Raised the cups."
+              }
+            },
+            {
+              "term": "Gäste zum Trinken einzuladen",
+              "meaning": {
+                "ja": "客を飲酒へ誘うこと。",
+                "en": "To invite the guests to drink."
+              }
+            },
+            {
+              "term": "trugen ... vor",
+              "meaning": {
+                "ja": "詩を朗読した。",
+                "en": "Recited aloud."
+              }
+            },
+            {
+              "term": "hellen Mond",
+              "meaning": {
+                "ja": "明るい月。",
+                "en": "Bright moon."
+              }
+            },
+            {
+              "term": "anmutigen Schönheit",
+              "meaning": {
+                "ja": "優美な美しさ。",
+                "en": "Graceful beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "um … einzuladen",
+              "point": "um ... zu + 不定詞",
               "explanation": {
-                "ja": "um＋zu不定詞が目的を表す。分離動詞 einladen は einzuladen となる。",
-                "en": "Um plus a zu-infinitive expresses purpose; separable einladen becomes einzuladen."
+                "ja": "um die Gäste ... einzuladen が杯を上げる目的を表します。",
+                "en": "Um ... zu gives the purpose of raising the cups."
+              }
+            },
+            {
+              "point": "vortragen の分離",
+              "explanation": {
+                "ja": "trugen ... vor で、詩を声に出して述べる意味です。",
+                "en": "Separable vortragen appears as trugen ... vor and means recited."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "酒を勧め、月の詩を朗じ、美を歌う舟上の宴を描きます。",
+              "en": "The line depicts the boat party offering wine, reciting moon poetry, and singing of beauty."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -838,23 +1690,63 @@
           "ttsText": "Мы подняли чаши, приглашая гостей выпить, прочли стихи о светлой луне и пропели строфу о нежной красоте.",
           "vocabulary": [
             {
-              "term": "строфа",
+              "term": "подняли чаши",
               "meaning": {
-                "ja": "詩の節。",
-                "en": "A stanza."
+                "ja": "杯を上げた。",
+                "en": "Raised the cups."
+              }
+            },
+            {
+              "term": "приглашая гостей выпить",
+              "meaning": {
+                "ja": "客に飲むよう勧めながら。",
+                "en": "Inviting the guests to drink."
+              }
+            },
+            {
+              "term": "прочли стихи",
+              "meaning": {
+                "ja": "詩を読み上げた。",
+                "en": "Read or recited verses."
+              }
+            },
+            {
+              "term": "светлой луне",
+              "meaning": {
+                "ja": "明るい月について。",
+                "en": "About the bright moon."
+              }
+            },
+            {
+              "term": "строфу о нежной красоте",
+              "meaning": {
+                "ja": "繊細な美を歌う節。",
+                "en": "A stanza about delicate beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "приглашая гостей выпить",
+              "point": "副動詞 приглашая",
               "explanation": {
-                "ja": "副動詞 приглашая は主節と同じ主語の同時の動作を表す。выпить は勧めた行為。",
-                "en": "The adverbial participle приглашая describes a simultaneous action by the same subject; выпить is the invited action."
+                "ja": "杯を上げながら客を飲酒に誘う同時の行動を表します。",
+                "en": "The adverbial participle shows the invitation accompanying the raised cups."
+              }
+            },
+            {
+              "point": "подняли / прочли / пропели",
+              "explanation": {
+                "ja": "完了体の過去形を並べ、宴で行った行動を一つずつ描きます。",
+                "en": "Perfective past verbs present the completed actions in sequence."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の《明月》と《窈窕》の詩句を、月と美の内容として訳しています。",
+              "en": "The named poetic passages are rendered as verses about moonlight and beauty."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -871,23 +1763,63 @@
           "ttsText": "رفعنا الكؤوس ندعو الضيوف إلى الشراب، وأنشدنا قصيدة القمر المضيء، وغنينا مقطع الجمال الرقيق.",
           "vocabulary": [
             {
-              "term": "أنشدنا",
+              "term": "رفعنا الكؤوس",
               "meaning": {
-                "ja": "私たちは詩を朗誦した。",
-                "en": "We recited poetry."
+                "ja": "私たちは杯を上げた。",
+                "en": "We raised the cups."
+              }
+            },
+            {
+              "term": "ندعو الضيوف إلى الشراب",
+              "meaning": {
+                "ja": "客を飲酒へ誘う。",
+                "en": "Invite the guests to drink."
+              }
+            },
+            {
+              "term": "أنشدنا قصيدة",
+              "meaning": {
+                "ja": "私たちは詩を朗じた。",
+                "en": "We recited a poem."
+              }
+            },
+            {
+              "term": "القمر المضيء",
+              "meaning": {
+                "ja": "明るい月。",
+                "en": "The bright moon."
+              }
+            },
+            {
+              "term": "مقطع الجمال الرقيق",
+              "meaning": {
+                "ja": "繊細な美の章句。",
+                "en": "A passage of delicate beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "قصيدة القمر المضيء",
+              "point": "رفعنا ... ندعو ...",
               "explanation": {
-                "ja": "قصيدة と القمر の属格構文で「月の詩」。المضيء は القمر を修飾する。",
-                "en": "The construct phrase means poem of the moon; al-muḍīʾ modifies the moon."
+                "ja": "完了形で杯を上げた行為を述べ、未完了形で客を誘う同時の様子を示します。",
+                "en": "The perfect verb states the cup raising; the imperfect describes the accompanying invitation."
+              }
+            },
+            {
+              "point": "أنشدنا ... وغنينا ...",
+              "explanation": {
+                "ja": "二つの一人称複数の動詞で、詩を朗じ歌った行動を並べます。",
+                "en": "The paired first-person plural verbs list reciting and singing."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "中国語原文の《明月》と《窈窕》を、それぞれ月と美の詩句として表します。",
+              "en": "The two named passages are expressed as poetry about the moon and delicate beauty."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Rafaʿnā al-kuʾūsa nadʿū aḍ-ḍuyūfa ʾilā ash-sharābi, wa-ʾanshadnā qaṣīdata al-qamari al-muḍīʾi, wa-ghannaynā maqṭaʿa al-jamāli ar-raqīqi."
@@ -908,30 +1840,54 @@
           "ttsText": "举酒嘱客，诵《明月》之诗，歌《窈窕》之章。",
           "vocabulary": [
             {
-              "term": "属",
+              "term": "举酒",
               "meaning": {
-                "ja": "ここでは酒を勧める意味で zhǔ と読む。",
-                "en": "Here pronounced zhǔ: to offer or urge a drink."
+                "ja": "酒杯を掲げる。",
+                "en": "Raise wine cups."
+              }
+            },
+            {
+              "term": "属客",
+              "meaning": {
+                "ja": "客に酒を勧める。ここで 属 は勧める意味。",
+                "en": "Offer a drink to guests; 属 means urge or invite here."
+              }
+            },
+            {
+              "term": "诵《明月》之诗",
+              "meaning": {
+                "ja": "《明月》の詩を朗じる。",
+                "en": "Recite the poem named 《明月》."
+              }
+            },
+            {
+              "term": "歌《窈窕》之章",
+              "meaning": {
+                "ja": "《窈窕》の章を歌う。",
+                "en": "Sing the verse named 《窈窕》."
               }
             }
           ],
           "grammar": [
             {
-              "point": "诵……，歌……",
+              "point": "動詞句の並列",
               "explanation": {
-                "ja": "诵 と 歌 が対になり、詩を吟じることと章を歌うことを並べる。之 は修飾関係を作る。",
-                "en": "诵 and 歌 form parallel clauses for reciting and singing; 之 links the modifiers to 诗 and 章."
+                "ja": "举酒属客、诵詩、歌章 の三つの行動を続けて述べます。",
+                "en": "Three compact verb phrases list offering wine, reciting, and singing."
+              }
+            },
+            {
+              "point": "A 之 B",
+              "explanation": {
+                "ja": "《明月》之诗／《窈窕》之章 の 之 は名と詩・章を結びます。",
+                "en": "之 links each named piece to 诗 or 章."
               }
             }
           ],
           "notes": [
             {
-              "ja": "属は shǔ ではなく zhǔ。《明月》《窈窕》は本文の引用表記のまま掲載しています。",
-              "en": "属 is zhǔ here, not shǔ. The quoted labels 明月 and 窈窕 follow this source’s wording."
-            },
-            {
-              "ja": "属客の読みを音声に指定するため、音声入力では同音の「嘱客」を使っています。",
-              "en": "The speech input uses the homophone 嘱客 to indicate the reading zhǔ kè."
+              "ja": "《明月》と《窈窕》は原文で示された詩歌の名です。宴の動作が音と声を伴う場面へ広がります。",
+              "en": "《明月》 and 《窈窕》 are named poetic passages; the quiet outing becomes a voiced gathering."
             }
           ],
           "pronunciation": {
@@ -954,23 +1910,63 @@
           "ttsText": "술잔을 들어 손님들에게 술을 권하고, 밝은 달의 시를 읊고, 아리따운 모습의 장을 노래했다.",
           "vocabulary": [
             {
-              "term": "읊다",
+              "term": "술잔을 들어",
               "meaning": {
-                "ja": "詩を吟じる。",
-                "en": "To recite poetry."
+                "ja": "杯を上げて。",
+                "en": "Raising a wine cup."
+              }
+            },
+            {
+              "term": "손님들에게 술을 권하고",
+              "meaning": {
+                "ja": "客に酒を勧めて。",
+                "en": "Offering wine to the guests."
+              }
+            },
+            {
+              "term": "밝은 달의 시",
+              "meaning": {
+                "ja": "明月の詩。",
+                "en": "A poem of the bright moon."
+              }
+            },
+            {
+              "term": "읊고",
+              "meaning": {
+                "ja": "声に出して詩を朗じて。",
+                "en": "Reciting aloud."
+              }
+            },
+            {
+              "term": "아리따운 모습의 장",
+              "meaning": {
+                "ja": "優美な姿を歌う章。",
+                "en": "A verse of graceful form."
               }
             }
           ],
           "grammar": [
             {
-              "point": "술을 권하고",
+              "point": "-고 の反復",
               "explanation": {
-                "ja": "-고 で動作を順に結び、最後の 노래했다 に過去時制を置く。",
-                "en": "-고 links the actions, with the final verb 노래했다 carrying the past tense."
+                "ja": "권하고、읊고 をつないで、杯・詩・歌の行動を順に描きます。",
+                "en": "Repeated -고 links the actions of offering, reciting, and singing."
+              }
+            },
+            {
+              "point": "-에게 + 目的語",
+              "explanation": {
+                "ja": "손님들에게 が勧める相手、술을 が勧めるものです。",
+                "en": "-에게 marks the guests as recipients; 술을 names what is offered."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "舟上の宴で酒を勧め、詩を朗じ、章句を歌う場面です。",
+              "en": "The party offers wine, recites a poem, and sings a verse aboard the boat."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -992,23 +1988,56 @@
           "ttsText": "しばらくすると、つきがひがしのやまのうえにあらわれ、としゅくとぎゅうしゅくのあいだをゆったりとめぐった。",
           "vocabulary": [
             {
-              "term": "斗宿・牛宿",
+              "term": "しばらくすると",
               "meaning": {
-                "ja": "中国の伝統的な星の区分、二十八宿のうちの二つ。",
-                "en": "Two of the twenty-eight traditional Chinese lunar mansions."
+                "ja": "少し時間が過ぎた後に。",
+                "en": "After a short while."
+              }
+            },
+            {
+              "term": "東の山の上",
+              "meaning": {
+                "ja": "月が昇る方角と場所。",
+                "en": "Above the eastern hills where the moon rises."
+              }
+            },
+            {
+              "term": "斗宿と牛宿",
+              "meaning": {
+                "ja": "古代中国で月の通り道を分けた二つの星宿。",
+                "en": "Two traditional lunar mansions along the moon’s path."
+              }
+            },
+            {
+              "term": "ゆったりと巡った",
+              "meaning": {
+                "ja": "急がず、そこに留まるように動いた。",
+                "en": "Moved or lingered unhurriedly."
               }
             }
           ],
           "grammar": [
             {
-              "point": "しばらくすると",
+              "point": "月が ... 現れ、... 巡った",
               "explanation": {
-                "ja": "一定の時間が経過した後に新しい出来事が生じることを示す。",
-                "en": "Introduces an event occurring after a short interval."
+                "ja": "同じ月を主語として、昇る動きと星宿の間を進む動きを続けます。",
+                "en": "The moon is subject of both rising and moving between the mansions."
+              }
+            },
+            {
+              "point": "AとBの間",
+              "explanation": {
+                "ja": "斗宿と牛宿を両端とする空の領域を示します。",
+                "en": "The phrase locates the moon in the region between the Dipper and Ox mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "舟上から見た月の動きを、東の山と伝統的な星宿の位置で描きます。",
+              "en": "The view from the boat locates the moon above the eastern hills and between traditional star divisions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1025,23 +2054,63 @@
           "ttsText": "After a while, the moon rose above the eastern hills and lingered between the lunar mansions of the Dipper and the Ox.",
           "vocabulary": [
             {
+              "term": "After a while",
+              "meaning": {
+                "ja": "しばらくして。",
+                "en": "After a short interval."
+              }
+            },
+            {
+              "term": "rose above",
+              "meaning": {
+                "ja": "上に昇った。",
+                "en": "Ascended above."
+              }
+            },
+            {
+              "term": "eastern hills",
+              "meaning": {
+                "ja": "東の山々。",
+                "en": "Hills to the east."
+              }
+            },
+            {
               "term": "lunar mansions",
               "meaning": {
-                "ja": "伝統的な天文学における天の区画。ここでは斗宿と牛宿。",
-                "en": "Traditional divisions of the sky, here the Dipper and Ox mansions."
+                "ja": "伝統的な月の通り道の星宿。",
+                "en": "Traditional divisions of the moon’s path."
+              }
+            },
+            {
+              "term": "Dipper and the Ox",
+              "meaning": {
+                "ja": "斗宿と牛宿の名。",
+                "en": "Names of the Dipper and Ox mansions."
               }
             }
           ],
           "grammar": [
             {
-              "point": "rose … and lingered",
+              "point": "rose ... and lingered",
               "explanation": {
-                "ja": "同じ主語 the moon に二つの動詞が続く。lingered はゆっくり留まるような動き。",
-                "en": "Both verbs share the subject the moon; lingered suggests slow movement or seeming to remain."
+                "ja": "二つの過去形で月の出と、その後のゆるやかな動きをつなぎます。",
+                "en": "The paired past verbs describe rising and then lingering."
+              }
+            },
+            {
+              "point": "between A and B",
+              "explanation": {
+                "ja": "月の位置を二つの星宿の間に示します。",
+                "en": "Between locates the moon relative to the two mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "Dipper と Ox は動物や道具そのものではなく、伝統的な星宿の名です。",
+              "en": "Dipper and Ox are names of traditional star mansions, not objects in the scene."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1058,23 +2127,63 @@
           "ttsText": "Al poco rato, la luna apareció sobre los montes del este y vagó entre las mansiones lunares del Cazo y del Buey.",
           "vocabulary": [
             {
-              "term": "al poco rato",
+              "term": "Al poco rato",
               "meaning": {
-                "ja": "しばらくして。",
+                "ja": "少し経って。",
                 "en": "After a short while."
+              }
+            },
+            {
+              "term": "apareció",
+              "meaning": {
+                "ja": "姿を現した。",
+                "en": "Appeared."
+              }
+            },
+            {
+              "term": "montes del este",
+              "meaning": {
+                "ja": "東の山々。",
+                "en": "Eastern hills."
+              }
+            },
+            {
+              "term": "mansiones lunares",
+              "meaning": {
+                "ja": "伝統的な月の星宿。",
+                "en": "Traditional lunar mansions."
+              }
+            },
+            {
+              "term": "Cazo y del Buey",
+              "meaning": {
+                "ja": "斗宿と牛宿の名。",
+                "en": "The Dipper and Ox mansions."
               }
             }
           ],
           "grammar": [
             {
-              "point": "entre … y …",
+              "point": "apareció ... y vagó",
               "explanation": {
-                "ja": "二つの目印の間の位置を示す。ここでの名前は中国の星宿を指す。",
-                "en": "Marks a location between two reference points, here Chinese lunar mansions."
+                "ja": "二つの過去形で月の出と、その後のゆるやかな動きを描きます。",
+                "en": "The paired past verbs depict the moon appearing and moving slowly."
+              }
+            },
+            {
+              "point": "entre A y B",
+              "explanation": {
+                "ja": "二つの星宿を月の位置の目印にします。",
+                "en": "Entre marks the space between the two named mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "Cazo と Buey は伝統的な星宿の名で、舟上から見た月の位置を示します。",
+              "en": "Cazo and Buey name traditional sky divisions used to locate the moon."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1091,23 +2200,63 @@
           "ttsText": "Peu après, la lune se leva au-dessus des montagnes de l’est et s’attarda entre les demeures lunaires du Boisseau et du Bœuf.",
           "vocabulary": [
             {
-              "term": "s’attarder",
+              "term": "Peu après",
               "meaning": {
-                "ja": "長めに留まる。月のゆったりした動きの擬人化。",
-                "en": "To linger; here a personification of the moon’s slow movement."
+                "ja": "少し経って。",
+                "en": "Shortly afterward."
+              }
+            },
+            {
+              "term": "se leva",
+              "meaning": {
+                "ja": "昇った。月が主語の過去形。",
+                "en": "Rose; past tense with the moon as subject."
+              }
+            },
+            {
+              "term": "montagnes de l’est",
+              "meaning": {
+                "ja": "東の山々。",
+                "en": "Eastern mountains."
+              }
+            },
+            {
+              "term": "demeures lunaires",
+              "meaning": {
+                "ja": "伝統的な月の星宿。",
+                "en": "Traditional lunar mansions."
+              }
+            },
+            {
+              "term": "Boisseau et du Bœuf",
+              "meaning": {
+                "ja": "斗宿と牛宿の名。",
+                "en": "The Dipper and Ox mansions."
               }
             }
           ],
           "grammar": [
             {
-              "point": "au-dessus de",
+              "point": "se leva ... et s’attarda",
               "explanation": {
-                "ja": "あるものより上の位置を示す。des は de と les の縮約。",
-                "en": "Expresses a position above something; des contracts de and les."
+                "ja": "二つの単純過去が、月の出とその後の滞留を順に描きます。",
+                "en": "Two passé simple verbs narrate rising and lingering."
+              }
+            },
+            {
+              "point": "entre A et B",
+              "explanation": {
+                "ja": "月が二つの星宿の間に見える位置を示します。",
+                "en": "Entre locates the moon between the two mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "Boisseau と Bœuf は空の伝統的な区分の名です。",
+              "en": "Boisseau and Bœuf name traditional divisions of the sky."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1124,23 +2273,63 @@
           "ttsText": "Nach einer Weile stieg der Mond über den östlichen Bergen auf und verweilte zwischen den Mondhäusern des Schöpfers und des Ochsen.",
           "vocabulary": [
             {
-              "term": "Mondhäuser",
+              "term": "Nach einer Weile",
               "meaning": {
-                "ja": "中国の伝統的な星宿。Schöpfer はここでは柄杓を指す。",
-                "en": "Traditional Chinese lunar mansions; Schöpfer here means a dipper or ladle."
+                "ja": "しばらくして。",
+                "en": "After a while."
+              }
+            },
+            {
+              "term": "stieg ... auf",
+              "meaning": {
+                "ja": "昇った。aufsteigen の分離形。",
+                "en": "Rose; a separated form of aufsteigen."
+              }
+            },
+            {
+              "term": "östlichen Bergen",
+              "meaning": {
+                "ja": "東の山々。",
+                "en": "Eastern mountains."
+              }
+            },
+            {
+              "term": "Mondhäusern",
+              "meaning": {
+                "ja": "伝統的な月の星宿。",
+                "en": "Lunar mansions."
+              }
+            },
+            {
+              "term": "Schöpfers und des Ochsen",
+              "meaning": {
+                "ja": "斗宿と牛宿の名。",
+                "en": "The Dipper and Ox mansions."
               }
             }
           ],
           "grammar": [
             {
-              "point": "stieg … auf",
+              "point": "stieg ... auf",
               "explanation": {
-                "ja": "aufsteigen の過去形で、分離前綴り auf が節の後ろに来る。",
-                "en": "The past tense of separable aufsteigen places auf at the end of its clause."
+                "ja": "分離動詞 aufsteigen が、月が山の上へ昇ることを表します。",
+                "en": "Separable aufsteigen describes the moon rising above the hills."
+              }
+            },
+            {
+              "point": "zwischen + 与格",
+              "explanation": {
+                "ja": "zwischen den Mondhäusern で、二つの星宿の間という静的な位置を示します。",
+                "en": "Zwischen with dative den Mondhäusern gives the moon’s position between the mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "星宿の名称を使って月の位置を表します。Schöpfer と Ochse はこの文での星宿名です。",
+              "en": "The names Schöpfer and Ochse locate the moon as traditional sky divisions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1157,23 +2346,63 @@
           "ttsText": "Немного погодя луна поднялась над восточными горами и замедлила свой путь между лунными стоянками Ковша и Быка.",
           "vocabulary": [
             {
-              "term": "лунные стоянки",
+              "term": "Немного погодя",
               "meaning": {
-                "ja": "中国の伝統天文学の星宿。",
-                "en": "Lunar mansions in traditional Chinese astronomy."
+                "ja": "少し経って。",
+                "en": "After a little while."
+              }
+            },
+            {
+              "term": "поднялась",
+              "meaning": {
+                "ja": "昇った。月を主語とする形。",
+                "en": "Rose, with the moon as subject."
+              }
+            },
+            {
+              "term": "восточными горами",
+              "meaning": {
+                "ja": "東の山々。",
+                "en": "Eastern mountains."
+              }
+            },
+            {
+              "term": "лунными стоянками",
+              "meaning": {
+                "ja": "伝統的な月の星宿。",
+                "en": "Traditional lunar mansions."
+              }
+            },
+            {
+              "term": "Ковша и Быка",
+              "meaning": {
+                "ja": "斗宿と牛宿の名。",
+                "en": "The Dipper and Ox mansions."
               }
             }
           ],
           "grammar": [
             {
-              "point": "между … стоянками",
+              "point": "поднялась ... и замедлила",
               "explanation": {
-                "ja": "между はここで造格を取り、二つの星宿の間を表す。",
-                "en": "Между takes the instrumental here to describe a position between the two mansions."
+                "ja": "二つの過去形で、月の出と動きが緩む様子を示します。",
+                "en": "The paired past verbs describe rising and then slowing."
+              }
+            },
+            {
+              "point": "между + 造格",
+              "explanation": {
+                "ja": "между лунными стоянками が二つの星宿の間にある位置を示します。",
+                "en": "Между with instrumental locates the moon between the mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "Ковш と Бык は月の位置を示す伝統的な星宿の名です。",
+              "en": "Ковш and Бык are traditional mansion names used to locate the moon."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1190,23 +2419,63 @@
           "ttsText": "وبعد قليل، طلع القمر فوق الجبال الشرقية، وتهادى بين منزلتي المغرفة والثور.",
           "vocabulary": [
             {
+              "term": "وبعد قليل",
+              "meaning": {
+                "ja": "そして少し経って。",
+                "en": "And after a short while."
+              }
+            },
+            {
+              "term": "طلع القمر",
+              "meaning": {
+                "ja": "月が昇った。",
+                "en": "The moon rose."
+              }
+            },
+            {
+              "term": "الجبال الشرقية",
+              "meaning": {
+                "ja": "東の山々。",
+                "en": "The eastern mountains."
+              }
+            },
+            {
               "term": "تهادى",
               "meaning": {
-                "ja": "ゆっくり優雅に進んだ。",
-                "en": "Moved slowly and gracefully."
+                "ja": "ゆったりと進んだ。",
+                "en": "Moved gently or slowly."
+              }
+            },
+            {
+              "term": "منزلتي المغرفة والثور",
+              "meaning": {
+                "ja": "斗宿と牛宿の二つの星宿。",
+                "en": "The two lunar mansions of the Dipper and Ox."
               }
             }
           ],
           "grammar": [
             {
-              "point": "بين منزلتي",
+              "point": "طلع + 主語",
               "explanation": {
-                "ja": "منزلتي は双数の属格形で、後続の名詞と属格構文を作るため ن が落ちる。",
-                "en": "Manzilatayi is the dual genitive in a construct phrase; its final n is dropped before the following nouns."
+                "ja": "動詞を先に置いて、月が姿を現す動きを述べます。",
+                "en": "Verb-first طلع introduces the rising moon."
+              }
+            },
+            {
+              "point": "بين + 双数属格",
+              "explanation": {
+                "ja": "بين منزلتي ... で、二つの星宿の間を月が進むことを表します。",
+                "en": "بين plus dual منزلتي places the moon between two mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "المغرفة と الثور は道具や動物そのものではなく、星宿の名です。",
+              "en": "The Dipper and Ox here are names of sky divisions, not objects in the scene."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-baʿda qalīlin, ṭalaʿa al-qamaru fawqa al-jibāli ash-sharqiyyati, wa-tahādā bayna manzilatayi al-mighrafati wa-ath-thawri."
@@ -1229,24 +2498,52 @@
             {
               "term": "少焉",
               "meaning": {
-                "ja": "しばらくして。少は shǎo。",
-                "en": "After a short while; 少 is shǎo here."
+                "ja": "少し経って。",
+                "en": "After a little while."
+              }
+            },
+            {
+              "term": "月出于东山之上",
+              "meaning": {
+                "ja": "月が東の山の上に昇る。",
+                "en": "The moon rose above the eastern hills."
+              }
+            },
+            {
+              "term": "徘徊",
+              "meaning": {
+                "ja": "ゆっくり行き来し、留まるように動く。",
+                "en": "Wander or linger slowly."
+              }
+            },
+            {
+              "term": "斗、牛",
+              "meaning": {
+                "ja": "伝統的な二つの星宿、斗宿と牛宿。",
+                "en": "The Dipper and Ox lunar mansions."
               }
             }
           ],
           "grammar": [
             {
-              "point": "徘徊于斗、牛之间",
+              "point": "出于 / 徘徊于",
               "explanation": {
-                "ja": "斗・牛は二十八宿の斗宿・牛宿。月がその間をゆっくり移る様子を徘徊と表す。",
-                "en": "斗 and 牛 are the Dipper and Ox lunar mansions. 徘徊 depicts the moon lingering between them."
+                "ja": "于 が月の出る場所と、動いて見える場所をそれぞれ示します。",
+                "en": "于 introduces the place of the moon’s rising and the region where it lingers."
+              }
+            },
+            {
+              "point": "A、B之间",
+              "explanation": {
+                "ja": "斗、牛之间 で二つの星宿の間に月を位置づけます。",
+                "en": "斗、牛之间 locates the moon between two named mansions."
               }
             }
           ],
           "notes": [
             {
-              "ja": "斗は dǒu。この斗宿は北斗七星を指しているわけではありません。",
-              "en": "斗 is dǒu. This lunar mansion is not the Big Dipper."
+              "ja": "古典中国語の 斗・牛 は伝統的な星宿名で、月の位置を示します。",
+              "en": "斗 and 牛 are traditional mansion names locating the moon in the sky."
             }
           ],
           "pronunciation": {
@@ -1269,23 +2566,63 @@
           "ttsText": "얼마 뒤 달이 동쪽 산 위로 떠올라 두수와 우수 사이를 천천히 거닐었다.",
           "vocabulary": [
             {
+              "term": "얼마 뒤",
+              "meaning": {
+                "ja": "しばらくして。",
+                "en": "After a while."
+              }
+            },
+            {
+              "term": "달이 ... 떠올라",
+              "meaning": {
+                "ja": "月が昇って。",
+                "en": "The moon rose."
+              }
+            },
+            {
+              "term": "동쪽 산 위",
+              "meaning": {
+                "ja": "東の山の上。",
+                "en": "Above the eastern hills."
+              }
+            },
+            {
               "term": "두수와 우수",
               "meaning": {
-                "ja": "二十八宿に属する斗宿と牛宿。",
-                "en": "The Dipper and Ox, two traditional lunar mansions."
+                "ja": "斗宿と牛宿という二つの星宿。",
+                "en": "The Dipper and Ox lunar mansions."
+              }
+            },
+            {
+              "term": "천천히 거닐었다",
+              "meaning": {
+                "ja": "ゆっくり歩くように進んだ。",
+                "en": "Wandered slowly."
               }
             }
           ],
           "grammar": [
             {
-              "point": "떠올라",
+              "point": "-아/어 + 後続節",
               "explanation": {
-                "ja": "떠오르다 の 르 変則活用。-아 が次の動作につなぐ。",
-                "en": "This is the 르-irregular connective form of 떠오르다, linking rising to the next action."
+                "ja": "떠올라 が月の出を後半の動きにつなぎます。",
+                "en": "떠올라 links rising to the moon’s later movement."
+              }
+            },
+            {
+              "point": "A와 B 사이",
+              "explanation": {
+                "ja": "두수와 우수 사이 が、二つの星宿を月の位置の目印にします。",
+                "en": "A와 B 사이 places the moon between the two mansions."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "두수 と 우수 は空の伝統的な星宿の名です。",
+              "en": "두수 and 우수 are traditional sky division names."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1307,23 +2644,56 @@
           "ttsText": "しろいもやがかわをよこたわるようにおおい、みずのひかりがそらへとつながっていた。",
           "vocabulary": [
             {
-              "term": "靄",
+              "term": "白い靄",
               "meaning": {
-                "ja": "水辺などに薄く漂う霧。原文の白露をここでは靄と解した。",
-                "en": "A light mist; this renders 白露 as vapor over the river."
+                "ja": "川に広がる白い霧・もや。",
+                "en": "White mist spreading across the river."
+              }
+            },
+            {
+              "term": "川を横たわるように覆い",
+              "meaning": {
+                "ja": "川の幅いっぱいに広がって。",
+                "en": "Lay across the breadth of the river."
+              }
+            },
+            {
+              "term": "水の光",
+              "meaning": {
+                "ja": "水面に映る光。",
+                "en": "Light reflected on the water."
+              }
+            },
+            {
+              "term": "空へとつながっていた",
+              "meaning": {
+                "ja": "水面の光が空まで続くように見えた。",
+                "en": "Appeared to extend into the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "つながっていた",
+              "point": "Aが覆い、Bがつながる",
               "explanation": {
-                "ja": "〜ていた が、その時に続いていた状態を表す。",
-                "en": "-Te ita describes a state continuing at that time."
+                "ja": "靄と水の光をそれぞれ主語とする二つの描写を並べます。",
+                "en": "Two clauses give mist and reflected light their own actions."
+              }
+            },
+            {
+              "point": "-ように",
+              "explanation": {
+                "ja": "横たわるように は靄の広がり方を比喩で表します。",
+                "en": "-ように compares the mist’s spread to something lying across the river."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の「白露」はここでは川に広がる白い靄として読まれ、水と空の境目がぼやける光景を描きます。",
+              "en": "The original 白露 is rendered here as river mist, making the boundary between water and sky seem indistinct."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1340,23 +2710,63 @@
           "ttsText": "White mist lay across the river, and the light on the water met the sky.",
           "vocabulary": [
             {
+              "term": "White mist",
+              "meaning": {
+                "ja": "白い靄。",
+                "en": "Pale vapor over the water."
+              }
+            },
+            {
+              "term": "lay across",
+              "meaning": {
+                "ja": "横に広がって覆った。",
+                "en": "Stretched across."
+              }
+            },
+            {
+              "term": "the river",
+              "meaning": {
+                "ja": "舟が浮かぶ川。",
+                "en": "The river beneath the boat."
+              }
+            },
+            {
+              "term": "light on the water",
+              "meaning": {
+                "ja": "水面に見える光。",
+                "en": "Light reflected on the water."
+              }
+            },
+            {
               "term": "met the sky",
               "meaning": {
-                "ja": "空と接して見えた。",
+                "ja": "空に接するように続いた。",
                 "en": "Seemed to join the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "lay across",
+              "point": "mist lay ... and light met ...",
               "explanation": {
-                "ja": "lay は lie の過去形。across が川一面に広がる位置を示す。",
-                "en": "Lay is the past tense of lie; across describes the mist extending over the river."
+                "ja": "二つの節で、低い靄と遠くまで続く水の光を並べます。",
+                "en": "The paired clauses set the low mist against light stretching toward the sky."
+              }
+            },
+            {
+              "point": "met + 目的語",
+              "explanation": {
+                "ja": "met the sky は水面と空が遠景で一続きに見える比喩です。",
+                "en": "Met the sky figuratively joins the water’s light to the sky at the horizon."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の「白露横江，水光接天」を、靄と光の広がりとして訳しています。",
+              "en": "The translation renders 白露横江，水光接天 through spreading mist and light."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1373,23 +2783,63 @@
           "ttsText": "Una niebla blanca se tendía sobre el río, y el resplandor del agua se unía al cielo.",
           "vocabulary": [
             {
-              "term": "resplandor",
+              "term": "niebla blanca",
               "meaning": {
-                "ja": "輝き、光。",
-                "en": "A glow or radiance."
+                "ja": "白い靄・霧。",
+                "en": "White mist."
+              }
+            },
+            {
+              "term": "se tendía",
+              "meaning": {
+                "ja": "横に広がっていた。",
+                "en": "Stretched out."
+              }
+            },
+            {
+              "term": "sobre el río",
+              "meaning": {
+                "ja": "川の上に。",
+                "en": "Over the river."
+              }
+            },
+            {
+              "term": "resplandor del agua",
+              "meaning": {
+                "ja": "水面の輝き。",
+                "en": "The water’s glow."
+              }
+            },
+            {
+              "term": "se unía al cielo",
+              "meaning": {
+                "ja": "空と一つに見えた。",
+                "en": "Joined the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "se unía al cielo",
+              "point": "線過去の二節",
               "explanation": {
-                "ja": "unirse a は「〜と一つになる」。半過去で景色の持続を描く。",
-                "en": "Unirse a means to join; the imperfect presents the continuing scene."
+                "ja": "se tendía と se unía が続く情景を背景描写として示します。",
+                "en": "The two imperfect verbs paint an ongoing background scene."
+              }
+            },
+            {
+              "point": "再帰形 se tendía / se unía",
+              "explanation": {
+                "ja": "靄が広がり、光が空へ続く様子を主語自身の動きとして表します。",
+                "en": "The pronominal forms describe mist stretching and light joining the sky."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "川と空が靄と光の中でつながって見える遠景です。",
+              "en": "Mist and reflected light make river and sky appear continuous."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1406,23 +2856,63 @@
           "ttsText": "Une brume blanche s’étendait sur le fleuve, et l’éclat de l’eau rejoignait le ciel.",
           "vocabulary": [
             {
-              "term": "brume",
+              "term": "brume blanche",
               "meaning": {
-                "ja": "薄い霧、靄。",
-                "en": "Mist or haze."
+                "ja": "白い靄。",
+                "en": "White mist."
+              }
+            },
+            {
+              "term": "s’étendait",
+              "meaning": {
+                "ja": "広がっていた。",
+                "en": "Spread out."
+              }
+            },
+            {
+              "term": "sur le fleuve",
+              "meaning": {
+                "ja": "大きな川の上に。",
+                "en": "Across the river."
+              }
+            },
+            {
+              "term": "l’éclat de l’eau",
+              "meaning": {
+                "ja": "水面の輝き。",
+                "en": "The water’s brightness."
+              }
+            },
+            {
+              "term": "rejoignait le ciel",
+              "meaning": {
+                "ja": "空につながるように見えた。",
+                "en": "Seemed to meet the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "s’étendait … rejoignait",
+              "point": "線過去の並列",
               "explanation": {
-                "ja": "半過去形で、動作の完了より広がり続ける風景を描く。",
-                "en": "The imperfect forms portray a sustained scene rather than completed events."
+                "ja": "s’étendait と rejoignait で広がる情景を継続的に描きます。",
+                "en": "The imperfect verbs present the expansive scene as ongoing."
+              }
+            },
+            {
+              "point": "rejoindre + 目的語",
+              "explanation": {
+                "ja": "rejoignait le ciel は水の光が空に届くように見える比喩です。",
+                "en": "Rejoignait le ciel figuratively joins the reflected light to the sky."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "靄と水の光が川と空の境目を曖昧にする情景です。",
+              "en": "Mist and reflected light blur the boundary between river and sky."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1439,23 +2929,56 @@
           "ttsText": "Weißer Dunst lag über dem Fluss, und der Glanz des Wassers ging in den Himmel über.",
           "vocabulary": [
             {
-              "term": "Dunst",
+              "term": "Weißer Dunst",
               "meaning": {
-                "ja": "靄、薄い霧。",
-                "en": "Haze or mist."
+                "ja": "白い靄。",
+                "en": "White mist or haze."
+              }
+            },
+            {
+              "term": "lag über dem Fluss",
+              "meaning": {
+                "ja": "川の上に横たわっていた。",
+                "en": "Lay over the river."
+              }
+            },
+            {
+              "term": "Glanz des Wassers",
+              "meaning": {
+                "ja": "水面の輝き。",
+                "en": "The water’s gleam."
+              }
+            },
+            {
+              "term": "ging in den Himmel über",
+              "meaning": {
+                "ja": "空へ溶け込むように続いた。",
+                "en": "Merged into the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "ging … über",
+              "point": "二つの主節 + und",
               "explanation": {
-                "ja": "übergehen in＋対格で「〜へと移り変わる、溶け込む」。",
-                "en": "Übergehen in plus the accusative means to merge or pass into something."
+                "ja": "靄が川を覆う描写と、水の光が空へ続く描写をつなぎます。",
+                "en": "Und joins the mist over the river and the light merging with the sky."
+              }
+            },
+            {
+              "point": "in + 対格 + übergehen",
+              "explanation": {
+                "ja": "ging in den Himmel über で、光が空へ移り変わるように見えることを示します。",
+                "en": "Übergehen in plus accusative depicts the light merging into the sky."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "舟から見ると水面と空の境が消えるように見えます。",
+              "en": "From the boat, the edge between water and sky seems to disappear."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1472,23 +2995,56 @@
           "ttsText": "Белая дымка стлалась над рекой, и сияние воды сливалось с небом.",
           "vocabulary": [
             {
-              "term": "дымка",
+              "term": "Белая дымка",
               "meaning": {
-                "ja": "薄くかかった靄。",
-                "en": "A light haze."
+                "ja": "白い靄。",
+                "en": "White haze."
+              }
+            },
+            {
+              "term": "стлалась над рекой",
+              "meaning": {
+                "ja": "川の上を覆うように広がった。",
+                "en": "Spread over the river."
+              }
+            },
+            {
+              "term": "сияние воды",
+              "meaning": {
+                "ja": "水面の光。",
+                "en": "The water’s radiance."
+              }
+            },
+            {
+              "term": "сливалось с небом",
+              "meaning": {
+                "ja": "空と溶け合うように見えた。",
+                "en": "Merged with the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "сливалось с небом",
+              "point": "不完了体の過去",
               "explanation": {
-                "ja": "сливаться с＋造格で「〜と溶け合う」。中性形は сияние に一致する。",
-                "en": "Сливаться с plus the instrumental means to merge with; the neuter verb agrees with сияние."
+                "ja": "стлалась と сливалось が、広がり続ける景色を描きます。",
+                "en": "The imperfective past verbs portray the extended scene."
+              }
+            },
+            {
+              "point": "сливаться с + 造格",
+              "explanation": {
+                "ja": "с небом が、光の溶け合う相手である空を示します。",
+                "en": "С plus instrumental небом identifies the sky with which the light merges."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "川上の靄と水の光が、空まで一続きに見える描写です。",
+              "en": "Mist over the river and its reflected light appear continuous with the sky."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1505,23 +3061,56 @@
           "ttsText": "امتد ضباب أبيض فوق النهر، واتصل بريق الماء بالسماء.",
           "vocabulary": [
             {
+              "term": "ضباب أبيض",
+              "meaning": {
+                "ja": "白い靄・霧。",
+                "en": "White mist."
+              }
+            },
+            {
+              "term": "امتد ... فوق النهر",
+              "meaning": {
+                "ja": "川の上へ広がった。",
+                "en": "Spread over the river."
+              }
+            },
+            {
               "term": "بريق الماء",
               "meaning": {
-                "ja": "水の輝き。",
-                "en": "The gleam of the water."
+                "ja": "水面の輝き。",
+                "en": "The water’s gleam."
+              }
+            },
+            {
+              "term": "بالسماء",
+              "meaning": {
+                "ja": "空と。",
+                "en": "With the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "اتصل … بالسماء",
+              "point": "امتد / اتصل",
               "explanation": {
-                "ja": "اتصل بـ は「〜とつながる」。بـ が接続先を導く。",
-                "en": "Ittaṣala bi- means to join or connect with; bi- introduces what is joined."
+                "ja": "二つの過去形で、靄の広がりと水の光の連なりを描きます。",
+                "en": "The two past verbs describe the mist spreading and the water’s light joining the sky."
+              }
+            },
+            {
+              "point": "اتصل بـ",
+              "explanation": {
+                "ja": "اتصل بريق الماء بالسماء で、水面の光が空につながるように見えることを表します。",
+                "en": "اتصل بـ presents the water’s gleam as connected to the sky."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "靄が川を覆い、水と空の境が見えにくくなる場面です。",
+              "en": "Mist covers the river while reflected light blurs its boundary with the sky."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Imtadda ḍabābun ʾabyaḍu fawqa an-nahri, wa-ittaṣala barīqu al-māʾi bi-as-samāʾi."
@@ -1544,21 +3133,54 @@
             {
               "term": "白露",
               "meaning": {
-                "ja": "字面は白い露。ここでは川を覆う白い水気・靄として訳した。",
-                "en": "Literally white dew, interpreted here as pale vapor or mist over the river."
+                "ja": "ここでは白い靄・水煙。",
+                "en": "White mist or vapor here."
+              }
+            },
+            {
+              "term": "横江",
+              "meaning": {
+                "ja": "川を横切るように広がる。",
+                "en": "Stretch across the river."
+              }
+            },
+            {
+              "term": "水光",
+              "meaning": {
+                "ja": "水面の輝き。",
+                "en": "Light on the water."
+              }
+            },
+            {
+              "term": "接天",
+              "meaning": {
+                "ja": "空へ続くように見える。",
+                "en": "Seem to meet the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "横江／接天",
+              "point": "白露 + 横江",
               "explanation": {
-                "ja": "横 と 接 がそれぞれ動詞になり、江 と 天 を目的語に取る対句。",
-                "en": "横 and 接 act as verbs with 江 and 天 as their objects, forming parallel clauses."
+                "ja": "名詞と動詞を短く組み合わせ、靄が川いっぱいに広がることを表します。",
+                "en": "The noun and verb compactly describe mist spanning the river."
+              }
+            },
+            {
+              "point": "水光 + 接天",
+              "explanation": {
+                "ja": "同じ構造で、水面の輝きが空まで届くように見えることを表します。",
+                "en": "The matching structure presents reflected light as joining the sky."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "古典中国語の対句です。白露 はこの場面では地面の露滴ではなく、川を覆う白い気として読むと後続の 横江 に合います。",
+              "en": "The parallel classical clauses use 白露 for mist rather than dew drops, matching its spread across the river."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Báilù héng jiāng, shuǐguāng jiē tiān."
@@ -1579,23 +3201,56 @@
           "ttsText": "흰 안개가 강을 가로덮고, 물빛은 하늘에 맞닿아 있었다.",
           "vocabulary": [
             {
+              "term": "흰 안개",
+              "meaning": {
+                "ja": "白い靄・霧。",
+                "en": "White mist."
+              }
+            },
+            {
+              "term": "강을 가로덮고",
+              "meaning": {
+                "ja": "川を横切るように覆って。",
+                "en": "Spreading across the river."
+              }
+            },
+            {
               "term": "물빛",
               "meaning": {
-                "ja": "水面の色や光。",
-                "en": "The color or light of the water."
+                "ja": "水面に見える光。",
+                "en": "Light on the water."
+              }
+            },
+            {
+              "term": "하늘에 맞닿아",
+              "meaning": {
+                "ja": "空に接するように。",
+                "en": "Seeming to touch the sky."
               }
             }
           ],
           "grammar": [
             {
-              "point": "맞닿아 있었다",
+              "point": "-고 + 後続節",
               "explanation": {
-                "ja": "맞닿다「接する」に -아 있었다 をつけ、接している状態を過去として描く。",
-                "en": "-아 있었다 presents the continuing past state of 맞닿다, to touch or meet."
+                "ja": "가로덮고 が靄の描写を後半の水面の光につなぎます。",
+                "en": "-고 links the mist’s spread to the water’s reflected light."
+              }
+            },
+            {
+              "point": "-아/어 있다",
+              "explanation": {
+                "ja": "맞닿아 있었다 は水の光が空へ続いて見える状態を表します。",
+                "en": "맞닿아 있었다 presents the apparent contact of water and sky as a state."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "靄と光が川面から空へ続くように見える舟上の風景です。",
+              "en": "Mist and light make the river seem to extend into the sky."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1617,23 +3272,56 @@
           "ttsText": "いちまいのあしのようなこぶねのゆくままにまかせ、はてしなくひろがるみなもをわたった。",
           "vocabulary": [
             {
-              "term": "一枚の葦",
+              "term": "一枚の葦のような小舟",
               "meaning": {
-                "ja": "原文の一苇は、葦のように小さな舟の比喩。",
-                "en": "The original one reed is a metaphor for a very small boat."
+                "ja": "葦の葉ほど小さく軽い舟の比喩。",
+                "en": "A tiny skiff likened to a reed."
+              }
+            },
+            {
+              "term": "行くままに任せ",
+              "meaning": {
+                "ja": "舟の進む方向を定めずに。",
+                "en": "Letting the boat go where it would."
+              }
+            },
+            {
+              "term": "果てしなく広がる水面",
+              "meaning": {
+                "ja": "端が見えないほど広い水。",
+                "en": "A boundless stretch of water."
+              }
+            },
+            {
+              "term": "渡った",
+              "meaning": {
+                "ja": "舟でその水面を進んだ。",
+                "en": "Crossed the water by boat."
               }
             }
           ],
           "grammar": [
             {
-              "point": "行くままに任せ",
+              "point": "-ような + 名詞",
               "explanation": {
-                "ja": "ままに は、舟の自然な進路に従って干渉しないこと。",
-                "en": "Mama ni suggests letting the boat follow its course without interference."
+                "ja": "葦のような が小舟を修飾し、その軽さ・小ささをたとえます。",
+                "en": "-ような modifies 小舟, comparing its slightness to a reed."
+              }
+            },
+            {
+              "point": "-ままに任せ、... 渡った",
+              "explanation": {
+                "ja": "舟の自然な進行に従うことと、広い水面を渡ることをつなぎます。",
+                "en": "The first clause yields control of the boat; the second describes crossing the open water."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の「一苇」は舟の小ささ、「万顷」は水面の広大さを対比します。",
+              "en": "The original 一苇 and 万顷 contrast the tiny boat with the enormous water."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1650,23 +3338,56 @@
           "ttsText": "We let our reed-like skiff drift where it would, crossing the vast and boundless expanse of water.",
           "vocabulary": [
             {
-              "term": "skiff",
+              "term": "reed-like skiff",
               "meaning": {
-                "ja": "小さな軽い舟。",
-                "en": "A small, light boat."
+                "ja": "葦のように小さく軽い舟。",
+                "en": "A small, light boat likened to a reed."
+              }
+            },
+            {
+              "term": "drift where it would",
+              "meaning": {
+                "ja": "向かう先を決めずに漂う。",
+                "en": "Float without a fixed destination."
+              }
+            },
+            {
+              "term": "crossing",
+              "meaning": {
+                "ja": "水面を進んで渡る。",
+                "en": "Moving across."
+              }
+            },
+            {
+              "term": "vast and boundless expanse",
+              "meaning": {
+                "ja": "果てしなく広い水面。",
+                "en": "An enormous, seemingly endless stretch."
               }
             }
           ],
           "grammar": [
             {
+              "point": "let + 目的語 + 動詞",
+              "explanation": {
+                "ja": "let our ... skiff drift で舟の動きを制御せず任せることを表します。",
+                "en": "Let plus object plus bare verb shows allowing the boat to drift."
+              }
+            },
+            {
               "point": "where it would",
               "explanation": {
-                "ja": "ここで would は舟の意志を擬人的に表す。どこへ向かうにせよ、そのまま任せる。",
-                "en": "Would personifies the boat’s inclination: wherever it chose to go."
+                "ja": "where が行き先を定めず、would が舟の自然な進み方を表します。",
+                "en": "Where it would leaves the boat’s destination open."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "小さな舟と果てない水の対比が、舟遊びの開放感を強めます。",
+              "en": "The contrast between tiny skiff and vast water heightens the sense of openness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1683,23 +3404,56 @@
           "ttsText": "Dejamos que nuestra barquita, leve como un junco, fuera adonde quisiera y atravesamos la inmensa extensión de agua.",
           "vocabulary": [
             {
-              "term": "junco",
+              "term": "barquita",
               "meaning": {
-                "ja": "葦に似た細い水辺の植物。舟の小ささの比喩。",
-                "en": "A reed-like waterside plant, evoking the boat’s smallness."
+                "ja": "小舟。barca の縮小形。",
+                "en": "Little boat; diminutive of barca."
+              }
+            },
+            {
+              "term": "leve como un junco",
+              "meaning": {
+                "ja": "葦のように軽い。",
+                "en": "Light as a reed."
+              }
+            },
+            {
+              "term": "adonde quisiera",
+              "meaning": {
+                "ja": "行きたい方へどこへでも。",
+                "en": "Wherever it wished."
+              }
+            },
+            {
+              "term": "inmensa extensión de agua",
+              "meaning": {
+                "ja": "果てしない水の広がり。",
+                "en": "Immense expanse of water."
               }
             }
           ],
           "grammar": [
             {
-              "point": "dejamos que … fuera",
+              "point": "Dejamos que + 接続法",
               "explanation": {
-                "ja": "dejar que の後に接続法過去 fuera を置き、舟が自由に行くのを任せる。",
-                "en": "Dejar que takes the imperfect subjunctive fuera here, expressing that the boat was allowed to go freely."
+                "ja": "dejamos que ... fuera で、舟が行くに任せたことを表します。",
+                "en": "Dejamos que plus subjunctive fuera means they let the boat go."
+              }
+            },
+            {
+              "point": "como + 名詞",
+              "explanation": {
+                "ja": "como un junco が舟の軽さを葦にたとえます。",
+                "en": "Como un junco compares the boat’s lightness to a reed."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "小さな舟が広い水面を自由に進むという原文の対比です。",
+              "en": "The translation contrasts the free, tiny boat with the vast water."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1716,23 +3470,56 @@
           "ttsText": "Nous laissâmes notre frêle esquif, pareil à un roseau, aller à sa guise, traversant l’immensité des eaux.",
           "vocabulary": [
             {
-              "term": "à sa guise",
+              "term": "frêle esquif",
               "meaning": {
-                "ja": "その望むままに。",
-                "en": "As it pleased."
+                "ja": "か細い小舟。",
+                "en": "A fragile little boat."
+              }
+            },
+            {
+              "term": "pareil à un roseau",
+              "meaning": {
+                "ja": "葦のような。",
+                "en": "Like a reed."
+              }
+            },
+            {
+              "term": "aller à sa guise",
+              "meaning": {
+                "ja": "思うままに進む。",
+                "en": "Go as it pleases."
+              }
+            },
+            {
+              "term": "immensité des eaux",
+              "meaning": {
+                "ja": "果てしない水の広がり。",
+                "en": "The immensity of the waters."
               }
             }
           ],
           "grammar": [
             {
-              "point": "laissâmes … aller",
+              "point": "laisser + 目的語 + 不定詞",
               "explanation": {
-                "ja": "laisser＋目的語＋不定詞で、舟が進むのを妨げずに任せたことを表す。",
-                "en": "Laisser plus an object and infinitive means to let the boat go without hindering it."
+                "ja": "laissâmes ... aller で舟を思うままに進ませます。",
+                "en": "Laisser plus object plus infinitive means allowing the boat to go."
+              }
+            },
+            {
+              "point": "participe présent traversant",
+              "explanation": {
+                "ja": "traversant は舟が進む様子を補い、広い水面を渡る動作を同時に示します。",
+                "en": "Present participle traversant adds the simultaneous crossing of the wide waters."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "葦のような小舟と果てしない水面を対比した訳です。",
+              "en": "The reed-like skiff is contrasted with limitless water."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1749,23 +3536,56 @@
           "ttsText": "Wir ließen unser schilfleichtes Boot treiben, wohin es wollte, und glitten über die unermessliche Wasserfläche.",
           "vocabulary": [
             {
-              "term": "treiben lassen",
+              "term": "schilfleichtes Boot",
               "meaning": {
-                "ja": "漂うままに任せる。",
-                "en": "To let something drift."
+                "ja": "葦のように軽い舟。",
+                "en": "A reed-light boat."
+              }
+            },
+            {
+              "term": "treiben",
+              "meaning": {
+                "ja": "流れに任せて漂う。",
+                "en": "Drift."
+              }
+            },
+            {
+              "term": "wohin es wollte",
+              "meaning": {
+                "ja": "舟が向かうままの方向へ。",
+                "en": "Wherever it wished to go."
+              }
+            },
+            {
+              "term": "unermessliche Wasserfläche",
+              "meaning": {
+                "ja": "計り知れない広さの水面。",
+                "en": "Immeasurable expanse of water."
               }
             }
           ],
           "grammar": [
             {
-              "point": "wohin es wollte",
+              "point": "ließen + 目的語 + 不定詞",
               "explanation": {
-                "ja": "方向を表す wohin に導かれた従属節で、定動詞 wollte が末尾に来る。",
-                "en": "Wohin introduces a direction clause, with the finite verb wollte at its end."
+                "ja": "ließen ... Boot treiben で舟を自由に漂わせることを表します。",
+                "en": "Ließen plus object plus infinitive shows letting the boat drift."
+              }
+            },
+            {
+              "point": "wohin + 従属節",
+              "explanation": {
+                "ja": "wohin es wollte が行き先を舟に任せたことを示します。",
+                "en": "Wohin es wollte leaves direction to the boat."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "小さく軽い舟が、広大な水面を滑るように進む景色です。",
+              "en": "A very light boat glides across immense water."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1782,23 +3602,63 @@
           "ttsText": "Мы пустили нашу лёгкую, как тростинка, лодку по её воле и скользили по необозримому водному простору.",
           "vocabulary": [
             {
-              "term": "тростинка",
+              "term": "лёгкую, как тростинка, лодку",
               "meaning": {
-                "ja": "細い一本の葦。小舟の比喩。",
-                "en": "A slender reed, used as a comparison for the boat."
+                "ja": "葦のように軽い舟。",
+                "en": "A boat as light as a reed."
+              }
+            },
+            {
+              "term": "по её воле",
+              "meaning": {
+                "ja": "舟の意のままに。",
+                "en": "According to its own will."
+              }
+            },
+            {
+              "term": "скользили",
+              "meaning": {
+                "ja": "滑るように進んだ。",
+                "en": "Glided."
+              }
+            },
+            {
+              "term": "по необозримому водному простору",
+              "meaning": {
+                "ja": "見渡せないほど広い水域を進んで。",
+                "en": "Across an immense expanse of water."
               }
             }
           ],
           "grammar": [
             {
-              "point": "как тростинка",
+              "point": "пустили + 目的語",
               "explanation": {
-                "ja": "как が比喩を導く。女性形 лёгкую は対格の лодку と一致する。",
-                "en": "Как introduces a comparison; feminine accusative лёгкую agrees with лодку."
+                "ja": "пустили ... лодку で舟を進むままに解き放ちます。",
+                "en": "Пустили plus boat expresses letting it proceed freely."
+              }
+            },
+            {
+              "point": "как + 名詞",
+              "explanation": {
+                "ja": "как тростинка が小舟を一本の葦にたとえます。",
+                "en": "Как тростинка compares the boat to a reed."
+              }
+            },
+            {
+              "point": "по + 与格",
+              "explanation": {
+                "ja": "по необозримому водному простору で、滑るように進む水上の広がりを示します。",
+                "en": "По plus dative describes the wide surface across which they glide."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "軽い舟と果てのない水を対比し、方向を定めず漂う様子を描きます。",
+              "en": "The small boat drifts freely against an immense stretch of water."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1815,23 +3675,56 @@
           "ttsText": "تركنا قاربنا الخفيف كقصبة يمضي حيث يشاء، نعبر صفحة الماء المترامية بلا حدود.",
           "vocabulary": [
             {
-              "term": "كقصبة",
+              "term": "قاربنا الخفيف كقصبة",
               "meaning": {
-                "ja": "一本の葦のように。小舟の比喩。",
-                "en": "Like a reed, describing the little boat."
+                "ja": "葦のように軽い私たちの舟。",
+                "en": "Our boat, light as a reed."
+              }
+            },
+            {
+              "term": "يمضي حيث يشاء",
+              "meaning": {
+                "ja": "思うままに進む。",
+                "en": "Go wherever it wishes."
+              }
+            },
+            {
+              "term": "صفحة الماء",
+              "meaning": {
+                "ja": "水面。",
+                "en": "The water’s surface."
+              }
+            },
+            {
+              "term": "المترامية بلا حدود",
+              "meaning": {
+                "ja": "果てなく広がる。",
+                "en": "Spreading without limits."
               }
             }
           ],
           "grammar": [
             {
-              "point": "حيث يشاء",
+              "point": "تركنا + 目的語 + 動詞",
               "explanation": {
-                "ja": "حيث は「〜する所へ」。يشاء が舟を擬人化して、その望む方向へ進ませる。",
-                "en": "Ḥaythu means where; yashāʾ personifies the boat as choosing its course."
+                "ja": "تركنا قاربنا ... يمضي で舟を自由に進ませます。",
+                "en": "تركنا plus object and verb describes allowing the boat to proceed."
+              }
+            },
+            {
+              "point": "كـ + 名詞",
+              "explanation": {
+                "ja": "كقصبة が舟の軽さを葦にたとえます。",
+                "en": "كـ before قصبة forms the simile as light as a reed."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "葦ほど軽い舟と果てない水面の対比を描きます。",
+              "en": "The reed-light boat is set against limitless water."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Taraknā qārabanā al-khafīfa ka-qaṣabatin yamḍī ḥaythu yashāʾu, naʿburu ṣafḥata al-māʾi al-mutarāmiyata bi-lā ḥudūdin."
@@ -1852,26 +3745,61 @@
           "ttsText": "纵一苇之所如，凌万顷之茫然。",
           "vocabulary": [
             {
+              "term": "纵",
+              "meaning": {
+                "ja": "自由に行かせる・任せる。",
+                "en": "Let loose or allow to go freely."
+              }
+            },
+            {
               "term": "一苇",
               "meaning": {
-                "ja": "一本の葦。ここでは葦のような小舟を指す比喩。",
-                "en": "One reed: a metaphor for a small boat."
+                "ja": "一本の葦になぞらえた小舟。",
+                "en": "A tiny boat compared to a single reed."
+              }
+            },
+            {
+              "term": "之所如",
+              "meaning": {
+                "ja": "それが向かうところ。之 は舟を指す。",
+                "en": "Where it goes; 之 refers to the skiff."
+              }
+            },
+            {
+              "term": "凌",
+              "meaning": {
+                "ja": "水面を越えて進む。",
+                "en": "Cross or ride over."
+              }
+            },
+            {
+              "term": "万顷之茫然",
+              "meaning": {
+                "ja": "果てなく広がる水面。",
+                "en": "The vast, seemingly boundless water."
               }
             }
           ],
           "grammar": [
             {
-              "point": "所如",
+              "point": "纵 + 目的語 + 所如",
               "explanation": {
-                "ja": "如 はここでは「行く」。所＋動詞で行く先を名詞化し、縦（任せる）の内容にする。",
-                "en": "如 means to go here. 所 plus the verb nominalizes its destination, the course to which the boat is left."
+                "ja": "纵一苇之所如 で、舟の行く先を決めず進ませます。",
+                "en": "纵一苇之所如 lets the reed-like boat go where it will."
+              }
+            },
+            {
+              "point": "一苇 / 万顷 の対比",
+              "explanation": {
+                "ja": "一本の葦のような舟と広大な水域を対置して、開放感を描きます。",
+                "en": "The single reed and vast waters contrast the boat’s smallness with the scene’s scale."
               }
             }
           ],
           "notes": [
             {
-              "ja": "万顷は広大な水面を表す誇張表現として訳し、面積の数値には換算していません。",
-              "en": "万顷 is translated as an image of vast water, without converting it into a numerical area."
+              "ja": "古典中国語の簡潔な比喩です。苇 は舟そのものではなく、舟の小ささ・軽さを示します。",
+              "en": "The reed is a figure for the skiff’s smallness, not a literal reed carrying the travelers."
             }
           ],
           "pronunciation": {
@@ -1894,23 +3822,56 @@
           "ttsText": "갈대 한 잎 같은 작은 배가 가는 대로 맡겨 두고, 끝없이 펼쳐진 물 위를 건너갔다.",
           "vocabulary": [
             {
-              "term": "가는 대로",
+              "term": "갈대 한 잎 같은 작은 배",
               "meaning": {
-                "ja": "行くままに。",
-                "en": "According to where it goes."
+                "ja": "葦の葉のように小さい舟。",
+                "en": "A boat as small as a reed leaf."
+              }
+            },
+            {
+              "term": "가는 대로 맡겨 두고",
+              "meaning": {
+                "ja": "進む方向を定めずに任せて。",
+                "en": "Letting it go as it would."
+              }
+            },
+            {
+              "term": "끝없이 펼쳐진 물",
+              "meaning": {
+                "ja": "果てしない水面。",
+                "en": "Boundless water."
+              }
+            },
+            {
+              "term": "건너갔다",
+              "meaning": {
+                "ja": "舟で渡っていった。",
+                "en": "Crossed over."
               }
             }
           ],
           "grammar": [
             {
-              "point": "맡겨 두고",
+              "point": "-는 대로",
               "explanation": {
-                "ja": "-어 두다 はある状態にしてそのままにすること。舟を流れに任せておく。",
-                "en": "-어 두다 means to leave something in a state; here the boat is left to drift."
+                "ja": "가는 대로 で、舟が進む方向にそのまま従うことを表します。",
+                "en": "-는 대로 means letting the boat follow its own course."
+              }
+            },
+            {
+              "point": "-고 + 後続節",
+              "explanation": {
+                "ja": "맡겨 두고 が、舟を任せることと広い水を渡ることをつなぎます。",
+                "en": "-고 links yielding direction to crossing the expanse."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "小舟と大きな水面の対比が、開かれた景色を強めます。",
+              "en": "The little boat against vast water creates a sense of openness."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1932,23 +3893,70 @@
           "ttsText": "ひろびろとしたそらをたのみにかぜにのり、どこにいきつくのかもしらないかのようだった。ふわりとうかび、ぞくせをはなれてひとりたち、うかしてせんにんのきょうちへのぼるかのようだった。",
           "vocabulary": [
             {
-              "term": "羽化",
+              "term": "広々とした空を頼みに",
               "meaning": {
-                "ja": "ここでは仙人へと変わっていくこと。道教的な超俗のイメージ。",
-                "en": "Here a transformation into an immortal, a Daoist image of transcendence."
+                "ja": "何にも遮られない空間に身を委ねて。",
+                "en": "Relying on the open, unobstructed sky."
+              }
+            },
+            {
+              "term": "風に乗り",
+              "meaning": {
+                "ja": "風に運ばれるように進み。",
+                "en": "Moving as if carried by the wind."
+              }
+            },
+            {
+              "term": "行き着くのかも知らない",
+              "meaning": {
+                "ja": "どこで止まるか分からない。",
+                "en": "Not knowing where one would come to rest."
+              }
+            },
+            {
+              "term": "俗世を離れて独り立ち",
+              "meaning": {
+                "ja": "人間の日常世界から離れ、一人で存在するように。",
+                "en": "Seeming to stand apart from the ordinary world."
+              }
+            },
+            {
+              "term": "羽化して仙人の境地へ昇る",
+              "meaning": {
+                "ja": "羽を得て仙人になるように高まる。",
+                "en": "Transforming and rising to the realm of immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "かのようだった",
+              "point": "-かのようだった の反復",
               "explanation": {
-                "ja": "実際に飛翔したという断定ではなく、舟上で得た感覚の比喩を示す。",
-                "en": "Marks a comparison for the feeling on the boat, not a claim of actual flight."
+                "ja": "風に乗る感覚と仙人へ昇る感覚を、事実ではなく二つの比喩として示します。",
+                "en": "The repeated as-if ending presents riding the wind and becoming immortal as sensations, not literal events."
+              }
+            },
+            {
+              "point": "-て の連鎖",
+              "explanation": {
+                "ja": "浮かび、離れて独り立ち、羽化して昇ると動きを重ね、舟上の解放感を高めます。",
+                "en": "Linked verbs build from floating to leaving the world and ascending."
+              }
+            },
+            {
+              "point": "どこに + 疑問の埋め込み",
+              "explanation": {
+                "ja": "どこに行き着くのかも知らない が、進む先の分からない浮遊感を表します。",
+                "en": "The embedded question conveys floating without knowing the destination."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "前文の果てない水面を渡る感覚が、空を飛び俗世を離れて仙人になるような超越感へ広がります。",
+              "en": "Crossing the vast water becomes a feeling of flying, leaving ordinary life, and rising like an immortal."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1965,23 +3973,77 @@
           "ttsText": "In that boundless openness, it was as though we were riding the wind through empty space, not knowing where we would come to rest; buoyant and drifting, as though we had left the world behind to stand alone, transforming into immortals and ascending to their realm.",
           "vocabulary": [
             {
-              "term": "come to rest",
+              "term": "boundless openness",
               "meaning": {
-                "ja": "動きが止まり、落ち着く。",
-                "en": "To stop moving and settle."
+                "ja": "果てのない広がり。",
+                "en": "A space without visible limits."
+              }
+            },
+            {
+              "term": "riding the wind",
+              "meaning": {
+                "ja": "風に乗って進むように。",
+                "en": "Moving as though carried by the wind."
+              }
+            },
+            {
+              "term": "empty space",
+              "meaning": {
+                "ja": "何も遮らない虚空。",
+                "en": "Open, unobstructed space."
+              }
+            },
+            {
+              "term": "buoyant and drifting",
+              "meaning": {
+                "ja": "軽く浮かび漂って。",
+                "en": "Floating lightly without a fixed course."
+              }
+            },
+            {
+              "term": "left the world behind",
+              "meaning": {
+                "ja": "俗世から離れたように。",
+                "en": "Seemed to have departed ordinary life."
+              }
+            },
+            {
+              "term": "transforming into immortals",
+              "meaning": {
+                "ja": "仙人に変わるように。",
+                "en": "Becoming transcendent immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "as though we were … had left",
+              "point": "as though ...; as though ...",
               "explanation": {
-                "ja": "as though が比喩を導く。were はその場の感覚、had left はすでに俗世を離れたような状態を示す。",
-                "en": "As though introduces the imagery; were describes the sensation, while had left imagines an already completed departure from the world."
+                "ja": "二つの as though が、飛行と仙人への変化を実際の出来事でなく感覚として示します。",
+                "en": "The two as though clauses mark flight and transformation as imagined sensations."
+              }
+            },
+            {
+              "point": "not knowing where ...",
+              "explanation": {
+                "ja": "分詞句が、どこで止まるか分からない状態を舟の一行に重ねます。",
+                "en": "The participial phrase adds their uncertainty about where they will come to rest."
+              }
+            },
+            {
+              "point": "transforming ... and ascending ...",
+              "explanation": {
+                "ja": "二つの分詞が、仙人への変身とその世界への上昇を連続した像にします。",
+                "en": "The paired participles carry the image from transformation to ascent."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "小舟の浮遊感を、風に乗って俗世を超える比喩へ押し広げています。",
+              "en": "The skiff’s drifting sensation expands into images of riding the wind and transcending the everyday world."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1998,23 +4060,77 @@
           "ttsText": "En aquella inmensidad, era como si cabalgáramos el viento por el vacío, sin saber dónde nos detendríamos; ligeros y flotantes, como si hubiéramos dejado atrás el mundo para estar solos, transformándonos en inmortales y ascendiendo a su reino.",
           "vocabulary": [
             {
+              "term": "inmensidad",
+              "meaning": {
+                "ja": "果てのない広がり。",
+                "en": "Vast open space."
+              }
+            },
+            {
               "term": "cabalgáramos el viento",
               "meaning": {
-                "ja": "風に乗っていた。cabalgáramos は cabalgar の接続法過去。",
-                "en": "We were riding the wind; cabalgáramos is the imperfect subjunctive of cabalgar."
+                "ja": "風に乗って進むように。",
+                "en": "As if we rode the wind."
+              }
+            },
+            {
+              "term": "sin saber dónde",
+              "meaning": {
+                "ja": "どこか知らずに。",
+                "en": "Without knowing where."
+              }
+            },
+            {
+              "term": "ligeros y flotantes",
+              "meaning": {
+                "ja": "軽く浮かんで。",
+                "en": "Light and floating."
+              }
+            },
+            {
+              "term": "dejado atrás el mundo",
+              "meaning": {
+                "ja": "俗世を後にした。",
+                "en": "Left the world behind."
+              }
+            },
+            {
+              "term": "inmortales",
+              "meaning": {
+                "ja": "仙人のような不死の存在。",
+                "en": "Immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "como si hubiéramos dejado",
+              "point": "era como si + 接続法過去",
               "explanation": {
-                "ja": "como si＋接続法過去完了で、それ以前に俗世を離れたかのような仮想を表す。",
-                "en": "Como si plus the pluperfect subjunctive imagines an earlier departure from the world."
+                "ja": "cabalgáramos で、風に乗ることを現実ではなく比喩として表します。",
+                "en": "Como si plus imperfect subjunctive marks riding the wind as an imagined experience."
+              }
+            },
+            {
+              "point": "como si + 接続法過去完了",
+              "explanation": {
+                "ja": "hubiéramos dejado は俗世を離れたかのような感覚を示します。",
+                "en": "Como si plus pluperfect subjunctive imagines having left the world behind."
+              }
+            },
+            {
+              "point": "gerundio の連続",
+              "explanation": {
+                "ja": "transformándonos y ascendiendo が変身から上昇への動きを重ねます。",
+                "en": "The gerunds add transformation and ascent as linked images."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "原文の浮遊感を二つの仮想的な像に広げ、仙人の境地へ向かうように描きます。",
+              "en": "The floating motion becomes two imagined scenes culminating in ascent toward immortality."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2031,23 +4147,77 @@
           "ttsText": "Dans cette immensité, il nous semblait chevaucher le vent à travers le vide, sans savoir où nous nous arrêterions ; légers et flottants, comme si nous avions quitté le monde pour demeurer seuls, nous transformant en immortels et nous élevant vers leur séjour.",
           "vocabulary": [
             {
+              "term": "immensité",
+              "meaning": {
+                "ja": "果てのない広がり。",
+                "en": "Immensity."
+              }
+            },
+            {
               "term": "chevaucher le vent",
               "meaning": {
-                "ja": "風にまたがって進むという比喩。",
-                "en": "A metaphor of riding the wind."
+                "ja": "風に乗って進む。",
+                "en": "Ride the wind."
+              }
+            },
+            {
+              "term": "à travers le vide",
+              "meaning": {
+                "ja": "虚空を抜けて。",
+                "en": "Through empty space."
+              }
+            },
+            {
+              "term": "légers et flottants",
+              "meaning": {
+                "ja": "軽く浮かんで。",
+                "en": "Light and floating."
+              }
+            },
+            {
+              "term": "quitté le monde",
+              "meaning": {
+                "ja": "俗世を離れた。",
+                "en": "Left the ordinary world."
+              }
+            },
+            {
+              "term": "immortels",
+              "meaning": {
+                "ja": "仙人のような不死の存在。",
+                "en": "Immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "sans savoir où …",
+              "point": "il nous semblait + 不定詞",
               "explanation": {
-                "ja": "sans＋不定詞が「〜せずに」を示し、où が間接疑問を導く。",
-                "en": "Sans plus an infinitive means without doing; où introduces an indirect question."
+                "ja": "chevaucher を事実ではなく、そう感じられたこととして述べます。",
+                "en": "Il nous semblait plus infinitive presents wind riding as a feeling."
+              }
+            },
+            {
+              "point": "comme si + 大過去",
+              "explanation": {
+                "ja": "avions quitté で、俗世を離れたかのような仮想の状態を示します。",
+                "en": "Comme si with pluperfect depicts the imagined departure from the world."
+              }
+            },
+            {
+              "point": "分詞の連続",
+              "explanation": {
+                "ja": "nous transformant ... et nous élevant ... が変身と上昇の動きを重ねます。",
+                "en": "The paired participles portray transformation and ascent."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "舟の浮遊感が、日常世界を離れて仙人になるような感覚に変わります。",
+              "en": "The boat’s drift becomes a feeling of leaving ordinary life and rising like an immortal."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2064,23 +4234,77 @@
           "ttsText": "In dieser grenzenlosen Weite war uns, als ritten wir auf dem Wind durch den leeren Raum, ohne zu wissen, wo wir zur Ruhe kämen; leicht und schwebend, als hätten wir die Welt hinter uns gelassen, um allein zu stehen, uns in Unsterbliche zu verwandeln und in ihr Reich aufzusteigen.",
           "vocabulary": [
             {
-              "term": "zur Ruhe kommen",
+              "term": "grenzenlosen Weite",
               "meaning": {
-                "ja": "動きを止め、落ち着く。",
-                "en": "To come to rest."
+                "ja": "果てしない広がり。",
+                "en": "Boundless expanse."
+              }
+            },
+            {
+              "term": "auf dem Wind",
+              "meaning": {
+                "ja": "風に乗って。",
+                "en": "On the wind."
+              }
+            },
+            {
+              "term": "leeren Raum",
+              "meaning": {
+                "ja": "何も遮らない虚空。",
+                "en": "Empty open space."
+              }
+            },
+            {
+              "term": "ohne zu wissen",
+              "meaning": {
+                "ja": "知らずに。",
+                "en": "Without knowing."
+              }
+            },
+            {
+              "term": "die Welt hinter uns gelassen",
+              "meaning": {
+                "ja": "俗世を後にした。",
+                "en": "Left the world behind."
+              }
+            },
+            {
+              "term": "Unsterbliche",
+              "meaning": {
+                "ja": "仙人のような不死者。",
+                "en": "Immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "als hätten wir …",
+              "point": "als + 接続法Ⅱ式",
               "explanation": {
-                "ja": "接続法IIの hätten により、現実の断定ではなく「〜したかのような」感覚を表す。",
-                "en": "Subjunctive II hätten presents an imagined comparison rather than an asserted event."
+                "ja": "als ritten wir ... は、風に乗るような非現実の感覚を表します。",
+                "en": "Als with subjunctive ritten presents riding the wind as an unreal sensation."
+              }
+            },
+            {
+              "point": "als hätten + 過去分詞",
+              "explanation": {
+                "ja": "hätten ... gelassen で、俗世を離れたかのような想像を示します。",
+                "en": "Als hätten with past participle imagines having left the world behind."
+              }
+            },
+            {
+              "point": "ohne zu + 不定詞",
+              "explanation": {
+                "ja": "ohne zu wissen が、止まる場所を知らないまま進む状態を添えます。",
+                "en": "Ohne zu wissen adds movement without knowing the destination."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "水上の開放感を、風に乗り世界を離れて仙人になるような二段の比喩にします。",
+              "en": "The water’s openness grows into imagined flight and transcendence beyond ordinary life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2097,23 +4321,77 @@
           "ttsText": "В этом безбрежном просторе казалось, будто мы несёмся на ветру сквозь пустоту, не зная, где остановимся; лёгкие и парящие, будто мы покинули мир, чтобы остаться одни, превратиться в бессмертных и вознестись в их обитель.",
           "vocabulary": [
             {
-              "term": "вознестись",
+              "term": "безбрежном просторе",
               "meaning": {
-                "ja": "高く昇る。ここでは仙人の世界へ至る文学的な語。",
-                "en": "To ascend, here a literary verb for reaching the realm of immortals."
+                "ja": "果てしない広がりの中で。",
+                "en": "In a boundless expanse."
+              }
+            },
+            {
+              "term": "несёмся на ветру",
+              "meaning": {
+                "ja": "風に運ばれるように進む。",
+                "en": "Are borne along on the wind."
+              }
+            },
+            {
+              "term": "не зная, где остановимся",
+              "meaning": {
+                "ja": "どこで止まるか分からず。",
+                "en": "Not knowing where we will stop."
+              }
+            },
+            {
+              "term": "лёгкие и парящие",
+              "meaning": {
+                "ja": "軽く浮かんで。",
+                "en": "Light and hovering."
+              }
+            },
+            {
+              "term": "покинули мир",
+              "meaning": {
+                "ja": "俗世を去った。",
+                "en": "Left the world."
+              }
+            },
+            {
+              "term": "бессмертных",
+              "meaning": {
+                "ja": "仙人のような不死者。",
+                "en": "Immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "будто мы …",
+              "point": "казалось, будто ...",
               "explanation": {
-                "ja": "будто が、実際の変身ではなく空を進むような感覚を導く。",
-                "en": "Будто introduces the sensation of moving through space, not a literal transformation."
+                "ja": "風に乗ることを実際の飛行でなく、そのように感じたこととして表します。",
+                "en": "Казалось, будто frames the flight as a seeming experience."
+              }
+            },
+            {
+              "point": "будто ... покинули ...",
+              "explanation": {
+                "ja": "二つ目の будто が俗世を離れたかのような感覚を重ねます。",
+                "en": "The second будто adds the imagined departure from ordinary life."
+              }
+            },
+            {
+              "point": "деепричастие не зная",
+              "explanation": {
+                "ja": "行き先を知らない状態を主な浮遊の感覚に添えます。",
+                "en": "The adverbial participle adds uncertainty about the destination."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "舟に乗る感覚が、風と虚空を進み仙人の世界へ昇る比喩になります。",
+              "en": "The boat’s motion is imagined as travel through wind and space toward an immortal realm."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2130,23 +4408,77 @@
           "ttsText": "في ذلك الاتساع، خيل إلينا أننا نمتطي الريح في الفضاء، ولا ندري أين نستقر؛ وكنا خفافا طافين، كأننا تركنا العالم وراءنا لنقف وحدنا، نتحول إلى خالدين ونصعد إلى مقامهم.",
           "vocabulary": [
             {
+              "term": "ذلك الاتساع",
+              "meaning": {
+                "ja": "あの果てない広がり。",
+                "en": "That vast openness."
+              }
+            },
+            {
               "term": "نمتطي الريح",
               "meaning": {
-                "ja": "私たちは風に乗る。馬に乗る動詞を用いた比喩。",
-                "en": "We ride the wind, using a verb for mounting a horse."
+                "ja": "風に乗る。",
+                "en": "Ride the wind."
+              }
+            },
+            {
+              "term": "لا ندري أين نستقر",
+              "meaning": {
+                "ja": "どこに落ち着くか分からない。",
+                "en": "Do not know where we will rest."
+              }
+            },
+            {
+              "term": "خفافا طافين",
+              "meaning": {
+                "ja": "軽く浮かんで。",
+                "en": "Light and floating."
+              }
+            },
+            {
+              "term": "تركنا العالم وراءنا",
+              "meaning": {
+                "ja": "世界を後にした。",
+                "en": "Left the world behind."
+              }
+            },
+            {
+              "term": "خالدين",
+              "meaning": {
+                "ja": "仙人のような不死の存在。",
+                "en": "Immortals."
               }
             }
           ],
           "grammar": [
             {
-              "point": "كأننا تركنا",
+              "point": "خيل إلينا أننا ...",
               "explanation": {
-                "ja": "كأنّ に「私たち」を表す接尾辞がつき、「まるで私たちが〜したようだ」と比喩を導く。",
-                "en": "Ka-ʾanna with the suffix for us introduces the comparison as though we had left."
+                "ja": "風に乗る姿を現実ではなく「そう感じられた」と示します。",
+                "en": "خيل إلينا أننا presents riding the wind as an impression."
+              }
+            },
+            {
+              "point": "كأننا ...",
+              "explanation": {
+                "ja": "俗世を離れたかのような二つ目の比喩を導きます。",
+                "en": "كأننا introduces the further image of having left the world."
+              }
+            },
+            {
+              "point": "نتحول ... ونصعد ...",
+              "explanation": {
+                "ja": "変身と上昇の動きを並べ、仙人の境地へ向かう像を作ります。",
+                "en": "The coordinated verbs portray transformation and ascent toward the immortal realm."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "果てない水上の浮遊感を、風に乗って俗世を超える感覚として描きます。",
+              "en": "The wide water’s floating sensation becomes a vision of riding the wind beyond ordinary life."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Fī dhālika al-ittisāʿi, khuyyila ʾilaynā ʾannanā namtaṭī ar-rīḥa fī al-faḍāʾi, wa-lā nadrī ʾayna nastaqirru; wa-kunnā khifāfan ṭāfīna, ka-ʾannanā taraknā al-ʿālama warāʾanā li-naqifa waḥdanā, nataḥawwalu ʾilā khālidīna wa-naṣʿadu ʾilā maqāmihim."
@@ -2167,61 +4499,75 @@
           "ttsText": "浩浩乎如凭虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。",
           "vocabulary": [
             {
-              "term": "冯虚御风",
+              "term": "浩浩乎",
               "meaning": {
-                "ja": "虚空に身を任せ風に乗る。冯は凭に通じ、píng と読む。",
-                "en": "To ride the wind supported by empty space. 冯 stands for 凭 and is read píng."
+                "ja": "果てしなく広々とした様子。",
+                "en": "Vast and open in feeling."
               }
             },
             {
-              "term": "浩浩乎",
+              "term": "冯虚御风",
               "meaning": {
-                "ja": "広々として果てしない様子。",
-                "en": "A sense of vast, boundless openness."
+                "ja": "虚空を頼りに風に乗る。",
+                "en": "Ride the wind through empty space."
+              }
+            },
+            {
+              "term": "不知其所止",
+              "meaning": {
+                "ja": "どこで止まるか分からない。",
+                "en": "Not know where it will come to rest."
               }
             },
             {
               "term": "飘飘乎",
               "meaning": {
-                "ja": "軽く浮かび、風に漂うような様子。",
-                "en": "A light, floating sensation."
+                "ja": "軽く浮かび漂う様子。",
+                "en": "Light and drifting in feeling."
               }
             },
             {
               "term": "遗世独立",
               "meaning": {
-                "ja": "俗世を離れ、ひとり超然と立つこと。",
-                "en": "To leave the mundane world behind and stand apart."
+                "ja": "俗世を離れ、独り立つように。",
+                "en": "Leave the world behind and stand apart."
               }
             },
             {
               "term": "羽化而登仙",
               "meaning": {
-                "ja": "仙人へと変じ昇るという道教的なイメージ。",
-                "en": "The Daoist image of transforming into and ascending as an immortal."
+                "ja": "羽を得て仙人へ昇るように。",
+                "en": "Transform and ascend as an immortal."
               }
             }
           ],
           "grammar": [
             {
-              "point": "浩浩乎如……；飘飘乎如……",
+              "point": "浩浩乎如 ... / 飘飘乎如 ...",
               "explanation": {
-                "ja": "乎 が様態を示し、如 が比喩を導く並行した構造。羽化・登仙は道教的な超俗の感覚を表す。",
-                "en": "乎 marks a manner and 如 introduces a comparison in parallel structures. 羽化 and 登仙 evoke Daoist transcendence."
+                "ja": "二つの 如 が、風に乗る姿と仙人になる姿を比喩として並べます。",
+                "en": "The two 如 clauses frame riding the wind and becoming immortal as similes."
               }
             },
             {
-              "point": "不知其所止",
+              "point": "其所止",
               "explanation": {
-                "ja": "所＋止 で「止まる所・行き着く所」を名詞化する。其 は舟または風に乗った自分たちを受けるものとして解せる。",
-                "en": "所 plus 止 nominalizes the stopping place or destination. 其 can refer to the boat or the voyagers imagined riding the wind."
+                "ja": "其 は「その」、所止 は「止まるところ」で、どこへ行き着くか分からないことを表します。",
+                "en": "其 means its and 所止 means the place of stopping, leaving the destination unknown."
+              }
+            },
+            {
+              "point": "羽化而登仙",
+              "explanation": {
+                "ja": "而 が変身と仙境への上昇をつなぎます。",
+                "en": "而 links transformation with ascent to the immortal realm."
               }
             }
           ],
           "notes": [
             {
-              "ja": "冯は姓の Féng ではなく píng。原文表記は変えず、音声入力だけ「凭虚」としています。",
-              "en": "冯 is píng here, not the surname Féng. The original spelling is retained; only the speech input uses 凭虚."
+              "ja": "舟で広い水を渡る感覚が、風と虚空を進み仙人へ変わるような超越感に広がります。",
+              "en": "The boat’s motion across vast water grows into a sensation of flight and transcendence."
             }
           ],
           "pronunciation": {
@@ -2244,23 +4590,84 @@
           "ttsText": "드넓은 허공에 몸을 맡겨 바람을 타고 어디에 멈출지도 모르는 듯했다. 가볍게 떠올라 속세를 떠나 홀로 서서, 신선으로 변해 그 경지로 오르는 듯했다.",
           "vocabulary": [
             {
-              "term": "신선",
+              "term": "드넓은 허공",
               "meaning": {
-                "ja": "道教における超俗的な不死の存在。",
-                "en": "An immortal in Daoist tradition."
+                "ja": "果てなく広い空間。",
+                "en": "A vast empty expanse."
+              }
+            },
+            {
+              "term": "몸을 맡겨",
+              "meaning": {
+                "ja": "自分の身を流れに委ねて。",
+                "en": "Yielding oneself to the open space and motion."
+              }
+            },
+            {
+              "term": "바람을 타고",
+              "meaning": {
+                "ja": "風に乗って。",
+                "en": "Riding the wind."
+              }
+            },
+            {
+              "term": "어디에 멈출지도 모르는",
+              "meaning": {
+                "ja": "どこで止まるかも分からない。",
+                "en": "Not knowing where one will stop."
+              }
+            },
+            {
+              "term": "가볍게 떠올라",
+              "meaning": {
+                "ja": "軽く浮き上がって。",
+                "en": "Rising lightly."
+              }
+            },
+            {
+              "term": "속세를 떠나 홀로 서서",
+              "meaning": {
+                "ja": "俗世を離れて独り立つように。",
+                "en": "Leaving the ordinary world to stand alone."
+              }
+            },
+            {
+              "term": "신선으로 변해",
+              "meaning": {
+                "ja": "仙人に変わって。",
+                "en": "Transforming into an immortal."
               }
             }
           ],
           "grammar": [
             {
-              "point": "-는 듯했다",
+              "point": "-(으)ㄴ/는 듯했다",
               "explanation": {
-                "ja": "実際の飛翔や変身を述べるのではなく、そのように感じられたという比喩。",
-                "en": "Expresses how it felt, rather than asserting actual flight or transformation."
+                "ja": "前半と後半の 듯했다 が、飛行と仙人への変化を事実でなく感覚として示します。",
+                "en": "Repeated 듯했다 presents flight and transformation as seeming experiences."
+              }
+            },
+            {
+              "point": "-지도 모르다",
+              "explanation": {
+                "ja": "멈출지도 모르는 が、行き着く先を知らない浮遊感を表します。",
+                "en": "-지도 모르다 conveys uncertainty about where the motion will end."
+              }
+            },
+            {
+              "point": "-아/어 + 後続動詞",
+              "explanation": {
+                "ja": "떠올라、떠나、변해 で浮遊・離脱・変身の像を順につなぎます。",
+                "en": "Linked verb forms move from floating to leaving the world and transforming."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "前文の果てない水面が、風に乗り仙人へ昇るような感覚へ変わります。",
+              "en": "The vast water gives way to an imagined flight and ascent to an immortal state."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff7a037c57fd74dba6ea47a82f931eeda7243b9650e226c78ae9ee0a5f33053c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしはにほんにいったことがあります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "80c14a2f55138517d96fb18f7ae41cb073e03d47e2fcf5696a337d741f397b88",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:17:18.014764+00:00"
+}

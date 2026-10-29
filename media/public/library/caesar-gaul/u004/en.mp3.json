@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff4c284d8a220ec8f229b931e52baf85eda3e88f965d0fce35300d3333a76bcc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The bravest of all are the Belgae, because they are furthest from the culture and civilization of the province; merchants visit them least often with goods that soften men’s spirits; and they are nearest to the Germans across the Rhine, with whom they wage war continually.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db1fc582beb276ac20e53dfdb14ea1dc917d5587dae578bceff2bf5033425482",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:32:01.285714+00:00"
+}

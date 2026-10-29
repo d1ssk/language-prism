@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a7662190d1179bc27ef51e5a5e20103450e0eb7fd7d2eea503825a855d041be2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Gern. Einen Moment, bitte.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "71c376dbb00486eaafb676fcabb1a80e156d5dcbed429591dc222d82858a7e91",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:13:35.753181+00:00"
+}

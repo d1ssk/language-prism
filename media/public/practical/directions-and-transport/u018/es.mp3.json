@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bcaa722c7b910f3ff58979661465a2431879a751f5fe12919cf8aa83c4eaae2b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, tome el autobús en la parada del otro lado de la calle.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "42e059241d75b95859847f7f0d69ee76af5dd0c4fe57c67bd5d08d63243da160",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:31.874344+00:00"
+}

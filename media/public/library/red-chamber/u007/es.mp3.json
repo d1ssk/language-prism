@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c3d73584a841f52a765951545d71c3eca950ef1c9ee489dd7a65cb0c3126e50b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Aunque mi materia es tosca y obtusa, mi espíritu tiene cierta comprensión. Su aspecto de inmortales demuestra que no son seres comunes: sin duda poseen talento para reparar el cielo y salvar el mundo, y virtud para beneficiar a los seres y ayudar a las personas.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "442a834c8b61fe2d6fbf1100d8ea95b0db967fb553caea78d25337b036f9b8a2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:23:06.505210+00:00"
+}

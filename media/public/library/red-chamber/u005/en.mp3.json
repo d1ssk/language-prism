@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5caafc30f86c88debb29236e1f594188a7b75c87ddb3f927453b5f14ab7020f7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "One day, amid its lamentations, the stone saw a Buddhist monk and a Daoist approaching from afar, extraordinary in build and bearing. Talking and laughing, they came below the peak, sat beside the stone and conversed freely. First they spoke of cloudy mountains, misty seas and the mysteries of immortals; then they turned to worldly glory, riches and honour.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "40f3adacbd06a26fb5e2f1bac11b741f37a27ab101d11208935bd0317c6cc133",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:17:38.263282+00:00"
+}

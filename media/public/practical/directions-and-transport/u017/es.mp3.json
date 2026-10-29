@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "aabade7e0750b3d8b8cd487456dfd26cdd54aa7e774c07f4cd7d90f8a465e064",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Este autobús va al ayuntamiento?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f2ecb73fd5105c612f825d47c5ffde93d3775506dfbdf631f7f30d9797b8ed99",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:08.977768+00:00"
+}

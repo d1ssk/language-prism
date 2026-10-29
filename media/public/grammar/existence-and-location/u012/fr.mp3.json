@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dac19f5080b07a6138dd573e99e3896299ee9b934d8d850ae8485326cfd96b16",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je suis chez moi en ce moment.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "49f8cdb3c03b61cbe4075f0f6ddfff263c10729cc1d472d70a9d588a8531684f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:17:04.560686+00:00"
+}

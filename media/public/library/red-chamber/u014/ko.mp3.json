@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "36633083a3ad7f3b6b7df435c72a6780373aaca375a2a614b104f0a44b196243",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "승려는 주문을 외우고 부적을 쓰며 큰 환술을 펼쳤습니다. 큰 돌은 순식간에 밝고 맑은 아름다운 옥으로 변했고, 다시 부채 장식만 한 크기로 줄어 몸에 차거나 손에 쥘 수 있게 되었습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c0b4bcaef1d4aa4dd2befd7d1c6af1a49c83ed81dec5740f21f4ae105f763fa5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:36:15.120315+00:00"
+}

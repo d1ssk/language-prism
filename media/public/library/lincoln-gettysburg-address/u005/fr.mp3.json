@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "74421fde79c9a8c12fc0f2a4c3820145bd05a625982511e5a0f0a76deb60d43b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Il est parfaitement juste et convenable que nous le fassions.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "28991c5ed2b59b40212dd1b2f680af1fa33e1ab331a49c2acfc7aab21ca76bec",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:51:30.508894+00:00"
+}

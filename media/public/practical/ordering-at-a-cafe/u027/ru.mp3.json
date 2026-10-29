@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4d6603e216780c127de15b46bb917d7211545faf49a372f9117cdea94403c317",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Можно получить чек?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a4e96fcc9f979b4860d65ab46cae322d5477f203687130836987e5c962b99192",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:21:14.018452+00:00"
+}

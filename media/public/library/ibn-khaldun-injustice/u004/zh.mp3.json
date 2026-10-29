@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "392b76021e95cdcdcbe4888b7d75ffcdd757079e5613b4eb1b23035cc29097ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如果侵害严重而遍及一切谋生途径，停止谋生的现象也会同样普遍，因为侵害从所有途径侵入，使希望完全破灭。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e6214bea685f46877f7c5af4bed500bce9b0b70fa97000fc502c4c733171aedc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:41:59.936974+00:00"
+}

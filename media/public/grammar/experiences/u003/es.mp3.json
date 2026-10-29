@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0958c7ca564aac340ad54913f4d469035e71c1b5622824225fdc41a4a9321d42",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Ha estado alguna vez en Japón?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "42968b84f971189b0145365f41ecdae9bd3d7c08bee89cf4d2331382a7b700d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:17:58.244481+00:00"
+}

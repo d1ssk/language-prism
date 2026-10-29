@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d796073752d47aa8f6fe22dcf10f103aed77e75e51ad77dcec335393b54a4bbc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "审慎确实要求，不应因轻微而短暂的原因改变长期建立的政府；一切经验也表明，只要苦难尚可忍受，人们更倾向于忍受，而不是废除已经习惯的政体来纠正自身处境。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "532e66af97c36224884ab9b779caebf2ed49e7eca597012782e8cab06f8b3b04",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:11:59.135524+00:00"
+}

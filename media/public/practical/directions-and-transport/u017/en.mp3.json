@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b02f30db72c3f9a92e6b7cfbd0163bfb102f2ae0ec1501045fc0402bee4881f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Does this bus go to city hall?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5ae5dc7e491aefcc2bdca879d87f243198f8ef507f88dc39e656affeb0a95b87",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:06.621317+00:00"
+}

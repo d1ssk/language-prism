@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d8178841e8f162b791f2137b90e7bd96c14b9c26e09e422ab029f4d147192e3f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "どんかくとは、ちょっかくよりおおきいかくである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "14c3d8b4d8bda423676d24c49d944e8a68e29d5922059e839d2223494cc4b2f4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:01.258903+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "116fa0de298f746e8cd874a6206af8d9d3b8e46770c3c571f5dc729b331d06c8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "así mi ánimo, que aún huía, se volvió para contemplar de nuevo el paso que jamás había dejado salir con vida a nadie.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "43e08a1d972aa3b01bb653736f550a8b882d9f857e6c7e5e3e49e3f4bc941485",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:02:15.719630+00:00"
+}

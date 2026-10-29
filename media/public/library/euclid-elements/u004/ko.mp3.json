@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "27fafa796e9aa3d132977f57643aa9496c7538b0054d80fa63e668866813c186",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "직선은 그 위의 점들에 대하여 고르게 놓인 선이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d02ffbdff3f183d3cd11c11c6eaf67d3ac426a1405a74d670d6456da2b3ddb2e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:48.883879+00:00"
+}

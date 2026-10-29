@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "caff82c6b91cde25c7337137a897395ad70e045023dac8e25014121a5cee3f21",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿De qué andén sale el tren al aeropuerto?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "630561e61b2c17c246cc040440209df1862670deed48ecb54841ef73aa6c2d7f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:56:13.598405+00:00"
+}

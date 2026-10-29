@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ad14c4745100362305301db73f95f58739ee0268ddc3d26087227ffc65e2d94",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Хотя моя материя груба и тупа, мой дух кое-что понимает. Ваш облик бессмертных показывает, что вы не обычные существа: наверняка у вас есть дар чинить небо и спасать мир и добродетель приносить пользу существам и помогать людям.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ddcd0d1806263b1fdb655ce04d83f027dab485a7336dde1279113cbfe4adf232",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:23:46.176166+00:00"
+}

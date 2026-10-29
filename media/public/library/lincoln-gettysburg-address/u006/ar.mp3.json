@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "72d64ed61f80390a6fd14cd9ea2b8afa8ec541a0d8522498afdedf3801cd7d52",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَلَكِنْ بِمَعْنًى أَوْسَعَ، لَا نَسْتَطِيعُ أَنْ نُكَرِّسَ هَذِهِ الْأَرْضَ، وَلَا أَنْ نُقَدِّسَهَا، وَلَا أَنْ نَجْعَلَهَا حَرَمًا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "065e44846bcf48743a51dbb8f653608043f176a406829406c48d03515fb1508d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:52:23.676205+00:00"
+}

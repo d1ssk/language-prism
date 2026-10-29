@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7d6861f088f92c1a864b0cc8614b9fe5fbd979e7115f68767a762b48a8b567c2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hay un escritorio en esta habitación.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4772d35eb5b4d90d7b6b96a2d71ca65847da446c387e92dd19386968eedf698a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:10:13.212686+00:00"
+}

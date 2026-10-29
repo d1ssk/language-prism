@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4cad5b8b36b154e94532cb8d424d034ac1ab78552191d893ae48064a9c576aa3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "공항행 열차는 몇 번 승강장에서 타나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8c9d3713d5eedac41228abdde5202e33778d76aacb4225fa86d7a0a2c7803c91",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:56:30.673690+00:00"
+}

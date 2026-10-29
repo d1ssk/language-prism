@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "724794dfde7de1ecc06467a2f4f373916be63877fcb6d6e4b42ef4890c0f53f6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "تَبْدَأُ أَرْضُ الْبِلْجِ مِنْ أَقْصَى حُدُودِ غَالِيَا، وَتَمْتَدُّ إِلَى الْجُزْءِ الْأَسْفَلِ مِنَ الرَّايْنِ، وَتَتَّجِهُ نَحْوَ الشَّمَالِ وَمَطْلِعِ الشَّمْسِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6fa9e22fe63905310f39360e488f557310d6911357112de22de13bdd0d612762",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:37:33.543993+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "081f1a57635e22adb7d2090a0ef0301c5fb34ae08c0a9d8904654db6619b5f90",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "すみません、ちゅうもんしたりょうりがまだきていません。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "384e8d5a72ae6389a547d78a18a756c3b256d08da45c83f2b37cc30b9edc27fe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:48.777612+00:00"
+}

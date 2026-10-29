@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4646b336a1756a0f940de60a237d490f9116c61941f73377123f0a8304be86fd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "An obtuse angle is larger than a right angle.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "812392e8f9642a00abeacfa9698ccc0a74707234d02f4a20e25cc58729fe8e7c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:03.837996+00:00"
+}

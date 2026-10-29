@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "10bd272f0ab3381baa6043cc16f2deb1a26aa6e70721c32e348c8a54957f7037",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "은행은 역 옆에 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2e8bcd088d12cb60e2dcb67a872a7a0d8a927ef537a5b3fe353656f54d3ee6b5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:25.773724+00:00"
+}

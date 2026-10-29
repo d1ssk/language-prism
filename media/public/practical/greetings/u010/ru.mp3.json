@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2b6c0db58a29096182d560836ac1451a8498d24982f2ccf870ce5695644a06f1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ничего страшного.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79540ac5d4bc48fa4b9839a1290bf8114faddb973c958b7bafe705f5bf50b2c8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:04.414247+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42676ef4fb4c0d588201e3335054b90535b5999eb8f3b079d89638d914a34f6b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Llámeme Mina, por favor.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b201b696a2e88dd0189d7292213c844a90c38143cec6f04903973e9b00a484be",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:09.686352+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4c7702f84e3da1dbc436a023bbcdab406468a69c2be34211b29cd419489f5960",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "قَبْلَ سَبْعَةٍ وَثَمَانِينَ عَامًا، أَنْشَأَ آبَاؤُنَا فِي هَذِهِ الْقَارَّةِ أُمَّةً جَدِيدَةً، وُلِدَتْ فِي الْحُرِّيَّةِ وَكُرِّسَتْ لِلْمَبْدَإِ الْقَائِلِ إِنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e72af89b51db3a8ca31e20a57e39c7e46e2a9f8b822d743df4829995377dba57",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:48:18.535882+00:00"
+}

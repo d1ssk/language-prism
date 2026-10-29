@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "378f2d789dcc8e379987f77eee162fcc970138a374484bb69965c1bbb1bc40ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Cuándo la vio?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab491414b93749bebef9dbb0c33221e2d143d4fec14caa0e1b90e5d1f623cc43",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:22.731620+00:00"
+}

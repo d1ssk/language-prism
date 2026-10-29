@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "688da3a83e3081bfdf6dcd8c4e38ab567972281ee89953e3ae85aa0c076fdcf4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 가게는 오늘 문을 여나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "474fc51352b85720b3a95b5e45638b4ae2d7c492cd2c4a7c52f65d107621aedd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:23:41.609170+00:00"
+}

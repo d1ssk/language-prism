@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e1ad6a087c7d25c1c1f78eef32dacc45b8e09bbb38b2d789bf93033ae5efead0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لا، لم آكله بعد.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a47d38a6c13e7b39aa646e1b8cb00ca20ab312e01127c897d61b428de3cf7585",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:19:38.533031+00:00"
+}

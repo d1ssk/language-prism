@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2b6a2b354fac9952b7e8011d5a6cf5913745feb4c4a47cf89de32173ac51eae5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "但从更广的意义上说，我们无法奉献这片土地，无法将它祝圣，也无法使它神圣。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3923b49428c2b2992ffcfe908ee244628a2f2d81da1f0a85cac0dda5919565d3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:52:29.062384+00:00"
+}

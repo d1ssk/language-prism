@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d8083c70985c101541d35ef4956fedb5a37a1ec1e3ef0e0b0ba5460825d6ddf8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "죄송하지만 주문한 음식이 아직 안 나왔어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "455cd1a435ebec5412b72455ec2fc9434c9bab5ae20c7548f643d55e1e30a7d4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:19:10.515476+00:00"
+}

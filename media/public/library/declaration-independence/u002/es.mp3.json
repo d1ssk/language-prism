@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7000ed9d55ab15fac5b00a0aa66d9a1e06cc61a356842724512ce328e8919652",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Consideramos evidentes estas verdades: que todos los seres humanos son creados iguales, que su Creador los dota de ciertos derechos inalienables y que entre ellos están la vida, la libertad y la búsqueda de la felicidad.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cd0d25e507c3a7084e0febf7eccd7c38dce806d0e5e48961872b27a7a9b9b9dc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:06:07.727843+00:00"
+}

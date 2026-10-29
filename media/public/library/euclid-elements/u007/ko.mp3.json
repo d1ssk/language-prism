@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d97f756e5ecf624dcbebc60755d996ec3692ca87656eb49f138c44de93492f8b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "평면은 그 위의 직선들에 대하여 고르게 놓인 면이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5517c3d2520c5e62e77287fd8bd9ed3bea7837b1e3414351b40e917c4dad6d37",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:17:05.180844+00:00"
+}

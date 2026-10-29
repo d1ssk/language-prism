@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "71d7a6da683320a23ab123eb507dbcf6d8f0088b95a8e99da8e874b3651d7d0a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The whole is greater than the part.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a84efc0c2af6b45f4115cf2a03bc109a6d7b7c5ac869e72f22119d15192339bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:56.601661+00:00"
+}

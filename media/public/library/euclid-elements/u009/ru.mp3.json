@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4b8a44762ed62b7c67ed3b6c41ef241e8db8ff00081480208ea7769f1e2d7d2f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если линии, ограничивающие угол, прямые, угол называется прямолинейным.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "580c2c3da3a318b27e08c5ec14b28103a5d048debf3ea7f5b228a4b22a6dd22b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:18:23.411065+00:00"
+}

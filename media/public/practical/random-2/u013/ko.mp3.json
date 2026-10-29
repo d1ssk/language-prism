@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7bf46a8f8df7ffd162cdc5d6567d672c078526db038d2b54d3fab4285f61d3b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "돌아가는 길이 사라질 때까지 우리는 밀물이 들어오고 있다는 걸 알아차리지 못했다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "115b24e83ad39f4fd1fac2d4761e08f3dd62948b82fff62c190234f1f378bb84",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:31:22.064336+00:00"
+}

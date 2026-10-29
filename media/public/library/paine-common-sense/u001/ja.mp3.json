@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "45bec15243f6142e3fc82edc4c6c9e7bb0ec821e6a53d96b49b6e3a0c16cf4ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しゃかいとせいふをこんどうし、りょうしゃのくべつをほとんど、あるいはまったくのこさないちょじゅつかがいる。しかしりょうしゃはことなるだけでなく、そのきげんもことなる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cf15435e02507df836d388562de5c80425482a75d2e37c757ef727ba6eff984b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:59:17.123072+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "28f73adcec2fd912759913d8cc63c3dd9f48f75a4d359601584419f22807fc9e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Holding it on his palm, the monk smiled. “Your form is certainly a treasure now, but it still has no real distinction. I must engrave a few characters on it, so that anyone can recognize it at once as a wondrous object.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ab22ca506579f599f605b09297b86694a76fc95f1b71f995b77c736738699110",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:36:33.943359+00:00"
+}

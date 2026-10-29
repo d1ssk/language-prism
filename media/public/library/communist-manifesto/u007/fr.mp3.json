@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "39b5da0c72ef56ae68889496110ddb46b2238f5b8ad3fdf018210fbb1d9d25db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "L’histoire de toute société jusqu’à présent est une histoire de luttes de classes.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e93802004b4b6d880159594ae08d36fdbc3329e296cd794141ccfc551f72a87a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:46:01.787147+00:00"
+}

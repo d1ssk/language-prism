@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "15b3886a6b805a9ab7959d5a2cbc43c12c57cb6996327be9de3da233cd65aa30",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "于是，国中的居民减少，房屋空置，城市荒废。国家和统治权力也随之衰败，因为它们是社会生活的形式，其物质基础败坏时，它们必然跟着败坏。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "43286d1a4e5f9e5050fe1b5d35b3f5b17b6df2f6a08e37dc17c1d4c603868585",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:47:04.348971+00:00"
+}

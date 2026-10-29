@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "47e6becfb65b6664e448b47fbd8c591bd1b897a804ec9b3e0539f9c7b413be14",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "돌은 듣고 기쁨을 억누르지 못해 물었습니다. “제자에게 어떤 기이한 점이 생기며, 또 어디로 데려가 주십니까? 부디 분명히 알려 주셔서 의문을 풀어 주십시오.”",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "528640ca23ddd69bd0af47efb895461715d77816576e1e4a6e6c9c826238d779",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:40:49.596039+00:00"
+}

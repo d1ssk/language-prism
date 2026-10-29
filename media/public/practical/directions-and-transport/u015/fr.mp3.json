@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9efa6d64dc110d03b39cd47ef51e8aa4160b0d0365098cada865355faa19ad5e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Merci. J'allais descendre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e27c9775ad8e7a31f2303116c619c0b58dfed4b92bb80b57812d6e353d091016",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:17.472315+00:00"
+}

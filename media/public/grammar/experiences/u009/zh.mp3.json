@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38a4bdd9e5bb92c4473a0ffa8b9f706832bed9373193e7e404749efabe14161e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "以后我想尝尝。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b8569cdbd898b7275fe884f46c8bfaf692f9d617261e78b1790d61b2630da2c7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:19:58.723757+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dff8ad6e87d480e91648ae8f4ad02ef7a3e08fda536429e1a6f9ec59ad597a3c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "우리는 다음 진리를 자명하다고 여긴다. 모든 사람은 평등하게 창조되었으며, 창조주로부터 양도할 수 없는 일정한 권리를 받았고, 그 가운데에는 생명, 자유, 행복의 추구가 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ad7cc12e9daf56aea98ada0e92d3ee411d6ca0b3a7df0e4711b29d50dd5e6420",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:07:08.034674+00:00"
+}

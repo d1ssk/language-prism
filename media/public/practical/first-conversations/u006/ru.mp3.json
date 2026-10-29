@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4ea5bde4eec9fd6c913e4ecc648eaab526fac6b908636159d366da7d6788a429",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я преподаю японский язык в университете.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "17eab2d3dbf44e89c82ec066ffe7e15683c13bec942d9a8a1a305e759eefc77c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:54.176973+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3ec1de4262d8cd91e7383dff4246a726b72585b74027e6e56e339cafbd9210ea",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wie lange lernen Sie schon Japanisch?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ea4243066ea40d7b2466072db27cf4db1cc0fb485c6f92a9cb00dfa3f47975c5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:03:35.830805+00:00"
+}

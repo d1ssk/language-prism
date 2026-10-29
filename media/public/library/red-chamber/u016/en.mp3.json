@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4a79641c4fc340f9cbd613298e798766cfbb515d75b39054ec5dc5248998573e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Then I shall take you to a flourishing, enlightened country, to a family of officials steeped in poetry and ritual, to a land bright as flowers and brocade, a home of tenderness, wealth and honour, where you may settle and live happily.”",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3a8ddf1df18bdfef3b901f5d55a5932d4390dbd91251bfb9966708a6ad2421e6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:38:09.522128+00:00"
+}

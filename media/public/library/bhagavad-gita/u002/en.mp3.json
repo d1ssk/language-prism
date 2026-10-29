@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0723977c75d4cd2e09bef8ab40417477bb139990f7672962506f655bcf07fc4d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Established in yoga, act without attachment, Dhananjaya, remaining equal in success and failure. This equanimity is called yoga.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6776c9d083fbbf3e58389b31651dc1735d27d14efc5392a186a11187055bbf6a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:25:38.843350+00:00"
+}

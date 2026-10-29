@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a49fda176b4bc23a10618e6096201402a410c025ece98cc0edf9d56d430b7dd1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "De loin, le lac semblait gelé, mais l’eau bougeait encore.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8fa9067df289f5c13c1bb33b31b4cf3aa633366e651b4ceb6fb2e6774c87bbff",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:31:36.471931+00:00"
+}

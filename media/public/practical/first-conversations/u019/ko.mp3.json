@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e96ba5b1937ef211a8f3ac9270fd94280163591c05f658115db359b461caa24b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "여기에는 일 때문에 오셨어요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8464a5a24dd2ea4444228a81f2458e0f00b873f7b1c2c9658260472152c19ccf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:17.431975+00:00"
+}

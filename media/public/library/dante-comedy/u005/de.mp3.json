@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a0520023018f648a91c3f442f9aaa00f4a5f3f88e988643667888bf133f5c475",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Doch als ich an den Fuß eines Hügels kam, wo jenes Tal endete, das mein Herz mit Furcht durchbohrt hatte,",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "473dfc02dc6dd38c248fbe3c0e6175194a77a8df0408fa939fa3044b7398288c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:56.993979+00:00"
+}

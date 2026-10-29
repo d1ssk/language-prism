@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "03e151fd9265730e8ad8df3e4ee5ab5ba71a2a350f577fa1e3f5eaf81caadb6b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nos corresponde más bien consagrarnos aquí a la gran tarea que nos queda: que de estos muertos honrados recibamos una devoción mayor por la causa a la que entregaron la medida plena y última de su entrega; que resolvamos firmemente aquí que estos muertos no hayan muerto en vano, que esta nación, bajo Dios, conozca un nuevo nacimiento de la libertad y que el gobierno del pueblo, por el pueblo y para el pueblo no desaparezca de la tierra.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cc9d2773a8fb9e8100b4865741c671802a63ea251c6b361250e3dce1814ce230",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:56:51.657542+00:00"
+}

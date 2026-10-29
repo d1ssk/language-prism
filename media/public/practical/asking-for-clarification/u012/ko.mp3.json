@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0be2a1d6bd49c85c6da9ae7f9b0ea1d25c667a5e67a334758ef57ede71bfaf0c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "저를 따라 말해 보세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "24fcae83332fc55cc1bd8dc25d227dc3213552f48ac843e2b1646b01a6a21b0f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:47:11.267182+00:00"
+}

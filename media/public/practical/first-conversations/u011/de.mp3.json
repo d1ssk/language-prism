@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d2d106df5dc399351821f35bd3912223396ffad98a93cc4e9f99ca242dd1183",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich gehe oft spazieren. Und Sie?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1e7c20cc8146eb25b236f3b78a135d0f10f051002f40b6e0ea2db034121f6b6b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:06.524601+00:00"
+}

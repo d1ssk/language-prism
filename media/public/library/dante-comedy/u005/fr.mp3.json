@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0aba31e2dfc1af4a8c129f96e8547b3b6956c7518ce8624d163c225241032053",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mais lorsque j’arrivai au pied d’une colline, là où finissait cette vallée qui m’avait percé le cœur de peur,",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed64d013434c17349c8ea54ceb34f5a5a33faf67e63be2de82475f8b33bb1c78",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:52.177038+00:00"
+}

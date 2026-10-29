@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "aaa365cbb78e2e43452dad8f6ad51c7b7bb6b19188e6fb9ce16c5154d929802c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وقطعة من هذه الكعكة أيضا، من فضلك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "afc9dc324f1779b9156827478e9208e253da4413e9eda90baf3da241759bb732",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:17:44.976116+00:00"
+}

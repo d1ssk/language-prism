@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "370e8a9582b8d132fb2be80f0adb9b19b8328e18291e2fe938d60be9597db036",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "当一条直线立在另一条直线上，使相邻的两个角相等时，每个角都是直角，而立起的直线叫作另一条直线的垂线。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "91c1c69c37b065e1985c24fa5a1bf1a18e8d9b562abaad33cb9bb4f7240c7bfe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:19:50.280589+00:00"
+}

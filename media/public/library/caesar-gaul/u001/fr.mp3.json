@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dfe337a4aaa543933cce862391c7cebd9a2524ed73b092c6bde6c9c846145516",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La Gaule entière est divisée en trois parties : l’une est habitée par les Belges, une autre par les Aquitains, la troisième par ceux qui, dans leur langue, se nomment Celtes et dans la nôtre Gaulois.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7ebebed69954b4ffe0773caab7c8a2ea45d04ea93e67aa566a315749da685142",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:29:26.696212+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "225cfa6f6747691302d16b67792533e0435d26f20a09a81fbf3dcd7d72c07564",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Por tanto, puesto que la seguridad es el verdadero propósito y fin del gobierno, se sigue sin posibilidad de refutación que la forma que parezca más capaz de garantizarla con el menor gasto y el mayor beneficio es preferible a todas las demás.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13e7c8e57aea38bebda804c60f24c50fe1d81e88562c2967dbe0e3120af3ef2a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:09:46.642365+00:00"
+}

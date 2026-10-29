@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ed604fea7ef2b1d6e73165cbe49548b5fbfc44307cd2da90e17d1f8234044727",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Наша эпоха, эпоха буржуазии, отличается тем, что упростила классовые противоположности. Всё общество всё более раскалывается на два больших враждебных лагеря, на два больших класса, прямо противостоящих друг другу: буржуазию и пролетариат.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b6592b658c8df67253915c3706bfa5c412ef90599a5c75fb94a18b0ec8930b1b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:54:27.418502+00:00"
+}

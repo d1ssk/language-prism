@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b430d26b0d121b694e870f2116c1d800721fbd2cccb989fd9fd638d33e1e734",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The history of all society up to now is a history of class struggles.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "157581a6bc0a13399c29ac9ef7852bbc96b69a4c1573f11ca34bdc91c687976d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:45:55.087176+00:00"
+}

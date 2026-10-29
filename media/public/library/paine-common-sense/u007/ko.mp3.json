@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b39dfe643a458cdd28d8a815d76668ffe52b0a6e1b25b0defc02f1b96ef82e0f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "양심의 충동이 명확하고 일관되며 거스를 수 없이 지켜진다면 인간에게 다른 입법자는 필요 없을 것이다. 그러나 그렇지 않으므로 나머지 재산을 보호할 수단을 마련하려고 일부를 내놓아야 한다고 여긴다. 그를 그렇게 이끄는 것은 다른 모든 경우에도 두 악 가운데 작은 것을 고르라고 권하는 바로 그 신중함이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cfbb343ec17f514c5eccad336e1465f5e6f2eac61675700c5c8b64294265ad67",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:09:11.748630+00:00"
+}

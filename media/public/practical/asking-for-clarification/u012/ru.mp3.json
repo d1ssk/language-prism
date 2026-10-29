@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "784f84b2be75ec70434a038e7d1cb1081924aba7a782b0d937cb5184e965697c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Попробуйте повторить за мной.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "05714daeab396410c4cd69353001c4e9fc33107a362a944079babb59acd3597a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:47:05.589912+00:00"
+}

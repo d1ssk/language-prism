@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3c15b6bd28a03a8ceafd012071f50823767cbf45a33f2f1994166036d42afa41",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, estoy de vacaciones.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a3852be9aff63a653c5ea590c091426379fb36bcc8cb782786bda13d495d1a1f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:23.336987+00:00"
+}

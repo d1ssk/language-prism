@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7593a85fc14b2f2ce06cdf4bc4b09a2fce6988ac93b6d8b5ec0b445dcbb36399",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Aquitania stretches from the Garumna to the Pyrenees and the part of the ocean adjoining Hispania; it faces between sunset and north.]",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4c8bd8c644eb69ed269e9a94dbc69ac3556ca4b544b093c2dc68d57ed8239b47",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:37:58.034981+00:00"
+}

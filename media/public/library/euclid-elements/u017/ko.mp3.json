@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a9266e00ef7097ec598639dc58909eff79810119f85edee6b77b80f85effedfa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "원의 지름은 중심을 지나 양쪽이 원주에서 끝나는 직선이며, 원을 같은 두 부분으로 나눈다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "10bd1d5c93b60be50f68fc0dc443288bd37770973b5aadfd5b2a44170acb3ed6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:24:23.932114+00:00"
+}

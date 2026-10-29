@@ -57,24 +57,136 @@
       "languages": {
         "ja": {
           "text": "人間の出来事の成り行きの中で、ある人民がほかの人民と結んできた政治的なつながりを解き、自然の法と自然の神の法によって認められる独立した対等の地位を、地上の諸勢力の間に占める必要が生じることがある。そのとき、人類の意見をしかるべく尊重するならば、分離へと自らを促す理由を明らかにしなければならない。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "政治的なつながり",
+              "meaning": {
+                "ja": "二つの人民を結んできた統治上の関係です。",
+                "en": "The political relationship linking two peoples."
+              }
+            },
+            {
+              "term": "独立した対等の地位",
+              "meaning": {
+                "ja": "ほかの勢力と別個かつ平等に立つ立場です。",
+                "en": "A separate and equal standing among other powers."
+              }
+            },
+            {
+              "term": "しかるべく尊重",
+              "meaning": {
+                "ja": "相手の意見を適切に重んじることです。",
+                "en": "Showing proper regard for others’ opinions."
+              }
+            },
+            {
+              "term": "分離へと自らを促す理由",
+              "meaning": {
+                "ja": "政治的な結び付きを解く決断に至った原因です。",
+                "en": "The reasons driving the decision to separate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜とき、〜しなければならない",
+              "explanation": {
+                "ja": "分離が必要になる状況を置き、理由を説明する義務を結論にします。",
+                "en": "The condition of necessary separation leads to a duty to state reasons."
+              }
+            },
+            {
+              "point": "〜を解き、〜地位を占める",
+              "explanation": {
+                "ja": "旧来の政治関係を終え、新しい対等の立場を取る二段階を並べます。",
+                "en": "The paired verbs move from ending the old tie to assuming a new equal standing."
+              }
+            },
+            {
+              "point": "〜によって認められる",
+              "explanation": {
+                "ja": "独立と平等の根拠を「自然の法」と「自然の神の法」に帰します。",
+                "en": "The passive wording grounds the claimed standing in the laws of nature and Nature’s God."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "冒頭は独立の理由を公に示す必要性を論じます。「自然の神」は宣言文にある表現で、その解釈をここで特定しません。",
+              "en": "The opening argues for publicly stating the reasons for independence. “Nature’s God” is the document’s phrase; this sentence does not define its theology."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "にんげんのできごとのなりゆきのなかで、あるじんみんがほかのじんみんとむすんできたせいじてきなつながりをとき、しぜんのほうとしぜんのかみのほうによってみとめられるどくりつしたたいとうのちいを、ちじょうのしょせいりょくのあいだにしめるひつようがしょうじることがある。そのとき、じんるいのいけんをしかるべくそんちょうするならば、ぶんりへとみずからをうながすりゆうをあきらかにしなければならない。"
+          "ttsText": "にんげんのできごとのなりゆきのなかで、あるじんみんがほかのじんみんとむすんできたせいじてきなつながりをとき、しぜんのほうとしぜんのかみのほうによってみとめられるどくりつしたたいとうのちいを、ちじょうのしょせいりょくのあいだにしめるひつようがしょうじることがある。そのとき、じんるいのいけんをしかるべくそんちょうするならば、ぶんりへとみずからをうながすりゆうをあきらかにしなければならない。",
+          "audio": {
+            "path": "library/declaration-independence/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "political bands",
+              "meaning": {
+                "ja": "二つの人民を結んだ政治的な絆です。",
+                "en": "Political ties joining two peoples."
+              }
+            },
+            {
+              "term": "separate and equal station",
+              "meaning": {
+                "ja": "他の国々と別個で対等な地位です。",
+                "en": "An independent standing equal to other powers."
+              }
+            },
+            {
+              "term": "decent respect",
+              "meaning": {
+                "ja": "他者の意見への適切な敬意です。",
+                "en": "Proper regard for others’ opinions."
+              }
+            },
+            {
+              "term": "impel",
+              "meaning": {
+                "ja": "ある行動へ強く駆り立てることです。",
+                "en": "Drive or urge toward an action."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "When ... it becomes necessary ...",
+              "explanation": {
+                "ja": "長い時の従属節で分離が必要となる状況を定め、主節へ進みます。",
+                "en": "The long opening clause sets the circumstances before the main claim."
+              }
+            },
+            {
+              "point": "to dissolve ... and to assume ...",
+              "explanation": {
+                "ja": "二つの不定詞が、旧来の結び付きを解くことと新しい地位を取ることを並べます。",
+                "en": "Paired infinitives connect dissolving the old ties with taking a new standing."
+              }
+            },
+            {
+              "point": "respect ... requires that they should declare ...",
+              "explanation": {
+                "ja": "主節のrequiresが説明の義務を述べ、that節がその内容を示します。",
+                "en": "Requires states the obligation, and the that clause specifies the declaration of causes."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "one people は「一人」ではなく一つの人民・政治共同体。長い when 節の後に、主節の主語 a decent respect が現れます。",
-              "en": "One people denotes a political community, not one person. The main-clause subject a decent respect follows the long when clause."
+              "ja": "「自然の法」と「自然の神の法」を地位の根拠として挙げますが、この文はその内容を詳しく定義しません。",
+              "en": "The Laws of Nature and of Nature’s God are named as the basis of the claimed standing; the sentence does not define either term in detail."
             }
           ],
           "translation": {
@@ -82,61 +194,366 @@
             "reviewStatus": "unreviewed",
             "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
           },
-          "ttsText": "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+          "ttsText": "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.",
+          "audio": {
+            "path": "library/declaration-independence/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Cuando, en el curso de los acontecimientos humanos, un pueblo necesita disolver los vínculos políticos que lo han unido a otro y ocupar entre las potencias de la tierra la posición separada e igual a la que le dan derecho las leyes de la naturaleza y del Dios de la naturaleza, el debido respeto a las opiniones de la humanidad exige que exponga las causas que lo impulsan a separarse.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "vínculos políticos",
+              "meaning": {
+                "ja": "二つの人民を結ぶ政治上の関係です。",
+                "en": "Political ties joining two peoples."
+              }
+            },
+            {
+              "term": "posición separada e igual",
+              "meaning": {
+                "ja": "別個でありながら、他の勢力と対等な地位です。",
+                "en": "A separate standing equal to other powers."
+              }
+            },
+            {
+              "term": "debido respeto",
+              "meaning": {
+                "ja": "相手の意見へのふさわしい敬意です。",
+                "en": "Proper respect for others’ opinions."
+              }
+            },
+            {
+              "term": "exponga las causas",
+              "meaning": {
+                "ja": "理由を公に説明することです。",
+                "en": "State publicly the causes or reasons."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Cuando ... exige que ...",
+              "explanation": {
+                "ja": "長い時の節で状況を定め、主節で理由を示す必要を述べます。",
+                "en": "The opening time clause sets the situation; the main clause states the duty to explain."
+              }
+            },
+            {
+              "point": "disolver ... y ocupar ...",
+              "explanation": {
+                "ja": "政治的な結び付きを解くことと対等な地位を取ることを並べます。",
+                "en": "The paired infinitives join ending old ties with taking a new standing."
+              }
+            },
+            {
+              "point": "exige que exponga",
+              "explanation": {
+                "ja": "要求を表すexigeの後で接続法を使い、求められる行為を示します。",
+                "en": "The subjunctive after exige que marks the action required."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "las leyes de la naturaleza y del Dios de la naturalezaは本文が挙げる根拠であり、その宗教的な意味はここでは定義されません。",
+              "en": "The laws of nature and of Nature’s God are cited as grounds; their theological meaning is not defined here."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Cuando, en el curso de los acontecimientos humanos, un pueblo necesita disolver los vínculos políticos que lo han unido a otro y ocupar entre las potencias de la tierra la posición separada e igual a la que le dan derecho las leyes de la naturaleza y del Dios de la naturaleza, el debido respeto a las opiniones de la humanidad exige que exponga las causas que lo impulsan a separarse."
+          "ttsText": "Cuando, en el curso de los acontecimientos humanos, un pueblo necesita disolver los vínculos políticos que lo han unido a otro y ocupar entre las potencias de la tierra la posición separada e igual a la que le dan derecho las leyes de la naturaleza y del Dios de la naturaleza, el debido respeto a las opiniones de la humanidad exige que exponga las causas que lo impulsan a separarse.",
+          "audio": {
+            "path": "library/declaration-independence/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Lorsque, dans le cours des événements humains, un peuple doit dissoudre les liens politiques qui l’ont uni à un autre et prendre parmi les puissances de la terre la place distincte et égale que lui accordent les lois de la nature et du Dieu de la nature, le respect dû aux opinions de l’humanité exige qu’il expose les causes qui le poussent à la séparation.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "liens politiques",
+              "meaning": {
+                "ja": "二つの人民を結ぶ政治的な関係です。",
+                "en": "Political ties between two peoples."
+              }
+            },
+            {
+              "term": "place distincte et égale",
+              "meaning": {
+                "ja": "別個で、他の勢力と対等な地位です。",
+                "en": "A separate and equal standing."
+              }
+            },
+            {
+              "term": "respect dû",
+              "meaning": {
+                "ja": "示すべき当然の敬意です。",
+                "en": "Respect that is properly owed."
+              }
+            },
+            {
+              "term": "causes qui le poussent",
+              "meaning": {
+                "ja": "分離へと促す理由です。",
+                "en": "The reasons driving the people toward separation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Lorsque ... exige ...",
+              "explanation": {
+                "ja": "長い時の節に分離の状況を置き、主節で説明の必要を述べます。",
+                "en": "The long time clause sets the circumstances; the main clause demands an explanation."
+              }
+            },
+            {
+              "point": "dissoudre ... et prendre ...",
+              "explanation": {
+                "ja": "旧来の結び付きを解くことと新しい地位に立つことを並べます。",
+                "en": "Paired infinitives join ending the old ties with taking a new place."
+              }
+            },
+            {
+              "point": "exige qu’il expose",
+              "explanation": {
+                "ja": "要求を表すexigeの後で接続法を使い、説明する行為を示します。",
+                "en": "The subjunctive after exige presents the required act of explanation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "自然と「自然の神」の法は独立の根拠として挙げられ、ここではその教義を定義しません。",
+              "en": "The laws of nature and of Nature’s God are invoked as grounds without defining a doctrine here."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Lorsque, dans le cours des événements humains, un peuple doit dissoudre les liens politiques qui l’ont uni à un autre et prendre parmi les puissances de la terre la place distincte et égale que lui accordent les lois de la nature et du Dieu de la nature, le respect dû aux opinions de l’humanité exige qu’il expose les causes qui le poussent à la séparation."
+          "ttsText": "Lorsque, dans le cours des événements humains, un peuple doit dissoudre les liens politiques qui l’ont uni à un autre et prendre parmi les puissances de la terre la place distincte et égale que lui accordent les lois de la nature et du Dieu de la nature, le respect dû aux opinions de l’humanité exige qu’il expose les causes qui le poussent à la séparation.",
+          "audio": {
+            "path": "library/declaration-independence/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Wenn es im Lauf menschlicher Ereignisse für ein Volk nötig wird, die politischen Bande zu lösen, die es mit einem anderen verbunden haben, und unter den Mächten der Erde die selbstständige und gleiche Stellung einzunehmen, zu der die Gesetze der Natur und ihres Gottes es berechtigen, verlangt angemessene Achtung vor den Meinungen der Menschheit, die Gründe für die Trennung darzulegen.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "politischen Bande",
+              "meaning": {
+                "ja": "二つの人民を結ぶ政治的な絆です。",
+                "en": "Political bonds joining two peoples."
+              }
+            },
+            {
+              "term": "selbstständige und gleiche Stellung",
+              "meaning": {
+                "ja": "独立し、他の勢力と対等な地位です。",
+                "en": "An independent and equal standing."
+              }
+            },
+            {
+              "term": "angemessene Achtung",
+              "meaning": {
+                "ja": "相手の意見に払うふさわしい敬意です。",
+                "en": "Appropriate respect for others’ opinions."
+              }
+            },
+            {
+              "term": "Gründe für die Trennung",
+              "meaning": {
+                "ja": "分離に至る理由です。",
+                "en": "Reasons for the separation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wenn ... verlangt ...",
+              "explanation": {
+                "ja": "長い条件節で分離が必要な状況を示し、主節で理由の公表を要求します。",
+                "en": "The long conditional clause sets the need to separate; the main clause requires reasons."
+              }
+            },
+            {
+              "point": "zu lösen ... einzunehmen",
+              "explanation": {
+                "ja": "二つのzu不定詞が、結び付きを解くことと地位を取ることを並べます。",
+                "en": "The paired zu infinitives join ending ties with assuming a new standing."
+              }
+            },
+            {
+              "point": "zu der ... berechtigen",
+              "explanation": {
+                "ja": "関係節がStellungを修飾し、その地位の根拠を自然の法則に帰します。",
+                "en": "The relative clause modifies Stellung and grounds that standing in the named laws."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Natur und ihres Gottesは本文の根拠表現です。その宗教的解釈をこの文だけから決めません。",
+              "en": "Nature and its God are invoked as grounds; this sentence alone does not settle their theological meaning."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Wenn es im Lauf menschlicher Ereignisse für ein Volk nötig wird, die politischen Bande zu lösen, die es mit einem anderen verbunden haben, und unter den Mächten der Erde die selbstständige und gleiche Stellung einzunehmen, zu der die Gesetze der Natur und ihres Gottes es berechtigen, verlangt angemessene Achtung vor den Meinungen der Menschheit, die Gründe für die Trennung darzulegen."
+          "ttsText": "Wenn es im Lauf menschlicher Ereignisse für ein Volk nötig wird, die politischen Bande zu lösen, die es mit einem anderen verbunden haben, und unter den Mächten der Erde die selbstständige und gleiche Stellung einzunehmen, zu der die Gesetze der Natur und ihres Gottes es berechtigen, verlangt angemessene Achtung vor den Meinungen der Menschheit, die Gründe für die Trennung darzulegen.",
+          "audio": {
+            "path": "library/declaration-independence/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Когда в ходе человеческих событий народу становится необходимо разорвать политические узы, соединявшие его с другим, и занять среди земных держав отдельное и равное положение, на которое дают ему право законы природы и Бога природы, должное уважение к мнению человечества требует объявить причины, побуждающие его к отделению.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "политические узы",
+              "meaning": {
+                "ja": "二つの人民を結ぶ政治的な絆です。",
+                "en": "Political ties joining two peoples."
+              }
+            },
+            {
+              "term": "отдельное и равное положение",
+              "meaning": {
+                "ja": "別個であり、他の勢力と対等な地位です。",
+                "en": "A separate and equal standing."
+              }
+            },
+            {
+              "term": "должное уважение",
+              "meaning": {
+                "ja": "相手の意見への当然の敬意です。",
+                "en": "Proper respect for others’ opinions."
+              }
+            },
+            {
+              "term": "причины, побуждающие",
+              "meaning": {
+                "ja": "分離を促す理由です。",
+                "en": "Reasons prompting separation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Когда ... требует ...",
+              "explanation": {
+                "ja": "長い時の節で分離の必要を説明し、主節で理由を示す義務を述べます。",
+                "en": "The long time clause sets the need to separate; the main clause demands reasons."
+              }
+            },
+            {
+              "point": "разорвать ... и занять ...",
+              "explanation": {
+                "ja": "結び付きを断つことと新しい地位に立つことを並べます。",
+                "en": "The paired infinitives join breaking ties with taking a new standing."
+              }
+            },
+            {
+              "point": "на которое дают ему право ...",
+              "explanation": {
+                "ja": "関係節がположениеを修飾し、その地位に対する権利の根拠を示します。",
+                "en": "The relative clause modifies положение and names the basis of that entitlement."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「自然の法」と「自然の神」の法は独立の根拠として挙げられ、その宗教的意味はここでは詳述されません。",
+              "en": "The laws of nature and Nature’s God are invoked as grounds, without theological explanation here."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Когда в ходе человеческих событий народу становится необходимо разорвать политические узы, соединявшие его с другим, и занять среди земных держав отдельное и равное положение, на которое дают ему право законы природы и Бога природы, должное уважение к мнению человечества требует объявить причины, побуждающие его к отделению."
+          "ttsText": "Когда в ходе человеческих событий народу становится необходимо разорвать политические узы, соединявшие его с другим, и занять среди земных держав отдельное и равное положение, на которое дают ему право законы природы и Бога природы, должное уважение к мнению человечества требует объявить причины, побуждающие его к отделению.",
+          "audio": {
+            "path": "library/declaration-independence/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "عِنْدَمَا يَصِيرُ مِنَ الضَّرُورِيِّ فِي مَجْرَى الْأَحْدَاثِ الْبَشَرِيَّةِ أَنْ يَحُلَّ شَعْبٌ الرَّوَابِطَ السِّيَاسِيَّةَ الَّتِي وَصَلَتْهُ بِشَعْبٍ آخَرَ، وَأَنْ يَتَّخِذَ بَيْنَ قُوَى الْأَرْضِ مَكَانَةً مُسْتَقِلَّةً وَمُتَسَاوِيَةً تُخَوِّلُهَا لَهُ قَوَانِينُ الطَّبِيعَةِ وَإِلَهِ الطَّبِيعَةِ، فَإِنَّ الِاحْتِرَامَ الْوَاجِبَ لِآرَاءِ الْبَشَرِيَّةِ يَقْتَضِي أَنْ يُعْلِنَ الْأَسْبَابَ الَّتِي تَدْفَعُهُ إِلَى الِانْفِصَالِ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "الرَّوَابِطَ السِّيَاسِيَّةَ",
+              "meaning": {
+                "ja": "二つの人民を結んできた政治上の関係です。",
+                "en": "Political ties joining two peoples."
+              }
+            },
+            {
+              "term": "مَكَانَةً مُسْتَقِلَّةً وَمُتَسَاوِيَةً",
+              "meaning": {
+                "ja": "別個で対等な地位です。",
+                "en": "A separate and equal standing."
+              }
+            },
+            {
+              "term": "الِاحْتِرَامَ الْوَاجِبَ",
+              "meaning": {
+                "ja": "人類の意見に払うべき敬意です。",
+                "en": "Respect owed to the opinions of humanity."
+              }
+            },
+            {
+              "term": "الْأَسْبَابَ",
+              "meaning": {
+                "ja": "分離の決定に至る理由です。",
+                "en": "The causes leading to separation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "عِنْدَمَا ... فَإِنَّ ...",
+              "explanation": {
+                "ja": "長い時の節で分離が必要になる状況を置き、فَإِنَّ以下で説明の義務を述べます。",
+                "en": "The long temporal clause sets the circumstances; فَإِنَّ introduces the duty to explain."
+              }
+            },
+            {
+              "point": "أَنْ يَحُلَّ ... وَأَنْ يَتَّخِذَ",
+              "explanation": {
+                "ja": "أن＋動詞を繰り返し、旧来の関係を解くことと新しい地位を取ることを並べます。",
+                "en": "Repeated أن clauses pair dissolving old ties with taking a new standing."
+              }
+            },
+            {
+              "point": "يَقْتَضِي أَنْ يُعْلِنَ",
+              "explanation": {
+                "ja": "「求める」の後でأن節を用い、求められる行為を示します。",
+                "en": "The أن clause after “requires” specifies the public declaration of causes."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "قَوَانِينُ الطَّبِيعَةِ وَإِلَهِ الطَّبِيعَةِは主張する地位の根拠として挙げられ、その教義はここでは説明されません。",
+              "en": "The laws of nature and Nature’s God are invoked as grounds for the claimed standing; no doctrine is specified here."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -146,13 +563,74 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "ʿIndamā yaṣīru mina aḍ-ḍarūriyyi fī majrā al-ʾaḥdāthi al-bashariyyati ʾan yaḥulla shaʿbun ar-rawābiṭa as-siyāsiyyata allatī waṣalathu bi-shaʿbin ʾākhara, wa-ʾan yattakhidha bayna quwā al-ʾarḍi makānatan mustaqillatan wa-mutasāwiyatan tukhawwiluhā lahu qawānīnu aṭ-ṭabīʿati wa-ʾilāhi aṭ-ṭabīʿati, fa-ʾinna al-iḥtirāma al-wājiba li-ʾārāʾi al-bashariyyati yaqtaḍī ʾan yuʿlina al-ʾasbāba allatī tadfaʿuhu ʾilā al-infiṣāli."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "在人类事务的发展过程中，当一个民族必须解除曾把它同另一个民族联系起来的政治纽带，并在世界各强国之间取得自然法和自然之神的法赋予它的独立而平等的地位时，对人类意见应有的尊重，要求它说明促使自己分离的原因。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "政治纽带",
+              "meaning": {
+                "ja": "二つの民族を結ぶ政治上のつながりです。",
+                "en": "Political ties connecting two peoples."
+              }
+            },
+            {
+              "term": "独立而平等的地位",
+              "meaning": {
+                "ja": "別個に立ち、他の勢力と対等な地位です。",
+                "en": "An independent standing equal to other powers."
+              }
+            },
+            {
+              "term": "应有的尊重",
+              "meaning": {
+                "ja": "人類の意見に払うべき適切な敬意です。",
+                "en": "Proper respect due to the opinions of humanity."
+              }
+            },
+            {
+              "term": "促使自己分离的原因",
+              "meaning": {
+                "ja": "分離を選ぶよう促した理由です。",
+                "en": "The causes prompting separation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "当……时，……要求……",
+              "explanation": {
+                "ja": "分離が必要な状況を時の節に置き、主節で理由を示す必要を述べます。",
+                "en": "The time clause sets the circumstances; the main clause requires reasons."
+              }
+            },
+            {
+              "point": "解除……并……取得……",
+              "explanation": {
+                "ja": "旧来の結び付きを解き、新しい地位を取る順序を示します。",
+                "en": "The linked verbs move from ending old ties to assuming a new standing."
+              }
+            },
+            {
+              "point": "赋予它的",
+              "explanation": {
+                "ja": "修飾句が地位を限定し、自然法をその根拠にします。",
+                "en": "The modifier qualifies the standing and attributes it to the named laws."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「自然之神」は宣言文の表現で、ここではその宗教的な意味を定義しません。",
+              "en": "“Nature’s God” is the document’s phrase; the sentence does not define its theological meaning."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -162,19 +640,85 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Zài rénlèi shìwù de fāzhǎn guòchéng zhōng, dāng yī ge mínzú bìxū jiěchú céng bǎ tā tóng lìng yī ge mínzú liánxì qǐlái de zhèngzhì niǔdài, bìng zài shìjiè gè qiángguó zhī jiān qǔdé zìránfǎ hé zìrán zhī shén de fǎ fùyǔ tā de dúlì ér píngděng de dìwèi shí, duì rénlèi yìjiàn yīng yǒu de zūnzhòng, yāoqiú tā shuōmíng cùshǐ zìjǐ fēnlí de yuányīn."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "인간사의 흐름에서 한 인민이 다른 인민과 맺어 온 정치적 유대를 풀고, 자연법과 자연의 신의 법이 부여하는 독립적이고 평등한 지위를 지상의 여러 세력 사이에서 차지해야 할 때가 있다. 그때 인류의 의견에 대한 마땅한 존중은 그들이 분리를 택하게 된 이유를 밝힐 것을 요구한다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "정치적 유대",
+              "meaning": {
+                "ja": "二つの人民を結んできた政治上のつながりです。",
+                "en": "Political ties between two peoples."
+              }
+            },
+            {
+              "term": "독립적이고 평등한 지위",
+              "meaning": {
+                "ja": "別個に立ち、他の勢力と対等な地位です。",
+                "en": "An independent and equal standing."
+              }
+            },
+            {
+              "term": "마땅한 존중",
+              "meaning": {
+                "ja": "人類の意見に払うべき適切な敬意です。",
+                "en": "Proper respect owed to others’ opinions."
+              }
+            },
+            {
+              "term": "분리를 택하게 된 이유",
+              "meaning": {
+                "ja": "分離を選ぶに至った理由です。",
+                "en": "The reasons for choosing separation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "풀고 ... 차지해야 할 때",
+              "explanation": {
+                "ja": "結び付きを解き、新しい地位を取る必要が生じる時を示します。",
+                "en": "The linked verbs state when ending old ties and taking a new standing become necessary."
+              }
+            },
+            {
+              "point": "요구한다",
+              "explanation": {
+                "ja": "二文目の結論で、理由を明らかにすることを求めます。",
+                "en": "The second sentence states the demand to make the reasons public."
+              }
+            },
+            {
+              "point": "법이 부여하는",
+              "explanation": {
+                "ja": "法を地位の根拠として、後続の「地位」を修飾します。",
+                "en": "This modifier presents the named laws as the source of the standing."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「自然의 신」は本文が挙げる根拠表現で、その宗教的解釈はここでは定義されません。",
+              "en": "“Nature’s God” is invoked as a ground; its theological interpretation is not defined here."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "인간사의 흐름에서 한 인민이 다른 인민과 맺어 온 정치적 유대를 풀고, 자연법과 자연의 신의 법이 부여하는 독립적이고 평등한 지위를 지상의 여러 세력 사이에서 차지해야 할 때가 있다. 그때 인류의 의견에 대한 마땅한 존중은 그들이 분리를 택하게 된 이유를 밝힐 것을 요구한다."
+          "ttsText": "인간사의 흐름에서 한 인민이 다른 인민과 맺어 온 정치적 유대를 풀고, 자연법과 자연의 신의 법이 부여하는 독립적이고 평등한 지위를 지상의 여러 세력 사이에서 차지해야 할 때가 있다. 그때 인류의 의견에 대한 마땅한 존중은 그들이 분리를 택하게 된 이유를 밝힐 것을 요구한다.",
+          "audio": {
+            "path": "library/declaration-independence/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -183,24 +727,129 @@
       "languages": {
         "ja": {
           "text": "私たちは次の真理を自明と考える。すべての人は平等につくられ、創造主から一定の譲り渡すことのできない権利を与えられており、その中には生命、自由、幸福の追求があるということである。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "自明",
+              "meaning": {
+                "ja": "証明を待たず明らかだと主張することです。",
+                "en": "Presented as evident without further proof."
+              }
+            },
+            {
+              "term": "譲り渡すことのできない権利",
+              "meaning": {
+                "ja": "他者へ移したり手放したりできないとする権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "幸福の追求",
+              "meaning": {
+                "ja": "幸福を求める活動を指し、幸福の保証とは異なります。",
+                "en": "The pursuit of happiness, rather than a guarantee of happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "次の真理を自明と考える",
+              "explanation": {
+                "ja": "著者たちの立場を先に宣言し、後でその内容を列挙します。",
+                "en": "The claim of self-evidence comes first, followed by the truths themselves."
+              }
+            },
+            {
+              "point": "〜、〜、その中には〜",
+              "explanation": {
+                "ja": "平等、権利の授与、権利の例という順に論理を積み重ねます。",
+                "en": "The sentence moves from equality to endowed rights and then examples of rights."
+              }
+            },
+            {
+              "point": "〜ということである",
+              "explanation": {
+                "ja": "前の列挙全体を、冒頭の「真理」の内容としてまとめます。",
+                "en": "The final phrase gathers the whole list as the content of the truths."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「すべての人は平等」は宣言文の原則です。歴史上の実際の権利保障が全員に等しかったという記述ではありません。",
+              "en": "“All are created equal” is the declaration’s principle, not a report that rights were equally protected for everyone at the time."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "わたしたちはつぎのしんりをじめいとかんがえる。すべてのひとはびょうどうにつくられ、そうぞうしゅからいっていのゆずりわたすことのできないけんりをあたえられており、そのなかにはせいめい、じゆう、こうふくのついきゅうがあるということである。"
+          "ttsText": "わたしたちはつぎのしんりをじめいとかんがえる。すべてのひとはびょうどうにつくられ、そうぞうしゅからいっていのゆずりわたすことのできないけんりをあたえられており、そのなかにはせいめい、じゆう、こうふくのついきゅうがあるということである。",
+          "audio": {
+            "path": "library/declaration-independence/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "self-evident",
+              "meaning": {
+                "ja": "証明を要しないほど明らかだと述べます。",
+                "en": "Held to be obvious without further proof."
+              }
+            },
+            {
+              "term": "endowed",
+              "meaning": {
+                "ja": "授けられた、という意味です。",
+                "en": "Given or furnished with."
+              }
+            },
+            {
+              "term": "unalienable Rights",
+              "meaning": {
+                "ja": "譲渡・放棄できないと主張される権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "pursuit of Happiness",
+              "meaning": {
+                "ja": "幸福を追い求めることで、幸福の保証ではありません。",
+                "en": "The seeking of happiness, not a promise of happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "hold ... to be ...",
+              "explanation": {
+                "ja": "目的語these truthsにself-evidentという評価を付けます。",
+                "en": "The object complement self-evident states the speakers’ judgment of the truths."
+              }
+            },
+            {
+              "point": "that ... that ... that ...",
+              "explanation": {
+                "ja": "三つのthat節が、何を真理とみなすかを段階的に列挙します。",
+                "en": "Three parallel that clauses spell out the truths in sequence."
+              }
+            },
+            {
+              "point": "are created / are endowed",
+              "explanation": {
+                "ja": "二つの受け身が、人間の平等と権利の授与を述べます。",
+                "en": "The paired passives state equality in creation and the granting of rights."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "unalienable は譲渡できないという意味。幸福そのものの保証ではなく、幸福を追求する権利を挙げています。",
-              "en": "Unalienable means incapable of being transferred away. The passage names a right to pursue happiness, not a guarantee of happiness."
+              "ja": "“All men”は宣言文の普遍的な主張を示す時代的表現で、当時すべての人が平等に保護されたという証拠ではありません。",
+              "en": "“All men” is the document’s historical wording for its universal claim; the sentence is not evidence that everyone then enjoyed equal legal protection."
             }
           ],
           "translation": {
@@ -208,61 +857,338 @@
             "reviewStatus": "unreviewed",
             "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
           },
-          "ttsText": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+          "ttsText": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.",
+          "audio": {
+            "path": "library/declaration-independence/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Consideramos evidentes estas verdades: que todos los seres humanos son creados iguales, que su Creador los dota de ciertos derechos inalienables y que entre ellos están la vida, la libertad y la búsqueda de la felicidad.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "evidentes",
+              "meaning": {
+                "ja": "証明を要しないほど明らかだとみなすことです。",
+                "en": "Held to be clear without further proof."
+              }
+            },
+            {
+              "term": "derechos inalienables",
+              "meaning": {
+                "ja": "譲渡・放棄できないと主張される権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "búsqueda de la felicidad",
+              "meaning": {
+                "ja": "幸福を追求することです。幸福の保証ではありません。",
+                "en": "The pursuit of happiness, not a guarantee of it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Consideramos ... estas verdades",
+              "explanation": {
+                "ja": "話し手たちの判断を先に示し、後に真理の内容を並べます。",
+                "en": "The speakers’ judgment comes first, followed by the truths."
+              }
+            },
+            {
+              "point": "que ... que ... y que ...",
+              "explanation": {
+                "ja": "平等、権利の授与、その例を並列の節で積み上げます。",
+                "en": "Parallel clauses build from equality to endowed rights and their examples."
+              }
+            },
+            {
+              "point": "son creados / los dota",
+              "explanation": {
+                "ja": "受け身の平等の主張と、創造主が権利を与える能動文を組み合わせます。",
+                "en": "A passive claim of equality is followed by an active clause granting rights."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この文は平等を原則として掲げますが、当時の現実に全員の権利が等しく保障されたと述べるものではありません。",
+              "en": "This states equality as a principle, not as evidence of equal protection for everyone at the time."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Consideramos evidentes estas verdades: que todos los seres humanos son creados iguales, que su Creador los dota de ciertos derechos inalienables y que entre ellos están la vida, la libertad y la búsqueda de la felicidad."
+          "ttsText": "Consideramos evidentes estas verdades: que todos los seres humanos son creados iguales, que su Creador los dota de ciertos derechos inalienables y que entre ellos están la vida, la libertad y la búsqueda de la felicidad.",
+          "audio": {
+            "path": "library/declaration-independence/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Nous tenons pour évidentes ces vérités : tous les êtres humains sont créés égaux ; leur Créateur les a dotés de certains droits inaliénables, parmi lesquels la vie, la liberté et la recherche du bonheur.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "évidentes",
+              "meaning": {
+                "ja": "証明を要しないほど明らかだとみなすことです。",
+                "en": "Held to be clear without further proof."
+              }
+            },
+            {
+              "term": "droits inaliénables",
+              "meaning": {
+                "ja": "譲渡・放棄できないと主張する権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "recherche du bonheur",
+              "meaning": {
+                "ja": "幸福を求めることで、幸福そのものの保証ではありません。",
+                "en": "The pursuit of happiness, not a guarantee of happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "tenons pour évidentes",
+              "explanation": {
+                "ja": "tenir ... pour ...で、真理を自明と評価します。",
+                "en": "Tenir ... pour ... states how the speakers judge these truths."
+              }
+            },
+            {
+              "point": "sont créés / les a dotés",
+              "explanation": {
+                "ja": "平等を受け身で述べ、権利の授与を能動文で続けます。",
+                "en": "A passive states equality, followed by an active clause granting rights."
+              }
+            },
+            {
+              "point": "parmi lesquels ...",
+              "explanation": {
+                "ja": "先行するdroitsを受け、その中身を三つ挙げます。",
+                "en": "This refers back to the rights and names three examples."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "平等は宣言が掲げる原則であり、当時全員の権利が平等に保障されたという事実の記述ではありません。",
+              "en": "Equality is the declaration’s principle, not a claim that everyone actually received equal legal protection then."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Nous tenons pour évidentes ces vérités : tous les êtres humains sont créés égaux ; leur Créateur les a dotés de certains droits inaliénables, parmi lesquels la vie, la liberté et la recherche du bonheur."
+          "ttsText": "Nous tenons pour évidentes ces vérités : tous les êtres humains sont créés égaux ; leur Créateur les a dotés de certains droits inaliénables, parmi lesquels la vie, la liberté et la recherche du bonheur.",
+          "audio": {
+            "path": "library/declaration-independence/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Wir halten diese Wahrheiten für selbstverständlich: Alle Menschen sind gleich geschaffen, ihr Schöpfer hat sie mit gewissen unveräußerlichen Rechten ausgestattet, darunter Leben, Freiheit und das Streben nach Glück.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "selbstverständlich",
+              "meaning": {
+                "ja": "証明を要しないほど自明だとみなします。",
+                "en": "Treated as self-evident."
+              }
+            },
+            {
+              "term": "unveräußerlichen Rechten",
+              "meaning": {
+                "ja": "譲渡・放棄できないとする権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "Streben nach Glück",
+              "meaning": {
+                "ja": "幸福を追い求めることです。幸福の保証ではありません。",
+                "en": "The pursuit of happiness, not a guarantee of it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "halten ... für ...",
+              "explanation": {
+                "ja": "真理を自明なものと評価する構文です。",
+                "en": "The construction expresses the speakers’ judgment that the truths are self-evident."
+              }
+            },
+            {
+              "point": "geschaffen / ausgestattet",
+              "explanation": {
+                "ja": "平等な創造と権利の授与を、対応する二つの述語で並べます。",
+                "en": "The two predicates move from equal creation to endowment with rights."
+              }
+            },
+            {
+              "point": "darunter ...",
+              "explanation": {
+                "ja": "前のRechtenを受け、三つの権利を例示します。",
+                "en": "Darunter refers back to the rights and lists three of them."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "平等は宣言文の原則として述べられます。当時の現実に全員が等しい保護を受けたという記述ではありません。",
+              "en": "Equality is presented as a principle, not as evidence that everyone then enjoyed equal protection."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Wir halten diese Wahrheiten für selbstverständlich: Alle Menschen sind gleich geschaffen, ihr Schöpfer hat sie mit gewissen unveräußerlichen Rechten ausgestattet, darunter Leben, Freiheit und das Streben nach Glück."
+          "ttsText": "Wir halten diese Wahrheiten für selbstverständlich: Alle Menschen sind gleich geschaffen, ihr Schöpfer hat sie mit gewissen unveräußerlichen Rechten ausgestattet, darunter Leben, Freiheit und das Streben nach Glück.",
+          "audio": {
+            "path": "library/declaration-independence/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Мы считаем самоочевидными следующие истины: все люди созданы равными, их Создатель наделил их определёнными неотчуждаемыми правами, среди которых жизнь, свобода и стремление к счастью.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "самоочевидными",
+              "meaning": {
+                "ja": "証明せずとも明らかだと評価することです。",
+                "en": "Judged self-evident."
+              }
+            },
+            {
+              "term": "неотчуждаемыми правами",
+              "meaning": {
+                "ja": "譲渡・放棄できないと主張する権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "стремление к счастью",
+              "meaning": {
+                "ja": "幸福を求めることです。幸福の保証ではありません。",
+                "en": "The pursuit of happiness, not a guarantee of it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "считаем ... истины",
+              "explanation": {
+                "ja": "「真理を自明と考える」と評価を先に示します。",
+                "en": "The verb construction states the speakers’ judgment of the truths."
+              }
+            },
+            {
+              "point": "созданы ... наделил ...",
+              "explanation": {
+                "ja": "人間の平等と権利の授与を順に述べます。",
+                "en": "The clauses move from equal creation to the granting of rights."
+              }
+            },
+            {
+              "point": "среди которых ...",
+              "explanation": {
+                "ja": "「権利」を受け、その例として三つを挙げます。",
+                "en": "The relative phrase refers to the rights and lists three examples."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "平等は宣言文の掲げる原則です。当時すべての人が平等に権利を保障されたという事実の記述ではありません。",
+              "en": "Equality is the stated principle, not a report of equal rights protection for everyone at the time."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Мы считаем самоочевидными следующие истины: все люди созданы равными, их Создатель наделил их определёнными неотчуждаемыми правами, среди которых жизнь, свобода и стремление к счастью."
+          "ttsText": "Мы считаем самоочевидными следующие истины: все люди созданы равными, их Создатель наделил их определёнными неотчуждаемыми правами, среди которых жизнь, свобода и стремление к счастью.",
+          "audio": {
+            "path": "library/declaration-independence/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "نَعُدُّ هَذِهِ الْحَقَائِقَ بَدِيهِيَّةً: أَنَّ جَمِيعَ الْبَشَرِ خُلِقُوا مُتَسَاوِينَ، وَأَنَّ خَالِقَهُمْ مَنَحَهُمْ حُقُوقًا مُعَيَّنَةً لَا يَجُوزُ التَّنَازُلُ عَنْهَا، وَأَنَّ مِنْ بَيْنِهَا الْحَيَاةَ وَالْحُرِّيَّةَ وَالسَّعْيَ إِلَى السَّعَادَةِ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "بَدِيهِيَّةً",
+              "meaning": {
+                "ja": "証明を待たず明らかだとみなすことです。",
+                "en": "Held to be self-evident."
+              }
+            },
+            {
+              "term": "حُقُوقًا مُعَيَّنَةً",
+              "meaning": {
+                "ja": "一定の、特定の権利です。",
+                "en": "Certain specified rights."
+              }
+            },
+            {
+              "term": "لَا يَجُوزُ التَّنَازُلُ عَنْهَا",
+              "meaning": {
+                "ja": "譲渡・放棄できないとすることです。",
+                "en": "Claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "السَّعْيَ إِلَى السَّعَادَةِ",
+              "meaning": {
+                "ja": "幸福を追求することで、その実現の保証ではありません。",
+                "en": "The pursuit of happiness, not a guarantee of attaining it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "نَعُدُّ ... بَدِيهِيَّةً",
+              "explanation": {
+                "ja": "目的語「真理」に「自明」という評価を付けます。",
+                "en": "The construction judges the truths to be self-evident."
+              }
+            },
+            {
+              "point": "أَنَّ ... وَأَنَّ ... وَأَنَّ ...",
+              "explanation": {
+                "ja": "平等、権利の授与、その例を三つの並列節で示します。",
+                "en": "Three parallel clauses set out equality, endowed rights, and examples."
+              }
+            },
+            {
+              "point": "خُلِقُوا / مَنَحَهُمْ",
+              "explanation": {
+                "ja": "受け身で平等な創造を、能動で創造主による権利の授与を述べます。",
+                "en": "A passive states equal creation; an active verb grants rights through the Creator."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "平等は宣言が掲げる原則であり、当時全員の権利が等しく保護されたという事実の説明ではありません。",
+              "en": "Equality is the declaration’s principle, not evidence that everyone’s rights were equally protected at the time."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -272,13 +1198,67 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Naʿuddu hādhihi al-ḥaqāʾiqa badīhiyyatan: ʾanna jamīʿa al-bashari khuliqū mutasāwīna, wa-ʾanna khāliqahum manaḥahum ḥuqūqan muʿayyanatan lā yajūzu at-tanāzulu ʿanhā, wa-ʾanna min baynihā al-ḥayāta wa-al-ḥurriyyata wa-as-saʿya ʾilā as-saʿādati."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "我们认为这些真理不言而喻：人人生而平等，造物主赋予他们某些不可转让的权利，其中包括生命、自由和追求幸福。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "不言而喻",
+              "meaning": {
+                "ja": "言葉で説明しなくても明らかだとすることです。",
+                "en": "Held to be obvious without explanation."
+              }
+            },
+            {
+              "term": "不可转让的权利",
+              "meaning": {
+                "ja": "譲渡・放棄できないとする権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "追求幸福",
+              "meaning": {
+                "ja": "幸福を求めることで、幸福を必ず得る保証ではありません。",
+                "en": "Seeking happiness, not a guarantee of obtaining it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "认为……不言而喻",
+              "explanation": {
+                "ja": "主張する真理への評価を先に示します。",
+                "en": "The construction introduces the speakers’ judgment of the truths."
+              }
+            },
+            {
+              "point": "人人……，造物主……，其中……",
+              "explanation": {
+                "ja": "平等、権利の授与、その例を順に並べます。",
+                "en": "The clauses move from equality to endowed rights and then examples."
+              }
+            },
+            {
+              "point": "其中包括……",
+              "explanation": {
+                "ja": "先行する権利を受け、生命・自由・幸福追求を具体化します。",
+                "en": "其中 refers to the rights and specifies life, liberty, and pursuit of happiness."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "平等は宣言文が掲げる原則です。当時すべての人が平等に保護されたという事実の記述ではありません。",
+              "en": "Equality is a principle stated by the declaration, not evidence of equal protection for everyone then."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -288,19 +1268,78 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒmen rènwéi zhèxiē zhēnlǐ bù yán ér yù: rénrén shēng ér píngděng, Zàowùzhǔ fùyǔ tāmen mǒuxiē bù kě zhuǎnràng de quánlì, qízhōng bāokuò shēngmìng, zìyóu hé zhuīqiú xìngfú."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "우리는 다음 진리를 자명하다고 여긴다. 모든 사람은 평등하게 창조되었으며, 창조주로부터 양도할 수 없는 일정한 권리를 받았고, 그 가운데에는 생명, 자유, 행복의 추구가 있다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "자명하다",
+              "meaning": {
+                "ja": "証明を要しないほど明らかだとみなすことです。",
+                "en": "Held to be self-evident."
+              }
+            },
+            {
+              "term": "양도할 수 없는 권리",
+              "meaning": {
+                "ja": "他者へ移したり手放したりできないとする権利です。",
+                "en": "Rights claimed not to be transferable or surrendered."
+              }
+            },
+            {
+              "term": "행복의 추구",
+              "meaning": {
+                "ja": "幸福を求めることで、幸福の保証ではありません。",
+                "en": "The pursuit of happiness, not a guarantee of it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "진리를 자명하다고 여긴다",
+              "explanation": {
+                "ja": "話し手たちの評価を先に述べ、その内容を次の文で示します。",
+                "en": "The speakers’ judgment comes first, followed by the content of the truths."
+              }
+            },
+            {
+              "point": "창조되었으며 ... 받았고",
+              "explanation": {
+                "ja": "平等な創造と権利の授与を連結して述べます。",
+                "en": "The linked predicates move from equal creation to endowed rights."
+              }
+            },
+            {
+              "point": "그 가운데에는 ...",
+              "explanation": {
+                "ja": "前の「権利」を受け、三つの例を挙げます。",
+                "en": "This points back to the rights and names three examples."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "平等は宣言文の原則として述べられます。当時の全員への平等な権利保障を記述したものではありません。",
+              "en": "Equality is the declaration’s stated principle, not a report of equal rights protection for everyone at the time."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "우리는 다음 진리를 자명하다고 여긴다. 모든 사람은 평등하게 창조되었으며, 창조주로부터 양도할 수 없는 일정한 권리를 받았고, 그 가운데에는 생명, 자유, 행복의 추구가 있다."
+          "ttsText": "우리는 다음 진리를 자명하다고 여긴다. 모든 사람은 평등하게 창조되었으며, 창조주로부터 양도할 수 없는 일정한 권리를 받았고, 그 가운데에는 생명, 자유, 행복의 추구가 있다.",
+          "audio": {
+            "path": "library/declaration-independence/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -309,24 +1348,129 @@
       "languages": {
         "ja": {
           "text": "これらの権利を確保するために、人々の間に政府が設けられ、その正当な権力は統治される者の同意に由来する。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "これらの権利",
+              "meaning": {
+                "ja": "u002の生命・自由・幸福追求などの権利です。",
+                "en": "The rights named in u002, including life, liberty, and pursuit of happiness."
+              }
+            },
+            {
+              "term": "正当な権力",
+              "meaning": {
+                "ja": "正当性を持つとされる統治の力です。",
+                "en": "Governing power claimed to be legitimate."
+              }
+            },
+            {
+              "term": "統治される者の同意",
+              "meaning": {
+                "ja": "統治を受ける人々が認めることです。",
+                "en": "The approval of those subject to government."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜ために",
+              "explanation": {
+                "ja": "政府を設ける目的を、権利の確保として示します。",
+                "en": "The purpose clause identifies protection of rights as the reason for government."
+              }
+            },
+            {
+              "point": "政府が設けられ",
+              "explanation": {
+                "ja": "受け身で、政府の設立を一般的な原則として述べます。",
+                "en": "The passive presents establishing governments as a general principle."
+              }
+            },
+            {
+              "point": "〜に由来する",
+              "explanation": {
+                "ja": "権力の正当性の源を、統治される者の同意に置きます。",
+                "en": "The phrase locates the source of legitimate power in the governed people’s consent."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002の権利からu003の政府の目的と権限へ、論理が進みます。",
+              "en": "The argument moves from the rights in u002 to the purpose and authority of government."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "これらのけんりをかくほするために、ひとびとのあいだにせいふがもうけられ、そのせいとうなけんりょくはとうちされるもののどういにゆらいする。"
+          "ttsText": "これらのけんりをかくほするために、ひとびとのあいだにせいふがもうけられ、そのせいとうなけんりょくはとうちされるもののどういにゆらいする。",
+          "audio": {
+            "path": "library/declaration-independence/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "secure these rights",
+              "meaning": {
+                "ja": "u002の権利を守り、確保することです。",
+                "en": "Protect and ensure the rights named in u002."
+              }
+            },
+            {
+              "term": "instituted",
+              "meaning": {
+                "ja": "制度として設けられることです。",
+                "en": "Established as institutions."
+              }
+            },
+            {
+              "term": "just powers",
+              "meaning": {
+                "ja": "正当性を持つ統治権限です。",
+                "en": "Governing authority regarded as legitimate."
+              }
+            },
+            {
+              "term": "consent of the governed",
+              "meaning": {
+                "ja": "統治される人々の同意です。",
+                "en": "The agreement of people subject to the government."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "That to secure ...",
+              "explanation": {
+                "ja": "u002の「真理」の列挙を続け、政府を作る目的を不定詞で先に示します。",
+                "en": "The opening That continues the listed truths from u002; the infinitive gives the purpose."
+              }
+            },
+            {
+              "point": "Governments are instituted ...",
+              "explanation": {
+                "ja": "受け身で、政府の設立を一般原則として述べます。",
+                "en": "The passive presents establishing governments as a general principle."
+              }
+            },
+            {
+              "point": "deriving ... from ...",
+              "explanation": {
+                "ja": "分詞句が政府を補足し、正当な権力の由来を同意に置きます。",
+                "en": "The participial phrase explains the source of legitimate powers as consent."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "governed は統治される人々。deriving は政府の権力の由来を説明します。",
-              "en": "The governed are the people subject to government; deriving explains the source of governmental power."
+              "ja": "冒頭のダッシュと末尾のコンマは、この主張がu004へ続く長い列挙の一部であることを示します。",
+              "en": "The initial dashes and final comma show that this is part of a longer sequence of claims continued in u004."
             }
           ],
           "translation": {
@@ -334,61 +1478,352 @@
             "reviewStatus": "unreviewed",
             "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
           },
-          "ttsText": "--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,"
+          "ttsText": "--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,",
+          "audio": {
+            "path": "library/declaration-independence/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Para garantizar estos derechos se instituyen gobiernos entre los seres humanos, cuyos poderes legítimos proceden del consentimiento de los gobernados.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "garantizar estos derechos",
+              "meaning": {
+                "ja": "u002の権利を確保することです。",
+                "en": "Secure the rights named in u002."
+              }
+            },
+            {
+              "term": "gobiernos",
+              "meaning": {
+                "ja": "人々を統治する制度としての政府です。",
+                "en": "Governments as institutions of rule."
+              }
+            },
+            {
+              "term": "poderes legítimos",
+              "meaning": {
+                "ja": "正当性を持つ統治権限です。",
+                "en": "Governing powers regarded as legitimate."
+              }
+            },
+            {
+              "term": "consentimiento de los gobernados",
+              "meaning": {
+                "ja": "統治を受ける人々の同意です。",
+                "en": "Consent of those governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Para garantizar ...",
+              "explanation": {
+                "ja": "para＋不定詞が政府設立の目的を示します。",
+                "en": "Para plus infinitive states the purpose of instituting governments."
+              }
+            },
+            {
+              "point": "se instituyen gobiernos",
+              "explanation": {
+                "ja": "再帰受け身で、政府が設けられるという一般原則を述べます。",
+                "en": "The se passive presents the institution of governments as a general principle."
+              }
+            },
+            {
+              "point": "cuyos poderes ...",
+              "explanation": {
+                "ja": "関係詞cuyosが政府とその権力を結び、正当性の源を説明します。",
+                "en": "Cuyos links governments to their powers and explains their source."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002の権利を守る目的と、統治される側の同意を権限の根拠として結び付けます。",
+              "en": "The sentence links protection of u002’s rights with consent as the basis of authority."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Para garantizar estos derechos se instituyen gobiernos entre los seres humanos, cuyos poderes legítimos proceden del consentimiento de los gobernados."
+          "ttsText": "Para garantizar estos derechos se instituyen gobiernos entre los seres humanos, cuyos poderes legítimos proceden del consentimiento de los gobernados.",
+          "audio": {
+            "path": "library/declaration-independence/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Pour garantir ces droits, des gouvernements sont institués parmi les êtres humains ; leurs pouvoirs légitimes viennent du consentement des gouvernés.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "garantir ces droits",
+              "meaning": {
+                "ja": "u002で挙げた権利を確保することです。",
+                "en": "Secure the rights named in u002."
+              }
+            },
+            {
+              "term": "pouvoirs légitimes",
+              "meaning": {
+                "ja": "正当性を持つ統治権限です。",
+                "en": "Governing powers regarded as legitimate."
+              }
+            },
+            {
+              "term": "consentement des gouvernés",
+              "meaning": {
+                "ja": "統治を受ける人々の同意です。",
+                "en": "Consent of the governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Pour garantir ...",
+              "explanation": {
+                "ja": "pour＋不定詞が政府設立の目的を示します。",
+                "en": "Pour plus infinitive states the purpose of instituting governments."
+              }
+            },
+            {
+              "point": "sont institués",
+              "explanation": {
+                "ja": "受け身で、政府が設けられるという一般原則を述べます。",
+                "en": "The passive presents governments as instituted among people."
+              }
+            },
+            {
+              "point": "leurs pouvoirs ... viennent de ...",
+              "explanation": {
+                "ja": "所有表現で政府の権限を受け、その正当性の源を同意とします。",
+                "en": "Leurs points back to governments; the predicate names consent as the source of their powers."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "セミコロンは政府を設ける目的と、その権限の根拠を一つの主張として結びます。",
+              "en": "The semicolon joins the purpose of government with the source of its authority."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Pour garantir ces droits, des gouvernements sont institués parmi les êtres humains ; leurs pouvoirs légitimes viennent du consentement des gouvernés."
+          "ttsText": "Pour garantir ces droits, des gouvernements sont institués parmi les êtres humains ; leurs pouvoirs légitimes viennent du consentement des gouvernés.",
+          "audio": {
+            "path": "library/declaration-independence/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Zur Sicherung dieser Rechte werden unter den Menschen Regierungen eingesetzt, deren rechtmäßige Gewalt aus der Zustimmung der Regierten hervorgeht.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Sicherung dieser Rechte",
+              "meaning": {
+                "ja": "u002の権利を守り確保することです。",
+                "en": "Protection of the rights stated in u002."
+              }
+            },
+            {
+              "term": "rechtmäßige Gewalt",
+              "meaning": {
+                "ja": "正当な統治権限です。",
+                "en": "Legitimate governing authority."
+              }
+            },
+            {
+              "term": "Zustimmung der Regierten",
+              "meaning": {
+                "ja": "統治される人々の同意です。",
+                "en": "Consent of the governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Zur Sicherung ...",
+              "explanation": {
+                "ja": "zu＋名詞化表現が政府を設ける目的を示します。",
+                "en": "Zur plus the nominalized Sicherung states the purpose of government."
+              }
+            },
+            {
+              "point": "werden ... eingesetzt",
+              "explanation": {
+                "ja": "受け身で、政府が人々の間に設けられると述べます。",
+                "en": "The passive presents governments as established among people."
+              }
+            },
+            {
+              "point": "deren ... hervorgeht",
+              "explanation": {
+                "ja": "属格の関係代名詞がRegierungenを受け、正当な権力の源を示します。",
+                "en": "The genitive relative pronoun links governments to powers arising from consent."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この文は権利を守るという目的と、統治を受ける側の同意という正当性の根拠を対にします。",
+              "en": "The sentence pairs protection of rights with consent as the ground of legitimacy."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Zur Sicherung dieser Rechte werden unter den Menschen Regierungen eingesetzt, deren rechtmäßige Gewalt aus der Zustimmung der Regierten hervorgeht."
+          "ttsText": "Zur Sicherung dieser Rechte werden unter den Menschen Regierungen eingesetzt, deren rechtmäßige Gewalt aus der Zustimmung der Regierten hervorgeht.",
+          "audio": {
+            "path": "library/declaration-independence/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Для обеспечения этих прав люди учреждают правительства, чья законная власть происходит от согласия управляемых.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "обеспечения этих прав",
+              "meaning": {
+                "ja": "u002の権利を確保することです。",
+                "en": "Ensuring the rights named in u002."
+              }
+            },
+            {
+              "term": "учреждают правительства",
+              "meaning": {
+                "ja": "政府を制度として設けることです。",
+                "en": "Establish governments as institutions."
+              }
+            },
+            {
+              "term": "законная власть",
+              "meaning": {
+                "ja": "正当とされる統治権力です。",
+                "en": "Governing power regarded as lawful or legitimate."
+              }
+            },
+            {
+              "term": "согласия управляемых",
+              "meaning": {
+                "ja": "統治される人々の同意です。",
+                "en": "Consent of the governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Для обеспечения ...",
+              "explanation": {
+                "ja": "для＋名詞の属格で、政府設立の目的を示します。",
+                "en": "Для plus a genitive noun gives the purpose of government."
+              }
+            },
+            {
+              "point": "люди учреждают ...",
+              "explanation": {
+                "ja": "ロシア語は人々を主語にして、政府を設ける行為を能動で述べます。",
+                "en": "The Russian text makes people the active agents who establish governments."
+              }
+            },
+            {
+              "point": "чья ... происходит от ...",
+              "explanation": {
+                "ja": "関係語чьяが政府の権力を受け、その源を同意に置きます。",
+                "en": "The relative чья links government to its authority and traces it to consent."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002の権利から政府の目的と権限へ進む論理は、英語本文と対応しています。",
+              "en": "The move from u002’s rights to government’s purpose and authority matches the source argument."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Для обеспечения этих прав люди учреждают правительства, чья законная власть происходит от согласия управляемых."
+          "ttsText": "Для обеспечения этих прав люди учреждают правительства, чья законная власть происходит от согласия управляемых.",
+          "audio": {
+            "path": "library/declaration-independence/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "وَلِضَمَانِ هَذِهِ الْحُقُوقِ تُنْشَأُ حُكُومَاتٌ بَيْنَ الْبَشَرِ، تَسْتَمِدُّ سُلُطَاتِهَا الْمَشْرُوعَةَ مِنْ رِضَا الْمَحْكُومِينَ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "هَذِهِ الْحُقُوقِ",
+              "meaning": {
+                "ja": "u002で挙げた権利を指します。",
+                "en": "The rights named in u002."
+              }
+            },
+            {
+              "term": "حُكُومَاتٌ",
+              "meaning": {
+                "ja": "人々の間に設けられる統治制度です。",
+                "en": "Governments established among people."
+              }
+            },
+            {
+              "term": "سُلُطَاتِهَا الْمَشْرُوعَةَ",
+              "meaning": {
+                "ja": "政府の正当な権限です。",
+                "en": "Their legitimate governing powers."
+              }
+            },
+            {
+              "term": "رِضَا الْمَحْكُومِينَ",
+              "meaning": {
+                "ja": "統治を受ける人々の同意です。",
+                "en": "Consent of the governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "وَلِضَمَانِ ...",
+              "explanation": {
+                "ja": "لِ＋動名詞で、政府設立の目的を権利の保障と示します。",
+                "en": "لِ plus a verbal noun states the purpose of government as securing rights."
+              }
+            },
+            {
+              "point": "تُنْشَأُ حُكُومَاتٌ",
+              "explanation": {
+                "ja": "受け身動詞で政府の設立を一般原則として述べます。",
+                "en": "The passive verb presents the establishment of governments as a general rule."
+              }
+            },
+            {
+              "point": "تَسْتَمِدُّ ... مِنْ ...",
+              "explanation": {
+                "ja": "政府の正当な権力が、統治される側の同意から得られると述べます。",
+                "en": "The verb and مِن trace legitimate powers to consent of the governed."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "接尾代名詞هاはحُكُومَاتٌを受け、その政府の権力を指します。",
+              "en": "The suffix ها refers to the governments and identifies their powers."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -398,13 +1833,67 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-li-ḍamāni hādhihi al-ḥuqūqi tunshaʾu ḥukūmātun bayna al-bashari, tastamiddu suluṭātihā al-mashrūʿata min riḍā al-maḥkūmīna."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "为了保障这些权利，人们建立政府，政府的正当权力来自被统治者的同意。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "这些权利",
+              "meaning": {
+                "ja": "u002の生命・自由・幸福追求などの権利です。",
+                "en": "The rights named in u002."
+              }
+            },
+            {
+              "term": "正当权力",
+              "meaning": {
+                "ja": "正当性を持つとされる統治権限です。",
+                "en": "Governing power regarded as legitimate."
+              }
+            },
+            {
+              "term": "被统治者的同意",
+              "meaning": {
+                "ja": "統治を受ける人々の同意です。",
+                "en": "Consent of those governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "为了……",
+              "explanation": {
+                "ja": "政府を設ける目的を権利の保障として示します。",
+                "en": "The purpose phrase identifies rights protection as the reason for government."
+              }
+            },
+            {
+              "point": "人们建立政府",
+              "explanation": {
+                "ja": "人々を主語にし、政府を設ける行為を能動で述べます。",
+                "en": "The people are made the agents who establish government."
+              }
+            },
+            {
+              "point": "来自……",
+              "explanation": {
+                "ja": "正当な権力の由来を統治される側の同意に置きます。",
+                "en": "This locates the source of legitimate power in the governed people’s consent."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002の権利を出発点に、政府の目的と権限の正当性を説明します。",
+              "en": "The sentence starts from u002’s rights and explains government’s purpose and legitimacy."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -414,19 +1903,78 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Wèile bǎozhàng zhèxiē quánlì, rénmen jiànlì zhèngfǔ, zhèngfǔ de zhèngdàng quánlì láizì bèi tǒngzhìzhě de tóngyì."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "이 권리를 보장하기 위해 사람들 사이에 정부가 세워지며, 그 정당한 권력은 통치받는 이들의 동의에서 나온다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "이 권리",
+              "meaning": {
+                "ja": "u002の生命・自由・幸福追求などの権利です。",
+                "en": "The rights stated in u002."
+              }
+            },
+            {
+              "term": "정당한 권력",
+              "meaning": {
+                "ja": "正当性を持つとされる統治権限です。",
+                "en": "Governing power regarded as legitimate."
+              }
+            },
+            {
+              "term": "통치받는 이들의 동의",
+              "meaning": {
+                "ja": "統治を受ける人々の同意です。",
+                "en": "Consent of those who are governed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "보장하기 위해",
+              "explanation": {
+                "ja": "政府を設ける目的を権利の保障と示します。",
+                "en": "The purpose clause gives protection of rights as the reason for government."
+              }
+            },
+            {
+              "point": "정부가 세워지며",
+              "explanation": {
+                "ja": "受け身で政府の成立を述べ、次にその権限の根拠へ進みます。",
+                "en": "The passive states the establishment of government before its source of authority."
+              }
+            },
+            {
+              "point": "동의에서 나온다",
+              "explanation": {
+                "ja": "出所を示す-에서で、正当な権力が同意に由来すると述べます。",
+                "en": "The source marker -에서 presents consent as the origin of legitimate power."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u002の権利から、政府の目的とその権限の根拠へ論理が続きます。",
+              "en": "The argument moves from u002’s rights to the purpose and authority of government."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "이 권리를 보장하기 위해 사람들 사이에 정부가 세워지며, 그 정당한 권력은 통치받는 이들의 동의에서 나온다."
+          "ttsText": "이 권리를 보장하기 위해 사람들 사이에 정부가 세워지며, 그 정당한 권력은 통치받는 이들의 동의에서 나온다.",
+          "audio": {
+            "path": "library/declaration-independence/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -435,81 +1983,510 @@
       "languages": {
         "ja": {
           "text": "いかなる政体であれ、これらの目的を損なうものとなるとき、人民にはそれを変更し、あるいは廃止して、新しい政府を設ける権利がある。その基礎をしかるべき原則の上に据え、その権力を、自らの安全と幸福を最もよく実現できると思われる形に組み立てる権利である。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "政体",
+              "meaning": {
+                "ja": "政府の形や統治の仕組みです。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "これらの目的",
+              "meaning": {
+                "ja": "u003の権利の保障を指します。",
+                "en": "The protection of rights stated in u003."
+              }
+            },
+            {
+              "term": "廃止",
+              "meaning": {
+                "ja": "その政府の仕組みを終わらせることです。",
+                "en": "Abolishing the existing governing system."
+              }
+            },
+            {
+              "term": "安全と幸福",
+              "meaning": {
+                "ja": "新政府の設計で人民が実現を目指すものです。",
+                "en": "The people’s desired safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "いかなる〜であれ、〜とき",
+              "explanation": {
+                "ja": "政体の種類を問わず、目的を損なう場合に権利が生じると述べます。",
+                "en": "The conditional applies to any form of government that defeats its purpose."
+              }
+            },
+            {
+              "point": "変更し、あるいは廃止して",
+              "explanation": {
+                "ja": "小さな変更から制度の廃止まで、人民の選択肢を並べます。",
+                "en": "The paired verbs list altering or abolishing the existing government."
+              }
+            },
+            {
+              "point": "〜と思われる形に",
+              "explanation": {
+                "ja": "新政府の原則と権力の組み立てを、人民の判断に委ねます。",
+                "en": "The phrase leaves the design of the new government to the people’s judgment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「これらの目的」はu003の権利の保障を受けます。ここでは一般原則を述べ、u005で変更には慎重さが必要だと続けます。",
+              "en": "“These ends” refers to securing rights in u003. This principle is qualified by prudence in u005."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "いかなるせいたいであれ、これらのもくてきをそこなうものとなるとき、じんみんにはそれをへんこうし、あるいははいしして、あたらしいせいふをもうけるけんりがある。そのきそをしかるべきげんそくのうえにすえ、そのけんりょくを、みずからのあんぜんとこうふくをもっともよくじつげんできるとおもわれるかたちにくみたてるけんりである。"
+          "ttsText": "いかなるせいたいであれ、これらのもくてきをそこなうものとなるとき、じんみんにはそれをへんこうし、あるいははいしして、あたらしいせいふをもうけるけんりがある。そのきそをしかるべきげんそくのうえにすえ、そのけんりょくを、みずからのあんぜんとこうふくをもっともよくじつげんできるとおもわれるかたちにくみたてるけんりである。",
+          "audio": {
+            "path": "library/declaration-independence/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "--That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "destructive of these ends",
+              "meaning": {
+                "ja": "u003の権利保障という目的を損なうことです。",
+                "en": "Defeating the purpose of securing rights in u003."
+              }
+            },
+            {
+              "term": "alter or abolish",
+              "meaning": {
+                "ja": "政府を改めるか、廃止することです。",
+                "en": "Change or end the existing government."
+              }
+            },
+            {
+              "term": "institute new Government",
+              "meaning": {
+                "ja": "新しい統治の仕組みを設けることです。",
+                "en": "Establish a new government."
+              }
+            },
+            {
+              "term": "effect their Safety and Happiness",
+              "meaning": {
+                "ja": "人民の安全と幸福を実現することです。",
+                "en": "Bring about the people’s safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "That whenever ... it is the Right ...",
+              "explanation": {
+                "ja": "u003から続く真理の列挙で、条件節の後に人民の権利を述べます。",
+                "en": "Another truth follows u003: the conditional clause leads to the people’s right."
+              }
+            },
+            {
+              "point": "to alter ... to abolish ... to institute ...",
+              "explanation": {
+                "ja": "並列した不定詞が既存の政府を変える・廃する・新設する選択肢を示します。",
+                "en": "Parallel infinitives list changing, abolishing, and replacing government."
+              }
+            },
+            {
+              "point": "laying ... and organizing ...",
+              "explanation": {
+                "ja": "分詞句が、新政府の基礎と権力をどう設計するかを補足します。",
+                "en": "The participles add how the new government’s principles and powers are arranged."
+              }
+            },
+            {
+              "point": "as to them shall seem ...",
+              "explanation": {
+                "ja": "to themは人民の判断を示し、安全と幸福に最も適する形を選ぶと述べます。",
+                "en": "To them locates the judgment with the people: what seems best for their safety and happiness."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「目的」はu003の権利保障です。u005では長く続いた政府を変える際の慎重さをすぐに加えます。",
+              "en": "The “ends” are the protection of rights in u003. U005 immediately adds a caution about changing long-established governments."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
             "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
           },
-          "ttsText": "--That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness."
+          "ttsText": "--That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.",
+          "audio": {
+            "path": "library/declaration-independence/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Siempre que una forma de gobierno destruya estos fines, el pueblo tiene derecho a modificarla o abolirla e instituir un nuevo gobierno, asentándolo sobre los principios y organizando sus poderes de la forma que juzgue más adecuada para lograr su seguridad y felicidad.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "forma de gobierno",
+              "meaning": {
+                "ja": "政府の形や統治制度です。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "estos fines",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The aim of securing rights in u003."
+              }
+            },
+            {
+              "term": "modificarla o abolirla",
+              "meaning": {
+                "ja": "既存の政府を変えるか廃止することです。",
+                "en": "Alter or abolish the existing government."
+              }
+            },
+            {
+              "term": "seguridad y felicidad",
+              "meaning": {
+                "ja": "人民が新政府に望む安全と幸福です。",
+                "en": "The people’s desired safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Siempre que ...",
+              "explanation": {
+                "ja": "どのような政体でも、目的を壊す場合に当てはまる条件を示します。",
+                "en": "The conditional applies whenever a form of government defeats these aims."
+              }
+            },
+            {
+              "point": "modificarla ... e instituir ...",
+              "explanation": {
+                "ja": "代名詞laは政体を受け、変更・廃止から新設までの行為を並べます。",
+                "en": "La refers to the form of government; the verbs move from changing or ending it to creating another."
+              }
+            },
+            {
+              "point": "de la forma que juzgue ...",
+              "explanation": {
+                "ja": "人民が最適と判断する形で権力を組織することを示します。",
+                "en": "The clause leaves the form of the new powers to the people’s judgment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「これらの目的」はu003の権利保障です。u005では長く続いた政府の変更に慎重であるべきだと補います。",
+              "en": "“These ends” points to protecting rights in u003; u005 adds caution about changing established governments."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Siempre que una forma de gobierno destruya estos fines, el pueblo tiene derecho a modificarla o abolirla e instituir un nuevo gobierno, asentándolo sobre los principios y organizando sus poderes de la forma que juzgue más adecuada para lograr su seguridad y felicidad."
+          "ttsText": "Siempre que una forma de gobierno destruya estos fines, el pueblo tiene derecho a modificarla o abolirla e instituir un nuevo gobierno, asentándolo sobre los principios y organizando sus poderes de la forma que juzgue más adecuada para lograr su seguridad y felicidad.",
+          "audio": {
+            "path": "library/declaration-independence/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Chaque fois qu’une forme de gouvernement détruit ces fins, le peuple a le droit de la modifier ou de l’abolir et d’instituer un nouveau gouvernement, en le fondant sur les principes et en organisant ses pouvoirs de la manière qui lui paraît la plus propre à assurer sa sécurité et son bonheur.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "forme de gouvernement",
+              "meaning": {
+                "ja": "統治の形や制度です。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "ces fins",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The purpose of securing rights in u003."
+              }
+            },
+            {
+              "term": "modifier ou abolir",
+              "meaning": {
+                "ja": "既存の政府を変えるか廃止することです。",
+                "en": "Change or abolish the existing government."
+              }
+            },
+            {
+              "term": "sécurité et bonheur",
+              "meaning": {
+                "ja": "人民が新政府に求める安全と幸福です。",
+                "en": "The people’s desired safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Chaque fois que ...",
+              "explanation": {
+                "ja": "政府が目的を損なう場合を一般的な条件として示します。",
+                "en": "The opening clause gives a general condition when government defeats its aims."
+              }
+            },
+            {
+              "point": "a le droit de ... et d’instituer ...",
+              "explanation": {
+                "ja": "人民に、変更・廃止と新設の権利があると並べます。",
+                "en": "The construction lists the people’s rights to change, abolish, and replace government."
+              }
+            },
+            {
+              "point": "en le fondant ... en organisant ...",
+              "explanation": {
+                "ja": "en＋現在分詞が、新政府の基礎と権力を設計する方法を補います。",
+                "en": "The paired gerunds explain how the new government is founded and organized."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ces finsはu003の権利保障を指します。u005では、政府の変更に慎重さを求める補足が続きます。",
+              "en": "Ces fins refers to protecting rights in u003; u005 immediately adds a prudential caution."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Chaque fois qu’une forme de gouvernement détruit ces fins, le peuple a le droit de la modifier ou de l’abolir et d’instituer un nouveau gouvernement, en le fondant sur les principes et en organisant ses pouvoirs de la manière qui lui paraît la plus propre à assurer sa sécurité et son bonheur."
+          "ttsText": "Chaque fois qu’une forme de gouvernement détruit ces fins, le peuple a le droit de la modifier ou de l’abolir et d’instituer un nouveau gouvernement, en le fondant sur les principes et en organisant ses pouvoirs de la manière qui lui paraît la plus propre à assurer sa sécurité et son bonheur.",
+          "audio": {
+            "path": "library/declaration-independence/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Sobald irgendeine Regierungsform diese Ziele zerstört, hat das Volk das Recht, sie zu ändern oder abzuschaffen und eine neue Regierung einzusetzen, sie auf solche Grundsätze zu gründen und ihre Gewalten so zu ordnen, wie es ihm zur Verwirklichung seiner Sicherheit und seines Glücks am geeignetsten erscheint.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Regierungsform",
+              "meaning": {
+                "ja": "統治の形や制度です。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "diese Ziele",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The goal of protecting rights in u003."
+              }
+            },
+            {
+              "term": "abzuschaffen",
+              "meaning": {
+                "ja": "既存の制度を廃止することです。",
+                "en": "To abolish the existing system."
+              }
+            },
+            {
+              "term": "Sicherheit und Glück",
+              "meaning": {
+                "ja": "人民が新政府に望む安全と幸福です。",
+                "en": "The people’s desired safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Sobald ...",
+              "explanation": {
+                "ja": "政府が目的を損なえば権利が生じるという条件を示します。",
+                "en": "The opening clause sets the condition under which the right arises."
+              }
+            },
+            {
+              "point": "sie zu ändern oder abzuschaffen",
+              "explanation": {
+                "ja": "sieはRegierungsformを受け、変更と廃止を選択肢として並べます。",
+                "en": "Sie refers to the form of government and links alteration with abolition."
+              }
+            },
+            {
+              "point": "wie es ihm ... erscheint",
+              "explanation": {
+                "ja": "ihmはVolkを受け、人民が適切と判断する形を示します。",
+                "en": "Ihm refers to the people, whose judgment determines the suitable design."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "diese Zieleはu003の権利保障を受け、u005では既存政府を変える際の慎重さが続きます。",
+              "en": "Diese Ziele recalls securing rights in u003; u005 adds caution about changing established government."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Sobald irgendeine Regierungsform diese Ziele zerstört, hat das Volk das Recht, sie zu ändern oder abzuschaffen und eine neue Regierung einzusetzen, sie auf solche Grundsätze zu gründen und ihre Gewalten so zu ordnen, wie es ihm zur Verwirklichung seiner Sicherheit und seines Glücks am geeignetsten erscheint."
+          "ttsText": "Sobald irgendeine Regierungsform diese Ziele zerstört, hat das Volk das Recht, sie zu ändern oder abzuschaffen und eine neue Regierung einzusetzen, sie auf solche Grundsätze zu gründen und ihre Gewalten so zu ordnen, wie es ihm zur Verwirklichung seiner Sicherheit und seines Glücks am geeignetsten erscheint.",
+          "audio": {
+            "path": "library/declaration-independence/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Когда какая-либо форма правления становится губительной для этих целей, народ вправе изменить или упразднить её и учредить новое правительство, положив в его основу такие принципы и устроив его власть так, как сочтёт наиболее подходящим для обеспечения своей безопасности и счастья.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "форма правления",
+              "meaning": {
+                "ja": "政府の形や統治制度です。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "этих целей",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The aim of protecting rights in u003."
+              }
+            },
+            {
+              "term": "изменить или упразднить",
+              "meaning": {
+                "ja": "政府を改めるか廃止することです。",
+                "en": "Alter or abolish the government."
+              }
+            },
+            {
+              "term": "безопасности и счастья",
+              "meaning": {
+                "ja": "人民が目指す安全と幸福です。",
+                "en": "The people’s safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Когда ... становится ...",
+              "explanation": {
+                "ja": "どんな政府でも目的を損なう場合という条件を示します。",
+                "en": "The clause gives the condition when a government defeats these aims."
+              }
+            },
+            {
+              "point": "народ вправе ...",
+              "explanation": {
+                "ja": "人民が変更・廃止・新設をする権利を持つと述べます。",
+                "en": "The construction grants the people the right to alter, abolish, and institute a government."
+              }
+            },
+            {
+              "point": "положив ... и устроив ...",
+              "explanation": {
+                "ja": "完了体副動詞が、新政府の基礎と権力の設計を補います。",
+                "en": "The perfective verbal adverbs add the founding and organizing of a new government."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "этих целейはu003の権利保障を指し、u005では変更を急がない慎重さが補われます。",
+              "en": "Этих целей refers to securing rights in u003; u005 qualifies this with prudence."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Когда какая-либо форма правления становится губительной для этих целей, народ вправе изменить или упразднить её и учредить новое правительство, положив в его основу такие принципы и устроив его власть так, как сочтёт наиболее подходящим для обеспечения своей безопасности и счастья."
+          "ttsText": "Когда какая-либо форма правления становится губительной для этих целей, народ вправе изменить или упразднить её и учредить новое правительство, положив в его основу такие принципы и устроив его власть так, как сочтёт наиболее подходящим для обеспечения своей безопасности и счастья.",
+          "audio": {
+            "path": "library/declaration-independence/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "وَكُلَّمَا صَارَ أَيُّ شَكْلٍ مِنَ الْحُكْمِ هَادِمًا لِهَذِهِ الْغَايَاتِ، كَانَ مِنْ حَقِّ الشَّعْبِ تَغْيِيرُهُ أَوْ إِلْغَاؤُهُ وَإِنْشَاءُ حُكُومَةٍ جَدِيدَةٍ، يُقِيمُ أَسَاسَهَا عَلَى مَبَادِئَ وَيُنَظِّمُ سُلُطَاتِهَا بِصُورَةٍ يَرَاهَا أَقْدَرَ عَلَى تَحْقِيقِ أَمْنِهِ وَسَعَادَتِهِ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "شَكْلٍ مِنَ الْحُكْمِ",
+              "meaning": {
+                "ja": "政府の形や統治制度です。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "هَذِهِ الْغَايَاتِ",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The purpose of securing rights in u003."
+              }
+            },
+            {
+              "term": "تَغْيِيرُهُ أَوْ إِلْغَاؤُهُ",
+              "meaning": {
+                "ja": "政府を変更するか廃止することです。",
+                "en": "Changing or abolishing the government."
+              }
+            },
+            {
+              "term": "أَمْنِهِ وَسَعَادَتِهِ",
+              "meaning": {
+                "ja": "人民自身の安全と幸福です。",
+                "en": "The people’s safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كُلَّمَا ... كَانَ ...",
+              "explanation": {
+                "ja": "政府が目的を壊すたび、人民に権利があるという条件を示します。",
+                "en": "The conditional pattern says the people have a right whenever government defeats these aims."
+              }
+            },
+            {
+              "point": "مِنْ حَقِّ الشَّعْبِ ...",
+              "explanation": {
+                "ja": "人民の権利として、変更・廃止と新政府の設立を並べます。",
+                "en": "The phrase assigns the people the right to change, abolish, and replace government."
+              }
+            },
+            {
+              "point": "يُقِيمُ ... وَيُنَظِّمُ ...",
+              "explanation": {
+                "ja": "新政府の基礎となる原則と、その権力の形を並べます。",
+                "en": "The paired verbs describe founding the government and arranging its powers."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "هَذِهِ الْغَايَاتِはu003の権利保障を指し、u005では政府の変更には慎重さが必要と補います。",
+              "en": "These ends refer to securing rights in u003; u005 adds a caution about changing government."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -519,13 +2496,74 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-kullamā ṣāra ʾayyu shaklin mina al-ḥukmi hādiman li-hādhihi al-ghāyāti, kāna min ḥaqqi ash-shaʿbi taghyīruhu ʾaw ʾilghāʾuhu wa-ʾinshāʾu ḥukūmatin jadīdatin, yuqīmu ʾasāsahā ʿalā mabādiʾa wa-yunaẓẓimu suluṭātihā bi-ṣūratin yarāhā ʾaqdara ʿalā taḥqīqi ʾamnihi wa-saʿādatihi."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "任何政体一旦破坏这些目的，人民就有权改变或废除它，并建立新的政府，以他们认为最能实现自身安全和幸福的原则为基础，按相应形式组织政府的权力。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "任何政体",
+              "meaning": {
+                "ja": "どのような政府の形でも、という意味です。",
+                "en": "Any form of government."
+              }
+            },
+            {
+              "term": "这些目的",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The aim of securing rights in u003."
+              }
+            },
+            {
+              "term": "改变或废除",
+              "meaning": {
+                "ja": "政府を変えるか廃止することです。",
+                "en": "Alter or abolish the government."
+              }
+            },
+            {
+              "term": "安全和幸福",
+              "meaning": {
+                "ja": "人民が新政府に求める安全と幸福です。",
+                "en": "The people’s safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一旦……就……",
+              "explanation": {
+                "ja": "政府が目的を損なうとき、権利が生じるという条件・結果です。",
+                "en": "The conditional pattern links defeating the aims with a resulting right."
+              }
+            },
+            {
+              "point": "改变或废除……并建立……",
+              "explanation": {
+                "ja": "既存の政府を変える・廃することと、新設することを連結します。",
+                "en": "The verbs connect alteration or abolition of the old government with creating a new one."
+              }
+            },
+            {
+              "point": "以……为基础",
+              "explanation": {
+                "ja": "新政府の基礎となる原則を、人民が適切と考えるものに置きます。",
+                "en": "The pattern places the new government on principles the people judge suitable."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "这些目的はu003の権利保障を受けます。u005は、変更を急がず慎重であるべきだと続けます。",
+              "en": "These ends refers to securing rights in u003; u005 adds a caution about hasty change."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -535,19 +2573,85 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Rènhé zhèngtǐ yīdàn pòhuài zhèxiē mùdì, rénmín jiù yǒu quán gǎibiàn huò fèichú tā, bìng jiànlì xīn de zhèngfǔ, yǐ tāmen rènwéi zuì néng shíxiàn zìshēn ānquán hé xìngfú de yuánzé wéi jīchǔ, àn xiāngyìng xíngshì zǔzhī zhèngfǔ de quánlì."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "어떤 정부 형태든 이 목적을 해치게 되면, 인민은 그것을 바꾸거나 폐지하고 새로운 정부를 세울 권리가 있다. 자신들의 안전과 행복을 가장 잘 실현할 것으로 여기는 원칙에 기초를 두고 그에 맞는 형태로 권력을 조직할 권리이다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "정부 형태",
+              "meaning": {
+                "ja": "政府の形や統治制度です。",
+                "en": "A form or system of government."
+              }
+            },
+            {
+              "term": "이 목적",
+              "meaning": {
+                "ja": "u003の権利保障という目的です。",
+                "en": "The aim of securing rights in u003."
+              }
+            },
+            {
+              "term": "바꾸거나 폐지하고",
+              "meaning": {
+                "ja": "既存の政府を変えるか廃止することです。",
+                "en": "Alter or abolish the existing government."
+              }
+            },
+            {
+              "term": "안전과 행복",
+              "meaning": {
+                "ja": "人民が実現を目指す安全と幸福です。",
+                "en": "The people’s safety and happiness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "어떤 ... 든 ... 되면",
+              "explanation": {
+                "ja": "どの政体でも目的を損なう場合に権利が生じると示します。",
+                "en": "The conditional applies to any government that defeats these aims."
+              }
+            },
+            {
+              "point": "권리가 있다",
+              "explanation": {
+                "ja": "変更・廃止・新設を人民の権利として述べます。",
+                "en": "The predicate presents alteration, abolition, and replacement as the people’s right."
+              }
+            },
+            {
+              "point": "여기는 원칙에 ... 권력을 조직할",
+              "explanation": {
+                "ja": "人民が適切と考える原則と形で新政府を設計します。",
+                "en": "The modifiers leave the principles and form of power to the people’s judgment."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「この目的」はu003の権利保障を指します。u005では長く続いた政府の変更に慎重さを加えます。",
+              "en": "“These ends” refers to protecting rights in u003; u005 adds prudence to the question of change."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "어떤 정부 형태든 이 목적을 해치게 되면, 인민은 그것을 바꾸거나 폐지하고 새로운 정부를 세울 권리가 있다. 자신들의 안전과 행복을 가장 잘 실현할 것으로 여기는 원칙에 기초를 두고 그에 맞는 형태로 권력을 조직할 권리이다."
+          "ttsText": "어떤 정부 형태든 이 목적을 해치게 되면, 인민은 그것을 바꾸거나 폐지하고 새로운 정부를 세울 권리가 있다. 자신들의 안전과 행복을 가장 잘 실현할 것으로 여기는 원칙에 기초를 두고 그에 맞는 형태로 권력을 조직할 권리이다.",
+          "audio": {
+            "path": "library/declaration-independence/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -556,24 +2660,150 @@
       "languages": {
         "ja": {
           "text": "確かに慎慮は、長く確立してきた政府を軽微で一時的な理由から変えるべきではないと教える。実際、あらゆる経験が示すとおり、人間は災いに耐えられる間は、慣れ親しんだ政体を廃して自らを正すよりも、耐え忍ぶ傾向にある。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "慎慮",
+              "meaning": {
+                "ja": "結果を考え、軽率に判断しないことです。",
+                "en": "Prudence: careful judgment with consequences in mind."
+              }
+            },
+            {
+              "term": "軽微で一時的な理由",
+              "meaning": {
+                "ja": "重大でも長続きもしない理由です。",
+                "en": "Causes that are minor and temporary."
+              }
+            },
+            {
+              "term": "災いに耐えられる間",
+              "meaning": {
+                "ja": "害や苦難がまだ我慢できる間です。",
+                "en": "While harms remain bearable."
+              }
+            },
+            {
+              "term": "慣れ親しんだ政体",
+              "meaning": {
+                "ja": "人々が長く暮らしてきた統治の形です。",
+                "en": "A form of government to which people are accustomed."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "〜べきではない",
+              "explanation": {
+                "ja": "長く続く政府を小さな理由で変えないという慎重さを示します。",
+                "en": "The negative obligation urges caution about changing established governments for minor causes."
+              }
+            },
+            {
+              "point": "あらゆる経験が示すとおり",
+              "explanation": {
+                "ja": "抽象的な慎慮の原則に、人間の行動傾向という観察を添えます。",
+                "en": "The appeal to experience supports the principle with an observation about behavior."
+              }
+            },
+            {
+              "point": "〜よりも、〜傾向にある",
+              "explanation": {
+                "ja": "改革するより我慢を選びがちだという比較を示します。",
+                "en": "The comparison says people tend to endure rather than abolish familiar forms."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の政府を変える権利に慎重さを加えます。次のu006では、長く続く濫用なら事情が異なると転じます。",
+              "en": "This qualifies the right to change government in u004. U006 then turns to prolonged abuses as a different case."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "たしかにしんりょは、ながくかくりつしてきたせいふをけいびでいちじてきなりゆうからかえるべきではないとおしえる。じっさい、あらゆるけいけんがしめすとおり、にんげんはわざわいにたえられるあいだは、なれしたしんだせいたいをはいしてみずからをただすよりも、たえしのぶけいこうにある。"
+          "ttsText": "たしかにしんりょは、ながくかくりつしてきたせいふをけいびでいちじてきなりゆうからかえるべきではないとおしえる。じっさい、あらゆるけいけんがしめすとおり、にんげんはわざわいにたえられるあいだは、なれしたしんだせいたいをはいしてみずからをただすよりも、たえしのぶけいこうにある。",
+          "audio": {
+            "path": "library/declaration-independence/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed.",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "Prudence",
+              "meaning": {
+                "ja": "結果を見越して慎重に判断することです。",
+                "en": "Careful judgment that considers consequences."
+              }
+            },
+            {
+              "term": "light and transient causes",
+              "meaning": {
+                "ja": "軽く、長続きしない理由です。",
+                "en": "Minor and short-lived reasons."
+              }
+            },
+            {
+              "term": "disposed to suffer",
+              "meaning": {
+                "ja": "苦難を受け入れる傾向があることです。",
+                "en": "Inclined to endure hardship."
+              }
+            },
+            {
+              "term": "evils are sufferable",
+              "meaning": {
+                "ja": "害がまだ耐えられる状態です。",
+                "en": "Harms remain bearable."
+              }
+            },
+            {
+              "term": "right themselves",
+              "meaning": {
+                "ja": "不正を正して自らの権利を回復することです。",
+                "en": "Set matters right for themselves or restore their rights."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "will dictate that ... should not ...",
+              "explanation": {
+                "ja": "慎慮がどんな判断を求めるかをthat節で述べます。",
+                "en": "The that clause states what prudence counsels against."
+              }
+            },
+            {
+              "point": "more disposed to ... than to ...",
+              "explanation": {
+                "ja": "苦難を耐える傾向と、制度を廃して正す行動を比較します。",
+                "en": "The comparison contrasts enduring hardship with abolishing familiar forms."
+              }
+            },
+            {
+              "point": "while evils are sufferable",
+              "explanation": {
+                "ja": "我慢を選ぶ傾向が続く条件を、挿入の時の節で示します。",
+                "en": "The inserted clause states when people tend to endure."
+              }
+            },
+            {
+              "point": "hath shewn",
+              "explanation": {
+                "ja": "現代英語のhas shownに当たる古い綴り・語形です。",
+                "en": "An older form equivalent to modern “has shown.”"
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "while はここでは「〜している間」。長く続いた政府の変更には慎重であるべきだという留保です。",
-              "en": "While here means for as long as. The sentence qualifies the preceding argument by urging caution about changing established government."
+              "ja": "長く続く政府を小さな理由で変えることへの慎重さを示し、u006で継続的な濫用へ話を転じます。",
+              "en": "This cautions against changing long-established government for minor causes, before u006 turns to sustained abuses."
             }
           ],
           "translation": {
@@ -581,61 +2811,366 @@
             "reviewStatus": "unreviewed",
             "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
           },
-          "ttsText": "Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed."
+          "ttsText": "Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed.",
+          "audio": {
+            "path": "library/declaration-independence/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "La prudencia dicta, en efecto, que los gobiernos establecidos desde hace mucho no deben cambiarse por causas leves y pasajeras; y toda experiencia muestra que la humanidad está más dispuesta a sufrir, mientras los males sean soportables, que a hacerse justicia aboliendo las formas a las que está acostumbrada.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "prudencia",
+              "meaning": {
+                "ja": "結果を考えて慎重に判断することです。",
+                "en": "Prudent judgment with consequences in mind."
+              }
+            },
+            {
+              "term": "causas leves y pasajeras",
+              "meaning": {
+                "ja": "軽微で一時的な理由です。",
+                "en": "Minor and temporary causes."
+              }
+            },
+            {
+              "term": "males sean soportables",
+              "meaning": {
+                "ja": "害がまだ耐えられることです。",
+                "en": "Harms remain bearable."
+              }
+            },
+            {
+              "term": "hacerse justicia",
+              "meaning": {
+                "ja": "自ら不正を正すことです。",
+                "en": "Put matters right for themselves."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "que ... no deben cambiarse",
+              "explanation": {
+                "ja": "dictaが導く内容で、小さな理由では政府を変えるべきでないと述べます。",
+                "en": "The clause after dicta says governments should not be changed for minor causes."
+              }
+            },
+            {
+              "point": "más dispuesta a ... que a ...",
+              "explanation": {
+                "ja": "苦難に耐えることと、政府を廃して正すことの傾向を比較します。",
+                "en": "The pattern compares endurance with abolishing familiar forms."
+              }
+            },
+            {
+              "point": "mientras ... sean ...",
+              "explanation": {
+                "ja": "「害が耐えられる間」という条件を接続法で示します。",
+                "en": "The subjunctive clause sets the condition while harms remain bearable."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の変更権に慎重さを加えますが、u006は継続的な濫用の場合へ論旨を移します。",
+              "en": "This qualifies u004’s right of alteration; u006 turns to sustained abuses."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "La prudencia dicta, en efecto, que los gobiernos establecidos desde hace mucho no deben cambiarse por causas leves y pasajeras; y toda experiencia muestra que la humanidad está más dispuesta a sufrir, mientras los males sean soportables, que a hacerse justicia aboliendo las formas a las que está acostumbrada."
+          "ttsText": "La prudencia dicta, en efecto, que los gobiernos establecidos desde hace mucho no deben cambiarse por causas leves y pasajeras; y toda experiencia muestra que la humanidad está más dispuesta a sufrir, mientras los males sean soportables, que a hacerse justicia aboliendo las formas a las que está acostumbrada.",
+          "audio": {
+            "path": "library/declaration-independence/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "La prudence dicte certes de ne pas changer des gouvernements établis depuis longtemps pour des causes légères et passagères ; toute expérience montre ainsi que les humains sont plus enclins à souffrir, tant que les maux sont supportables, qu’à se faire justice en abolissant les formes auxquelles ils sont habitués.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "prudence",
+              "meaning": {
+                "ja": "結果を考えた慎重な判断です。",
+                "en": "Careful judgment considering consequences."
+              }
+            },
+            {
+              "term": "causes légères et passagères",
+              "meaning": {
+                "ja": "軽く、長続きしない理由です。",
+                "en": "Minor and short-lived causes."
+              }
+            },
+            {
+              "term": "maux sont supportables",
+              "meaning": {
+                "ja": "害がまだ我慢できる状態です。",
+                "en": "Harms remain bearable."
+              }
+            },
+            {
+              "term": "plus enclins à souffrir",
+              "meaning": {
+                "ja": "苦難を受け入れるほうへ傾くことです。",
+                "en": "More inclined to endure hardship."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dicte ... de ne pas changer",
+              "explanation": {
+                "ja": "慎慮が何を戒めるかをde＋不定詞で示します。",
+                "en": "De plus infinitive states what prudence counsels against."
+              }
+            },
+            {
+              "point": "plus ... qu’à ...",
+              "explanation": {
+                "ja": "苦難を耐える傾向と、制度を廃して正す傾向を比較します。",
+                "en": "The comparison sets endurance against abolishing familiar institutions."
+              }
+            },
+            {
+              "point": "tant que ...",
+              "explanation": {
+                "ja": "害が耐えられる限り、という判断の条件を置きます。",
+                "en": "The clause limits the tendency to the time harms remain bearable."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の権利に慎重さを加え、u006では長く続く濫用なら事情が変わると続けます。",
+              "en": "This adds caution to u004’s right, then u006 treats sustained abuses as a different case."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "La prudence dicte certes de ne pas changer des gouvernements établis depuis longtemps pour des causes légères et passagères ; toute expérience montre ainsi que les humains sont plus enclins à souffrir, tant que les maux sont supportables, qu’à se faire justice en abolissant les formes auxquelles ils sont habitués."
+          "ttsText": "La prudence dicte certes de ne pas changer des gouvernements établis depuis longtemps pour des causes légères et passagères ; toute expérience montre ainsi que les humains sont plus enclins à souffrir, tant que les maux sont supportables, qu’à se faire justice en abolissant les formes auxquelles ils sont habitués.",
+          "audio": {
+            "path": "library/declaration-independence/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Die Klugheit gebietet zwar, lange bestehende Regierungen nicht aus geringfügigen und vorübergehenden Gründen zu ändern; entsprechend zeigt alle Erfahrung, dass die Menschen eher Leiden ertragen, solange es erträglich ist, als sich durch Abschaffung der gewohnten Formen selbst Recht zu verschaffen.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Klugheit",
+              "meaning": {
+                "ja": "結果を考えて慎重に判断することです。",
+                "en": "Prudence or careful judgment."
+              }
+            },
+            {
+              "term": "geringfügigen und vorübergehenden Gründen",
+              "meaning": {
+                "ja": "軽微で一時的な理由です。",
+                "en": "Minor and temporary reasons."
+              }
+            },
+            {
+              "term": "Leiden ertragen",
+              "meaning": {
+                "ja": "苦しみを耐えることです。",
+                "en": "Endure hardship."
+              }
+            },
+            {
+              "term": "gewohnten Formen",
+              "meaning": {
+                "ja": "人々が慣れ親しんだ政体です。",
+                "en": "Familiar forms of government."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "gebietet zwar ...",
+              "explanation": {
+                "ja": "zwarが慎重さの主張をいったん認め、後の転換に備えます。",
+                "en": "Zwar grants the prudential point in preparation for a later turn."
+              }
+            },
+            {
+              "point": "eher ... als ...",
+              "explanation": {
+                "ja": "苦難を耐えるほうが、制度を廃して正すより起こりやすいと比較します。",
+                "en": "The comparison says endurance is more likely than abolishing familiar forms."
+              }
+            },
+            {
+              "point": "solange ...",
+              "explanation": {
+                "ja": "苦難が耐えられる間という条件を挿入します。",
+                "en": "The clause limits the observation to the period when suffering is bearable."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の変更権に慎重さを加え、u006では継続的な濫用の場合に転じます。",
+              "en": "This qualifies u004’s right to change government; u006 turns to sustained abuses."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Die Klugheit gebietet zwar, lange bestehende Regierungen nicht aus geringfügigen und vorübergehenden Gründen zu ändern; entsprechend zeigt alle Erfahrung, dass die Menschen eher Leiden ertragen, solange es erträglich ist, als sich durch Abschaffung der gewohnten Formen selbst Recht zu verschaffen."
+          "ttsText": "Die Klugheit gebietet zwar, lange bestehende Regierungen nicht aus geringfügigen und vorübergehenden Gründen zu ändern; entsprechend zeigt alle Erfahrung, dass die Menschen eher Leiden ertragen, solange es erträglich ist, als sich durch Abschaffung der gewohnten Formen selbst Recht zu verschaffen.",
+          "audio": {
+            "path": "library/declaration-independence/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Осмотрительность, конечно, велит не менять давно установившиеся правительства по незначительным и преходящим причинам; весь опыт показывает, что люди скорее склонны терпеть, пока зло терпимо, чем восстанавливать свои права, упраздняя привычные формы.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Осмотрительность",
+              "meaning": {
+                "ja": "軽率に動かず、結果を考えて判断することです。",
+                "en": "Prudence or careful foresight."
+              }
+            },
+            {
+              "term": "незначительным и преходящим причинам",
+              "meaning": {
+                "ja": "小さく一時的な理由です。",
+                "en": "Minor and temporary reasons."
+              }
+            },
+            {
+              "term": "пока зло терпимо",
+              "meaning": {
+                "ja": "害がまだ耐えられる間です。",
+                "en": "While the harm remains bearable."
+              }
+            },
+            {
+              "term": "привычные формы",
+              "meaning": {
+                "ja": "人々が慣れた統治制度です。",
+                "en": "Familiar forms of government."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "велит не менять ...",
+              "explanation": {
+                "ja": "慎重さが政府の変更を戒めると、否定の不定詞で示します。",
+                "en": "The negative infinitive states what prudence counsels against."
+              }
+            },
+            {
+              "point": "скорее ... чем ...",
+              "explanation": {
+                "ja": "苦難を耐える傾向と、政体を廃して正す行動を比較します。",
+                "en": "The comparison contrasts endurance with abolishing familiar forms."
+              }
+            },
+            {
+              "point": "упраздняя ...",
+              "explanation": {
+                "ja": "副動詞が、権利を回復するための方法として制度の廃止を補足します。",
+                "en": "The verbal adverb presents abolition as a way of restoring rights."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の変更権に慎重さを加えます。u006は長期の濫用を別の条件として示します。",
+              "en": "This adds caution to u004’s right; u006 gives sustained abuses as a different condition."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Осмотрительность, конечно, велит не менять давно установившиеся правительства по незначительным и преходящим причинам; весь опыт показывает, что люди скорее склонны терпеть, пока зло терпимо, чем восстанавливать свои права, упраздняя привычные формы."
+          "ttsText": "Осмотрительность, конечно, велит не менять давно установившиеся правительства по незначительным и преходящим причинам; весь опыт показывает, что люди скорее склонны терпеть, пока зло терпимо, чем восстанавливать свои права, упраздняя привычные формы.",
+          "audio": {
+            "path": "library/declaration-independence/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "إِنَّ التَّعَقُّلَ يَقْضِي بِأَلَّا تُغَيَّرَ الْحُكُومَاتُ الرَّاسِخَةُ مُنْذُ زَمَنٍ طَوِيلٍ لِأَسْبَابٍ تَافِهَةٍ وَعَابِرَةٍ؛ وَتُظْهِرُ التَّجَارِبُ كُلُّهَا أَنَّ الْبَشَرَ أَمْيَلُ إِلَى تَحَمُّلِ الشُّرُورِ مَا دَامَتْ مُحْتَمَلَةً مِنْ إِنْصَافِ أَنْفُسِهِمْ بِإِلْغَاءِ الْأَشْكَالِ الَّتِي اعْتَادُوهَا.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "التَّعَقُّلَ",
+              "meaning": {
+                "ja": "結果を考えて慎重に判断することです。",
+                "en": "Prudent, reasoned judgment."
+              }
+            },
+            {
+              "term": "الْحُكُومَاتُ الرَّاسِخَةُ",
+              "meaning": {
+                "ja": "長く確立している政府です。",
+                "en": "Long-established governments."
+              }
+            },
+            {
+              "term": "أَسْبَابٍ تَافِهَةٍ وَعَابِرَةٍ",
+              "meaning": {
+                "ja": "軽微で一時的な理由です。",
+                "en": "Trivial and temporary causes."
+              }
+            },
+            {
+              "term": "الشُّرُورِ مَا دَامَتْ مُحْتَمَلَةً",
+              "meaning": {
+                "ja": "害がまだ耐えられる間です。",
+                "en": "Harms while they remain bearable."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "يَقْضِي بِأَلَّا تُغَيَّرَ",
+              "explanation": {
+                "ja": "慎重さが政府を変えるべきでないと求め、受け身動詞で変更を述べます。",
+                "en": "The phrase states prudence’s judgment against changing governments, using a passive verb."
+              }
+            },
+            {
+              "point": "أَمْيَلُ إِلَى ... مِنْ ...",
+              "explanation": {
+                "ja": "苦難を耐える傾向と、制度を廃して正すことを比較します。",
+                "en": "The comparative pattern contrasts endurance with abolishing familiar forms."
+              }
+            },
+            {
+              "point": "مَا دَامَتْ ...",
+              "explanation": {
+                "ja": "「害が耐えられる間」という条件を挿入します。",
+                "en": "The clause gives the condition while harms remain bearable."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の権利に慎重さを加えます。u006では継続的な濫用が別の場合だと示します。",
+              "en": "This qualifies u004’s right with prudence; u006 treats prolonged abuses differently."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -645,13 +3180,74 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "ʾInna at-taʿaqqula yaqḍī bi-ʾallā tughayyara al-ḥukūmātu ar-rāsikhatu mundhu zamanin ṭawīlin li-ʾasbābin tāfihatin wa-ʿābiratin; wa-tuẓhiru at-tajāribu kulluhā ʾanna al-bashara ʾamyalu ʾilā taḥammuli ash-shurūri mā dāmat muḥtamalatan min ʾinṣāfi ʾanfusihim bi-ʾilghāʾi al-ʾashkāli allatī iʿtādūhā."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "审慎确实要求，不应因轻微而短暂的原因改变长期建立的政府；一切经验也表明，只要苦难尚可忍受，人们更倾向于忍受，而不是废除已经习惯的政体来纠正自身处境。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "审慎",
+              "meaning": {
+                "ja": "結果を考えて軽率に動かないことです。",
+                "en": "Careful judgment that avoids hasty action."
+              }
+            },
+            {
+              "term": "轻微而短暂的原因",
+              "meaning": {
+                "ja": "重大でも長続きもしない理由です。",
+                "en": "Minor and short-lived causes."
+              }
+            },
+            {
+              "term": "苦难尚可忍受",
+              "meaning": {
+                "ja": "害がまだ耐えられる状態です。",
+                "en": "Hardship remains bearable."
+              }
+            },
+            {
+              "term": "习惯的政体",
+              "meaning": {
+                "ja": "人々が慣れ親しんだ統治制度です。",
+                "en": "A familiar form of government."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "不应因……改变……",
+              "explanation": {
+                "ja": "政府を変えるべきでない理由の範囲を示します。",
+                "en": "The construction limits when changing government is discouraged."
+              }
+            },
+            {
+              "point": "只要……，……更倾向于……",
+              "explanation": {
+                "ja": "害が耐えられる間、人々が我慢を選ぶ傾向を示します。",
+                "en": "The condition explains why people tend to endure while harms are bearable."
+              }
+            },
+            {
+              "point": "而不是……",
+              "explanation": {
+                "ja": "我慢と、慣れた政体を廃して正すことを対照します。",
+                "en": "This contrasts endurance with abolishing familiar government to set matters right."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の変更権に慎重さを付け加えます。u006は濫用が長く続く場合へ転じます。",
+              "en": "This adds prudence to u004’s right; u006 turns to a long pattern of abuse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -661,19 +3257,85 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Shěnshèn quèshí yāoqiú, bù yīng yīn qīngwēi ér duǎnzàn de yuányīn gǎibiàn chángqī jiànlì de zhèngfǔ; yīqiè jīngyàn yě biǎomíng, zhǐyào kǔnàn shàng kě rěnshòu, rénmen gèng qīngxiàng yú rěnshòu, ér bù shì fèichú yǐjīng xíguàn de zhèngtǐ lái jiūzhèng zìshēn chǔjìng."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "신중함은 오래 확립된 정부를 사소하고 일시적인 이유로 바꾸지 말라고 가르친다. 모든 경험이 보여 주듯, 사람들은 고통을 참을 수 있는 동안에는 익숙한 정부 형태를 폐지하여 스스로 바로잡기보다 견디는 쪽으로 기운다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "신중함",
+              "meaning": {
+                "ja": "結果を考え軽率に動かないことです。",
+                "en": "Prudence or careful judgment."
+              }
+            },
+            {
+              "term": "사소하고 일시적인 이유",
+              "meaning": {
+                "ja": "軽微で短期間しか続かない理由です。",
+                "en": "Minor and temporary causes."
+              }
+            },
+            {
+              "term": "고통을 참을 수 있는 동안",
+              "meaning": {
+                "ja": "害がまだ耐えられる間です。",
+                "en": "While hardship remains bearable."
+              }
+            },
+            {
+              "term": "익숙한 정부 형태",
+              "meaning": {
+                "ja": "人々が慣れ親しんだ政体です。",
+                "en": "A familiar form of government."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "바꾸지 말라고 가르친다",
+              "explanation": {
+                "ja": "政府の変更を戒める内容を引用の形で示します。",
+                "en": "The reported command states prudence’s warning against change."
+              }
+            },
+            {
+              "point": "보여 주듯",
+              "explanation": {
+                "ja": "人間の傾向を経験に基づく観察として導きます。",
+                "en": "The phrase introduces the observation as something shown by experience."
+              }
+            },
+            {
+              "point": "폐지하여 ... 보다 견디는 쪽으로",
+              "explanation": {
+                "ja": "政府を廃して正すより、苦難を耐えるほうを選びがちだと比較します。",
+                "en": "The comparison says people tend to endure rather than abolish a familiar form."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u004の変更権に慎重さを添え、u006では継続的な濫用に対する別の結論へ進みます。",
+              "en": "This adds caution to u004’s right, before u006 reaches a different conclusion for prolonged abuses."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "신중함은 오래 확립된 정부를 사소하고 일시적인 이유로 바꾸지 말라고 가르친다. 모든 경험이 보여 주듯, 사람들은 고통을 참을 수 있는 동안에는 익숙한 정부 형태를 폐지하여 스스로 바로잡기보다 견디는 쪽으로 기운다."
+          "ttsText": "신중함은 오래 확립된 정부를 사소하고 일시적인 이유로 바꾸지 말라고 가르친다. 모든 경험이 보여 주듯, 사람들은 고통을 참을 수 있는 동안에는 익숙한 정부 형태를 폐지하여 스스로 바로잡기보다 견디는 쪽으로 기운다.",
+          "audio": {
+            "path": "library/declaration-independence/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -682,81 +3344,552 @@
       "languages": {
         "ja": {
           "text": "しかし、長く続く権力の濫用と権利の侵害が、変わらず同じ目的を追い、人民を絶対的な専制のもとに置く意図を示すとき、そのような政府を倒し、将来の安全のために新たな守りを設けることは、人民の権利であり義務である。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "権力の濫用",
+              "meaning": {
+                "ja": "権限を本来の目的から外れて不当に使うことです。",
+                "en": "Misuse of governmental power."
+              }
+            },
+            {
+              "term": "権利の侵害",
+              "meaning": {
+                "ja": "人々の権利を奪ったり損なったりすることです。",
+                "en": "Taking away or violating people’s rights."
+              }
+            },
+            {
+              "term": "絶対的な専制",
+              "meaning": {
+                "ja": "抑制のない独裁的な支配です。",
+                "en": "Unchecked, absolute despotic rule."
+              }
+            },
+            {
+              "term": "新たな守り",
+              "meaning": {
+                "ja": "将来の安全を保障するための新しい仕組みです。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "しかし、〜とき",
+              "explanation": {
+                "ja": "u005の慎重さに対し、長期の濫用がある場合へ条件を切り替えます。",
+                "en": "The adversative condition turns from u005’s caution to sustained abuse."
+              }
+            },
+            {
+              "point": "権利であり義務である",
+              "explanation": {
+                "ja": "政府を倒すことを、許される行為であるだけでなく必要な行為と述べます。",
+                "en": "The paired nouns present overthrow as both permitted and required."
+              }
+            },
+            {
+              "point": "〜を倒し、〜を設ける",
+              "explanation": {
+                "ja": "古い政府を終わらせる行為と、将来の安全策を作る行為を結びます。",
+                "en": "The paired verbs join ending the old government with creating future safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "「人民」はこの宣言が権利と義務の主体として置く集団です。u005の軽微な理由と、ここでの長く続く濫用が対照されます。",
+              "en": "The declaration makes the people the holders of the right and duty. Prolonged abuse contrasts with the minor causes in u005."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "しかし、ながくつづくけんりょくのらんようとけんりのしんがいが、かわらずおなじもくてきをおい、じんみんをぜったいてきなせんせいのもとにおくいとをしめすとき、そのようなせいふをたおし、しょうらいのあんぜんのためにあらたなまもりをもうけることは、じんみんのけんりでありぎむである。"
+          "ttsText": "しかし、ながくつづくけんりょくのらんようとけんりのしんがいが、かわらずおなじもくてきをおい、じんみんをぜったいてきなせんせいのもとにおくいとをしめすとき、そのようなせいふをたおし、しょうらいのあんぜんのためにあらたなまもりをもうけることは、じんみんのけんりでありぎむである。",
+          "audio": {
+            "path": "library/declaration-independence/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "long train",
+              "meaning": {
+                "ja": "長く続く一連の出来事です。",
+                "en": "A prolonged series of events."
+              }
+            },
+            {
+              "term": "abuses and usurpations",
+              "meaning": {
+                "ja": "権力の濫用と、正当でない権限の奪取です。",
+                "en": "Misuses of power and unlawful seizures of authority."
+              }
+            },
+            {
+              "term": "evinces a design",
+              "meaning": {
+                "ja": "意図や計画の存在を明らかにします。",
+                "en": "Shows evidence of an intention or plan."
+              }
+            },
+            {
+              "term": "absolute Despotism",
+              "meaning": {
+                "ja": "抑制のない専制的な支配です。",
+                "en": "Unchecked, absolute despotic rule."
+              }
+            },
+            {
+              "term": "new Guards",
+              "meaning": {
+                "ja": "将来の安全を守る新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "But when ... it is ...",
+              "explanation": {
+                "ja": "u005の慎重さに対し、濫用が長く続く場合の結論を条件節で示します。",
+                "en": "The conditional turns from u005’s prudence to a sustained pattern of abuse."
+              }
+            },
+            {
+              "point": "pursuing invariably the same Object",
+              "explanation": {
+                "ja": "分詞句がabuses and usurpationsの一貫した目的を説明します。",
+                "en": "The participial phrase says the abuses and usurpations pursue a consistent object."
+              }
+            },
+            {
+              "point": "it is their right, it is their duty",
+              "explanation": {
+                "ja": "反復で、政府を倒すことが権利であり義務でもあると強調します。",
+                "en": "The repetition stresses that throwing off government is both a right and a duty."
+              }
+            },
+            {
+              "point": "to throw off ... and to provide ...",
+              "explanation": {
+                "ja": "既存政府を終わらせることと、将来の安全策を設けることを並べます。",
+                "en": "The parallel infinitives join ending the government with building new safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "長期にわたる一貫した濫用を、u005の軽微で一時的な理由と対照します。",
+              "en": "The sentence contrasts prolonged, systematic abuse with the light and transient causes in u005."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
             "attribution": "Second Continental Congress; National Archives — Declaration of Independence: A Transcription (Stone engraving)"
           },
-          "ttsText": "But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security."
+          "ttsText": "But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.",
+          "audio": {
+            "path": "library/declaration-independence/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Pero cuando una larga serie de abusos y usurpaciones, persiguiendo invariablemente el mismo objetivo, revela el propósito de someterlos a un despotismo absoluto, es su derecho y su deber derribar ese gobierno y establecer nuevas garantías para su seguridad futura.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "larga serie de abusos",
+              "meaning": {
+                "ja": "長く続く権力の濫用です。",
+                "en": "A prolonged series of abuses."
+              }
+            },
+            {
+              "term": "usurpaciones",
+              "meaning": {
+                "ja": "正当な権限を不当に奪う行為です。",
+                "en": "Unlawful seizures of authority."
+              }
+            },
+            {
+              "term": "despotismo absoluto",
+              "meaning": {
+                "ja": "抑制のない専制的支配です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "nuevas garantías",
+              "meaning": {
+                "ja": "将来の安全を支える新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Pero cuando ... es ...",
+              "explanation": {
+                "ja": "u005の慎重さから、長期の濫用がある場合の結論へ転じます。",
+                "en": "The condition turns from u005’s caution to sustained abuses."
+              }
+            },
+            {
+              "point": "persiguiendo ... revela ...",
+              "explanation": {
+                "ja": "分詞句が一貫した目的を補い、主動詞が専制の意図を明らかにします。",
+                "en": "The gerund adds a consistent aim; the main verb says it reveals despotic intent."
+              }
+            },
+            {
+              "point": "es su derecho y su deber ...",
+              "explanation": {
+                "ja": "同じ行為を権利であり義務でもあると重ねて述べます。",
+                "en": "The paired nouns make overthrow both a right and a duty."
+              }
+            },
+            {
+              "point": "derribar ... y establecer ...",
+              "explanation": {
+                "ja": "古い政府の打倒と新しい安全策の設置を結びます。",
+                "en": "The verbs join overthrow with establishing safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "軽微な理由では変えないu005の原則に対し、ここでは長期の一貫した濫用を条件にします。",
+              "en": "Unlike u005’s minor causes, this condition is a long, consistent pattern of abuse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Pero cuando una larga serie de abusos y usurpaciones, persiguiendo invariablemente el mismo objetivo, revela el propósito de someterlos a un despotismo absoluto, es su derecho y su deber derribar ese gobierno y establecer nuevas garantías para su seguridad futura."
+          "ttsText": "Pero cuando una larga serie de abusos y usurpaciones, persiguiendo invariablemente el mismo objetivo, revela el propósito de someterlos a un despotismo absoluto, es su derecho y su deber derribar ese gobierno y establecer nuevas garantías para su seguridad futura.",
+          "audio": {
+            "path": "library/declaration-independence/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Mais lorsqu’une longue suite d’abus et d’usurpations, poursuivant invariablement le même objet, révèle le dessein de les soumettre à un despotisme absolu, ils ont le droit et le devoir de renverser ce gouvernement et d’établir de nouvelles garanties pour leur sécurité future.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "longue suite d’abus",
+              "meaning": {
+                "ja": "長く続く権力の濫用です。",
+                "en": "A prolonged sequence of abuses."
+              }
+            },
+            {
+              "term": "usurpations",
+              "meaning": {
+                "ja": "正当でない権限の奪取です。",
+                "en": "Unlawful seizures of authority."
+              }
+            },
+            {
+              "term": "despotisme absolu",
+              "meaning": {
+                "ja": "抑制のない専制的な支配です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "nouvelles garanties",
+              "meaning": {
+                "ja": "将来の安全を守る新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Mais lorsqu’ ...",
+              "explanation": {
+                "ja": "u005の慎重な原則から、長期の濫用という例外的条件へ転じます。",
+                "en": "The opening turns from u005’s caution to prolonged abuses."
+              }
+            },
+            {
+              "point": "poursuivant ... révèle ...",
+              "explanation": {
+                "ja": "現在分詞が一貫した目的を補い、主動詞が専制の意図を示します。",
+                "en": "The participle adds a consistent objective; the main verb reveals the design."
+              }
+            },
+            {
+              "point": "le droit et le devoir de ...",
+              "explanation": {
+                "ja": "打倒を許される権利であり、果たすべき義務でもあると重ねます。",
+                "en": "The paired nouns make overthrow both a right and a duty."
+              }
+            },
+            {
+              "point": "renverser ... et d’établir ...",
+              "explanation": {
+                "ja": "古い政府を倒すことと、将来の保障を作ることを並べます。",
+                "en": "The infinitives pair overthrow with new safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の軽微な理由と対照的に、ここでは長く一貫して続く濫用が問題です。",
+              "en": "This contrasts with u005’s minor causes: the condition here is sustained, consistent abuse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Mais lorsqu’une longue suite d’abus et d’usurpations, poursuivant invariablement le même objet, révèle le dessein de les soumettre à un despotisme absolu, ils ont le droit et le devoir de renverser ce gouvernement et d’établir de nouvelles garanties pour leur sécurité future."
+          "ttsText": "Mais lorsqu’une longue suite d’abus et d’usurpations, poursuivant invariablement le même objet, révèle le dessein de les soumettre à un despotisme absolu, ils ont le droit et le devoir de renverser ce gouvernement et d’établir de nouvelles garanties pour leur sécurité future.",
+          "audio": {
+            "path": "library/declaration-independence/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Wenn aber eine lange Reihe von Missbräuchen und Übergriffen, die unverändert dasselbe Ziel verfolgt, die Absicht erkennen lässt, sie unter einen absoluten Despotismus zu zwingen, ist es ihr Recht und ihre Pflicht, eine solche Regierung abzuwerfen und neue Sicherungen für ihre künftige Sicherheit zu schaffen.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Missbräuchen und Übergriffen",
+              "meaning": {
+                "ja": "権力の濫用と不当な侵害です。",
+                "en": "Abuses of power and unlawful encroachments."
+              }
+            },
+            {
+              "term": "absoluten Despotismus",
+              "meaning": {
+                "ja": "抑制のない専制的支配です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "Recht und Pflicht",
+              "meaning": {
+                "ja": "許される権利と、果たすべき義務です。",
+                "en": "A right and a duty."
+              }
+            },
+            {
+              "term": "neue Sicherungen",
+              "meaning": {
+                "ja": "将来の安全のための新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wenn aber ... ist es ...",
+              "explanation": {
+                "ja": "u005の慎重さから、濫用が長く続く条件へ転じます。",
+                "en": "The condition turns from u005’s caution to a sustained series of abuses."
+              }
+            },
+            {
+              "point": "die ... verfolgt",
+              "explanation": {
+                "ja": "関係節がReiheを受け、その一貫した目的を説明します。",
+                "en": "The relative clause modifies Reihe and describes its constant objective."
+              }
+            },
+            {
+              "point": "Recht und Pflicht, ... abzuwerfen",
+              "explanation": {
+                "ja": "政府を捨てることを権利と義務の両方として述べます。",
+                "en": "The infinitive presents casting off government as both a right and a duty."
+              }
+            },
+            {
+              "point": "abzuwerfen und ... zu schaffen",
+              "explanation": {
+                "ja": "古い政府の打倒と、新たな安全策の創設を並べます。",
+                "en": "The paired infinitives join overthrow with creating safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の軽微な理由と違い、この文が条件とするのは長期の一貫した濫用です。",
+              "en": "The condition differs from u005’s minor causes: it is a sustained pattern of abuse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Wenn aber eine lange Reihe von Missbräuchen und Übergriffen, die unverändert dasselbe Ziel verfolgt, die Absicht erkennen lässt, sie unter einen absoluten Despotismus zu zwingen, ist es ihr Recht und ihre Pflicht, eine solche Regierung abzuwerfen und neue Sicherungen für ihre künftige Sicherheit zu schaffen."
+          "ttsText": "Wenn aber eine lange Reihe von Missbräuchen und Übergriffen, die unverändert dasselbe Ziel verfolgt, die Absicht erkennen lässt, sie unter einen absoluten Despotismus zu zwingen, ist es ihr Recht und ihre Pflicht, eine solche Regierung abzuwerfen und neue Sicherungen für ihre künftige Sicherheit zu schaffen.",
+          "audio": {
+            "path": "library/declaration-independence/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Но когда длинная череда злоупотреблений и узурпаций, неизменно преследующих одну цель, обнаруживает замысел подчинить их абсолютному деспотизму, их право и обязанность — свергнуть такое правительство и установить новые гарантии своей будущей безопасности.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "череда злоупотреблений",
+              "meaning": {
+                "ja": "長く続く権力の濫用です。",
+                "en": "A series of abuses of power."
+              }
+            },
+            {
+              "term": "узурпаций",
+              "meaning": {
+                "ja": "正当な権限を不当に奪うことです。",
+                "en": "Unlawful seizures of authority."
+              }
+            },
+            {
+              "term": "абсолютному деспотизму",
+              "meaning": {
+                "ja": "抑制のない専制的支配です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "новые гарантии",
+              "meaning": {
+                "ja": "将来の安全を守る新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Но когда ...",
+              "explanation": {
+                "ja": "u005の慎重さに対し、長く続く濫用がある条件へ転じます。",
+                "en": "The condition turns from u005’s caution to prolonged abuses."
+              }
+            },
+            {
+              "point": "преследующих ... обнаруживает ...",
+              "explanation": {
+                "ja": "分詞が濫用の一貫した目的を示し、主動詞が専制の意図を示します。",
+                "en": "The participle gives the consistent objective; the main verb reveals the design."
+              }
+            },
+            {
+              "point": "право и обязанность — ...",
+              "explanation": {
+                "ja": "ダッシュの後に、権利であり義務でもある行為を列挙します。",
+                "en": "The dash introduces the actions presented as both right and obligation."
+              }
+            },
+            {
+              "point": "свергнуть ... и установить ...",
+              "explanation": {
+                "ja": "政府を倒すことと、将来の保障を作ることを並べます。",
+                "en": "The infinitives join overthrow with establishing safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の軽微な理由に対し、ここでは長期の一貫した濫用を条件にします。",
+              "en": "Instead of u005’s minor causes, this sentence concerns sustained and consistent abuse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Но когда длинная череда злоупотреблений и узурпаций, неизменно преследующих одну цель, обнаруживает замысел подчинить их абсолютному деспотизму, их право и обязанность — свергнуть такое правительство и установить новые гарантии своей будущей безопасности."
+          "ttsText": "Но когда длинная череда злоупотреблений и узурпаций, неизменно преследующих одну цель, обнаруживает замысел подчинить их абсолютному деспотизму, их право и обязанность — свергнуть такое правительство и установить новые гарантии своей будущей безопасности.",
+          "audio": {
+            "path": "library/declaration-independence/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "وَلَكِنْ عِنْدَمَا تَكْشِفُ سِلْسِلَةٌ طَوِيلَةٌ مِنَ التَّجَاوُزَاتِ وَالِاغْتِصَابَاتِ، تَسْعَى بِثَبَاتٍ إِلَى الْهَدَفِ نَفْسِهِ، عَنْ قَصْدٍ لِإِخْضَاعِهِمْ لِاسْتِبْدَادٍ مُطْلَقٍ، فَمِنْ حَقِّهِمْ وَمِنْ وَاجِبِهِمْ أَنْ يُطِيحُوا بِتِلْكَ الْحُكُومَةِ وَيُقِيمُوا ضَمَانَاتٍ جَدِيدَةً لِأَمْنِهِمُ الْمُقْبِلِ.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "سِلْسِلَةٌ طَوِيلَةٌ",
+              "meaning": {
+                "ja": "長く続く一連の出来事です。",
+                "en": "A prolonged series of events."
+              }
+            },
+            {
+              "term": "التَّجَاوُزَاتِ وَالِاغْتِصَابَاتِ",
+              "meaning": {
+                "ja": "権力の濫用と、不当な権限の奪取です。",
+                "en": "Abuses and unlawful seizures of authority."
+              }
+            },
+            {
+              "term": "اسْتِبْدَادٍ مُطْلَقٍ",
+              "meaning": {
+                "ja": "抑制のない絶対的な専制です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "ضَمَانَاتٍ جَدِيدَةً",
+              "meaning": {
+                "ja": "将来の安全のための新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "وَلَكِنْ عِنْدَمَا ... فَمِنْ ...",
+              "explanation": {
+                "ja": "u005の慎重さから、長期の濫用がある場合の結論へ転じます。",
+                "en": "The conditional turns from u005’s caution to sustained abuse."
+              }
+            },
+            {
+              "point": "تَسْعَى ... إِلَى الْهَدَفِ نَفْسِهِ",
+              "explanation": {
+                "ja": "一連の濫用が同じ目的を一貫して追うと補足します。",
+                "en": "The clause says the series of abuses consistently pursues the same aim."
+              }
+            },
+            {
+              "point": "مِنْ حَقِّهِمْ وَمِنْ وَاجِبِهِمْ",
+              "explanation": {
+                "ja": "同じ行為を人民の権利と義務の両方として述べます。",
+                "en": "The repeated phrase presents the action as both a right and a duty."
+              }
+            },
+            {
+              "point": "أَنْ يُطِيحُوا ... وَيُقِيمُوا ...",
+              "explanation": {
+                "ja": "古い政府を倒すことと、新しい安全策を作ることを並べます。",
+                "en": "Paired verbs connect overthrowing government with creating new safeguards."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の軽微な理由と異なり、この文は長期にわたる一貫した濫用を条件にします。",
+              "en": "This differs from u005’s minor causes: the condition is a sustained, consistent pattern of abuse."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -766,13 +3899,74 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-lākin ʿindamā takshifu silsilatun ṭawīlatun mina at-tajāwuzāti wa-al-ightiṣābāti, tasʿā bi-thabātin ʾilā al-hadafi nafsihi, ʿan qaṣdin li-ʾikhḍāʿihim li-istibdādin muṭlaqin, fa-min ḥaqqihim wa-min wājibihim ʾan yuṭīḥū bi-tilka al-ḥukūmati wa-yuqīmū ḍamānātin jadīdatan li-ʾamnihimu al-muqbili."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "但是，当一连串滥权和侵夺始终追求同一目标，表明要把人民置于绝对专制之下时，推翻这样的政府，并为未来的安全设立新的保障，就是人民的权利，也是人民的义务。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "一连串滥权和侵夺",
+              "meaning": {
+                "ja": "長く続く権力の濫用と不当な権限の奪取です。",
+                "en": "A prolonged series of abuses and usurpations."
+              }
+            },
+            {
+              "term": "绝对专制",
+              "meaning": {
+                "ja": "抑制のない専制的な支配です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "推翻",
+              "meaning": {
+                "ja": "既存の政府を倒すことです。",
+                "en": "Overthrow the existing government."
+              }
+            },
+            {
+              "term": "新的保障",
+              "meaning": {
+                "ja": "将来の安全のための新しい仕組みです。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "但是，当……时，……",
+              "explanation": {
+                "ja": "u005の慎重さに対し、長期の濫用がある場合の結論へ転じます。",
+                "en": "The conditional turns from u005’s caution to sustained abuses."
+              }
+            },
+            {
+              "point": "始终……，表明……",
+              "explanation": {
+                "ja": "同じ目的を追う一連の行為から、専制の意図が見えると述べます。",
+                "en": "A consistent aim in the acts is presented as evidence of a despotic design."
+              }
+            },
+            {
+              "point": "就是……也是……",
+              "explanation": {
+                "ja": "政府を倒し保障を設けることを、権利と義務の両方と強調します。",
+                "en": "The repeated predicates make overthrow and safeguards both a right and a duty."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の軽微な理由ではなく、長く一貫して続く濫用をこの結論の条件にします。",
+              "en": "This conclusion rests on sustained abuse, unlike the minor causes in u005."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -782,19 +3976,85 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Dànshì, dāng yī liánchuàn lànquán hé qīnduó shǐzhōng zhuīqiú tóng yī mùbiāo, biǎomíng yào bǎ rénmín zhì yú juéduì zhuānzhì zhī xià shí, tuīfān zhèyàng de zhèngfǔ, bìng wèi wèilái de ānquán shèlì xīn de bǎozhàng, jiù shì rénmín de quánlì, yě shì rénmín de yìwù."
+          },
+          "audio": {
+            "path": "library/declaration-independence/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "그러나 오랜 권력 남용과 권리 침해가 한결같은 목적을 추구하여 인민을 절대적 전제 아래 두려는 의도를 드러낼 때, 그러한 정부를 무너뜨리고 미래의 안전을 위한 새로운 보장을 마련하는 것은 인민의 권리이자 의무이다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "권력 남용",
+              "meaning": {
+                "ja": "権力を本来の目的に反して不当に使うことです。",
+                "en": "Abuse of governmental power."
+              }
+            },
+            {
+              "term": "권리 침해",
+              "meaning": {
+                "ja": "人々の権利を奪ったり損なったりすることです。",
+                "en": "Violation of people’s rights."
+              }
+            },
+            {
+              "term": "절대적 전제",
+              "meaning": {
+                "ja": "抑制のない専制的支配です。",
+                "en": "Unchecked, absolute despotism."
+              }
+            },
+            {
+              "term": "새로운 보장",
+              "meaning": {
+                "ja": "将来の安全を守る新しい保障策です。",
+                "en": "New safeguards for future security."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "그러나 ... 때",
+              "explanation": {
+                "ja": "u005の慎重さから、濫用が長く続く場合へ条件を切り替えます。",
+                "en": "The adversative condition turns from u005’s caution to prolonged abuse."
+              }
+            },
+            {
+              "point": "추구하여 ... 드러낼 때",
+              "explanation": {
+                "ja": "同じ目的を追う行為が、専制の意図を示すと述べます。",
+                "en": "The clause treats a consistent aim as evidence of a despotic design."
+              }
+            },
+            {
+              "point": "권리이자 의무이다",
+              "explanation": {
+                "ja": "政府を倒して保障を作ることを、権利であり義務でもあると述べます。",
+                "en": "The predicate presents overthrow and safeguards as both a right and a duty."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "u005の軽微な理由と対照的に、長期の一貫した濫用を条件にする主張です。",
+              "en": "The condition is sustained and consistent abuse, contrasting with the minor causes in u005."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "그러나 오랜 권력 남용과 권리 침해가 한결같은 목적을 추구하여 인민을 절대적 전제 아래 두려는 의도를 드러낼 때, 그러한 정부를 무너뜨리고 미래의 안전을 위한 새로운 보장을 마련하는 것은 인민의 권리이자 의무이다."
+          "ttsText": "그러나 오랜 권력 남용과 권리 침해가 한결같은 목적을 추구하여 인민을 절대적 전제 아래 두려는 의도를 드러낼 때, 그러한 정부를 무너뜨리고 미래의 안전을 위한 새로운 보장을 마련하는 것은 인민의 권리이자 의무이다.",
+          "audio": {
+            "path": "library/declaration-independence/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     }

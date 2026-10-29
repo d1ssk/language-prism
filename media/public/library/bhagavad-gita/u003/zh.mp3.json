@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0cb17ba124cc676d623c34a3c4bb475acd03f618173771a3b5cd5c49d5a46c79",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "持财者啊，行动远不及明辨的瑜伽。应当以明辨为依归；以成果为动机的人是可怜的。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c34db2f9cf8b69068d58185ad36d61bd95be8fccc33ffd89ae26a5cec658c126",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:30.486074+00:00"
+}

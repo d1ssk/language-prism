@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c196186b0fd3f3caba4397ab2fff8f7be24c5ca6f5bd629736f0a8eb7078f72",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le damos la bienvenida.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5658b1e39138f929bdec524c9b26e6d5f019cf06a6295ea5dbb748ebf232d251",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:22.900951+00:00"
+}

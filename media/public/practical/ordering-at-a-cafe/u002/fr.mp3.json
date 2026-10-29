@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7651ddf1d8b05a9491a96f4abebf9e9da537f568845759561b55fc13467ed6d1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Sur place ou à emporter ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db947a3a27e2ecff5254a8520fa2a65724b9862c63a43986676294481f582810",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:55.920838+00:00"
+}

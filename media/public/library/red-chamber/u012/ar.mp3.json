@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a8cc0d4413cd665234110c608c9f943693abe563ac19ad41630540e7a67fa299",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "قَالَ الْحَجَرُ: «بِالطَّبْعِ، بِالطَّبْعِ». وَتَابَعَ الرَّاهِبُ: «قَدْ تَكُونُ رُوحُكَ وَاعِيَةً، وَلَكِنَّ مَادَّتَكَ خَشِنَةٌ بَلِيدَةٌ، وَلَا شَيْءَ فِيكَ نَادِرٌ أَوْ ثَمِينٌ. وَأَنْتَ هَكَذَا لَا تَصْلُحُ إِلَّا لِوَضْعِ الْقَدَمِ عَلَيْكَ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7e3d67edcb92f8809fc76243b2cbcee888a721deb49e2f53fc8351a2ea958d7b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:32:40.265410+00:00"
+}

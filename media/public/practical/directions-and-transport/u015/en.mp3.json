@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ba66cb51038b6c0cd62ba55d0327f790b979ab0e7bb9b40200bfbb84109bbc4f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Thank you. I was about to get off.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed7e203b80d968dc3dead460c69d5470b08395f300da16892d80374bf9b2f991",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:12.852878+00:00"
+}

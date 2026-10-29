@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4a4be8c9da12f7d32151de9bbd6ed1e579740094ffbac9bc95d3409961a5fbc7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "汤太烫了，没法吃，所以我等到它凉了才吃。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9429c516d892429e7e790aff7c2da69f19bc56c0eab47c5facd3647836bdc5b0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:34.119682+00:00"
+}

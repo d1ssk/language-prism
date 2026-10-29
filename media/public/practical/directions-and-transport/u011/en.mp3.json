@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "921da1181e3a26d7a5b57e7ac220783e6163aee0847c0468e2d44cbdefc735b0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Do I need to change trains on the way?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0ea657a6f8d42007c6983f377ced04c33fbb5f06644e0aebf5b684849e6ede01",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:06.561712+00:00"
+}

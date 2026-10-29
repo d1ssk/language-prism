@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7cd937e209d7157945e740f9a8182ab5b09de91bb7a4a5d09394c7f4ee0edd6a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The country’s population thus dwindles, its houses stand empty and its towns fall into ruin. The state and ruling power are weakened with it, for they are the form of civilization and necessarily decay when their material decays.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "709e10ba598ea9f5ca5666b189691cfffb3a4a8bc0f4888e1e5105b505797e73",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:45:54.373559+00:00"
+}

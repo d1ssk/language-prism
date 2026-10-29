@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ca73dce0a5ddb3339906d33909b8940d4893e7d756b1e66cfe42dbf8562e54f3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "세상은 우리가 이곳에서 하는 말을 별로 주목하지도 오래 기억하지도 않겠지만, 그들이 이곳에서 한 일은 결코 잊을 수 없을 것입니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2cbb3c6482f52c93328e421a5c5ed8edabd62c5cc9db0701053ce41b8006054b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:54:45.790023+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d770fba99ba5a5b5912d0d829aef667fc1063a4e420a566376d2d6d9b6f8eb2e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Non, l'aéroport, c'est l'arrêt d'après.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "df06a94df62cb6fa304fec229db631e35cc2aff1ed42919c759aba9f66ef04df",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:58:56.162180+00:00"
+}

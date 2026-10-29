@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4cf0798b6fd0d6dbeb83b67d2ce745390c23ac5247cbc95fdaf59d892db9fe8c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Joyeux anniversaire.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1811e2a53fd1443d6017a332b069fc691c7f6926d5dfa2b3c76f6b611ca8e619",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:40.107018+00:00"
+}

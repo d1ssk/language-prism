@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "060d63a5e217b008f16d1ec37ce09fbf9b79bebb554c58483ad5f8b3067516bf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَأَنْ تُرْسَمَ دَائِرَةٌ بِأَيِّ مَرْكَزٍ وَمَسَافَةٍ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f36daaed4495ed13627b79caa4ae31b75e650f6cddc6cc79bee89309ec6dac16",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:34.292101+00:00"
+}

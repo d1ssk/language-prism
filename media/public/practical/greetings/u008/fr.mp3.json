@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5ef2a7e56da401c9ddcd82444b1271ce892eba13aac74e8cce5c21d9eea62690",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je vous en prie.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b6d9e8221a34526f4ee7efe2ab8dfb3676e76fa309bcf6b7f273abbfec0d11b4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:09:27.160309+00:00"
+}

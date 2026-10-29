@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "759be7dc21f0fabea871f720055af725f5f8ad9dedb607c0580cc1c619c4dd03",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "整个高卢分为三个部分：一部分住着比利其人，另一部分住着阿奎塔尼人，第三部分的居民在自己的语言中称为凯尔特人，在我们的语言中称为高卢人。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9fe66acb85a2900f3fb4c73eadd208a07ec868df01a2d625f8e81e329ac3b505",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:30:05.287825+00:00"
+}

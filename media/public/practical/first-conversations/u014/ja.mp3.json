@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "864cb839a44b72d53a16ad924c576a97c5940e49ace4a826adbd426d345fdda5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしもです。またおあいしましょう。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "58217c687b71a5c90ec83436d2c01bf82aa47ab2a2ad81ca1749090a278c0976",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:07:14.338504+00:00"
+}

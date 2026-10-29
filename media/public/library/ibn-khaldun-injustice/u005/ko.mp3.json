@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "27d8bf3e42826a163903b7df62d0223fab2c55d1129c9d1c18cd2d945f53fcbb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "침해가 작으면 생업을 줄이는 정도도 그에 비례한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8b616b2edc7b89bdd68f912a9c66683c99c0ff7fbe6d5d175d7f72d3470d4b5a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:42:45.194236+00:00"
+}

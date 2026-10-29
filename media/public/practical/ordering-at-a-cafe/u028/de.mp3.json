@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b091c0099184fa0dbf853567928fd50d237f8436a08c03bce83f799aea3ddf46",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Vielen Dank für das Essen. Es hat sehr gut geschmeckt.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4e54f918ca75c2d0015edde14e4eb7916073ad07ba0f5a525b457974079d9374",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:21:32.767635+00:00"
+}

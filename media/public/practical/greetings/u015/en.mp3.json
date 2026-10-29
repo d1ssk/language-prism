@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "48f63f661cba2ea0286d60e0de519e65e4ac82471ac6c11612d60bf5cfe88c9a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Long time no see.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "73e8e2acb64eb50bf0f18733eb43ae4d7f108b785da0511c086fd4f94533d8fe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:05.602167+00:00"
+}

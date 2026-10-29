@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "00a13b07052105e164f5e65fc1f977e148dfe43f02b7945add1a74a0fa7338b9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La société naît de nos besoins, le gouvernement de notre méchanceté ; la première favorise positivement notre bonheur en unissant nos affections, le second négativement en réprimant nos vices.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf0610bede7b4382eae13b2883f0d14bd681ec699ee264c3996930f21ebbd837",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:01:10.653095+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "20d4a4e75c492505c11f5cc917c3e518d8410473747066dfb4490ef882cd0b3a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Disculpe, todavía no ha llegado la comida que pedí.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1c6e59a1f6bda2979aaf047f17102c3b4cd17defaf51abf92333f1b379241094",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:54.025920+00:00"
+}

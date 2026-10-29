@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b66219889aba914e2cfcb321582bbb7f8c9afd874fea2e76f3fa39ba8913ea50",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Восемьдесят семь лет назад наши отцы создали на этом континенте новую нацию, зачатую в свободе и преданную положению о том, что все люди созданы равными.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0455c9ddb0d868fe5d51ac0d386333696a0654b74daa576803a0db9c42816c7a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:48:08.335663+00:00"
+}

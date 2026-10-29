@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bde2aae078bb6f1e2548fe3f5dd8149c77c1711e070976045b741d206d3af95f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Unos diez minutos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b2d012d1211236f99f3148f109ee7ef0241269f9ad4815ea2af49fee635e8737",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:51:52.359733+00:00"
+}

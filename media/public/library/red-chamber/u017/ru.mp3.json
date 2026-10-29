@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "72565dacefe49526add3dda358ff44aea7f0cd2e8bb720ea04adf22df6a6c4e6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Камень не мог сдержать радости и спросил: «Какие же чудесные свойства будут у вашего ученика и куда вы его отнесёте? Объясните, прошу вас, чтобы рассеять мои сомнения».",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7e4ea5eacf034d46d6bcc7d1b800351b6c5b1a672b713b41e7168f9e46cfab27",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:40:24.543944+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "78e28cc17ae3d20535eace3028832851ca768f31fa46d890a604aec94b93e8d6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "카드로 결제할 수 있나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d0a6928372bcb9d88087ca4153dc13145e59490dd7d630d7ab7582d978ff0375",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:37.877094+00:00"
+}

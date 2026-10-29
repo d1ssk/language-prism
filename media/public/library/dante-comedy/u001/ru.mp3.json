@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d08ccef276d0428d34f1f03f3bd340252b1ac33e999632b681389bbfcc57ab2e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "На середине пути нашей жизни я оказался в тёмном лесу, ибо прямой путь был утрачен.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "616a520d88c268b36bc5d681611c8c627a348442bf98d70d08f25414f0add021",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:55:35.036762+00:00"
+}

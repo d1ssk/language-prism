@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38977a646dfb859225bd525ca7f86255bb6fd712fa70afaac87b1b2da452f99e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我早上喝茶。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6d73c546953cda56a8774224f9d3bcd0dd479589bfbcbef1e131bcf8ed8ff8f4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:43.943316+00:00"
+}

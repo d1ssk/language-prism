@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5fd2b413a3693dd6bb2f0966a046bb88cb6d526423de4249e5726efa9916596c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Можно приготовить этот латте на соевом молоке?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1f52a4ea8a04811dda3548c8a5adaa03260ce9c2f9bbea5841ae0a8b94c12d6c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:16.234426+00:00"
+}

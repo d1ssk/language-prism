@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "08e59ddc93429c7f7a3811219220aa4bbcbe2376027362c460cc9a2bf8684157",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mucho gusto. Me llamo Ali.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ff8ac21f046bfddb950de726d8bb28d0d5e16a287bf8096d85bc52b5930e3abd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:00:55.110042+00:00"
+}

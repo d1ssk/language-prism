@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d1b7dd15dc70e3382dec91968b2e244b1e796c05ebdd57d200970d9a765cdbf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "면의 경계는 선이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a7fc606f169c00a0dc0b0883088858b41eb9da954009b3bc02e594acf7b8144e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:16:30.040236+00:00"
+}

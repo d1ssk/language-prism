@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5c9fe55444e37bbf80cf630041c4eeeef3f645150decee6b43451b59da222fd6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "When a straight line standing on another makes the adjacent angles equal, each of those angles is a right angle, and the standing line is called perpendicular to the line on which it stands.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b4159f287d743e376fbbc9a99141c2fc3e822e75ac4b084b218fc9bc175a37a3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:18:56.334072+00:00"
+}

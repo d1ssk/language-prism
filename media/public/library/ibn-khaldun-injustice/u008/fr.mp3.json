@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2246408be506c77cb99586a79f9f2671b0705e6293baed2800ae676b8c8686d8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La population du pays diminue alors, ses maisons se vident et ses villes tombent en ruine. L’État et le pouvoir se détériorent avec elle, car ils sont la forme de la vie sociale et se dégradent nécessairement lorsque leur matière se dégrade.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cdcc412d0420e9f7deead990e2c2688054b051adc20d72ab5a39898151f3c32a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:46:20.257746+00:00"
+}

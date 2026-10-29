@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ef32b2bf689042ecccdeef813995a6cb9a66742b5addadd671aa70baf4e28cf5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَلِذَلِكَ، مَا دَامَ الْأَمْنُ هُوَ الْمَقْصِدَ وَالْغَايَةَ الْحَقِيقِيَّةَ لِلْحُكُومَةِ، فَمِنَ الثَّابِتِ أَنَّ أَيَّ شَكْلٍ مِنْ أَشْكَالِهَا يَبْدُو أَقْدَرَ عَلَى ضَمَانِهِ بِأَقَلِّ نَفَقَةٍ وَأَكْبَرِ مَنْفَعَةٍ هُوَ أَفْضَلُ مِنْ سَائِرِ الْأَشْكَالِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "70b2b7bf9c34904a1bea79ccdf3a9579e8f690d0ec49e4a0f2f1e23d3a885987",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:10:34.046625+00:00"
+}

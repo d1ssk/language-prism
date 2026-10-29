@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7eda2beb946b28ff6ff6e5705ea0f935390acdb9ecfbd59f71224aca890db3cb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "好久不见。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2a7b40a16ffb28431717e1a34b3f20ffaaf7ff9fa7b832ef4b25f34413d4d27e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:16.042383+00:00"
+}

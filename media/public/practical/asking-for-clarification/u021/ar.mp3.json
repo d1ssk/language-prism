@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d40a5799d8640ef6866c2b8cc20b6fc67e62822e524765909c0043948004d200",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أعد الأرقام فقط، من فضلك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2330bd46edab2b4109070f99c97d4ece620e660836ed86c3d87c16362c78f669",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:50:06.764742+00:00"
+}

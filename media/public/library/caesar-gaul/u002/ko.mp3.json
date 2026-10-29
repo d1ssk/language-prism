@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "abe4a001cdbf2b4c828fcb7cbd6746a49a9eedc0f513ea668e1d1332b3df830a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이들은 모두 언어와 관습과 법률이 서로 다르다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "19750ba42bfbb2b1ea031df4e18d7ca32e16c6dfec47265655f441d8d6dc65f3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:30:46.726851+00:00"
+}

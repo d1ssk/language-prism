@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3077def1d1d68a26e9c84fd70c3a17d61c620fb6f862e205e4a0bb2bfbcb65cb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "あくいたにあはがるむながわからぴれねーさんみゃくとひすぱにあにめんするたいようのぶぶんまでひろがり、ひのいりときたとのあいだのほうがくをむいている。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cf638fd22d64f510caf5236be3827674d22efc2b8590ebec7dc276cea9e6f2d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:37:51.787421+00:00"
+}

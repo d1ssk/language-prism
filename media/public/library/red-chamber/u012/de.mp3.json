@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1407151bfb653e6712ec13244a4abe7c14447bec7401dd8f2f21de2643f57432",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "„Natürlich, natürlich“, sagte der Stein. Der Mönch fuhr fort: „Du magst einen wachen Geist haben, doch deine Substanz ist so grob und stumpf, ohne etwas Seltenes oder Kostbares. So taugst du nur als Trittstein.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "03cca018fea78ddf769b0da8a5a9a294b0f3ddf6461a91703787b43ae906b46f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:32:18.717901+00:00"
+}

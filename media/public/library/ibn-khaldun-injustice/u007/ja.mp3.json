@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f11386eea204720c6298d1b40f4d9cd5a7fa5015d1fd348d0d8372a8aa655fda",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ひとびとがせいけいをたてるのをやめ、かせぎからてをひけば、しゃかいのしじょうはふきょうにおちいり、じょうきょうはみだれる。ひとびとは、そのとうちりょういきのそとでかてをもとめ、かくちへちっていく。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9fe9c38f61d94ae3ee3157fef9d460e57cd3efde674322954356a2b6892399a9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:44:01.528423+00:00"
+}

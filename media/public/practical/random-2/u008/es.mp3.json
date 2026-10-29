@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4b9d2342d54536b48b8c70385bb710419067c5cd3f71bc34549c8c6b44506f73",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Después de que se fue la luz, seguimos hablando a oscuras hasta que alguien encontró una vela.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ef11a5c0566fa44d837b8056143f75f76e9147963d2bd57ad456ee2e7518ea38",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:27:50.867083+00:00"
+}

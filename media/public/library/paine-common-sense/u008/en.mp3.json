@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e19b30d98971f1bfe3b5ce61e49db39e0474cd81a506521e4c72b8fa11877207",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wherefore, security being the true design and end of government, it unanswerably follows that whatever form thereof appears most likely to ensure it to us, with the least expence and greatest benefit, is preferable to all others.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "63682573bcc2fc86e57de0cbdc2ae2522c6d4e6b309fff558a42bff7b603ad6a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:09:34.360934+00:00"
+}

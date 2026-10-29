@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13ddd51545f603003f59510e96f8c18ed3a4c5884f03dca647e12b3880a8b94f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كَانَ الحَسَاءُ سَاخِنًا جِدًّا بِحَيْثُ لَمْ أَسْتَطِعْ أَنْ آكُلَهُ، فَانْتَظَرْتُ حَتَّى بَرَدَ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6a95dce6d54a3400f584575a2ab6cd5ad0ea91e83a2ab6ed6b47075aeda65278",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:23.665048+00:00"
+}

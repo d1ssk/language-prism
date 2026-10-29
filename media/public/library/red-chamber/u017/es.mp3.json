@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "123654a9f3bf15bd3acc5c0dbceb70ccb9ffddd50f22bf6d68e51ee7cac4caca",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La piedra no pudo contener la alegría y preguntó: «¿Qué cualidades maravillosas tendrá su discípulo y adónde lo llevarán? Les ruego que lo expliquen claramente para disipar mis dudas».",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "519dc2f9684c20bdfd549116bd3224947a5946952a72eaff4499b0e30558c5b0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:39:57.414985+00:00"
+}

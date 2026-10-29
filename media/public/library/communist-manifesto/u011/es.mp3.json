@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9a1006d800f95de5194067d8e2bd62895407f59e794d14b9f6c6ef2345477e72",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nuestra época, la época de la burguesía, se distingue por haber simplificado los antagonismos de clase. La sociedad entera se divide cada vez más en dos grandes campos enemigos, dos grandes clases directamente enfrentadas: burguesía y proletariado.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "60ce95b4729f6c924e83d0b640be3d4270d3c8f5e35cdaf13d4b4b5e29d7d910",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:53:42.619122+00:00"
+}

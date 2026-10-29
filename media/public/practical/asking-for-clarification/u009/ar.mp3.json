@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e66de4ace0cee9d761be9d90aa067529b0a90be1a09153f17c6c0e59e367bb98",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هل يمكنك أن تكتب هذه الكلمة؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e3dc3fa0fb2341b88e3dffdb04e3b068d4bd36cd41c1e3772cb22d368b44f63f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:46:13.585845+00:00"
+}

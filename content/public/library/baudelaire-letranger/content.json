@@ -48,23 +48,56 @@
           "ttsText": "なぞめいたひとよ、だれをいちばんあいしているのか、いってごらん。ちちか、ははか、しまいか、きょうだいか。",
           "vocabulary": [
             {
-              "term": "謎めいた",
+              "term": "謎めいた人",
               "meaning": {
-                "ja": "理解しにくく、秘密があるような。",
-                "en": "Enigmatic; seeming to conceal a mystery."
+                "ja": "正体や考えがつかめない相手への呼びかけ。",
+                "en": "An address to a person whose identity or thinking is mysterious."
+              }
+            },
+            {
+              "term": "いちばん愛している",
+              "meaning": {
+                "ja": "最も深く愛情を向けている。",
+                "en": "Love more than anyone else."
+              }
+            },
+            {
+              "term": "言ってごらん",
+              "meaning": {
+                "ja": "相手に答えを促すくだけた命令。",
+                "en": "An informal prompt to answer."
+              }
+            },
+            {
+              "term": "父か、母か、姉妹か、兄弟か",
+              "meaning": {
+                "ja": "家族の候補を順に並べる。",
+                "en": "A sequence of possible family members."
               }
             }
           ],
           "grammar": [
             {
-              "point": "誰をいちばん",
+              "point": "誰を ... 愛しているのか",
               "explanation": {
-                "ja": "「を」は愛する対象、「いちばん」は比較の最上位を示します。",
-                "en": "を marks the object of love; いちばん marks the highest degree."
+                "ja": "愛する相手を問う疑問文を、相手への問いとして置きます。",
+                "en": "The question asks who receives the person’s deepest love."
+              }
+            },
+            {
+              "point": "Aか、Bか",
+              "explanation": {
+                "ja": "候補を一つずつ挙げ、答えを家族の中から選ぶ形にします。",
+                "en": "Repeated か offers family members as possible answers."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は家族を当然の選択肢として並べ、後の予想外の答えを準備します。",
+              "en": "The speaker assumes family will provide an answer, setting up the reply."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -81,10 +114,31 @@
           "ttsText": "— Whom do you love best, enigmatic man? Tell me: your father, your mother, your sister or your brother?",
           "vocabulary": [
             {
-              "term": "enigmatic",
+              "term": "Whom",
               "meaning": {
-                "ja": "謎めいた。",
-                "en": "Mysterious; difficult to understand."
+                "ja": "誰を。love の目的語を問う形。",
+                "en": "Who as the object of love."
+              }
+            },
+            {
+              "term": "love best",
+              "meaning": {
+                "ja": "最も愛している。",
+                "en": "Love most of all."
+              }
+            },
+            {
+              "term": "enigmatic man",
+              "meaning": {
+                "ja": "謎めいた人への呼びかけ。",
+                "en": "A direct address to the mysterious man."
+              }
+            },
+            {
+              "term": "father ... mother ... sister ... brother",
+              "meaning": {
+                "ja": "家族の候補を順に並べる。",
+                "en": "A list of family members offered as answers."
               }
             }
           ],
@@ -92,12 +146,24 @@
             {
               "point": "Whom do you love best?",
               "explanation": {
-                "ja": "目的語を問う whom を文頭に出し、do で疑問を作ります。best は最も強く、の意味です。",
-                "en": "Whom asks for the object; do forms the question. Best means to the greatest degree."
+                "ja": "do を用いる直接疑問文で、愛する相手を尋ねます。",
+                "en": "The do-question asks for the person loved most."
+              }
+            },
+            {
+              "point": "Tell me: ... ?",
+              "explanation": {
+                "ja": "命令文の後に家族の候補を並べ、答えを促します。",
+                "en": "The command introduces a list of possible answers."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "最初の問いは、家族の誰かを愛しているという前提に立っています。",
+              "en": "The opening question assumes that a family member will be named."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -114,23 +180,56 @@
           "ttsText": "— ¿A quién amas más, hombre enigmático? Dime: ¿a tu padre, a tu madre, a tu hermana o a tu hermano?",
           "vocabulary": [
             {
-              "term": "enigmático",
+              "term": "A quién",
               "meaning": {
-                "ja": "謎めいた。",
-                "en": "Enigmatic."
+                "ja": "誰を。人を目的語にするときの a を含む。",
+                "en": "Whom; a marks the person as direct object."
+              }
+            },
+            {
+              "term": "amas más",
+              "meaning": {
+                "ja": "最も愛する。",
+                "en": "Love most."
+              }
+            },
+            {
+              "term": "hombre enigmático",
+              "meaning": {
+                "ja": "謎めいた人への呼びかけ。",
+                "en": "Address to an enigmatic man."
+              }
+            },
+            {
+              "term": "padre ... madre ... hermana ... hermano",
+              "meaning": {
+                "ja": "父、母、姉妹、兄弟の候補。",
+                "en": "Family members offered as possible answers."
               }
             }
           ],
           "grammar": [
             {
-              "point": "¿A quién amas más?",
+              "point": "¿A quién ... ?",
               "explanation": {
-                "ja": "人を指す目的語に a を付け、quién で誰かを尋ねます。",
-                "en": "The personal a precedes a human object; quién asks who that person is."
+                "ja": "人を愛する相手として尋ねる直接疑問文です。",
+                "en": "The question asks which person is loved most."
+              }
+            },
+            {
+              "point": "amas / Dime",
+              "explanation": {
+                "ja": "どちらも親しい相手への tú 形で、問いと答えの促しをつなぎます。",
+                "en": "Both forms address the listener familiarly with tú."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は家族の誰かが答えになると想定しています。",
+              "en": "The questioner assumes someone in the family will be the answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -147,23 +246,56 @@
           "ttsText": "— Qui aimes-tu le mieux, homme énigmatique, dis ? ton père, ta mère, ta sœur ou ton frère ?",
           "vocabulary": [
             {
+              "term": "Qui",
+              "meaning": {
+                "ja": "誰を。aimes の目的語を問う。",
+                "en": "Whom, as the object of aimes."
+              }
+            },
+            {
               "term": "le mieux",
               "meaning": {
-                "ja": "最も、いちばんよく。",
-                "en": "Best; to the greatest degree."
+                "ja": "最も。",
+                "en": "Best, most of all."
+              }
+            },
+            {
+              "term": "homme énigmatique",
+              "meaning": {
+                "ja": "謎めいた人への呼びかけ。",
+                "en": "Address to a mysterious man."
+              }
+            },
+            {
+              "term": "père ... mère ... sœur ... frère",
+              "meaning": {
+                "ja": "家族の候補を順に挙げる。",
+                "en": "A list of family members as options."
               }
             }
           ],
           "grammar": [
             {
-              "point": "aimes-tu",
+              "point": "Qui aimes-tu ... ?",
               "explanation": {
-                "ja": "動詞と主語 tu の倒置による疑問です。問い手は相手を tu と呼びます。",
-                "en": "The question inverts verb and subject tu. The questioner uses familiar tu."
+                "ja": "倒置した aimes-tu で、愛する相手を直接尋ねます。",
+                "en": "The inverted verb and subject form a direct question."
+              }
+            },
+            {
+              "point": "ton / ta",
+              "explanation": {
+                "ja": "父・兄弟には ton、母・姉妹には ta を用います。",
+                "en": "Possessives agree with the gender of each family noun."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族の候補を次々に挙げる問いが、この対話の出発点です。",
+              "en": "The dialogue begins by offering family members as expected answers."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -180,23 +312,56 @@
           "ttsText": "— Wen liebst du am meisten, rätselhafter Mensch? Sag: deinen Vater, deine Mutter, deine Schwester oder deinen Bruder?",
           "vocabulary": [
             {
-              "term": "rätselhaft",
+              "term": "Wen",
               "meaning": {
-                "ja": "謎めいた。",
-                "en": "Enigmatic."
+                "ja": "誰を。lieben の対格目的語を問う。",
+                "en": "Whom, the accusative object of lieben."
+              }
+            },
+            {
+              "term": "am meisten",
+              "meaning": {
+                "ja": "最も。",
+                "en": "Most of all."
+              }
+            },
+            {
+              "term": "rätselhafter Mensch",
+              "meaning": {
+                "ja": "謎めいた人への呼びかけ。",
+                "en": "Address to the mysterious person."
+              }
+            },
+            {
+              "term": "Vater ... Mutter ... Schwester ... Bruder",
+              "meaning": {
+                "ja": "家族の候補。",
+                "en": "Family members offered as options."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Wen liebst du",
+              "point": "Wen liebst du ... ?",
               "explanation": {
-                "ja": "wen は人を問う対格。liebst の目的語を尋ねます。",
-                "en": "Wen is the accusative interrogative, asking for the object of liebst."
+                "ja": "疑問詞を先頭に置き、愛する相手を尋ねます。",
+                "en": "The question word opens a question about whom one loves."
+              }
+            },
+            {
+              "point": "deinen / deine",
+              "explanation": {
+                "ja": "男性名詞の対格には deinen、女性名詞には deine を用います。",
+                "en": "The accusative possessive changes with the nouns’ gender."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族の誰かを答えとして期待する問いから対話が始まります。",
+              "en": "The question opens by expecting a family member as the answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -213,23 +378,56 @@
           "ttsText": "— Кого ты любишь больше всего, загадочный человек? Скажи: отца, мать, сестру или брата?",
           "vocabulary": [
             {
-              "term": "загадочный",
+              "term": "Кого",
               "meaning": {
-                "ja": "謎めいた。",
-                "en": "Enigmatic."
+                "ja": "誰を。愛する対象を尋ねる形。",
+                "en": "Whom, the person loved."
+              }
+            },
+            {
+              "term": "больше всего",
+              "meaning": {
+                "ja": "いちばん、何よりも。",
+                "en": "Most of all."
+              }
+            },
+            {
+              "term": "загадочный человек",
+              "meaning": {
+                "ja": "謎めいた人への呼びかけ。",
+                "en": "Address to an enigmatic person."
+              }
+            },
+            {
+              "term": "отца, мать, сестру, брата",
+              "meaning": {
+                "ja": "家族の候補を対格で並べる。",
+                "en": "Family options in the accusative."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Кого ты любишь",
+              "point": "Кого ... любишь?",
               "explanation": {
-                "ja": "кого は人を問う対格で、愛する対象を示します。",
-                "en": "Кого is the accusative interrogative asking for the person loved."
+                "ja": "疑問詞で、最も愛する相手を尋ねます。",
+                "en": "The question word asks whom the person loves most."
+              }
+            },
+            {
+              "point": "отца / сестру / брата",
+              "explanation": {
+                "ja": "愛する対象として並ぶ名詞が対格形になります。",
+                "en": "The listed loved persons appear in accusative forms."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は家族の誰かを自然な答えと考えています。",
+              "en": "The speaker treats a family member as the natural answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -246,23 +444,56 @@
           "ttsText": "— من تحب أكثر، أيها الرجل الغامض؟ قل لي: أباك أم أمك أم أختك أم أخاك؟",
           "vocabulary": [
             {
-              "term": "الغامض",
+              "term": "مَنْ تُحِبُّ أَكْثَرَ",
               "meaning": {
-                "ja": "謎めいた、不明瞭な。",
-                "en": "Enigmatic; obscure."
+                "ja": "誰をいちばん愛するか。",
+                "en": "Whom do you love most?"
+              }
+            },
+            {
+              "term": "الرَّجُلُ الْغَامِضُ",
+              "meaning": {
+                "ja": "謎めいた人。",
+                "en": "The mysterious man."
+              }
+            },
+            {
+              "term": "قُلْ لِي",
+              "meaning": {
+                "ja": "私に言ってください。",
+                "en": "Tell me."
+              }
+            },
+            {
+              "term": "أَبَاكَ أَمْ أُمَّكَ أَمْ أُخْتَكَ أَمْ أَخَاكَ",
+              "meaning": {
+                "ja": "父、母、姉妹、兄弟の候補。",
+                "en": "Father, mother, sister, or brother as options."
               }
             }
           ],
           "grammar": [
             {
-              "point": "من تحب أكثر",
+              "point": "مَنْ + 動詞",
               "explanation": {
-                "ja": "من は「誰を」、أكثر は「より多く／最も」。أم は質問の選択肢を結びます。",
-                "en": "من asks whom; أكثر expresses the greater degree. أم joins alternatives in a question."
+                "ja": "愛する相手を直接尋ねる疑問詞です。",
+                "en": "من asks for the person loved."
+              }
+            },
+            {
+              "point": "أَمْ ... أَمْ",
+              "explanation": {
+                "ja": "家族の候補を問いの選択肢として並べます。",
+                "en": "Repeated أم strings together the family alternatives."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族の誰かが答えになるという問い手の予想が、後の返答で崩れます。",
+              "en": "The questioner expects a family member, an expectation the reply unsettles."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "man tuḥibbu ʾakthara, ʾayyuhā ar-rajulu al-ghāmiḍu? qul lī: ʾabāka ʾam ʾummaka ʾam ʾukhtaka ʾam ʾakhāka?"
@@ -283,23 +514,56 @@
           "ttsText": "— 神秘的人啊，你最爱谁？告诉我：你的父亲、母亲、姐妹，还是兄弟？",
           "vocabulary": [
             {
-              "term": "神秘",
+              "term": "神秘的人",
               "meaning": {
-                "ja": "謎めいた。",
-                "en": "Mysterious."
+                "ja": "正体のつかめない人への呼びかけ。",
+                "en": "Address to an enigmatic person."
+              }
+            },
+            {
+              "term": "最爱谁",
+              "meaning": {
+                "ja": "誰を最も愛するか。",
+                "en": "Whom one loves most."
+              }
+            },
+            {
+              "term": "告诉我",
+              "meaning": {
+                "ja": "私に教えて。",
+                "en": "Tell me."
+              }
+            },
+            {
+              "term": "父亲、母亲、姐妹、兄弟",
+              "meaning": {
+                "ja": "家族の候補を列挙する。",
+                "en": "A list of family members as possible answers."
               }
             }
           ],
           "grammar": [
             {
-              "point": "最爱谁",
+              "point": "你最爱谁？",
               "explanation": {
-                "ja": "最 は最上級の程度、谁 は愛する対象を問います。还是 は選択疑問をつなぎます。",
-                "en": "最 marks the highest degree; 谁 asks for the object. 还是 links alternatives in a question."
+                "ja": "最 が愛情の程度を最大にし、谁 が相手を問います。",
+                "en": "最 marks the strongest love; 谁 asks its object."
+              }
+            },
+            {
+              "point": "还是",
+              "explanation": {
+                "ja": "複数候補の最後に、選択を示します。",
+                "en": "还是 frames the final alternative in the question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族の誰かが答えになると見込んだ問いから対話が始まります。",
+              "en": "The dialogue starts with a question expecting a family member."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Shénmì de rén a, nǐ zuì ài shéi? Gàosu wǒ: nǐ de fùqīn, mǔqīn, jiěmèi, háishi xiōngdì?"
@@ -320,23 +584,56 @@
           "ttsText": "— 수수께끼 같은 사람이여, 누구를 가장 사랑하나요? 말해 보세요. 아버지, 어머니, 자매, 아니면 형제인가요?",
           "vocabulary": [
             {
-              "term": "수수께끼",
+              "term": "수수께끼 같은 사람",
               "meaning": {
-                "ja": "謎、なぞなぞ。",
-                "en": "A riddle or mystery."
+                "ja": "謎めいた人への呼びかけ。",
+                "en": "Address to an enigmatic person."
+              }
+            },
+            {
+              "term": "누구를 가장 사랑하나요",
+              "meaning": {
+                "ja": "誰をいちばん愛するか。",
+                "en": "Whom do you love most?"
+              }
+            },
+            {
+              "term": "말해 보세요",
+              "meaning": {
+                "ja": "答えを言ってみてください。",
+                "en": "Please try telling me."
+              }
+            },
+            {
+              "term": "아버지, 어머니, 자매, 형제",
+              "meaning": {
+                "ja": "家族の候補。",
+                "en": "Family members offered as options."
               }
             }
           ],
           "grammar": [
             {
-              "point": "누구를 가장",
+              "point": "누구를 + 動詞",
               "explanation": {
-                "ja": "를 は目的語の助詞、가장 は「最も」。",
-                "en": "를 marks the object and 가장 means most."
+                "ja": "를 が「誰」を愛する対象として示します。",
+                "en": "The object particle marks 누구 as the loved person."
+              }
+            },
+            {
+              "point": "-나요 / -세요",
+              "explanation": {
+                "ja": "問いかけと依頼を丁寧な形で相手に向けます。",
+                "en": "The endings make the question and request polite."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は家族のうち誰かを答えとして期待します。",
+              "en": "The questioner expects the answer to name someone in the family."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -358,23 +655,56 @@
           "ttsText": "わたしにはちちもははも、しまいもきょうだいもいません。",
           "vocabulary": [
             {
-              "term": "〜も〜も",
+              "term": "私には",
               "meaning": {
-                "ja": "列挙したものをすべて含める。",
-                "en": "Includes each item in a series."
+                "ja": "自分について存在・不在を述べる出発点。",
+                "en": "As for what the speaker has or lacks."
+              }
+            },
+            {
+              "term": "父も母も",
+              "meaning": {
+                "ja": "両親のどちらもいないこと。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "姉妹も兄弟も",
+              "meaning": {
+                "ja": "きょうだいのどちらもいないこと。",
+                "en": "Neither sister nor brother."
+              }
+            },
+            {
+              "term": "いません",
+              "meaning": {
+                "ja": "人の存在を否定する。",
+                "en": "States that the people are absent."
               }
             }
           ],
           "grammar": [
             {
-              "point": "父も母もいません",
+              "point": "AもBも ... ない",
               "explanation": {
-                "ja": "「も」を繰り返し、最後の否定を全項目に及ぼします。",
-                "en": "Repeated も places every listed item within the scope of the final negative."
+                "ja": "家族の候補をすべて否定します。",
+                "en": "The repeated も with negation excludes every family option."
+              }
+            },
+            {
+              "point": "私には ... いません",
+              "explanation": {
+                "ja": "話し手について、人がいないことを述べる存在文です。",
+                "en": "The construction states that these people are absent from the speaker’s life."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "最初の質問で並べられた家族の候補を、返答は一つずつ消していきます。",
+              "en": "The reply rules out each family member offered in the first question."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -391,23 +721,49 @@
           "ttsText": "— I have neither father nor mother, neither sister nor brother.",
           "vocabulary": [
             {
-              "term": "neither … nor",
+              "term": "neither ... nor",
               "meaning": {
-                "ja": "〜も〜もない。",
-                "en": "Not one and not the other."
+                "ja": "どちらもいない。",
+                "en": "Neither one nor the other."
+              }
+            },
+            {
+              "term": "father nor mother",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither parent."
+              }
+            },
+            {
+              "term": "sister nor brother",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sibling."
               }
             }
           ],
           "grammar": [
             {
-              "point": "neither … nor",
+              "point": "have neither ... nor",
               "explanation": {
-                "ja": "否定を表す neither と nor で、列挙した家族をすべて否定します。",
-                "en": "Neither and nor coordinate the family members under a single negative."
+                "ja": "have の目的語を否定し、両親がいないと示します。",
+                "en": "The paired negatives exclude both parents."
+              }
+            },
+            {
+              "point": "neither ... nor の反復",
+              "explanation": {
+                "ja": "同じ形をきょうだいにも重ね、家族の候補をすべて否定します。",
+                "en": "Repeating the pair excludes the sibling options too."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "前の問いで挙がった四人の候補を、そのまま順に否定しています。",
+              "en": "The answer negates the four options in the order just offered."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -424,23 +780,49 @@
           "ttsText": "— No tengo padre, ni madre, ni hermana, ni hermano.",
           "vocabulary": [
             {
-              "term": "ni",
+              "term": "No tengo",
               "meaning": {
-                "ja": "〜もない。",
-                "en": "Nor; neither."
+                "ja": "私は持っていない、ここでは家族がいない。",
+                "en": "I do not have; here, I have no family members."
+              }
+            },
+            {
+              "term": "padre, ni madre",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "hermana, ni hermano",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sister nor brother."
               }
             }
           ],
           "grammar": [
             {
-              "point": "No tengo … ni …",
+              "point": "No ... ni",
               "explanation": {
-                "ja": "no と繰り返す ni で複数の対象を否定します。",
-                "en": "No combines with repeated ni to negate several objects."
+                "ja": "動詞を否定したうえで、ni を使って欠けている人を加えます。",
+                "en": "No negates the verb; ni extends the list of absent people."
+              }
+            },
+            {
+              "point": "ni の反復",
+              "explanation": {
+                "ja": "家族四者を一つずつ否定して、前の問いに答えます。",
+                "en": "Repeated ni rules out each family option in turn."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手が挙げた家族の候補が、すべていないと返します。",
+              "en": "The answer rejects every family member offered in the question."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -457,23 +839,49 @@
           "ttsText": "— Je n’ai ni père, ni mère, ni sœur, ni frère.",
           "vocabulary": [
             {
-              "term": "ni … ni",
+              "term": "Je n’ai",
               "meaning": {
-                "ja": "〜も〜もない。",
-                "en": "Neither … nor."
+                "ja": "私にはいない。",
+                "en": "I do not have."
+              }
+            },
+            {
+              "term": "ni père, ni mère",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "ni sœur, ni frère",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sister nor brother."
               }
             }
           ],
           "grammar": [
             {
-              "point": "ne … ni … ni",
+              "point": "ne ... ni ... ni",
               "explanation": {
-                "ja": "列挙の否定では pas を加えず ne と ni を用います。",
-                "en": "Negated coordination uses ne and ni without adding pas."
+                "ja": "否定の中で家族の候補を順にすべて除外します。",
+                "en": "The negative construction excludes each listed family member."
+              }
+            },
+            {
+              "point": "冠詞なしの親族名",
+              "explanation": {
+                "ja": "ni の後の père、mère などを冠詞なしで列挙します。",
+                "en": "The kinship nouns are listed without articles after ni."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "前の問いが当然とした家族の存在を、返答が否定します。",
+              "en": "The reply denies the family relationships assumed in the question."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -490,23 +898,49 @@
           "ttsText": "— Ich habe weder Vater noch Mutter, weder Schwester noch Bruder.",
           "vocabulary": [
             {
-              "term": "weder … noch",
+              "term": "Ich habe",
               "meaning": {
-                "ja": "〜も〜もない。",
-                "en": "Neither … nor."
+                "ja": "私にはいる、持っている。",
+                "en": "I have."
+              }
+            },
+            {
+              "term": "weder Vater noch Mutter",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "weder Schwester noch Bruder",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sister nor brother."
               }
             }
           ],
           "grammar": [
             {
-              "point": "weder … noch",
+              "point": "weder ... noch",
               "explanation": {
-                "ja": "否定の並列で、別に nicht を加える必要はありません。",
-                "en": "This negative coordination does not require an additional nicht."
+                "ja": "二つの候補をまとめて否定する対句です。",
+                "en": "The paired words negate both alternatives."
+              }
+            },
+            {
+              "point": "weder ... noch の反復",
+              "explanation": {
+                "ja": "両親ときょうだいに同じ形を重ね、全候補を除外します。",
+                "en": "Repeating the pair excludes parents and siblings alike."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "最初の問いで挙がった家族の候補が、一つもいないと答えます。",
+              "en": "The speaker says none of the family members offered in the question is present."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -523,23 +957,49 @@
           "ttsText": "— У меня нет ни отца, ни матери, ни сестры, ни брата.",
           "vocabulary": [
             {
-              "term": "нет",
+              "term": "У меня нет",
               "meaning": {
-                "ja": "ない、存在しない。",
-                "en": "There is not; absence."
+                "ja": "私にはいない。",
+                "en": "I do not have."
+              }
+            },
+            {
+              "term": "ни отца, ни матери",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "ни сестры, ни брата",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sister nor brother."
               }
             }
           ],
           "grammar": [
             {
-              "point": "нет ни отца",
+              "point": "у + 生格 + нет",
               "explanation": {
-                "ja": "нет の後ろは生格です。ни を繰り返して否定を並べます。",
-                "en": "Нет takes the genitive; repeated ни coordinates the negated items."
+                "ja": "所有者を у меня、存在しない人を нет で示します。",
+                "en": "The construction states that the speaker has none of these people."
+              }
+            },
+            {
+              "point": "нет ни + 生格",
+              "explanation": {
+                "ja": "否定される親族名が生格になり、ни が候補を一つずつつなぎます。",
+                "en": "The absent kinship nouns take genitive after нет ни."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族を問う最初の質問に対し、四つの候補をすべて否定します。",
+              "en": "The answer denies all four family options from the opening question."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -556,23 +1016,49 @@
           "ttsText": "— ليس لي أب ولا أم ولا أخت ولا أخ.",
           "vocabulary": [
             {
-              "term": "ليس لي",
+              "term": "لَيْسَ لِي",
               "meaning": {
-                "ja": "私にはない。",
+                "ja": "私にはいない。",
                 "en": "I do not have."
+              }
+            },
+            {
+              "term": "أَبٌ وَلَا أُمٌّ",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "أُخْتٌ وَلَا أَخٌ",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sister nor brother."
               }
             }
           ],
           "grammar": [
             {
-              "point": "ليس لي",
+              "point": "لَيْسَ لِي",
               "explanation": {
-                "ja": "ليس で所有を表す文を否定し、ولا で否定を重ねます。",
-                "en": "ليس negates the possession construction; ولا adds further negated items."
+                "ja": "所有・存在を否定し、自分には家族がいないと述べます。",
+                "en": "The construction denies that the speaker has these family members."
+              }
+            },
+            {
+              "point": "وَلَا の反復",
+              "explanation": {
+                "ja": "父母ときょうだいを次々に否定します。",
+                "en": "Repeated ولا excludes each family option."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "最初の問いが示した家族の候補を、返答はすべて退けます。",
+              "en": "The reply rules out all the family members just proposed."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "laysa lī ʾabun wa-lā ʾummun wa-lā ʾukhtun wa-lā ʾakhun."
@@ -593,23 +1079,49 @@
           "ttsText": "— 我没有父亲，没有母亲，也没有姐妹或兄弟。",
           "vocabulary": [
             {
-              "term": "没有",
+              "term": "我没有",
               "meaning": {
-                "ja": "持たない、存在しない。",
-                "en": "Not have; there is no."
+                "ja": "私にはいない。",
+                "en": "I do not have."
+              }
+            },
+            {
+              "term": "父亲、母亲",
+              "meaning": {
+                "ja": "父と母。",
+                "en": "Father and mother."
+              }
+            },
+            {
+              "term": "姐妹或兄弟",
+              "meaning": {
+                "ja": "姉妹または兄弟。",
+                "en": "Sisters or brothers."
               }
             }
           ],
           "grammar": [
             {
-              "point": "也没有",
+              "point": "没有 + 名詞",
               "explanation": {
-                "ja": "也 は「〜も」で、前の否定に別の対象を加えます。",
-                "en": "也 adds another item to the preceding negative statement."
+                "ja": "家族がいないことを所有・存在の否定で表します。",
+                "en": "没有 negates having these family members."
+              }
+            },
+            {
+              "point": "没有 の反復",
+              "explanation": {
+                "ja": "両親ときょうだいの候補を順に否定していきます。",
+                "en": "Repeated 没有 extends the denial across the family list."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "最初に挙げられた家族を一つずつ除外する返答です。",
+              "en": "The reply excludes the family options from the opening question."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ méiyǒu fùqīn, méiyǒu mǔqīn, yě méiyǒu jiěmèi huò xiōngdì."
@@ -630,23 +1142,49 @@
           "ttsText": "— 내게는 아버지도 어머니도, 자매도 형제도 없어요.",
           "vocabulary": [
             {
-              "term": "없다",
+              "term": "내게는",
               "meaning": {
-                "ja": "ない、いない。",
-                "en": "To not exist; not have."
+                "ja": "私にとっては、私には。",
+                "en": "As for me."
+              }
+            },
+            {
+              "term": "아버지도 어머니도",
+              "meaning": {
+                "ja": "父も母もいない。",
+                "en": "Neither father nor mother."
+              }
+            },
+            {
+              "term": "자매도 형제도",
+              "meaning": {
+                "ja": "姉妹も兄弟もいない。",
+                "en": "Neither sister nor brother."
               }
             }
           ],
           "grammar": [
             {
-              "point": "아버지도 어머니도",
+              "point": "-도 ... -도",
               "explanation": {
-                "ja": "도 を重ね、없어요 で列挙全体を否定します。",
-                "en": "Repeated 도 includes all the listed people in the negative 없어요."
+                "ja": "同じ助詞を各親族名に付け、すべてを否定の範囲に入れます。",
+                "en": "Repeated -도 includes each relative under the negation."
+              }
+            },
+            {
+              "point": "없어요",
+              "explanation": {
+                "ja": "存在しないことを丁寧に答えます。",
+                "en": "The polite negative existence verb says they are absent."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手が想定した家族の四者が、すべていないと返します。",
+              "en": "The speaker says none of the four proposed relatives is present."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -670,21 +1208,26 @@
             {
               "term": "友達",
               "meaning": {
-                "ja": "親しい相手。",
-                "en": "Friends."
+                "ja": "親しい関係にある人。",
+                "en": "A person with whom one has a close relationship."
               }
             }
           ],
           "grammar": [
             {
-              "point": "友達",
+              "point": "名詞 + は？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "「友達はいますか／愛していますか」を省略し、次の候補だけを問います。",
+                "en": "The topic particle leaves the earlier question understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族がいないという返答を受け、問い手は友人へ質問を移します。",
+              "en": "After the denial of family, the questioner turns to friends."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -703,21 +1246,26 @@
             {
               "term": "friends",
               "meaning": {
-                "ja": "友達。",
-                "en": "People one is close to."
+                "ja": "家族ではない親しい人々。",
+                "en": "Close people outside the family."
               }
             }
           ],
           "grammar": [
             {
-              "point": "friends",
+              "point": "Your friends?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、前の「誰を愛するか」という問いを引き継ぎます。",
+                "en": "The fragment carries forward the earlier question about love."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族の次に、友人ならいるだろうと問い手は探ります。",
+              "en": "The speaker next tests whether the man has friends."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -734,23 +1282,28 @@
           "ttsText": "— ¿Tus amigos?",
           "vocabulary": [
             {
-              "term": "amigos",
+              "term": "Tus amigos",
               "meaning": {
-                "ja": "友達。",
-                "en": "Friends."
+                "ja": "あなたの友人たち。",
+                "en": "Your friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "amigos",
+              "point": "¿Tus amigos?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省いた短い問いで、前の愛する相手の質問を続けます。",
+                "en": "The fragment continues the earlier question without repeating its verb."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族では答えが得られず、問い手は友人へ候補を変えます。",
+              "en": "Having found no family, the questioner proposes friends instead."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -767,23 +1320,28 @@
           "ttsText": "— Tes amis ?",
           "vocabulary": [
             {
-              "term": "tes amis",
+              "term": "Tes amis",
               "meaning": {
-                "ja": "君の友達。",
-                "en": "Your friends; familiar address."
+                "ja": "あなたの友人たち。",
+                "en": "Your friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "tes amis",
+              "point": "Tes amis ?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞のない省略疑問で、前の愛する相手の問いを続けます。",
+                "en": "The elliptical question carries forward the preceding topic of love."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族の代わりに、友人が愛する対象になるかを問います。",
+              "en": "The questioner asks whether friends can replace the family as an answer."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -800,23 +1358,28 @@
           "ttsText": "— Deine Freunde?",
           "vocabulary": [
             {
-              "term": "Freunde",
+              "term": "Deine Freunde",
               "meaning": {
-                "ja": "友達。",
-                "en": "Friends."
+                "ja": "あなたの友人たち。",
+                "en": "Your friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Freunde",
+              "point": "Deine Freunde?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、前の「誰を愛するか」という問いを引き継ぎます。",
+                "en": "The verb is omitted because the earlier question remains understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族がいないという返答のあと、問い手は友人を挙げます。",
+              "en": "After the denial of family, the questioner offers friends."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -835,21 +1398,26 @@
             {
               "term": "друзья",
               "meaning": {
-                "ja": "友達。",
+                "ja": "友人たち。",
                 "en": "Friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "друзья",
+              "point": "А друзья?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "А が話題を友人へ切り替え、動詞は前の問いから補います。",
+                "en": "А shifts the topic to friends; the verb is understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族に続く次の候補として友人が示されます。",
+              "en": "Friends become the next possible object of love."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -866,23 +1434,28 @@
           "ttsText": "— وأصدقاؤك؟",
           "vocabulary": [
             {
-              "term": "أصدقاؤك",
+              "term": "أَصْدِقَاؤُكَ",
               "meaning": {
-                "ja": "君の友達。",
+                "ja": "あなたの友人たち。",
                 "en": "Your friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "أصدقاؤك",
+              "point": "وَأَصْدِقَاؤُكَ؟",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "وَ が前の家族の話に友人を加え、動詞を省いて問います。",
+                "en": "The conjunction adds friends to the prior alternatives in an elliptical question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は家族から友人へ、愛する対象の候補を移します。",
+              "en": "The questioner moves from family to friends as a possible answer."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "wa-ʾaṣdiqāʾuka?"
@@ -903,23 +1476,28 @@
           "ttsText": "— 你的朋友呢？",
           "vocabulary": [
             {
-              "term": "朋友",
+              "term": "你的朋友",
               "meaning": {
-                "ja": "友達。",
-                "en": "Friends."
+                "ja": "あなたの友人。",
+                "en": "Your friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "朋友",
+              "point": "名詞 + 呢？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の質問を省略し、「友人については？」と話題を変えます。",
+                "en": "呢 shifts the topic to friends while leaving the earlier question understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族がいないと聞き、友人について問い直します。",
+              "en": "After hearing there is no family, the speaker asks about friends."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Nǐ de péngyou ne?"
@@ -942,21 +1520,26 @@
             {
               "term": "친구들",
               "meaning": {
-                "ja": "友達。",
+                "ja": "友人たち。",
                 "en": "Friends."
               }
             }
           ],
           "grammar": [
             {
-              "point": "친구들",
+              "point": "-은요?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の問いを省略し、「友人はどうですか」と話題を移します。",
+                "en": "The topic ending asks “what about friends?” elliptically."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族に続いて、友人を愛する対象の候補にします。",
+              "en": "Friends are offered as the next possible loved people."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -978,23 +1561,63 @@
           "ttsText": "あなたはいま、こんにちまでわたしがいみをしらずにきたことばをおつかいですね。",
           "vocabulary": [
             {
-              "term": "今日まで",
+              "term": "あなたはいま",
               "meaning": {
-                "ja": "現在に至るまで。",
-                "en": "Up to the present day."
+                "ja": "目の前の問い手が今言ったことを指す。",
+                "en": "The questioner’s immediately preceding word."
+              }
+            },
+            {
+              "term": "意味を知らずにきた",
+              "meaning": {
+                "ja": "今日まで理解できないままでいた。",
+                "en": "Had remained unable to understand the meaning."
+              }
+            },
+            {
+              "term": "言葉",
+              "meaning": {
+                "ja": "直前の「友達」を指す。",
+                "en": "The word “friends” just used."
+              }
+            },
+            {
+              "term": "お使いですね",
+              "meaning": {
+                "ja": "相手の言葉遣いを丁寧に指摘する。",
+                "en": "Politely points out the word the other person used."
               }
             }
           ],
           "grammar": [
             {
-              "point": "意味を知らずにきた",
+              "point": "-ずにきた",
               "explanation": {
-                "ja": "否定の「ず」に継続の「〜てくる」に相当する形を続けています。",
-                "en": "The negative ず combines with きた to describe a condition persisting until now."
+                "ja": "過去から現在まで意味を知らない状態が続いたと示します。",
+                "en": "The form describes not knowing the meaning up to now."
+              }
+            },
+            {
+              "point": "お + 動詞連用形",
+              "explanation": {
+                "ja": "「お使い」は相手の行為を高める表現です。",
+                "en": "The honorific prefix raises the listener’s action."
+              }
+            },
+            {
+              "point": "-ですね",
+              "explanation": {
+                "ja": "相手に向け、いま使った言葉に気づいたことを確認する語尾です。",
+                "en": "The ending presents the observation directly to the listener."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "この返答は「友達がいない」より踏み込み、「友達」という語の意味さえ知らないと述べます。",
+              "en": "The reply goes beyond lacking friends: the speaker says the word itself is unknown."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1011,23 +1634,56 @@
           "ttsText": "— You are using a word whose meaning has remained unknown to me to this day.",
           "vocabulary": [
             {
+              "term": "using a word",
+              "meaning": {
+                "ja": "いま一つの言葉を使っている。",
+                "en": "Using a particular word now."
+              }
+            },
+            {
+              "term": "whose meaning",
+              "meaning": {
+                "ja": "その言葉の意味。",
+                "en": "The meaning belonging to that word."
+              }
+            },
+            {
+              "term": "remained unknown",
+              "meaning": {
+                "ja": "分からないままだった。",
+                "en": "Had stayed unfamiliar."
+              }
+            },
+            {
               "term": "to this day",
               "meaning": {
                 "ja": "今日に至るまで。",
-                "en": "Up to the present day."
+                "en": "Until now."
               }
             }
           ],
           "grammar": [
             {
-              "point": "whose meaning",
+              "point": "whose + 名詞",
               "explanation": {
-                "ja": "所有関係を表す関係詞 whose が word と meaning を結びます。",
-                "en": "The possessive relative whose links word and meaning."
+                "ja": "whose meaning が a word を受け、その意味を説明します。",
+                "en": "Whose meaning links the meaning back to a word."
+              }
+            },
+            {
+              "point": "has remained",
+              "explanation": {
+                "ja": "現在完了が、過去から今日まで意味を知らない状態をつなぎます。",
+                "en": "The present perfect stretches the lack of understanding to the present."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "直前の「friends」という語自体が分からないと返し、会話の隔たりを深めます。",
+              "en": "The man says the very word “friends” is unknown, widening the gap in the dialogue."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1044,23 +1700,63 @@
           "ttsText": "— Está usted usando una palabra cuyo sentido me ha sido desconocido hasta hoy.",
           "vocabulary": [
             {
-              "term": "hasta hoy",
+              "term": "Está usted usando",
               "meaning": {
-                "ja": "今日まで。",
-                "en": "Until today."
+                "ja": "あなたはいま使っています。",
+                "en": "You are using now, in formal address."
+              }
+            },
+            {
+              "term": "una palabra",
+              "meaning": {
+                "ja": "一つの言葉、ここでは友人。",
+                "en": "A word, here “friends.”"
+              }
+            },
+            {
+              "term": "cuyo sentido",
+              "meaning": {
+                "ja": "その意味。",
+                "en": "Whose meaning."
+              }
+            },
+            {
+              "term": "desconocido hasta hoy",
+              "meaning": {
+                "ja": "今日まで知らなかった。",
+                "en": "Unknown until today."
               }
             }
           ],
           "grammar": [
             {
-              "point": "cuyo sentido",
+              "point": "estar + 現在分詞",
               "explanation": {
-                "ja": "cuyo は先行する palabra と sentido の所有関係を表します。",
-                "en": "Cuyo expresses the relation between palabra and its sentido."
+                "ja": "いま問い手がその言葉を使っている最中だと示します。",
+                "en": "The progressive highlights the word being used right now."
+              }
+            },
+            {
+              "point": "cuyo + 名詞",
+              "explanation": {
+                "ja": "cuyo sentido が palabra の意味を受け、関係節を作ります。",
+                "en": "Cuyo sentido connects the meaning to palabra."
+              }
+            },
+            {
+              "point": "usted",
+              "explanation": {
+                "ja": "冒頭の amas、Dime の親しい呼びかけから、ここでは丁寧な呼称に変わります。",
+                "en": "Usted shifts from the familiar address in the opening question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "相手が使った「友人」という言葉の意味を知らないと述べます。",
+              "en": "The speaker claims not to know the meaning of the word “friends.”"
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1077,23 +1773,70 @@
           "ttsText": "— Vous vous servez là d’une parole dont le sens m’est resté jusqu’à ce jour inconnu.",
           "vocabulary": [
             {
-              "term": "se servir de",
+              "term": "Vous vous servez",
               "meaning": {
-                "ja": "〜を用いる。",
-                "en": "To make use of."
+                "ja": "あなたはお使いです。",
+                "en": "You use, in formal address."
+              }
+            },
+            {
+              "term": "une parole",
+              "meaning": {
+                "ja": "一つの言葉、直前の「友人」。",
+                "en": "A word, referring to “friends.”"
+              }
+            },
+            {
+              "term": "dont le sens",
+              "meaning": {
+                "ja": "その意味。",
+                "en": "Whose meaning."
+              }
+            },
+            {
+              "term": "jusqu’à ce jour",
+              "meaning": {
+                "ja": "今日に至るまで。",
+                "en": "Up to this day."
+              }
+            },
+            {
+              "term": "m’est resté inconnu",
+              "meaning": {
+                "ja": "私には分からないままだった。",
+                "en": "Has remained unknown to me."
               }
             }
           ],
           "grammar": [
             {
+              "point": "se servir de",
+              "explanation": {
+                "ja": "言葉を「使う」という表現で、de の対象を une parole で受けます。",
+                "en": "Se servir de means to use; the object is the word."
+              }
+            },
+            {
               "point": "dont le sens",
               "explanation": {
-                "ja": "dont は de cette parole に対応し「その言葉の意味」をつなぎます。相手への呼称は vous です。",
-                "en": "Dont stands for de cette parole, linking the word to its meaning. The stranger addresses the questioner as vous."
+                "ja": "dont が parole を受け、その意味について説明します。",
+                "en": "Dont links the meaning back to the word."
+              }
+            },
+            {
+              "point": "Vous",
+              "explanation": {
+                "ja": "問い手の tu から、返答では丁寧な vous に切り替わります。",
+                "en": "The reply uses formal vous after the questioner’s tu."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "「友人」を知らないという返答が、問い手とこの人物の距離を示します。",
+              "en": "Claiming not to know “friends” exposes the distance between the two speakers."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -1110,23 +1853,70 @@
           "ttsText": "— Sie gebrauchen da ein Wort, dessen Bedeutung mir bis heute unbekannt geblieben ist.",
           "vocabulary": [
             {
-              "term": "unbekannt",
+              "term": "Sie gebrauchen",
               "meaning": {
-                "ja": "知られていない。",
-                "en": "Unknown."
+                "ja": "あなたはお使いです。",
+                "en": "You use, in formal address."
+              }
+            },
+            {
+              "term": "ein Wort",
+              "meaning": {
+                "ja": "一つの言葉、ここでは友人。",
+                "en": "A word, here “friends.”"
+              }
+            },
+            {
+              "term": "dessen Bedeutung",
+              "meaning": {
+                "ja": "その意味。",
+                "en": "Whose meaning."
+              }
+            },
+            {
+              "term": "bis heute",
+              "meaning": {
+                "ja": "今日まで。",
+                "en": "Until today."
+              }
+            },
+            {
+              "term": "unbekannt geblieben",
+              "meaning": {
+                "ja": "分からないままだった。",
+                "en": "Has remained unknown."
               }
             }
           ],
           "grammar": [
             {
-              "point": "dessen Bedeutung",
+              "point": "dessen + 名詞",
               "explanation": {
-                "ja": "dessen は属格の関係代名詞で、Wort の「意味」を導きます。",
-                "en": "Dessen is a genitive relative pronoun introducing the meaning of Wort."
+                "ja": "dessen Bedeutung が Wort に戻り、その意味を説明します。",
+                "en": "Dessen Bedeutung links the meaning back to Wort."
+              }
+            },
+            {
+              "point": "geblieben ist",
+              "explanation": {
+                "ja": "現在完了が、知らない状態の継続を今日へつなぎます。",
+                "en": "The perfect expresses a state continuing until today."
+              }
+            },
+            {
+              "point": "Sie",
+              "explanation": {
+                "ja": "問い手の du に対し、返答は丁寧な Sie を使います。",
+                "en": "The answer uses formal Sie after the questioner’s du."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人物は友人の不在だけでなく、語の意味すら知らないと言います。",
+              "en": "The man claims ignorance of the word itself, not merely a lack of friends."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1143,23 +1933,70 @@
           "ttsText": "— Вы употребляете слово, смысл которого до сегодняшнего дня оставался мне неизвестен.",
           "vocabulary": [
             {
-              "term": "неизвестен",
+              "term": "Вы употребляете",
               "meaning": {
-                "ja": "知られていない。",
-                "en": "Unknown; short adjective form."
+                "ja": "あなたは使っています。丁寧・複数形の呼びかけ。",
+                "en": "You use, in formal address here."
+              }
+            },
+            {
+              "term": "слово",
+              "meaning": {
+                "ja": "言葉、ここでは「友人」。",
+                "en": "The word “friends.”"
+              }
+            },
+            {
+              "term": "смысл которого",
+              "meaning": {
+                "ja": "その言葉の意味。",
+                "en": "Whose meaning."
+              }
+            },
+            {
+              "term": "до сегодняшнего дня",
+              "meaning": {
+                "ja": "今日まで。",
+                "en": "Until this day."
+              }
+            },
+            {
+              "term": "оставался неизвестен",
+              "meaning": {
+                "ja": "知られないままだった。",
+                "en": "Remained unknown."
               }
             }
           ],
           "grammar": [
             {
-              "point": "смысл которого",
+              "point": "которого",
               "explanation": {
-                "ja": "которого は生格で「その言葉の意味」という関係を作ります。",
-                "en": "Genitive которого links the word to its meaning."
+                "ja": "関係代名詞が слово を受け、その意味を説明します。",
+                "en": "The relative pronoun refers back to слово."
+              }
+            },
+            {
+              "point": "оставался",
+              "explanation": {
+                "ja": "不完了体過去が、知らない状態の継続を示します。",
+                "en": "The imperfective past describes the continuing unknown state."
+              }
+            },
+            {
+              "point": "Вы",
+              "explanation": {
+                "ja": "問い手の ты に対し、この返答では丁寧な Вы を用います。",
+                "en": "The reply uses formal Вы after the questioner’s ты."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "「友人」という言葉の意味を知らないと述べ、問いに直接は答えません。",
+              "en": "The man says the meaning of “friends” is unknown instead of giving a name."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1176,23 +2013,63 @@
           "ttsText": "— إنك تستخدم كلمة ظل معناها مجهولًا لدي حتى اليوم.",
           "vocabulary": [
             {
-              "term": "مجهولًا",
+              "term": "تَسْتَخْدِمُ كَلِمَةً",
               "meaning": {
-                "ja": "知られていない。",
-                "en": "Unknown."
+                "ja": "一つの言葉を使っている。",
+                "en": "You are using a word."
+              }
+            },
+            {
+              "term": "مَعْنَاهَا",
+              "meaning": {
+                "ja": "その意味。",
+                "en": "Its meaning."
+              }
+            },
+            {
+              "term": "مَجْهُولًا لَدَيَّ",
+              "meaning": {
+                "ja": "私には分からない。",
+                "en": "Unknown to me."
+              }
+            },
+            {
+              "term": "حَتَّى الْيَوْمِ",
+              "meaning": {
+                "ja": "今日に至るまで。",
+                "en": "Until today."
               }
             }
           ],
           "grammar": [
             {
-              "point": "ظل معناها مجهولًا",
+              "point": "إِنَّكَ",
               "explanation": {
-                "ja": "ظل は状態の継続を表し、述語 مجهولًا は対格になります。",
-                "en": "ظل expresses a continuing state and takes the predicate مجهولًا in the accusative."
+                "ja": "文頭で、相手が言葉を使ったことを強調します。",
+                "en": "The opening particle emphasizes the listener’s use of the word."
+              }
+            },
+            {
+              "point": "ظَلَّ + 状態",
+              "explanation": {
+                "ja": "意味が知られないままだった継続を示します。",
+                "en": "ظل marks the meaning as having remained unknown."
+              }
+            },
+            {
+              "point": "هَا in معناها",
+              "explanation": {
+                "ja": "代名詞が直前の女性名詞 كلمة を指します。",
+                "en": "The suffix refers back to the feminine noun كلمة."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "直前の「友人」に当たる語を、意味も知らないと言い返します。",
+              "en": "The speaker claims not to know even the meaning of the word for friends."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "ʾinnaka tastakhdimu kalimatan ẓalla maʿnāhā majhūlan ladayya ḥattā al-yawmi."
@@ -1213,23 +2090,56 @@
           "ttsText": "— 你用的这个词，直到今天，我仍不知道它的意思。",
           "vocabulary": [
             {
-              "term": "仍",
+              "term": "你用的这个词",
               "meaning": {
-                "ja": "依然として。",
-                "en": "Still."
+                "ja": "あなたが今使ったこの言葉。",
+                "en": "This word you just used."
+              }
+            },
+            {
+              "term": "直到今天",
+              "meaning": {
+                "ja": "今日までずっと。",
+                "en": "Up to today."
+              }
+            },
+            {
+              "term": "仍不知道",
+              "meaning": {
+                "ja": "なお分からない。",
+                "en": "Still do not know."
+              }
+            },
+            {
+              "term": "它的意思",
+              "meaning": {
+                "ja": "その言葉の意味。",
+                "en": "Its meaning."
               }
             }
           ],
           "grammar": [
             {
-              "point": "你用的这个词",
+              "point": "的 + この詞",
               "explanation": {
-                "ja": "動詞句 你用 に 的 を付けて、後ろの名詞 词 を修飾します。",
-                "en": "的 turns 你用 into a modifier of 词."
+                "ja": "你用的 が 这个词 を修飾し、どの言葉か示します。",
+                "en": "你用的 identifies the word in question."
+              }
+            },
+            {
+              "point": "直到 ... 仍 ...",
+              "explanation": {
+                "ja": "今日まで意味が分からない状態が続くと示します。",
+                "en": "The frame says the ignorance persists up to today."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "その言葉は直前の「朋友」で、問いに答える前に語の意味を否定します。",
+              "en": "The word is “friends”; the man answers by denying he knows its meaning."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Nǐ yòng de zhège cí, zhídào jīntiān, wǒ réng bù zhīdào tā de yìsi."
@@ -1250,23 +2160,56 @@
           "ttsText": "— 지금 쓰신 그 말의 뜻은 오늘까지도 제게 알려지지 않았어요.",
           "vocabulary": [
             {
+              "term": "지금 쓰신 그 말",
+              "meaning": {
+                "ja": "今お使いになったその言葉。",
+                "en": "That word you just used."
+              }
+            },
+            {
               "term": "뜻",
               "meaning": {
-                "ja": "意味。",
-                "en": "Meaning."
+                "ja": "言葉の意味。",
+                "en": "The word’s meaning."
+              }
+            },
+            {
+              "term": "오늘까지도",
+              "meaning": {
+                "ja": "今日までずっと。",
+                "en": "Even up to today."
+              }
+            },
+            {
+              "term": "알려지지 않았어요",
+              "meaning": {
+                "ja": "分からないままだった。",
+                "en": "Has remained unknown."
               }
             }
           ],
           "grammar": [
             {
-              "point": "오늘까지도",
+              "point": "-신",
               "explanation": {
-                "ja": "까지 は終点、도 は強調を加え「今日に至っても」と表します。",
-                "en": "까지 marks the endpoint and 도 adds emphasis: even up to today."
+                "ja": "쓰신 が相手の行為を高め、丁寧に呼びかけます。",
+                "en": "The honorific suffix raises the listener’s action."
+              }
+            },
+            {
+              "point": "-지 않았어요",
+              "explanation": {
+                "ja": "知られていない状態を否定形で述べます。",
+                "en": "The negative ending states the meaning has not become known."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "友人がいないとだけ言わず、「友人」の意味も分からないと答えます。",
+              "en": "The reply says more than “I have no friends”: even the word is unknown."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1290,21 +2233,26 @@
             {
               "term": "祖国",
               "meaning": {
-                "ja": "自分の属する故国。",
-                "en": "One’s homeland."
+                "ja": "生まれ育った国、または自分の国。",
+                "en": "One’s native country or homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "祖国",
+              "point": "名詞 + は？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の「愛しているのか」という問いを省き、祖国に話題を移します。",
+                "en": "The fragment shifts the earlier question of love to the homeland."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族と友人の次に、問い手は人が属する国を挙げます。",
+              "en": "After family and friends, the questioner proposes the homeland."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1323,21 +2271,26 @@
             {
               "term": "homeland",
               "meaning": {
-                "ja": "祖国。",
-                "en": "The country one belongs to."
+                "ja": "自分の国、祖国。",
+                "en": "One’s native country."
               }
             }
           ],
           "grammar": [
             {
-              "point": "homeland",
+              "point": "Your homeland?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、祖国を愛するかという前の問いを引き継ぎます。",
+                "en": "The fragment carries forward the question of whether he loves his homeland."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人間関係に代えて、帰属する場所が愛の対象になるかを尋ねます。",
+              "en": "The questioner moves from people to a place of belonging."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1356,21 +2309,26 @@
             {
               "term": "patria",
               "meaning": {
-                "ja": "祖国。",
-                "en": "Homeland."
+                "ja": "祖国、故国。",
+                "en": "Homeland or native country."
               }
             }
           ],
           "grammar": [
             {
-              "point": "patria",
+              "point": "¿Tu patria?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省いた短い疑問で、祖国へ話題を移します。",
+                "en": "The elliptical question shifts the topic to the homeland."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "友人の次には、国への愛があるかを問います。",
+              "en": "After friends, the questioner tests love of country."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1389,21 +2347,26 @@
             {
               "term": "patrie",
               "meaning": {
-                "ja": "祖国。",
-                "en": "Homeland."
+                "ja": "祖国、故国。",
+                "en": "Homeland or native country."
               }
             }
           ],
           "grammar": [
             {
-              "point": "patrie",
+              "point": "Ta patrie ?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、前の愛する対象の問いを祖国へ向けます。",
+                "en": "The fragment redirects the earlier question of love toward the homeland."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人への愛が答えにならないため、帰属する国を提案します。",
+              "en": "With no personal answer, the questioner proposes the homeland."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -1422,21 +2385,26 @@
             {
               "term": "Heimat",
               "meaning": {
-                "ja": "故郷、祖国。",
-                "en": "Homeland."
+                "ja": "故郷、心のよりどころとなる土地。",
+                "en": "Home or homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Heimat",
+              "point": "Deine Heimat?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省いた疑問で、愛する対象を故郷へ変えます。",
+                "en": "The elliptical question proposes home as the next loved thing."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族や友人から、場所への帰属に問いが移ります。",
+              "en": "The question shifts from personal ties to belonging to a place."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1455,21 +2423,26 @@
             {
               "term": "родина",
               "meaning": {
-                "ja": "祖国。",
+                "ja": "祖国、故郷。",
                 "en": "Homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "родина",
+              "point": "А родина?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "А で話題を祖国へ切り替え、前の問いを省略します。",
+                "en": "А shifts the topic to homeland in an elliptical question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は、人間関係に続く愛の候補として祖国を出します。",
+              "en": "The speaker offers homeland after the questions about people."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1486,23 +2459,28 @@
           "ttsText": "— ووطنك؟",
           "vocabulary": [
             {
-              "term": "وطنك",
+              "term": "وَطَنُكَ",
               "meaning": {
-                "ja": "君の祖国。",
+                "ja": "あなたの祖国。",
                 "en": "Your homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "وطنك",
+              "point": "وَوَطَنُكَ؟",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "وَ が前の候補に祖国を加え、動詞は前の問いから補います。",
+                "en": "The conjunction adds homeland to the alternatives while leaving the verb implicit."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族や友人の後、問いは国への愛に向かいます。",
+              "en": "After family and friends, the question turns to love of country."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "wa-waṭanuka?"
@@ -1525,21 +2503,26 @@
             {
               "term": "祖国",
               "meaning": {
-                "ja": "祖国。",
-                "en": "Homeland."
+                "ja": "自分の国、故国。",
+                "en": "One’s homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "祖国",
+              "point": "名詞 + 呢？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の愛する対象の問いを省略し、「祖国については？」と尋ねます。",
+                "en": "呢 asks “what about the homeland?” with the earlier question understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人への愛から、国への帰属へ問い手の候補が変わります。",
+              "en": "The proposed object of love changes from people to country."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Nǐ de zǔguó ne?"
@@ -1562,21 +2545,26 @@
             {
               "term": "조국",
               "meaning": {
-                "ja": "祖国。",
+                "ja": "祖国、故国。",
                 "en": "Homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "조국",
+              "point": "-은요?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の問いを省略し、「祖国はどうですか」と話題を変えます。",
+                "en": "The ending asks “what about your homeland?” elliptically."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族・友人に続き、祖国への愛を問い手が確かめます。",
+              "en": "The questioner next tests attachment to a homeland."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1598,23 +2586,49 @@
           "ttsText": "それがどのいどにあるのか、わたしはしりません。",
           "vocabulary": [
             {
-              "term": "緯度",
+              "term": "どの緯度に",
               "meaning": {
-                "ja": "赤道から南北の位置を表す角度。",
-                "en": "Latitude; angular position north or south of the equator."
+                "ja": "地球上の南北のどの位置に。",
+                "en": "At what north-south position on Earth."
+              }
+            },
+            {
+              "term": "あるのか",
+              "meaning": {
+                "ja": "祖国が存在する場所を問う形。",
+                "en": "Where the homeland lies."
+              }
+            },
+            {
+              "term": "私は知りません",
+              "meaning": {
+                "ja": "自分には分からないと明言する。",
+                "en": "I do not know."
               }
             }
           ],
           "grammar": [
             {
-              "point": "どの緯度にあるのか",
+              "point": "それが",
               "explanation": {
-                "ja": "疑問節を文中に入れ、「知らない」の内容にしています。",
-                "en": "An embedded question supplies the content of what is not known."
+                "ja": "それ は直前の「祖国」を指します。",
+                "en": "それ refers to the homeland just mentioned."
+              }
+            },
+            {
+              "point": "疑問詞 + か",
+              "explanation": {
+                "ja": "「どの緯度にあるか」を知りませんの対象にします。",
+                "en": "か embeds the latitude question as what the speaker does not know."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国への愛を問われ、人物は場所を地理的にも特定できないと答えます。",
+              "en": "Asked about homeland, the man says he cannot even locate it geographically."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1631,23 +2645,49 @@
           "ttsText": "— I do not know at what latitude it lies.",
           "vocabulary": [
             {
+              "term": "do not know",
+              "meaning": {
+                "ja": "知らない。",
+                "en": "Am unaware."
+              }
+            },
+            {
               "term": "latitude",
               "meaning": {
-                "ja": "緯度。",
-                "en": "Position north or south of the equator."
+                "ja": "地球上の南北の位置を示す緯度。",
+                "en": "A measure of north-south position."
+              }
+            },
+            {
+              "term": "it lies",
+              "meaning": {
+                "ja": "それが位置する。it は祖国。",
+                "en": "It is located; it refers to the homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "at what latitude it lies",
+              "point": "at what latitude",
               "explanation": {
-                "ja": "間接疑問なので it lies と通常の主語・動詞の順になります。",
-                "en": "The embedded question uses ordinary subject–verb order: it lies."
+                "ja": "位置を問う疑問句が、知らない内容を示します。",
+                "en": "The question phrase identifies the location he does not know."
+              }
+            },
+            {
+              "point": "it lies",
+              "explanation": {
+                "ja": "疑問節の中では通常の主語・動詞の順にします。",
+                "en": "The embedded question keeps normal subject-verb order."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国を感情の対象ではなく、緯度も分からない場所として扱う返答です。",
+              "en": "He treats homeland as a place whose very latitude is unknown to him."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1664,23 +2704,49 @@
           "ttsText": "— Ignoro en qué latitud se encuentra.",
           "vocabulary": [
             {
-              "term": "latitud",
+              "term": "Ignoro",
               "meaning": {
-                "ja": "緯度。",
-                "en": "Latitude."
+                "ja": "私は知らない。",
+                "en": "I do not know."
+              }
+            },
+            {
+              "term": "en qué latitud",
+              "meaning": {
+                "ja": "どの緯度に。",
+                "en": "At what latitude."
+              }
+            },
+            {
+              "term": "se encuentra",
+              "meaning": {
+                "ja": "位置している。",
+                "en": "Is located."
               }
             }
           ],
           "grammar": [
             {
-              "point": "en qué latitud",
+              "point": "Ignoro + 疑問節",
               "explanation": {
-                "ja": "間接疑問でも疑問語 qué のアクセントは残ります。",
-                "en": "Qué retains its written accent in an indirect question."
+                "ja": "何を知らないかを en qué 以下で示します。",
+                "en": "The embedded question states exactly what he does not know."
+              }
+            },
+            {
+              "point": "se encuentra",
+              "explanation": {
+                "ja": "代名動詞の形で、祖国の所在地を表します。",
+                "en": "The pronominal verb gives the homeland’s location."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国への愛を問われ、人物はそれがどこにあるかも知らないと答えます。",
+              "en": "Asked about homeland, he says he does not even know its location."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1697,23 +2763,49 @@
           "ttsText": "— J’ignore sous quelle latitude elle est située.",
           "vocabulary": [
             {
-              "term": "ignorer",
+              "term": "J’ignore",
               "meaning": {
-                "ja": "知らない。",
-                "en": "To not know."
+                "ja": "私は知らない。",
+                "en": "I do not know."
+              }
+            },
+            {
+              "term": "sous quelle latitude",
+              "meaning": {
+                "ja": "どの緯度の下に、つまりどこに。",
+                "en": "At what latitude."
+              }
+            },
+            {
+              "term": "elle est située",
+              "meaning": {
+                "ja": "それが位置している。elle は祖国。",
+                "en": "It is situated; elle refers to patrie."
               }
             }
           ],
           "grammar": [
             {
-              "point": "elle est située",
+              "point": "quelle + 名詞",
               "explanation": {
-                "ja": "elle は女性名詞 patrie を受けます。située も女性形です。",
-                "en": "Elle refers to feminine patrie; située agrees in the feminine."
+                "ja": "quelle latitude が不明な位置を尋ねます。",
+                "en": "Quelle latitude identifies the unknown location."
+              }
+            },
+            {
+              "point": "elle",
+              "explanation": {
+                "ja": "女性名詞 patrie を受け、祖国の位置を述べます。",
+                "en": "Elle refers back to the feminine noun patrie."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国を愛するかではなく、その地理的位置すら知らないと返します。",
+              "en": "Instead of professing love of country, he says its location is unknown."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -1730,23 +2822,49 @@
           "ttsText": "— Ich weiß nicht, auf welchem Breitengrad sie liegt.",
           "vocabulary": [
             {
-              "term": "Breitengrad",
+              "term": "Ich weiß nicht",
               "meaning": {
-                "ja": "緯度。",
-                "en": "Latitude."
+                "ja": "私は知らない。",
+                "en": "I do not know."
+              }
+            },
+            {
+              "term": "auf welchem Breitengrad",
+              "meaning": {
+                "ja": "どの緯度上に。",
+                "en": "At what latitude."
+              }
+            },
+            {
+              "term": "sie liegt",
+              "meaning": {
+                "ja": "それが位置する。sie は Heimat。",
+                "en": "It lies; sie refers to Heimat."
               }
             }
           ],
           "grammar": [
             {
-              "point": "auf welchem Breitengrad sie liegt",
+              "point": "auf welchem + 名詞",
               "explanation": {
-                "ja": "間接疑問節なので定動詞 liegt が節の末尾に来ます。",
-                "en": "The finite verb liegt comes last in the embedded question."
+                "ja": "前置詞 auf と疑問詞が、知らない位置を示します。",
+                "en": "The preposition and question word identify the unknown latitude."
+              }
+            },
+            {
+              "point": "sie liegt",
+              "explanation": {
+                "ja": "従属疑問節なので動詞 liegt を末尾に置きます。",
+                "en": "The embedded question places liegt at the end."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国を愛するかという問いに、場所も分からないと答えます。",
+              "en": "He answers a question about love of country by saying he cannot locate it."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1763,23 +2881,49 @@
           "ttsText": "— Не знаю, на какой широте она находится.",
           "vocabulary": [
             {
-              "term": "широта",
+              "term": "Не знаю",
               "meaning": {
-                "ja": "緯度。",
-                "en": "Latitude."
+                "ja": "私は知らない。",
+                "en": "I do not know."
+              }
+            },
+            {
+              "term": "на какой широте",
+              "meaning": {
+                "ja": "どの緯度に。",
+                "en": "At what latitude."
+              }
+            },
+            {
+              "term": "она находится",
+              "meaning": {
+                "ja": "それが位置する。она は родина。",
+                "en": "It is located; она refers to родина."
               }
             }
           ],
           "grammar": [
             {
+              "point": "主語の省略",
+              "explanation": {
+                "ja": "Не знаю の主語「私」は動詞の形から分かるため省かれます。",
+                "en": "The first-person subject is omitted because знаю identifies it."
+              }
+            },
+            {
               "point": "на какой широте",
               "explanation": {
-                "ja": "場所を表す на に前置格 широте が続きます。",
-                "en": "Locative на takes the prepositional form широте."
+                "ja": "前置詞 на と前置格で、位置する緯度を示します。",
+                "en": "На plus the prepositional case identifies the latitude."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国があるかより先に、緯度さえ知らないと述べる返答です。",
+              "en": "He says he does not know even the homeland’s latitude."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1796,23 +2940,49 @@
           "ttsText": "— لا أعرف على أي خط عرض يقع.",
           "vocabulary": [
             {
-              "term": "خط عرض",
+              "term": "لَا أَعْرِفُ",
               "meaning": {
-                "ja": "緯度線。",
-                "en": "A parallel of latitude."
+                "ja": "私は知らない。",
+                "en": "I do not know."
+              }
+            },
+            {
+              "term": "خَطِّ عَرْضٍ",
+              "meaning": {
+                "ja": "緯度。",
+                "en": "A line of latitude."
+              }
+            },
+            {
+              "term": "يَقَعُ",
+              "meaning": {
+                "ja": "位置する。主語は祖国。",
+                "en": "Is located; the subject is the homeland."
               }
             }
           ],
           "grammar": [
             {
-              "point": "على أي خط عرض",
+              "point": "لَا + 未完了形",
               "explanation": {
-                "ja": "أي は「どの」。يقع の主語は前の وطن を受けています。",
-                "en": "أي asks which; the subject of يقع refers back to وطن."
+                "ja": "現在の無知を否定文で述べます。",
+                "en": "لا negates his knowledge in the present."
+              }
+            },
+            {
+              "point": "عَلَى أَيِّ خَطِّ عَرْضٍ",
+              "explanation": {
+                "ja": "疑問句を用い、祖国の位置する緯度が分からないと言います。",
+                "en": "The question phrase specifies the unknown latitude."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国への愛についての問いに、位置さえ分からないと答えます。",
+              "en": "Asked about homeland, he says he does not know even its location."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "lā ʾaʿrifu ʿalā ʾayyi khaṭṭi ʿarḍin yaqaʿu."
@@ -1833,23 +3003,49 @@
           "ttsText": "— 我不知道它位于哪一条纬线上。",
           "vocabulary": [
             {
-              "term": "纬线",
+              "term": "我不知道",
               "meaning": {
-                "ja": "緯線。",
-                "en": "A parallel of latitude."
+                "ja": "私は知らない。",
+                "en": "I do not know."
+              }
+            },
+            {
+              "term": "位于",
+              "meaning": {
+                "ja": "位置する。",
+                "en": "Is situated at."
+              }
+            },
+            {
+              "term": "哪一条纬线",
+              "meaning": {
+                "ja": "どの緯線か。条 は線を数える量詞。",
+                "en": "Which line of latitude; 条 counts lines."
               }
             }
           ],
           "grammar": [
             {
-              "point": "位于哪一条纬线上",
+              "point": "它",
               "explanation": {
-                "ja": "哪一条 は線状のものを数える 条 を使う疑問表現です。",
-                "en": "哪一条 uses the classifier 条 for a line-like object."
+                "ja": "直前の「祖国」を指します。",
+                "en": "它 refers back to the homeland."
+              }
+            },
+            {
+              "point": "哪一条",
+              "explanation": {
+                "ja": "どの一本かを選ぶ疑問表現で、位置の不明さを示します。",
+                "en": "The phrase asks which particular latitude line it is."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国への感情を問われ、人物は地図上の位置すら知らないと返します。",
+              "en": "Asked about love of country, he says he cannot locate it on a map."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ bù zhīdào tā wèiyú nǎ yī tiáo wěixiàn shàng."
@@ -1870,23 +3066,49 @@
           "ttsText": "— 어느 위도에 있는지 모르겠어요.",
           "vocabulary": [
             {
-              "term": "위도",
+              "term": "어느 위도에",
               "meaning": {
-                "ja": "緯度。",
-                "en": "Latitude."
+                "ja": "どの緯度に。",
+                "en": "At which latitude."
+              }
+            },
+            {
+              "term": "있는지",
+              "meaning": {
+                "ja": "あるのか、位置するのか。",
+                "en": "Whether or where it lies."
+              }
+            },
+            {
+              "term": "모르겠어요",
+              "meaning": {
+                "ja": "分かりません。",
+                "en": "I do not know."
               }
             }
           ],
           "grammar": [
             {
-              "point": "있는지 모르겠어요",
+              "point": "-는지",
               "explanation": {
-                "ja": "-는지 で疑問の内容を名詞節にし、모르다 に続けます。",
-                "en": "-는지 embeds a question as the complement of 모르다."
+                "ja": "「どの緯度にあるか」を 모르겠어요 の内容にします。",
+                "en": "The ending embeds the question of location under “do not know.”"
+              }
+            },
+            {
+              "point": "主語の省略",
+              "explanation": {
+                "ja": "何が位置するかは直前の 조국 から分かるため省きます。",
+                "en": "The subject is omitted because it is the homeland just mentioned."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "祖国がある場所すら知らないと返し、国への帰属を遠ざけます。",
+              "en": "He says even his homeland’s location is unknown, distancing himself from it."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1910,21 +3132,26 @@
             {
               "term": "美",
               "meaning": {
-                "ja": "美しさ。",
-                "en": "Beauty."
+                "ja": "美しいものや美しさの観念。",
+                "en": "Beauty as an idea or quality."
               }
             }
           ],
           "grammar": [
             {
-              "point": "美",
+              "point": "名詞 + は？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、愛する対象として美を問います。",
+                "en": "The elliptical question offers beauty as a possible object of love."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族、友人、祖国から、抽象的な美へ候補が移ります。",
+              "en": "The proposed object moves from people and homeland to abstract beauty."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1941,23 +3168,28 @@
           "ttsText": "— Beauty?",
           "vocabulary": [
             {
-              "term": "beauty",
+              "term": "Beauty",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "beauty",
+              "point": "Beauty?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、前の愛する対象の問いを美へ向けます。",
+                "en": "The one-word question redirects the inquiry about love to beauty."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "具体的な人や祖国の次に、抽象的な価値を提案します。",
+              "en": "After people and homeland, the speaker proposes an abstract value."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1974,23 +3206,28 @@
           "ttsText": "— ¿La belleza?",
           "vocabulary": [
             {
-              "term": "belleza",
+              "term": "La belleza",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "belleza",
+              "point": "¿La belleza?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省いた疑問で、美を愛するか尋ねます。",
+                "en": "The fragment asks whether beauty might be loved."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は人や国から、抽象的な美へ候補を変えます。",
+              "en": "The questioner changes from people and country to beauty."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2007,23 +3244,28 @@
           "ttsText": "— La beauté ?",
           "vocabulary": [
             {
-              "term": "beauté",
+              "term": "La beauté",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "beauté",
+              "point": "La beauté ?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の愛する対象の問いを省略し、美だけを示します。",
+                "en": "The elliptical question offers beauty as the next object of love."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "この短い問いで、対象は具体的な関係から抽象的な価値に移ります。",
+              "en": "The object shifts from concrete ties to an abstract value."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -2040,23 +3282,28 @@
           "ttsText": "— Die Schönheit?",
           "vocabulary": [
             {
-              "term": "Schönheit",
+              "term": "Die Schönheit",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Schönheit",
+              "point": "Die Schönheit?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、美を愛するかという問いを続けます。",
+                "en": "The fragment continues the question about what the man loves."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族や祖国に続き、問い手は美という抽象的な対象を挙げます。",
+              "en": "The questioner now offers beauty as an abstract alternative."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2075,21 +3322,26 @@
             {
               "term": "красота",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "красота",
+              "point": "А красота?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "А が話題を美へ切り替え、動詞は前の問いから補います。",
+                "en": "А shifts the topic to beauty; the verb is understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人や祖国に代わり、抽象的な美を愛せるか問います。",
+              "en": "Beauty replaces people and homeland as a possible object of love."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2106,23 +3358,28 @@
           "ttsText": "— والجمال؟",
           "vocabulary": [
             {
-              "term": "الجمال",
+              "term": "الْجَمَالُ",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "الجمال",
+              "point": "وَالْجَمَالُ؟",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "وَ で前の候補に美を加え、動詞を省いて問います。",
+                "en": "The conjunction adds beauty as another elliptical question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問いは人間関係や国から、美という観念へ移ります。",
+              "en": "The inquiry moves from ties and country to the idea of beauty."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "wa-al-jamālu?"
@@ -2145,21 +3402,26 @@
             {
               "term": "美",
               "meaning": {
-                "ja": "美しさ。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "美",
+              "point": "名詞 + 呢？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の「愛するか」を省略し、美についてはどうか尋ねます。",
+                "en": "呢 asks “what about beauty?” with the earlier question understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人や祖国ではなく、抽象的な美が次の候補になります。",
+              "en": "Abstract beauty becomes the next proposed object."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Měi ne?"
@@ -2182,21 +3444,26 @@
             {
               "term": "아름다움",
               "meaning": {
-                "ja": "美。",
+                "ja": "美、美しさ。",
                 "en": "Beauty."
               }
             }
           ],
           "grammar": [
             {
-              "point": "아름다움",
+              "point": "-은요?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の愛する対象の問いを省略し、「美はどうですか」と尋ねます。",
+                "en": "The ending asks “what about beauty?” elliptically."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は具体的な人や場所から、美という観念へ移ります。",
+              "en": "The questioner turns from people and place to the idea of beauty."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2218,23 +3485,49 @@
           "ttsText": "めがみとして、ふしのものとしてなら、よろこんであいするでしょう。",
           "vocabulary": [
             {
-              "term": "不死",
+              "term": "女神として",
               "meaning": {
-                "ja": "死なないこと。",
-                "en": "Immortality; not dying."
+                "ja": "美を人の姿を持つ神として見るなら。",
+                "en": "If beauty is imagined as a goddess."
+              }
+            },
+            {
+              "term": "不死のものとして",
+              "meaning": {
+                "ja": "死なない永遠の存在として。",
+                "en": "As an immortal being."
+              }
+            },
+            {
+              "term": "喜んで愛する",
+              "meaning": {
+                "ja": "ためらわず愛したい。",
+                "en": "Would gladly love."
               }
             }
           ],
           "grammar": [
             {
-              "point": "〜としてなら",
+              "point": "-としてなら",
               "explanation": {
-                "ja": "どのような存在として愛するか、その条件を表します。",
-                "en": "This states the condition or capacity in which beauty would be loved."
+                "ja": "美が女神・不死という条件を満たす場合に限ると示します。",
+                "en": "The conditional limits his love to beauty as goddess and immortal."
+              }
+            },
+            {
+              "point": "-でしょう",
+              "explanation": {
+                "ja": "その条件なら愛するという仮定的な意志を表します。",
+                "en": "The ending presents love as conditional rather than actual."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人物は美を無条件に愛するのではなく、永遠の女神としてなら愛すると答えます。",
+              "en": "He will love beauty only when conceived as an immortal goddess."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2254,20 +3547,53 @@
               "term": "gladly",
               "meaning": {
                 "ja": "喜んで。",
-                "en": "Willingly; with pleasure."
+                "en": "Willingly."
+              }
+            },
+            {
+              "term": "love her",
+              "meaning": {
+                "ja": "美を女性に見立てて愛する。",
+                "en": "Love beauty personified as female."
+              }
+            },
+            {
+              "term": "goddess",
+              "meaning": {
+                "ja": "女神。",
+                "en": "A female deity."
+              }
+            },
+            {
+              "term": "immortal",
+              "meaning": {
+                "ja": "死なない、永遠の。",
+                "en": "Undying."
               }
             }
           ],
           "grammar": [
             {
-              "point": "would love her",
+              "point": "would + 動詞",
               "explanation": {
-                "ja": "would は仮定的な意向。her は擬人化された美を指します。",
-                "en": "Would expresses a hypothetical willingness; her personifies beauty."
+                "ja": "実際の愛ではなく、条件を想定した意志を示します。",
+                "en": "Would presents a hypothetical willingness to love."
+              }
+            },
+            {
+              "point": "her / a goddess",
+              "explanation": {
+                "ja": "美を女性の人格として扱う表現です。",
+                "en": "The feminine pronoun and goddess personify beauty."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美が不死の女神であるなら愛する、という限定付きの返答です。",
+              "en": "His answer makes love of beauty depend on its being an immortal goddess."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2284,23 +3610,56 @@
           "ttsText": "— La amaría de buen grado, diosa e inmortal.",
           "vocabulary": [
             {
+              "term": "La amaría",
+              "meaning": {
+                "ja": "それを愛するだろう。La は belleza。",
+                "en": "I would love it; la refers to belleza."
+              }
+            },
+            {
               "term": "de buen grado",
               "meaning": {
                 "ja": "喜んで。",
-                "en": "Willingly."
+                "en": "Gladly."
+              }
+            },
+            {
+              "term": "diosa",
+              "meaning": {
+                "ja": "女神。",
+                "en": "A goddess."
+              }
+            },
+            {
+              "term": "inmortal",
+              "meaning": {
+                "ja": "不死の。",
+                "en": "Immortal."
               }
             }
           ],
           "grammar": [
             {
-              "point": "La amaría",
+              "point": "amaría",
               "explanation": {
-                "ja": "amaría は条件法。La は女性名詞 belleza を受けます。",
-                "en": "Amaría is conditional; la refers to feminine belleza."
+                "ja": "条件法が、実際ではなく仮定した愛を表します。",
+                "en": "The conditional expresses hypothetical love."
+              }
+            },
+            {
+              "point": "La / diosa",
+              "explanation": {
+                "ja": "女性代名詞と女神が、美を人格化します。",
+                "en": "The feminine pronoun and goddess personify beauty."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美を不死の女神として見る場合に限り愛すると答えます。",
+              "en": "He would love beauty only as an immortal goddess."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2317,10 +3676,31 @@
           "ttsText": "— Je l’aimerais volontiers, déesse et immortelle.",
           "vocabulary": [
             {
+              "term": "l’aimerais",
+              "meaning": {
+                "ja": "それを愛するだろう。l’ は beauté。",
+                "en": "Would love it; l’ refers to beauté."
+              }
+            },
+            {
               "term": "volontiers",
               "meaning": {
-                "ja": "喜んで、進んで。",
-                "en": "Willingly; gladly."
+                "ja": "喜んで。",
+                "en": "Willingly."
+              }
+            },
+            {
+              "term": "déesse",
+              "meaning": {
+                "ja": "女神。",
+                "en": "Goddess."
+              }
+            },
+            {
+              "term": "immortelle",
+              "meaning": {
+                "ja": "不死の。",
+                "en": "Immortal."
               }
             }
           ],
@@ -2328,12 +3708,24 @@
             {
               "point": "aimerais",
               "explanation": {
-                "ja": "条件法で現実の愛着を断言せず、仮定的な意向を表します。美を女神として擬人化しています。",
-                "en": "The conditional expresses hypothetical willingness rather than an asserted attachment. Beauty is personified as a goddess."
+                "ja": "条件法現在が、仮定のもとでの愛を示します。",
+                "en": "The present conditional presents a hypothetical willingness to love."
+              }
+            },
+            {
+              "point": "l’ / déesse",
+              "explanation": {
+                "ja": "女性名詞 beauté を、女神として人格化します。",
+                "en": "The object pronoun and goddess personify feminine beauté."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美をただの概念ではなく、不死の女神に見立てたときに愛すると言います。",
+              "en": "He would love beauty when imagined as an immortal goddess."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -2350,6 +3742,27 @@
           "ttsText": "— Ich würde sie gern lieben, als Göttin und unsterblich.",
           "vocabulary": [
             {
+              "term": "würde ... lieben",
+              "meaning": {
+                "ja": "愛するだろう。",
+                "en": "Would love."
+              }
+            },
+            {
+              "term": "gern",
+              "meaning": {
+                "ja": "喜んで。",
+                "en": "Gladly."
+              }
+            },
+            {
+              "term": "als Göttin",
+              "meaning": {
+                "ja": "女神として。",
+                "en": "As a goddess."
+              }
+            },
+            {
               "term": "unsterblich",
               "meaning": {
                 "ja": "不死の。",
@@ -2359,14 +3772,26 @@
           ],
           "grammar": [
             {
-              "point": "würde … lieben",
+              "point": "würde + 不定詞",
               "explanation": {
-                "ja": "würde と不定詞で仮定的な意向を表します。sie は Schönheit を受けます。",
-                "en": "Würde plus infinitive expresses a hypothetical willingness; sie refers to Schönheit."
+                "ja": "仮定に立った愛する意志を示します。",
+                "en": "The würde construction makes the willingness hypothetical."
+              }
+            },
+            {
+              "point": "als Göttin",
+              "explanation": {
+                "ja": "美を女神として捉える条件を添えます。",
+                "en": "Als Göttin supplies the imagined identity of beauty."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人物は美を女神かつ不死のものとしてなら喜んで愛すると答えます。",
+              "en": "He would gladly love beauty imagined as a goddess and immortal."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2388,18 +3813,51 @@
                 "ja": "喜んで。",
                 "en": "Willingly."
               }
+            },
+            {
+              "term": "полюбил бы",
+              "meaning": {
+                "ja": "愛するだろう。",
+                "en": "Would come to love."
+              }
+            },
+            {
+              "term": "богиню",
+              "meaning": {
+                "ja": "女神を。",
+                "en": "A goddess."
+              }
+            },
+            {
+              "term": "бессмертную",
+              "meaning": {
+                "ja": "不死の。",
+                "en": "Immortal."
+              }
             }
           ],
           "grammar": [
             {
-              "point": "полюбил бы",
+              "point": "бы + 過去形",
               "explanation": {
-                "ja": "過去形と бы の組合せで仮定・条件の意味を表します。",
-                "en": "The past form plus бы expresses a hypothetical or conditional meaning."
+                "ja": "仮定のもとで愛するという意志を示します。",
+                "en": "Бы with past form expresses hypothetical love."
+              }
+            },
+            {
+              "point": "её — богиню",
+              "explanation": {
+                "ja": "代名詞の対象である美を、女神と言い直します。",
+                "en": "The apposition recasts beauty as a goddess."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美が不死の女神なら愛する、という限定された返答です。",
+              "en": "The reply limits his love to beauty imagined as an immortal goddess."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2416,23 +3874,56 @@
           "ttsText": "— كنت سأحب الجمال طوعًا، في صورة إلهة خالدة.",
           "vocabulary": [
             {
-              "term": "خالدة",
+              "term": "كُنْتُ سَأُحِبُّ",
               "meaning": {
-                "ja": "不死の、永遠の。",
-                "en": "Immortal; eternal."
+                "ja": "私は愛しただろう。",
+                "en": "I would have loved."
+              }
+            },
+            {
+              "term": "الْجَمَالَ",
+              "meaning": {
+                "ja": "美を。",
+                "en": "Beauty as the object of love."
+              }
+            },
+            {
+              "term": "طَوْعًا",
+              "meaning": {
+                "ja": "喜んで、自ら進んで。",
+                "en": "Willingly."
+              }
+            },
+            {
+              "term": "إِلَهَةً خَالِدَةً",
+              "meaning": {
+                "ja": "永遠の女神。",
+                "en": "An immortal goddess."
               }
             }
           ],
           "grammar": [
             {
-              "point": "في صورة إلهة",
+              "point": "كُنْتُ سَأُحِبُّ",
               "explanation": {
-                "ja": "「女神の姿で」として、原文の美の擬人化を明示した訳です。",
-                "en": "“In the form of a goddess” makes the original personification of beauty explicit."
+                "ja": "実際の愛ではなく、仮定のもとでの愛を表します。",
+                "en": "The construction makes the willingness hypothetical."
+              }
+            },
+            {
+              "point": "فِي صُورَةِ",
+              "explanation": {
+                "ja": "美を女神の姿として思い描く条件を示します。",
+                "en": "The phrase imagines beauty in the form of a goddess."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美を不死の女神として捉えるなら愛する、という限定付きの答えです。",
+              "en": "He would love beauty only in the form of an immortal goddess."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "kuntu sa-ʾuḥibbu al-jamāla ṭawʿan, fī ṣūrati ʾilāhatin khālidatin."
@@ -2453,23 +3944,49 @@
           "ttsText": "— 我愿意爱她，作为女神，作为不朽的存在。",
           "vocabulary": [
             {
-              "term": "不朽",
+              "term": "愿意爱她",
               "meaning": {
-                "ja": "不滅の。",
-                "en": "Immortal; imperishable."
+                "ja": "彼女を愛したい。她 は美を女性に見立てる。",
+                "en": "Would be willing to love her; 她 personifies beauty."
+              }
+            },
+            {
+              "term": "作为女神",
+              "meaning": {
+                "ja": "女神として。",
+                "en": "As a goddess."
+              }
+            },
+            {
+              "term": "不朽的存在",
+              "meaning": {
+                "ja": "死なない永遠の存在。",
+                "en": "An immortal being."
               }
             }
           ],
           "grammar": [
             {
-              "point": "作为女神",
+              "point": "作为 ... 作为 ...",
               "explanation": {
-                "ja": "作为 は「〜として」。她 で美を女性の存在として擬人化しています。",
-                "en": "作为 means as or in the capacity of; 她 personifies beauty as female."
+                "ja": "美を女神と不死の存在として見る二つの条件を並べます。",
+                "en": "The repeated 作为 frames beauty as goddess and immortal."
+              }
+            },
+            {
+              "point": "愿意",
+              "explanation": {
+                "ja": "現実に愛しているのではなく、その姿なら愛したいという意志を示します。",
+                "en": "愿意 expresses willingness under the imagined condition."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美を人格化し、不死のものとしてなら愛すると述べます。",
+              "en": "He personifies beauty and would love her as an immortal being."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ yuànyì ài tā, zuòwéi nǚshén, zuòwéi bùxiǔ de cúnzài."
@@ -2490,23 +4007,49 @@
           "ttsText": "— 여신으로서, 불멸의 존재로서라면 기꺼이 사랑하겠어요.",
           "vocabulary": [
             {
-              "term": "기꺼이",
+              "term": "여신으로서",
               "meaning": {
-                "ja": "喜んで。",
-                "en": "Willingly."
+                "ja": "女神として。",
+                "en": "As a goddess."
+              }
+            },
+            {
+              "term": "불멸의 존재",
+              "meaning": {
+                "ja": "死なない永遠の存在。",
+                "en": "An immortal being."
+              }
+            },
+            {
+              "term": "기꺼이 사랑하겠어요",
+              "meaning": {
+                "ja": "喜んで愛するでしょう。",
+                "en": "Would gladly love."
               }
             }
           ],
           "grammar": [
             {
-              "point": "존재로서라면",
+              "point": "-로서라면",
               "explanation": {
-                "ja": "로서 は資格・立場、라면 は条件を表します。",
-                "en": "로서 marks capacity or status, and 라면 marks a condition."
+                "ja": "女神や不死の存在である場合という条件を示します。",
+                "en": "The conditional limits the answer to beauty in that role."
+              }
+            },
+            {
+              "point": "-겠어요",
+              "explanation": {
+                "ja": "その条件なら愛するという意志を丁寧に表します。",
+                "en": "The ending expresses a polite hypothetical willingness."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人物は美を不死の女神としてなら愛すると、条件を付けて答えます。",
+              "en": "He would love beauty if it were an immortal goddess."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2530,21 +4073,26 @@
             {
               "term": "黄金",
               "meaning": {
-                "ja": "金、富の象徴。",
-                "en": "Gold; a symbol of wealth."
+                "ja": "金。ここでは富の象徴となるもの。",
+                "en": "Gold, here a symbol of wealth."
               }
             }
           ],
           "grammar": [
             {
-              "point": "黄金",
+              "point": "名詞 + は？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "愛する対象として、黄金だけを示す省略疑問です。",
+                "en": "The fragment offers gold as another possible object of love."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族・祖国・美に続き、問い手は富に価値を見いだすか尋ねます。",
+              "en": "After family, homeland, and beauty, the question turns to wealth."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2561,23 +4109,28 @@
           "ttsText": "— Gold?",
           "vocabulary": [
             {
-              "term": "gold",
+              "term": "Gold",
               "meaning": {
-                "ja": "金。",
-                "en": "The precious metal."
+                "ja": "貴金属の金。ここでは富を表す。",
+                "en": "The precious metal, standing for wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "gold",
+              "point": "Gold?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省いた問いで、黄金を愛するかを尋ねます。",
+                "en": "The one-word question asks whether gold is loved."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は抽象的な美から、物質的な富へ候補を変えます。",
+              "en": "The speaker shifts from abstract beauty to material wealth."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2594,23 +4147,28 @@
           "ttsText": "— ¿El oro?",
           "vocabulary": [
             {
-              "term": "oro",
+              "term": "El oro",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金、黄金。ここでは富の象徴。",
+                "en": "Gold, here a symbol of wealth."
               }
             }
           ],
           "grammar": [
             {
-              "point": "oro",
+              "point": "¿El oro?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省き、黄金を愛する対象として挙げます。",
+                "en": "The elliptical question offers gold as an object of love."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美の次に、富への愛があるかを試す問いです。",
+              "en": "The question next tests an attachment to wealth."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2627,23 +4185,28 @@
           "ttsText": "— L’or ?",
           "vocabulary": [
             {
-              "term": "or",
+              "term": "L’or",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金、黄金。ここでは富を表す。",
+                "en": "Gold, standing for wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "or",
+              "point": "L’or ?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の問いを省略し、愛する対象を黄金へ変えます。",
+                "en": "The fragment shifts the possible object of love to gold."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美に続いて、物質的な富を愛するか尋ねます。",
+              "en": "After beauty, the questioner proposes material wealth."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -2660,23 +4223,28 @@
           "ttsText": "— Das Gold?",
           "vocabulary": [
             {
-              "term": "Gold",
+              "term": "Das Gold",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金、黄金。ここでは富の象徴。",
+                "en": "Gold, a symbol of wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Gold",
+              "point": "Das Gold?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "動詞を省いて、黄金を愛するかと問います。",
+                "en": "The one-word question asks whether he loves gold."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "抽象的な美から、金という物質的な価値へ問いが移ります。",
+              "en": "The question shifts from beauty to material value."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2695,21 +4263,26 @@
             {
               "term": "золото",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金、黄金。ここでは富の象徴。",
+                "en": "Gold, a symbol of wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "золото",
+              "point": "А золото?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "А で話題を金へ移し、愛するかという問いを省略します。",
+                "en": "А shifts the topic to gold while the verb remains understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は富なら愛せるかを最後の候補として試します。",
+              "en": "The questioner tests wealth as another possible attachment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2726,23 +4299,28 @@
           "ttsText": "— والذهب؟",
           "vocabulary": [
             {
-              "term": "الذهب",
+              "term": "الذَّهَبُ",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金、黄金。ここでは富を表す。",
+                "en": "Gold, standing for wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "الذهب",
+              "point": "وَالذَّهَبُ؟",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "وَ が黄金を次の候補に加え、動詞を省いた問いを作ります。",
+                "en": "The conjunction adds gold as the next elliptical question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美の次には物質的な価値である金を挙げます。",
+              "en": "Gold follows beauty as a material value."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "wa-adh-dhahabu?"
@@ -2765,21 +4343,26 @@
             {
               "term": "黄金",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金。ここでは富の象徴。",
+                "en": "Gold, a symbol of wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "黄金",
+              "point": "名詞 + 呢？",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の「愛するか」を省き、黄金についてはどうかと尋ねます。",
+                "en": "呢 asks “what about gold?” with the earlier question understood."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "美から、物質的な富へ愛の候補が移ります。",
+              "en": "The proposed object of love shifts from beauty to material wealth."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Huángjīn ne?"
@@ -2802,21 +4385,26 @@
             {
               "term": "황금",
               "meaning": {
-                "ja": "金。",
-                "en": "Gold."
+                "ja": "金、黄金。ここでは富を表す。",
+                "en": "Gold, representing wealth here."
               }
             }
           ],
           "grammar": [
             {
-              "point": "황금",
+              "point": "-은요?",
               "explanation": {
-                "ja": "動詞を省いた問いで、前の「何を愛するか」という質問を引き継ぎます。",
-                "en": "An elliptical question carrying forward the earlier question about what the stranger loves."
+                "ja": "前の問いを省略し、「黄金はどうですか」と話題を移します。",
+                "en": "The ending asks “what about gold?” elliptically."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は美の後で、富を愛せるか試します。",
+              "en": "After beauty, the questioner tests attachment to wealth."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2838,23 +4426,49 @@
           "ttsText": "あなたがかみをにくむように、わたしはそれをにくみます。",
           "vocabulary": [
             {
-              "term": "憎む",
+              "term": "あなたが神を憎むように",
               "meaning": {
-                "ja": "強く嫌う。",
-                "en": "To hate."
+                "ja": "問い手の神への嫌悪を比較の基準にする。",
+                "en": "Uses the questioner’s hatred of God as the comparison."
+              }
+            },
+            {
+              "term": "それを",
+              "meaning": {
+                "ja": "直前に挙がった黄金を指す。",
+                "en": "Refers to the gold just mentioned."
+              }
+            },
+            {
+              "term": "憎みます",
+              "meaning": {
+                "ja": "強い嫌悪を抱く。",
+                "en": "Feel strong hatred."
               }
             }
           ],
           "grammar": [
             {
-              "point": "〜ように",
+              "point": "-ように",
               "explanation": {
-                "ja": "二人の憎しみを比較する表現です。",
-                "en": "This compares the hatred felt by the two speakers."
+                "ja": "問い手の神への嫌悪と、自分の黄金への嫌悪を並べて比べます。",
+                "en": "The comparison aligns the two kinds of hatred."
+              }
+            },
+            {
+              "point": "それ",
+              "explanation": {
+                "ja": "代名詞が前の問いの黄金を受けます。",
+                "en": "The pronoun points back to gold."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "神への態度は問い手についての人物の言い方で、場面の会話として読みます。",
+              "en": "The remark about God characterizes the addressee within this exchange."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2873,21 +4487,47 @@
             {
               "term": "hate",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To detest."
+                "ja": "強く嫌う。",
+                "en": "Feel strong aversion."
+              }
+            },
+            {
+              "term": "it",
+              "meaning": {
+                "ja": "直前の gold を指す。",
+                "en": "Refers to gold."
+              }
+            },
+            {
+              "term": "as you hate God",
+              "meaning": {
+                "ja": "あなたが神を憎むのと同じように。",
+                "en": "In the same way that you hate God."
               }
             }
           ],
           "grammar": [
             {
-              "point": "as you hate God",
+              "point": "as + 節",
               "explanation": {
-                "ja": "as は二つの行為のあり方を比較します。it は gold を指します。",
-                "en": "As compares the two acts; it refers to gold."
+                "ja": "自分の金への憎悪を、相手の神への憎悪と比べます。",
+                "en": "As compares his hatred of gold with the addressee’s hatred of God."
+              }
+            },
+            {
+              "point": "it",
+              "explanation": {
+                "ja": "代名詞の対象は直前の問い Gold です。",
+                "en": "The pronoun takes the just-mentioned gold as its referent."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "話し手は黄金への嫌悪を、相手に向けた挑発的な比較で強めます。",
+              "en": "He sharpens his rejection of gold by comparing it to the listener’s hatred."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2904,23 +4544,56 @@
           "ttsText": "— Lo odio como usted odia a Dios.",
           "vocabulary": [
             {
-              "term": "odiar",
+              "term": "Lo odio",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To hate."
+                "ja": "私はそれを憎む。Lo は oro。",
+                "en": "I hate it; lo refers to oro."
+              }
+            },
+            {
+              "term": "como",
+              "meaning": {
+                "ja": "〜のように。",
+                "en": "As, like."
+              }
+            },
+            {
+              "term": "usted odia a Dios",
+              "meaning": {
+                "ja": "あなたが神を憎む。",
+                "en": "You hate God, in formal address."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Lo odio",
+              "point": "Lo",
               "explanation": {
-                "ja": "Lo は oro を受ける目的語代名詞。Dios には人称の a を付けます。",
-                "en": "Lo is an object pronoun referring to oro; Dios takes the personal a."
+                "ja": "男性名詞 oro を受ける直接目的語代名詞です。",
+                "en": "Lo refers back to masculine oro."
+              }
+            },
+            {
+              "point": "como + 節",
+              "explanation": {
+                "ja": "自分の金への嫌悪を、相手の神への嫌悪と比べます。",
+                "en": "Como compares the two acts of hatred."
+              }
+            },
+            {
+              "point": "usted",
+              "explanation": {
+                "ja": "先ほどの丁寧な呼称をここでも続けます。",
+                "en": "The speaker continues the formal address used earlier."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "神への嫌悪は話し相手についての言い方として、金への嫌悪を強めます。",
+              "en": "The remark about the addressee’s hatred sharpens his rejection of gold."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -2937,23 +4610,56 @@
           "ttsText": "— Je le hais comme vous haïssez Dieu.",
           "vocabulary": [
             {
-              "term": "haïr",
+              "term": "Je le hais",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To hate."
+                "ja": "私はそれを憎む。le は or。",
+                "en": "I hate it; le refers to or."
+              }
+            },
+            {
+              "term": "comme",
+              "meaning": {
+                "ja": "〜と同じように。",
+                "en": "As, just as."
+              }
+            },
+            {
+              "term": "vous haïssez Dieu",
+              "meaning": {
+                "ja": "あなたが神を憎む。",
+                "en": "You hate God, in formal address."
               }
             }
           ],
           "grammar": [
             {
-              "point": "hais / haïssez",
+              "point": "le",
               "explanation": {
-                "ja": "haïr の現在形。je では hais、vous では haïssez となり、綴りと発音が変わります。",
-                "en": "Present forms of haïr: hais with je and haïssez with vous differ in spelling and pronunciation."
+                "ja": "男性名詞 or を受ける直接目的語代名詞です。",
+                "en": "Le is the direct-object pronoun for masculine or."
+              }
+            },
+            {
+              "point": "comme + 節",
+              "explanation": {
+                "ja": "自分の金への嫌悪を、相手の神への嫌悪と比べます。",
+                "en": "Comme compares the two hatreds."
+              }
+            },
+            {
+              "point": "vous",
+              "explanation": {
+                "ja": "返答では先ほどから丁寧な vous を続けます。",
+                "en": "The answer continues the formal address from earlier."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "黄金への嫌悪を、相手に突きつける神の比喩で強調します。",
+              "en": "The comparison with God makes his rejection of gold pointed."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -2970,23 +4676,56 @@
           "ttsText": "— Ich hasse es, wie Sie Gott hassen.",
           "vocabulary": [
             {
-              "term": "hassen",
+              "term": "Ich hasse es",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To hate."
+                "ja": "私はそれを憎む。es は Gold。",
+                "en": "I hate it; es refers to Gold."
+              }
+            },
+            {
+              "term": "wie",
+              "meaning": {
+                "ja": "〜のように。",
+                "en": "As, like."
+              }
+            },
+            {
+              "term": "Sie Gott hassen",
+              "meaning": {
+                "ja": "あなたが神を憎む。",
+                "en": "You hate God, in formal address."
               }
             }
           ],
           "grammar": [
             {
-              "point": "wie Sie Gott hassen",
+              "point": "es",
               "explanation": {
-                "ja": "wie に導かれる比較の節では動詞が末尾に置かれます。",
-                "en": "The comparative clause introduced by wie places the verb last."
+                "ja": "中性名詞 Gold を受ける代名詞です。",
+                "en": "Es refers back to neuter Gold."
+              }
+            },
+            {
+              "point": "wie + 節",
+              "explanation": {
+                "ja": "自分の金への嫌悪と、相手の神への嫌悪を比べます。",
+                "en": "Wie compares his hatred of gold to the addressee’s hatred of God."
+              }
+            },
+            {
+              "point": "hassen at clause end",
+              "explanation": {
+                "ja": "wie 以下の従属節で動詞を末尾に置きます。",
+                "en": "The subordinate clause places hassen at the end."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人物は金を強く否定し、問い手への直接的な比較で答えます。",
+              "en": "The man rejects gold with a direct comparison aimed at the questioner."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3003,23 +4742,56 @@
           "ttsText": "— Я ненавижу его, как вы ненавидите Бога.",
           "vocabulary": [
             {
-              "term": "ненавидеть",
+              "term": "ненавижу",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To hate."
+                "ja": "私は憎む。",
+                "en": "I hate."
+              }
+            },
+            {
+              "term": "его",
+              "meaning": {
+                "ja": "それ、直前の золото。",
+                "en": "It, referring to золото."
+              }
+            },
+            {
+              "term": "как вы ненавидите Бога",
+              "meaning": {
+                "ja": "あなたが神を憎むように。",
+                "en": "As you hate God."
               }
             }
           ],
           "grammar": [
             {
-              "point": "его / Бога",
+              "point": "его",
               "explanation": {
-                "ja": "его は золото を受け、Бога は動詞の目的語となる対格です。",
-                "en": "Его refers to золото; Бога is the accusative object of the verb."
+                "ja": "золото を受ける代名詞として、金を嫌う対象にします。",
+                "en": "The pronoun points back to gold as what is hated."
+              }
+            },
+            {
+              "point": "как + 節",
+              "explanation": {
+                "ja": "自分の金への嫌悪を、相手の神への嫌悪にたとえます。",
+                "en": "Как compares his hatred of gold to the other person’s hatred of God."
+              }
+            },
+            {
+              "point": "вы",
+              "explanation": {
+                "ja": "相手への丁寧な呼びかけが続きます。",
+                "en": "The speaker continues formal address."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "黄金を愛するかという問いを、強い拒絶と相手への比較で返します。",
+              "en": "He answers the question about gold with emphatic rejection and comparison."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3036,23 +4808,49 @@
           "ttsText": "— أكرهه كما تكره الله.",
           "vocabulary": [
             {
-              "term": "أكرهه",
+              "term": "أَكْرَهُهُ",
               "meaning": {
-                "ja": "私はそれを憎む。",
-                "en": "I hate it."
+                "ja": "私はそれを憎む。接尾代名詞は黄金。",
+                "en": "I hate it; the suffix refers to gold."
+              }
+            },
+            {
+              "term": "كَمَا",
+              "meaning": {
+                "ja": "〜と同じように。",
+                "en": "Just as."
+              }
+            },
+            {
+              "term": "تَكْرَهُ اللَّهَ",
+              "meaning": {
+                "ja": "あなたが神を憎む。",
+                "en": "You hate God."
               }
             }
           ],
           "grammar": [
             {
-              "point": "كما تكره",
+              "point": "ـهُ",
               "explanation": {
-                "ja": "كما は比較の「〜するように」。ـه は الذهب を受ける目的語です。",
-                "en": "كما introduces the comparison; the suffix ـه refers to الذهب."
+                "ja": "動詞の接尾代名詞が直前の الذهب を指します。",
+                "en": "The object suffix points back to gold."
+              }
+            },
+            {
+              "point": "كَمَا + 節",
+              "explanation": {
+                "ja": "金への嫌悪を、相手の神への嫌悪と比べます。",
+                "en": "كما compares his hatred of gold with the addressee’s hatred of God."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人物は黄金を愛さず、強い嫌悪を相手への比較で表します。",
+              "en": "He rejects gold by making a sharp comparison with the listener."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "ʾakrahuhu kamā takrahu allāha."
@@ -3073,23 +4871,49 @@
           "ttsText": "— 我憎恨它，就像你憎恨上帝一样。",
           "vocabulary": [
             {
-              "term": "憎恨",
+              "term": "我憎恨它",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To hate."
+                "ja": "私はそれを憎む。它 は黄金。",
+                "en": "I hate it; 它 refers to gold."
+              }
+            },
+            {
+              "term": "就像",
+              "meaning": {
+                "ja": "ちょうど〜のように。",
+                "en": "Just as."
+              }
+            },
+            {
+              "term": "你憎恨上帝",
+              "meaning": {
+                "ja": "あなたが神を憎む。",
+                "en": "You hate God."
               }
             }
           ],
           "grammar": [
             {
-              "point": "就像 … 一样",
+              "point": "它",
               "explanation": {
-                "ja": "二つの行為を「ちょうど〜と同じように」と比較します。",
-                "en": "This construction compares two actions: just as or in the same way as."
+                "ja": "直前に問われた 黄金 を受けます。",
+                "en": "The pronoun refers to the gold just mentioned."
+              }
+            },
+            {
+              "point": "就像 ... 一样",
+              "explanation": {
+                "ja": "自分の金への嫌悪と相手の神への嫌悪を比べます。",
+                "en": "The frame compares his hatred of gold with the addressee’s hatred of God."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "黄金への拒絶を、問い手の神への態度を引き合いに出して強めます。",
+              "en": "The man intensifies his rejection of gold with a remark aimed at the questioner."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ zēnghèn tā, jiù xiàng nǐ zēnghèn Shàngdì yīyàng."
@@ -3110,23 +4934,49 @@
           "ttsText": "— 당신이 신을 미워하듯, 나는 그것을 미워해요.",
           "vocabulary": [
             {
-              "term": "미워하다",
+              "term": "당신이 신을 미워하듯",
               "meaning": {
-                "ja": "憎む。",
-                "en": "To hate."
+                "ja": "あなたが神を憎むように。",
+                "en": "As you hate God."
+              }
+            },
+            {
+              "term": "그것을",
+              "meaning": {
+                "ja": "それを。直前の 황금 を指す。",
+                "en": "It, referring to gold."
+              }
+            },
+            {
+              "term": "미워해요",
+              "meaning": {
+                "ja": "嫌います、憎みます。",
+                "en": "I hate it."
               }
             }
           ],
           "grammar": [
             {
-              "point": "미워하듯",
+              "point": "-듯",
               "explanation": {
-                "ja": "-듯 は類似・比較を表します。",
-                "en": "-듯 marks resemblance or comparison."
+                "ja": "相手の神への嫌悪を、自分の金への嫌悪と比べます。",
+                "en": "-듯 compares the two kinds of hatred."
+              }
+            },
+            {
+              "point": "그것",
+              "explanation": {
+                "ja": "前の質問の 황금 を受ける代名詞です。",
+                "en": "The pronoun refers back to gold."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手の神への態度にたとえて、黄金を強く拒絶します。",
+              "en": "He rejects gold sharply by comparing his feeling with the listener’s."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3148,23 +4998,49 @@
           "ttsText": "ではいったいなにをあいするのだ、ふうがわりないほうじんよ。",
           "vocabulary": [
             {
-              "term": "異邦人",
+              "term": "ではいったい",
               "meaning": {
-                "ja": "よそから来た人、他国の人。",
-                "en": "A stranger or foreigner."
+                "ja": "ここまでの答えを受けて、強く問い直す。",
+                "en": "Then, after all those answers, asking insistently."
+              }
+            },
+            {
+              "term": "何を愛する",
+              "meaning": {
+                "ja": "愛する対象を人でなく物事まで広げて問う。",
+                "en": "Asks what, rather than whom, the stranger loves."
+              }
+            },
+            {
+              "term": "風変わりな異邦人",
+              "meaning": {
+                "ja": "常識から外れた答えをする、よそ者への呼びかけ。",
+                "en": "An address to the unusual stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "いったい何を",
+              "point": "何を",
               "explanation": {
-                "ja": "問いを強め、これまでの否定への戸惑いを表します。",
-                "en": "This intensifies the question and conveys puzzlement after the preceding denials."
+                "ja": "最初の「誰を」から変わり、答えを人以外にも広げます。",
+                "en": "What broadens the question beyond the original whom."
+              }
+            },
+            {
+              "point": "-のだ",
+              "explanation": {
+                "ja": "重ねた問いの末に、答えを強く求める口調を作ります。",
+                "en": "The ending presses for an answer after repeated failures."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族・友人・祖国・美・黄金が答えにならず、問い手は制限を外して聞き直します。",
+              "en": "With all proposed answers rejected, the questioner asks openly what the man loves."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3181,23 +5057,49 @@
           "ttsText": "— Well! What do you love, then, extraordinary stranger?",
           "vocabulary": [
             {
-              "term": "stranger",
+              "term": "Well!",
               "meaning": {
-                "ja": "見知らぬ人、異邦人。",
-                "en": "An unfamiliar person or foreigner."
+                "ja": "さて、では。",
+                "en": "Well then, after those answers."
+              }
+            },
+            {
+              "term": "What do you love",
+              "meaning": {
+                "ja": "何を愛するのか。",
+                "en": "What is it that you love?"
+              }
+            },
+            {
+              "term": "extraordinary stranger",
+              "meaning": {
+                "ja": "並外れた異邦人。",
+                "en": "An unusual stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "What do you love, then?",
+              "point": "What, not whom",
               "explanation": {
-                "ja": "then はこれまでの答えを受けた「それなら」の意味です。",
-                "en": "Then draws a conclusion from the preceding answers: in that case."
+                "ja": "最初の Whom から What へ変わり、人以外の答えも求めます。",
+                "en": "The question changes from Whom to What, opening it beyond people."
+              }
+            },
+            {
+              "point": "then",
+              "explanation": {
+                "ja": "これまでの否定を受け、結局何を愛するか問い直します。",
+                "en": "Then presses for an answer after the rejected options."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "候補を一つずつ失った問い手が、最後に自由な答えを求めます。",
+              "en": "After each proposed object fails, the questioner asks for an open answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3214,23 +5116,49 @@
           "ttsText": "— ¡Eh! ¿Qué amas entonces, extraordinario extranjero?",
           "vocabulary": [
             {
-              "term": "extranjero",
+              "term": "Qué amas",
               "meaning": {
-                "ja": "異邦人、外国人。",
-                "en": "Foreigner; stranger from elsewhere."
+                "ja": "何を愛するのか。",
+                "en": "What do you love?"
+              }
+            },
+            {
+              "term": "entonces",
+              "meaning": {
+                "ja": "それなら、では。",
+                "en": "Then, after all that."
+              }
+            },
+            {
+              "term": "extraordinario extranjero",
+              "meaning": {
+                "ja": "並外れた異邦人。",
+                "en": "An extraordinary stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "qué amas entonces",
+              "point": "Qué / A quién",
               "explanation": {
-                "ja": "entonces は前の応答を受けて問いを改めます。",
-                "en": "Entonces renews the question in light of the preceding replies."
+                "ja": "冒頭の「誰を」から「何を」へ変え、答えの範囲を広げます。",
+                "en": "The shift from A quién to Qué broadens the possible answer."
+              }
+            },
+            {
+              "point": "entonces",
+              "explanation": {
+                "ja": "これまでの候補が否定された結果、問い直します。",
+                "en": "Entonces asks what follows from the rejected options."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は候補の列挙をやめ、人物自身の答えを求めます。",
+              "en": "The questioner stops listing options and asks for the man’s own answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3247,23 +5175,49 @@
           "ttsText": "— Eh ! qu’aimes-tu donc, extraordinaire étranger ?",
           "vocabulary": [
             {
-              "term": "étranger",
+              "term": "qu’aimes-tu",
               "meaning": {
-                "ja": "異邦人、よそ者。",
-                "en": "Foreigner; outsider."
+                "ja": "何を愛するのか。",
+                "en": "What do you love?"
+              }
+            },
+            {
+              "term": "donc",
+              "meaning": {
+                "ja": "それならいったい。",
+                "en": "Then, after all that."
+              }
+            },
+            {
+              "term": "extraordinaire étranger",
+              "meaning": {
+                "ja": "並外れた異邦人。",
+                "en": "An extraordinary stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "donc",
+              "point": "que / Qui",
               "explanation": {
-                "ja": "ここでは推論を踏まえた問いを強めます。名詞 étranger は「見知らぬ者」と「外国人」の両義を持ちます。",
-                "en": "Donc emphasizes the question arising from the exchange. Étranger can suggest both stranger and foreigner."
+                "ja": "冒頭の Qui から que に変わり、人物以外も答えに含めます。",
+                "en": "The change from Qui to que opens the answer beyond people."
+              }
+            },
+            {
+              "point": "aimes-tu",
+              "explanation": {
+                "ja": "倒置疑問文で、相手に直接答えを求めます。",
+                "en": "Inversion forms a direct question to the stranger."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "候補が次々退けられ、問い手は何を愛するか自由に尋ねます。",
+              "en": "With every option rejected, the questioner asks openly what he loves."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -3280,23 +5234,49 @@
           "ttsText": "— Nun! Was liebst du denn, außergewöhnlicher Fremder?",
           "vocabulary": [
             {
-              "term": "Fremder",
+              "term": "Nun!",
               "meaning": {
-                "ja": "よそ者、異邦人。",
-                "en": "Stranger; foreigner."
+                "ja": "さて、では。",
+                "en": "Well then."
+              }
+            },
+            {
+              "term": "Was liebst du",
+              "meaning": {
+                "ja": "何を愛するのか。",
+                "en": "What do you love?"
+              }
+            },
+            {
+              "term": "außergewöhnlicher Fremder",
+              "meaning": {
+                "ja": "並外れた異邦人。",
+                "en": "An extraordinary stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "Was liebst du denn?",
+              "point": "Was / Wen",
               "explanation": {
-                "ja": "denn は疑問に関心や戸惑いの調子を加えます。",
-                "en": "Denn adds an inquisitive or puzzled tone to the question."
+                "ja": "最初の Wen から Was に変え、答えを人以外にも広げます。",
+                "en": "The shift from Wen to Was broadens the question beyond people."
+              }
+            },
+            {
+              "point": "denn",
+              "explanation": {
+                "ja": "度重なる否定の後、いったい何かと尋ねる調子を加えます。",
+                "en": "Denn adds an insistent tone after the repeated denials."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は最後に候補を決めず、異邦人の答えを待ちます。",
+              "en": "The questioner stops supplying options and waits for the stranger’s answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3313,23 +5293,49 @@
           "ttsText": "— Так что же ты любишь, необыкновенный чужеземец?",
           "vocabulary": [
             {
-              "term": "чужеземец",
+              "term": "Так что же",
               "meaning": {
-                "ja": "異邦人。",
-                "en": "Foreigner; stranger from another land."
+                "ja": "それならいったい何を。",
+                "en": "So what, then?"
+              }
+            },
+            {
+              "term": "ты любишь",
+              "meaning": {
+                "ja": "あなたは愛している。",
+                "en": "You love."
+              }
+            },
+            {
+              "term": "необыкновенный чужеземец",
+              "meaning": {
+                "ja": "並外れた異邦人。",
+                "en": "An extraordinary stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "что же",
+              "point": "что / Кого",
               "explanation": {
-                "ja": "же が疑問を強調し、それまでの応答を受けた問いにします。",
-                "en": "Же emphasizes the question in response to what has already been said."
+                "ja": "冒頭の「誰を」から「何を」に変わり、対象を広げます。",
+                "en": "The question changes from whom to what."
+              }
+            },
+            {
+              "point": "же",
+              "explanation": {
+                "ja": "候補を否定され続けた問い手の強い問い直しを示します。",
+                "en": "Же adds insistence to the renewed question."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "具体的な候補を捨て、異邦人自身が愛するものを尋ねます。",
+              "en": "The speaker abandons suggested answers and asks what the stranger himself loves."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3346,23 +5352,49 @@
           "ttsText": "— إذن، ماذا تحب، أيها الغريب العجيب؟",
           "vocabulary": [
             {
-              "term": "الغريب",
+              "term": "إِذَنْ",
               "meaning": {
-                "ja": "異邦人、見知らぬ者。",
-                "en": "Stranger; foreigner."
+                "ja": "では、それなら。",
+                "en": "Then, in that case."
+              }
+            },
+            {
+              "term": "مَاذَا تُحِبُّ",
+              "meaning": {
+                "ja": "何を愛するか。",
+                "en": "What do you love?"
+              }
+            },
+            {
+              "term": "الْغَرِيبُ الْعَجِيبُ",
+              "meaning": {
+                "ja": "風変わりな異邦人。",
+                "en": "The strange, extraordinary stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "أيها الغريب",
+              "point": "مَاذَا / مَنْ",
               "explanation": {
-                "ja": "أيها は呼びかけを導き、後ろの名詞で相手を指定します。",
-                "en": "أيها introduces a direct address identifying the addressee."
+                "ja": "冒頭の「誰を」から「何を」に変え、答えの範囲を広げます。",
+                "en": "The question changes from whom to what."
+              }
+            },
+            {
+              "point": "أَيُّهَا",
+              "explanation": {
+                "ja": "呼びかけの形で、異邦人に直接答えを求めます。",
+                "en": "The vocative addresses the stranger directly."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は人物や価値を一つずつ挙げるのをやめ、自由な答えを求めます。",
+              "en": "The questioner stops proposing alternatives and asks for the stranger’s own answer."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "ʾidhan, mādhā tuḥibbu, ʾayyuhā al-gharību al-ʿajību?"
@@ -3383,23 +5415,49 @@
           "ttsText": "— 那么，你究竟爱什么，非同寻常的异乡人？",
           "vocabulary": [
             {
-              "term": "究竟",
+              "term": "那么",
               "meaning": {
-                "ja": "いったい、結局。",
-                "en": "After all; exactly."
+                "ja": "それなら。",
+                "en": "Then."
+              }
+            },
+            {
+              "term": "究竟爱什么",
+              "meaning": {
+                "ja": "いったい何を愛するか。",
+                "en": "What, after all, do you love?"
+              }
+            },
+            {
+              "term": "非同寻常的异乡人",
+              "meaning": {
+                "ja": "普通とは異なる異邦人。",
+                "en": "An extraordinary stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "究竟爱什么",
+              "point": "什么 / 谁",
               "explanation": {
-                "ja": "究竟 は疑問を強め、答えを迫る調子を加えます。",
-                "en": "究竟 intensifies the question and presses for an answer."
+                "ja": "冒頭の「誰」から「何」へ変え、人以外にも対象を広げます。",
+                "en": "The shift from 谁 to 什么 opens the question beyond people."
+              }
+            },
+            {
+              "point": "究竟",
+              "explanation": {
+                "ja": "答えが得られない末に、いったい何かと問い詰める調子を出します。",
+                "en": "究竟 presses for an answer after the failed guesses."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "候補を決める問いをやめ、異邦人に自分の愛するものを言わせます。",
+              "en": "The questioner now asks the stranger to name what he loves."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Nàme, nǐ jiūjìng ài shénme, fēitóng xúncháng de yìxiāngrén?"
@@ -3420,23 +5478,49 @@
           "ttsText": "— 그렇다면 도대체 무엇을 사랑하나요, 남다른 이방인이여?",
           "vocabulary": [
             {
-              "term": "도대체",
+              "term": "그렇다면",
               "meaning": {
-                "ja": "いったい。",
-                "en": "What on earth; after all."
+                "ja": "それなら、では。",
+                "en": "If so, then."
+              }
+            },
+            {
+              "term": "도대체 무엇을 사랑하나요",
+              "meaning": {
+                "ja": "いったい何を愛するのか。",
+                "en": "What on earth do you love?"
+              }
+            },
+            {
+              "term": "남다른 이방인",
+              "meaning": {
+                "ja": "普通とは違う異邦人。",
+                "en": "An unusual stranger."
               }
             }
           ],
           "grammar": [
             {
-              "point": "무엇을 사랑하나요",
+              "point": "무엇을 / 누구를",
               "explanation": {
-                "ja": "무엇을 が目的語を尋ね、도대체 が疑問を強めます。",
-                "en": "무엇을 asks for the object and 도대체 strengthens the question."
+                "ja": "冒頭の「誰を」から「何を」へ変え、答えを人以外へ広げます。",
+                "en": "The question shifts from whom to what."
+              }
+            },
+            {
+              "point": "도대체",
+              "explanation": {
+                "ja": "候補がすべて退けられ、強く問い直す調子を加えます。",
+                "en": "The adverb presses for an answer after every rejected option."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "問い手は候補を出すのをやめ、異邦人の本当の答えを聞きます。",
+              "en": "The questioner stops offering answers and asks for the stranger’s own."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3458,23 +5542,56 @@
           "ttsText": "くもをあいしています。すぎてゆくくもを。あそこに。あのすばらしいくもを。",
           "vocabulary": [
             {
-              "term": "過ぎてゆく",
+              "term": "雲を愛しています",
               "meaning": {
-                "ja": "移り進み、遠ざかる。",
-                "en": "To pass on; drift away."
+                "ja": "愛の対象として空の雲を挙げる。",
+                "en": "Names the clouds in the sky as what he loves."
+              }
+            },
+            {
+              "term": "過ぎてゆく雲",
+              "meaning": {
+                "ja": "空を移動し、同じ場所にとどまらない雲。",
+                "en": "Clouds moving across the sky."
+              }
+            },
+            {
+              "term": "あそこに",
+              "meaning": {
+                "ja": "遠くの雲を指し示す。",
+                "en": "Points to clouds over there."
+              }
+            },
+            {
+              "term": "すばらしい雲",
+              "meaning": {
+                "ja": "強い賛美の対象となる雲。",
+                "en": "The clouds he praises as wonderful."
               }
             }
           ],
           "grammar": [
             {
-              "point": "過ぎてゆく雲",
+              "point": "雲を ... 雲を",
               "explanation": {
-                "ja": "動詞句が直後の名詞を修飾します。「雲を」の反復で思いの高まりを表します。",
-                "en": "The verb phrase modifies 雲. Repeating 雲を builds emotional intensity."
+                "ja": "同じ語を繰り返し、愛する対象を強調します。",
+                "en": "Repeating clouds keeps the beloved object in focus."
+              }
+            },
+            {
+              "point": "省略記号の反復",
+              "explanation": {
+                "ja": "間を置きながら、目の前を流れる雲を見つめる語りを作ります。",
+                "en": "The pauses make the answer linger over the passing clouds."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "定まった人や場所でなく、移ろいゆく雲が異邦人の答えになります。",
+              "en": "The stranger chooses passing clouds rather than a fixed person or place."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3491,23 +5608,63 @@
           "ttsText": "— I love the clouds… the clouds passing by… over there… the wonderful clouds!",
           "vocabulary": [
             {
+              "term": "clouds",
+              "meaning": {
+                "ja": "空に浮かぶ雲。",
+                "en": "Clouds in the sky."
+              }
+            },
+            {
               "term": "passing by",
               "meaning": {
-                "ja": "通り過ぎていく。",
+                "ja": "流れて過ぎていく。",
                 "en": "Moving past."
+              }
+            },
+            {
+              "term": "over there",
+              "meaning": {
+                "ja": "あちらに見える。",
+                "en": "Visible in the distance."
+              }
+            },
+            {
+              "term": "wonderful",
+              "meaning": {
+                "ja": "すばらしい。",
+                "en": "Inspiring admiration."
               }
             }
           ],
           "grammar": [
             {
-              "point": "the clouds passing by",
+              "point": "I love ...",
               "explanation": {
-                "ja": "分詞句 passing by が clouds を後ろから修飾します。",
-                "en": "The participial phrase passing by follows and modifies clouds."
+                "ja": "これまで拒んだ候補の後、初めて愛する対象を明言します。",
+                "en": "He finally names an object of love after rejecting the proposed ones."
+              }
+            },
+            {
+              "point": "the clouds の反復",
+              "explanation": {
+                "ja": "雲を繰り返し、最後に wonderful で称賛を強めます。",
+                "en": "Repeating the clouds culminates in praise with wonderful."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "言葉の間を置き、動く雲を見つめる調子を作ります。",
+                "en": "The pauses suggest a gaze following the moving clouds."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "流れ去る雲が、この人物の愛するものとして結びに現れます。",
+              "en": "Passing clouds provide the stranger’s final answer."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3524,23 +5681,63 @@
           "ttsText": "— Amo las nubes… las nubes que pasan… allá… ¡las maravillosas nubes!",
           "vocabulary": [
             {
-              "term": "nubes",
+              "term": "las nubes",
               "meaning": {
                 "ja": "雲。",
-                "en": "Clouds."
+                "en": "The clouds."
+              }
+            },
+            {
+              "term": "que pasan",
+              "meaning": {
+                "ja": "過ぎていく。",
+                "en": "That pass by."
+              }
+            },
+            {
+              "term": "allá",
+              "meaning": {
+                "ja": "あちらに、遠くに。",
+                "en": "Over there."
+              }
+            },
+            {
+              "term": "maravillosas",
+              "meaning": {
+                "ja": "すばらしい。",
+                "en": "Wonderful."
               }
             }
           ],
           "grammar": [
             {
-              "point": "las nubes que pasan",
+              "point": "que + 動詞",
               "explanation": {
-                "ja": "que は nubes を先行詞とする関係代名詞です。",
-                "en": "Que introduces a relative clause modifying nubes."
+                "ja": "que pasan が雲を修飾し、移動する姿を示します。",
+                "en": "Que pasan modifies the clouds as they pass."
+              }
+            },
+            {
+              "point": "las nubes の反復",
+              "explanation": {
+                "ja": "雲を繰り返し、最後に賞賛の形容詞を添えます。",
+                "en": "Repeating the clouds leads to the final praise."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "間を作り、視線が雲を追うような答えにします。",
+                "en": "The pauses make the answer seem to follow the clouds."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "家族や祖国ではなく、通り過ぎる雲を愛すると答えます。",
+              "en": "He loves passing clouds rather than the proposed people or homeland."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3557,10 +5754,31 @@
           "ttsText": "— J’aime les nuages… les nuages qui passent… là-bas… les merveilleux nuages !",
           "vocabulary": [
             {
+              "term": "les nuages",
+              "meaning": {
+                "ja": "雲。",
+                "en": "The clouds."
+              }
+            },
+            {
+              "term": "qui passent",
+              "meaning": {
+                "ja": "過ぎていく。",
+                "en": "That pass by."
+              }
+            },
+            {
               "term": "là-bas",
               "meaning": {
-                "ja": "あそこに、遠くに。",
-                "en": "Over there; in the distance."
+                "ja": "あちらに、遠くに。",
+                "en": "Over there."
+              }
+            },
+            {
+              "term": "merveilleux",
+              "meaning": {
+                "ja": "すばらしい。",
+                "en": "Wonderful."
               }
             }
           ],
@@ -3568,12 +5786,31 @@
             {
               "point": "qui passent",
               "explanation": {
-                "ja": "qui は nuages を受ける関係代名詞。反復と三点リーダーが視線の移動や余韻を作ります。",
-                "en": "Qui refers to nuages. Repetition and ellipses suggest a wandering gaze and lingering emotion."
+                "ja": "関係節が、雲の移りゆく姿を描きます。",
+                "en": "The relative clause depicts the clouds in motion."
+              }
+            },
+            {
+              "point": "les nuages の反復",
+              "explanation": {
+                "ja": "愛する雲を繰り返し、最後の賞賛へ高めます。",
+                "en": "Repeating the clouds builds toward the final praise."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "間を重ね、雲を眺めながら話す調子を作ります。",
+                "en": "The pauses evoke speaking while watching the clouds."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "定まった居場所を持たない異邦人の答えは、移ろう雲です。",
+              "en": "The stranger’s answer is the passing clouds, not a fixed place."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -3590,23 +5827,63 @@
           "ttsText": "— Ich liebe die Wolken… die Wolken, die vorüberziehen… dort drüben… die wunderbaren Wolken!",
           "vocabulary": [
             {
+              "term": "die Wolken",
+              "meaning": {
+                "ja": "雲。",
+                "en": "The clouds."
+              }
+            },
+            {
               "term": "vorüberziehen",
               "meaning": {
-                "ja": "通り過ぎる、流れてゆく。",
-                "en": "To pass by; drift past."
+                "ja": "過ぎていく。",
+                "en": "Drift past."
+              }
+            },
+            {
+              "term": "dort drüben",
+              "meaning": {
+                "ja": "あちらの方に。",
+                "en": "Over there in the distance."
+              }
+            },
+            {
+              "term": "wunderbaren",
+              "meaning": {
+                "ja": "すばらしい。",
+                "en": "Wonderful."
               }
             }
           ],
           "grammar": [
             {
-              "point": "die vorüberziehen",
+              "point": "die ... die ...",
               "explanation": {
-                "ja": "関係代名詞 die は複数の Wolken を受けます。",
-                "en": "The relative pronoun die refers to plural Wolken."
+                "ja": "Wolken の後の die は関係代名詞で、過ぎていく雲を説明します。",
+                "en": "The die after Wolken introduces a relative clause about the clouds."
+              }
+            },
+            {
+              "point": "Wolken の反復",
+              "explanation": {
+                "ja": "同じ対象を繰り返し、最後の賞賛を強めます。",
+                "en": "Repeated Wolken keeps the focus on clouds and builds praise."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "間を置き、雲を目で追うような口調を作ります。",
+                "en": "The pauses suggest watching the clouds move."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "異邦人は固定した人や場所より、流れる雲を愛すると答えます。",
+              "en": "The stranger names moving clouds as what he loves."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3623,23 +5900,63 @@
           "ttsText": "— Я люблю облака… облака, которые плывут… там, вдали… чудесные облака!",
           "vocabulary": [
             {
-              "term": "вдали",
+              "term": "облака",
               "meaning": {
-                "ja": "遠くに。",
-                "en": "In the distance."
+                "ja": "雲。",
+                "en": "The clouds."
+              }
+            },
+            {
+              "term": "плывут",
+              "meaning": {
+                "ja": "浮かんで流れていく。",
+                "en": "Drift across the sky."
+              }
+            },
+            {
+              "term": "там, вдали",
+              "meaning": {
+                "ja": "あちらの遠くに。",
+                "en": "There in the distance."
+              }
+            },
+            {
+              "term": "чудесные",
+              "meaning": {
+                "ja": "すばらしい。",
+                "en": "Wonderful."
               }
             }
           ],
           "grammar": [
             {
-              "point": "облака, которые плывут",
+              "point": "которые + 動詞",
               "explanation": {
-                "ja": "которые は複数の облака を受ける関係代名詞です。",
-                "en": "Которые is a plural relative pronoun referring to облака."
+                "ja": "関係節が雲の流れていく動きを説明します。",
+                "en": "The relative clause describes the drifting clouds."
+              }
+            },
+            {
+              "point": "облака の反復",
+              "explanation": {
+                "ja": "雲を繰り返し、最後に感嘆を込めて称えます。",
+                "en": "Repeating clouds builds to the final admiring phrase."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "言葉を区切り、雲を目で追うような語りになります。",
+                "en": "The pauses suggest a gaze tracking the clouds."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "異邦人は遠くを漂う雲を、愛する唯一の答えとして挙げます。",
+              "en": "The stranger finally names the distant, drifting clouds."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -3656,23 +5973,63 @@
           "ttsText": "— أحب الغيوم… الغيوم التي تمر… هناك… الغيوم الرائعة!",
           "vocabulary": [
             {
-              "term": "الغيوم",
+              "term": "الْغُيُومَ",
               "meaning": {
-                "ja": "雲。",
-                "en": "Clouds."
+                "ja": "雲を。",
+                "en": "The clouds as the loved object."
+              }
+            },
+            {
+              "term": "الَّتِي تَمُرُّ",
+              "meaning": {
+                "ja": "過ぎてゆく。",
+                "en": "That pass by."
+              }
+            },
+            {
+              "term": "هُنَاكَ",
+              "meaning": {
+                "ja": "あそこに。",
+                "en": "Over there."
+              }
+            },
+            {
+              "term": "الرَّائِعَةَ",
+              "meaning": {
+                "ja": "すばらしい。",
+                "en": "Wonderful."
               }
             }
           ],
           "grammar": [
             {
-              "point": "الغيوم التي تمر",
+              "point": "الَّتِي + 動詞",
               "explanation": {
-                "ja": "非人間の複数名詞 الغيوم を、女性単数の関係詞 التي と動詞 تمر で受けます。",
-                "en": "The nonhuman plural الغيوم takes the feminine singular relative التي and verb تمر."
+                "ja": "関係節が、流れていく雲を説明します。",
+                "en": "The relative clause describes the clouds passing by."
+              }
+            },
+            {
+              "point": "الْغُيُوم の反復",
+              "explanation": {
+                "ja": "雲を何度も示し、最後にすばらしいと称えます。",
+                "en": "Repeated clouds builds toward the final praise."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "間を重ね、空の雲を眺めるような語りを作ります。",
+                "en": "The pauses suggest watching the clouds as he speaks."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人や国ではなく、過ぎ去る雲が異邦人の愛の答えです。",
+              "en": "Passing clouds, not people or country, are his answer."
+            }
+          ],
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "ʾuḥibbu al-ghuyūma… al-ghuyūma allatī tamurru… hunāka… al-ghuyūma ar-rāʾiʿata!"
@@ -3693,23 +6050,63 @@
           "ttsText": "— 我爱云……那些飘过的云……在那边……那些奇妙的云！",
           "vocabulary": [
             {
-              "term": "飘过",
+              "term": "我爱云",
               "meaning": {
-                "ja": "漂いながら通り過ぎる。",
-                "en": "To drift past."
+                "ja": "私は雲を愛する。",
+                "en": "I love clouds."
+              }
+            },
+            {
+              "term": "飘过的云",
+              "meaning": {
+                "ja": "漂って過ぎていく雲。",
+                "en": "Clouds floating past."
+              }
+            },
+            {
+              "term": "在那边",
+              "meaning": {
+                "ja": "あちらに。",
+                "en": "Over there."
+              }
+            },
+            {
+              "term": "奇妙的云",
+              "meaning": {
+                "ja": "すばらしく不思議な雲。",
+                "en": "Wonderful clouds."
               }
             }
           ],
           "grammar": [
             {
-              "point": "那些飘过的云",
+              "point": "的 + 名詞",
               "explanation": {
-                "ja": "飘过 に 的 を付け、云 を修飾しています。",
-                "en": "的 makes 飘过 a modifier of 云."
+                "ja": "飘过的 と 奇妙的 がそれぞれ雲を修飾します。",
+                "en": "The 的 phrases describe the passing and wonderful clouds."
+              }
+            },
+            {
+              "point": "云 の反復",
+              "explanation": {
+                "ja": "雲を繰り返し、最後の感嘆へ気持ちを高めます。",
+                "en": "Repetition keeps the clouds central and builds admiration."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "間を置き、空を見ながら雲を指すような調子を作ります。",
+                "en": "The pauses suggest looking up and pointing out the clouds."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "人や祖国ではなく、空を流れる雲を愛すると答えます。",
+              "en": "The stranger names drifting clouds as what he loves."
+            }
+          ],
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ ài yún… nàxiē piāoguò de yún… zài nàbiān… nàxiē qímiào de yún!"
@@ -3730,23 +6127,63 @@
           "ttsText": "— 나는 구름을 사랑해요… 흘러가는 구름을… 저 멀리… 저 경이로운 구름을!",
           "vocabulary": [
             {
-              "term": "경이로운",
+              "term": "구름을 사랑해요",
               "meaning": {
-                "ja": "驚嘆すべき、すばらしい。",
-                "en": "Wonderful; marvellous."
+                "ja": "雲を愛しています。",
+                "en": "I love the clouds."
+              }
+            },
+            {
+              "term": "흘러가는 구름",
+              "meaning": {
+                "ja": "流れ過ぎる雲。",
+                "en": "Clouds drifting by."
+              }
+            },
+            {
+              "term": "저 멀리",
+              "meaning": {
+                "ja": "あの遠くに。",
+                "en": "Far over there."
+              }
+            },
+            {
+              "term": "경이로운 구름",
+              "meaning": {
+                "ja": "驚くほどすばらしい雲。",
+                "en": "Wondrous clouds."
               }
             }
           ],
           "grammar": [
             {
-              "point": "흘러가는 구름",
+              "point": "-는 連体形",
               "explanation": {
-                "ja": "動詞 흐르다 に継続・移動を表す 가다 が加わり、連体形で 구름 を修飾します。",
-                "en": "가다 adds onward movement to 흐르다; the attributive form modifies 구름."
+                "ja": "흘러가는 が雲の流れていく動きを修飾します。",
+                "en": "The modifier describes clouds in motion."
+              }
+            },
+            {
+              "point": "구름 の反復",
+              "explanation": {
+                "ja": "同じ対象を繰り返し、最後の賞賛へ高めます。",
+                "en": "Repeating clouds leads to the final praise."
+              }
+            },
+            {
+              "point": "省略記号",
+              "explanation": {
+                "ja": "間を重ね、目で雲を追いながら話すような調子を作ります。",
+                "en": "The pauses evoke watching the clouds while speaking."
               }
             }
           ],
-          "notes": [],
+          "notes": [
+            {
+              "ja": "異邦人が愛するものは、どこかに留まらない流れる雲です。",
+              "en": "The stranger loves clouds that move on rather than stay in one place."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",

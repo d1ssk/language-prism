@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "81fda1335a77c253669f5652ae32530c08a0d0a61f393c45d4b93622147143a3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아, 그 숲이 어떤 곳이었는지 말하기란 얼마나 어려운가! 거칠고 험하고 무서워서, 생각만 해도 두려움이 되살아난다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1b104c65f07816fb7fd60023fafd68a15d605c48c9c69e00dbf83c532e09b217",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:56:46.453225+00:00"
+}

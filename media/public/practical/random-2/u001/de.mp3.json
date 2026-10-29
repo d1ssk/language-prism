@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dc4076de1f43ca441508e5eaaaec3590fa6bb92dce7641dd33682b0b3563ed74",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich ließ das Buch offen am Fenster liegen, und als ich zurückkam, hatte der Wind mehrere Seiten umgeblättert.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c790260e96979f7ae4104410538d733a650a8bdfc496df89deb031393eea8bfa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:23:28.939284+00:00"
+}

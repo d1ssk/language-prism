@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ad228709128d8d1cfba0070c7a0fe77c5097588ee0902e3bddfe1f68ff34477",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "정부는 옷과 마찬가지로 잃어버린 순수함의 표지이다. 왕들의 궁전은 낙원 정자의 폐허 위에 세워져 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4caa9e2cf8be62b6d7273d752aa5ee5a45500d49e3211a0e5a623411fd7d1cbe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:06:28.683152+00:00"
+}

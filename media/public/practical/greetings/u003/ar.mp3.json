@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c921dcae1b0ca55be930522d6f084258910038705fa85d531849bdc7d49fd420",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "مساء الخير.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "84ea0c3880a803d2f3a7a63c1c6060113ba832ae846ae9d3f81fe4001b084f2d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:08:12.731424+00:00"
+}

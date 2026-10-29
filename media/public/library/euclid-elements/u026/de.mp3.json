@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d44c4fe3796c42f4ee26a23ce7f6d5642ab607160834fcb452d399eb065b2a86",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Und mit jedem Mittelpunkt und Abstand einen Kreis zu zeichnen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "977ef775f726d4c0663ab904e6559037683585eaa5a0c80112b4195adb90b4d7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:28.368625+00:00"
+}

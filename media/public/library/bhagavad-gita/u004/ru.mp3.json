@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "398e68aebc077c299d4fce7edc646e1e0f1ad77c214c4eb6c9e51fd86716e011",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Обладающий различением оставляет в этом мире позади и добрые, и дурные дела. Поэтому посвяти себя йоге: йога есть искусность в действии.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b18f75229f667048ad611e15a84d28255e8b3e2ead1a51c4ff913060dc3e3253",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:28:25.702634+00:00"
+}

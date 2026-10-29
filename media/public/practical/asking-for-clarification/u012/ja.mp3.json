@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ea6fdf872bf6e74b9859d37eb179da0cd60b3816a4d55b8d210464d99682c3b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしのあとにつづけていってみてください。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2aafe341fe1478bcf4ad948b3ccdeec9fecd2d3e3b98127e37bf1d7e1fc36301",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:46:55.449329+00:00"
+}

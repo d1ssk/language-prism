@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b0f0e25ff6250c6dbdd53384ef1ff102335a4e96a6e396ab3df20e629b534d65",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我的心也一样，仍在逃离，却又转过头，回望那条从未让任何人活着通过的险路。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b71508f08d018e4c6bdc66a95ec9cc2d0c7b22abf8eba0c9dea78a632c898a7e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:02:48.574566+00:00"
+}

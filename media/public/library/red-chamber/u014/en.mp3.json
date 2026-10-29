@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3a0e9f8a6035bf7d44a7b8805c2cad9d0ed7108be2a4c85fd3f2bf3e321cc902",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "The monk chanted spells and wrote talismans, working great magic. In an instant he turned the huge stone into a bright, clear and beautiful piece of jade, then shrank it to the size of a fan pendant, small enough to wear or hold.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fdcbef3f6d9be6622fa6a1157015870a5b5f317f840e3db2a8af5bd4e1041b35",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:34:49.766095+00:00"
+}

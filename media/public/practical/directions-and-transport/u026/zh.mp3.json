@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "002f53ebd9c317aceaa884aeed66a85a3b40cbf6de16f3246e9f2263d077d426",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我迷路了。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "822201d252bb5343fe9b394d614baf2c5013fc485d85367bc385bd859f46b085",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:52:15.435787+00:00"
+}

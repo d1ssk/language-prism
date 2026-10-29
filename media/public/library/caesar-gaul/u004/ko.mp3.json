@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0010341f7cdeedb2c63d0888af9a9f93e9975a54a97ad5a8fa793c127193a24d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이들 가운데 가장 용맹한 것은 벨가이족이다. 속주의 문화와 문명에서 가장 멀리 떨어져 있고, 정신을 나약하게 하는 물건을 가져오는 상인들의 방문이 가장 드물며, 라인강 너머의 게르마니족과 가장 가까이 살면서 끊임없이 싸우기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9d4de21158a897712833fdfd03ed43389f905e004f12016201ef21507f96f6b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:33:36.252337+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42a0835a26a0037531f337c27261b723818deda5e2105781b1e7302e2f0142e5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Est-ce que vous buvez du café ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "28055e83e307c34818cdcbb40574888db3765672918ebb1b2477ade855e7ccba",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:21:35.901974+00:00"
+}

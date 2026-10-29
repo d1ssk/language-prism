@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5796618b5cce8b01aba8850e1c7e87e6951036d591142e077e67cb63ab4db4dc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我打开了窗户，听见了鸟叫。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a2a8e6cde1c03083fb5bf9acccdbb5d1d74844925adfd9a3e27b017585d99aba",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:27:02.191601+00:00"
+}

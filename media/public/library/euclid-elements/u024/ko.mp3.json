@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d43f5a4638cb65711b7651a62ad319374cb57504382e55fd5ff34c958b568496",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "임의의 점에서 임의의 점으로 직선을 그을 수 있다고 인정한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fe105ebe9bd12c51de21b36e39bc19cd60fb3f7f13ec981ef9d9c06df417a154",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:32:39.793059+00:00"
+}

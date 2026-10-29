@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "442b373c9d4c400006d87934bae2f513b618cd6a1835a289acfd553adb5fb686",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "음악 듣는 건 늘 좋아해 왔지만, 직접 연주하고 음악의 구조를 공부하기 시작한 건 최근이에요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4cc4eec5506c9fd391f8271ad9136cb4add07668f8758c0ffdf24901da58e96",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:29:44.016651+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "82026a6a4fff4167eab4e38d753002742da09a0250f4b692f0d91f85f5442e85",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I drink coffee every morning.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4fc5c4def842ea50ef42c07e3eb42bca8e7a27908475425e3a9807acbc07117",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:21:00.020552+00:00"
+}

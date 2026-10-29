@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "16fd23dee08ea662a03dad3c3743331e920cd14ca68bfe42e0cb8a926462960b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quel parti d’opposition n’a pas été décrié comme communiste par ses adversaires au pouvoir ? Quel parti n’a pas renvoyé l’accusation infamante de communisme aux opposants plus avancés comme à ses ennemis réactionnaires ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0a4b0be6be83afb2aabf32773662725c1f646b991f473a38bc2ac282278f80a8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:41:16.689559+00:00"
+}

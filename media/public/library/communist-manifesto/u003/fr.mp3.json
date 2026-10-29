@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eaa0db66b26f08b04cc48dde6e0ac042f2f3bb5a4e9c2185ef0ac626bce9774b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Deux choses découlent de ce fait.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "614720a2136cb5fdcc236f6c455a7ecc8ec98f0ca658bffdd01e3fe435cdccac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:42:20.731970+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e80e1f205d5acb3a5b186cd1929ee2cd300bf726807ef76cd4b923724fe413ac",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A one-way ticket to the airport, please.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5330a929530da0a71c5607d5f4092d41538b92b45a7c408a75f214f9fc84e370",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:54:50.188994+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42a2588e6433f6b3e6f1ce1c819feea1d9f36541f5b3bd3681c8c19f3156bf79",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الْعَمَلُ أَدْنَى بِكَثِيرٍ مِنْ يُوغَا التَّمْيِيزِ، يَا دَانَانْجَايَا. فَالْتَمِسْ مَلَاذًا فِي التَّمْيِيزِ؛ فَبُؤَسَاءُ هُمُ الَّذِينَ تَدْفَعُهُمُ الثِّمَارُ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "da5300efa3e7c12567b66e507fe37f405b8ea226f480e6faa3c9ac1bef35bf20",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:24.618531+00:00"
+}

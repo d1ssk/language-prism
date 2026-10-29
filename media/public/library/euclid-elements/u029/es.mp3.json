@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f0b53b1204220076801768bd7546a94aeb8e91a8b5414d68331594418ce9cc9f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Las cosas iguales a una misma cosa son iguales entre sí.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e37e13edf1d1668febfa8fccadfb869d6e888b7de50f28fc4292f4e9aa8d7969",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:36:08.863924+00:00"
+}

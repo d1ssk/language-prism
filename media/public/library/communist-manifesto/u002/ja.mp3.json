@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "09e9758fa74bddca7c2474309948cc65e25d54ca16e2e620643486bb51977914",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "けんりょくをにぎるてきからきょうさんしゅぎだとののしられなかったはんたいとうが、どこにあるだろうか。よりしんぽてきなはんたいはにもはんどうてきなてきにも、きょうさんしゅぎというらくいんをおすひなんをなげかえさなかったはんたいとうが、どこにあるだろうか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8d51cfec17b4aae7daeece3a3e7fd0c4d279b2e925bcd476dcceb2306d002ad2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:40:46.762800+00:00"
+}

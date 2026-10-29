@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a090887dd0312a9f547aacc29a0c1dc4c88e93bfaf88bba3ba2828c1e282cc53",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ふたりのせんにんはききおわると、そろってにこやかにわらいました。よいかな、よいかな。ぞくせにはたしかにたのしいこともあるが、いつまでもたよれるものではない。そのうえ、びちゅうふそく、こうじたま、というはちもじがつきまとい、たちまちたのしみはきわまってかなしみとなり、ひともものもかわる。けっきょくはいちじょうのゆめ、すべてはくうへかえるのだから、むしろいかないほうがよい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1302f820d2110397eb8fd6401ad42a1006bad2bc2a90133863397cd48f97ec23",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:26:08.611400+00:00"
+}

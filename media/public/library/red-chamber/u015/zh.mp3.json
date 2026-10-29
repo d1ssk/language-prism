@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2502490cd2b6c67d2a8d6ff01eb72eceec0c0534f15840852dacb32d640c66ac",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "那僧托於掌上，笑道：「形体倒也是個寶物了！還只沒有實在的好處，須得再鐫上數字，使人一見便知是奇物方妙。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3a5932b0d4b8e7715c3a95fc77e6e448f496153b4a5cd27272e67ad38907a7d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:37:40.154931+00:00"
+}

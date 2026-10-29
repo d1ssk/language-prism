@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e052a8f4ff1fa2e6c173c058b0cd057b009595e6556dc0190aa051eee3d187e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если бы побуждения совести были ясны, постоянны и им непреодолимо повиновались, человеку не понадобился бы иной законодатель. Но поскольку это не так, он считает необходимым уступить часть имущества, чтобы обеспечить защиту остального; к этому его побуждает та же осмотрительность, которая во всех иных случаях советует выбирать из двух зол меньшее.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2fce1bf2c16e69e74e572c98bd8a267d689eb118759cf29f431fea33f3190cfe",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:08:18.574077+00:00"
+}

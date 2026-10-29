@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9bb1900d0cacf8b070b7d600b00ac7a268c322426ebfd4135a9e45318a75a863",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "一日，正當嗟悼之餘，俄見一僧一道遠遠而來，生得骨骼不凡，豐神迥异，說說笑笑來至峰下，坐於石邊高談快論。先是說些雲山霧海神僊玄幻之事，後便說到紅塵中榮華富貴。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e575614418c6a5540f42fc38c3f87172076311cf3414b7351b3d4a85d4f58173",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:19:28.461818+00:00"
+}

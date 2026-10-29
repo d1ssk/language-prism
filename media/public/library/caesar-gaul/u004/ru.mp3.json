@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d4c70ddb9e4fd0531f3a4dc1b27b7b2410914acee6afc602834b78e41048fae7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Самые храбрые из всех — белги, поскольку они дальше всего от культуры и цивилизации провинции; купцы реже всего приезжают к ним с товарами, размягчающими дух; и они ближе всего к германцам за Рейном, с которыми непрерывно воюют.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9a3b7fc9062f88289e1ee17547d72cdc56fa9abebb751a7ded306fbb4cc61535",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:32:56.292810+00:00"
+}

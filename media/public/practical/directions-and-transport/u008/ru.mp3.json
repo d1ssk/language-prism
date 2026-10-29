@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bfcad61bf0001ac645fcb88d5a15dab3c8774e83ddf0baa6e9cb1596cc159c40",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Тогда вот ваш билет.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "577a4af0174c5ec70911df7b13f1e6f61626cb20356b0f5813f73bb039cf96c7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:59.520174+00:00"
+}

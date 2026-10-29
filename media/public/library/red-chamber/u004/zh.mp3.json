@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "885b970c8dc437b1ee8aeeefdd21f8d16491727eae805ce1fc4611028c21c4fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "誰知此石自經煅煉之後，靈性已通，因見眾石俱得補天，獨自己無材不堪入選，遂自怨自嗟，日夜悲號慚愧。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "717f600c3a1228746b3ef959f3f1aa5e70b9a7ae4d3b0af7f6dad2a221b84157",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:16:51.665148+00:00"
+}

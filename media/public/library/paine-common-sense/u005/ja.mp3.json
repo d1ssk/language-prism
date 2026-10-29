@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "82ee19a066ba309be0e77a6a6384db11c6e93232e9b91e400722eecfc59e93cc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しゃかいはいかなるじょうたいでもめぐみであるが、せいふはさいりょうのじょうたいでもひつようあくにすぎず、さいあくのじょうたいではたえがたいあくとなる。せいふのないくにでよそうされるのとおなじわざわいをせいふによってうけたり、そのきけんにさらされたりするとき、わたしたちはみずからくるしみのしゅだんをきょうきゅうしているのだとおもい、いっそうくるしむからである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d23e2a7829dd3c2ca676624f621cd431597fd202849eb8079ff6c39bc6fb2e9d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:03:12.082691+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fbd1e5375e1bbbcbe418496f0d249e5347c4e26ea6655391a5a458ba20a2856e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "For this purpose, communists of many nationalities gathered in London and drafted the following manifesto, which will be published in English, French, German, Italian, Flemish and Danish.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a1a9ef5578c4ca49f1065196ba3d7974cc02525f7d026fc43143977ecc89c5e4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:44:40.274570+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "16bd2a13a97d8f484b92cccbb68b2d2f0eb8c7ba9d2407b59cea3c9005fa2be2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nein, dieser Zug fährt direkt bis zum Flughafen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4b206b109db94a6344ec2fa7f08487dad2328c944c88cec2cd951498ae345c74",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:35.775752+00:00"
+}

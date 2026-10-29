@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3908ed5764427a46d8949410ac95324d723532bb8e1a3389fe1835bee2d093db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Natürlich. Ich gebe Ihnen meine E-Mail-Adresse.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "133eebf91de97e4787e74bc8b6899455cb5043bb441b9354edb2bd19b8ca7f99",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:06:40.091986+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ece71e7add95cdbf2e51bfc9c77dcdf6d442d64de42e16690a2c42c3ea083e0e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Una figura es lo encerrado por uno o varios límites.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "aff7e3b85f75bfa4c60049571e85cee5261288c403d93ea81de1ea08ee15439f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:16.159767+00:00"
+}

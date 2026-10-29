@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e1b1d58f9b599fd59fd429c6e6ad320434f9e9194065e326b4e7bb2bb19f6a6c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El monje recitó conjuros y escribió talismanes, desplegando gran magia. Al instante convirtió la gran piedra en un jade hermoso, brillante y puro, y lo redujo al tamaño de un colgante de abanico, apto para llevar puesto o en la mano.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "00acdfe51697b6c1b64282017dadf52b0ec8a3a51c884c4a81de5d1a2d397b84",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:35:03.395393+00:00"
+}

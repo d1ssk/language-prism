@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e94c7e2f277d655e9cbc830e550520d571906b8824eb3771d3cb119af09a86d2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Sí, se puede. Tiene un suplemento.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6f996ca65d900e1ed62337ac565c736915cdf506fbcd20feff5ca761e140dfc4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:32.319532+00:00"
+}

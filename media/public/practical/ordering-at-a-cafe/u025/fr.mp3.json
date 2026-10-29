@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6b67cc4641bf5b7a6e09eb12a13d6c85631f9bece68c8c28a3663c236907c9f3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Vous payez ensemble ou séparément ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c4d655751777226212c6326ac505e3ddde15a506e713a1217ea9db34029e166a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:19:51.230378+00:00"
+}

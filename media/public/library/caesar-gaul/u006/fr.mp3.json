@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2cf7b90909310c3fc98ce6f8e168a81fc0c0b3c6587d23c1e78dff931a7b452e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "[L’une de ces parties, que les Gaulois occupent comme on l’a dit, commence au Rhône ; elle est délimitée par la Garumna, l’océan et le territoire des Belges, atteint aussi le Rhin du côté des Séquanes et des Helvètes, et regarde vers le nord.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "65b57db985e5423ba765d5932972b577e69c9580ba31b9b67cc033bcb59c11cf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:35:55.158204+00:00"
+}

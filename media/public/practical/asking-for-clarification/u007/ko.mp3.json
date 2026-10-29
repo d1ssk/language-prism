@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3eb79ebcbc20aad7bcf42369aa9d7b729e6a929a22b8f7c35efab79a8724bea4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 단어는 무슨 뜻인가요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2ae78e8dfa4582a33a76ff35d683f493b0eb106166fc57107017879903b32abd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:45:42.321239+00:00"
+}

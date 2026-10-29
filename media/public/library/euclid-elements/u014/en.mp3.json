@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "abf97be60b0afbf3d0988c4c43e2d8095c87ebfa0c8d2146dd4203d2b718a101",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A figure is what is enclosed by one or more boundaries.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6d4ec4e98b4fe8e1a8fb2ae88d8c08e3ba0f04f419370f69c96b729da1656692",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:13.206537+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "595e3870449c9a8bf427f6d90272636c6be750dcef6deb49ac3c7d82de468145",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Если от равных отнять равные, остатки будут равны.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6c0f93711694d07d1cf3b0758bd7f9a3578c4faa8bfaba3da8ca731fdfbf29ed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:16.267986+00:00"
+}

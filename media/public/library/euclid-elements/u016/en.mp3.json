@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "95b5e5864ed8c379830dd0ced0fb56ba9f090c0e1b4b1afc21093dfe5e801aaf",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "That point is called the centre of the circle.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f0cfbcd4f227ba877a9de1612dec2d4b21262328aa73dcb47e4c08f3ef35d868",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:23:06.008899+00:00"
+}

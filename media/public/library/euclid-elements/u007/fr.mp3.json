@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c4884eabdf1e4f553992936f2a8ea6d9256befe52e45986d79eb8952bdcee09a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Une surface plane se tient uniformément par rapport aux droites qui sont sur elle.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a75fd202b571f26646159307f51118f2cd8635f82bc420662ea4a2ab8d89d88a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:16:46.496578+00:00"
+}

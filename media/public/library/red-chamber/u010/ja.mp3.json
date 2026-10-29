@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9974f8578189b1163ea5963fc25f0b565c2a3907e37e55e47bc9544b9f01f2d6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しかしいしのぞくせへのおもいは、すでにもえあがっていました。そんなことばがみみにはいるはずもなく、なんどもなんどもひっしにたのみました。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "87b17bc6a32524c50717e1503c53b5694f19507e9f6c5f2c3e7ee50dcf4ea1cb",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:28:47.531147+00:00"
+}

@@ -88,6 +88,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -142,6 +147,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -196,6 +206,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -250,6 +265,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -304,6 +324,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -358,6 +383,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -420,6 +450,11 @@
               "ja": "この文で区切って読むときの休止形：ṣabāḥin → ṣabāḥ。 ʾAshrabu al-qahwata は連読すると ʾashrabu l-qahwata とつながります。",
               "en": "Pausal forms at the sentence breaks here: ṣabāḥin → ṣabāḥ. In connected speech, ʾAshrabu al-qahwata is linked as ʾashrabu l-qahwata."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -482,6 +517,11 @@
               "ja": "この文では、発音時に Wǒ měitiān → Wó měitiān となります。",
               "en": "In this sentence, the spoken forms are Wǒ měitiān → Wó měitiān."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -536,6 +576,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -595,6 +640,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -649,6 +699,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -703,6 +758,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -757,6 +817,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -811,6 +876,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -865,6 +935,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -927,6 +1002,11 @@
               "ja": "この文で区切って読むときの休止形：al-qahwata → al-qahwah。 ʾashrabu al-qahwata は連読すると ʾashrabu l-qahwata とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-qahwata → al-qahwah. In connected speech, ʾashrabu al-qahwata is linked as ʾashrabu l-qahwata."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -985,6 +1065,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ bù hē kāfēi."
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -1039,6 +1124,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -1098,6 +1188,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -1152,6 +1247,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -1206,6 +1306,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -1260,6 +1365,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -1314,6 +1424,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -1368,6 +1483,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -1430,6 +1550,11 @@
               "ja": "tashrabu は男性一人に話す形です。女性一人に話す場合は tashrabīna になります。 この文で区切って読むときの休止形：al-qahwata → al-qahwah。 tashrabu al-qahwata は連読すると tashrabu l-qahwata とつながります。",
               "en": "tashrabu addresses one man; use tashrabīna when addressing one woman. Pausal forms at the sentence breaks here: al-qahwata → al-qahwah. In connected speech, tashrabu al-qahwata is linked as tashrabu l-qahwata."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -1488,6 +1613,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Nín hē kāfēi ma?"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -1542,6 +1672,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -1594,6 +1729,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -1641,6 +1781,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -1688,6 +1833,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -1735,6 +1885,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -1782,6 +1937,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -1829,6 +1989,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -1891,6 +2056,11 @@
               "ja": "この文で区切って読むときの休止形：al-qahwata → al-qahwah。 ʾashrabu al-qahwata は連読すると ʾashrabu l-qahwata とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-qahwata → al-qahwah. In connected speech, ʾashrabu al-qahwata is linked as ʾashrabu l-qahwata."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -1935,6 +2105,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Hē."
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -1982,6 +2157,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -2034,6 +2214,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -2081,6 +2266,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -2128,6 +2318,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -2175,6 +2370,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -2222,6 +2422,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -2269,6 +2474,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -2331,6 +2541,11 @@
               "ja": "この文で区切って読むときの休止形：al-qahwata → al-qahwah。 ʾashrabu al-qahwata は連読すると ʾashrabu l-qahwata とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-qahwata → al-qahwah. In connected speech, ʾashrabu al-qahwata is linked as ʾashrabu l-qahwata."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -2375,6 +2590,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Bù hē."
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -2422,6 +2642,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -2481,6 +2706,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -2535,6 +2765,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -2589,6 +2824,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -2643,6 +2883,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -2697,6 +2942,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -2751,6 +3001,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -2813,6 +3068,11 @@
               "ja": "tashrabu は男性一人に話す形です。女性一人に話す場合は tashrabīna になります。 この文で区切って読むときの休止形：aṣ-ṣabāḥi → aṣ-ṣabāḥ。 fī aṣ-ṣabāḥi は連読すると fī ṣ-ṣabāḥi とつながります。",
               "en": "tashrabu addresses one man; use tashrabīna when addressing one woman. Pausal forms at the sentence breaks here: aṣ-ṣabāḥi → aṣ-ṣabāḥ. In connected speech, fī aṣ-ṣabāḥi is linked as fī ṣ-ṣabāḥi."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -2871,6 +3131,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Nín zǎoshang hē shénme?"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -2925,6 +3190,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -2984,6 +3254,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -3038,6 +3313,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -3092,6 +3372,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -3146,6 +3431,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -3200,6 +3490,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -3254,6 +3549,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -3316,6 +3616,11 @@
               "ja": "この文で区切って読むときの休止形：aṣ-ṣabāḥi → aṣ-ṣabāḥ。 ʾAshrabu ash-shāya は連読すると ʾashrabu sh-shāya とつながります。",
               "en": "Pausal forms at the sentence breaks here: aṣ-ṣabāḥi → aṣ-ṣabāḥ. In connected speech, ʾAshrabu ash-shāya is linked as ʾashrabu sh-shāya."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -3374,6 +3679,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Wǒ zǎoshang hē chá."
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -3428,6 +3738,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -3487,6 +3802,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -3541,6 +3861,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -3595,6 +3920,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -3649,6 +3979,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -3703,6 +4038,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -3757,6 +4097,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -3819,6 +4164,11 @@
               "ja": "この文で区切って読むときの休止形：al-yawma → al-yawm。 hādhā al-matjaru は連読すると hādhā l-matjaru とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-yawma → al-yawm. In connected speech, hādhā al-matjaru is linked as hādhā l-matjaru."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -3877,6 +4227,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Zhè jiā diàn jīntiān kāimén."
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -3931,6 +4286,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -3990,6 +4350,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -4044,6 +4409,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -4098,6 +4468,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -4152,6 +4527,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -4206,6 +4586,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -4260,6 +4645,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -4322,6 +4712,11 @@
               "ja": "この文で区切って読むときの休止形：al-yawma → al-yawm。 hādhā al-matjaru は連読すると hādhā l-matjaru とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-yawma → al-yawm. In connected speech, hādhā al-matjaru is linked as hādhā l-matjaru."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -4380,6 +4775,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Zhè jiā diàn jīntiān bù kāimén."
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -4434,6 +4834,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -4493,6 +4898,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -4547,6 +4957,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -4601,6 +5016,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -4655,6 +5075,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -4709,6 +5134,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -4763,6 +5193,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -4825,6 +5260,11 @@
               "ja": "この文で区切って読むときの休止形：al-yawma → al-yawm。 hādhā al-matjaru は連読すると hādhā l-matjaru とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-yawma → al-yawm. In connected speech, hādhā al-matjaru is linked as hādhā l-matjaru."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -4883,6 +5323,11 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Zhè jiā diàn jīntiān kāimén ma?"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -4937,6 +5382,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -4996,6 +5446,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -5050,6 +5505,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -5104,6 +5564,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -5158,6 +5623,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -5212,6 +5682,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -5266,6 +5741,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -5328,6 +5808,11 @@
               "ja": "この文で区切って読むときの休止形：al-matjaru → al-matjar。 hādhā al-matjaru は連読すると hādhā l-matjaru とつながります。",
               "en": "Pausal forms at the sentence breaks here: al-matjaru → al-matjar. In connected speech, hādhā al-matjaru is linked as hādhā l-matjaru."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -5390,6 +5875,11 @@
               "ja": "この文では、発音時に jǐ diǎn → jí diǎn となります。",
               "en": "In this sentence, the spoken forms are jǐ diǎn → jí diǎn."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -5444,6 +5934,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }
@@ -5503,6 +5998,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "en": {
@@ -5557,6 +6057,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "es": {
@@ -5611,6 +6116,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "fr": {
@@ -5665,6 +6175,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "de": {
@@ -5719,6 +6234,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ru": {
@@ -5773,6 +6293,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ar": {
@@ -5835,6 +6360,11 @@
               "ja": "この文で区切って読むときの休止形：ṣabāḥan → ṣabāḥā。 fī as-sāʿati at-tāsiʿati は連読すると fī s-sāʿati t-tāsiʿati とつながります。",
               "en": "Pausal forms at the sentence breaks here: ṣabāḥan → ṣabāḥā. In connected speech, fī as-sāʿati at-tāsiʿati is linked as fī s-sāʿati t-tāsiʿati."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
@@ -5897,6 +6427,11 @@
               "ja": "この文では、発音時に jiǔ diǎn → jiú diǎn となります。",
               "en": "In this sentence, the spoken forms are jiǔ diǎn → jiú diǎn."
             }
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
@@ -5951,6 +6486,11 @@
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/negation-and-questions/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         }
       }

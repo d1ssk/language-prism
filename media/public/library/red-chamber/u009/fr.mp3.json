@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a1c6eca68ae82c58e93290dbf3c1672a6a236171fd4a4bb6f6af08145b2ff554",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Les deux immortels sourirent ensemble. « Fort bien ! Il y a certes des plaisirs dans ce monde poussiéreux, mais ils ne durent pas toujours. Les huit caractères “défaut dans la beauté” et “bonheur contrarié par les démons” s’y attachent : en un instant la joie extrême devient chagrin, les êtres et les choses changent. Tout finit en rêve, tout revient au vide ; mieux vaut ne pas y aller. »",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ed7eb264c7b92a9e4f867858cd1d0fd76f52e070b47ed95002798c6785161290",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:27:05.657050+00:00"
+}

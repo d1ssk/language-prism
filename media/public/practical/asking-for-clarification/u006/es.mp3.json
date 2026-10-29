@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "595f8f30b82d64ef70b212e2e770391a32ce1e20c78b1aa2015a788fc5f4adc8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Por supuesto. Dígame si hay algo que no entiende.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2d13d1fe3cf6b5919f393be7de082e3ed7e7f276915b2c91e773279b4cd6ceae",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:18.072865+00:00"
+}

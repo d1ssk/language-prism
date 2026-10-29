@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7fd54b5096d8e4f62b55e86ff9b64c8b3c652364d1f02f6b0ec968521277ed54",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Oui, à partir de lundi.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cc78ede7991061299a923c470692af670c8b1c8a1c062afd2c7297505455e44a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:44.967979+00:00"
+}

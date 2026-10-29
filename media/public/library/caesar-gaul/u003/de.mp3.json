@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5dda524565d89e31f18dfa160a74b0b7e737fd2b2189c8b5631bdad7398436f4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die Garumna trennt die Gallier von den Aquitanern, die Matrona und die Sequana von den Belgern.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2285742179c3e98d2420d34b5bc5740857ae494b95b142f3d4231e346b48c538",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:31:10.901016+00:00"
+}

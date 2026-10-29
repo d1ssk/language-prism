@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6e9d8b3af63076be53d17387325e832fdb0a7608ce85fa12d99d28e80bf8045b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die beiden Unsterblichen erkannten, dass Zwang nichts half, und seufzten: „Auch das ist Schicksal: Äußerste Ruhe verlangt Bewegung, aus dem Nichts entsteht Sein. Gut, wir nehmen dich mit, damit du dich erfreust. Doch bereue es nicht, wenn deine Wünsche unerfüllt bleiben.“",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0fccf68f8ecfb4f531930b914bdaf8ce3e569e72391e926852c2f10042884f6b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:30:41.036519+00:00"
+}

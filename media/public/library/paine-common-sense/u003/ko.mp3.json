@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e53c196e1e8a94f2536c08920c40718ad8169da76681d0cf914c75b95e0b8df6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "하나는 교류를 장려하고 다른 하나는 구별을 만든다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4ba32cf3ac2fa18aa74c301533684e3da976639eabf4da8fc7e3088b8704d3f3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:02:31.578569+00:00"
+}

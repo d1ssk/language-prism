@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d0dbb87082d58dd79813d8e91fb16404c623915dc9689a025809daedb99f4916",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "열차가 지연되고 있어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a23ce2dfe247c762caaadc7566f59a693f097349a2724bfc8dcb1d14c5074b40",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:58:04.008430+00:00"
+}

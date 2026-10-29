@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6d79d2bf1a63f0a84255270db42dca6d62208a936cad0efe8340d31682b8fa86",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Puedo pagar con tarjeta?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "90d639276ae7223fee27980f4e4f0f7f4e726e3b10a71f5a96b95ad0a926bd3d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:26.465946+00:00"
+}

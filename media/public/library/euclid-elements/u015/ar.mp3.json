@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "129ec226c8140d80da897c37b25e08d944b2e0dc425a594dd9c484196e3dbab6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الدَّائِرَةُ شَكْلٌ مُسْتَوٍ يُحِيطُ بِهِ خَطٌّ وَاحِدٌ [يُسَمَّى الْمُحِيطَ]، وَتَتَسَاوَى جَمِيعُ الْخُطُوطِ الْمُسْتَقِيمَةِ الْمَرْسُومَةِ إِلَيْهِ [إِلَى الْمُحِيطِ] مِنْ نُقْطَةٍ وَاحِدَةٍ دَاخِلَ الشَّكْلِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "530408c557f691661587427d0e60ff67a97e9abacc7939453a069efb58a8e2cc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:22:45.152542+00:00"
+}

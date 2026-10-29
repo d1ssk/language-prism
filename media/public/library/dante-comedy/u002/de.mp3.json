@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "297a8619a524d836b3bd7c260ca2066c5c36467524f64063432c65175dca5abe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ach, wie schwer ist es zu sagen, wie dieser Wald war, so wild, rau und unwegsam, dass schon der Gedanke daran meine Furcht erneuert!",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9b7b4d58fad7b02cafde0b1c0c3079cb53d505e81697954ebaaa7921535b9345",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:56:21.119960+00:00"
+}

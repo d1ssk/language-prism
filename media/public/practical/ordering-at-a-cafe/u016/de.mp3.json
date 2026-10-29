@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97bae67ad544ca4568080328303db9f0bc8d5de00b15cdb9c089de234d859646",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ja, hier entlang, bitte.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0137e2db11e14877f4a89ed915479a2591b9196faafee44127ab7b0f612f301b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:13.834226+00:00"
+}

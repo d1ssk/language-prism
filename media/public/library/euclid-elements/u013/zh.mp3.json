@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3710a98b1053cf016b6cf70d0912cae61d47e6cf3ba1c81d81afb9d17725b7df",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "边界是某物的端部。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d20ebaaf52b7e06b902740df48038a26ec93d3b7e39ed4b3144581ec59374d90",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:21:04.189748+00:00"
+}

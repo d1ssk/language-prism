@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d861afa1de62cb647dd637d7c02ad588a56dc8dddf8bce63eb26fae145d8c265",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Chaque fois qu’une forme de gouvernement détruit ces fins, le peuple a le droit de la modifier ou de l’abolir et d’instituer un nouveau gouvernement, en le fondant sur les principes et en organisant ses pouvoirs de la manière qui lui paraît la plus propre à assurer sa sécurité et son bonheur.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1266a7f2b0ab31d7959693059a51a6f96f51b79a62d98f2dfee3e31d46c216a7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:08:58.112334+00:00"
+}

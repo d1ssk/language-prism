@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c87c9703c5ba02df2bd752c1410af5f23512a25aaa3318f4ea8709114deffe39",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Sí, no hace falta que sea hoy.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bb3d8564e4d219351c531ed1dc83874038b98ae1aca003cfa5422200b03e31bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:47:51.615311+00:00"
+}

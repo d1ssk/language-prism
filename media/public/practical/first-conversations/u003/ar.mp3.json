@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f421c384baf4c1f8172a10e71b97855cd8a9a2064f1b05b65111919e93b4917e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "يا علي، أين تسكن الآن؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "32653d7830f6187f99237925b542a92b51f41fff86bb8f02d479da161eff5373",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:01:25.941878+00:00"
+}

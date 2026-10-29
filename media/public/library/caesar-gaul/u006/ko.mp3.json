@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c3fa57fb70f25b41ca4beda6b1dbb3daa0545f5d6164dec05f11535d7559b456",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "［그중 갈리족이 차지한다고 말한 지역은 로다누스강에서 시작하여 가룸나강, 대양, 벨가이족의 영토로 둘러싸이고, 세콰니족과 헬베티족 쪽에서는 라인강에도 이르며 북쪽을 향한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6a284fbc1b096e3a0b55aa548e695465f9f7616324a8bb76e78749d755c5ba76",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:36:51.733307+00:00"
+}

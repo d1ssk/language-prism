@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d844033436620d0a1d89ed6f925f30c97f1c96a997ce632f9c403f2b3bd0d2b8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "须知，侵犯人们的财产，会摧毁他们获取和赚取财产的希望，因为他们看到，财产最终只会从自己手中被夺走。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b03719edd4cb91561f02bdd7bee5ab9dcbaab90cfce5baee04e9a049fa023565",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:39:15.689692+00:00"
+}

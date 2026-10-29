@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d87f7938e92aef6c6dd6a0349e184688b702be16a53e71b69a43f2f19bed2c6a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이전 역사 시대에는 거의 어디서나 사회가 여러 신분으로 완전히 나뉘고 사회적 지위에 다양한 단계가 있음을 볼 수 있다. 고대 로마에는 귀족, 기사, 평민, 노예가 있었고, 중세에는 봉건영주, 가신, 길드 장인, 직공, 농노가 있었으며, 거의 모든 계급 안에도 별도의 단계가 있었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "274f4327ff865cebea528cc2a80ec5cba4c105816904788c2ae7b5e419393805",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:51:29.723638+00:00"
+}

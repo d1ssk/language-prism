@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "db47d3e152287710734365e3f9452ead707b93e6fc5e0fc3540168ddfb032368",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사변형 가운데 정사각형은 등변이고 직각이며, 직사각형은 직각이지만 등변은 아니다. 마름모는 등변이지만 직각은 아니고, 능형 평행사변형은 마주 보는 변과 각이 같지만 등변도 직각도 아니다. 나머지 사변형은 사다리꼴이라 부르기로 한다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b5edafeeff04343d0d1fc2b1d601339e4f5ca08a3709fb42b5a9978caa8a720b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:31:12.062714+00:00"
+}

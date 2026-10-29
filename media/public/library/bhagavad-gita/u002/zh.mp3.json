@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2a6afeaa833627fe297085aa25c9d22b42eb19e336f10bc96ce5abcce9767470",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "持财者啊，安住于瑜伽，舍弃执着，以同样的心面对成功与失败而行动。这种平等心就叫作瑜伽。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cae3d38235d3a038a8179001e5f3444df0a6c4bcdb319847198e1dd917b38d20",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:26:24.452291+00:00"
+}

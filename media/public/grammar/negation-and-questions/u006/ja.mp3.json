@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e468edd27ffe513231f031946b56c7054e54838639d0d05a092d0d645d1e347f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "あさはなにをのみますか。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d6e5c409146376ac218d2199bcdf3427a88d7066fc72ddea2a7f7ee59fd077d6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:15.323265+00:00"
+}

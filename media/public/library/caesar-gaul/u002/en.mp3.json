@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "930a2b6c8b7151c0b2ec8f8fb1ea578f544f9b5a36c6205a990238057a704ce3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "All these peoples differ from one another in language, customs and laws.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bf32f6680102cf5595faabcedc90131544db6540a495d4c90aa6b3e946a0c964",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:30:23.187908+00:00"
+}

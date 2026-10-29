@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "987418d92ae6d26a84de997fc309e211b7004820f7e82fc5712ac0301f94199a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "케이크도 포장해 드릴까요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ef79045dc51bfae0a8d913433cab67529e1a11208552dce8541633e4a69ac959",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:08.170720+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "783bf5a4aef58a28252be8f7b42afebcb276e0fec01bbbee0d6f15190c5920f5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ein Kreis ist eine ebene Figur, die von einer Linie [dem Kreisumfang] begrenzt wird, zu der alle Geraden [zum Kreisumfang] von einem Punkt im Inneren aus einander gleich sind.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2c355e84d7fd4cb34ceabb597f7b8afbb354ff0cb95fdf48f604dbe019d008d9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:22:23.144221+00:00"
+}

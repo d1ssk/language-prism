@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5231b0b0baa36c44eb6d9d411bb74982af04dd17ea78cbf87c4fa6ec2a8359c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "شكرا، كنت على وشك النزول.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b4272cd66a410967f3f41a0a0079aa2b43b644f001b942e5b2959b4ca7eaa41b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:59:25.040794+00:00"
+}

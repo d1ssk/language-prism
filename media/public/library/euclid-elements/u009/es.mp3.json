@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad10d7d3ed7f1d508aa35a3850ffaf9283b8f66489a8e963f6372aa7af771f89",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuando las líneas que delimitan un ángulo son rectas, el ángulo se llama rectilíneo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3fcdfa55c1f7fd3037bc640e3e42805c051ad414987c620c14dd6226ff9f4d1f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:18:10.371671+00:00"
+}

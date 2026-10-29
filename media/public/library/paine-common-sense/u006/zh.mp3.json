@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a0429e23ecaf2e89b2bd3138cd5bde39f54ab617eb023d9e127a99e9e34fd4e4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "政府如同衣服，是纯真失落的标记；君王的宫殿建在乐园林荫亭榭的废墟之上。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f6e7ef6b44125dc52fd3003ac9425fd4731e88068468bf9adece476d47ea42ed",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:06:22.906888+00:00"
+}

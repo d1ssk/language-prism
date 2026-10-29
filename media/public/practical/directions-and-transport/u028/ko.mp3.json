@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3c14f4270907b77b96ce3b20dd8bc05ac59941d89e4a6c44ea6ed8928d3d9f5e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "네, 두 번째 모퉁이에서 왼쪽으로 도세요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6b63f0e3e03db8ab0d525a9dd163452bb933d1748b5efcc36b613d5ca55f2b28",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:53:02.495522+00:00"
+}

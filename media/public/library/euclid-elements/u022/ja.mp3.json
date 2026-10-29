@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1ca9de9aa26a11e660bd5e25f29cdf29776962ee6e5d03e2229e183767a0f3ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しへんけいのうち、せいほうけいはとうへんかつちょっかく、ちょうほうけいはちょっかくだがとうへんではなく、ひしがたはとうへんだがちょっかくではなく、ひしがたじょうのへいこうしへんけいはむかいあうへんとかくがひとしいが、とうへんでもちょっかくでもない。これらいがいのしへんけいをだいけいとよぶことにする。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8e8ded2d3ce413bcd202de14b04640e9d908f17e097ea097c48ce4463653e85e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:29:04.748740+00:00"
+}

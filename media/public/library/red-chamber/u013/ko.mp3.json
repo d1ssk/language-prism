@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8fc097b2090d09a4daf8688ea8a43bce45a456d59d80ed6bdfdd12c201e0f0e3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "좋다. 이제 불법의 큰 힘으로 너를 도와주마. 겁이 끝나는 날 본래 모습으로 돌려보내 이 일을 마치겠다. 어떠냐?” 돌은 듣고 끝없이 감사했습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69966df6e964a94f115f78533ff6b618635dd49d2595989014ca63a86031020b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:34:25.323017+00:00"
+}

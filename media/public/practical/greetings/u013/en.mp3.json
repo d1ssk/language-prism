@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b35eaa66851b47ece069c4211dafd4a503938328da47a9b94862d98a47c4130f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "See you tomorrow.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "77abf818c41931bd272cfd845cae0f458d9a96c8239d1aaaaff924be6f825590",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:38.139584+00:00"
+}

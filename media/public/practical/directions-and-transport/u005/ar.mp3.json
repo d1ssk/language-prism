@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fd211a19eac6ff3c5ead224efa750be2b0b8aa749dd44f73eaf7c0fe7c365d4b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "تذكرة ذهاب فقط إلى المطار، من فضلك.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d4de85ab58435da08c4f0c8069a8324402da19a9f37b372b47fd732e7dc48207",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:55:04.333823+00:00"
+}

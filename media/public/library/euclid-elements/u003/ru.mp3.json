@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b07d767690e8a8271c2a55b2e9c069a3e41b3cf5d352f511650c3584a7c588b7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Концы линии — точки.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1ee14a5ceece36136e8049900151713221c289d83d5036a5dd484b6ac3cde044",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:09.324349+00:00"
+}

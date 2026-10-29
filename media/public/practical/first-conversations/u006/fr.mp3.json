@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0d48122198af9e4be6af2a9ebc1e26ba1d0e20c3eedd1416da573a1c871467ec",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J'enseigne le japonais dans une université.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0f9eb481edfb98e47544a01eac449faa5f53bb20739f046c321c192c42b40e3b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:48.114792+00:00"
+}

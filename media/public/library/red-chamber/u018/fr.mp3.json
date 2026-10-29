@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6c1deec3729ff8d2297f9e96a665fa7f3c8f079884cc95a12d1464ba6cbaec80",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le moine sourit : « Ne pose pas de questions pour l’instant ; plus tard tu comprendras naturellement. » Il glissa la pierre dans sa manche et s’éloigna légèrement avec le taoïste. Nul ne savait vers quel lieu ni quelle demeure ils allaient.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7a179e03ae19558da9248477943c1966bea430d7402b6a52acf4b11a40b852d7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:41:26.691167+00:00"
+}

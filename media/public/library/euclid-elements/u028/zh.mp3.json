@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5d00bbba679aebb7289a0526ba51faccb66bb8f29b2315d2ae9bae84e53d6ebe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如果一条直线与两条直线相交，使同侧内角之和小于两个直角，那么将这两条直线无限延长，它们会在内角之和小于两个直角的一侧相交。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c5e03e85e18760afef9bd8e460cfbb40a043563948a2f528fbd6f4b25e6969c2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:35:50.507999+00:00"
+}

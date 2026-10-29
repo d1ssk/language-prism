@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6dcf59a5ce7f8033b3bc1ec7858e026a7c2e1aed6b0583bbf829679852bc43cc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 멜로디는 전에도 여러 번 들었지만, 베이스 라인은 어제서야 알아차렸어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c8abb384695b1684464f7dc2ecd86f13f6b8237034031e9db1c8d38eb7e48129",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:24:27.483781+00:00"
+}

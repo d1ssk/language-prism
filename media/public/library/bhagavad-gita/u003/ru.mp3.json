@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1f78470f0cc3e9d91f215ef85ce15d5fbe75a115586b43fa9fd86d19018ce263",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Действие намного ниже йоги различения, Дхананджая. Ищи опору в различении; жалки те, чьим побуждением служит плод.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "76c55640812057f42a0b6b40d1d9968528fda6095fe6a0f5f1e115437cfea78c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:18.256830+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9763cffae35912ead1cb28f2e3e429cec07aaef4849b565a7f53951789e2fe2b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "One endowed with discernment leaves behind both good and bad deeds in this world. Therefore devote yourself to yoga: yoga is skill in action.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2574fe67513397c456217b472d631fddd87645bbd43c156c55d1e0ca6306f902",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:52.020820+00:00"
+}

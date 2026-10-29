@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "44f6b1266245ff736afa889d8c3f279c184f3ea6b7bccf9e2822fe27a7aef196",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Как мне к вам обращаться?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5879b253e5cf0b206c35ba9d8dbb2f510237371b2718c5c03822094576a39d6d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:01:58.786257+00:00"
+}

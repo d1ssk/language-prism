@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a4e2637c46bc2cd355fdf1240a2b6b05792eeaf116f8cc57c8c31483bf8da9cb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "There is no one in the room.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f778261ecd19dd33497f3094c0263ed69acd8d847640be991b2972ac12b4e3db",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:44.969559+00:00"
+}

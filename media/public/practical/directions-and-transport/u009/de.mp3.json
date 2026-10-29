@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9592520e8b603ff59881da267e1b5d19795c8acee039e200a846e153d8c99ad2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Von welchem Gleis fährt der Zug zum Flughafen ab?",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2157523427d30bad868e4c1665d3f6a08f0774591ee9b172c520b31b1b179c6f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:56:18.775136+00:00"
+}

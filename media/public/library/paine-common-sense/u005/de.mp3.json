@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "71519113a145929fc1b1c66f27886263d9f1d4f23bc5c3db44f0e179eee538ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Gesellschaft ist in jedem Zustand ein Segen, Regierung aber selbst im besten nur ein notwendiges, im schlimmsten ein unerträgliches Übel. Erleiden wir durch eine Regierung dieselben Nöte oder sind ihnen ausgesetzt, die wir in einem Land ohne Regierung erwarten könnten, verschlimmert der Gedanke unser Unglück, dass wir selbst die Mittel unseres Leidens bereitstellen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0d9be89db9d91fae2f405c4ae14ac838f666c69b2830a46e752cdd100ebd5812",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:04:22.628399+00:00"
+}

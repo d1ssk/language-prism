@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97884634d6267cff41f2a76bda28b709bc9d75a6dbabb1451c74c184d4e69c05",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ぎんこうはえきのとなりにあります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "eef50382f7a7f8fdb5bc69f10e13f83d61df205fd5cd4640027dbf4b5f1a6d83",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:10.656549+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "54d691373c63b1ecd9e88eaea90ee7da45d47cdb77ad28abfbde3a2409777845",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Me gusta cocinar.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57d409338c310acbc9e57085a2f0b4bbe176759134a78620778c52d2dd7f3b83",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:21.644702+00:00"
+}

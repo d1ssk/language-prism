@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ae32522bfd1d9f955a2e4882a4cb3729c6496f2b1f66b82202437be6b25d27ae",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "مع السلامة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6d2c6e37d0ea03918981018e1ff5a4517f60389e91d1e277e58b1a870ff17d73",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:32.436927+00:00"
+}

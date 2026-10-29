@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b294bd01cfbc1eafb2cab457621559caa0a6d8512ea1c216f069aa186e1a9f2c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "はい。こちらにかーどをかざしてください。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6e10fea3e74f13b7ee083c350170b7d19233d6731976236f895c7389e40d321c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:20:40.244498+00:00"
+}

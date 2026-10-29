@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "28b0bb0886e6b87fd49bff5048b1cfb6bbe34c0391aa78c97ffd574865fc17f0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Know that aggression against people’s property destroys their hope of acquiring and earning it, because they see that its ultimate fate is to be plundered from their hands.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2a6a144b7f1fc4d60e812495505c2b77179911d6464872ea538fa85994bf3f07",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:38:29.565621+00:00"
+}

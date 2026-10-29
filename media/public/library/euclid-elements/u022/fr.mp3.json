@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1227186d56884244db91157b45411d9e03bec86aef8740b6a0bc94807b2c09ed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Parmi les quadrilatères, le carré est équilatéral et rectangle ; l’oblong est rectangle sans être équilatéral ; le losange est équilatéral sans être rectangle ; le rhomboïde a ses côtés et angles opposés égaux, sans être équilatéral ni rectangle. Que les autres quadrilatères soient appelés trapèzes.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4d77da7001ce5a6e9aa16e5e93b55303aef169239d6c43eecfb215429421d19d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:29:48.619495+00:00"
+}

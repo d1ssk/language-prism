@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b2e4fcb9d8359be3a83d19bd342325b573e82527cc253126864dd08fd99ead24",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러므로 안전이 정부의 참된 의도이자 목적이라면, 가장 적은 비용과 가장 큰 이익으로 안전을 가장 잘 보장할 듯한 정부 형태가 다른 모든 형태보다 낫다는 결론은 반박할 수 없이 따라 나온다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "304763405badd4a550e951d8adad9eab5be178607264a0a564aaeba88704316c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:10:54.014531+00:00"
+}

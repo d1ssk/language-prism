@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "28f59eb2c49e3c13b23dd1a6373f0f06fe8da313a1e0675f19c887b21f77e35a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "In diesem Zimmer steht ein Schreibtisch.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "beb42e15ed222a048e6fada0ff326a26ec795f8bb37b1360b4360ca36b23c99d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:10:17.193781+00:00"
+}

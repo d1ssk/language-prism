@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "82ff01a95bc0e12a04e94f2716f178c15d4dbfa391d53060f86255694862bf68",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Is there a bank near here?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d7d9a28377f8349538b7fb8b28ea77258cb6beac742f8154d9842e3d744b68ef",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:15:55.346659+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4d361f8355b4369b572800d50ee8822aca0d4949d571d41c880578697daeb4d1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Oui, c'est possible. Il y a un supplément.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3fe17cccc8bd3d2a816a55809d892a5e0ad322bc1d5dcff6148c9b108011bce6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:34.756835+00:00"
+}

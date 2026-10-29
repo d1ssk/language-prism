@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4cc2c2a56d265364db11240e8c9fb6d6b22d4bfd5fcc0667ba273d9ee30e34db",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die beiden Unsterblichen lächelten gemeinsam. „Gut, gut! In jener staubigen Welt gibt es Freuden, doch auf sie ist nicht ewig Verlass. Die acht Schriftzeichen für ‚Mängel im Schönen‘ und ‚gute Dinge begegnen vielen Dämonen‘ haften daran: Im Nu wird höchste Freude zu Trauer, Menschen und Dinge ändern sich. Am Ende ist alles ein Traum, alle Welten kehren zur Leere zurück; besser, du gehst nicht.“",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4137640704150ab792ab6a79405569bfa8245266fbc18d8daf14f9be717751aa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:27:25.624597+00:00"
+}

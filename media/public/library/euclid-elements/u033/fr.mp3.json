@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "66308f349b3ab56d44447cfd86919d0d73378e1efcdbf7a0e8ada5c70e6ed194",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le tout est plus grand que la partie.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "83c59d074f5c2da0c7b1ae006f83504bdadd2b8a7deca7c6d0b10897968ba1e0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:38:00.630359+00:00"
+}

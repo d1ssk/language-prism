@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d2255839390b8ae4444d4935e1d4e1b9536d10bd695582463e15b07304924543",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Es tut mir leid.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9925b56a17799bfcbd394eab3d136ef72d5aedfb6851214ba3ee3302f6511a35",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:09:48.095991+00:00"
+}

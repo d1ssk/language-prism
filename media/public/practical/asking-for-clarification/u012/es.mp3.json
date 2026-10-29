@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cb05d9b877e8786eaa80ff64e3419969b14d0ea00bb029e63edc524c51511da5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Intente repetir después de mí.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1b14211669cf3e8dd94c36b030bb576f08c7e5ee952152773b942641585aaec9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:46:59.577630+00:00"
+}

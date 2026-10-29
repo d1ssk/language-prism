@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3ef024fc913803451f97125563f54fd6d5baf744c88554f7175ce23627f307aa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "지금 우리는 큰 내전을 치르고 있습니다. 이 전쟁은 이 나라, 또는 그처럼 태어나 그처럼 헌신하는 어떤 나라든 오래 존속할 수 있는지를 시험하고 있습니다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d1c2d919db7cc53cee9a1cc8efe03b123139fce0fa6a7d0b08e3aec64eef2b9d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:49:51.556220+00:00"
+}

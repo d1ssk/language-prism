@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2695ab3068975255c02807849b98ec3f4dde392268ee88fc4c88c4d94a81ede7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В девять.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e14f355c0edf1d1110175eb943f466909408260a632c3b3129213b18420220a9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:43:44.095528+00:00"
+}

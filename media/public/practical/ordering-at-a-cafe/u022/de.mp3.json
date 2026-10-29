@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ad982666160ae2a33a6fcea1e33cc41070b71bd6cc956b222a878cf5bc81d5fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Entschuldigung, mein bestelltes Essen ist noch nicht gekommen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "365752055cdd04e9609c26539ae0425b8e0017478ff766252106675ee946b791",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:59.347045+00:00"
+}

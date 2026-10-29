@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5f34b306800c347fb723960620f1329179b2e9b13ce6a348aa77a5c1bfee3d9c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I opened the window and heard the birds.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50194e0f5fd6bf95c98c852208c8af33f4e23385624f2fb1646fdc369db60a46",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:46.405480+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9b8fd11508a39d8470ecd6e1cb7dcc34e71e340092622d30345ff4bfd57fa481",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Но когда длинная череда злоупотреблений и узурпаций, неизменно преследующих одну цель, обнаруживает замысел подчинить их абсолютному деспотизму, их право и обязанность — свергнуть такое правительство и установить новые гарантии своей будущей безопасности.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "32532a8a6e0d71cd71e8f35a0ed4b82295cc0d3ddc231a86f861022d25ec9aaf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:13:34.547337+00:00"
+}

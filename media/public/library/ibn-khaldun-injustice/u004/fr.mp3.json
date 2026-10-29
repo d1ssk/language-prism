@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "601b55a068708339b6781c4ba0a108ee8df674938f287b29d54efdcb31656424",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si l’agression est considérable et touche tous les moyens de subsistance, l’abandon du travail est tout aussi général, car elle détruit tout espoir en pénétrant par toutes les voies.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "389a76af956b9b2fa6eec3d10343eef39c627beaea3cb144ef07f1cde851edb6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:41:23.826209+00:00"
+}

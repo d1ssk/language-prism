@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b6414759d41d5459675560aac8320e335beb4548605bfc502137b565d3c5ceef",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "가룸나강은 갈리족과 아퀴타니족을, 마트로나강과 세콰나강은 갈리족과 벨가이족을 갈라놓는다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "13871ea6f671fdcf3f77b2cc4f7a29f8fc917819032c45d50c2ea39a5694cd25",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:31:35.239947+00:00"
+}

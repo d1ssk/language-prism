@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "10f179c287b33e2058265a3c050ac02c0c07373c5150428a38feacaf6f6acb00",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "고개를 들어 보니 언덕의 어깨는 이미 어느 길에서나 사람을 바르게 이끄는 천체의 빛을 입고 있었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "040265e41b5cec2b7d219f3217058ff121ee2f8d731f80141edde125217f1963",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:00:12.589674+00:00"
+}

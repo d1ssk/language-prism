@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "36299431f27ffe525a6a411eeacbba6c138aae7807ca9c3b765ba1e050c16995",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "J'aime cuisiner.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6f915e299c02bcaa9719b595af9bfdf6bc81274a336b8fb8bd266100a466935d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:23.073940+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d02c8d8c848f19f951d8c0181519f1629c5f8254361ef49742cb2e3de85b02dc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si muestran un poco de compasión y me llevan al mundo polvoriento para disfrutar unos años entre riquezas y tiernos placeres, guardaré eternamente su gran bondad y no la olvidaré en diez mil eones».",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f003455b92bdac044c1a2b3822da2608fd7c236f0a2da03915522d6a67552769",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:24:51.425998+00:00"
+}

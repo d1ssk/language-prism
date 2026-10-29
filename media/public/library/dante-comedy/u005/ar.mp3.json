@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a4fd87bea2cf4bbfdb75d3c0e76a33f9ba267721045da55212c9b43724f089cc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَلَكِنْ حِينَ بَلَغْتُ سَفْحَ تَلٍّ، حَيْثُ يَنْتَهِي ذَلِكَ الْوَادِي الَّذِي طَعَنَ قَلْبِي بِالْخَوْفِ،",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e6ad39e1d30efb2b606bb27eaf67bf90f835d13ffe7998a6ccaefa3b707c6f48",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:59:06.242682+00:00"
+}

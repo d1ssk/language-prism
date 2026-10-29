@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c61beb181d258aa4c39381b04c23b37ad999c5be15f09a113769670ac266630f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Je ne saurais bien dire comment j’y entrai, tant j’étais plein de sommeil au moment où j’abandonnai la vraie voie.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ea39cba1464faccf566df31da7732f925178d4be3cf379ca3d405c34f622ef19",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:58:03.410769+00:00"
+}

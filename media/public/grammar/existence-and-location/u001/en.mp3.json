@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f8065c8feb3243f1e0936f9edff965074a8434e1533593d6f2ec5204a7649395",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "There is a desk in this room.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "24ab358a60c20081ea4fb7e46bbf8843f3cd10304002bd2397b8cb2732edff06",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:10:10.947271+00:00"
+}

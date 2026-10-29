@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6802cee9d0df6368544f314dfcc9c8caf621366e89b3b4cf6973168906e6d8fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "What do you do on your days off?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fa77488a63b321d7cd48dcfd16253b3e151c91b3f570931aeec85cabe1e5f060",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:39.578653+00:00"
+}

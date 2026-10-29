@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ec4f9221a54917ffa0c0befdf0ea66750e48807b7512c6d1f83b44136534b9e5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Des droites parallèles sont dans un même plan et, prolongées indéfiniment dans les deux sens, ne se rencontrent dans aucun des deux.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5577fe527ef58180e7072e75ebe34d4316144f9805b0df012bd99d9ad14d7ff2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:31:36.880907+00:00"
+}

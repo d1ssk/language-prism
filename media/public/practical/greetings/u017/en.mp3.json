@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cf1992b35731ca2f5cb9f1db10f9f08bad1b7638202b59b18f6e6cd70c50c6f5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Happy birthday.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bb59f3549fa8909445cac0015ca4f34eb829a0f7ca996ad1e6718323f9e52b32",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:36.696836+00:00"
+}

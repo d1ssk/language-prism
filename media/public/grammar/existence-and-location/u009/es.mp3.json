@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "22929baceccf712c23eab09e6356589f574798cdbde468ec19e995b977546ac0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "El banco está al lado de la estación.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2f6b4adfa8b2bf5dea4d7702a2913f4b9a9642c88b7cba2f23038cfb91e52d91",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:14.558632+00:00"
+}

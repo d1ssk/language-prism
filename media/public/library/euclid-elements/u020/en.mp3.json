@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8c13ceaa6ab37bd4326f05d90cdc83eba31bc194a4bb56390fec1fc7a6126cde",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Among three-sided figures, an equilateral triangle has three equal sides, an isosceles triangle only two equal sides, and a scalene triangle three unequal sides.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fef417e8f92fc3b0a90fb03773485de136323bf253257fbbe05a5d45ad3587ac",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:26:46.524839+00:00"
+}

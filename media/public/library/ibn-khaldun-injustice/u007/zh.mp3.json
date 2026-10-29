@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0ed2edfbe4f06bbf69fc86e7c3d15d80d70aca193fe772f8ca55a85e80884049",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "人们一旦停止谋生，不再赚取收入，社会的市场就会萧条，局势也会动荡。人们四散到这一统治区域以外，在其疆界之外寻找生计。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e2d418d5b09335b09ed4efa80cc8fe46a3015a8a474f1609817fdd274f628f8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:45:23.068204+00:00"
+}

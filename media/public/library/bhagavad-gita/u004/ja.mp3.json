@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "df0c84393674bf8c592a43d017c89e32751f96eb7c4e29c4e85a7254926a9cfd",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ちせいをそなえたものは、このよでぜんこうとあっこうのりょうほうをはなれる。それゆえよーがにつとめよ。よーがとはこういにおけるたくみさである。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "74bc78fc3ad536fb5d3d591192825da5a5d831bf1a084febbcc895913167259c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:27:44.871546+00:00"
+}

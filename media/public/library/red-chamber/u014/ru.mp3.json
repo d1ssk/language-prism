@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c1890ea8721a7d089a69b857fd4fd47e59f99414640c05b79b7cc34522d45d94",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Монах произнёс заклинания, начертал талисманы и явил великое волшебство: огромный камень мгновенно стал прекрасным, светлым и чистым нефритом, уменьшившись до размера подвески веера, чтобы его можно было носить или держать в руке.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "686f36f7c4ecb9d81b86be1dcdcf67cac0e81b5664cef6c1e849458895f34907",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:35:43.945064+00:00"
+}

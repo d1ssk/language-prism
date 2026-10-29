@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "482de701c090b16560726259014e69855007bdb2d13fdf68cfeffa397a470f40",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I teach Japanese at a university.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "793b54cb16bfa0ddd6317ae5c76665b8da20b964db40825ae0609ad501b60095",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:43.450753+00:00"
+}

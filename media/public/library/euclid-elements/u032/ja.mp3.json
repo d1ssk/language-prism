@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "aea03e7f31ae30116b66df83ba042077e8ede26d46df9f6a5c149bbdff0707fb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "たがいにかさなりあうものは、たがいにひとしい。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e256d09e544842e865ff16ab2f08861349283a2836d4a747b21add24ab15290c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:30.465738+00:00"
+}

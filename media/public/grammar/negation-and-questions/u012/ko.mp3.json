@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b485d1c09bafbae81f3cb0e3ed86ed38ffcea5d1d81f9763e54a3d45bad865a2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "오전 아홉 시에 문을 열어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "592f67ee8e9c441be37516c404ab59958f53631d0fc7eb5e8366742ee0e2910c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:24:20.025518+00:00"
+}

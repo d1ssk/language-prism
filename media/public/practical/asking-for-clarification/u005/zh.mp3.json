@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0216aa6598398d1d59e26f5ee5fcd7f86a9558b9afc3325f38485c98f22fcea5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "您能说慢一点吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5cc6f60c1971c82341ec2204f34b0f30975f12b8db3432149fcdb76774eb702e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:06.843253+00:00"
+}

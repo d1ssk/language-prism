@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9c2a0e6caa957a21c3977e6caba9eabefa8a311977b8510d69e185648d10f478",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quand vous dites « la semaine prochaine », c'est à partir de lundi ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "db06a18889c1c3d214a160b6ca2f184fc59bbeb35763e34dc8f4f0f6cf354d60",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:20.172170+00:00"
+}

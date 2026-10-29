@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "59bfc307e860133849f01d4755ce4a93cd7faa29d64aa55ad7600a05b37b6b5e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un límite es el extremo de algo.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3c8fa0fb78b0d85a0a206071910e512cfe61d7be06f9253109e9b1581ac1ad5e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:52.716879+00:00"
+}

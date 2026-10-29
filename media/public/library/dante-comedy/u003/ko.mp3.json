@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6c0cf5a536e29e3aa12c7f508a0dffc08856f65949a48057c0692abcc82d2790",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그 쓰라림은 죽음과도 거의 다르지 않다. 그러나 그곳에서 발견한 선을 이야기하려고, 내가 본 다른 것들도 말하리라.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8e630008dcb5d622b7aeebad9cf83d07f4435dface2516be372e4b92921e0d69",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:57:41.821160+00:00"
+}

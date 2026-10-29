@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f5f23aba9fd640fc492594e651f044c70c14d1f065f33cc3efcf659f6ef6995a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Тогда немного утих страх, который оставался в озере моего сердца всю ночь, проведённую в таком мучении.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "86f81a247400c81ef4285734a1a0038be3d06e2ab38241df777d8ccf58bdc8a8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:00:47.613702+00:00"
+}

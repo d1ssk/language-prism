@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "11720dd5229e8c582ecd33d9d08ab281c1efcd540e3f39ac3468cbb848e65d9b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, este tren llega directamente al aeropuerto.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "798cccf3483c2e265d182c5e43d28d8769c67dabf50d3f1b2b2df292504f6a7f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:30.176182+00:00"
+}

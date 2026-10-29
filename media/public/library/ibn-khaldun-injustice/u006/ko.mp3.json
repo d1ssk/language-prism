@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "69bbc7902b92693cca8e78170e353970fa0bfad60ec7c07b774f84f277de3c86",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "사회생활과 그 번영, 시장의 활기는 노동과 사람들이 이익과 생계를 위해 오가며 기울이는 노력에 달려 있다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "15fda9ea9886baebe6f4e19ab7bf337c7fe29a1174d4bf7e6990a4806ae45636",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:43:51.905147+00:00"
+}

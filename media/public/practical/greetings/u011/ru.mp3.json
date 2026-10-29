@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "545d30ad120c680b80b6e12e93aa5e4c2e83a97c483adea69dfa4c005253eb6e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Извините.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "679f3275605e27100e13778b86ae626c81a227f083a58480468821c1a49a4ffc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:17.470146+00:00"
+}

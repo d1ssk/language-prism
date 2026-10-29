@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97562b58b26b3a8343dce3baf1f7a49081438696a1628de90090a71227f6409c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Mag meine Substanz auch grob und stumpf sein, mein Geist besitzt etwas Einsicht. Eure unsterbliche Erscheinung zeigt, dass ihr keine gewöhnlichen Wesen seid: Gewiss habt ihr das Talent, den Himmel zu flicken und die Welt zu retten, und die Tugend, allen Wesen und Menschen zu helfen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ac38db277d7a4e572644809b095dacb8076747a88aa92609dd27f30fc1d55f02",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:23:32.668737+00:00"
+}

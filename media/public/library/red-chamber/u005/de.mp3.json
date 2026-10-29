@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7a48ed709450be71940a94120e33121f1a7b668058a7b816f7e8f9955c64a42c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Eines Tages sah er mitten in seinem Klagen einen buddhistischen Mönch und einen Daoisten von fern kommen, beide von außergewöhnlicher Gestalt und Ausstrahlung. Redend und lachend gelangten sie zum Gipfelfuß, setzten sich neben den Stein und unterhielten sich angeregt. Zuerst sprachen sie von Wolkenbergen, Nebelmeeren und den Wundern der Unsterblichen, dann von weltlicher Pracht, Reichtum und Rang.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "78c0c8629ca9002f711579cc4c46a98ffbe995cc1cbc4b13bbafde589acfa387",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:18:36.222364+00:00"
+}

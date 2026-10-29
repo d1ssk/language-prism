@@ -196,8 +196,8 @@ test(
         assert.ok(grammar.includes(`href="/language-prism/${locale === 'ja' ? 'en' : 'ja'}/grammar/"`));
         const grammarArticle = fs.readFileSync(path.join(ROOT, "dist/public", locale, "read/existence-and-location/index.html"), "utf8");
         assert.ok(grammarArticle.includes(`href="/language-prism/${locale}/grammar/"`));
-        assert.ok(!grammarArticle.includes('<audio'));
-        assert.ok(!grammarArticle.includes('src="/language-prism/media/grammar/'));
+        assert.ok(grammarArticle.includes('src="/language-prism/media/public/grammar/existence-and-location/u001/ja.mp3"'));
+        assert.ok(!grammarArticle.includes('/media/private/'));
         assert.ok(home.includes(`href="/language-prism/${locale}/guide/"`));
         const guide = fs.readFileSync(path.join(ROOT, "dist/public", locale, "guide/index.html"), "utf8");
         assert.ok(guide.includes('id="arabic"'));

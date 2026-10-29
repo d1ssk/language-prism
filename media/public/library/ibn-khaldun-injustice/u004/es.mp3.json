@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "13ae6c10ea9575cbc5370edad7d7e1adbbf5cf9c2f4e54704c0f97a709d6f8e3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Si la agresión es grande y afecta a todos los medios de subsistencia, el abandono del trabajo es igualmente general, pues al penetrar por todas las vías elimina por completo la esperanza.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6f892e617d31221be349284233979550f63e0e308d463420b22613ecca28b23c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:41:16.403278+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b84aa93a32451d69bb8693b0f52a2fb49deeb723c47ab4cddf90a4742462d125",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Un diámetro es una recta que pasa por el centro y termina en la circunferencia por ambos lados; también divide el círculo en dos partes iguales.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41bcf140611999a5e3db0ee144d81e2b371de13a201e9789a3beb19fc2c2a6ba",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:23:44.209983+00:00"
+}

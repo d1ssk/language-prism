@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b326ebfe6688b5db8832b602a1da3459eabbb4645d94075080ae5a7604e1b0d7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "不好意思，我还是不太明白。您能换个说法解释一下吗？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4f2fee6e046dd3f9b9a1889d3ecdaf3893f094e61b228c3868a3e804bc5f478d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:49:28.336348+00:00"
+}

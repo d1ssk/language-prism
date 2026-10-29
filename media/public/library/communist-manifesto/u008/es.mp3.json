@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8b60407dd2f62994271b49f6311f66fd109ff5e1919fbaf10f641bb75735cd32",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Libres y esclavos, patricios y plebeyos, señores y siervos, maestros gremiales y oficiales, en suma, opresores y oprimidos, mantuvieron una oposición constante y una lucha ininterrumpida, unas veces oculta y otras abierta, que terminó siempre en una transformación revolucionaria de toda la sociedad o en la ruina común de las clases enfrentadas.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69646914f2d73230695cf9c21c4ed86abcd38f2085015fe88089031866c112c5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:47:10.284807+00:00"
+}

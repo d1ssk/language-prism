@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "071ca9dfb8ce2703561793c901a0c79609f29c476e55b02de2390a6208dba017",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Да, необязательно сегодня.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "208182db0665f62b7310f71c9e3f301d836c999bf5d76233960a5b77b85b39a4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:01.173469+00:00"
+}

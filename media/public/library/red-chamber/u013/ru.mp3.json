@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e6a5b98da369d8c568971774502d831317db3c5003d3e15f5465218b97f3f89b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ну хорошо, я помогу тебе силой буддийского учения. Когда твоя эпоха завершится, верну тебе первоначальную сущность и закончу это дело. Согласен?» Камень без конца благодарил его.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "de92683e31ccd54a873a2e9b591feb609c1bcbf777d1548b09d69a0ef0487f81",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:33:59.576273+00:00"
+}

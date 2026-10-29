@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "22799f75fd4c91d86800b30f032d5af9fc2b632b837b921db4ffa6a1424dcc53",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "同样，赫尔维提人也比其他高卢人更勇武，因为他们几乎每天与日耳曼人作战，或阻止对方进入自己的领土，或在对方的领土上交战。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e9f8f2f934f0090781789ee7cc967c636c546bcefd6222e2a29fc05d6762eded",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:35:01.399152+00:00"
+}

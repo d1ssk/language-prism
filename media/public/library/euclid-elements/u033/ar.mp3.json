@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "96ca00164b77703537049b37b90ad8084fec4019462467343d51d844bbaa3cad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الْكُلُّ أَكْبَرُ مِنَ الْجُزْءِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57198ade975818f84d03bdd2ee7cb77780746740149fec558e21510614428e68",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:38:06.795204+00:00"
+}

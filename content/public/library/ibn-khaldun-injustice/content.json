@@ -57,84 +57,403 @@
       "languages": {
         "ja": {
           "text": "知っておくべきなのは、人々の財産を侵害すると、その財産を得て稼ごうという希望が失われるということだ。結局は自分たちの手から奪われると分かるからである。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "財産を侵害する",
+              "meaning": {
+                "ja": "他人の所有物を不当に奪ったり損なったりすること。",
+                "en": "To seize or harm what others own unjustly."
+              }
+            },
+            {
+              "term": "得て稼ぐ",
+              "meaning": {
+                "ja": "財産を取得し、働いて収入を得ること。",
+                "en": "To acquire property and earn income through work."
+              }
+            },
+            {
+              "term": "奪われる",
+              "meaning": {
+                "ja": "持ち主の手元から取り上げられること。",
+                "en": "To be taken away from its owner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "知っておくべきなのは…ということだ",
+              "explanation": {
+                "ja": "主張を最初に示し、その内容を後続の節で説明する。",
+                "en": "The opening frames the following clause as the claim the reader should grasp."
+              }
+            },
+            {
+              "point": "…と分かるからである",
+              "explanation": {
+                "ja": "財産を奪われるという予測を、希望が失われる理由として示す。",
+                "en": "The final causal clause explains why people lose hope: they expect confiscation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "財産の取得と勤労の意欲が、所有の安全への見通しに左右されるという因果関係の出発点である。",
+              "en": "This begins the causal argument: expectations about keeping property shape the will to acquire and earn it."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "しっておくべきなのは、ひとびとのざいさんをしんがいすると、そのざいさんをえてかせごうというきぼうがうしなわれるということだ。けっきょくはじぶんたちのてからうばわれるとわかるからである。"
+          "ttsText": "しっておくべきなのは、ひとびとのざいさんをしんがいすると、そのざいさんをえてかせごうというきぼうがうしなわれるということだ。けっきょくはじぶんたちのてからうばわれるとわかるからである。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "Know that aggression against people’s property destroys their hope of acquiring and earning it, because they see that its ultimate fate is to be plundered from their hands.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "aggression against people’s property",
+              "meaning": {
+                "ja": "他人の財産への侵害。ここでのaggressionは財産に向けられる。",
+                "en": "An assault on others’ property; aggression here concerns ownership."
+              }
+            },
+            {
+              "term": "acquiring and earning it",
+              "meaning": {
+                "ja": "財産を手に入れ、働いて得ること。itはpropertyを受ける。",
+                "en": "Obtaining property and earning it through work; it refers to property."
+              }
+            },
+            {
+              "term": "plundered from their hands",
+              "meaning": {
+                "ja": "所有者の手元から略奪されること。",
+                "en": "Taken away by force from those who hold it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Know that…",
+              "explanation": {
+                "ja": "命令形で読者に主張を提示し、that節に内容を置く。",
+                "en": "The imperative addresses the reader and places the claim in a that-clause."
+              }
+            },
+            {
+              "point": "because they see that…",
+              "explanation": {
+                "ja": "becauseが希望の喪失の理由を導き、内側のthat節が人々の予測を示す。",
+                "en": "Because gives the reason for lost hope; the embedded that-clause states what people foresee."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Its ultimate fate is to be plundered は財産の将来を表し、すでに略奪されたという意味ではない。",
+              "en": "Its ultimate fate is to be plundered describes the expected future of property, not an already completed seizure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Know that aggression against people’s property destroys their hope of acquiring and earning it, because they see that its ultimate fate is to be plundered from their hands."
+          "ttsText": "Know that aggression against people’s property destroys their hope of acquiring and earning it, because they see that its ultimate fate is to be plundered from their hands.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Has de saber que atacar los bienes de las personas destruye su esperanza de obtenerlos y ganarlos, pues ven que su destino final es serles arrebatados de las manos.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "atacar los bienes",
+              "meaning": {
+                "ja": "財産を侵害する。bienesはここでは所有物・財産。",
+                "en": "To attack property; bienes means possessions here."
+              }
+            },
+            {
+              "term": "esperanza de obtenerlos y ganarlos",
+              "meaning": {
+                "ja": "財産を得て稼ぐ希望。losはbienesを指す。",
+                "en": "Hope of obtaining and earning possessions; los refers to bienes."
+              }
+            },
+            {
+              "term": "arrebatados de las manos",
+              "meaning": {
+                "ja": "手元から奪い取られること。",
+                "en": "Snatched from the owners’ hands."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Has de saber que…",
+              "explanation": {
+                "ja": "haber de＋不定詞で「知っておくべきだ」と読者に呼びかける。",
+                "en": "Haber de plus infinitive presents an obligation to understand the claim."
+              }
+            },
+            {
+              "point": "pues ven que…",
+              "explanation": {
+                "ja": "puesが理由を示し、que以下で人々の見通しを述べる。",
+                "en": "Pues introduces the reason, while que introduces what people foresee."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "serles arrebatados のlesは奪われる当事者である人々を示し、財産を指すlosとは役割が異なる。",
+              "en": "In serles arrebatados, les identifies the people deprived; los elsewhere refers to the possessions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Has de saber que atacar los bienes de las personas destruye su esperanza de obtenerlos y ganarlos, pues ven que su destino final es serles arrebatados de las manos."
+          "ttsText": "Has de saber que atacar los bienes de las personas destruye su esperanza de obtenerlos y ganarlos, pues ven que su destino final es serles arrebatados de las manos.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Sache que l’atteinte aux biens des gens détruit leur espoir de les acquérir et de les gagner, puisqu’ils voient qu’ils finiront par leur être arrachés.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "atteinte aux biens",
+              "meaning": {
+                "ja": "人々の財産への侵害。atteinte àで「〜への侵害」。",
+                "en": "An infringement of property; atteinte à means an encroachment on something."
+              }
+            },
+            {
+              "term": "espoir de les acquérir",
+              "meaning": {
+                "ja": "それらを取得する希望。lesはbiensを指す。",
+                "en": "Hope of acquiring them; les refers to biens."
+              }
+            },
+            {
+              "term": "être arrachés",
+              "meaning": {
+                "ja": "無理に引き離され、奪われること。",
+                "en": "To be forcibly taken away."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Sache que…",
+              "explanation": {
+                "ja": "savoirの命令形で読者に主張を示す。",
+                "en": "The imperative of savoir directly presents the claim to the reader."
+              }
+            },
+            {
+              "point": "puisqu’ils voient que…",
+              "explanation": {
+                "ja": "puisqueは人々の見通しを希望喪失の理由として結ぶ。",
+                "en": "Puisque links people’s expectation to the destruction of hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ils finiront par leur être arrachés ではilsが財産、leurが奪われる人々を指す。",
+              "en": "In ils finiront par leur être arrachés, ils refers to possessions and leur to the people deprived of them."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Sache que l’atteinte aux biens des gens détruit leur espoir de les acquérir et de les gagner, puisqu’ils voient qu’ils finiront par leur être arrachés."
+          "ttsText": "Sache que l’atteinte aux biens des gens détruit leur espoir de les acquérir et de les gagner, puisqu’ils voient qu’ils finiront par leur être arrachés.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Wisse, dass Übergriffe auf das Vermögen der Menschen ihre Hoffnung zerstören, es zu erwerben und zu verdienen, weil sie sehen, dass es ihnen am Ende geraubt wird.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Übergriffe auf das Vermögen",
+              "meaning": {
+                "ja": "人々の財産への侵害。aufは侵害の対象を示す。",
+                "en": "Encroachments on people’s property; auf marks the target."
+              }
+            },
+            {
+              "term": "es zu erwerben und zu verdienen",
+              "meaning": {
+                "ja": "それを取得し、働いて得ること。esはVermögenを受ける。",
+                "en": "To acquire and earn it; es refers to Vermögen."
+              }
+            },
+            {
+              "term": "geraubt",
+              "meaning": {
+                "ja": "強引に奪われること。",
+                "en": "Taken by robbery or force."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wisse, dass…",
+              "explanation": {
+                "ja": "命令形Wisseに続くdass節で知るべき主張を示す。",
+                "en": "The imperative Wisse introduces the claim in a dass-clause."
+              }
+            },
+            {
+              "point": "weil sie sehen, dass…",
+              "explanation": {
+                "ja": "weilが理由を、内側のdass節が人々の予測を示す。",
+                "en": "Weil gives the reason; the inner dass-clause states what people expect."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "es ihnen am Ende geraubt wird のesは財産、ihnenは所有者を指し、受動形で奪われる側に焦点を当てる。",
+              "en": "In es ihnen am Ende geraubt wird, es denotes property and ihnen its owners; the passive foregrounds the loss."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Wisse, dass Übergriffe auf das Vermögen der Menschen ihre Hoffnung zerstören, es zu erwerben und zu verdienen, weil sie sehen, dass es ihnen am Ende geraubt wird."
+          "ttsText": "Wisse, dass Übergriffe auf das Vermögen der Menschen ihre Hoffnung zerstören, es zu erwerben und zu verdienen, weil sie sehen, dass es ihnen am Ende geraubt wird.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Знай, что посягательство на имущество людей уничтожает их надежду приобретать и зарабатывать его: они видят, что в конце концов оно будет вырвано из их рук.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "посягательство на имущество",
+              "meaning": {
+                "ja": "財産への侵害。на＋対格で侵害の対象を示す。",
+                "en": "An encroachment on property; на plus accusative marks its target."
+              }
+            },
+            {
+              "term": "приобретать и зарабатывать",
+              "meaning": {
+                "ja": "財産を取得し、稼いで得ること。",
+                "en": "To acquire and earn property."
+              }
+            },
+            {
+              "term": "вырвано из их рук",
+              "meaning": {
+                "ja": "彼らの手からもぎ取られること。",
+                "en": "Torn from their hands."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Знай, что…",
+              "explanation": {
+                "ja": "命令形で読者に呼びかけ、что以下に主張を置く。",
+                "en": "The imperative addresses the reader and the что-clause states the claim."
+              }
+            },
+            {
+              "point": "они видят, что…",
+              "explanation": {
+                "ja": "人々が財産の行く末をどう見ているかを示し、希望喪失の理由を説明する。",
+                "en": "This reports people’s expectation about property and explains their lost hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "в конце концов は「結局は」。財産の将来についての予測であり、現在の略奪を述べてはいない。",
+              "en": "В конце концов means “eventually”; the sentence expresses a forecast about property, not a current seizure."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Знай, что посягательство на имущество людей уничтожает их надежду приобретать и зарабатывать его: они видят, что в конце концов оно будет вырвано из их рук."
+          "ttsText": "Знай, что посягательство на имущество людей уничтожает их надежду приобретать и зарабатывать его: они видят, что в конце концов оно будет вырвано из их рук.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "اعلم أنّ العدوان على النّاس في أموالهم ذاهب بآمالهم في تحصيلها واكتسابها لما يرونه حينئذ من أنّ غايتها ومصيرها انتهابها من أيديهم",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "العدوان على النّاس في أموالهم",
+              "meaning": {
+                "ja": "人々の財産への侵害。في أموالهمが侵害される領域を示す。",
+                "en": "Aggression against people in respect of their property; في أموالهم identifies what is affected."
+              }
+            },
+            {
+              "term": "تحصيلها واكتسابها",
+              "meaning": {
+                "ja": "財産を得て稼ぐこと。هاはأموالを受ける。",
+                "en": "Obtaining and earning it; ها refers to property."
+              }
+            },
+            {
+              "term": "انتهابها من أيديهم",
+              "meaning": {
+                "ja": "彼らの手元から財産を略奪すること。",
+                "en": "The plundering of property from their hands."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "اعلم أنّ…",
+              "explanation": {
+                "ja": "命令形で読者に呼びかけ、أنّ以下に主張を置く。",
+                "en": "The imperative addresses the reader; أنّ introduces the claim."
+              }
+            },
+            {
+              "point": "لما يرونه حينئذ",
+              "explanation": {
+                "ja": "そのとき人々がそう見通すため、という理由を示す。",
+                "en": "This gives the reason in what people then perceive or expect."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "原典の転記でつながっている「واكتسابهالما」は、語の境界を「واكتسابها لما」に戻しています。",
-              "en": "The transcription’s fused واكتسابهالما is separated into واكتسابها لما."
+              "ja": "ذاهب بآمالهم は侵害が希望を「持ち去る」と述べる表現で、財産そのものの移動とは区別される。",
+              "en": "ذاهب بآمالهم describes aggression taking away hope, distinct from the later taking of property itself."
             }
           ],
           "translation": {
@@ -150,13 +469,60 @@
               "ja": "冒頭の iʿlam は単数男性への命令形。ここでは読者に呼びかける形です。",
               "en": "The opening iʿlam is a masculine singular imperative addressing the reader."
             }
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "须知，侵犯人们的财产，会摧毁他们获取和赚取财产的希望，因为他们看到，财产最终只会从自己手中被夺走。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "侵犯财产",
+              "meaning": {
+                "ja": "人々の財産を侵害すること。",
+                "en": "To violate people’s property rights."
+              }
+            },
+            {
+              "term": "获取和赚取",
+              "meaning": {
+                "ja": "財産を手に入れ、稼いで得ること。",
+                "en": "To acquire and earn property."
+              }
+            },
+            {
+              "term": "被夺走",
+              "meaning": {
+                "ja": "持ち主の手から奪われること。",
+                "en": "To be taken away from the owner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "须知…",
+              "explanation": {
+                "ja": "読者にこれから述べる主張への注意を促す。",
+                "en": "须知 calls on the reader to recognize the ensuing claim."
+              }
+            },
+            {
+              "point": "因为他们看到…",
+              "explanation": {
+                "ja": "因为が希望喪失の理由を導き、看到以下に人々の予測を置く。",
+                "en": "因为 introduces the cause; what follows 看到 states people’s expectation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "最终只会 は「結局はそうなるだけだ」という予測を強め、侵害のもとで財産を保てないという見通しを示す。",
+              "en": "最终只会 stresses the expected outcome: under aggression, owners foresee losing what they acquire."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -166,19 +532,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Xū zhī, qīnfàn rénmen de cáichǎn, huì cuīhuǐ tāmen huòqǔ hé zhuànqǔ cáichǎn de xīwàng, yīnwèi tāmen kàndào, cáichǎn zuìzhōng zhǐ huì cóng zìjǐ shǒu zhōng bèi duó zǒu."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "사람들의 재산을 침해하면 재산을 얻고 벌려는 희망이 사라진다는 것을 알아야 한다. 결국 자기 손에서 약탈당하리라는 것을 알기 때문이다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "재산을 침해하다",
+              "meaning": {
+                "ja": "他人の財産を侵害する。",
+                "en": "To encroach on another person’s property."
+              }
+            },
+            {
+              "term": "얻고 벌려는 희망",
+              "meaning": {
+                "ja": "財産を得て稼ごうとする希望。",
+                "en": "Hope of acquiring and earning property."
+              }
+            },
+            {
+              "term": "약탈당하다",
+              "meaning": {
+                "ja": "他者に略奪される。",
+                "en": "To be plundered by someone else."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "침해하면…사라진다",
+              "explanation": {
+                "ja": "条件を示す-면と帰結を述べる節で因果関係を表す。",
+                "en": "The -면 condition leads to the stated loss of hope."
+              }
+            },
+            {
+              "point": "알기 때문이다",
+              "explanation": {
+                "ja": "そうなると分かっていることを前文の理由として示す。",
+                "en": "The 때문이다 ending supplies the reason for the preceding claim."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "자기 손에서 は財産が所有者の手元から離れるという像を作り、재산を新たに指す名詞ではない。",
+              "en": "자기 손에서 pictures property leaving its owner’s hands; it does not introduce a new possession."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "사람들의 재산을 침해하면 재산을 얻고 벌려는 희망이 사라진다는 것을 알아야 한다. 결국 자기 손에서 약탈당하리라는 것을 알기 때문이다."
+          "ttsText": "사람들의 재산을 침해하면 재산을 얻고 벌려는 희망이 사라진다는 것을 알아야 한다. 결국 자기 손에서 약탈당하리라는 것을 알기 때문이다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -187,81 +605,405 @@
       "languages": {
         "ja": {
           "text": "財産を稼ぎ得る希望が失われると、人々はそのために働く手を引いてしまう。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "希望が失われる",
+              "meaning": {
+                "ja": "稼いだ財産を保てるという期待が消えること。",
+                "en": "The expectation of keeping earned property disappears."
+              }
+            },
+            {
+              "term": "稼ぎ得る",
+              "meaning": {
+                "ja": "働いて財産を得ること。",
+                "en": "To earn and acquire property."
+              }
+            },
+            {
+              "term": "手を引く",
+              "meaning": {
+                "ja": "関わるのをやめるという慣用表現。",
+                "en": "An idiom meaning to withdraw from an activity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…と、…",
+              "explanation": {
+                "ja": "前半の条件・時点を受けて、後半に人々の反応を置く。",
+                "en": "The first clause establishes the situation; the second gives people’s response."
+              }
+            },
+            {
+              "point": "そのために",
+              "explanation": {
+                "ja": "「その」は財産を稼ぎ得ることを指し、働く目的を示す。",
+                "en": "その refers back to earning property and marks the purpose of the work."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前文の財産侵害による希望喪失を受け、ここでは実際の労働意欲の低下へ論を進める。",
+              "en": "The argument moves from lost hope caused by encroachment to a reduction in actual effort."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "ざいさんをかせぎえるきぼうがうしなわれると、ひとびとはそのためにはたらくてをひいてしまう。"
+          "ttsText": "ざいさんをかせぎえるきぼうがうしなわれると、ひとびとはそのためにはたらくてをひいてしまう。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "When their hope of earning and acquiring it disappears, they withdraw their hands from striving for it.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "hope of earning and acquiring it",
+              "meaning": {
+                "ja": "財産を稼いで得る希望。itは前文のproperty。",
+                "en": "Hope of earning and obtaining property; it refers back to property."
+              }
+            },
+            {
+              "term": "withdraw their hands",
+              "meaning": {
+                "ja": "手を引くという比喩的表現。",
+                "en": "A figurative way to say they stop working toward it."
+              }
+            },
+            {
+              "term": "striving for it",
+              "meaning": {
+                "ja": "財産を得るために努力すること。",
+                "en": "Making an effort to obtain property."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "When…disappears",
+              "explanation": {
+                "ja": "when節が希望喪失の時点・条件を示す。",
+                "en": "The when-clause sets the situation in which people withdraw."
+              }
+            },
+            {
+              "point": "their hands…for it",
+              "explanation": {
+                "ja": "theirは人々を、itは財産を指し、同じ対象を二度述べずに結ぶ。",
+                "en": "Their refers to the people and it to property, linking the effort to its object."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "withdraw their hands は直訳の動作だけでなく、稼ぐための活動から退くことを意味する。",
+              "en": "Withdraw their hands means ceasing the pursuit of earnings, beyond a literal movement of the hands."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "When their hope of earning and acquiring it disappears, they withdraw their hands from striving for it."
+          "ttsText": "When their hope of earning and acquiring it disappears, they withdraw their hands from striving for it.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Cuando desaparece su esperanza de ganarlos y obtenerlos, retiran las manos del esfuerzo por conseguirlos.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "esperanza de ganarlos y obtenerlos",
+              "meaning": {
+                "ja": "財産を稼ぎ得る希望。losは前文のbienes。",
+                "en": "Hope of earning and obtaining possessions; los refers to the earlier bienes."
+              }
+            },
+            {
+              "term": "retiran las manos",
+              "meaning": {
+                "ja": "手を引く、活動をやめるという比喩。",
+                "en": "A metaphor for withdrawing from an activity."
+              }
+            },
+            {
+              "term": "esfuerzo por conseguirlos",
+              "meaning": {
+                "ja": "それらを得るための努力。",
+                "en": "Effort directed at obtaining them."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Cuando desaparece…",
+              "explanation": {
+                "ja": "cuando節が希望喪失を、人々の行動が変わる条件として置く。",
+                "en": "The cuando-clause makes lost hope the condition for the change in behavior."
+              }
+            },
+            {
+              "point": "por conseguirlos",
+              "explanation": {
+                "ja": "por＋不定詞が努力の目的を示す。",
+                "en": "Por plus infinitive gives the aim of the effort."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "retiran las manos は実際に手だけを引く話ではなく、財産を得るための労働から退くことを示す。",
+              "en": "Retiran las manos depicts withdrawal from the pursuit of property, not merely a physical hand movement."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Cuando desaparece su esperanza de ganarlos y obtenerlos, retiran las manos del esfuerzo por conseguirlos."
+          "ttsText": "Cuando desaparece su esperanza de ganarlos y obtenerlos, retiran las manos del esfuerzo por conseguirlos.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Lorsque disparaît leur espoir de les gagner et de les acquérir, ils retirent leurs mains de l’effort pour les obtenir.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "espoir de les gagner",
+              "meaning": {
+                "ja": "それらを稼ぐ希望。lesは前文のbiens。",
+                "en": "Hope of earning them; les refers to the preceding biens."
+              }
+            },
+            {
+              "term": "retirent leurs mains",
+              "meaning": {
+                "ja": "手を引くという比喩。",
+                "en": "A metaphor for withdrawing from work."
+              }
+            },
+            {
+              "term": "effort pour les obtenir",
+              "meaning": {
+                "ja": "財産を得るための努力。",
+                "en": "Effort made to obtain the possessions."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Lorsque disparaît leur espoir",
+              "explanation": {
+                "ja": "lorsque節が希望の喪失を行動変化のきっかけとして示す。",
+                "en": "The lorsque-clause presents lost hope as the trigger for changed behavior."
+              }
+            },
+            {
+              "point": "pour les obtenir",
+              "explanation": {
+                "ja": "pour＋不定詞が努力の目的を表す。",
+                "en": "Pour plus infinitive expresses the goal of the effort."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "les が複数なのは、前文の les biens を受けているため。労働の成果としての財産を指す。",
+              "en": "The plural les refers back to les biens, the property people hope to gain through work."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Lorsque disparaît leur espoir de les gagner et de les acquérir, ils retirent leurs mains de l’effort pour les obtenir."
+          "ttsText": "Lorsque disparaît leur espoir de les gagner et de les acquérir, ils retirent leurs mains de l’effort pour les obtenir.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Schwindet ihre Hoffnung, es zu verdienen und zu erwerben, ziehen sie ihre Hände von diesem Streben zurück.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Schwindet ihre Hoffnung",
+              "meaning": {
+                "ja": "彼らの希望が薄れること。",
+                "en": "Their hope fades."
+              }
+            },
+            {
+              "term": "verdienen und erwerben",
+              "meaning": {
+                "ja": "稼ぎ、取得すること。",
+                "en": "To earn and acquire."
+              }
+            },
+            {
+              "term": "ziehen sie ihre Hände…zurück",
+              "meaning": {
+                "ja": "手を引くという比喩で努力をやめる。",
+                "en": "A metaphor for withdrawing from effort."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Schwindet…, ziehen…",
+              "explanation": {
+                "ja": "条件を先に置く倒置形で、希望喪失と行動変化を結ぶ。",
+                "en": "The initial condition is followed by verb-first order in the main clause, linking lost hope to withdrawal."
+              }
+            },
+            {
+              "point": "von diesem Streben",
+              "explanation": {
+                "ja": "vonが退く対象を示し、diesem Strebenは財産を得ようとする努力を受ける。",
+                "en": "Von marks what people withdraw from; diesem Streben refers to the pursuit of earnings."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "es は前文の das Vermögen を受ける。財産への期待が弱まると、労働の方向も変わる。",
+              "en": "Es refers to the preceding Vermögen; as confidence about property fades, the pursuit of it weakens."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Schwindet ihre Hoffnung, es zu verdienen und zu erwerben, ziehen sie ihre Hände von diesem Streben zurück."
+          "ttsText": "Schwindet ihre Hoffnung, es zu verdienen und zu erwerben, ziehen sie ihre Hände von diesem Streben zurück.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Когда исчезает надежда заработать и приобрести его, люди отнимают руки от усилий к этому.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "надежда заработать и приобрести",
+              "meaning": {
+                "ja": "稼いで取得する希望。",
+                "en": "Hope of earning and acquiring property."
+              }
+            },
+            {
+              "term": "отнимают руки",
+              "meaning": {
+                "ja": "手を引くという比喩。",
+                "en": "A metaphor for drawing one’s hands away."
+              }
+            },
+            {
+              "term": "усилия к этому",
+              "meaning": {
+                "ja": "そのための努力。этомуは財産を得ることを受ける。",
+                "en": "Efforts toward this; этому refers to gaining property."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Когда исчезает надежда…",
+              "explanation": {
+                "ja": "когда節が希望喪失を行動変化の条件・時点として置く。",
+                "en": "The когда-clause sets the time or condition for withdrawal."
+              }
+            },
+            {
+              "point": "от усилий к этому",
+              "explanation": {
+                "ja": "от＋生格が離れる対象を示し、к＋与格が努力の方向を示す。",
+                "en": "От plus genitive marks what one withdraws from; к plus dative marks the aim."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "руки は身体の動きの比喩として使われ、実際には稼ぐための働きや努力を控えることを述べる。",
+              "en": "Руки supplies a physical metaphor; the point is that people stop exerting themselves to earn."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Когда исчезает надежда заработать и приобрести его, люди отнимают руки от усилий к этому."
+          "ttsText": "Когда исчезает надежда заработать и приобрести его, люди отнимают руки от усилий к этому.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "وإذا ذهبت آمالهم في اكتسابها وتحصيلها انقبضت أيديهم عن السّعي في ذلك",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "ذهبت آمالهم",
+              "meaning": {
+                "ja": "彼らの希望が消えた。",
+                "en": "Their hopes have departed."
+              }
+            },
+            {
+              "term": "اكتسابها وتحصيلها",
+              "meaning": {
+                "ja": "財産を稼ぎ、取得すること。هاは財産を指す。",
+                "en": "Earning and obtaining it; ها refers to property."
+              }
+            },
+            {
+              "term": "انقبضت أيديهم",
+              "meaning": {
+                "ja": "手が縮む、つまり活動を控えるという比喩。",
+                "en": "Their hands contract, a metaphor for reduced effort."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "وإذا ذهبت…",
+              "explanation": {
+                "ja": "إذا節が希望を失った場合を示し、後半で結果を述べる。",
+                "en": "The إذا-clause states the condition of lost hope; the following clause gives its result."
+              }
+            },
+            {
+              "point": "عن السّعي في ذلك",
+              "explanation": {
+                "ja": "عنは退く対象を示し、في ذلكは財産を得る努力を受ける。",
+                "en": "عن marks withdrawal from striving; في ذلك points back to acquiring property."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "اكتسابها と تحصيلها は前文の財産獲得を受け、手の比喩によって心理的な喪失から労働行動への変化を描く。",
+              "en": "The two acquisition nouns recall the preceding property; the hand image moves the argument from lost hope to changed work habits."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -271,13 +1013,60 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-ʾidhā dhahabat ʾāmāluhum fī iktisābihā wa-taḥṣīlihā inqabaḍat ʾaydīhim ʿani as-saʿyi fī dhālika."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "一旦失去了赚取和获取财产的希望，他们就会收手，不再为此努力。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "赚取和获取",
+              "meaning": {
+                "ja": "稼いで手に入れること。",
+                "en": "To earn and acquire."
+              }
+            },
+            {
+              "term": "失去希望",
+              "meaning": {
+                "ja": "財産を得られるという期待を失うこと。",
+                "en": "To lose the hope of obtaining property."
+              }
+            },
+            {
+              "term": "收手",
+              "meaning": {
+                "ja": "手を引き、行動をやめること。",
+                "en": "To withdraw or stop pursuing an activity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一旦…就…",
+              "explanation": {
+                "ja": "「いったん…すれば、すぐに…」と条件と帰結を結ぶ。",
+                "en": "一旦…就… links a condition to its resulting action."
+              }
+            },
+            {
+              "point": "不再为此努力",
+              "explanation": {
+                "ja": "不再が行動の中止を示し、此外の此は財産を得ることを指す。",
+                "en": "不再 marks cessation, and 此 refers to acquiring property."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "收手 は比喩であり、財産を得るための仕事や努力を控えるという意味。",
+              "en": "收手 is figurative: people stop putting effort into earning property."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -287,19 +1076,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Yīdàn shīqù le zhuànqǔ hé huòqǔ cáichǎn de xīwàng, tāmen jiù huì shōushǒu, bù zài wèi cǐ nǔlì."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "재산을 벌고 얻을 희망이 사라지면, 사람들은 그것을 위한 노력에서 손을 뗀다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "희망이 사라지다",
+              "meaning": {
+                "ja": "財産を稼ぎ得るという希望が消える。",
+                "en": "Hope of earning property disappears."
+              }
+            },
+            {
+              "term": "벌고 얻다",
+              "meaning": {
+                "ja": "働いて稼ぎ、取得する。",
+                "en": "To earn and acquire."
+              }
+            },
+            {
+              "term": "손을 떼다",
+              "meaning": {
+                "ja": "手を引く、活動をやめる慣用表現。",
+                "en": "An idiom meaning to stop pursuing an activity."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "사라지면…뗀다",
+              "explanation": {
+                "ja": "-면が希望喪失を条件とし、後半に人々の反応を置く。",
+                "en": "The -면 clause makes lost hope the condition for withdrawal."
+              }
+            },
+            {
+              "point": "그것을 위한",
+              "explanation": {
+                "ja": "그것は財産を得ることを受け、위한が努力の目的を示す。",
+                "en": "그것 refers to acquiring property, and 위한 identifies the purpose of the effort."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "손을 뗀다 は手の比喩を通して、稼ぐための実際の努力が止まることを表す。",
+              "en": "손을 뗀다 uses the hand image to describe a halt in the effort to earn."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "재산을 벌고 얻을 희망이 사라지면, 사람들은 그것을 위한 노력에서 손을 뗀다."
+          "ttsText": "재산을 벌고 얻을 희망이 사라지면, 사람들은 그것을 위한 노력에서 손을 뗀다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -308,81 +1149,405 @@
       "languages": {
         "ja": {
           "text": "臣民が稼ごうとする努力を控える程度は、侵害の大きさと割合に応じる。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "臣民",
+              "meaning": {
+                "ja": "統治者の支配下にある人々。",
+                "en": "People subject to a ruler."
+              }
+            },
+            {
+              "term": "稼ごうとする努力",
+              "meaning": {
+                "ja": "収入を得るための働きや試み。",
+                "en": "Effort directed at earning."
+              }
+            },
+            {
+              "term": "侵害の大きさと割合",
+              "meaning": {
+                "ja": "財産侵害がどれほど広く深いか。",
+                "en": "The extent and proportion of aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…程度は…に応じる",
+              "explanation": {
+                "ja": "二つの量が比例して変わることを示す。",
+                "en": "This construction says one degree varies with another."
+              }
+            },
+            {
+              "point": "控える",
+              "explanation": {
+                "ja": "完全にやめるとは限らず、努力の量を減らすこと。",
+                "en": "To hold back or reduce effort, without necessarily stopping entirely."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前二文で示した因果関係を、侵害の程度と労働の縮小幅の対応として定式化している。",
+              "en": "The preceding causal link is now stated as a proportional relationship between aggression and reduced effort."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "しんみんがかせごうとするどりょくをひかえるていどは、しんがいのおおきさとわりあいにおうじる。"
+          "ttsText": "しんみんがかせごうとするどりょくをひかえるていどは、しんがいのおおきさとわりあいにおうじる。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "The degree to which subjects withdraw from striving to earn is proportionate to the extent of the aggression.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "subjects",
+              "meaning": {
+                "ja": "統治下にある人々。",
+                "en": "People under a ruler’s authority."
+              }
+            },
+            {
+              "term": "withdraw from striving",
+              "meaning": {
+                "ja": "努力から退く、稼ぐ活動を控える。",
+                "en": "To draw back from the effort to earn."
+              }
+            },
+            {
+              "term": "extent of the aggression",
+              "meaning": {
+                "ja": "侵害の大きさ・及ぶ範囲。",
+                "en": "The size or reach of the encroachment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "The degree to which…",
+              "explanation": {
+                "ja": "to which以下が「どの程度か」の内容を具体化する。",
+                "en": "To which specifies the extent measured by the degree."
+              }
+            },
+            {
+              "point": "is proportionate to…",
+              "explanation": {
+                "ja": "努力の減少幅が侵害の規模に応じることを表す。",
+                "en": "This states that reduced effort rises or falls with the scale of aggression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは臣民が一斉に仕事をやめるのではなく、労働を控える程度を問題にしている。",
+              "en": "The sentence measures withdrawal from earning rather than saying that all subjects stop work at once."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "The degree to which subjects withdraw from striving to earn is proportionate to the extent of the aggression."
+          "ttsText": "The degree to which subjects withdraw from striving to earn is proportionate to the extent of the aggression.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "El grado en que los súbditos dejan de esforzarse por ganar es proporcional a la magnitud de la agresión.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "súbditos",
+              "meaning": {
+                "ja": "統治者の支配下にある人々。",
+                "en": "Subjects under a ruler."
+              }
+            },
+            {
+              "term": "dejan de esforzarse",
+              "meaning": {
+                "ja": "努力するのをやめる・控える。",
+                "en": "They cease or hold back from exerting themselves."
+              }
+            },
+            {
+              "term": "magnitud de la agresión",
+              "meaning": {
+                "ja": "侵害の規模。",
+                "en": "The scale of the aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "El grado en que…",
+              "explanation": {
+                "ja": "en que以下で「程度」が何についてかを明示する。",
+                "en": "En que specifies what the degree measures."
+              }
+            },
+            {
+              "point": "es proporcional a…",
+              "explanation": {
+                "ja": "侵害の大きさと努力の減少が対応することを表す。",
+                "en": "This states a proportional relation between aggression and reduced effort."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ganar はここでは財産や収入を稼ぐ意味で、勝負に勝つ意味ではない。",
+              "en": "Ganar means to earn income or property here, not to win a contest."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "El grado en que los súbditos dejan de esforzarse por ganar es proporcional a la magnitud de la agresión."
+          "ttsText": "El grado en que los súbditos dejan de esforzarse por ganar es proporcional a la magnitud de la agresión.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Le retrait des sujets de l’effort pour gagner leur vie est proportionnel à l’ampleur de l’agression.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "sujets",
+              "meaning": {
+                "ja": "統治を受ける人々。",
+                "en": "People under political rule."
+              }
+            },
+            {
+              "term": "retrait de l’effort",
+              "meaning": {
+                "ja": "努力から退くこと、労働を控えること。",
+                "en": "Withdrawal from effort or work."
+              }
+            },
+            {
+              "term": "ampleur de l’agression",
+              "meaning": {
+                "ja": "財産侵害の広がり・規模。",
+                "en": "The scale and reach of the aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Le retrait…est proportionnel à…",
+              "explanation": {
+                "ja": "人々の努力の減少幅を侵害の規模と結びつける。",
+                "en": "The withdrawal is linked proportionally to the scale of aggression."
+              }
+            },
+            {
+              "point": "pour gagner leur vie",
+              "explanation": {
+                "ja": "pour＋不定詞で努力の目的、つまり生計を立てることを示す。",
+                "en": "Pour plus infinitive gives the purpose of the effort: earning a living."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "leur vie は「彼らの生活」の直訳よりも、gagner sa vie で「生計を立てる」というまとまりで読む。",
+              "en": "Gagner leur vie is the expression “earn a living,” not simply “win their life.”"
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Le retrait des sujets de l’effort pour gagner leur vie est proportionnel à l’ampleur de l’agression."
+          "ttsText": "Le retrait des sujets de l’effort pour gagner leur vie est proportionnel à l’ampleur de l’agression.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "In welchem Maß die Untertanen ihr Erwerbsstreben einschränken, entspricht dem Ausmaß der Übergriffe.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Untertanen",
+              "meaning": {
+                "ja": "統治を受ける人々。",
+                "en": "Subjects under a ruler."
+              }
+            },
+            {
+              "term": "Erwerbsstreben",
+              "meaning": {
+                "ja": "収入を得ようとする努力。",
+                "en": "The pursuit of earnings."
+              }
+            },
+            {
+              "term": "Ausmaß der Übergriffe",
+              "meaning": {
+                "ja": "財産侵害の規模・程度。",
+                "en": "The extent of the encroachments."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "In welchem Maß…, entspricht…",
+              "explanation": {
+                "ja": "最初に努力を控える程度を示し、後半で侵害の規模との対応を述べる。",
+                "en": "The first clause sets the degree of withdrawal; the main clause relates it to aggression."
+              }
+            },
+            {
+              "point": "entspricht dem Ausmaß",
+              "explanation": {
+                "ja": "entsprechenは与格dem Ausmaßを取り、「規模に相応する」。",
+                "en": "Entsprechen takes dative dem Ausmaß and means “corresponds to the extent.”"
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ihr Erwerbsstreben のihrはUntertanenを受け、統治者の収入ではなく臣民の稼ぐ努力を指す。",
+              "en": "Ihr refers to Untertanen; the earning effort belongs to the subjects, not the ruler."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "In welchem Maß die Untertanen ihr Erwerbsstreben einschränken, entspricht dem Ausmaß der Übergriffe."
+          "ttsText": "In welchem Maß die Untertanen ihr Erwerbsstreben einschränken, entspricht dem Ausmaß der Übergriffe.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Степень отказа подданных от усилий ради заработка соответствует размеру посягательства.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "подданных",
+              "meaning": {
+                "ja": "統治者の支配下にある人々。",
+                "en": "Subjects of a ruler."
+              }
+            },
+            {
+              "term": "отказ от усилий",
+              "meaning": {
+                "ja": "努力を控えたりやめたりすること。",
+                "en": "Withdrawal from effort."
+              }
+            },
+            {
+              "term": "размер посягательства",
+              "meaning": {
+                "ja": "侵害の規模。",
+                "en": "The extent of the encroachment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Степень…соответствует…",
+              "explanation": {
+                "ja": "「程度」が「規模」に対応するという比例関係を述べる。",
+                "en": "The degree of withdrawal is said to correspond to the scale of encroachment."
+              }
+            },
+            {
+              "point": "ради заработка",
+              "explanation": {
+                "ja": "ради＋生格で努力の目的を示す。",
+                "en": "Ради plus genitive gives the purpose of the effort: earnings."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでの отказ は政治的な拒否ではなく、稼ぐための活動から退くことを表す。",
+              "en": "Отказ here means withdrawal from earning activity, not a political refusal."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Степень отказа подданных от усилий ради заработка соответствует размеру посягательства."
+          "ttsText": "Степень отказа подданных от усилий ради заработка соответствует размеру посягательства.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "وعلى قدر الاعتداء ونسبته يكون انقباض الرّعايا عن السّعي في الاكتساب",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "قدر الاعتداء",
+              "meaning": {
+                "ja": "侵害の程度・量。",
+                "en": "The degree or measure of aggression."
+              }
+            },
+            {
+              "term": "انقباض الرّعايا",
+              "meaning": {
+                "ja": "臣民が手を引くこと。",
+                "en": "The subjects’ withdrawal."
+              }
+            },
+            {
+              "term": "السّعي في الاكتساب",
+              "meaning": {
+                "ja": "財産を稼ぎ得ようとする努力。",
+                "en": "Effort to earn and acquire property."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "على قدر…يكون…",
+              "explanation": {
+                "ja": "侵害の大きさに応じて後半の結果が決まる構文。",
+                "en": "The opening measure sets the scale of the result in the following clause."
+              }
+            },
+            {
+              "point": "عن السّعي",
+              "explanation": {
+                "ja": "عنは努力から退く方向を示す。",
+                "en": "عن marks withdrawal from striving."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "نسبته は侵害の割合・程度を重ねて示し、努力の減少が侵害と比例するという主張を強める。",
+              "en": "نسبته reinforces the proportional claim: withdrawal in effort matches the scale of aggression."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -392,13 +1557,60 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-ʿalā qadri al-iʿtidāʾi wa-nisbatihi yakūnu inqibāḍu ar-raʿāyā ʿani as-saʿyi fī al-iktisābi."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "臣民减少谋生努力的程度，与侵害的程度和比例相应。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "臣民",
+              "meaning": {
+                "ja": "統治下にある人々。",
+                "en": "People under a ruler’s authority."
+              }
+            },
+            {
+              "term": "谋生努力",
+              "meaning": {
+                "ja": "生活のために働き、稼ぐ努力。",
+                "en": "Effort to earn a livelihood."
+              }
+            },
+            {
+              "term": "侵害的程度和比例",
+              "meaning": {
+                "ja": "侵害の規模とその割合。",
+                "en": "The extent and proportion of aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…的程度，与…相应",
+              "explanation": {
+                "ja": "二つの程度が対応して変わる関係を表す。",
+                "en": "This pattern relates one degree proportionally to another."
+              }
+            },
+            {
+              "point": "减少谋生努力",
+              "explanation": {
+                "ja": "完全な停止ではなく、稼ぐ活動の量を減らすこと。",
+                "en": "To reduce the effort to earn, without necessarily stopping entirely."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この文は侵害の有無だけでなく、その規模が労働意欲の落ち込みを左右すると述べる。",
+              "en": "The claim concerns how the scale of aggression determines the degree of reduced effort."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -408,19 +1620,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Chénmín jiǎnshǎo móushēng nǔlì de chéngdù, yǔ qīnhài de chéngdù hé bǐlì xiāngyìng."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "백성들이 생업의 노력을 줄이는 정도는 침해의 크기와 비율에 따른다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "백성들",
+              "meaning": {
+                "ja": "統治下の人々、臣民。",
+                "en": "People under a ruler; subjects."
+              }
+            },
+            {
+              "term": "생업의 노력",
+              "meaning": {
+                "ja": "生活を支えるための働き。",
+                "en": "Effort to earn a livelihood."
+              }
+            },
+            {
+              "term": "침해의 크기와 비율",
+              "meaning": {
+                "ja": "財産侵害の大きさと割合。",
+                "en": "The size and proportion of encroachment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "줄이는 정도는…따른다",
+              "explanation": {
+                "ja": "努力を減らす程度が侵害の規模に応じることを表す。",
+                "en": "This says the extent of reduced effort follows the extent of aggression."
+              }
+            },
+            {
+              "point": "-려는",
+              "explanation": {
+                "ja": "「〜しようとする」という意図を示し、ここでは稼ぐ努力の方向を表す。",
+                "en": "The -려는 form expresses intention, here the aim of earning."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文はすべての人が同時に働くのをやめるとは言わず、侵害に応じて努力が縮むと述べる。",
+              "en": "The sentence describes effort shrinking with encroachment, not every person stopping work at once."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "백성들이 생업의 노력을 줄이는 정도는 침해의 크기와 비율에 따른다."
+          "ttsText": "백성들이 생업의 노력을 줄이는 정도는 침해의 크기와 비율에 따른다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -429,81 +1693,405 @@
       "languages": {
         "ja": {
           "text": "侵害が大きく、生計のあらゆる道に及ぶなら、稼ぐことをやめる動きも同じように広がる。あらゆる道から侵害が入り込み、希望をすっかり奪うからである。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "生計のあらゆる道",
+              "meaning": {
+                "ja": "収入を得るための多様な仕事や手段。",
+                "en": "Every avenue for earning a living."
+              }
+            },
+            {
+              "term": "稼ぐことをやめる動き",
+              "meaning": {
+                "ja": "収入を得るための活動から退くこと。",
+                "en": "Withdrawal from income-producing activity."
+              }
+            },
+            {
+              "term": "希望をすっかり奪う",
+              "meaning": {
+                "ja": "稼いでも守れないという見通しによって意欲をなくす。",
+                "en": "To extinguish the hope that earnings can be kept."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "侵害が…なら、…",
+              "explanation": {
+                "ja": "侵害が広範囲に及ぶ場合を条件として、労働の縮小を述べる。",
+                "en": "The conditional sets a case of widespread aggression and gives the resulting withdrawal."
+              }
+            },
+            {
+              "point": "同じように広がる",
+              "explanation": {
+                "ja": "侵害の範囲と稼ぐことをやめる範囲が対応する。",
+                "en": "The withdrawal spreads to match the reach of aggression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "侵害が一部にとどまらず生計の全経路に及ぶと、希望の喪失も全般に及ぶという段階である。",
+              "en": "When aggression reaches every way of earning, the resulting loss of hope also becomes general."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "しんがいがおおきく、せいけいのあらゆるみちにおよぶなら、かせぐことをやめるうごきもおなじようにひろがる。あらゆるみちからしんがいがはいりこみ、きぼうをすっかりうばうからである。"
+          "ttsText": "しんがいがおおきく、せいけいのあらゆるみちにおよぶなら、かせぐことをやめるうごきもおなじようにひろがる。あらゆるみちからしんがいがはいりこみ、きぼうをすっかりうばうからである。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "If aggression is extensive and affects every means of livelihood, the abandonment of earning is equally widespread, because aggression entering through every avenue extinguishes hope altogether.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "every means of livelihood",
+              "meaning": {
+                "ja": "生計を立てるあらゆる手段。",
+                "en": "All ways of earning a living."
+              }
+            },
+            {
+              "term": "abandonment of earning",
+              "meaning": {
+                "ja": "稼ぐ活動をやめること。",
+                "en": "Ceasing the pursuit of earnings."
+              }
+            },
+            {
+              "term": "extinguishes hope altogether",
+              "meaning": {
+                "ja": "希望を完全に消し去る。",
+                "en": "Destroys hope completely."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "If…is extensive…",
+              "explanation": {
+                "ja": "if節が侵害の広い場合を設定する。",
+                "en": "The if-clause sets the case of extensive aggression."
+              }
+            },
+            {
+              "point": "because aggression entering…",
+              "explanation": {
+                "ja": "because節は労働の放棄が広がる理由を、希望の喪失に求める。",
+                "en": "The because-clause explains widespread withdrawal through a general loss of hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "avenue はここでは具体的な道路ではなく、生計を立てる経路の比喩として使われる。",
+              "en": "Avenue is figurative here: a way to earn a living, not a literal street."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "If aggression is extensive and affects every means of livelihood, the abandonment of earning is equally widespread, because aggression entering through every avenue extinguishes hope altogether."
+          "ttsText": "If aggression is extensive and affects every means of livelihood, the abandonment of earning is equally widespread, because aggression entering through every avenue extinguishes hope altogether.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Si la agresión es grande y afecta a todos los medios de subsistencia, el abandono del trabajo es igualmente general, pues al penetrar por todas las vías elimina por completo la esperanza.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "medios de subsistencia",
+              "meaning": {
+                "ja": "生計を支える手段。",
+                "en": "Means of making a living."
+              }
+            },
+            {
+              "term": "abandono del trabajo",
+              "meaning": {
+                "ja": "労働をやめること。",
+                "en": "Abandonment of work."
+              }
+            },
+            {
+              "term": "elimina por completo la esperanza",
+              "meaning": {
+                "ja": "希望をすっかり消す。",
+                "en": "Eliminates hope entirely."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Si…afecta…, el abandono…",
+              "explanation": {
+                "ja": "条件節で侵害の広がりを示し、主節で労働への影響を述べる。",
+                "en": "The si-clause gives the extent of aggression; the main clause gives its effect on work."
+              }
+            },
+            {
+              "point": "al penetrar por todas las vías",
+              "explanation": {
+                "ja": "al＋不定詞が「すべての経路に入り込むことで」という理由・過程を示す。",
+                "en": "Al plus infinitive describes how aggression enters every avenue and removes hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "todas las vías は物理的な道というより、収入を得るさまざまな方法を指す。",
+              "en": "Todas las vías refers to ways of earning, rather than only physical roads."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Si la agresión es grande y afecta a todos los medios de subsistencia, el abandono del trabajo es igualmente general, pues al penetrar por todas las vías elimina por completo la esperanza."
+          "ttsText": "Si la agresión es grande y afecta a todos los medios de subsistencia, el abandono del trabajo es igualmente general, pues al penetrar por todas las vías elimina por completo la esperanza.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Si l’agression est considérable et touche tous les moyens de subsistance, l’abandon du travail est tout aussi général, car elle détruit tout espoir en pénétrant par toutes les voies.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "moyens de subsistance",
+              "meaning": {
+                "ja": "生活を支えるための手段。",
+                "en": "Means of earning a living."
+              }
+            },
+            {
+              "term": "abandon du travail",
+              "meaning": {
+                "ja": "労働から退くこと。",
+                "en": "Withdrawal from work."
+              }
+            },
+            {
+              "term": "détruit tout espoir",
+              "meaning": {
+                "ja": "あらゆる希望をなくす。",
+                "en": "Destroys all hope."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Si…touche…, l’abandon…",
+              "explanation": {
+                "ja": "侵害がすべての生計手段に及ぶ場合を条件として示す。",
+                "en": "The si-clause sets the condition of aggression reaching all livelihoods."
+              }
+            },
+            {
+              "point": "car elle détruit…",
+              "explanation": {
+                "ja": "car以下が労働の放棄が広がる理由を説明する。",
+                "en": "The car-clause explains why withdrawal from work becomes general."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "toutes les voies は侵害が入る経路の比喩で、生計手段の全般に及ぶことを言い換える。",
+              "en": "Toutes les voies is a metaphor for the many avenues through which aggression affects livelihoods."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Si l’agression est considérable et touche tous les moyens de subsistance, l’abandon du travail est tout aussi général, car elle détruit tout espoir en pénétrant par toutes les voies."
+          "ttsText": "Si l’agression est considérable et touche tous les moyens de subsistance, l’abandon du travail est tout aussi général, car elle détruit tout espoir en pénétrant par toutes les voies.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Sind die Übergriffe groß und erstrecken sie sich auf alle Erwerbswege, wird auch der Erwerb allgemein aufgegeben, weil das Eindringen auf allen Wegen jede Hoffnung zerstört.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "alle Erwerbswege",
+              "meaning": {
+                "ja": "収入を得るすべての道筋・手段。",
+                "en": "All avenues of earning."
+              }
+            },
+            {
+              "term": "Erwerb allgemein aufgegeben",
+              "meaning": {
+                "ja": "稼ぐ活動が広く放棄される。",
+                "en": "The pursuit of earnings is generally abandoned."
+              }
+            },
+            {
+              "term": "jede Hoffnung zerstört",
+              "meaning": {
+                "ja": "希望を一切失わせる。",
+                "en": "Destroys all hope."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Sind die Übergriffe…, wird…",
+              "explanation": {
+                "ja": "先頭の条件節と後半の受動文で、侵害の広がりと結果を結ぶ。",
+                "en": "The initial conditional and following passive clause connect the scale of aggression to its result."
+              }
+            },
+            {
+              "point": "weil das Eindringen…",
+              "explanation": {
+                "ja": "weil節が希望喪失を、労働の放棄の理由として示す。",
+                "en": "The weil-clause explains withdrawal through the destruction of hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Erwerbswege と Wegen は生計の経路の比喩を共有し、侵害があらゆる稼ぎ方に及ぶと示す。",
+              "en": "Erwerbswege and Wegen share an avenue metaphor: aggression reaches every way of earning."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Sind die Übergriffe groß und erstrecken sie sich auf alle Erwerbswege, wird auch der Erwerb allgemein aufgegeben, weil das Eindringen auf allen Wegen jede Hoffnung zerstört."
+          "ttsText": "Sind die Übergriffe groß und erstrecken sie sich auf alle Erwerbswege, wird auch der Erwerb allgemein aufgegeben, weil das Eindringen auf allen Wegen jede Hoffnung zerstört.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Если посягательство велико и охватывает все способы добывания средств к жизни, прекращение заработка становится столь же всеобщим: проникая по всем путям, оно полностью уничтожает надежды.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "способы добывания средств к жизни",
+              "meaning": {
+                "ja": "生計を立てる方法。",
+                "en": "Ways of obtaining a livelihood."
+              }
+            },
+            {
+              "term": "прекращение заработка",
+              "meaning": {
+                "ja": "稼ぐ活動の停止。",
+                "en": "Cessation of earning."
+              }
+            },
+            {
+              "term": "полностью уничтожает надежды",
+              "meaning": {
+                "ja": "希望を完全に消し去る。",
+                "en": "Completely destroys hope."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Если…охватывает…, прекращение…",
+              "explanation": {
+                "ja": "если節が侵害の範囲を条件として、後半が労働への帰結を述べる。",
+                "en": "The если-clause sets the reach of aggression; the main clause gives its effect on earnings."
+              }
+            },
+            {
+              "point": "проникая по всем путям",
+              "explanation": {
+                "ja": "副動詞проникаяが侵害の入り込む過程を、主節の説明として付け加える。",
+                "en": "The gerund проникая adds how aggression reaches people through every avenue."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "по всем путям は生計を立てる道筋の比喩であり、物理的な道路の話ではない。",
+              "en": "По всем путям is figurative for channels of livelihood, not a description of roads."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Если посягательство велико и охватывает все способы добывания средств к жизни, прекращение заработка становится столь же всеобщим: проникая по всем путям, оно полностью уничтожает надежды."
+          "ttsText": "Если посягательство велико и охватывает все способы добывания средств к жизни, прекращение заработка становится столь же всеобщим: проникая по всем путям, оно полностью уничтожает надежды.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "فإذا كان الاعتداء كثيرا عامّا في جميع أبواب المعاش كان القعود عن الكسب كذلك لذهابه بالآمال جملة بدخوله من جميع أبوابها",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "الاعتداء كثيرا عامّا",
+              "meaning": {
+                "ja": "侵害が大きく、広く及ぶこと。",
+                "en": "Aggression that is extensive and widespread."
+              }
+            },
+            {
+              "term": "أبواب المعاش",
+              "meaning": {
+                "ja": "生計を立てるあらゆる入口・手段。",
+                "en": "The avenues of livelihood."
+              }
+            },
+            {
+              "term": "القعود عن الكسب",
+              "meaning": {
+                "ja": "稼ぐことをやめて退くこと。",
+                "en": "Sitting back from earning."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "فإذا كان…كان…",
+              "explanation": {
+                "ja": "إذا節で広範な侵害を設定し、後半のكانで対応する帰結を述べる。",
+                "en": "The إذا-clause sets widespread aggression; the later كان gives the matching result."
+              }
+            },
+            {
+              "point": "لذهابه بالآمال",
+              "explanation": {
+                "ja": "لـ が理由を示し、侵害が希望を持ち去るためだと説明する。",
+                "en": "The ل-prefixed phrase gives the reason: aggression removes hopes."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "أبواب は「扉」の比喩で、生計を得る経路を表す。侵害がそれらすべてから入り込む像が続く。",
+              "en": "أبواب uses “doors” figuratively for avenues of livelihood; the later phrase pictures aggression entering through them all."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -513,13 +2101,60 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Fa-ʾidhā kāna al-iʿtidāʾu kathīran ʿāmman fī jamīʿi ʾabwābi al-maʿāshi kāna al-quʿūdu ʿani al-kasbi kadhālika li-dhahābihi bi-al-ʾāmāli jumlatan bi-dukhūlihi min jamīʿi ʾabwābihā."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "如果侵害严重而遍及一切谋生途径，停止谋生的现象也会同样普遍，因为侵害从所有途径侵入，使希望完全破灭。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "一切谋生途径",
+              "meaning": {
+                "ja": "生計を立てるためのすべての方法。",
+                "en": "Every way of earning a living."
+              }
+            },
+            {
+              "term": "停止谋生",
+              "meaning": {
+                "ja": "生計を得るための活動をやめること。",
+                "en": "Stopping the pursuit of a livelihood."
+              }
+            },
+            {
+              "term": "希望完全破灭",
+              "meaning": {
+                "ja": "期待がすっかり失われること。",
+                "en": "Hope is completely extinguished."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "如果…也会…",
+              "explanation": {
+                "ja": "侵害が広く及ぶ場合を条件とし、労働の縮小も広がると述べる。",
+                "en": "如果 sets the condition; 也会 states the corresponding spread of withdrawal."
+              }
+            },
+            {
+              "point": "因为…使…",
+              "explanation": {
+                "ja": "因为節で理由を示し、使で侵害が希望を失わせる作用を述べる。",
+                "en": "因为 introduces the cause, and 使 shows aggression extinguishing hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "途径 と 所有途径 は働き口や稼ぎ方の比喩で、侵害が全般に及ぶことを示す。",
+              "en": "途径 refers to ways of earning; repeating it stresses the reach of aggression across them all."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -529,19 +2164,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Rúguǒ qīnhài yánzhòng ér biànjí yīqiè móushēng tújìng, tíngzhǐ móushēng de xiànxiàng yě huì tóngyàng pǔbiàn, yīnwèi qīnhài cóng suǒyǒu tújìng qīnrù, shǐ xīwàng wánquán pòmiè."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "침해가 크고 모든 생계 수단에 두루 미치면 생업을 포기하는 일도 그만큼 널리 퍼진다. 모든 길로 침해가 들어와 희망을 통째로 없애기 때문이다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "모든 생계 수단",
+              "meaning": {
+                "ja": "生活を支えるあらゆる方法。",
+                "en": "Every means of livelihood."
+              }
+            },
+            {
+              "term": "생업을 포기하다",
+              "meaning": {
+                "ja": "収入を得るための仕事をやめる。",
+                "en": "To abandon earning a livelihood."
+              }
+            },
+            {
+              "term": "희망을 통째로 없애다",
+              "meaning": {
+                "ja": "希望を一切なくす。",
+                "en": "To eliminate hope entirely."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "미치면…퍼진다",
+              "explanation": {
+                "ja": "-면節が侵害の広がりを条件とし、後半に同じ規模の結果を置く。",
+                "en": "The -면 clause sets the reach of aggression; the main clause gives a matching result."
+              }
+            },
+            {
+              "point": "들어와…없애기 때문이다",
+              "explanation": {
+                "ja": "侵害が全経路に入り込むことを、希望喪失の理由として示す。",
+                "en": "The 때문이다 ending makes aggression entering every avenue the reason for lost hope."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "모든 길 は実際の道路ではなく、生計を立てるさまざまな方法の比喩である。",
+              "en": "모든 길 is a metaphor for ways of earning a living, not literal roads."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "침해가 크고 모든 생계 수단에 두루 미치면 생업을 포기하는 일도 그만큼 널리 퍼진다. 모든 길로 침해가 들어와 희망을 통째로 없애기 때문이다."
+          "ttsText": "침해가 크고 모든 생계 수단에 두루 미치면 생업을 포기하는 일도 그만큼 널리 퍼진다. 모든 길로 침해가 들어와 희망을 통째로 없애기 때문이다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -550,81 +2237,405 @@
       "languages": {
         "ja": {
           "text": "侵害が小さければ、稼ぐことを控える程度もそれに応じて小さくなる。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "侵害が小さい",
+              "meaning": {
+                "ja": "財産への侵害が限定的であること。",
+                "en": "Aggression against property is limited."
+              }
+            },
+            {
+              "term": "稼ぐことを控える",
+              "meaning": {
+                "ja": "収入を得るための努力を減らすこと。",
+                "en": "To reduce one’s effort to earn."
+              }
+            },
+            {
+              "term": "それに応じて",
+              "meaning": {
+                "ja": "侵害の規模に見合って。",
+                "en": "In proportion to the scale of aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…ければ、…",
+              "explanation": {
+                "ja": "侵害が小さい場合を条件として結果を述べる。",
+                "en": "The conditional sets the case of slight aggression and gives its result."
+              }
+            },
+            {
+              "point": "程度も…小さくなる",
+              "explanation": {
+                "ja": "「も」が前文の比例関係を引き継ぎ、努力の縮小も限定的だと示す。",
+                "en": "も carries forward the proportional relation: the withdrawal is limited too."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前文の侵害が全般に及ぶ場合と対になる例で、侵害と勤労意欲の変化が量的に対応することを確かめる。",
+              "en": "This contrasts with the preceding widespread case and confirms that reduced effort follows the scale of aggression."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "しんがいがちいさければ、かせぐことをひかえるていどもそれにおうじてちいさくなる。"
+          "ttsText": "しんがいがちいさければ、かせぐことをひかえるていどもそれにおうじてちいさくなる。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "If the aggression is slight, the withdrawal from earning is proportionately slight.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "aggression is slight",
+              "meaning": {
+                "ja": "財産侵害の規模が小さい。",
+                "en": "The encroachment on property is limited."
+              }
+            },
+            {
+              "term": "withdrawal from earning",
+              "meaning": {
+                "ja": "稼ぐ活動から退くこと。",
+                "en": "Pulling back from earning activity."
+              }
+            },
+            {
+              "term": "proportionately slight",
+              "meaning": {
+                "ja": "侵害の程度に応じて小さい。",
+                "en": "Small in proportion to the aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "If…is slight",
+              "explanation": {
+                "ja": "if節で軽い侵害を条件として設定する。",
+                "en": "The if-clause sets the case of limited aggression."
+              }
+            },
+            {
+              "point": "the withdrawal…is…slight",
+              "explanation": {
+                "ja": "二度目のslightが侵害と労働縮小の大きさの対応を示す。",
+                "en": "The repeated slight makes the scale of withdrawal match the scale of aggression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでの withdrawal は前文の労働を控える動きであり、財産の引き出しではない。",
+              "en": "Withdrawal refers to pulling back from earning, not withdrawing money or property from an account."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "If the aggression is slight, the withdrawal from earning is proportionately slight."
+          "ttsText": "If the aggression is slight, the withdrawal from earning is proportionately slight.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Si la agresión es leve, el abandono de la actividad lucrativa es proporcionalmente leve.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "agresión es leve",
+              "meaning": {
+                "ja": "侵害が軽微である。",
+                "en": "The aggression is slight."
+              }
+            },
+            {
+              "term": "abandono de la actividad lucrativa",
+              "meaning": {
+                "ja": "収入を得る活動からの撤退。",
+                "en": "Withdrawal from income-producing activity."
+              }
+            },
+            {
+              "term": "proporcionalmente leve",
+              "meaning": {
+                "ja": "割合に応じて小さい。",
+                "en": "Small in proportion to the aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Si…es leve",
+              "explanation": {
+                "ja": "si節で侵害が小さい場合を設定する。",
+                "en": "The si-clause sets the case of slight aggression."
+              }
+            },
+            {
+              "point": "es proporcionalmente leve",
+              "explanation": {
+                "ja": "副詞proporcionalmenteが侵害と撤退の度合いの対応を示す。",
+                "en": "Proporcionalmente explicitly links the scale of withdrawal to the scale of aggression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "actividad lucrativa はここでは営利企業だけでなく、稼ぐための活動一般を指す。",
+              "en": "Actividad lucrativa here refers broadly to earning activity, not only a commercial firm."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Si la agresión es leve, el abandono de la actividad lucrativa es proporcionalmente leve."
+          "ttsText": "Si la agresión es leve, el abandono de la actividad lucrativa es proporcionalmente leve.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Si l’agression est faible, le retrait de l’activité rémunératrice l’est dans la même proportion.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "agression est faible",
+              "meaning": {
+                "ja": "財産侵害が限定的である。",
+                "en": "Aggression against property is limited."
+              }
+            },
+            {
+              "term": "retrait de l’activité rémunératrice",
+              "meaning": {
+                "ja": "収入を得る活動から退くこと。",
+                "en": "Withdrawal from paid or income-producing activity."
+              }
+            },
+            {
+              "term": "dans la même proportion",
+              "meaning": {
+                "ja": "同じ割合で。",
+                "en": "In the same proportion."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Si…est faible",
+              "explanation": {
+                "ja": "si節で軽微な侵害を条件として示す。",
+                "en": "The si-clause sets the case of slight aggression."
+              }
+            },
+            {
+              "point": "l’est dans la même proportion",
+              "explanation": {
+                "ja": "l’はfaibleを受け、撤退も同じ割合で小さいと述べる。",
+                "en": "L’ stands for faible: the withdrawal is slight to the same degree."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "l’ は財産ではなく、直前の形容詞 faible を代用する中性代名詞である。",
+              "en": "L’ does not refer to property; it substitutes for the preceding adjective faible."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Si l’agression est faible, le retrait de l’activité rémunératrice l’est dans la même proportion."
+          "ttsText": "Si l’agression est faible, le retrait de l’activité rémunératrice l’est dans la même proportion.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Sind die Übergriffe gering, ist auch der Rückzug aus dem Erwerb entsprechend gering.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Übergriffe gering",
+              "meaning": {
+                "ja": "侵害が小さい。",
+                "en": "The encroachments are slight."
+              }
+            },
+            {
+              "term": "Rückzug aus dem Erwerb",
+              "meaning": {
+                "ja": "稼ぐ活動からの撤退。",
+                "en": "Withdrawal from earning."
+              }
+            },
+            {
+              "term": "entsprechend gering",
+              "meaning": {
+                "ja": "それに見合って小さい。",
+                "en": "Correspondingly slight."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Sind die Übergriffe gering",
+              "explanation": {
+                "ja": "動詞を先頭に置く条件節で「侵害が小さければ」。",
+                "en": "The verb-first clause states the condition “if the encroachments are slight.”"
+              }
+            },
+            {
+              "point": "ist auch der Rückzug…",
+              "explanation": {
+                "ja": "auchが侵害と労働縮小の程度の対応を強める。",
+                "en": "Auch reinforces the matching small scale of withdrawal."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "aus dem Erwerb は財産を持ち出す意味でなく、収入を得る営みから退くことを示す。",
+              "en": "Aus dem Erwerb means withdrawing from the activity of earning, not taking out possessions."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Sind die Übergriffe gering, ist auch der Rückzug aus dem Erwerb entsprechend gering."
+          "ttsText": "Sind die Übergriffe gering, ist auch der Rückzug aus dem Erwerb entsprechend gering.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Если посягательство невелико, сокращение заработка соразмерно ему.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "посягательство невелико",
+              "meaning": {
+                "ja": "財産侵害の規模が小さい。",
+                "en": "The encroachment is small."
+              }
+            },
+            {
+              "term": "сокращение заработка",
+              "meaning": {
+                "ja": "稼ぐ活動の縮小。",
+                "en": "Reduction in earning activity."
+              }
+            },
+            {
+              "term": "соразмерно ему",
+              "meaning": {
+                "ja": "それと釣り合っている。емуは侵害を受ける。",
+                "en": "Proportionate to it; ему refers to the encroachment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Если…невелико",
+              "explanation": {
+                "ja": "если節で小規模な侵害を条件として置く。",
+                "en": "The если-clause sets the condition of limited aggression."
+              }
+            },
+            {
+              "point": "сокращение…соразмерно",
+              "explanation": {
+                "ja": "述語соразмерноが努力の減少と侵害の規模を対応させる。",
+                "en": "The predicate соразмерно matches reduced earning to the scale of aggression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ему の指示先は直前の посягательство であり、稼ぎの縮小幅は侵害に応じる。",
+              "en": "Ему refers to посягательство; the reduction in earnings matches that encroachment."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Если посягательство невелико, сокращение заработка соразмерно ему."
+          "ttsText": "Если посягательство невелико, сокращение заработка соразмерно ему.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "وإن كان الاعتداء يسيرا كان الانقباض عن الكسب على نسبته",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "الاعتداء يسيرا",
+              "meaning": {
+                "ja": "侵害が軽微であること。",
+                "en": "Aggression is slight."
+              }
+            },
+            {
+              "term": "الانقباض عن الكسب",
+              "meaning": {
+                "ja": "稼ぐことから手を引く動き。",
+                "en": "Withdrawal from earning."
+              }
+            },
+            {
+              "term": "على نسبته",
+              "meaning": {
+                "ja": "その割合に応じて。",
+                "en": "In proportion to its extent."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "وإن كان…كان…",
+              "explanation": {
+                "ja": "إنで小規模な侵害を仮定し、後のكانで対応する結果を示す。",
+                "en": "إن supposes slight aggression; the later كان gives its matching result."
+              }
+            },
+            {
+              "point": "عن الكسب",
+              "explanation": {
+                "ja": "عنが稼ぐ活動から退く方向を示す。",
+                "en": "عن marks withdrawal from earning activity."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "نسبته の代名詞は侵害を受け、稼ぐ努力の縮小がその規模に見合うという主張を締めくくる。",
+              "en": "The pronoun in نسبته refers to aggression, closing the claim that withdrawal matches its scale."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -634,13 +2645,60 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-ʾin kāna al-iʿtidāʾu yasīran kāna al-inqibāḍu ʿani al-kasbi ʿalā nisbatihi."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "如果侵害较轻，减少谋生的程度也与之相应。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "侵害较轻",
+              "meaning": {
+                "ja": "財産侵害の程度が小さい。",
+                "en": "The encroachment is relatively slight."
+              }
+            },
+            {
+              "term": "减少谋生",
+              "meaning": {
+                "ja": "生計のための活動を減らす。",
+                "en": "To reduce livelihood activity."
+              }
+            },
+            {
+              "term": "与之相应",
+              "meaning": {
+                "ja": "それに見合う。之は侵害の程度を指す。",
+                "en": "Correspond to it; 之 refers to the extent of aggression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "如果…也…",
+              "explanation": {
+                "ja": "侵害が小さい場合を条件とし、努力の減少も小さいと述べる。",
+                "en": "如果 sets the case of slight aggression; 也 matches it with a small reduction in effort."
+              }
+            },
+            {
+              "point": "…的程度…与之相应",
+              "explanation": {
+                "ja": "程度を主題とし、侵害との比例関係を述べる。",
+                "en": "The degree is the topic, and the sentence relates it proportionally to aggression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "较轻 は侵害がないという意味ではなく、前文の広範な侵害に比べて小さいことを示す。",
+              "en": "较轻 does not mean there is no aggression; it is small compared with the widespread case."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -650,19 +2708,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Rúguǒ qīnhài jiào qīng, jiǎnshǎo móushēng de chéngdù yě yǔ zhī xiāngyìng."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "침해가 작으면 생업을 줄이는 정도도 그에 비례한다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "침해가 작다",
+              "meaning": {
+                "ja": "財産侵害が小規模である。",
+                "en": "The encroachment is small."
+              }
+            },
+            {
+              "term": "생업을 줄이다",
+              "meaning": {
+                "ja": "生活のための働きを減らす。",
+                "en": "To reduce earning activity."
+              }
+            },
+            {
+              "term": "그에 비례하다",
+              "meaning": {
+                "ja": "それに比例する。그は侵害の規模を受ける。",
+                "en": "To be proportional to it; 그 refers to the encroachment."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "작으면…줄이는 정도도…",
+              "explanation": {
+                "ja": "-면が軽微な侵害を条件とし、도が縮小の程度も小さいことを示す。",
+                "en": "The -면 clause sets the condition; 도 marks the matching reduction."
+              }
+            },
+            {
+              "point": "그에 비례한다",
+              "explanation": {
+                "ja": "에 비례하다 の形で二つの量の比例関係を示す。",
+                "en": "에 비례하다 states that one amount is proportional to another."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前文の大きな侵害の場合と対にして、侵害と勤労意欲の低下が同じ方向に変わると述べる。",
+              "en": "Set against the preceding large-scale case, this says aggression and reduced effort vary together."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "침해가 작으면 생업을 줄이는 정도도 그에 비례한다."
+          "ttsText": "침해가 작으면 생업을 줄이는 정도도 그에 비례한다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -671,84 +2781,403 @@
       "languages": {
         "ja": {
           "text": "社会の営みとその繁栄、市場の活況は、まさに人々の仕事と、利益や稼ぎを求めて行き来する努力によって成り立っている。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "社会の営みとその繁栄",
+              "meaning": {
+                "ja": "人々の活動から成る社会とその豊かさ。",
+                "en": "Social life and its prosperity."
+              }
+            },
+            {
+              "term": "市場の活況",
+              "meaning": {
+                "ja": "取引が盛んな状態。",
+                "en": "Liveliness of markets and trade."
+              }
+            },
+            {
+              "term": "利益や稼ぎを求めて行き来する",
+              "meaning": {
+                "ja": "利益と収入を得るために人々が動き回ること。",
+                "en": "People moving about in pursuit of interests and earnings."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…は、まさに…によって成り立っている",
+              "explanation": {
+                "ja": "社会と市場を支える基盤が労働にあると強調する。",
+                "en": "The construction emphatically identifies work as the basis of society and markets."
+              }
+            },
+            {
+              "point": "人々の仕事と…努力",
+              "explanation": {
+                "ja": "二つの要素を並べ、労働そのものと利益を求める活動を含める。",
+                "en": "The coordination covers work itself and the effort of pursuing gains."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここで論は個人の勤労意欲から社会全体へ移り、労働の縮小が市場に影響する理由を示す。",
+              "en": "The argument moves from individual effort to society, explaining why a loss of work affects markets."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "しゃかいのいとなみとそのはんえい、しじょうのかっきょうは、まさにひとびとのしごとと、りえきやかせぎをもとめていききするどりょくによってなりたっている。"
+          "ttsText": "しゃかいのいとなみとそのはんえい、しじょうのかっきょうは、まさにひとびとのしごとと、りえきやかせぎをもとめていききするどりょくによってなりたっている。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "Civilization, its prosperity and the briskness of its markets depend on work and on people going to and fro in pursuit of their interests and earnings.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "civilization",
+              "meaning": {
+                "ja": "人々の営みが作る社会生活。",
+                "en": "Organized social life and its development."
+              }
+            },
+            {
+              "term": "briskness of its markets",
+              "meaning": {
+                "ja": "市場の取引が活発なこと。",
+                "en": "The lively activity of its markets."
+              }
+            },
+            {
+              "term": "going to and fro",
+              "meaning": {
+                "ja": "行き来して活動すること。",
+                "en": "Moving back and forth in one’s pursuits."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Civilization, its prosperity and…",
+              "explanation": {
+                "ja": "三つの主語を並べ、社会と経済の状態を一緒に述べる。",
+                "en": "Three coordinated subjects join social life, prosperity, and market activity."
+              }
+            },
+            {
+              "point": "depend on work and on…",
+              "explanation": {
+                "ja": "depend onを繰り返し、労働と人々の奔走を二つの支えとして示す。",
+                "en": "The repeated on marks work and human effort as the foundations."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "civilization はここでは抽象的な文明の優劣ではなく、人々の活動から成り立つ社会の営みを指す。",
+              "en": "Civilization here means the life of a settled society, rather than a judgment that one culture is superior."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Civilization, its prosperity and the briskness of its markets depend on work and on people going to and fro in pursuit of their interests and earnings."
+          "ttsText": "Civilization, its prosperity and the briskness of its markets depend on work and on people going to and fro in pursuit of their interests and earnings.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "La civilización, su prosperidad y la actividad de sus mercados dependen del trabajo y del ir y venir de las personas en busca de sus intereses y ganancias.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "civilización",
+              "meaning": {
+                "ja": "社会の営み・文明生活。",
+                "en": "Organized social life."
+              }
+            },
+            {
+              "term": "actividad de sus mercados",
+              "meaning": {
+                "ja": "市場の取引の活発さ。",
+                "en": "Activity in its markets."
+              }
+            },
+            {
+              "term": "ir y venir",
+              "meaning": {
+                "ja": "人々が行き来すること。",
+                "en": "People’s going to and fro."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "La civilización, su prosperidad y…",
+              "explanation": {
+                "ja": "三つの名詞句を主語として並べ、社会と市場の状態をまとめる。",
+                "en": "Three coordinated noun phrases join society, prosperity, and markets."
+              }
+            },
+            {
+              "point": "dependen del trabajo y del…",
+              "explanation": {
+                "ja": "deを繰り返して、労働と人々の奔走の両方を支えとして示す。",
+                "en": "Repeated de marks both work and people’s movement as foundations."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "en busca de は「〜を求めて」。人々の移動は単なる往来ではなく、利益や収入を求める活動である。",
+              "en": "En busca de means “in search of”; the movement is purposeful pursuit of interests and earnings."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "La civilización, su prosperidad y la actividad de sus mercados dependen del trabajo y del ir y venir de las personas en busca de sus intereses y ganancias."
+          "ttsText": "La civilización, su prosperidad y la actividad de sus mercados dependen del trabajo y del ir y venir de las personas en busca de sus intereses y ganancias.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "La vie sociale, sa prospérité et l’activité de ses marchés reposent sur le travail et sur les efforts des gens qui vont et viennent à la recherche de leurs intérêts et de leurs gains.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "vie sociale",
+              "meaning": {
+                "ja": "人々の共同生活と活動。",
+                "en": "The life of a society."
+              }
+            },
+            {
+              "term": "activité de ses marchés",
+              "meaning": {
+                "ja": "市場での取引の活発さ。",
+                "en": "The activity of its markets."
+              }
+            },
+            {
+              "term": "vont et viennent",
+              "meaning": {
+                "ja": "人々が行き来する。",
+                "en": "People move to and fro."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "La vie sociale, sa prospérité et…",
+              "explanation": {
+                "ja": "並列された三つの主語が社会と市場の状態をまとめる。",
+                "en": "Three coordinated subjects cover social life, prosperity, and markets."
+              }
+            },
+            {
+              "point": "reposent sur le travail et sur…",
+              "explanation": {
+                "ja": "surを繰り返して、仕事と人々の努力を支えとして示す。",
+                "en": "Repeated sur names work and people’s effort as the foundations."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "à la recherche de は移動の目的を示し、人々が利益と稼ぎを求めて活動していると説明する。",
+              "en": "À la recherche de gives the purpose of the movement: pursuing interests and earnings."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "La vie sociale, sa prospérité et l’activité de ses marchés reposent sur le travail et sur les efforts des gens qui vont et viennent à la recherche de leurs intérêts et de leurs gains."
+          "ttsText": "La vie sociale, sa prospérité et l’activité de ses marchés reposent sur le travail et sur les efforts des gens qui vont et viennent à la recherche de leurs intérêts et de leurs gains.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Das Gemeinwesen, sein Wohlstand und der lebhafte Handel seiner Märkte beruhen auf Arbeit und dem Hin und Her der Menschen, die ihren Interessen und ihrem Erwerb nachgehen.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Gemeinwesen",
+              "meaning": {
+                "ja": "人々の社会的な共同体。",
+                "en": "The social community."
+              }
+            },
+            {
+              "term": "lebhafte Handel seiner Märkte",
+              "meaning": {
+                "ja": "市場での活発な取引。",
+                "en": "Lively trading in its markets."
+              }
+            },
+            {
+              "term": "Hin und Her der Menschen",
+              "meaning": {
+                "ja": "人々が行き来して活動すること。",
+                "en": "People’s movement to and fro."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Das Gemeinwesen, sein Wohlstand und…",
+              "explanation": {
+                "ja": "社会・繁栄・市場取引を並べて共通の基盤を述べる。",
+                "en": "The coordinated subjects share one foundation: work and human activity."
+              }
+            },
+            {
+              "point": "beruhen auf Arbeit und dem…",
+              "explanation": {
+                "ja": "auf＋与格で何に基づくかを示す。",
+                "en": "Beruhen auf plus dative identifies what these conditions rest on."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "die ihren Interessen und ihrem Erwerb nachgehen は人々が行き来する目的を説明する関係節。",
+              "en": "The relative clause die ihren Interessen und ihrem Erwerb nachgehen explains why the people move about."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Das Gemeinwesen, sein Wohlstand und der lebhafte Handel seiner Märkte beruhen auf Arbeit und dem Hin und Her der Menschen, die ihren Interessen und ihrem Erwerb nachgehen."
+          "ttsText": "Das Gemeinwesen, sein Wohlstand und der lebhafte Handel seiner Märkte beruhen auf Arbeit und dem Hin und Her der Menschen, die ihren Interessen und ihrem Erwerb nachgehen.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Общественная жизнь, её процветание и оживление рынков держатся на труде и усилиях людей, ходящих туда и сюда ради своих дел и заработков.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "общественная жизнь",
+              "meaning": {
+                "ja": "社会を成り立たせる人々の営み。",
+                "en": "The life and activity of a society."
+              }
+            },
+            {
+              "term": "оживление рынков",
+              "meaning": {
+                "ja": "市場の活況。",
+                "en": "The liveliness of markets."
+              }
+            },
+            {
+              "term": "ходящих туда и сюда",
+              "meaning": {
+                "ja": "あちこち動き回る人々。",
+                "en": "People going back and forth."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…держатся на труде",
+              "explanation": {
+                "ja": "на＋前置格で、社会や市場が労働に支えられることを述べる。",
+                "en": "Держатся на plus prepositional means they rest on work."
+              }
+            },
+            {
+              "point": "ради своих дел и заработков",
+              "explanation": {
+                "ja": "ради＋生格で人々の移動の目的を示す。",
+                "en": "Ради plus genitive gives the purpose of people’s movement."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ходящих は людей を修飾し、利益や稼ぎを求めて動くのが「人々」であることを明確にする。",
+              "en": "Ходящих modifies людей: it is the people who move about in pursuit of their affairs and earnings."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Общественная жизнь, её процветание и оживление рынков держатся на труде и усилиях людей, ходящих туда и сюда ради своих дел и заработков."
+          "ttsText": "Общественная жизнь, её процветание и оживление рынков держатся на труде и усилиях людей, ходящих туда и сюда ради своих дел и заработков.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "والعمران ووفوره ونفاق أسواقه إنّما هو بالأعمال وسعي النّاس في المصالح والمكاسب ذاهبين وجائين",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "العمران",
+              "meaning": {
+                "ja": "人々が営む社会生活とその発展。",
+                "en": "Social life and its development."
+              }
+            },
+            {
+              "term": "نفاق أسواقه",
+              "meaning": {
+                "ja": "その市場の繁盛・活況。",
+                "en": "The thriving of its markets."
+              }
+            },
+            {
+              "term": "المصالح والمكاسب",
+              "meaning": {
+                "ja": "利益と稼ぎ。",
+                "en": "Interests and earnings."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "إنّما هو بالأعمال",
+              "explanation": {
+                "ja": "إنّماが労働こそ基盤だと強調し、بـが手段・根拠を示す。",
+                "en": "إنّما emphasizes work as the basis; بـ links the result to work."
+              }
+            },
+            {
+              "point": "ذاهبين وجائين",
+              "explanation": {
+                "ja": "「行き来しながら」という状態を加え、人々の努力の動きを描く。",
+                "en": "The paired participles describe people moving to and fro in their pursuits."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "ʿumrān は建物だけではなく、人々が共同で営む社会・定住・文明を含む概念です。",
-              "en": "ʿUmrān encompasses social life, settlement and civilization, not merely buildings."
+              "ja": "العمران は個々の建物だけでなく、仕事や市場によって成り立つ社会の営み全体を指す。",
+              "en": "العمران refers to the life of a society supported by work and markets, not merely its buildings."
             }
           ],
           "translation": {
@@ -760,13 +3189,60 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Wa-al-ʿumrānu wa-wufūruhu wa-nafāqu ʾaswāqihi ʾinnamā huwa bi-al-ʾaʿmāli wa-saʿyi an-nāsi fī al-maṣāliḥi wa-al-makāsibi dhāhibīna wa-jāʾīna."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "社会生活及其繁荣、市场的兴旺，都依靠劳动，以及人们为利益和生计奔走的努力。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "社会生活及其繁荣",
+              "meaning": {
+                "ja": "人々の営みとその豊かさ。",
+                "en": "Social life and its prosperity."
+              }
+            },
+            {
+              "term": "市场的兴旺",
+              "meaning": {
+                "ja": "市場が活発に動くこと。",
+                "en": "The flourishing of markets."
+              }
+            },
+            {
+              "term": "为利益和生计奔走",
+              "meaning": {
+                "ja": "利益と生活の糧を求めて動き回ること。",
+                "en": "To move about pursuing interests and livelihood."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "都依靠…",
+              "explanation": {
+                "ja": "社会・繁栄・市場という複数の要素すべての基盤を示す。",
+                "en": "都 makes the stated foundation apply to all three elements."
+              }
+            },
+            {
+              "point": "以及…",
+              "explanation": {
+                "ja": "劳动と人々の奔走を並列し、社会を支える活動として結ぶ。",
+                "en": "以及 coordinates work with people’s active pursuit of earnings."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "奔走 は単なる移動ではなく、利益と生計を求めて積極的に働く様子を表す。",
+              "en": "奔走 describes purposeful effort for interests and livelihood, not mere travel."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -776,19 +3252,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Shèhuì shēnghuó jí qí fánróng, shìchǎng de xīngwàng, dōu yīkào láodòng, yǐjí rénmen wèi lìyì hé shēngjì bēnzǒu de nǔlì."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "사회생활과 그 번영, 시장의 활기는 노동과 사람들이 이익과 생계를 위해 오가며 기울이는 노력에 달려 있다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "사회생활과 그 번영",
+              "meaning": {
+                "ja": "人々の共同生活とその繁栄。",
+                "en": "Social life and its prosperity."
+              }
+            },
+            {
+              "term": "시장의 활기",
+              "meaning": {
+                "ja": "市場での活動の盛んさ。",
+                "en": "The liveliness of markets."
+              }
+            },
+            {
+              "term": "이익과 생계를 위해 오가다",
+              "meaning": {
+                "ja": "利益と生活の糧を求めて行き来する。",
+                "en": "To go to and fro for interests and livelihood."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…에 달려 있다",
+              "explanation": {
+                "ja": "何に依存しているかを示し、社会の基盤を述べる。",
+                "en": "에 달려 있다 states what social prosperity depends on."
+              }
+            },
+            {
+              "point": "오가며 기울이는 노력",
+              "explanation": {
+                "ja": "-며が行き来しながら努力することを結ぶ。",
+                "en": "The -며 form links moving about with the effort people expend."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前文までの個人の稼ぐ努力を、社会の繁栄と市場の活況を支える条件へと広げている。",
+              "en": "The individual effort to earn now becomes a condition sustaining social prosperity and active markets."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "사회생활과 그 번영, 시장의 활기는 노동과 사람들이 이익과 생계를 위해 오가며 기울이는 노력에 달려 있다."
+          "ttsText": "사회생활과 그 번영, 시장의 활기는 노동과 사람들이 이익과 생계를 위해 오가며 기울이는 노력에 달려 있다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -797,81 +3325,405 @@
       "languages": {
         "ja": {
           "text": "人々が生計を立てるのをやめ、稼ぎから手を引けば、社会の市場は不況に陥り、状況は乱れる。人々は、その統治領域の外で糧を求め、各地へ散っていく。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "生計を立てる",
+              "meaning": {
+                "ja": "暮らしを支える収入を得ること。",
+                "en": "To earn what is needed for a living."
+              }
+            },
+            {
+              "term": "不況に陥る",
+              "meaning": {
+                "ja": "市場での取引が停滞すること。",
+                "en": "For markets to fall into stagnation."
+              }
+            },
+            {
+              "term": "統治領域",
+              "meaning": {
+                "ja": "ある政権の支配が及ぶ地域。",
+                "en": "The area governed by a particular authority."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "…ば、…",
+              "explanation": {
+                "ja": "人々が稼ぎをやめることを条件とし、市場の不況を帰結として置く。",
+                "en": "The conditional links ceasing work to market stagnation."
+              }
+            },
+            {
+              "point": "その統治領域の外で…",
+              "explanation": {
+                "ja": "「その」は市場が停滞した地域を治める権力を受け、人々の移動先を示す。",
+                "en": "その refers to the authority over the affected society and identifies where people seek sustenance."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "労働の縮小は市場の停滞にとどまらず、人々が統治の範囲外へ移ることにもつながる。",
+              "en": "Reduced work leads beyond stagnant markets to people moving outside the affected jurisdiction."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "ひとびとがせいけいをたてるのをやめ、かせぎからてをひけば、しゃかいのしじょうはふきょうにおちいり、じょうきょうはみだれる。ひとびとは、そのとうちりょういきのそとでかてをもとめ、かくちへちっていく。"
+          "ttsText": "ひとびとがせいけいをたてるのをやめ、かせぎからてをひけば、しゃかいのしじょうはふきょうにおちいり、じょうきょうはみだれる。ひとびとは、そのとうちりょういきのそとでかてをもとめ、かくちへちっていく。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "When people cease pursuing a livelihood and withdraw their hands from earning, the markets of civilization stagnate and conditions are shaken. People scatter into regions beyond that jurisdiction, seeking sustenance outside its bounds.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "pursuing a livelihood",
+              "meaning": {
+                "ja": "生活の糧を得るために働くこと。",
+                "en": "Working to make a living."
+              }
+            },
+            {
+              "term": "markets…stagnate",
+              "meaning": {
+                "ja": "市場の取引が停滞する。",
+                "en": "Markets cease to be active."
+              }
+            },
+            {
+              "term": "jurisdiction",
+              "meaning": {
+                "ja": "ある統治権が及ぶ範囲。",
+                "en": "The area under a particular authority."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "When people cease…",
+              "explanation": {
+                "ja": "when節で生計を求める活動の停止を条件として示す。",
+                "en": "The when-clause sets the cessation of earning as the condition."
+              }
+            },
+            {
+              "point": "People scatter…, seeking…",
+              "explanation": {
+                "ja": "現在分詞seekingが移動の目的を付け加える。",
+                "en": "The participle seeking adds the purpose of people’s dispersal."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "that jurisdiction は人々が離れる統治領域を指し、行き先の諸地域はその外にある。",
+              "en": "That jurisdiction is the governed area people leave; the destinations lie beyond its bounds."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "When people cease pursuing a livelihood and withdraw their hands from earning, the markets of civilization stagnate and conditions are shaken. People scatter into regions beyond that jurisdiction, seeking sustenance outside its bounds."
+          "ttsText": "When people cease pursuing a livelihood and withdraw their hands from earning, the markets of civilization stagnate and conditions are shaken. People scatter into regions beyond that jurisdiction, seeking sustenance outside its bounds.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Cuando las personas dejan de buscar el sustento y retiran las manos del trabajo, los mercados se estancan y las condiciones se trastornan. La gente se dispersa por regiones ajenas a esa jurisdicción, buscando sustento fuera de sus límites.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "buscar el sustento",
+              "meaning": {
+                "ja": "生活の糧を求める。",
+                "en": "To seek the means of living."
+              }
+            },
+            {
+              "term": "los mercados se estancan",
+              "meaning": {
+                "ja": "市場が停滞する。",
+                "en": "Markets become stagnant."
+              }
+            },
+            {
+              "term": "jurisdicción",
+              "meaning": {
+                "ja": "統治権が及ぶ地域。",
+                "en": "An area under a governing authority."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Cuando…dejan…, los mercados…",
+              "explanation": {
+                "ja": "cuando節に労働の停止を置き、市場の停滞を帰結とする。",
+                "en": "The cuando-clause gives the cessation of work; the main clause gives market stagnation."
+              }
+            },
+            {
+              "point": "buscando sustento…",
+              "explanation": {
+                "ja": "動名詞buscandoが、人々が散る目的を示す。",
+                "en": "The gerund buscando states why people disperse."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "fuera de sus límites のsusはその統治領域を受け、人々がその境界を越えて生計を探す。",
+              "en": "Sus in fuera de sus límites refers to the jurisdiction whose boundary people cross."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Cuando las personas dejan de buscar el sustento y retiran las manos del trabajo, los mercados se estancan y las condiciones se trastornan. La gente se dispersa por regiones ajenas a esa jurisdicción, buscando sustento fuera de sus límites."
+          "ttsText": "Cuando las personas dejan de buscar el sustento y retiran las manos del trabajo, los mercados se estancan y las condiciones se trastornan. La gente se dispersa por regiones ajenas a esa jurisdicción, buscando sustento fuera de sus límites.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "Lorsque les gens cessent de chercher leur subsistance et se retirent du travail, les marchés stagnent et les conditions se désorganisent. Ils se dispersent vers d’autres régions, cherchant leur subsistance hors de cette juridiction.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "chercher leur subsistance",
+              "meaning": {
+                "ja": "生活の糧を求める。",
+                "en": "To seek a livelihood."
+              }
+            },
+            {
+              "term": "les marchés stagnent",
+              "meaning": {
+                "ja": "市場の活動が停滞する。",
+                "en": "Markets stagnate."
+              }
+            },
+            {
+              "term": "cette juridiction",
+              "meaning": {
+                "ja": "その統治が及ぶ地域。",
+                "en": "The particular area under that authority."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Lorsque…cessent…, les marchés…",
+              "explanation": {
+                "ja": "lorsque節の労働停止が市場停滞を導く。",
+                "en": "The lorsque-clause makes the halt in work the condition for stagnant markets."
+              }
+            },
+            {
+              "point": "cherchant leur subsistance…",
+              "explanation": {
+                "ja": "現在分詞cherchantが人々の移動の目的を説明する。",
+                "en": "The participle cherchant explains why the people move."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "hors de cette juridiction は統治の外へ出ることであり、単に市場の別の店へ移ることではない。",
+              "en": "Hors de cette juridiction means outside the governing area, not merely to another shop in the market."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Lorsque les gens cessent de chercher leur subsistance et se retirent du travail, les marchés stagnent et les conditions se désorganisent. Ils se dispersent vers d’autres régions, cherchant leur subsistance hors de cette juridiction."
+          "ttsText": "Lorsque les gens cessent de chercher leur subsistance et se retirent du travail, les marchés stagnent et les conditions se désorganisent. Ils se dispersent vers d’autres régions, cherchant leur subsistance hors de cette juridiction.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "Wenn die Menschen ihren Lebensunterhalt nicht mehr verfolgen und sich vom Erwerb zurückziehen, stocken die Märkte und die Verhältnisse geraten ins Wanken. Die Menschen zerstreuen sich in andere Gebiete, um außerhalb dieses Herrschaftsbereichs Nahrung zu finden.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Lebensunterhalt",
+              "meaning": {
+                "ja": "生活を支える収入や糧。",
+                "en": "A livelihood."
+              }
+            },
+            {
+              "term": "stocken die Märkte",
+              "meaning": {
+                "ja": "市場の活動が滞る。",
+                "en": "Markets stall."
+              }
+            },
+            {
+              "term": "Herrschaftsbereich",
+              "meaning": {
+                "ja": "権力の支配が及ぶ範囲。",
+                "en": "The territory under a governing power."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wenn die Menschen…",
+              "explanation": {
+                "ja": "wenn節が人々の労働停止を条件として置く。",
+                "en": "The wenn-clause gives people’s withdrawal from earning as the condition."
+              }
+            },
+            {
+              "point": "um…Nahrung zu finden",
+              "explanation": {
+                "ja": "um…zu不定詞が、他地域へ散る目的を示す。",
+                "en": "Um…zu plus infinitive gives the purpose of moving elsewhere."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Nahrung finden はここでは食べ物だけでなく、生活を続けるための糧を求める意味で読む。",
+              "en": "Nahrung finden describes seeking the means to live, not only finding a meal."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Wenn die Menschen ihren Lebensunterhalt nicht mehr verfolgen und sich vom Erwerb zurückziehen, stocken die Märkte und die Verhältnisse geraten ins Wanken. Die Menschen zerstreuen sich in andere Gebiete, um außerhalb dieses Herrschaftsbereichs Nahrung zu finden."
+          "ttsText": "Wenn die Menschen ihren Lebensunterhalt nicht mehr verfolgen und sich vom Erwerb zurückziehen, stocken die Märkte und die Verhältnisse geraten ins Wanken. Die Menschen zerstreuen sich in andere Gebiete, um außerhalb dieses Herrschaftsbereichs Nahrung zu finden.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Когда люди прекращают добывать средства к жизни и отказываются от заработка, рынки замирают и условия расстраиваются. Люди рассеиваются по областям вне этой державы, ища пропитание за её пределами.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "средства к жизни",
+              "meaning": {
+                "ja": "生活を支える収入や糧。",
+                "en": "The means of subsistence."
+              }
+            },
+            {
+              "term": "рынки замирают",
+              "meaning": {
+                "ja": "市場の活動が止まり、停滞する。",
+                "en": "Markets fall still."
+              }
+            },
+            {
+              "term": "вне этой державы",
+              "meaning": {
+                "ja": "この国家・統治領域の外。",
+                "en": "Outside that state’s territory."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Когда люди прекращают…, рынки…",
+              "explanation": {
+                "ja": "когда節が生計活動の停止を条件として置く。",
+                "en": "The когда-clause sets cessation of work as the condition for stagnant markets."
+              }
+            },
+            {
+              "point": "ища пропитание…",
+              "explanation": {
+                "ja": "副動詞ищаが人々が移動する目的を加える。",
+                "en": "The gerund ища adds the purpose of people’s dispersal."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "её пределами のеёはдержаваを受け、統治領域の境界の外で生計を探すことを示す。",
+              "en": "Её in её пределами refers to держава, the state whose borders people leave."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Когда люди прекращают добывать средства к жизни и отказываются от заработка, рынки замирают и условия расстраиваются. Люди рассеиваются по областям вне этой державы, ища пропитание за её пределами."
+          "ttsText": "Когда люди прекращают добывать средства к жизни и отказываются от заработка, рынки замирают и условия расстраиваются. Люди рассеиваются по областям вне этой державы, ища пропитание за её пределами.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "فإذا قعد النّاس عن المعاش وانقبضت أيديهم عن المكاسب كسدت أسواق العمران وانتفضت الأحوال وابذعرّ النّاس في الآفاق من غير تلك الإيالة في طلب الرّزق فيما خرج عن نطاقها",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "قعد النّاس عن المعاش",
+              "meaning": {
+                "ja": "人々が生計のための活動をやめる。",
+                "en": "People sit back from pursuing a livelihood."
+              }
+            },
+            {
+              "term": "كسدت أسواق العمران",
+              "meaning": {
+                "ja": "社会の市場が不況・停滞に陥る。",
+                "en": "The markets of society become stagnant."
+              }
+            },
+            {
+              "term": "الآفاق من غير تلك الإيالة",
+              "meaning": {
+                "ja": "その統治領域の外にある諸地域。",
+                "en": "Regions outside that jurisdiction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "فإذا قعد…كسدت…",
+              "explanation": {
+                "ja": "إذا節で労働の停止を設定し、後続の動詞で市場への帰結を示す。",
+                "en": "The إذا-clause sets the halt in livelihood activity; later verbs state its consequences."
+              }
+            },
+            {
+              "point": "في طلب الرّزق",
+              "explanation": {
+                "ja": "في＋動名詞句で、人々が散る目的を示す。",
+                "en": "The phrase with في describes their purpose: seeking sustenance."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "نطاقها のهاはالإيالةを受け、人々が元の統治領域の外で糧を求めると分かる。",
+              "en": "The suffix ها in نطاقها refers to الإيالة; people seek livelihood outside that governed area."
+            }
+          ],
           "translation": {
             "method": "original",
             "reviewStatus": "unreviewed",
@@ -881,13 +3733,60 @@
           "pronunciation": {
             "system": "arabic-romanization",
             "text": "Fa-ʾidhā qaʿada an-nāsu ʿani al-maʿāshi wa-inqabaḍat ʾaydīhim ʿani al-makāsibi kasadat ʾaswāqu al-ʿumrāni wa-intafaḍat al-ʾaḥwālu wa-ibdhaʿarra an-nāsu fī al-ʾāfāqi min ghayri tilka al-ʾiyālati fī ṭalabi ar-rizqi fīmā kharaja ʿan niṭāqihā."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "zh": {
           "text": "人们一旦停止谋生，不再赚取收入，社会的市场就会萧条，局势也会动荡。人们四散到这一统治区域以外，在其疆界之外寻找生计。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "停止谋生",
+              "meaning": {
+                "ja": "生計を立てる活動をやめる。",
+                "en": "To stop earning a living."
+              }
+            },
+            {
+              "term": "市场萧条",
+              "meaning": {
+                "ja": "市場の取引が低調になる。",
+                "en": "Markets fall into a slump."
+              }
+            },
+            {
+              "term": "统治区域以外",
+              "meaning": {
+                "ja": "当該の支配領域の外。",
+                "en": "Outside the given jurisdiction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一旦…就会…",
+              "explanation": {
+                "ja": "人々が稼ぎをやめると、市場停滞が続くという関係を示す。",
+                "en": "一旦…就会 links the halt in work to market stagnation."
+              }
+            },
+            {
+              "point": "在其疆界之外…",
+              "explanation": {
+                "ja": "其は直前の统治区域を受け、人々が糧を求める場所を示す。",
+                "en": "其 refers to the governing area; the phrase tells where people seek livelihood."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "四散 は一か所に移るのではなく、統治領域の外の各地へ分かれて行くことを示す。",
+              "en": "四散 means dispersing in different directions beyond the jurisdiction, rather than moving as one group."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -897,19 +3796,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Rénmen yīdàn tíngzhǐ móushēng, bù zài zhuànqǔ shōurù, shèhuì de shìchǎng jiù huì xiāotiáo, júshì yě huì dòngdàng. Rénmen sìsàn dào zhè yī tǒngzhì qūyù yǐwài, zài qí jiāngjiè zhī wài xúnzhǎo shēngjì."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "사람들이 생계를 구하는 일을 멈추고 벌이에서 손을 떼면 시장이 침체하고 사정이 어지러워진다. 사람들은 그 통치 영역 밖으로 흩어져 경계 너머에서 먹고살 길을 찾는다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "생계를 구하다",
+              "meaning": {
+                "ja": "生活の糧を得ようとする。",
+                "en": "To seek the means of living."
+              }
+            },
+            {
+              "term": "시장이 침체하다",
+              "meaning": {
+                "ja": "市場の活動が停滞する。",
+                "en": "Markets stagnate."
+              }
+            },
+            {
+              "term": "통치 영역 밖",
+              "meaning": {
+                "ja": "ある権力が治める範囲の外。",
+                "en": "Outside a governing jurisdiction."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "손을 떼면…침체하고…",
+              "explanation": {
+                "ja": "-면が稼ぐ努力の停止を条件とし、市場の停滞などを結果として結ぶ。",
+                "en": "The -면 condition links withdrawal from earning to stagnating markets."
+              }
+            },
+            {
+              "point": "흩어져…찾는다",
+              "explanation": {
+                "ja": "-어져が散る動きと生計を探す行動を結ぶ。",
+                "en": "The -어져 form links dispersal to the search for livelihood."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그 통치 영역 は市場が停滞した社会を治める範囲で、人々がそこを離れると述べる。",
+              "en": "그 통치 영역 is the area governing the affected society; people leave it to seek sustenance."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "사람들이 생계를 구하는 일을 멈추고 벌이에서 손을 떼면 시장이 침체하고 사정이 어지러워진다. 사람들은 그 통치 영역 밖으로 흩어져 경계 너머에서 먹고살 길을 찾는다."
+          "ttsText": "사람들이 생계를 구하는 일을 멈추고 벌이에서 손을 떼면 시장이 침체하고 사정이 어지러워진다. 사람들은 그 통치 영역 밖으로 흩어져 경계 너머에서 먹고살 길을 찾는다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     },
@@ -918,84 +3869,403 @@
       "languages": {
         "ja": {
           "text": "その結果、国の住民は減り、家々は空になり、都市は荒廃する。それにつれて国家と権力の状態も損なわれる。それらは社会の営みの形であり、その素材が損なわれれば必然的に損なわれるからである。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "住民は減り",
+              "meaning": {
+                "ja": "人々が移動した結果、国に残る人口が少なくなる。",
+                "en": "The population remaining in the country dwindles."
+              }
+            },
+            {
+              "term": "都市は荒廃する",
+              "meaning": {
+                "ja": "住民と活動が失われ、都市が衰える。",
+                "en": "Towns fall into ruin as people and activity leave."
+              }
+            },
+            {
+              "term": "形と素材",
+              "meaning": {
+                "ja": "国家・権力を社会生活の「形」、人々の営みをその「素材」とみなす比喩。",
+                "en": "The metaphor treats state and power as the form, and social life as their material."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "その結果…",
+              "explanation": {
+                "ja": "前文の人口移動を受け、国と都市への影響を順に述べる。",
+                "en": "This picks up the preceding dispersal and lists its effects on country and towns."
+              }
+            },
+            {
+              "point": "…からである",
+              "explanation": {
+                "ja": "末尾で、国家と権力も社会の衰退につれて損なわれる理由を説明する。",
+                "en": "The final causal clause explains why state and power decline with society."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "財産侵害から労働縮小、市場停滞、人口流出を経て、国家の衰退に至る一連の因果がここで結ばれる。",
+              "en": "This closes the chain from encroachment through reduced work, stagnant markets, and population loss to a weakened state."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "そのけっか、くにのじゅうみんはへり、いえいえはからになり、としはこうはいする。それにつれてこっかとけんりょくのじょうたいもそこなわれる。それらはしゃかいのいとなみのかたちであり、そのそざいがそこなわれればひつぜんてきにそこなわれるからである。"
+          "ttsText": "そのけっか、くにのじゅうみんはへり、いえいえはからになり、としはこうはいする。それにつれてこっかとけんりょくのじょうたいもそこなわれる。それらはしゃかいのいとなみのかたちであり、そのそざいがそこなわれればひつぜんてきにそこなわれるからである。",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "en": {
           "text": "The country’s population thus dwindles, its houses stand empty and its towns fall into ruin. The state and ruling power are weakened with it, for they are the form of civilization and necessarily decay when their material decays.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "population…dwindles",
+              "meaning": {
+                "ja": "住民の数が減る。",
+                "en": "The number of inhabitants decreases."
+              }
+            },
+            {
+              "term": "ruling power",
+              "meaning": {
+                "ja": "統治を行う権力。",
+                "en": "The authority that governs."
+              }
+            },
+            {
+              "term": "form of civilization / material",
+              "meaning": {
+                "ja": "国家を社会の形、社会の営みをその素材とみなす比喩。",
+                "en": "A metaphor treating state power as society’s form and social life as its material."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "The country’s population…, its houses…, its towns…",
+              "explanation": {
+                "ja": "三つの変化を並べ、人口から住居・都市へ衰退が及ぶ様子を示す。",
+                "en": "Parallel clauses trace decline through population, houses, and towns."
+              }
+            },
+            {
+              "point": "for they are…",
+              "explanation": {
+                "ja": "for節が国家と権力の衰退の理由を説明する。",
+                "en": "The for-clause explains why state and power weaken."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "they は the state and ruling power を受ける。material はここでは建材だけでなく、国家を支える社会の実質を指す。",
+              "en": "They refers to the state and ruling power; material means the social substance supporting them, beyond literal building materials."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "The country’s population thus dwindles, its houses stand empty and its towns fall into ruin. The state and ruling power are weakened with it, for they are the form of civilization and necessarily decay when their material decays."
+          "ttsText": "The country’s population thus dwindles, its houses stand empty and its towns fall into ruin. The state and ruling power are weakened with it, for they are the form of civilization and necessarily decay when their material decays.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "es": {
           "text": "Así disminuye la población del país, sus casas quedan vacías y sus ciudades se arruinan. Con ello se deterioran el Estado y el poder, pues son la forma de la vida social y necesariamente se corrompen cuando se corrompe su materia.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "población del país",
+              "meaning": {
+                "ja": "国に住む人々の数。",
+                "en": "The country’s population."
+              }
+            },
+            {
+              "term": "Estado y poder",
+              "meaning": {
+                "ja": "国家とその統治権力。",
+                "en": "The state and its governing power."
+              }
+            },
+            {
+              "term": "forma / materia",
+              "meaning": {
+                "ja": "社会を素材、国家権力をその形とみなす対概念。",
+                "en": "The paired ideas of form and matter: governing power and the social life supporting it."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Así disminuye…",
+              "explanation": {
+                "ja": "asíが前文の人口流出を受け、その帰結を導く。",
+                "en": "Así picks up the preceding migration and introduces its effects."
+              }
+            },
+            {
+              "point": "pues son…",
+              "explanation": {
+                "ja": "pues以下で国家と権力が衰える理由を述べる。",
+                "en": "Pues gives the reason state and power deteriorate."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "su materia のsuは la vida social の形とされた国家・権力を受け、支えとなる社会の実質を意味する。",
+              "en": "Su materia refers to the matter supporting the state and power described as the form of social life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Así disminuye la población del país, sus casas quedan vacías y sus ciudades se arruinan. Con ello se deterioran el Estado y el poder, pues son la forma de la vida social y necesariamente se corrompen cuando se corrompe su materia."
+          "ttsText": "Así disminuye la población del país, sus casas quedan vacías y sus ciudades se arruinan. Con ello se deterioran el Estado y el poder, pues son la forma de la vida social y necesariamente se corrompen cuando se corrompe su materia.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "fr": {
           "text": "La population du pays diminue alors, ses maisons se vident et ses villes tombent en ruine. L’État et le pouvoir se détériorent avec elle, car ils sont la forme de la vie sociale et se dégradent nécessairement lorsque leur matière se dégrade.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "population du pays",
+              "meaning": {
+                "ja": "国に残る住民。",
+                "en": "The country’s population."
+              }
+            },
+            {
+              "term": "État et pouvoir",
+              "meaning": {
+                "ja": "国家と統治権力。",
+                "en": "The state and governing power."
+              }
+            },
+            {
+              "term": "forme / matière",
+              "meaning": {
+                "ja": "社会生活を素材、国家権力を形とみなす比喩。",
+                "en": "A metaphor that treats social life as matter and governing power as form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "La population…, ses maisons…, ses villes…",
+              "explanation": {
+                "ja": "人口・家・都市の変化を並べ、荒廃の広がりを示す。",
+                "en": "Parallel clauses show decline spreading through inhabitants, houses, and towns."
+              }
+            },
+            {
+              "point": "car ils sont…",
+              "explanation": {
+                "ja": "car以下が国家と権力も衰える理由を示す。",
+                "en": "Car introduces why state and power also deteriorate."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ils は l’État et le pouvoir を受け、leur matière はそれらを支える社会生活の実質を指す。",
+              "en": "Ils refers to the state and power; leur matière is the social substance on which they rest."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "La population du pays diminue alors, ses maisons se vident et ses villes tombent en ruine. L’État et le pouvoir se détériorent avec elle, car ils sont la forme de la vie sociale et se dégradent nécessairement lorsque leur matière se dégrade."
+          "ttsText": "La population du pays diminue alors, ses maisons se vident et ses villes tombent en ruine. L’État et le pouvoir se détériorent avec elle, car ils sont la forme de la vie sociale et se dégradent nécessairement lorsque leur matière se dégrade.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "de": {
           "text": "So schwindet die Bevölkerung des Landes, seine Häuser stehen leer und seine Städte verfallen. Staat und Herrschaft werden mit geschwächt, denn sie sind die Form des Gemeinwesens und verfallen notwendig, wenn ihre Materie verfällt.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "Bevölkerung des Landes",
+              "meaning": {
+                "ja": "その国の住民の数。",
+                "en": "The population of the country."
+              }
+            },
+            {
+              "term": "Staat und Herrschaft",
+              "meaning": {
+                "ja": "国家と統治権力。",
+                "en": "The state and governing power."
+              }
+            },
+            {
+              "term": "Form / Materie",
+              "meaning": {
+                "ja": "国家権力を形、社会の営みをその素材とみなす比喩。",
+                "en": "A metaphor treating state power as form and the life of society as matter."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "So schwindet…",
+              "explanation": {
+                "ja": "soが前文の人口流出を受けて、その帰結を導く。",
+                "en": "So links the preceding dispersal to its effects."
+              }
+            },
+            {
+              "point": "denn sie sind…",
+              "explanation": {
+                "ja": "denn節が国家と権力の衰退の理由を与える。",
+                "en": "The denn-clause explains why state and rule weaken."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "sie は Staat und Herrschaft を受ける。ihre Materie は人々の営みから成る社会の実質を指す。",
+              "en": "Sie refers to Staat und Herrschaft; ihre Materie means the supporting substance of social life."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "So schwindet die Bevölkerung des Landes, seine Häuser stehen leer und seine Städte verfallen. Staat und Herrschaft werden mit geschwächt, denn sie sind die Form des Gemeinwesens und verfallen notwendig, wenn ihre Materie verfällt."
+          "ttsText": "So schwindet die Bevölkerung des Landes, seine Häuser stehen leer und seine Städte verfallen. Staat und Herrschaft werden mit geschwächt, denn sie sind die Form des Gemeinwesens und verfallen notwendig, wenn ihre Materie verfällt.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ru": {
           "text": "Население страны редеет, дома пустеют, города разрушаются. Вместе с этим расстраиваются государство и власть: они являются формой общественной жизни и неизбежно разрушаются с разрушением своей материи.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "население страны редеет",
+              "meaning": {
+                "ja": "国の住民が少なくなる。",
+                "en": "The country’s population thins out."
+              }
+            },
+            {
+              "term": "государство и власть",
+              "meaning": {
+                "ja": "国家と統治権力。",
+                "en": "The state and governing power."
+              }
+            },
+            {
+              "term": "форма / материя",
+              "meaning": {
+                "ja": "国家を社会の形、社会生活をその素材とみなす比喩。",
+                "en": "A metaphor of state power as form and social life as matter."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Население…, дома…, города…",
+              "explanation": {
+                "ja": "人口・家・都市の衰退を順に並べる。",
+                "en": "Parallel clauses list decline in population, houses, and towns."
+              }
+            },
+            {
+              "point": "с разрушением своей материи",
+              "explanation": {
+                "ja": "с＋造格で、素材の崩壊に伴って国家も崩れる関係を示す。",
+                "en": "С plus instrumental links the destruction of material to the decay of the state."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "они は государство и власть を指す。「素材」は建物の材料だけでなく、国家を支える社会の実質である。",
+              "en": "Они refers to государство и власть; “matter” is the social substance supporting the state, not merely construction material."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "Население страны редеет, дома пустеют, города разрушаются. Вместе с этим расстраиваются государство и власть: они являются формой общественной жизни и неизбежно разрушаются с разрушением своей материи."
+          "ttsText": "Население страны редеет, дома пустеют, города разрушаются. Вместе с этим расстраиваются государство и власть: они являются формой общественной жизни и неизбежно разрушаются с разрушением своей материи.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "ar": {
           "text": "فخفّ ساكن القطر وخلت دياره وخربت أمصاره واختلّ باختلاله حال الدّولة والسّلطان لما أنّها صورة للعمران تفسد بفساد مادّتها ضرورة",
-          "vocabulary": [],
-          "grammar": [],
+          "vocabulary": [
+            {
+              "term": "خفّ ساكن القطر",
+              "meaning": {
+                "ja": "国・地域の住民が減る。",
+                "en": "The inhabitants of the region diminish."
+              }
+            },
+            {
+              "term": "حال الدّولة والسّلطان",
+              "meaning": {
+                "ja": "国家と統治権力の状態。",
+                "en": "The condition of the state and ruler’s authority."
+              }
+            },
+            {
+              "term": "صورة للعمران / مادّتها",
+              "meaning": {
+                "ja": "社会の形としての国家と、それを支える素材。",
+                "en": "The state as the form of social life and the material on which it rests."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "فخفّ…وخلت…وخربت…",
+              "explanation": {
+                "ja": "فـで前文の帰結を導き、وで人口・家・都市の変化を連ねる。",
+                "en": "The initial فـ introduces the consequence; و links the losses in people, homes, and towns."
+              }
+            },
+            {
+              "point": "لما أنّها…",
+              "explanation": {
+                "ja": "国家が社会の形であることを、国家権力も損なわれる理由として示す。",
+                "en": "لما أنّها gives the reason state power decays with social life."
+              }
+            }
+          ],
           "notes": [
             {
-              "ja": "掲載元の「وخرجت أمصاره」は、対照資料の「وخربت أمصاره（都市が荒廃した）」に補訂しました。",
-              "en": "The source’s وخرجت أمصاره is emended to وخربت أمصاره (its towns fell into ruin), following the comparison text."
+              "ja": "صورة と مادّة は国家と社会の依存関係を表す概念対で、建物の外形と建材だけを述べてはいない。",
+              "en": "صورة and مادّة express the dependence of state power on social life, beyond literal shape and building material."
             }
           ],
           "translation": {
@@ -1013,13 +4283,60 @@
               "title": "النص الحجاجي — مقتطف من مقدمة ابن خلدون، ص 131",
               "url": "https://elhassanlearning.jo/pluginfile.php/1815/mod_resource/intro/النص%20الحجاجي.pdf"
             }
-          ]
+          ],
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         },
         "zh": {
           "text": "于是，国中的居民减少，房屋空置，城市荒废。国家和统治权力也随之衰败，因为它们是社会生活的形式，其物质基础败坏时，它们必然跟着败坏。",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "居民减少",
+              "meaning": {
+                "ja": "国に住む人々の数が減る。",
+                "en": "The number of inhabitants decreases."
+              }
+            },
+            {
+              "term": "国家和统治权力",
+              "meaning": {
+                "ja": "国家とそれを行使する権力。",
+                "en": "The state and governing authority."
+              }
+            },
+            {
+              "term": "形式 / 物质基础",
+              "meaning": {
+                "ja": "国家を社会の形、社会生活をその基盤とみなす表現。",
+                "en": "State power as the form of society and social life as its material basis."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "于是…",
+              "explanation": {
+                "ja": "前文の人々の流出を受けて、人口・家屋・都市の変化を導く。",
+                "en": "于是 introduces consequences of the preceding dispersal."
+              }
+            },
+            {
+              "point": "因为…时…",
+              "explanation": {
+                "ja": "因为が理由を示し、时節が基盤の崩壊と国家の衰退を結ぶ。",
+                "en": "因为 gives the reason; the 时-clause links a ruined foundation to state decline."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "它们 は 国家和统治权力 を受ける。物质基础 は単なる建材ではなく、それらを支える社会の営みを指す。",
+              "en": "它们 refers to state and ruling power; 物质基础 means the supporting substance of social life, not just building materials."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
@@ -1029,19 +4346,71 @@
           "pronunciation": {
             "system": "pinyin",
             "text": "Yúshì, guó zhōng de jūmín jiǎnshǎo, fángwū kōngzhì, chéngshì huāngfèi. Guójiā hé tǒngzhì quánlì yě suí zhī shuāibài, yīnwèi tāmen shì shèhuì shēnghuó de xíngshì, qí wùzhì jīchǔ bàihuài shí, tāmen bìrán gēnzhe bàihuài."
+          },
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
           }
         },
         "ko": {
           "text": "그리하여 나라의 주민이 줄고 집이 비며 도시가 황폐해진다. 그와 함께 국가와 권력도 쇠약해진다. 그것들은 사회생활의 형식이므로 그 바탕이 무너지면 필연적으로 무너지기 때문이다.",
-          "vocabulary": [],
-          "grammar": [],
-          "notes": [],
+          "vocabulary": [
+            {
+              "term": "나라의 주민이 줄다",
+              "meaning": {
+                "ja": "国に残る人口が減る。",
+                "en": "The number of inhabitants in the country falls."
+              }
+            },
+            {
+              "term": "도시가 황폐해지다",
+              "meaning": {
+                "ja": "都市が荒れ衰える。",
+                "en": "Towns fall into ruin."
+              }
+            },
+            {
+              "term": "형식 / 바탕",
+              "meaning": {
+                "ja": "国家権力を社会の形、社会の営みをその土台とみなす比喩。",
+                "en": "State power as the form of society and social life as its basis."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "그리하여…",
+              "explanation": {
+                "ja": "前文の人口移動を受けて、その結果を導く。",
+                "en": "그리하여 introduces the effects of the preceding dispersal."
+              }
+            },
+            {
+              "point": "무너지면…무너지기 때문이다",
+              "explanation": {
+                "ja": "-면が土台の崩壊を条件とし、때문이다が国家衰退の理由を示す。",
+                "en": "The -면 condition and 때문이다 ending explain why state power collapses when its basis does."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그것들은 국가와 권력 を受ける。바탕 は建物の基礎だけでなく、国家を支える社会生活を指す。",
+              "en": "그것들은 refers to 국가와 권력; 바탕 means the social basis supporting them, not merely a physical foundation."
+            }
+          ],
           "translation": {
             "method": "ai-assisted",
             "reviewStatus": "unreviewed",
             "attribution": "New translation for language prism, created with ChatGPT."
           },
-          "ttsText": "그리하여 나라의 주민이 줄고 집이 비며 도시가 황폐해진다. 그와 함께 국가와 권력도 쇠약해진다. 그것들은 사회생활의 형식이므로 그 바탕이 무너지면 필연적으로 무너지기 때문이다."
+          "ttsText": "그리하여 나라의 주민이 줄고 집이 비며 도시가 황폐해진다. 그와 함께 국가와 권력도 쇠약해진다. 그것들은 사회생활의 형식이므로 그 바탕이 무너지면 필연적으로 무너지기 때문이다.",
+          "audio": {
+            "path": "library/ibn-khaldun-injustice/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
         }
       }
     }

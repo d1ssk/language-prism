@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "defc493da3796768ad9cad7ee77ea1a05ab3822ddf821c9fbad4bd317eba56f7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Да, пожалуйста.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f90f87a195e5051edaef9c73bf08051ec0ceb2f301f4a66a5d993d1375c902da",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:18.241994+00:00"
+}

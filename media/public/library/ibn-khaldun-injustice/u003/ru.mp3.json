@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7b1b61116a477630f47175c9bfbc1c65f9421a67638d403876c51990db2857e9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Степень отказа подданных от усилий ради заработка соответствует размеру посягательства.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d50a25c1b6d666adb7eb27bb39fffc5b8193c34416d8bbca353b8dbd23536734",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:40:34.543003+00:00"
+}

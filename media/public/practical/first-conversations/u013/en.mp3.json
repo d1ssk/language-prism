@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "57f72b40081982cef3a8fad2df3efb6eebcdb579f12786d655dace27235ff19c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It was nice talking to you.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a8c5f46b5fc0a89fbe76a5e4bb7fe00f059fd6b20f54855460f0471f52a712de",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:06:57.016122+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fc43504fcbcd621361b9db440de78f4102a15a1437f21c167841b2e1059ba57c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La sociedad nace de nuestras necesidades y el gobierno de nuestra maldad; la primera fomenta nuestra felicidad positivamente al unir nuestros afectos, y el segundo negativamente al contener nuestros vicios.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57a359d9868fc51439ad77b16a6777d382e1952ac2ab615c4f1bc95a3415d74e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:01:01.872703+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "26a32ca06ab71c553c1a11c8ff79f3e4ce4932ecebf6cee3bf13c28f193627aa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "불이 켜져 있으니까 집에 누군가 있는 게 틀림없어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9ae7034e5d1b2ef8ba01a085157a4fc622f94677221212d18ea98495e6ae0ca7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:28:49.148396+00:00"
+}

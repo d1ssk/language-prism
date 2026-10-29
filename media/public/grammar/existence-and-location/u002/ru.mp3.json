@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "255c8c046b867c07d25b918cbe7c28b6f61a5f85c73800b9d28eff9a702a0244",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "На письменном столе лежит книга.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dab59cd073926895f89a01a70496a30c037a4f1d2737b2e30b6dc3bc09910f9d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:14:18.061178+00:00"
+}

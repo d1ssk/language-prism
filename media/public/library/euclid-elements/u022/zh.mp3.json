@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "831c75480ad2654a72c6645ebc2986161e71ebf0cd87a7a36b179cb6eac11a88",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "在四边形中，正方形等边且各角为直角；长方形各角为直角但不等边；菱形等边但各角不是直角；斜方形的对边、对角相等，但既不等边也非直角。其余四边形称为梯形。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5616d09e3b10de111c159fa856d8a6593cdb7b57e69309e1d9de9671243d006f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:30:58.537175+00:00"
+}

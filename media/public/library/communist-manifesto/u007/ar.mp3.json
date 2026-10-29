@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0fab2ba39eb61e933500ca3cff2e8577ed4d38e777b8881c4a28e58c0b4fb248",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "تَارِيخُ كُلِّ مُجْتَمَعٍ حَتَّى الْآنَ هُوَ تَارِيخُ صِرَاعَاتٍ طَبَقِيَّةٍ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e4df870faceea7f8b7a132f8485668247d21e66290cb3e6614f67eb269021625",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:46:12.224483+00:00"
+}

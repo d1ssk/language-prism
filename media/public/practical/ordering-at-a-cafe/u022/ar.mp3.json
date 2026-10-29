@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "37403a4e18c5bfa0157e3d69265ae2552a40357c93b9b502bdd3b9ea7dc141c9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "عفوا، لم يصل الطعام الذي طلبته بعد.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a5aa363cd684a97a8cf4a3f6925f52836094d85732bb165b3887dd5f0eebc67e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:19:05.487879+00:00"
+}

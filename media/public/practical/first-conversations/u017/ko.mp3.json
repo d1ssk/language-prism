@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "81337b7feeefecdce963e14eae7e7d1aa380598c2485bd117345786b4e5fcb4c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "어떻게 불러 드리면 될까요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "75e7cdfcd7eef25e6dbbd7c2a933df214adad564ec46415c49de4a41b73f0f9b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:04.342973+00:00"
+}

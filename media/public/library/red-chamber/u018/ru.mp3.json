@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b0f00cd5338c3e79ef05e59e8830e911aff609c83166ae63c09259d96ada054b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Монах улыбнулся: «Пока не спрашивай; со временем сам поймёшь». Сказав это, он спрятал камень в рукав и легко удалился вместе с даосом. Никто не знал, в какую сторону и к какому дому они направились.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1cc0fc1a4fdb6d1e2e13b8e54db2ac410f2ee6b4adbacc8dcab24b43d387631e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:41:48.215572+00:00"
+}

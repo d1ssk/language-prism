@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d498947099dec774f40a632d2ed728eb5e89810604ea391253bfa25061432a7b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Lorsque les gens cessent de chercher leur subsistance et se retirent du travail, les marchés stagnent et les conditions se désorganisent. Ils se dispersent vers d’autres régions, cherchant leur subsistance hors de cette juridiction.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4e47e9a0d7fc8e4b3b9fa1a618e9692054bcee050aefa6633a233c404a6618e4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:44:36.061665+00:00"
+}

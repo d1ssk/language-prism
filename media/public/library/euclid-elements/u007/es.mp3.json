@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "164d40a00ac9b1db33b5c5b4568d692dd1396a55e288ad8eb998314f225009af",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Una superficie plana se sitúa uniformemente respecto de las líneas rectas que están sobre ella.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "77b38d54f1e1bcdae25268fbda333e715b00b466a980cb6734f2c3d35ca68c76",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:16:42.464372+00:00"
+}

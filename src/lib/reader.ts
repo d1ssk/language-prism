@@ -10,6 +10,9 @@ if (reader && reader.querySelector("#audio-player")) {
   const audio = reader.querySelector<HTMLAudioElement>("#audio-player")!;
   const playAll = reader.querySelector<HTMLButtonElement>("#play-all")!;
   const stopButton = reader.querySelector<HTMLButtonElement>("#stop-audio")!;
+  const continueButton = reader.querySelector<HTMLButtonElement>("#continue-to-end")!;
+  const jumpButton = reader.querySelector<HTMLButtonElement>("#jump-to-playing")!;
+  const progress = reader.querySelector<HTMLElement>("#playback-progress")!;
   const status = reader.querySelector<HTMLElement>("#player-status")!;
   // Follow the displayed order: each unit, English first on the English UI.
   const buttons = [...reader.querySelectorAll<HTMLButtonElement>("[data-audio]")];
@@ -20,19 +23,37 @@ if (reader && reader.querySelector("#audio-player")) {
   let active = false;
   let waiting = false;
   let paused = false;
-  let skipped = "";
-  let startUnit: number | undefined;
   let stream: AudioStream | undefined;
   let interval = 0;
+  let playingToEnd = false;
+  let lastPlayed: HTMLButtonElement | undefined;
+  const updateActions = () => {
+    progress.hidden = !active || !playingToEnd || !lastPlayed;
+    progress.textContent = progress.hidden ? "" : `(${buttons.indexOf(lastPlayed!) + 1}/${buttons.length})`;
+    jumpButton.disabled = !lastPlayed;
+    jumpButton.textContent = t(active && !waiting ? "jumpToPlaying" : "jumpToLastPlayed");
+    continueButton.disabled = !active || waiting || !queue[cursor] || queue.at(-1) === buttons.at(-1);
+  };
   const session = navigator.mediaSession;
   const setPlaybackState = (state: MediaSessionPlaybackState) => {
     if (session) session.playbackState = state;
   };
-  const showCurrent = () => {
-    const from = startUnit === undefined ? "" : `${t("playingFrom", { count: startUnit })} · `;
-    status.textContent = `${from}${queue[cursor].dataset.label} · ${cursor + 1} / ${queue.length}${skipped}`;
+  const toolbar = reader.querySelector<HTMLElement>(".reader-toolbar")!;
+  toolbar.hidden = false;
+  reader.querySelector<HTMLElement>(".article-play-buttons")!.hidden = false;
+  updateActions();
+  const settingsToggle = toolbar.querySelector<HTMLButtonElement>(".audio-settings-toggle")!;
+  const settings = toolbar.querySelector<HTMLElement>("#audio-settings")!;
+  settingsToggle.addEventListener("click", () => {
+    settings.hidden = !settings.hidden;
+    settingsToggle.setAttribute("aria-expanded", String(!settings.hidden));
+  });
+  // Reserve space for the floating controls, including expanded settings and zoom.
+  const updateToolbarSpace = () => {
+    document.documentElement.style.setProperty("--reader-toolbar-height", `${toolbar.getBoundingClientRect().height}px`);
   };
-  reader.querySelector<HTMLElement>(".reader-toolbar")!.hidden = false;
+  new ResizeObserver(updateToolbarSpace).observe(toolbar);
+  updateToolbarSpace();
   reader.querySelectorAll<HTMLButtonElement>(".audio-button, .play-unit, .play-from").forEach(button => button.hidden = false);
   const clearHighlight = () => buttons.forEach(button => {
     button.removeAttribute("aria-current");
@@ -41,6 +62,7 @@ if (reader && reader.querySelector("#audio-player")) {
   const stop = (message?: string) => {
     generation++;
     active = waiting = paused = false;
+    playingToEnd = false;
     clearTimeout(timer);
     stream?.dispose();
     stream = undefined;
@@ -48,21 +70,22 @@ if (reader && reader.querySelector("#audio-player")) {
     audio.removeAttribute("src");
     audio.load();
     queue = [];
-    startUnit = undefined;
     clearHighlight();
     stopButton.disabled = true;
+    updateActions();
     if (session) {
       session.playbackState = "none";
       session.metadata = null;
     }
-    if (message) status.textContent = message;
+    status.textContent = message ?? "";
   };
   const showClip = () => {
     const button = queue[cursor];
+    lastPlayed = button;
+    updateActions();
     clearHighlight();
     button.classList.add("playing");
     button.setAttribute("aria-current", "true");
-    showCurrent();
     if (session && "MediaMetadata" in window) {
       session.metadata = new MediaMetadata({
         title: document.querySelector("h1")?.textContent?.trim() || "language prism",
@@ -84,14 +107,13 @@ if (reader && reader.querySelector("#audio-player")) {
     try { await audio.play(); }
     catch { if (generation === token && active) stop(t("playbackFailed")); }
   };
-  const start = (next: HTMLButtonElement[], expected = next.length, fromUnit?: number) => {
+  const start = (next: HTMLButtonElement[], toEnd = false) => {
     stop();
     if (!next.length) { status.textContent = t("selectedNoAudio"); return; }
-    skipped = expected > next.length ? t("skipped", { count: expected - next.length }) : "";
     queue = next;
-    startUnit = fromUnit;
     cursor = 0;
     active = true;
+    playingToEnd = toEnd;
     interval = Number(gap.value);
     stopButton.disabled = false;
     if (next.length > 1 && interval === 0 && AudioStream.supported()) {
@@ -101,7 +123,6 @@ if (reader && reader.querySelector("#audio-player")) {
         if (generation !== token || !active) return;
         cursor = index;
         showClip();
-        if (paused) status.textContent = t("paused");
       }, () => { if (generation === token && active) stop(t("loadFailed")); });
       audio.defaultPlaybackRate = audio.playbackRate = Number(speed.value);
       setPlaybackState("playing");
@@ -113,31 +134,48 @@ if (reader && reader.querySelector("#audio-player")) {
     void playCurrent();
   };
   buttons.forEach(button => button.addEventListener("click", () => start([button])));
-  playAll.addEventListener("click", () => start(buttons, reader.querySelectorAll("[data-language]").length));
+  playAll.addEventListener("click", () => start(buttons, true));
   reader.querySelectorAll<HTMLButtonElement>(".play-unit").forEach(button => {
     button.addEventListener("click", () => {
       const unit = button.closest(".unit")!;
-      start([...unit.querySelectorAll<HTMLButtonElement>("[data-audio]")], unit.querySelectorAll("[data-language]").length);
+      start([...unit.querySelectorAll<HTMLButtonElement>("[data-audio]")]);
     });
   });
   const units = [...reader.querySelectorAll<HTMLElement>(".unit")];
+  continueButton.addEventListener("click", () => {
+    if (continueButton.disabled) return;
+    const tail = buttons.slice(buttons.indexOf(queue.at(-1)!) + 1);
+    queue.push(...tail);
+    playingToEnd = true;
+    // Extend the existing timeline without changing src, currentTime, or pause state.
+    stream?.append(tail.map(button => button.dataset.audio!));
+    updateActions();
+  });
+  jumpButton.addEventListener("click", () => {
+    if (jumpButton.disabled) return;
+    const target = lastPlayed!.closest<HTMLElement>("[data-language]")!;
+    const rect = target.getBoundingClientRect();
+    const visibleHeight = toolbar.getBoundingClientRect().top;
+    window.scrollTo({
+      top: window.scrollY + rect.top - Math.max(16, (visibleHeight - Math.min(rect.height, visibleHeight)) / 2),
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth",
+    });
+  });
   units.forEach((unit, index) => {
     unit.querySelector<HTMLButtonElement>(".play-from")!.addEventListener("click", () => {
       const remaining = units.slice(index);
       start(
         remaining.flatMap(item => [...item.querySelectorAll<HTMLButtonElement>("[data-audio]")]),
-        remaining.reduce((count, item) => count + item.querySelectorAll("[data-language]").length, 0),
-        index + 1,
+        true,
       );
     });
   });
-  stopButton.addEventListener("click", () => stop(t("stopped")));
+  stopButton.addEventListener("click", () => stop());
   const pause = () => {
     if (!active) return;
     paused = true;
     clearTimeout(timer);
     audio.pause();
-    status.textContent = t("paused");
     setPlaybackState("paused");
   };
   const resume = async () => {
@@ -147,7 +185,6 @@ if (reader && reader.querySelector("#audio-player")) {
     if (waiting) { await playCurrent(); return; }
     const token = generation;
     paused = false;
-    showCurrent();
     try {
       await audio.play();
       if (generation === token && active) setPlaybackState("playing");
@@ -157,7 +194,7 @@ if (reader && reader.querySelector("#audio-player")) {
     for (const [action, handler] of [
       ["play", () => { void resume(); }],
       ["pause", pause],
-      ["stop", () => stop(t("stopped"))],
+      ["stop", () => stop()],
     ] as const) {
       // Some browsers expose Media Session but support only some actions.
       try { session.setActionHandler(action, handler); } catch { /* Optional control. */ }
@@ -167,7 +204,6 @@ if (reader && reader.querySelector("#audio-player")) {
     if (!active) return;
     if (waiting) { void playCurrent(); return; }
     paused = false;
-    showCurrent();
     setPlaybackState("playing");
   });
   audio.addEventListener("pause", () => {
@@ -176,12 +212,12 @@ if (reader && reader.querySelector("#audio-player")) {
   });
   audio.addEventListener("ended", () => {
     if (!active || waiting) return;
-    if (stream) { stop(t("finished") + skipped); return; }
+    if (stream) { stop(); return; }
     cursor++;
-    if (cursor >= queue.length) { stop(t("finished") + skipped); return; }
+    if (cursor >= queue.length) { stop(); return; }
     waiting = true;
+    updateActions();
     clearHighlight();
-    status.textContent = t("waiting");
     const token = generation;
     const delay = interval * 1000;
     // No timer task is necessary when the user selected continuous playback.

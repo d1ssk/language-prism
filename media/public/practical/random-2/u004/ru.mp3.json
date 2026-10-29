@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fd71f63731fbc2382a4a81585bbd8bacec0a619c625ea52e0d8afa911cf3a771",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я одолжил зонт незнакомому человеку, а на следующий день он вернул мне его.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7b094dc32f659b460fbd5ef6579d890fdc532b866a06d54de047584866c2c12e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:25:32.661199+00:00"
+}

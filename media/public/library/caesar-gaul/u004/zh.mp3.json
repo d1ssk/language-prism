@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "671e7017ccf023bc02a646cad543e020f4f7f14b449e94c885b3c211f7612706",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "其中最勇猛的是比利其人，因为他们离行省的文化和文明最远，商人很少来访，带来那些使意志软弱的货物；他们又最靠近住在莱茵河对岸的日耳曼人，并与之不断交战。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57cccbe2e545f0af82fb82bddbfeaac2870809cfe95d0507776158faf49c7724",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:33:22.297572+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "291a0e26703a2e871f9b11a33da409af32986d8f183053da2d734003c1171bb5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wer mit Einsicht handelt, lässt in dieser Welt sowohl gute als auch schlechte Taten hinter sich. Widme dich daher dem Yoga: Yoga ist Geschick im Handeln.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "67f69d42682c9be2cecbdd2bced77d7fe9a052e80a6d4be661ead921a155cb02",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:28:16.553544+00:00"
+}

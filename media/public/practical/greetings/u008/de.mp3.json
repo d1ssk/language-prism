@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ae00e72e6661edf66bebb9b669423b384ba1ca999627f2c88fb693b0e473befb",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Gern geschehen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b847a6813a1892461b9ec9ed52235696a82ef14c1742bb693f4101c07c4301e0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:09:34.068137+00:00"
+}

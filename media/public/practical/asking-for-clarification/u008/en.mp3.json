@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b3b529e23c35a081153d032a6299cbfabc4b8c1db6bbccca5b3aa222d738550c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It means “exit.”",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "64bab945e2fe2b9aa3cfd2be446d4e1f0b8815beb23724339d1e1ba8667b61ab",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:45:45.888653+00:00"
+}

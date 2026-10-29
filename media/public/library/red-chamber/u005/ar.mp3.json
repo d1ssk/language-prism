@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b6c83df404fb4d40bfaefbb7f55cb6ab1a9579268511edda433213c8cbb2a0b4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "ذَاتَ يَوْمٍ، وَهُوَ يَنْدُبُ حَظَّهُ، رَأَى رَاهِبًا بُوذِيًّا وَنَاسِكًا طَاوِيًّا يَقْتَرِبَانِ مِنْ بَعِيدٍ، بِهَيْئَةٍ وَوَقَارٍ غَيْرِ عَادِيَّيْنِ. جَاءَا يَتَحَدَّثَانِ وَيَضْحَكَانِ، وَجَلَسَا عِنْدَ الْحَجَرِ يَتَحَاوَرَانِ بِحَمَاسٍ. تَحَدَّثَا أَوَّلًا عَنْ جِبَالِ السَّحَابِ وَبِحَارِ الضَّبَابِ وَأَسْرَارِ الْخَالِدِينَ، ثُمَّ عَنْ مَجْدِ عَالَمِ الْبَشَرِ وَثَرَائِهِ وَجَاهِهِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bda1d130dc50ffdc3f89a261416f8b847d0a6cf2ab0058cccb71f1faf85b5883",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:19:14.924695+00:00"
+}

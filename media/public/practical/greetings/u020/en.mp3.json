@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "954e732248d5a514787684ac493d7dbb9dd4384ac0ba179c77cf5e905153fb19",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Thank you for the meal.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "249b94a4064019ac82f8d0dc321beefcb21b009dd40b2bb5062f78007b2508e8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:12:10.837095+00:00"
+}

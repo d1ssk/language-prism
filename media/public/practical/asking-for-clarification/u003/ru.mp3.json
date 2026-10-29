@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3e66ade44bae1cee05582ca1c70d5e8af2939f20801bb93ed13a8528d651d201",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В девять или в десять?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a5bd386e728e0fb7914c8875bf0f4c46e8ab77c495954cbb1c345a7076e9d0b0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:43:29.145395+00:00"
+}

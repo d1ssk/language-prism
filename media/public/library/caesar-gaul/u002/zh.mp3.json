@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2019fa84e3214ab52f1e63f14ec9fdc788d934b4ae756e1008212a65d2a495ed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这些民族的语言、习俗和法律各不相同。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7021a536e0de011a17ff227cfaaf127ad7a9e1a1ffadab21eaa2b8a710013f3e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:30:43.905832+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dce149d306f8c3cfa0248b8eaa0493890bde963df7a9978d0d8ae5fabc7060f3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ahora estoy en casa.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7dd8c0e96db1437fe56ca797d0b8ee8d23219e989ecc742ab8f3f5b80c1c4895",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:17:02.836308+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "75b931d43d58bcbbd10f12e7769593af2e6a819a3b521e7d7f12be59d5b464d9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Gern. Ich packe ihn in eine Schachtel.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "168ff9ce180f1e1e4544ad60a235322dbd410a561214294291f11019d951a2f7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:18:35.554721+00:00"
+}

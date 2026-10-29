@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8be291c79f899465f595347d7307e381e26e7c8181be33e6a480d455719de56e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Сегодня этот магазин работает.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4649f86dbdcbc0ca81a316db355a67c35930609fa973772058018e0f67b00f14",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:22:57.829352+00:00"
+}

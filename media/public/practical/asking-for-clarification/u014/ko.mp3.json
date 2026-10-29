@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e4bae2cc08e204dd6c81fbea3a49da86cbf8e93b7f23fa130ce09385b14cc2e4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "예약 번호를 알려 달라고 말씀드렸어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a39745c37f6becc15bb4cc11d1566ddc2020853946dba5807f9daa6f5f57e182",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:45:25.369710+00:00"
+}

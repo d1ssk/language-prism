@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5b979c42e0c056b0eaca56b5dfdc2a345353191b567152bfe7bfaf2df15144f7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "يَنْشَأُ الْمُجْتَمَعُ مِنْ حَاجَاتِنَا، وَالْحُكُومَةُ مِنْ شَرِّنَا؛ فَالْأَوَّلُ يُعَزِّزُ سَعَادَتَنَا إِيجَابِيًّا بِجَمْعِ عَوَاطِفِنَا، وَالثَّانِيَةُ سَلْبِيًّا بِكَفِّ رَذَائِلِنَا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1bd0f1547fab080252333e7982e46f2c7f091bb8154a23aae0138917217b4517",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:01:42.140250+00:00"
+}

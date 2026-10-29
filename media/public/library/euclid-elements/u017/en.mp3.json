@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d2f6657a766c6f3e2ea27812894d94a461c48ca9fb5614caf00c9b7bd6b1a4d0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A diameter of a circle is a straight line through its centre, ending at the circumference on both sides; it also divides the circle in two equal parts.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7d4d02120b74ea6613cb079bcc1f0b27e67437736a7ff705aa7822326970f513",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:23:35.344126+00:00"
+}

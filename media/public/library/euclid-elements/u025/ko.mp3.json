@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "614d4f865c01faa1740da018956ae0672c5a9aadb1b9388b84e0ce5767cf6c96",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "또한 유한한 직선을 곧게 계속 늘일 수 있다는 것.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9a6feb2d01a2fa537d54036bf21c3ba420a0cbad094a8f913cac196b44dc8fbc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:12.546929+00:00"
+}

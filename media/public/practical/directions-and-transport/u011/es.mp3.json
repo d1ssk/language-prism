@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a93dce1e43a6c9fb80a9e75045a5e94a4cdd997cd34ec156b98f3a8b83fdbf7",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Tengo que hacer transbordo?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1d702da6e0501ae55842708f7f9faa073de776cb8b689277357d508b100d40c0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:57:08.720925+00:00"
+}

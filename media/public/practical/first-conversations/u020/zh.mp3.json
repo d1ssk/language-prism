@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "58106c8987b90576af1e1ff7ad1faa99ac3f70003ad451124296b89c5feaeeda",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "不是，我是来度假的。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e53cf70470a306717895d65a3799b12f790a75988338e78f0fd577f9a4d15a8d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:33.389239+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "42e400b908a7affbcea7a87d4df108dd26cf942e3d3f52302daddc1b09c9d106",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Les extrémités d’une ligne sont des points.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c1af3ca4250b43d323fdd26070ad2e827426ac3089a38759b5191932df31c2c4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:04.807022+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "983118347e623c054d21c8b49be904d9ef623fc3ff8f7b81c28d2cc7283d47c4",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Los extremos de una línea son puntos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3040f7bc2ba13c9790ed0dac07c34b74ed269877a3f9f8c86aeaf477955dba47",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:15:02.155518+00:00"
+}

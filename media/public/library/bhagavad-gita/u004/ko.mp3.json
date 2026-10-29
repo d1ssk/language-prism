@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c8204fde2ee0ebb71c08e87fd0f729ebc46309f9fb96e96870a61f1817c7016e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "분별을 갖춘 이는 이 세상에서 선행과 악행 모두를 벗어난다. 그러므로 요가에 힘써라. 요가는 행위에서의 능숙함이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6a926ee932dd3861b7ad22a536b71d55bf61ef245873f9c2c4bfe9707ad52bb5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:28:47.278170+00:00"
+}

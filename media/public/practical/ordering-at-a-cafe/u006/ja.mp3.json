@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6d969dff243ccd8a87ac8cd6e1f3b16070915822d1a11ba1377a994ad3d1792e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "はい、できます。ついかりょうきんがかかります。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41a326ae72b13af64e66ccb2f34cd4ae59032206643ad2b70b88bff80d5ff3d0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:16:27.185044+00:00"
+}

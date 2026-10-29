@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d477f2a736087e5f47a655a73b48c8d57bf6d443e5b172b23b001510ba18e9b8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وَأَنْ تَكُونَ جَمِيعُ الزَّوَايَا الْقَائِمَةِ مُتَسَاوِيَةً.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "69b183cdf1dc634f171a396f5ed0dca6836d38cbf06cb9c50cb76e0d627823f9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:34:01.750940+00:00"
+}

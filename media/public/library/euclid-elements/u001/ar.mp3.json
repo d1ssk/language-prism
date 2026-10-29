@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9fe836b1e99d3b4fdaa923df500e669b3b1610bdba209674949f1e7e152fa54f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "النُّقْطَةُ مَا لَا جُزْءَ لَهُ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "083a5f84ae556db46120e808335170a41ba70928d3a86c60f1b76e0c6c816a75",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:14:30.764247+00:00"
+}

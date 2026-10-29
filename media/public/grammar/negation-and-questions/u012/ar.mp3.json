@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8b6d088faf8a4df8de74691a27034ce74be2ccd7016266b0e973eaa362e9bc88",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "يفتح في الساعة التاسعة صباحا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "907371a297718958532884ca1dc255e59daba0df8191d694a427506f0308bf0e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:24:16.365040+00:00"
+}

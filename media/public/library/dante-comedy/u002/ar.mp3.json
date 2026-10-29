@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9679efbc33a845a51f3a121d560afd3b970bb43d1967b0bea52c373f9ec0b0d5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "آهِ، مَا أَصْعَبَ وَصْفَ تِلْكَ الْغَابَةِ، الْمُتَوَحِّشَةِ الْوَعْرَةِ الْمُخِيفَةِ، الَّتِي يُجَدِّدُ تَذَكُّرُهَا خَوْفِي!",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "500198a92237999a976f859041872c1f4b34c7d5d837d1f26013500e9d5fb20a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:56:33.289362+00:00"
+}

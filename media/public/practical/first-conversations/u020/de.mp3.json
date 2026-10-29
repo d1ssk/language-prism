@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c85cb0070321550ad140de51defeaad157cf035d37ef0b71853d3e12c8ce8265",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nein, ich bin im Urlaub hier.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "324f2739df0850eebfb14ad51d10727a2a524ca5c4e85876f944228089aa0dc4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:04:27.423457+00:00"
+}

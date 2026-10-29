@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7fa657bb145fe9c399a1039317af7c367948306268f19dc1e03529c82192eb64",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Это место свободно?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5d0b321fe59645e939e12c6e873eecdf602280c12b73523fbd3dc9651a615d5f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:05:43.961883+00:00"
+}

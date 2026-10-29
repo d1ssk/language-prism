@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d117d857c986299f6b8cc3f2c7b3ca7adc981c7a4b0416de9e14657d19495559",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "miré hacia arriba y vi sus hombros ya vestidos con los rayos del astro que guía rectamente a los hombres por todos los caminos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "235e77b39561a1963876b370ca7f16e7dba2b48197126b069575ac586ab7b176",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:59:34.820182+00:00"
+}

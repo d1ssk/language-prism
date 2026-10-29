@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2d89b41940684d16616a7b37e26c2e2f712b10110c16e0eb2b82c261603e80e8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "そのひとつ、がりじんがすむとのべたちいきは、ろだぬすがわからはじまり、がるむながわ、たいよう、べるがえじんのりょうどにかこまれ、せくあにじんとへるうぇてぃじんのがわではらいんがわにもたっし、きたへむかっている。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "83079d51649cf2dcb23944d52e1fb1a96cc9bd0f72c5e6439ab578a0a6afc49a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:35:20.742311+00:00"
+}

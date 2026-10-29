@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "64a4ccd2ff37c3fc33059b107bede2c4019ac7185950ca09ba3ea5dc31349a23",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "因此，既然安全是政府真正的意图和目的，就必然得出这样的结论：凡是最可能以最低费用、最大利益保障安全的政体，都优于其他一切政体。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3f1bc6316818a7e1a516d6c503a4dcfe949a596e5688a4c96896c5e1f26d6254",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:10:44.382041+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f1f612942dd5febb1787cc79ccfcec2c15eb3668ba1496a868d2720e6b591a9f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "서로 포개어 일치하는 것들은 같다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c86cf3ae67faa2a92f88122ef4a42fcefa29c1ff60b83c372f3fd8a4129ff279",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:37:52.159682+00:00"
+}

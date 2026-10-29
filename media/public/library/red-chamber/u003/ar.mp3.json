@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6e7a3ea9d9f34acd15e2cca67202cfefaf43781fb1e6f0c20049ae0614a26675",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "اسْتَخْدَمَتْ نُوَا سِتَّةً وَثَلَاثِينَ أَلْفًا وَخَمْسَمِائَةٍ فَقَطْ، وَبَقِيَ حَجَرٌ وَاحِدٌ لَمْ يُسْتَخْدَمْ، فَأَلْقَتْهُ عِنْدَ سَفْحِ قِمَّةِ الْحَيْدِ الْأَخْضَرِ فِي ذَلِكَ الْجَبَلِ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6ca4bd041fca29363979239c3bbe64e7d48472df8b0f97cc3190cfc67ec79778",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:15:05.545501+00:00"
+}

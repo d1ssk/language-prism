@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "89d6a2bd726b86fb4fcc4a0e02fd4c4921f7dac1487568f969c05bddc47aa5fe",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "정전이 된 뒤, 우리는 누군가 촛불을 찾을 때까지 어둠 속에서 계속 이야기를 나눴어요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a3324ed59b620ef0f7f21942c700c3d909852fb650bd0c81c844a3e0271ffe62",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:28:23.019204+00:00"
+}

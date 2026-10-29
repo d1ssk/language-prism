@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6609963888df20116d5937118b9c081ef691c9a95aa882318bc9c532bdb3c406",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "平面是相对于其上的直线均匀铺展的面。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "578dfc71ffa5d6c8906b6a7f2b3c00e5a664f3e5f19728dbf631d5d26925f4cd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:17:01.855956+00:00"
+}

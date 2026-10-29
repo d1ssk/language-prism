@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2764b22eed47947361eb67733f48e51c13027ebe42a5743a14c23386be733a7a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如果良心的指引清晰、一贯，而且人们无法抗拒地遵从它，人类就不需要其他立法者。但事实并非如此，所以人们发现，为了提供保护其余财产的手段，必须交出一部分财产。促使他这样做的，正是在其他一切情况下劝他两害相权取其轻的审慎。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "135d0b178fdf322fc6ad9ef9db948b6ee374a4b1488d3f662dfe5c2783bfd11c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:08:53.563163+00:00"
+}

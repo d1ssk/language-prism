@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "38febb52e4be4527c3b7265ed47b01542049d6ab81b77f763b63eb79564597fc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "so my mind, still fleeing, turned back to look again at the passage that had never yet let anyone pass alive.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "015e6a0758fdc2685eb4fc639de39710b3d7baca5dc45bc6220f5867a8aa1556",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:02:09.671091+00:00"
+}

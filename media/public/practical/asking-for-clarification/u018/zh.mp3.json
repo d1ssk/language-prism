@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "71ca1cfecdbc382ab7f833f9d71cd4356196618aa4357cc98d5bea0d93920ec8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "对，从星期一开始。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d80ee173350bfcaa8b078de05959da6cfde88eed548d11586f278f0ae2a127e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:48:52.528398+00:00"
+}

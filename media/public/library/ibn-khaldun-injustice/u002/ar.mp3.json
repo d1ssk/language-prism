@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "97c35191b375208dc578b41040995790ec54068812f5d801f692a085979c028e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "وإذا ذهبت آمالهم في اكتسابها وتحصيلها انقبضت أيديهم عن السّعي في ذلك",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f2932d004fa0d5fc4c462611f5df114b9f85b0db34f6d522cf39d6b68f906788",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:39:55.977090+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f81460750cc848109a1e2c5f05322f92fcb9674d9c7badeacc686037b18cb656",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Бессмертные поняли, что принудить его нельзя, и вздохнули: «Таков и этот закон судьбы: крайний покой ищет движения, из небытия рождается бытие. Раз так, возьмём тебя насладиться миром. Только не жалей, когда всё пойдёт не по твоему желанию».",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "460f86b1bfece4b5d6a82339ac755874b09b3b619e28107d097e13bea262cd6a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:30:55.013027+00:00"
+}

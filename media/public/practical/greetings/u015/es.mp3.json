@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "304f51e3176731641ca9e421782f87f95feb621d4cdeab3e565295eb79e6851c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cuánto tiempo sin vernos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d871489617a1eb7fcc8cdabb50cdca8ef9c8559f88f90705788490f3e9a6e86b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:11:07.540424+00:00"
+}

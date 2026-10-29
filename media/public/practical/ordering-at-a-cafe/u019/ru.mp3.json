@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3327d5bb27e4580d4766f5ff750d16d35c263ed51c42d6602f6df34b08b27d2c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Это блюдо острое?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d6ef9d1fc0c3484a61ee3c146330321edf4517fc4f441378ef9f202f1e00c5a8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:15:09.336607+00:00"
+}

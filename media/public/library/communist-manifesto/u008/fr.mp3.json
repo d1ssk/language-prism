@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "78371e2c743355c34cbf147576b0d755816c183121b376db3911d806a24b6224",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hommes libres et esclaves, patriciens et plébéiens, seigneurs et serfs, maîtres de corporation et compagnons, bref, oppresseurs et opprimés, se sont opposés sans cesse et ont mené une lutte ininterrompue, tantôt cachée, tantôt ouverte, qui finissait chaque fois par une transformation révolutionnaire de toute la société ou par la ruine commune des classes en lutte.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d7f95b54204dc87e3f17dff9b270a971bde59ee6f1f896ffc145fc8feaea4774",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:47:29.381462+00:00"
+}

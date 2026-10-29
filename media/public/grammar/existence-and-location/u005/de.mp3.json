@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ff8b5cf8dfe4246110f68f830abf7a03f2d4f7f31d1de3da3fa5ab977384a522",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Die Katze ist unter dem Stuhl.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "245769e29149af9f12577e618991825d45a60ea44300536bf31a964fc8174b0f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:15:09.157039+00:00"
+}

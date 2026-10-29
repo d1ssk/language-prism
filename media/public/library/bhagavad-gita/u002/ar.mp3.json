@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7ae8100ddc46a7f550b7f4d5cd47913e76124bd9dbb390007b2f7335d89842ee",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "اعْمَلْ وَأَنْتَ ثَابِتٌ فِي الْيُوغَا، يَا دَانَانْجَايَا، تَارِكًا التَّعَلُّقَ وَمُتَّزِنًا فِي النَّجَاحِ وَالْفَشَلِ. فَهَذَا الِاتِّزَانُ يُسَمَّى الْيُوغَا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b20175a2b96ac19b5fb59cf19bd4610c046a40313855b7c367cb973926642643",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:26:17.668434+00:00"
+}

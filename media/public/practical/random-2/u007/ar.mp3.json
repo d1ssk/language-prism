@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bf2a4641d9782d6886342f53f782d3dd852e7d39c112da5c153f033257d5d82e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كَتَبْتُ الْعُنْوَانَ عَلَى وَرَقَةٍ احْتِيَاطًا لِئَلَّا تَنْفَدَ بَطَّارِيَّةُ هَاتِفِي.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fbd62ce2100f9abc02abee1917e3d4ea0bf4b56f89c3522128ab68117cbeafd7",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:27:30.662759+00:00"
+}

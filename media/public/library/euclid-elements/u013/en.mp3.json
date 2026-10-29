@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a8b4e1feb368ea42c04902bfa6a3548a6509feca7be69bdd2792cbeb2a0874c6",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "A boundary is the end of something.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f872ca7e0095197c4655c6d941de41d1f845276478d7e9f56e23d999d8a3e212",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:50.359449+00:00"
+}

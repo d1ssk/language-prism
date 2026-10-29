@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f815e6b2bc91c12f78205694363734bc41a3c330a24e6ca180d171e5fee187c2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "[One of these parts, said to be occupied by the Gauls, begins at the Rhodanus and is bounded by the Garumna, the ocean and the territory of the Belgae; on the side of the Sequani and Helvetii it also reaches the Rhine, and it faces north.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "045e6fbdfcb409e27f99e2c89de925af414556ac68d71dbeb3070f6fd1fa481b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:35:32.021195+00:00"
+}

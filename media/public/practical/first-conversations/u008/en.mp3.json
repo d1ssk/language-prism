@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5ceec812c65d06e622bfb7b1c47b1834c8f83d0d52cbdd379cc580b9cffafeaa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "How long have you been learning it?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dd0d1be19ae66175d899a0606d8da0d07ea8789945d58a62ee7df2991a5ae473",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:03:29.511759+00:00"
+}

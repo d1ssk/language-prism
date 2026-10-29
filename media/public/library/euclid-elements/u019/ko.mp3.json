@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7f36b01d056a4286da1f22fcbcdd9900b2f3aca246561f760bb3ec68ea2b7711",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "직선도형은 직선으로 둘러싸인다. 세 직선으로 둘러싸이면 삼변형, 네 개이면 사변형, 네 개보다 많으면 다변형이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f4c073627830cdd5b8946a6513f9b59bbd1fc8b7ea688bf1a0d05e1416907cd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:26:29.851425+00:00"
+}

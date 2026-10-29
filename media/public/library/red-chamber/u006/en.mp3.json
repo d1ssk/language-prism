@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f214a34367d46ba268b3c8681b63975c91b4679d581485a25ca796d743845d90",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hearing this stirred worldly desire in the stone: it too wanted to enjoy human glory and wealth. Lamenting its coarse, clumsy form, it could only speak in a human voice to the monk and Daoist: “Masters, your disciple is a dull creature, unable even to offer a proper greeting. Hearing you speak of worldly splendour, I long for it deeply.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f90dd8d8e70c663fc4b58a657ebba55b6445cc9c25a57047a2315582ac88c436",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:20:21.781435+00:00"
+}

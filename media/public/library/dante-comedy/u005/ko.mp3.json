@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b711d74ceacdc7a292591ef11aa8f8604198f1976899464092ff9ae7ef9163b3",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "그러나 마침내 언덕 기슭에 이르렀다. 두려움으로 내 심장을 꿰찔렀던 골짜기가 끝나는 곳이었다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e396be7e49c360104874204cc0353c5d00f4787a61d1afbb5d6ff512215aeca2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:59:18.308999+00:00"
+}

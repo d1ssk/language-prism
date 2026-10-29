@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "781f4a4e46d99e841d51485e950077c33150403d700943a271a5b25f0f1f2857",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "الزَّاوِيَةُ الْمُنْفَرِجَةُ أَكْبَرُ مِنْ زَاوِيَةٍ قَائِمَةٍ.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "07d3e22c09a5970dacb2b267b620a282d88c4495b8823f93a4a2e6c89e50e14d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:20:17.728989+00:00"
+}

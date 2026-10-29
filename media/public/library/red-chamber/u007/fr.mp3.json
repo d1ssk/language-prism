@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2c9bdfb8bce97954cbedd13c649b18da47a79b2d6fda5edbd166e0a21018430a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Bien que ma substance soit grossière et obtuse, mon esprit comprend quelque peu. Votre allure d’immortels montre que vous n’êtes pas ordinaires : vous avez sûrement le talent de réparer le ciel et sauver le monde, et la vertu de faire du bien aux êtres et secourir les humains.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "89d36f7c03c88e632d3c1381ca1ad1ae882aadad0791d4da4729ee59755d4a8e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:23:18.374606+00:00"
+}

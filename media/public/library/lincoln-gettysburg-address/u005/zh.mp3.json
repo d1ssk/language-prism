@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d4e2a5b097d87e4f8461489022c1f777567562533ea4d541f42597e066cf9108",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我们这样做，是完全合宜而恰当的。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "f08cc9e9fdc7dd2d8cf296f5203912ed1e527bff05d2a015e267d8bc31b639d2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:51:42.690267+00:00"
+}

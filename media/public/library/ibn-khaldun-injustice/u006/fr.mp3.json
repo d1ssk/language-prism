@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5063a28067fb8e7d638025bb4587650c070559ffbcd406216b694345803760b9",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La vie sociale, sa prospérité et l’activité de ses marchés reposent sur le travail et sur les efforts des gens qui vont et viennent à la recherche de leurs intérêts et de leurs gains.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6c6eed51f788d39809b4e4930be06a63ce1b8dc884baaabd4de0ade20c969c80",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:43:16.790877+00:00"
+}

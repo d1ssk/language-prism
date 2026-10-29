@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "117e95ebab96c8ad2659158df5de453f91c4b2d60df773d5360fb9a4494afc29",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Завтра встречаемся в девять.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "54e83632d6a221ba78bc3c177db1f26965afbaf567512260242c29853bbd293f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:43:11.066848+00:00"
+}

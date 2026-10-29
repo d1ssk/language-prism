@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2e17c72c8bfb26635fb696d806728a5df2bc67a747e9c09b4c409a53c8b431b1",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Вся Галлия разделена на три части: одну населяют белги, другую аквитаны, третью — те, кто на собственном языке зовутся кельтами, а на нашем — галлами.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "7036b02a62d3b89987aa0800ad4092cdbbbd6668e93a732bcf36c47e0839d6a0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:29:43.771770+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a4b89b8f3abd5c28308926c0143be4c700a6fd0f0b9a231919e22a0a361f7bde",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "لا أحد في الغرفة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "10a3c0ce38e19ef3b3a0c88d3b581a683ba2add0e0ade923e6effc273ed5dbe1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:53.618979+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ca5f9f1e04b29d9f657b132d7ea0102b4fadd3bfb0dbde030225a2db755a89c2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Das Museum war kurz davor zu schließen, also sah ich mir das Gemälde vor dem Gehen noch einmal an.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "47b2a104669f144ac5749dca9eb15a0948aeda77f2572394ee0c93e1337db790",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:24:47.564744+00:00"
+}

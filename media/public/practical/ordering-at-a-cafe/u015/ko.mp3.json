@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cf369a8b7825223bb1c298f624402d0a4ec98c06fb0f97772e5055b0e2dab523",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "두 명인데 자리가 있나요?",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "42a3b6e32e27123d6c18bff4addc9665000776e7dcc9faaa4093ffb05ec66efd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:14:04.388009+00:00"
+}

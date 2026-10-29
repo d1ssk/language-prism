@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8c7829d0f29c3e25948330c19100f63ffd44de8fa94ed365536cdd1ae5536a38",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Da Sicherheit also der wahre Zweck und das Ziel der Regierung ist, folgt unwiderlegbar, dass jene Regierungsform allen anderen vorzuziehen ist, die sie mit dem geringsten Aufwand und größten Nutzen am ehesten gewährleistet.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "80d8c5517e9b8675cbead474b267b449dd7ec192fab865e1dc9b66ea9cee3dd9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:10:07.816151+00:00"
+}

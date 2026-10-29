@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1d25faf6d24f2281aff667b47caed62e995b5f78d7758dc917e65b438ef2a1b8",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هل هذا المتجر مفتوح اليوم؟",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5df44a7a33522526989acecfad50542efdb6db596fbf87cc0b65b8f90221e16b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:23:37.775327+00:00"
+}

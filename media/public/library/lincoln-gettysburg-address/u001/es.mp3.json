@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c41d560b0886d1fa7648935c88f398e5301b894ea9d134cd876f8f99ad912301",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Hace ochenta y siete años, nuestros padres fundaron en este continente una nueva nación, concebida en la libertad y consagrada a la proposición de que todos los seres humanos son creados iguales.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e80adfe36313e96cb615d17569b64b5cd2d2f2114248188a9c6fd9a4d01768df",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:47:43.985102+00:00"
+}

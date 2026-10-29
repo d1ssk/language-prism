@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "07fb4f6db72b48bf8667f903fce4ad8e1315e18c953c607547a9f457011dde48",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "So bitter is it that death is scarcely more so; but to tell of the good I found there, I shall speak of the other things I saw.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "79d1e88eee7047c4622e10baaae40b3c0404850d7ff2080a31bf0991b8125b0b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:56:57.287273+00:00"
+}

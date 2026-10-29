@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bd0ef1b1df9e1ed020b87b2e3f7225dc53608f465023ad0588d5f10629961022",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Quand l'avez-vous vu ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f377267e59e975ae8ec31f784c581e3dec6ba3a2552152f1a9b9205dd6d654b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:20:24.279274+00:00"
+}

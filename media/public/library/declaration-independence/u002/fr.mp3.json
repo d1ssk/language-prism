@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "e76b34e9f7cae407ac6d5ac47c5c6dbd54263e92355f17ca632a186b41a27504",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Nous tenons pour évidentes ces vérités : tous les êtres humains sont créés égaux ; leur Créateur les a dotés de certains droits inaliénables, parmi lesquels la vie, la liberté et la recherche du bonheur.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "94f19fdd825665de76f5bdeb3733c282b76767be50408713309ed2c6ce2bb23b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:06:16.686443+00:00"
+}

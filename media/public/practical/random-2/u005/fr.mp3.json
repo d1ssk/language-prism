@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d9da2496650b46f255864b8824eb867f65045c1bbf24750f76a9b9d70da25fed",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La soupe était trop chaude pour la manger, alors j’ai attendu qu’elle refroidisse.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "1b261c628f4948d422199abb8ab7906eaa7ea9e9c3d35118e560285ac63147c0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-29T00:26:01.125076+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8f8052572999ad2d5bed7ff5cceb6c8f90018f9697e755fe25f34fb894dd84ce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Берегите себя.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "4b7411ab6c4d50dc60c5486e9c68e2b2a240cc9541011e912672fa2aa0fc46e3",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:10:57.449216+00:00"
+}

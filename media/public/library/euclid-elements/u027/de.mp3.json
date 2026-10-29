@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c7f20ffa1eac379cc06cd959161bb222d9ba72673b94fad930bd6cb19a53c231",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Und dass alle rechten Winkel einander gleich sind.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "41b768b069ffe002de76b2f56a0b92b139c688cf3576b4a7d0ccc60204e393f2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:33:54.631390+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "46aa70fd091506a821044ccdd72c454c50cd4d2e19dd0e85fc515b88740ae94d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Por esta calle se llega al museo de arte?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50ffa20aafcbd2ef9904760aa396d82bed0d3d65a2e29230ab46295e7103c98e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:52:23.934548+00:00"
+}

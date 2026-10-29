@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fe54b04b26e3930aeb54403b12fe0ff1b4d8a58f5d5933cc678dea44f44d6a12",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我在一所大学教日语。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "57075364364343555c33b2539b644bc5840db2674f455e37ff3a16c94728e3bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:02:58.890630+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8acbeb23a1ce65196aa5e2b561a5fde64ee8709d6a70b2306bc4f494aaa4dde5",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "はい、きょうでなくてもだいじょうぶです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0f133bdabb1b5962454a33f9f15bbff15ce028067570c4d836c6a6faf365e73d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:47:44.079179+00:00"
+}

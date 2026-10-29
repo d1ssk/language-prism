@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9038892acaf4eb19ee4d1e11d7e9d73e1be5c8a6b2237dad6d3cec2c17d1fa04",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "石頭聽了，喜不能禁，乃問：「不知弟子那幾件奇處，又不知携了弟子到何處？望乞明示，使弟子不惑。」",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b2c9211455fbabf31002c8b35a49f316bdac617694d5663122471ae6a64a78bf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:40:40.223500+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ce3a0b9393b38b03f031beff8a31d400b0ae5e1801dfd3cbda21874d56fb133a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe den letzten Teil nicht verstanden.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cea1bd910a40a59c4dacd6c87ff797301b9be53bb998ee365d8d28d81b9de364",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:44:49.505492+00:00"
+}

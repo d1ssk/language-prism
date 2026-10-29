@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4887e5d58eba529e4f0f51728f3e649630a3cb1090a6a7933b301e36174a42ef",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I live in Tokyo now.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "377baf4b98800c3cba776883c164cc1e81bc245c2a818c669ab9c8dc0019d886",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:01:34.238251+00:00"
+}

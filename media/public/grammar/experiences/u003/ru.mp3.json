@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "93f57450e88139782df88aed38c87a15b5412cbcc7cc88946053bb1974a60025",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Вы когда-нибудь бывали в Японии?",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "637cf75e7f36037aa0c9973152dd518d2ebc7faead3ecfeaebcbfc094ecf5f0d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:03.898728+00:00"
+}

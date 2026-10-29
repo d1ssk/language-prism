@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f7dc4daedf6f50ee257e234265ce799deb2a8dc6e51ae09259b35d13f4bdeb87",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "La Galia en su conjunto está dividida en tres partes: una la habitan los belgas, otra los aquitanos y la tercera quienes en su propia lengua se llaman celtas y en la nuestra galos.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "47cdf4d4a01a15819ea67d2ae7021beedac57344171ff1767a113146ea38e81b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:29:18.254209+00:00"
+}

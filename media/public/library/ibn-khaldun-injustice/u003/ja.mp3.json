@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "9ce12d2495cd94d7bb50c89d2fcc0d4f963e87a6089dfebb372be7783c87184e",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "しんみんがかせごうとするどりょくをひかえるていどは、しんがいのおおきさとわりあいにおうじる。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "20ada4dc551476c9ed011634581123195a768e7496fdb229e276cefeab4cd1c4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:40:10.631977+00:00"
+}

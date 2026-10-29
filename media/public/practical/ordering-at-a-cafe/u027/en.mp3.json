@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5760cecf3b5c1cfef719f6d652ac16dd60e38a4c8a9b6b7ecd340d05f30cdb93",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Could I have a receipt, please?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "bb585fc2c7c77bc964400eb4d495005d72bda94c2b50d60e3ac709312b891a71",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:21:05.977152+00:00"
+}

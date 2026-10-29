@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c859ac5a1f2d88dde6d0f3e98c6757bdd9dd3a9d67b93b9a64f860a1b4934d10",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "请问，去车站怎么走？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "42292a1a312d7553c8d18ef62ae9560ea7f4f43747cfef36c362120c61b3d69c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:50:55.012345+00:00"
+}

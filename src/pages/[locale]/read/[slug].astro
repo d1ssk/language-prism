@@ -28,13 +28,14 @@ const pageTitle = bibliography ? `${bibliography.originalTitle} — ${bibliograp
   </header>
   <div class="reader" id="reader">
     {audioCount === 0 && <p class="notice">{t('noAudio')}</p>}
+    {audioCount > 0 && <div class="play-buttons article-play-buttons" hidden><button id="play-all" disabled={audioCount === 0}>{t('playAll')} <small class="audio-count">{t('audioCount', { count: audioCount })}</small></button><button id="stop-audio" disabled>{t('stop')}</button></div>}
     {audioCount > 0 && <section class="reader-toolbar" aria-label={t('readerSettings')} hidden>
-      <div class="play-buttons"><button id="play-all" disabled={audioCount === 0}>{t('playAll')}</button><button id="stop-audio" disabled>{t('stop')}</button></div>
-      <details class="audio-settings"><summary>{t('audioSettings')}</summary><div class="player-controls">
+      <div class="playback-actions"><button id="continue-to-end" disabled>{t('continueToEnd')} <small id="playback-progress" class="audio-count" hidden></small></button><button id="jump-to-playing" disabled>{t('jumpToPlaying')}</button></div>
+      <button class="audio-settings-toggle" type="button" aria-expanded="false" aria-controls="audio-settings"><svg class="disclosure-icon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>{t('audioSettings')}</button><div class="audio-settings" id="audio-settings" hidden><div class="player-controls">
         <label>{t('speed')}<select id="speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
         <label>{t('gap')}<select id="gap"><option value="0" selected>{t('noGap')}</option>{[0.5, 1, 2, 3].map(value => <option value={value}>{t('seconds', { count: value })}</option>)}</select></label>
-      </div><p>{t('backgroundHint')}</p></details>
-      <div class="playback-status"><p id="player-status" role="status" aria-live="polite">{audioCount === 0 ? t('noAudio') : t('audioCount', { count: audioCount })}</p><audio id="audio-player" controls preload="none" aria-label={t('player')}></audio></div>
+      </div><p>{t('backgroundHint')}</p></div>
+      <div class="playback-status"><p id="player-status" role="status" aria-live="polite"></p><audio id="audio-player" controls preload="none" aria-label={t('player')}></audio></div>
     </section>}
     {audioCount > 0 && <noscript><p class="notice">{t('noScript')}</p></noscript>}
     <div class="units">{work.units.map((unit, index) => <article class="unit" id={unit.id}>

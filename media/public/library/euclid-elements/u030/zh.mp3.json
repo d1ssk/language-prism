@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3997a05a4fd125086576a19cc6f6fe7eec37a7d3a05095a687d9870e1de7b34b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "相等的事物加上相等的事物，所得整体也相等。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "12ce8c1ebd6e718e781237dd65d28a8c527f6a2152c4ffc32b57735d16a1aee6",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:36:54.166818+00:00"
+}

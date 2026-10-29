@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "4d27596b46826b0c02d881780efbf89189eba1daf52a330a8d049e77aa1286b2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "C'est la première fois que je viens au Japon.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3051bb6af5269bfbdfbe0c0de7b96329d1d5c9333aff1afcc597a820498c9b9f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:18:56.045725+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d53f3b5a01d6a2aa760f32abf5e445fefa7277c161d5a221052dc79cd7acf484",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Le mostraré cómo se hace.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2c6d95399ce5100efba3dddc13299aca4bd520459beeb2624e0650d4dc03078c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:49:37.873269+00:00"
+}

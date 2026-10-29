@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cbc9fb005873368fd6b04811d15a3fb58645ff35ce1f0abc719c3c952176da92",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Estimados lectores, ¿de dónde creen que viene este libro? Sus orígenes pueden parecer absurdos, pero examinados con cuidado tienen profundo interés. Permítanme explicar su historia para que quienes la oigan comprendan sin dudas.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5bd89968106f8e511e41e7c577a55fb8bcb48740b7464b655be8bbb490354013",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:11:28.201901+00:00"
+}

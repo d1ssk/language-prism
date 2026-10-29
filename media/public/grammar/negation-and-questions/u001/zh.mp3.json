@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "10297f40c77cbf22dab30eac7b702eec072ac3f87fd3b4fa6a44719b9cb7c232",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我每天早上都喝咖啡。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a9e2d127a0c8deff5117075d35c7c427c2c339ebfcf96ce3a4416a87178971f9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:21:12.193875+00:00"
+}

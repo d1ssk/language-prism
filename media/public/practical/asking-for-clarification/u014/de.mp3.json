@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1ff91567b89a46060490637938405be3fd3e2e13a22c9d9b71bc177952ae9cad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ich habe gesagt: „Könnten Sie mir Ihre Buchungsnummer nennen?“",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "88fc2bd539ce9bf894b030bac8fd8023f9f0f89d7b501992eaad531efeefaf02",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:45:13.731496+00:00"
+}

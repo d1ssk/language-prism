@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "39686a7feae4bfb462d6ca9a0315b56a37925f25178c7b72b305a9e4eea746a2",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "우리 인생길의 중간에서 나는 어두운 숲속에 있는 자신을 발견했다. 곧은 길을 잃어버렸기 때문이다.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e062e591572e3abf4e77a462c5adc377ea30b48fc4d4f8c4adc83d1f5ed53479",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:55:51.094333+00:00"
+}

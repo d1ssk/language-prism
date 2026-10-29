@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7fac635cc4c68dee62d3aea124c1ef06a19bc643b7c353350c48ba0acd4a682c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Wären die Regungen des Gewissens klar, einheitlich und unwiderstehlich befolgt, bräuchte der Mensch keinen anderen Gesetzgeber. Da dies aber nicht so ist, hält er es für nötig, einen Teil seines Eigentums abzugeben, um den Rest zu schützen. Dazu bewegt ihn dieselbe Klugheit, die auch sonst rät, von zwei Übeln das kleinere zu wählen.",
+  "language": "de",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "c7321742376cb6320cc014469bc751c00d6d8e0958e66c0f5a0499e1aaac49b5",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T16:07:59.420692+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8b28457133ea7803a12950d7a0e6df29b33b477ac159c37eb3d294974a07b65b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "يَتَمَيَّزُ عَصْرُنَا، عَصْرُ الْبُرْجُوَازِيَّةِ، بِأَنَّهُ بَسَّطَ التَّنَاقُضَاتِ الطَّبَقِيَّةَ. وَيَنْقَسِمُ الْمُجْتَمَعُ كُلُّهُ أَكْثَرَ فَأَكْثَرَ إِلَى مُعَسْكَرَيْنِ كَبِيرَيْنِ مُتَعَادِيَيْنِ، إِلَى طَبَقَتَيْنِ كَبِيرَتَيْنِ تَتَوَاجَهَانِ مُبَاشَرَةً: الْبُرْجُوَازِيَّةِ وَالْبُرُولِيتَارِيَا.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a8a5bc3466e7d12a8584a3387a8da87a253f0dd964934cf3f7832d0ddb044238",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:54:43.025881+00:00"
+}

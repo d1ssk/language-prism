@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "dfd8f882003ef04ab8d37582f36ccb5f8cb29faa3be3c9afe4e1bfe1f4735836",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Our age, the age of the bourgeoisie, is distinguished by having simplified class antagonisms. Society as a whole divides increasingly into two great hostile camps, two great classes confronting one another directly: bourgeoisie and proletariat.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8b4a038c423979ad8248b3037350b6573477ffa98a4f53e4c048a755d86f5eef",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:53:30.007543+00:00"
+}

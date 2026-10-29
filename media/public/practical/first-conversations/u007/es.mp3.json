@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cd462a463638de5a5a818860ce1a74d7987105bc58f6ea28cdf49d92d275b95f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Ah, qué bien. Yo estoy estudiando japonés.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "50e2b7a57b964a72c7bff1ae0d59d384339a8547bee4300aa5d913346a2d2d93",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T17:03:09.812006+00:00"
+}

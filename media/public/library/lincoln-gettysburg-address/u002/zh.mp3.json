@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a32556a419fd3723fd245304528bbc8cef070a3773a8ef57275c9d6764c4bb52",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "如今，我们正经历一场伟大的内战，考验着这个国家，或者任何同样诞生、同样献身于这一原则的国家，能否长久存在。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "dc30e9f86d13a4ba5412b7c055459d6f6c95dcace6ab8d468b65b6e7757c0ad4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T15:49:42.674852+00:00"
+}

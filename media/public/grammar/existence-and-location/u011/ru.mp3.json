@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "74e208c248e91906aa65dc780ca47518cc0ab9087184f31f8106b2d4bd6d7f34",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "В комнате никого нет.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9d5874f64f025288a9cc67d93d1d1008583a422f361de61e84dca84eb101f699",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-10-28T14:16:52.048547+00:00"
+}
