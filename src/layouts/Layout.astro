@@ -15,6 +15,28 @@ const { title, locale, pagePath = '', description = translate(locale, 'descripti
     {mode === 'local' && <meta name="robots" content="noindex, nofollow" />}
     {UI_LOCALES.map(lang => <link rel="alternate" hreflang={lang} href={withBase(`${lang}/${pagePath}`)} />)}
     <title>{title ? `${title} — language prism` : 'language prism'}</title>
+    {mode === 'public' && (
+      <script is:inline>
+        (() => {
+          if (
+            window.location.hostname !== 'd1ssk.github.io' ||
+            window.self !== window.top
+          ) return;
+          if (window.__pagesAnalyticsInitialized) return;
+          window.__pagesAnalyticsInitialized = true;
+          window.dataLayer = window.dataLayer || [];
+          window.gtag = function () {
+            window.dataLayer.push(arguments);
+          };
+          window.gtag('js', new Date());
+          window.gtag('config', 'G-P4BVZ9ZZ0E');
+          const script = document.createElement('script');
+          script.async = true;
+          script.src = 'https://www.googletagmanager.com/gtag/js?id=G-P4BVZ9ZZ0E';
+          document.head.appendChild(script);
+        })();
+      </script>
+    )}
   </head>
   <body>
     <a class="skip-link" href="#main">{translate(locale, 'skip')}</a>

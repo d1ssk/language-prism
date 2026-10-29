@@ -58,17 +58,17 @@ const messages: Record<keyof typeof ja, string> = {
   readingHint: "Open the triangle beside a sentence to read its vocabulary, usage and grammar notes.",
   description: "Personal study notes exploring expressions across languages.",
   homeCompare:
-    "How do different languages express the same meaning? By studying expressions side by side, I hope to explore what languages share, how they differ, and the perspectives behind them. Alongside this interest in linguistics, I am trying out the idea that connecting languages might help with understanding and memory, and perhaps make learning more efficient.",
+    "How is the same content expressed in different languages? By studying expressions side by side, I hope to explore what languages share, how they differ, and the perspectives behind them. Alongside this interest in linguistics, I am trying out the idea that connecting languages might help with understanding and memory, and perhaps make learning more efficient.",
   homePersonal:
     "This site shares content I have put together for my own learning.",
   homeLanguages:
     "The nine languages are {languages}. I chose them based on my own interests, without any particular selection criteria.",
   homeAccuracy:
-    "The texts and explanations are mainly generated with ChatGPT. They have not been reviewed by specialists, and I do not guarantee the accuracy of vocabulary or grammar, or the naturalness of expressions. Audio is generated with {chatterbox}; its pronunciation and reading are not guaranteed to be correct either.",
+    "The texts and explanations are mainly created using generative models, including ChatGPT. They have not been reviewed by specialists, and I do not guarantee the accuracy of vocabulary or grammar, or the naturalness of expressions. Audio is generated with {chatterbox}; its pronunciation and reading are not guaranteed to be correct either. (I plan to make corrections gradually, but I have also found unnatural pronunciation, extraneous audio and unwanted repetitions in some recordings.)",
   homeCollections:
     "Practical covers useful expressions for everyday conversation, travel, work, and similar situations, including short exchanges. Grammar groups example sentences by grammatical topic and sentence structure. Library explores texts from literature, philosophy, science, and other fields.",
   homeLibrary:
-    "For Library, my policy is to choose works whose original texts are in the public domain. The original-language text is presented as it is, while translations into other languages are mainly generated with ChatGPT. These are not copied from existing translated editions, and I do not guarantee their accuracy or naturalness.",
+    "For Library, my policy is to choose works whose original texts are in the public domain. The original-language text is presented as it is, while translations into other languages are mainly created using generative models. These are not copied from existing translated editions, and I do not guarantee their accuracy or naturalness.",
   skip: "Skip to content",
   interfaceLanguage: "Interface language",
   collections: "Article collections",
