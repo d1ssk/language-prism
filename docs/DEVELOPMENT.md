@@ -20,9 +20,9 @@ npm run init:local
 npm run dev:local
 ```
 
-ブラウザで **http://127.0.0.1:4342/ja/**（日本語）または **http://127.0.0.1:4342/en/**（English）を開きます。`/` は日本語版へ移動します。ホームからPractical / Grammar / Libraryの各一覧へ移動できます。Practicalに「ランダム 1」（90意味単位・810言語エントリー）を収録しています。Grammarに「存在・所在」「否定と疑問」「経験」、Practicalに「初対面の会話」「聞き返す・意味を確かめる」「店で注文する」「道を尋ねる・交通機関に乗る」を追加しています。この7記事は計136組・1,224言語エントリーの本文と読み表記を収録し、詳しい日英解説を順次追加しています。音声は未生成です。さらに「挨拶」には20の場面・173表現を収録し、ランダム1と初対面の会話の間に置いています。直接対応させない7項目には訳文の代わりに理由を表示します。こちらも音声は未生成です。Libraryの原典と抜粋範囲は [LIBRARY_SOURCES.md](LIBRARY_SOURCES.md) にまとめています。開発サーバーはターミナルでCtrl+Cを押すと停止します。
+ブラウザで **http://127.0.0.1:4342/ja/**（日本語）または **http://127.0.0.1:4342/en/**（English）を開きます。`/` は日本語版へ移動します。ホームからPractical / Grammar / Libraryの各一覧へ移動できます。開発サーバーはターミナルでCtrl+Cを押すと停止します。
 
-全公開教材の詳しい日英解説を整備しています。初期基準は「ランダム 1」の最初の2組で、追加した20〜25組目の分量も承認済みです。続きの作業は [EXPLANATION_HANDOFF.md](EXPLANATION_HANDOFF.md) から再開してください。対象・編集基準は [EXPLANATION_PLAN.md](EXPLANATION_PLAN.md)、新しいチャット用の指示文は [EXPLANATION_GOAL_PROMPT.md](EXPLANATION_GOAL_PROMPT.md) にあります。
+教材の形式と日英解説の編集基準は [CONTENT_FORMAT.md](CONTENT_FORMAT.md)、本文・読みの校閲候補は [CONTENT_REVIEW.md](CONTENT_REVIEW.md) を参照してください。Libraryの原典と抜粋範囲は [LIBRARY_SOURCES.md](LIBRARY_SOURCES.md)、挨拶の対応表現に関する出典と編集判断は [GREETINGS_SOURCES.md](GREETINGS_SOURCES.md) にまとめています。
 
 `init:local` は隣接する `../language-prism-private/` に `content/`, `media/`, `voices/` を作ります。記事は自動作成しません。既存ファイルは上書きしません。別の場所を使う場合は先に `.env.example` を `.env.local` にコピーし、`PRISM_PRIVATE_ROOT` を編集してください。リポジトリ内・その親ディレクトリを非公開ルートに指定するとエラーになります。
 
@@ -157,7 +157,7 @@ mockの出力は `.cache/tts-mock/` に隔離します。mock生成記録の付�
 
 ## 検証
 
-以下は開発全般のコマンド一覧です。解説テキストのみの一括整備では、6検証は残り全体の完了時にまとめて実行し、途中のブラウザ・スクリーンショット確認は行いません。詳細は [引き継ぎ](EXPLANATION_HANDOFF.md) に従い、過去の検証記録を毎回再実行しないでください。
+以下は開発全般のコマンド一覧です。`npm test` はpublic/localの作業領域を更新するため、単独のビルドやブラウザ検証と並行実行せず、順に実行してください。
 
 ```bash
 npm run check
@@ -174,7 +174,22 @@ npm run test:browser
 
 ブラウザ検証はMacの既存Chromeを使います。他の環境では `npx playwright install chromium`、または `PRISM_BROWSER_EXECUTABLE` を指定してください。検証中だけ127.0.0.1に一時サーバーを起動し、最後に停止します。画像は `.cache/screenshots/` に保存されます。localのビルドがない場合、localのブラウザ検証は省略します。
 
-今回の確認結果は [VALIDATION.md](VALIDATION.md)、分離構造は [ARCHITECTURE.md](ARCHITECTURE.md) を参照してください。
+公開・非公開の分離構造は [ARCHITECTURE.md](ARCHITECTURE.md) を参照してください。
+
+## 解説の確認台帳
+
+`docs/explanation-progress.json` は既存の本文・構成と確認済み解説の整合性確認に使います。完了済みの作業ログではなく、`scripts/content/explanation-progress.ts` が参照する検査データなので保持します。確認状態の意味と編集基準は [CONTENT_FORMAT.md](CONTENT_FORMAT.md#日本語・英語の解説) を参照してください。
+
+```bash
+# 状態と保持対象の確認
+node --import tsx scripts/content/explanation-progress.ts status
+# 実際に内容を確認した項目だけをまとめて記録（キーは例）
+node --import tsx scripts/content/explanation-progress.ts mark checked random-1/u001/ja random-1/u001/en
+# 全体の整合性と未確認項目がないことを確認
+node --import tsx scripts/content/explanation-progress.ts verify --complete
+```
+
+`mark` 自体が保持対象・構造を検査するため、毎回その前後で `status`・`verify` を重ねる必要はありません。確認済み解説を全件再読せず、変更箇所と検出した問題を確認します。本文・TTS入力・読み本体・音声参照等を変更すると保持検査が検出するため、変更の意図と範囲を確認し、基準を無条件に作り直さないでください。
 
 ## GitHub Pages
 
