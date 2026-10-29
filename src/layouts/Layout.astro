@@ -12,6 +12,7 @@ const { title, locale, pagePath = '', description = translate(locale, 'descripti
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <meta name="referrer" content="no-referrer" />
+    <link rel="icon" type="image/png" href={withBase('favicon.png')} />
     {mode === 'local' && <meta name="robots" content="noindex, nofollow" />}
     {UI_LOCALES.map(lang => <link rel="alternate" hreflang={lang} href={withBase(`${lang}/${pagePath}`)} />)}
     <title>{title ? `${title} — language prism` : 'language prism'}</title>

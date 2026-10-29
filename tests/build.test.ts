@@ -94,6 +94,8 @@ test(
       );
       assert.ok(localHTML.includes(marker));
       assert.ok(localHTML.includes("非公開"));
+      assert.ok(localHTML.includes('href="/language-prism/favicon.png"'));
+      assert.deepEqual(fs.readFileSync(path.join(ROOT, "dist/local/favicon.png")), fs.readFileSync(path.join(ROOT, "public/favicon.png")));
       const localEnglish = fs.readFileSync(
         path.join(ROOT, "dist/local/en/read", privateId, "index.html"),
         "utf8",
@@ -187,6 +189,8 @@ test(
           "utf8",
         );
         assert.ok(home.includes(`href="/language-prism/${locale}/practical/"`));
+        assert.ok(home.includes('href="/language-prism/favicon.png"'));
+        assert.deepEqual(fs.readFileSync(path.join(ROOT, "dist/public/favicon.png")), fs.readFileSync(path.join(ROOT, "public/favicon.png")));
         assert.ok(home.includes(`href="/language-prism/${locale}/grammar/"`));
         assert.ok(home.includes(`href="/language-prism/${locale}/library/"`));
         assert.ok(home.indexOf(`/${locale}/practical/`) < home.indexOf(`/${locale}/grammar/`));

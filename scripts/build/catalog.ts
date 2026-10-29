@@ -134,6 +134,9 @@ export function prepare(mode: Mode) {
   noSymlink(ROOT, staging);
   fs.rmSync(staging, { recursive: true, force: true });
   fs.mkdirSync(path.join(staging, "assets"), { recursive: true });
+  const favicon = path.join(ROOT, "public/favicon.png");
+  noSymlink(ROOT, favicon);
+  fs.copyFileSync(favicon, path.join(staging, "assets/favicon.png"));
   for (const file of files) {
     const target = path.join(staging, "assets", file.relative);
     fs.mkdirSync(path.dirname(target), { recursive: true });

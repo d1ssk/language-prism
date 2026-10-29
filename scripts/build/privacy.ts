@@ -32,6 +32,7 @@ export function checkPrivacy(
     "grammar/index.html",
     "library/index.html",
     "build-info.json",
+    "favicon.png",
     ...UI_LOCALES.flatMap((locale) => [
       `${locale}/index.html`,
       `${locale}/practical/index.html`,
