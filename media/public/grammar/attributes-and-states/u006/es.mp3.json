@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "0a24aefd97f8eeeb06b321bca3d14f7774a36bc53b588ae82404e4472e53a343",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Estoy cansado.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2120c23093dd37675081d50c01f5db1605114dadb894194e5438ff13bbe72efa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:06.990790+00:00"
+}

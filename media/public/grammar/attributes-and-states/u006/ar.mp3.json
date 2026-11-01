@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "550b69dd67efcf2700ac347c2446b7a88fb285051d3a9188cb8a39f3a1cd9d91",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "أنا متعب.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "b0007f67129edfa8ec840e131bd8ec840f59bd40d661bf0b0590327bf6e9d7b1",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:14.417759+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "7eda36872a0328ff7e0ee390cb642af91a5fdf8ba701688106c16414b9dcf8e0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Это моя книга.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "033fc87f564a05ce4fa7c45fbcfb8fd39af9862acf0431186d7895c30b619ccd",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:25.114767+00:00"
+}

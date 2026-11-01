@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b4a52dcf2af5706fd5e1b68d14fe2b753920b7f483533b41ec6af4a8bff4b196",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "This room is not quiet.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d26be5bf203dc5c58749172b8eface2a5f45b3bf156bc23b73c02296271a690f",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:13:05.298488+00:00"
+}

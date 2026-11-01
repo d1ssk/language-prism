@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "5cae311dcdd79a6e91600393dd5f9352fde035d1972279e52e0390bffa161771",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "저희는 바빠요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6cd080ef109ad1aafb7d8459113de5583d8ebed20960334781f154eb1e2cbf7a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:31.852159+00:00"
+}

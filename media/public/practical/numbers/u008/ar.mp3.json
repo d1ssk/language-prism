@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "d672332775dfce6ffbe237280edcaa9137c612f8ebc707471c1590f96f4d20ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "نحن اثنان.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0a53f18a73aaa52feca1b0d7d2f84a3c331875eaf8fae1254f0b3fed1ca73856",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:36.896242+00:00"
+}

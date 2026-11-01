@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "fee991ba3c65371b8eb73ab38c6412045133479ac2a58bd92af4afb096b53649",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "¿Cuánto cuesta esto?",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9996a0187f24d9592d964141e682cd9844153c8787e4ee2a5bce7d25b55b169d",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:45.532024+00:00"
+}

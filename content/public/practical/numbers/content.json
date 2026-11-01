@@ -1,0 +1,5244 @@
+{
+  "schemaVersion": 1,
+  "id": "numbers",
+  "slug": "numbers",
+  "type": "practical",
+  "title": {
+    "ja": "数",
+    "en": "Numbers"
+  },
+  "description": {
+    "ja": "0〜20、十の位、百・千・万の数え上げと、個数・人数・値段・順番を伝える12組の例文。",
+    "en": "Twelve examples covering counting from 0 to 20, tens, hundreds, thousands and ten thousands, followed by quantities, party sizes, prices and order."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて作成した例文。既存の教材からの転載ではありません。",
+    "en": "Examples created with AI for this site, not reproduced from existing teaching materials."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み表記・日英解説：OpenAI。 音声：Chatterbox。",
+    "en": "Text, pronunciation readings and Japanese/English explanations: OpenAI. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "数え上げの本文は各言語の数詞で表し、0〜10、11〜20を順に読みます。後半の小見出しごとに独立した場面を設け、短い質問・応答を収録しています。価格は練習用の例です。 本文・読み・日英解説を収録しています。音声はChatterboxで生成しています。音声の聴取確認は行っていません。専門家による校閲は受けていません。",
+    "en": "The counting passages spell out the number words, proceeding from 0 to 10 and 11 to 20. Each later heading introduces an independent situation with a short question and answer. Prices are practice examples. Text, pronunciation readings and Japanese/English explanations are included. Audio is generated with Chatterbox and has not been checked by listening. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "ゼロ、一、二、三、四、五、六、七、八、九、十。",
+          "ttsText": "ぜろ、いち、に、さん、よん、ご、ろく、なな、はち、きゅう、じゅう。",
+          "vocabulary": [
+            {
+              "term": "ゼロ",
+              "meaning": {
+                "ja": "0。ここでは外来語の読みを使います。",
+                "en": "Zero; this example uses the loanword reading."
+              }
+            },
+            {
+              "term": "四・七・九",
+              "meaning": {
+                "ja": "ここでは よん・なな・きゅう と読みます。",
+                "en": "Read here as よん, なな, and きゅう."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一、二、三…",
+              "explanation": {
+                "ja": "物の種類を指定せず、数そのものを順番に唱えています。物を数えるときの助数詞は付いていません。",
+                "en": "The numbers themselves are recited in order, without specifying objects or adding counters."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "0〜10の数え上げです。四・七・九には し・しち・く という読みもありますが、この列では読みを固定しています。",
+              "en": "This counts from 0 to 10. 四, 七, and 九 also have readings し, しち, and く; this sequence selects one reading for each."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Zero, one, two, three, four, five, six, seven, eight, nine, ten.",
+          "ttsText": "Zero, one, two, three, four, five, six, seven, eight, nine, ten.",
+          "vocabulary": [
+            {
+              "term": "zero",
+              "meaning": {
+                "ja": "0。数がないことを表す数詞。",
+                "en": "Zero, the numeral for no quantity."
+              }
+            },
+            {
+              "term": "one … ten",
+              "meaning": {
+                "ja": "1から10までの基数。",
+                "en": "The cardinal numbers from one to ten."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Zero, one, two …",
+              "explanation": {
+                "ja": "名詞や動詞を伴わず、基数を並べた数え上げです。順番を表す first, second とは区別します。",
+                "en": "A recitation of cardinal numbers without nouns or verbs, distinct from ordinals such as first and second."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは0を zero と読みます。電話番号などで使われる oh の読みは、この列には使いません。",
+              "en": "Zero is used for 0 here, rather than oh as sometimes heard in telephone numbers."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+          "ttsText": "Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+          "vocabulary": [
+            {
+              "term": "cero",
+              "meaning": {
+                "ja": "0。",
+                "en": "Zero."
+              }
+            },
+            {
+              "term": "uno",
+              "meaning": {
+                "ja": "1。単独で数えるときの形。",
+                "en": "One, in its standalone counting form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "uno",
+              "explanation": {
+                "ja": "この列では名詞がないので uno です。男性名詞の直前で使う un や、女性に合わせる una と区別します。",
+                "en": "With no noun, the sequence uses uno, distinct from un before a masculine noun or feminine una."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "0〜10を順番に数えています。物の個数を伝える例では、後ろに名詞を組み合わせます。",
+              "en": "This counts from 0 to 10. Later quantity examples combine numbers with nouns."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.",
+          "ttsText": "Zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.",
+          "vocabulary": [
+            {
+              "term": "zéro",
+              "meaning": {
+                "ja": "0。アクセント記号を付けて書きます。",
+                "en": "Zero, written with an accent mark."
+              }
+            },
+            {
+              "term": "un",
+              "meaning": {
+                "ja": "1。単独の数え上げではこの形です。",
+                "en": "One, the form used in this standalone recitation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "un, deux, trois …",
+              "explanation": {
+                "ja": "名詞に付けず、基数を独立して並べています。女性名詞に付く une とは用法を区別します。",
+                "en": "The cardinal numbers stand independently, rather than modifying nouns; compare une before a feminine noun."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "区切って数えるときの six は /sis/、dix は /dis/。名詞と続くときには末尾の音が変わる場合があります。",
+              "en": "When recited separately, six is /sis/ and dix is /dis/. Their final sounds can differ when followed by nouns."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn.",
+          "ttsText": "Null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn.",
+          "vocabulary": [
+            {
+              "term": "null",
+              "meaning": {
+                "ja": "0。数え上げの最初の数。",
+                "en": "Zero, the first number in this sequence."
+              }
+            },
+            {
+              "term": "eins",
+              "meaning": {
+                "ja": "1。単独の数詞としての形。",
+                "en": "One, in its standalone form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "eins",
+              "explanation": {
+                "ja": "ここでは単独なので eins です。名詞の前の ein や eine のように、名詞に合わせた形にはしていません。",
+                "en": "The standalone form is eins, rather than noun-dependent forms such as ein or eine."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "0〜10の基数です。先頭の Null は文頭なので大文字ですが、数詞は通常小文字で書きます。",
+              "en": "These are cardinal numbers from 0 to 10. Initial Null is capitalized because it begins the sentence; numerals are normally lowercase."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.",
+          "ttsText": "Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.",
+          "vocabulary": [
+            {
+              "term": "ноль",
+              "meaning": {
+                "ja": "0。ここで使うゼロの形。",
+                "en": "Zero, the form used here."
+              }
+            },
+            {
+              "term": "один・два",
+              "meaning": {
+                "ja": "1と2。ここでは基本の男性形で数えます。",
+                "en": "One and two, using the basic masculine forms here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "один, два …",
+              "explanation": {
+                "ja": "名詞を伴わない数え上げです。実際の名詞と使うと、1・2には性に応じた別形が現れます。",
+                "en": "This is counting without nouns. With nouns, one and two have additional gender-dependent forms."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性名詞なら одна・две、中性名詞なら одно・два となるため、この列をすべての名詞にそのまま付けるわけではありません。",
+              "en": "Feminine nouns use одна and две; neuter nouns use одно and два, so this list cannot be attached unchanged to every noun."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "صفر، واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة.",
+          "ttsText": "صفر، واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ṣifrun, wāḥidun, ithnāni, thalāthatun, ʾarbaʿatun, khamsatun, sittatun, sabʿatun, thamāniyatun, tisʿatun, ʿasharatun.",
+            "note": {
+              "ja": "一つずつ区切ると ṣifr, wāḥid, ithnān, thalātha, ʾarbaʿa, khamsa, sitta, sabʿa, thamāniya, tisʿa, ʿashara と読みます。",
+              "en": "With a pause after each number, the forms are ṣifr, wāḥid, ithnān, thalātha, ʾarbaʿa, khamsa, sitta, sabʿa, thamāniya, tisʿa, ʿashara."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "صفر",
+              "meaning": {
+                "ja": "0。",
+                "en": "Zero."
+              }
+            },
+            {
+              "term": "واحد・اثنان",
+              "meaning": {
+                "ja": "1・2。本文は独立して数える基本形です。",
+                "en": "One and two, in the basic standalone counting forms used here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ثلاثة … عشرة",
+              "explanation": {
+                "ja": "この列は数そのものの名前です。名詞の個数を表すときには、数える名詞の性に応じて数詞の形も選び直します。",
+                "en": "The list names the numbers themselves. When counting nouns, the numeral form must be selected for the noun's gender."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "0〜10の数え上げです。後の「りんご三つ」では、本文の ثلاثة ではなく ثلاث を使う点を比べられます。",
+              "en": "This counts from 0 to 10. Compare standalone ثلاثة here with ثلاث in the later example of three apples."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Madinah Arabic: Arabic Numbers 1 to 20",
+              "url": "https://madinaharabic.com/blog/arabic-numbers-1-to-20"
+            }
+          ],
+          "audio": {
+            "path": "practical/numbers/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "零、一、二、三、四、五、六、七、八、九、十。",
+          "ttsText": "零、一、二、三、四、五、六、七、八、九、十。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Líng, yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí."
+          },
+          "vocabulary": [
+            {
+              "term": "零",
+              "meaning": {
+                "ja": "0。líng と読みます。",
+                "en": "Zero, pronounced líng."
+              }
+            },
+            {
+              "term": "二",
+              "meaning": {
+                "ja": "2。数を順番に唱えるときは èr を使います。",
+                "en": "Two; èr is used in a counting sequence."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "零、一、二…",
+              "explanation": {
+                "ja": "数詞だけを独立して並べています。後の 二人 に当たる 两位 の 两 と、ここでの 二 を区別します。",
+                "en": "The numerals stand alone. Compare 二 here with 两 in the later phrase 两位 for two people."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "0〜10を一つずつ数える列です。個数を表す文にするときには、数詞と名詞の間に量詞が必要になることがあります。",
+              "en": "This recites 0 to 10. A quantity expression may require a classifier between the numeral and a noun."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "영, 일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십.",
+          "ttsText": "영, 일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십.",
+          "vocabulary": [
+            {
+              "term": "영",
+              "meaning": {
+                "ja": "0。ここでは数値としてのゼロです。",
+                "en": "Zero as a numerical value here."
+              }
+            },
+            {
+              "term": "일・이・삼",
+              "meaning": {
+                "ja": "1・2・3の漢数詞。",
+                "en": "The Sino-Korean numerals for one, two, and three."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "영, 일, 이 …",
+              "explanation": {
+                "ja": "漢数詞で0〜10を数えています。個数・人数で使う 하나・둘・셋 などの固有数詞とは別系列です。",
+                "en": "The sequence counts 0 to 10 using Sino-Korean numerals, distinct from native 하나, 둘, 셋 used for many object and person counts."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "電話番号の0では 공 も使います。この列は電話番号ではなく、数値を順に読む練習です。",
+              "en": "공 is also used for 0 in telephone numbers. This is a numerical sequence rather than a phone number."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "0〜10を数える",
+        "en": "Counting from 0 to 10"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。",
+          "ttsText": "じゅういち、じゅうに、じゅうさん、じゅうよん、じゅうご、じゅうろく、じゅうなな、じゅうはち、じゅうきゅう、にじゅう。",
+          "vocabulary": [
+            {
+              "term": "十一",
+              "meaning": {
+                "ja": "10に1を足した11。じゅういち。",
+                "en": "Eleven, ten plus one, read じゅういち."
+              }
+            },
+            {
+              "term": "二十",
+              "meaning": {
+                "ja": "10が二つの20。にじゅう。",
+                "en": "Twenty, two tens, read にじゅう."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "十＋一の位",
+              "explanation": {
+                "ja": "11〜19は 十 の後に一の位を置きます。20では 二十 と、二つの十という順になります。",
+                "en": "Eleven through nineteen place the unit after 十. Twenty reverses the structure to 二十, two tens."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは十四・十七・十九を じゅうよん・じゅうなな・じゅうきゅう と読みます。",
+              "en": "Here fourteen, seventeen, and nineteen are read じゅうよん, じゅうなな, and じゅうきゅう."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.",
+          "ttsText": "Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.",
+          "vocabulary": [
+            {
+              "term": "eleven・twelve",
+              "meaning": {
+                "ja": "11・12。ten と one・two をそのまま並べた形ではありません。",
+                "en": "Eleven and twelve, rather than simple combinations of ten with one or two."
+              }
+            },
+            {
+              "term": "thirteen … nineteen",
+              "meaning": {
+                "ja": "13〜19。-teen を含む数詞。",
+                "en": "Thirteen through nineteen, the numerals ending in -teen."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-teen / twenty",
+              "explanation": {
+                "ja": "13〜19の -teen と、十の位を表す twenty の語形を区別します。",
+                "en": "Distinguish the -teen forms for thirteen through nineteen from the tens form twenty."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "fifteen と eighteen は five・eight に機械的に teen を足した綴りではありません。本文の綴りを確認します。",
+              "en": "Fifteen and eighteen are not spelled by simply appending teen to five and eight; note their actual spellings."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte.",
+          "ttsText": "Once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte.",
+          "vocabulary": [
+            {
+              "term": "once … quince",
+              "meaning": {
+                "ja": "11〜15の数詞。",
+                "en": "The numerals eleven through fifteen."
+              }
+            },
+            {
+              "term": "dieciséis",
+              "meaning": {
+                "ja": "16。アクセント記号を含めて一語で書きます。",
+                "en": "Sixteen, written as one word with an accent mark."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dieciséis … diecinueve",
+              "explanation": {
+                "ja": "16〜19は dieci- に一の位を組み合わせた一語です。本文では語の間に y を置きません。",
+                "en": "Sixteen through nineteen combine dieci- and a unit into one word, without a separate y."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "20は veinte。次の列に出る21以降の veinti- と形を比べられます。",
+              "en": "Twenty is veinte; compare it with veinti- for twenty-one onward in the next sequence."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt.",
+          "ttsText": "Onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt.",
+          "vocabulary": [
+            {
+              "term": "onze … seize",
+              "meaning": {
+                "ja": "11〜16にはそれぞれの数詞があります。",
+                "en": "Eleven through sixteen each have their own numeral."
+              }
+            },
+            {
+              "term": "dix-sept … dix-neuf",
+              "meaning": {
+                "ja": "17〜19。「十＋七・八・九」の形。",
+                "en": "Seventeen through nineteen, built as ten plus seven, eight, or nine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dix-sept",
+              "explanation": {
+                "ja": "この複合数詞はハイフンで結びます。11〜16と17〜19で数の組み立てが変わります。",
+                "en": "The compound numeral is hyphenated; the formation changes between eleven–sixteen and seventeen–nineteen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "20は vingt です。この列は名詞なしで数え、物の種類による形の変化は扱っていません。",
+              "en": "Twenty is vingt. This sequence counts without nouns and does not specify types of objects."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig.",
+          "ttsText": "Elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig.",
+          "vocabulary": [
+            {
+              "term": "elf・zwölf",
+              "meaning": {
+                "ja": "11・12。それぞれ独立した語です。",
+                "en": "Eleven and twelve, each a separate word."
+              }
+            },
+            {
+              "term": "sechzehn・siebzehn",
+              "meaning": {
+                "ja": "16・17。sechs・sieben の一部が短くなります。",
+                "en": "Sixteen and seventeen, with shortened forms of sechs and sieben."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dreizehn … neunzehn",
+              "explanation": {
+                "ja": "13〜19は一の位を先に、zehn を後ろに置き、一語で書きます。",
+                "en": "Thirteen through nineteen place the unit before zehn and are written as single words."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "20は zwanzig。sechzehn・siebzehn の綴りを、単独の sechs・sieben と比較できます。",
+              "en": "Twenty is zwanzig. Compare the spelling of sechzehn and siebzehn with standalone sechs and sieben."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Одиннадцать, двенадцать, тринадцать, четырнадцать, пятнадцать, шестнадцать, семнадцать, восемнадцать, девятнадцать, двадцать.",
+          "ttsText": "Одиннадцать, двенадцать, тринадцать, четырнадцать, пятнадцать, шестнадцать, семнадцать, восемнадцать, девятнадцать, двадцать.",
+          "vocabulary": [
+            {
+              "term": "одиннадцать・двенадцать",
+              "meaning": {
+                "ja": "11・12。",
+                "en": "Eleven and twelve."
+              }
+            },
+            {
+              "term": "двадцать",
+              "meaning": {
+                "ja": "20。",
+                "en": "Twenty."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "-надцать",
+              "explanation": {
+                "ja": "11〜19には -надцать が現れます。ただし元の数詞の形をそのまま連結するだけではないので、各語の綴りを確認します。",
+                "en": "The forms eleven through nineteen contain -надцать, but are not formed simply by concatenating unchanged base numerals."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "名詞を伴わない基本形の列です。名詞と組み合わせる場合の格は、後の数量の例で扱います。",
+              "en": "These are basic forms without nouns. Case with counted nouns is addressed in the later quantity examples."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أحد عشر، اثنا عشر، ثلاثة عشر، أربعة عشر، خمسة عشر، ستة عشر، سبعة عشر، ثمانية عشر، تسعة عشر، عشرون.",
+          "ttsText": "أحد عشر، اثنا عشر، ثلاثة عشر، أربعة عشر، خمسة عشر، ستة عشر، سبعة عشر، ثمانية عشر، تسعة عشر، عشرون.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾaḥada ʿashara, ithnā ʿashara, thalāthata ʿashara, ʾarbaʿata ʿashara, khamsata ʿashara, sittata ʿashara, sabʿata ʿashara, thamāniyata ʿashara, tisʿata ʿashara, ʿishrūna.",
+            "note": {
+              "ja": "各数の末尾で区切る場合、11〜19の最後の ʿashara は ʿashar、20の ʿishrūna は ʿishrūn になります。",
+              "en": "When pausing after each number, final ʿashara in eleven through nineteen becomes ʿashar, and ʿishrūna becomes ʿishrūn."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "أحد عشر・اثنا عشر",
+              "meaning": {
+                "ja": "11・12。ここでは男性名詞を数える系列の形です。",
+                "en": "Eleven and twelve, in the series used with masculine counted nouns here."
+              }
+            },
+            {
+              "term": "عشرون",
+              "meaning": {
+                "ja": "20。ここでは主格形です。",
+                "en": "Twenty, in the nominative form here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ثلاثة عشر … تسعة عشر",
+              "explanation": {
+                "ja": "13〜19は一の位を先に置く二語の複合数詞です。この列の形を女性名詞にもそのまま付けるわけではありません。",
+                "en": "Thirteen through nineteen are two-word compounds with the unit first. These forms are not simply reused unchanged with feminine nouns."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この数え上げでは12を主格の اثنا عشر としています。文中の役割によって اثني عشر になる場合があります。",
+              "en": "This recitation uses nominative اثنا عشر for twelve; its role in a sentence can require اثني عشر instead."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。",
+          "ttsText": "十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shíyī, shí'èr, shísān, shísì, shíwǔ, shíliù, shíqī, shíbā, shíjiǔ, èrshí."
+          },
+          "vocabulary": [
+            {
+              "term": "十一",
+              "meaning": {
+                "ja": "11。「十＋一」の順です。",
+                "en": "Eleven, formed as ten plus one."
+              }
+            },
+            {
+              "term": "二十",
+              "meaning": {
+                "ja": "20。「二つの十」の順です。",
+                "en": "Twenty, formed as two tens."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "十一 … 十九",
+              "explanation": {
+                "ja": "11〜19は 十 の後に一の位を置きます。20は 二十 であり、十二（12）とは順序が逆です。",
+                "en": "Eleven through nineteen put the unit after 十. 二十, twenty, reverses the order of 十二, twelve."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この列は数の名前なので、2は 二 を使います。人数の 两位 の 两 とは役割が異なります。",
+              "en": "These are number names, so two uses 二, unlike 两 in a person count such as 两位."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "십일, 십이, 십삼, 십사, 십오, 십육, 십칠, 십팔, 십구, 이십.",
+          "ttsText": "십일, 십이, 십삼, 십사, 십오, 십육, 십칠, 십팔, 십구, 이십.",
+          "vocabulary": [
+            {
+              "term": "십일",
+              "meaning": {
+                "ja": "11。「十＋一」の漢数詞。",
+                "en": "Eleven, a Sino-Korean numeral formed as ten plus one."
+              }
+            },
+            {
+              "term": "이십",
+              "meaning": {
+                "ja": "20。「二つの十」の漢数詞。",
+                "en": "Twenty, formed as two tens."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "십일 / 이십",
+              "explanation": {
+                "ja": "11〜19は 십 の後に一の位を置き、一語で書きます。20は 이십 と順序が変わります。",
+                "en": "Eleven through nineteen place the unit after 십, written as one word; twenty is 이십, two tens."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "십육 は発音が [심뉵] になります。綴りどおりの 십 と 육 を別々に読む場合とは異なります。",
+              "en": "십육 is pronounced [심뉵], rather than as separate spelling-based pronunciations of 십 and 육."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "11〜20を数える",
+        "en": "Counting from 11 to 20"
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "二十一、二十二、三十、四十、五十、六十、七十、八十、九十、百。",
+          "ttsText": "にじゅういち、にじゅうに、さんじゅう、よんじゅう、ごじゅう、ろくじゅう、ななじゅう、はちじゅう、きゅうじゅう、ひゃく。",
+          "vocabulary": [
+            {
+              "term": "二十一・二十二",
+              "meaning": {
+                "ja": "20に1・2を足した数。",
+                "en": "Twenty-one and twenty-two, twenty plus one or two."
+              }
+            },
+            {
+              "term": "百",
+              "meaning": {
+                "ja": "100。ひゃく と読みます。",
+                "en": "One hundred, read ひゃく."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "二十＋一",
+              "explanation": {
+                "ja": "十の位を先に、一の位を後ろに置きます。三十以降の十の倍数も、数＋十 の形です。",
+                "en": "The tens precede the units. Multiples of ten from thirty onward also use a number followed by 十."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この列は21・22で組み立てを確かめた後、30から100まで十ずつ進みます。23〜29を省いた練習です。",
+              "en": "After illustrating formation with twenty-one and twenty-two, the sequence advances by tens from thirty to one hundred, omitting twenty-three through twenty-nine."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Twenty-one, twenty-two, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.",
+          "ttsText": "Twenty-one, twenty-two, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.",
+          "vocabulary": [
+            {
+              "term": "twenty-one・twenty-two",
+              "meaning": {
+                "ja": "21・22。十の位と一の位を組み合わせます。",
+                "en": "Twenty-one and twenty-two, combining tens with units."
+              }
+            },
+            {
+              "term": "forty・fifty",
+              "meaning": {
+                "ja": "40・50。four・five と綴りが異なります。",
+                "en": "Forty and fifty, with spellings differing from four and five."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "twenty-one",
+              "explanation": {
+                "ja": "21・22のような複合数詞はハイフンでつなぎます。one hundred は二語です。",
+                "en": "Compound numerals such as twenty-one and twenty-two are hyphenated; one hundred is two words."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは21・22の後を十ずつ進めています。forty に u を入れない点にも注意します。",
+              "en": "After twenty-one and twenty-two, the sequence advances by tens. Note that forty has no u."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Veintiuno, veintidós, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien.",
+          "ttsText": "Veintiuno, veintidós, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien.",
+          "vocabulary": [
+            {
+              "term": "veintiuno・veintidós",
+              "meaning": {
+                "ja": "21・22。veinti- を使って一語で書きます。",
+                "en": "Twenty-one and twenty-two, written as single words with veinti-."
+              }
+            },
+            {
+              "term": "cien",
+              "meaning": {
+                "ja": "ちょうど100。",
+                "en": "Exactly one hundred."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "veintidós",
+              "explanation": {
+                "ja": "22にはアクセント記号があります。数を単独で述べる21は veintiuno です。",
+                "en": "Twenty-two has an accent mark. Standalone twenty-one is veintiuno."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "cien はこの列の100に使う形です。101のように後ろに数が続くと ciento uno となります。",
+              "en": "Cien names one hundred here; when another number follows, as in one hundred and one, the form is ciento uno."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Vingt et un, vingt-deux, trente, quarante, cinquante, soixante, soixante-dix, quatre-vingts, quatre-vingt-dix, cent.",
+          "ttsText": "Vingt et un, vingt-deux, trente, quarante, cinquante, soixante, soixante-dix, quatre-vingts, quatre-vingt-dix, cent.",
+          "vocabulary": [
+            {
+              "term": "vingt et un",
+              "meaning": {
+                "ja": "21。20と1を et で結びます。",
+                "en": "Twenty-one, linking twenty and one with et."
+              }
+            },
+            {
+              "term": "soixante-dix・quatre-vingts",
+              "meaning": {
+                "ja": "70は60＋10、80は4×20の形。",
+                "en": "Seventy is formed as sixty plus ten; eighty as four twenties."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "quatre-vingts / quatre-vingt-dix",
+              "explanation": {
+                "ja": "ちょうど80では vingts に s が付き、90のように別の数が続くと vingt になります。",
+                "en": "Exact eighty has an s in vingts; when another numeral follows, as in ninety, it becomes vingt."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "フランスで一般的な数え方を採用しています。21は伝統的な綴り vingt et un とし、この列全体もその綴り方にそろえています。",
+              "en": "This uses the forms common in France and consistently follows traditional spelling, including vingt et un."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Einundzwanzig, zweiundzwanzig, dreißig, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig, hundert.",
+          "ttsText": "Einundzwanzig, zweiundzwanzig, dreißig, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig, hundert.",
+          "vocabulary": [
+            {
+              "term": "einundzwanzig",
+              "meaning": {
+                "ja": "21。「一と二十」の順に組み立てます。",
+                "en": "Twenty-one, literally one and twenty."
+              }
+            },
+            {
+              "term": "dreißig・hundert",
+              "meaning": {
+                "ja": "30・100。",
+                "en": "Thirty and one hundred."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ein-und-zwanzig",
+              "explanation": {
+                "ja": "21・22では一の位を先にし、und で十の位につなぎます。実際の綴りは区切らず一語です。",
+                "en": "Twenty-one and twenty-two put the unit first, joined to the tens by und; the actual spelling is one unbroken word."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "sechzig・siebzig では sechs・sieben の形が短くなります。30の dreißig は -zig ではなく -ßig です。",
+              "en": "Sechzig and siebzig shorten sechs and sieben. Thirty is dreißig, with -ßig rather than -zig."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Двадцать один, двадцать два, тридцать, сорок, пятьдесят, шестьдесят, семьдесят, восемьдесят, девяносто, сто.",
+          "ttsText": "Двадцать один, двадцать два, тридцать, сорок, пятьдесят, шестьдесят, семьдесят, восемьдесят, девяносто, сто.",
+          "vocabulary": [
+            {
+              "term": "двадцать один・двадцать два",
+              "meaning": {
+                "ja": "21・22。十の位を先にする二語の数詞。",
+                "en": "Twenty-one and twenty-two, two-word numerals with tens first."
+              }
+            },
+            {
+              "term": "сорок・девяносто",
+              "meaning": {
+                "ja": "40・90。それぞれの語形を持ちます。",
+                "en": "Forty and ninety, each with its own form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "двадцать один",
+              "explanation": {
+                "ja": "十の位と一の位を別々の語で書き、英語のようなハイフンは入れません。",
+                "en": "The tens and units are separate words without an English-style hyphen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "数える名詞が付くと、複合数詞の末尾の数によって名詞の形が変わります。この列は名詞を付けない基本形です。",
+              "en": "With counted nouns, the final number affects the noun's form; this list gives basic forms without nouns."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "واحد وعشرون، اثنان وعشرون، ثلاثون، أربعون، خمسون، ستون، سبعون، ثمانون، تسعون، مئة.",
+          "ttsText": "واحد وعشرون، اثنان وعشرون، ثلاثون، أربعون، خمسون، ستون، سبعون، ثمانون، تسعون، مئة.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "wāḥidun wa-ʿishrūna, ithnāni wa-ʿishrūna, thalāthūna, ʾarbaʿūna, khamsūna, sittūna, sabʿūna, thamānūna, tisʿūna, miʾatun.",
+            "note": {
+              "ja": "数ごとに休止すると、末尾の ʿishrūna・thalāthūna などは ʿishrūn・thalāthūn、最後の miʾatun は miʾa になります。",
+              "en": "At pauses after each number, final ʿishrūna, thalāthūna, and similar forms become ʿishrūn, thalāthūn, and so on; miʾatun becomes miʾa."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "واحد وعشرون",
+              "meaning": {
+                "ja": "21。「一と二十」という順です。",
+                "en": "Twenty-one, literally one and twenty."
+              }
+            },
+            {
+              "term": "مئة",
+              "meaning": {
+                "ja": "100。この綴りでは miʾa と読みます。",
+                "en": "One hundred, read miʾa in its pausal form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "واحد وعشرون",
+              "explanation": {
+                "ja": "一の位を先にし、و で十の位と結びます。この列の十の倍数は主格の ـون でそろえています。",
+                "en": "The unit comes first and و joins it to the tens. The multiples of ten use nominative ـون in this list."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "21・22の後は30から100へ進みます。文中では格や数える名詞によって形を調整する必要があります。",
+              "en": "After twenty-one and twenty-two, the list proceeds from thirty to one hundred. In sentences, case and the counted noun can require changes."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "二十一、二十二、三十、四十、五十、六十、七十、八十、九十、一百。",
+          "ttsText": "二十一、二十二、三十、四十、五十、六十、七十、八十、九十、一百。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Èrshíyī, èrshí'èr, sānshí, sìshí, wǔshí, liùshí, qīshí, bāshí, jiǔshí, yībǎi.",
+            "note": {
+              "ja": "一百 の 一 は発音時に第4声となり、yìbǎi と読みます。",
+              "en": "一 in 一百 changes to fourth tone in speech: yìbǎi."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "二十一・二十二",
+              "meaning": {
+                "ja": "21・22。十の位の後に一の位を置きます。",
+                "en": "Twenty-one and twenty-two, with units after tens."
+              }
+            },
+            {
+              "term": "一百",
+              "meaning": {
+                "ja": "100。百 の前に 一 を明示します。",
+                "en": "One hundred, with 一 explicitly before 百."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "二＋十＋一",
+              "explanation": {
+                "ja": "21は「二つの十と一」の順です。英語の and に当たる接続詞は入れません。",
+                "en": "Twenty-one follows the order two tens and one, without an overt conjunction corresponding to and."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この列は21・22の後、十の位を変えて100まで進めています。",
+              "en": "After twenty-one and twenty-two, the sequence varies the tens and proceeds to one hundred."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이십일, 이십이, 삼십, 사십, 오십, 육십, 칠십, 팔십, 구십, 백.",
+          "ttsText": "이십일, 이십이, 삼십, 사십, 오십, 육십, 칠십, 팔십, 구십, 백.",
+          "vocabulary": [
+            {
+              "term": "이십일・이십이",
+              "meaning": {
+                "ja": "21・22。漢数詞です。",
+                "en": "Twenty-one and twenty-two, using Sino-Korean numerals."
+              }
+            },
+            {
+              "term": "백",
+              "meaning": {
+                "ja": "100。単独の100には 일 を前に付けません。",
+                "en": "One hundred; standalone one hundred does not need preceding 일."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "이＋십＋일",
+              "explanation": {
+                "ja": "21は「二つの十と一」の順で、一語で書きます。三十以降も数字と 십 を組み合わせます。",
+                "en": "Twenty-one is two tens plus one, written as one word. Multiples from thirty onward likewise combine a digit with 십."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "十の位の数は漢数詞で統一しています。固有数詞の二十 스물・三十 서른 とは別の系列です。",
+              "en": "The tens consistently use Sino-Korean forms, distinct from native twenty 스물 and thirty 서른."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "十の位と数の組み立て",
+        "en": "Tens and number formation"
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "百、千、一万。",
+          "ttsText": "ひゃく、せん、いちまん。",
+          "vocabulary": [
+            {
+              "term": "百・千",
+              "meaning": {
+                "ja": "100・1,000。ここでは ひゃく・せん と読みます。",
+                "en": "One hundred and one thousand, read ひゃく and せん here."
+              }
+            },
+            {
+              "term": "一万",
+              "meaning": {
+                "ja": "10,000。千が十個の数です。",
+                "en": "Ten thousand, equal to ten thousands."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一万",
+              "explanation": {
+                "ja": "百・千では一を言わない基本形に対して、万では 一万 と 一 を付けて数値を述べます。",
+                "en": "Unlike the basic forms 百 and 千, 一万 explicitly includes 一 to name ten thousand."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語では万が大きな数を組み立てる単位になります。英語の ten thousand と組み立て方を比較できます。",
+              "en": "万 is a building block for large Japanese numbers, contrasting with English ten thousand."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "One hundred, one thousand, ten thousand.",
+          "ttsText": "One hundred, one thousand, ten thousand.",
+          "vocabulary": [
+            {
+              "term": "one hundred",
+              "meaning": {
+                "ja": "100。",
+                "en": "One hundred."
+              }
+            },
+            {
+              "term": "one thousand・ten thousand",
+              "meaning": {
+                "ja": "1,000・10,000。",
+                "en": "One thousand and ten thousand."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ten thousand",
+              "explanation": {
+                "ja": "thousand の前の数を ten にして10,000を表します。数詞の後の thousand に複数の s は付けません。",
+                "en": "Ten before thousand makes ten thousand. Thousand does not take plural s after an exact numeral."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の 万 に対応する数を、英語では ten と thousand の組み合わせで表しています。",
+              "en": "The value represented by Japanese 万 is expressed by combining ten and thousand."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Cien, mil, diez mil.",
+          "ttsText": "Cien, mil, diez mil.",
+          "vocabulary": [
+            {
+              "term": "cien",
+              "meaning": {
+                "ja": "ちょうど100。",
+                "en": "Exactly one hundred."
+              }
+            },
+            {
+              "term": "mil・diez mil",
+              "meaning": {
+                "ja": "1,000・10,000。",
+                "en": "One thousand and ten thousand."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "mil / diez mil",
+              "explanation": {
+                "ja": "1,000はこの列では mil と言い、10,000は diez を前に置きます。正確な数の後でも mil の形は変わりません。",
+                "en": "One thousand is simply mil here; ten thousand adds diez before it. Mil does not change after an exact numeral."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "英語の one thousand に対応していても、この普通の数え上げでは un mil としません。",
+              "en": "Although it corresponds to English one thousand, this ordinary sequence does not use un mil."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Cent, mille, dix mille.",
+          "ttsText": "Cent, mille, dix mille.",
+          "vocabulary": [
+            {
+              "term": "cent",
+              "meaning": {
+                "ja": "100。",
+                "en": "One hundred."
+              }
+            },
+            {
+              "term": "mille・dix mille",
+              "meaning": {
+                "ja": "1,000・10,000。",
+                "en": "One thousand and ten thousand."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "dix mille",
+              "explanation": {
+                "ja": "10,000は dix と mille の組み合わせです。数詞 mille に複数の s は付けません。",
+                "en": "Ten thousand combines dix and mille. Numeral mille does not take plural s."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この列では100と1,000を cent・mille と言い、前に un は付けていません。",
+              "en": "This sequence uses cent and mille for one hundred and one thousand without preceding un."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Hundert, tausend, zehntausend.",
+          "ttsText": "Hundert, tausend, zehntausend.",
+          "vocabulary": [
+            {
+              "term": "hundert",
+              "meaning": {
+                "ja": "100。einhundert とも言えます。",
+                "en": "One hundred; einhundert is also possible."
+              }
+            },
+            {
+              "term": "tausend・zehntausend",
+              "meaning": {
+                "ja": "1,000・10,000。",
+                "en": "One thousand and ten thousand."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "zehntausend",
+              "explanation": {
+                "ja": "zehn と tausend を結合して一語で書きます。この列では数詞に複数の語尾を付けません。",
+                "en": "Zehn and tausend combine into one written word. These numerals take no plural endings in the list."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "先頭の Hundert は文頭のため大文字です。本文では100・1,000の短い形を選んでいます。",
+              "en": "Initial Hundert is capitalized because it begins the sentence. The shorter forms for one hundred and one thousand are selected here."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Сто, тысяча, десять тысяч.",
+          "ttsText": "Сто, тысяча, десять тысяч.",
+          "vocabulary": [
+            {
+              "term": "сто",
+              "meaning": {
+                "ja": "100。",
+                "en": "One hundred."
+              }
+            },
+            {
+              "term": "тысяча",
+              "meaning": {
+                "ja": "1,000。女性名詞として変化する数の語。",
+                "en": "One thousand, a number word declining as a feminine noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "десять тысяч",
+              "explanation": {
+                "ja": "10の後で тысяча を複数生格 тысяч にします。単独の тысяча と語尾が変わります。",
+                "en": "After ten, тысяча becomes genitive plural тысяч, changing from standalone тысяча."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "10,000は千の十倍として表します。тысяч はこの形では末尾に母音を持ちません。",
+              "en": "Ten thousand is expressed as ten thousands. Тысяч has no final vowel in this form."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "مئة، ألف، عشرة آلاف.",
+          "ttsText": "مئة، ألف، عشرة آلاف.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "miʾatun, ʾalfun, ʿasharatu ʾālāfin.",
+            "note": {
+              "ja": "各数を区切る場合は miʾa、ʾalf、ʿasharatu ʾālāf です。最後の数では عشرة と آلاف の間を続けて読みます。",
+              "en": "With pauses between numbers, read miʾa, ʾalf, and ʿasharatu ʾālāf. Within the final number, عشرة and آلاف remain connected."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "مئة・ألف",
+              "meaning": {
+                "ja": "100・1,000。",
+                "en": "One hundred and one thousand."
+              }
+            },
+            {
+              "term": "آلاف",
+              "meaning": {
+                "ja": "ألف（千）の複数形。",
+                "en": "The plural of ألف, thousand."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "عشرة آلاف",
+              "explanation": {
+                "ja": "10,000は「十の千」。ألف が男性名詞なので عشرة を使い、آلاف は複数属格です。",
+                "en": "Ten thousand is ten thousands: masculine ألف takes عشرة, with plural genitive آلاف."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "単独の数の列でも、10,000の内部では数詞と名詞の組み合わせになっています。",
+              "en": "Even in this standalone number list, ten thousand contains an internal numeral–noun construction."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "一百、一千、一万。",
+          "ttsText": "一百、一千、一万。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Yībǎi, yīqiān, yīwàn.",
+            "note": {
+              "ja": "発音時は 一百 yìbǎi、一千 yìqiān、一万 yíwàn。一 の後ろの声調によって変調が異なります。",
+              "en": "In speech: 一百 yìbǎi, 一千 yìqiān, 一万 yíwàn. The tone change of 一 differs according to the following tone."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "一百・一千",
+              "meaning": {
+                "ja": "100・1,000。",
+                "en": "One hundred and one thousand."
+              }
+            },
+            {
+              "term": "一万",
+              "meaning": {
+                "ja": "10,000。万 が大きな数の単位です。",
+                "en": "Ten thousand; 万 is a large-number unit."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一＋百・千・万",
+              "explanation": {
+                "ja": "この列は各単位の前に 一 を明示します。日本語の 百・千 との違いを比較できます。",
+                "en": "Each unit in this list explicitly takes 一, contrasting with Japanese 百 and 千."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "万 は1,000ではなく10,000です。英語の ten thousand と同じ数を一つの単位で表せます。",
+              "en": "万 is ten thousand, not one thousand, providing a unit for the value expressed by English ten thousand."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "백, 천, 만.",
+          "ttsText": "백, 천, 만.",
+          "vocabulary": [
+            {
+              "term": "백・천",
+              "meaning": {
+                "ja": "100・1,000。",
+                "en": "One hundred and one thousand."
+              }
+            },
+            {
+              "term": "만",
+              "meaning": {
+                "ja": "10,000。大きな数を作る単位です。",
+                "en": "Ten thousand, a unit used to build large numbers."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "백, 천, 만",
+              "explanation": {
+                "ja": "いずれも漢数詞です。この数え上げでは各単位の前に 일 を付けず、それぞれ100・1,000・10,000を表します。",
+                "en": "All are Sino-Korean numerals. In this sequence, each unit names one hundred, one thousand, or ten thousand without preceding 일."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "万の位も日常の金額でよく使います。この列は通貨を指定せず、数の大きさだけを比べています。",
+              "en": "The ten-thousands unit is common in monetary amounts. This list compares values without specifying a currency."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "百・千・万",
+        "en": "Hundreds, thousands and ten thousands"
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "りんごはいくつ必要ですか？",
+          "ttsText": "りんごはいくつひつようですか？",
+          "vocabulary": [
+            {
+              "term": "いくつ",
+              "meaning": {
+                "ja": "物の数を尋ねる語。",
+                "en": "A word asking how many items."
+              }
+            },
+            {
+              "term": "必要",
+              "meaning": {
+                "ja": "なくてはならないこと、要ること。",
+                "en": "Being needed or necessary."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "りんごはいくつ",
+              "explanation": {
+                "ja": "品物を は で話題にして、いくつ で必要な数量を尋ねます。「何個」も使えます。",
+                "en": "は makes the item the topic and いくつ asks the required quantity; 何個 is another option."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "買い物の前に必要な数を確かめる場面です。持っている数ではなく、必要な数を聞いています。",
+              "en": "This checks the quantity needed before shopping, rather than how many someone already has."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "How many apples do you need?",
+          "ttsText": "How many apples do you need?",
+          "vocabulary": [
+            {
+              "term": "how many",
+              "meaning": {
+                "ja": "数えられる物の個数を尋ねる表現。",
+                "en": "An expression asking the quantity of countable items."
+              }
+            },
+            {
+              "term": "apples",
+              "meaning": {
+                "ja": "apple の複数形。りんご。",
+                "en": "The plural of apple."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "How many apples",
+              "explanation": {
+                "ja": "how many の後に複数名詞 apples を置きます。",
+                "en": "How many is followed by plural noun apples."
+              }
+            },
+            {
+              "point": "do you need",
+              "explanation": {
+                "ja": "一般動詞 need の現在の疑問文なので、主語 you の前に do を使います。",
+                "en": "As need is an ordinary present-tense verb, do precedes subject you in the question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "品物の数には how many、後に出る値段の質問には how much を使います。",
+              "en": "How many asks an item count; the later price question uses how much."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¿Cuántas manzanas necesitas?",
+          "ttsText": "¿Cuántas manzanas necesitas?",
+          "vocabulary": [
+            {
+              "term": "cuántas",
+              "meaning": {
+                "ja": "いくつの。女性複数名詞に対応する疑問語。",
+                "en": "How many, agreeing with a feminine plural noun."
+              }
+            },
+            {
+              "term": "manzanas",
+              "meaning": {
+                "ja": "りんご。manzana の複数形。",
+                "en": "Apples, the plural of manzana."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Cuántas manzanas",
+              "explanation": {
+                "ja": "疑問語 cuántas を女性複数の manzanas に一致させます。疑問のアクセント記号も必要です。",
+                "en": "Cuántas agrees with feminine plural manzanas and carries the interrogative accent mark."
+              }
+            },
+            {
+              "point": "necesitas",
+              "explanation": {
+                "ja": "necesitar の現在・二人称単数形で、親しい相手 tú を想定しています。",
+                "en": "The second-person singular present of necesitar assumes a familiar tú addressee."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の丁寧形に対し、ここでは親しい相手への問いです。丁寧な usted なら necesita になります。",
+              "en": "Unlike the polite Japanese, this addresses someone familiarly. Formal usted would take necesita."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "De combien de pommes avez-vous besoin ?",
+          "ttsText": "De combien de pommes avez-vous besoin ?",
+          "vocabulary": [
+            {
+              "term": "combien de pommes",
+              "meaning": {
+                "ja": "何個のりんご。combien de の後に名詞を置きます。",
+                "en": "How many apples; the noun follows combien de."
+              }
+            },
+            {
+              "term": "avoir besoin de",
+              "meaning": {
+                "ja": "〜を必要とする、というまとまり。",
+                "en": "A phrase meaning to need something."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "De combien de pommes",
+              "explanation": {
+                "ja": "avoir besoin de の de を保った疑問句です。前置詞 de と、数量句 combien de の両方が現れます。",
+                "en": "The question phrase retains de from avoir besoin de, alongside the de within quantity phrase combien de."
+              }
+            },
+            {
+              "point": "avez-vous",
+              "explanation": {
+                "ja": "動詞 avez と主語 vous を倒置した丁寧な質問です。",
+                "en": "Inversion of verb avez and subject vous forms a polite question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "vous は丁寧な一人の相手にも、複数の相手にも使えます。",
+              "en": "Vous can address one person politely or multiple people."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wie viele Äpfel brauchen Sie?",
+          "ttsText": "Wie viele Äpfel brauchen Sie?",
+          "vocabulary": [
+            {
+              "term": "wie viele",
+              "meaning": {
+                "ja": "いくつの。数えられる物の数量を尋ねます。",
+                "en": "How many, asking the quantity of countable objects."
+              }
+            },
+            {
+              "term": "Äpfel",
+              "meaning": {
+                "ja": "Apfel（りんご）の複数形。母音も変わります。",
+                "en": "The plural of Apfel, apple, with a vowel change."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wie viele Äpfel",
+              "explanation": {
+                "ja": "目的語の疑問句を文頭に置き、次に活用動詞 brauchen、主語 Sie が続きます。",
+                "en": "The object question phrase comes first, followed by conjugated brauchen and subject Sie."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "大文字の Sie は丁寧な「あなた」です。複数のりんごには Äpfel を使い、Apfels とはしません。",
+              "en": "Capitalized Sie is polite you. The plural of apple is Äpfel, not Apfels."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Сколько яблок вам нужно?",
+          "ttsText": "Сколько яблок вам нужно?",
+          "vocabulary": [
+            {
+              "term": "сколько",
+              "meaning": {
+                "ja": "いくつ、どれだけ。数量を尋ねます。",
+                "en": "How many or how much, asking quantity."
+              }
+            },
+            {
+              "term": "яблок",
+              "meaning": {
+                "ja": "яблоко（りんご）の複数生格。",
+                "en": "The genitive plural of яблоко, apple."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Сколько яблок",
+              "explanation": {
+                "ja": "сколько の後ろで、数える名詞を複数生格にしています。",
+                "en": "The counted noun after сколько is genitive plural here."
+              }
+            },
+            {
+              "point": "вам нужно",
+              "explanation": {
+                "ja": "必要とする人を与格 вам で示す、非人称の必要表現です。",
+                "en": "An impersonal need expression, with dative вам marking the person who needs the items."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "вам は丁寧な一人の相手にも複数の相手にも使えます。",
+              "en": "Вам can address one person politely or multiple people."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كم تفاحة تحتاج؟",
+          "ttsText": "كم تفاحة تحتاج؟",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "kam tuffāḥatan taḥtāju?",
+            "note": {
+              "ja": "男性への taḥtāju を採用しています。女性一人なら taḥtājīna。文末休止では taḥtāju は taḥtāj です。",
+              "en": "The reading uses taḥtāju for a male addressee; one woman takes taḥtājīna. At a final pause taḥtāju becomes taḥtāj."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "كم",
+              "meaning": {
+                "ja": "いくつ。数量を尋ねる語。",
+                "en": "How many, asking quantity."
+              }
+            },
+            {
+              "term": "تحتاج",
+              "meaning": {
+                "ja": "あなたは必要とする。本文では男性一人への形。",
+                "en": "You need, addressed here to one man."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كم تفاحة",
+              "explanation": {
+                "ja": "疑問の كم の後ろの「りんご」は、単数対格 tuffāḥatan です。英語の複数 apples と形が異なります。",
+                "en": "After interrogative كم, apple is singular accusative tuffāḥatan, unlike plural apples in English."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "買い物で必要な個数を尋ねる場面です。持ち物の数を問う文ではありません。",
+              "en": "This asks the quantity needed for shopping, not the number already owned."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "你需要几个苹果？",
+          "ttsText": "你需要几个苹果？",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Nǐ xūyào jǐ ge píngguǒ?"
+          },
+          "vocabulary": [
+            {
+              "term": "需要",
+              "meaning": {
+                "ja": "必要とする。",
+                "en": "To need."
+              }
+            },
+            {
+              "term": "几个苹果",
+              "meaning": {
+                "ja": "何個かのりんご、ここでは何個のりんごかという質問。",
+                "en": "How many apples in this question."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "几＋个＋苹果",
+              "explanation": {
+                "ja": "疑問の数詞 几、量詞 个、名詞 苹果 の順に置きます。几个 は必要な個数を尋ねています。",
+                "en": "The order is interrogative numeral 几, classifier 个, then noun 苹果, asking the required number."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "疑問語 几 があるので、この質問の末尾には 吗 を付けません。",
+              "en": "Because 几 already makes the question, sentence-final 吗 is not added."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "사과가 몇 개 필요해요?",
+          "ttsText": "사과가 몇 개 필요해요?",
+          "vocabulary": [
+            {
+              "term": "사과",
+              "meaning": {
+                "ja": "りんご。",
+                "en": "Apple."
+              }
+            },
+            {
+              "term": "몇 개",
+              "meaning": {
+                "ja": "何個。몇 が数量、개 が物を数える単位です。",
+                "en": "How many items; 몇 asks quantity and 개 counts objects."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "사과가 … 필요해요",
+              "explanation": {
+                "ja": "必要な物 사과 に が に当たる 가 を付け、필요해요 で必要性を述べます。",
+                "en": "가 marks the needed item 사과, and 필요해요 expresses necessity."
+              }
+            },
+            {
+              "point": "몇 개",
+              "explanation": {
+                "ja": "疑問の数詞 몇 と単位 개 は分けて書きます。",
+                "en": "Interrogative 몇 and counter 개 are written separately."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "数詞の単独の読みとは別に、物を数える単位を組み合わせる例です。",
+              "en": "This illustrates combining a number expression with a counter rather than reciting a number alone."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "りんごの個数を伝える",
+        "en": "Asking for a quantity of apples"
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "りんごを三つください。",
+          "ttsText": "りんごをみっつください。",
+          "vocabulary": [
+            {
+              "term": "三つ",
+              "meaning": {
+                "ja": "三個。ここでは みっつ と読みます。",
+                "en": "Three items, read みっつ here."
+              }
+            },
+            {
+              "term": "ください",
+              "meaning": {
+                "ja": "相手に物を渡してもらうよう依頼する表現。",
+                "en": "A request for the listener to give something."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "りんごを三つ",
+              "explanation": {
+                "ja": "対象を を で示し、その後に数量 三つ を置いています。三 はここでは さん と読みません。",
+                "en": "を marks the object, followed by quantity 三つ. 三 is not read さん in this expression."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "買う個数を伝える短い依頼です。「りんごを三個ください」と言うこともできます。",
+              "en": "A short request specifying the purchase quantity. りんごを三個ください is also possible."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Three apples, please.",
+          "ttsText": "Three apples, please.",
+          "vocabulary": [
+            {
+              "term": "three apples",
+              "meaning": {
+                "ja": "三個のりんご。apple を複数形にします。",
+                "en": "Three apples, with apple in the plural."
+              }
+            },
+            {
+              "term": "please",
+              "meaning": {
+                "ja": "依頼に丁寧さを添える語。",
+                "en": "A word adding politeness to a request."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Three apples, please",
+              "explanation": {
+                "ja": "動詞を省いた短い注文です。文として述べるなら I'd like three apples, please. とできます。",
+                "en": "A short order without an expressed verb. A fuller sentence is I'd like three apples, please."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "数詞の直後に品物の複数名詞を置き、日本語の つ に相当する助数詞は使いません。",
+              "en": "The numeral directly precedes the plural noun; no counter corresponding to Japanese つ is used."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Tres manzanas, por favor.",
+          "ttsText": "Tres manzanas, por favor.",
+          "vocabulary": [
+            {
+              "term": "tres manzanas",
+              "meaning": {
+                "ja": "三個のりんご。manzanas は女性複数。",
+                "en": "Three apples; manzanas is feminine plural."
+              }
+            },
+            {
+              "term": "por favor",
+              "meaning": {
+                "ja": "お願いします。依頼に添える表現。",
+                "en": "Please, a phrase added to requests."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Tres manzanas",
+              "explanation": {
+                "ja": "数詞 tres は名詞の性別によって形を変えず、名詞を複数にします。",
+                "en": "Tres does not vary with the noun's gender; the noun is plural."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店で個数を伝える短い言い方です。動詞を省いても、注文という場面から意図が伝わります。",
+              "en": "A brief way to state a quantity in a shop; the ordering context makes the intention clear without a verb."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Trois pommes, s'il vous plaît.",
+          "ttsText": "Trois pommes, s'il vous plaît.",
+          "vocabulary": [
+            {
+              "term": "trois pommes",
+              "meaning": {
+                "ja": "三個のりんご。pomme に複数の s を付けます。",
+                "en": "Three apples; pomme takes plural s in writing."
+              }
+            },
+            {
+              "term": "s'il vous plaît",
+              "meaning": {
+                "ja": "お願いします。丁寧な依頼に添えます。",
+                "en": "Please, used in a polite request."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Trois pommes",
+              "explanation": {
+                "ja": "数詞 trois が数量を示すので、名詞の前に des は加えません。",
+                "en": "Trois specifies the quantity, so des is not added before the noun."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "pommes の複数の s は通常発音しません。この句では trois が複数の数量を聞き手に伝えます。",
+              "en": "The plural s in pommes is normally silent; trois communicates the plural quantity in speech."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Drei Äpfel, bitte.",
+          "ttsText": "Drei Äpfel, bitte.",
+          "vocabulary": [
+            {
+              "term": "drei Äpfel",
+              "meaning": {
+                "ja": "三個のりんご。Apfel の複数形は Äpfel。",
+                "en": "Three apples; the plural of Apfel is Äpfel."
+              }
+            },
+            {
+              "term": "bitte",
+              "meaning": {
+                "ja": "お願いします。",
+                "en": "Please."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Drei Äpfel, bitte",
+              "explanation": {
+                "ja": "動詞を省いた注文で、数詞を品物の名詞の前に置きます。数詞 drei の語尾は変えません。",
+                "en": "A verbless order with the numeral before the item noun; drei takes no added ending."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Ich hätte gern drei Äpfel. のような文を、店で短く伝える場面に使えます。",
+              "en": "It can serve as a short shop request in place of a fuller sentence such as Ich hätte gern drei Äpfel."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Три яблока, пожалуйста.",
+          "ttsText": "Три яблока, пожалуйста.",
+          "vocabulary": [
+            {
+              "term": "три",
+              "meaning": {
+                "ja": "3。",
+                "en": "Three."
+              }
+            },
+            {
+              "term": "яблока",
+              "meaning": {
+                "ja": "яблоко の単数生格。この数量表現で使う形。",
+                "en": "The genitive singular of яблоко, used in this quantity expression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Три яблока",
+              "explanation": {
+                "ja": "この基本の数量句では、три の後に単数生格 яблока を置きます。英語の複数 apples と異なります。",
+                "en": "In this basic quantity phrase, три takes genitive singular яблока, unlike English plural apples."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "пожалуйста を添えた短い注文です。先ほどの Сколько яблок と名詞の語尾が違う点を比べられます。",
+              "en": "A short order with пожалуйста. Compare the noun ending with the earlier Сколько яблок."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أريد ثلاث تفاحات، من فضلك.",
+          "ttsText": "أريد ثلاث تفاحات، من فضلك.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾurīdu thalātha tuffāḥātin, min faḍlika.",
+            "note": {
+              "ja": "min faḍlika は男性一人への依頼です。女性一人なら min faḍliki。本文の文末休止は min faḍlik です。",
+              "en": "Min faḍlika addresses one man; for one woman it is min faḍliki. At the sentence-final pause, use min faḍlik."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "أريد",
+              "meaning": {
+                "ja": "私は欲しい。أراد の現在・一人称単数形。",
+                "en": "I want, the first-person singular present of أراد."
+              }
+            },
+            {
+              "term": "ثلاث تفاحات",
+              "meaning": {
+                "ja": "三つのりんご。تفاحات は تفاحة の複数形。",
+                "en": "Three apples; تفاحات is the plural of تفاحة."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ثلاث تفاحات",
+              "explanation": {
+                "ja": "تفاحة は女性名詞なので、3には ثلاث を使います。数詞は目的語として対格、数える名詞は複数属格です。",
+                "en": "Feminine تفاحة takes ثلاث for three. The numeral is accusative as object, and the counted noun is genitive plural."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の「ください」に対し、「三つ欲しい、お願いします」と希望を述べる形です。",
+              "en": "Instead of Japanese give me, this states I want three, please."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Madinah Arabic: Arabic Numbers 1 to 20",
+              "url": "https://madinaharabic.com/blog/arabic-numbers-1-to-20"
+            }
+          ],
+          "audio": {
+            "path": "practical/numbers/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "请给我三个苹果。",
+          "ttsText": "请给我三个苹果。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐng gěi wǒ sān ge píngguǒ.",
+            "note": {
+              "ja": "请给我 は第3声が三つ続きます。一まとまりで発音すると、前二つが第2声になり qíng géi wǒ と読むことがあります。",
+              "en": "请给我 has three consecutive third tones. In one prosodic group, the first two can become second tone: qíng géi wǒ."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "请给我",
+              "meaning": {
+                "ja": "私にください。请 が依頼を丁寧にします。",
+                "en": "Please give me; 请 adds politeness."
+              }
+            },
+            {
+              "term": "三个苹果",
+              "meaning": {
+                "ja": "三つのりんご。个 は量詞。",
+                "en": "Three apples; 个 is the classifier."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "三＋个＋苹果",
+              "explanation": {
+                "ja": "数詞、量詞、名詞の順です。ここでは数詞を 苹果 に直接付けず、个 を入れます。",
+                "en": "The order is numeral, classifier, noun. 个 separates the numeral from 苹果 here."
+              }
+            },
+            {
+              "point": "给我",
+              "explanation": {
+                "ja": "给 の後に受け手 我、さらに渡す物 三个苹果 を置きます。",
+                "en": "给 is followed by recipient 我 and then the object 三个苹果."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "りんごの数量を指定して渡してもらう依頼です。店で買う場面にも使えます。",
+              "en": "A request to be given a specified quantity of apples, also usable when buying them in a shop."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "사과 세 개 주세요.",
+          "ttsText": "사과 세 개 주세요.",
+          "vocabulary": [
+            {
+              "term": "세 개",
+              "meaning": {
+                "ja": "三個。固有数詞 셋 が単位 개 の前で 세 になります。",
+                "en": "Three items; native 셋 becomes 세 before counter 개."
+              }
+            },
+            {
+              "term": "주세요",
+              "meaning": {
+                "ja": "ください。주다 による丁寧な依頼。",
+                "en": "Please give, a polite request built on 주다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "사과 세 개",
+              "explanation": {
+                "ja": "品物の名詞、数詞、単位の順に数量を付けます。漢数詞の 삼 を唱える列とは形が違います。",
+                "en": "The order is item noun, numeral, counter, differing from standalone Sino-Korean 삼 in the counting sequence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "目的語の助詞を省いた自然な注文です。세 と 개 は分けて書きます。",
+              "en": "A natural order omitting the object particle. 세 and 개 are written separately."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "何名様ですか？",
+          "ttsText": "なんめいさまですか？",
+          "vocabulary": [
+            {
+              "term": "何名",
+              "meaning": {
+                "ja": "人数を尋ねる丁寧な数え方。",
+                "en": "A polite way to ask how many people."
+              }
+            },
+            {
+              "term": "様",
+              "meaning": {
+                "ja": "相手への敬意を添える語。ここでは来店客に付けます。",
+                "en": "An honorific, here applied to customers."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "何名様ですか",
+              "explanation": {
+                "ja": "人数を表す疑問句に ですか を付けた質問です。相手の名前を尋ねる文ではありません。",
+                "en": "A question formed by adding ですか to an interrogative person count; it does not ask anyone's name."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "飲食店などで店員が来店客の人数を確認する場面です。",
+              "en": "A server asks the size of a customer's party, for example in a restaurant."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "How many people are in your party?",
+          "ttsText": "How many people are in your party?",
+          "vocabulary": [
+            {
+              "term": "how many people",
+              "meaning": {
+                "ja": "何人。person の複数にはここで people を使います。",
+                "en": "How many people; the plural of person used here is people."
+              }
+            },
+            {
+              "term": "your party",
+              "meaning": {
+                "ja": "あなたのグループ。この party は祝宴ではありません。",
+                "en": "Your group; party does not mean a celebration here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "How many people are …?",
+              "explanation": {
+                "ja": "主語の人数自体を尋ねています。複数の people に合わせて are を使います。",
+                "en": "The question asks the number in the subject itself. Plural people takes are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店員が席を用意するために、同じグループで何人いるかを尋ねる表現です。",
+              "en": "A server uses this to ask the group size when arranging seating."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¿Cuántos son?",
+          "ttsText": "¿Cuántos son?",
+          "vocabulary": [
+            {
+              "term": "cuántos",
+              "meaning": {
+                "ja": "何人。ここでは人の数を尋ねています。",
+                "en": "How many, here asking the number of people."
+              }
+            },
+            {
+              "term": "son",
+              "meaning": {
+                "ja": "ser の現在・三人称複数形。",
+                "en": "The third-person plural present of ser."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Cuántos son",
+              "explanation": {
+                "ja": "相手のグループ ustedes を想定し、人数を尋ねる短い形です。son は ustedes と一致します。",
+                "en": "A short question addressing the group as ustedes; son agrees with ustedes."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店の入口などで人数を確認する場面です。cuántos は複数の人を指し、名詞 personas は省略しています。",
+              "en": "Used to check group size at a restaurant entrance. Cuántos refers to people without an expressed noun personas."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Vous êtes combien ?",
+          "ttsText": "Vous êtes combien ?",
+          "vocabulary": [
+            {
+              "term": "vous",
+              "meaning": {
+                "ja": "相手を丁寧に、または複数として指す代名詞。",
+                "en": "A pronoun addressing someone politely or addressing multiple people."
+              }
+            },
+            {
+              "term": "combien",
+              "meaning": {
+                "ja": "どれだけ、ここでは何人。",
+                "en": "How many, here referring to people."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Vous êtes combien ?",
+              "explanation": {
+                "ja": "会話でよく使う、肯定文の語順のまま疑問語を最後に置く質問です。",
+                "en": "A common conversational question retaining statement order and placing the question word last."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店員がグループの人数を尋ねる場面です。料金を聞く combien ではありません。",
+              "en": "A server asks the party size; combien is not asking about price here."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Für wie viele Personen?",
+          "ttsText": "Für wie viele Personen?",
+          "vocabulary": [
+            {
+              "term": "für",
+              "meaning": {
+                "ja": "〜のために。ここでは席を用意する人数を導きます。",
+                "en": "For, introducing how many people need seating here."
+              }
+            },
+            {
+              "term": "wie viele Personen",
+              "meaning": {
+                "ja": "何人。Personen は Person の複数形。",
+                "en": "How many people; Personen is the plural of Person."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Für wie viele Personen?",
+              "explanation": {
+                "ja": "動詞を省いた接客場面の質問です。für の目的語は対格で、複数の Personen を使います。",
+                "en": "A verbless service question. Für takes an accusative object, here plural Personen."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "直訳は「何人のために？」で、席やテーブルの話だと分かる場面で使います。",
+              "en": "Literally for how many people, used when seating or a table is understood from context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Вас сколько человек?",
+          "ttsText": "Вас сколько человек?",
+          "vocabulary": [
+            {
+              "term": "вас",
+              "meaning": {
+                "ja": "вы の生格。ここでは相手のグループを指します。",
+                "en": "The genitive of вы, referring to the listener's group here."
+              }
+            },
+            {
+              "term": "сколько человек",
+              "meaning": {
+                "ja": "何人。数量を尋ねるときに使う形。",
+                "en": "How many people, a quantity expression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Вас сколько человек?",
+              "explanation": {
+                "ja": "グループの人数を尋ねる口語的な語順です。数量表現では человек を使い、ここでは людей としません。",
+                "en": "A conversational order for asking group size. This counting expression uses человек rather than людей."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "相手のグループ全体の人数を確認します。返答の Нас двое と、人を生格で示す型を比べられます。",
+              "en": "It checks the size of the listener's group; compare the genitive person reference in the answer Нас двое."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كم عددكم؟",
+          "ttsText": "كم عددكم؟",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "kam ʿadadukum?",
+            "note": {
+              "ja": "ـكم は男性を含む複数の相手への形です。女性だけのグループに直接呼びかけるなら ʿadadukunna です。",
+              "en": "ـكم addresses a plural group including men. Directly addressing an all-female group uses ʿadadukunna."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "كم",
+              "meaning": {
+                "ja": "いくつ、どれだけ。",
+                "en": "How many or how much."
+              }
+            },
+            {
+              "term": "عددكم",
+              "meaning": {
+                "ja": "あなたたちの人数。عدد に所有接尾辞 ـكم を付けています。",
+                "en": "Your number, with possessive suffix ـكم attached to عدد."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كم عددكم؟",
+              "explanation": {
+                "ja": "直訳は「あなたたちの数はいくつか」。كم の後に数を表す名詞を置き、グループの人数を尋ねています。",
+                "en": "Literally what is your number; كم with the noun for number asks the size of the group."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "個人の年齢ではなく、同行している人たちの人数を尋ねる場面です。",
+              "en": "The context asks the size of a group traveling together, not an individual's age."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "请问，几位？",
+          "ttsText": "请问，几位？",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Qǐngwèn, jǐ wèi?"
+          },
+          "vocabulary": [
+            {
+              "term": "请问",
+              "meaning": {
+                "ja": "伺いますが、という丁寧な質問の導入。",
+                "en": "A polite introduction to a question, roughly may I ask."
+              }
+            },
+            {
+              "term": "几位",
+              "meaning": {
+                "ja": "何名様。位 は人を丁寧に数える量詞。",
+                "en": "How many people; 位 is a respectful classifier for people."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "几＋位",
+              "explanation": {
+                "ja": "疑問の数詞 几 に量詞 位 を続け、文脈で分かる「人」を省いています。",
+                "en": "Interrogative numeral 几 takes classifier 位, omitting the understood reference to people."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店員が人数を確かめる短い言い方です。名前や職業を尋ねているわけではありません。",
+              "en": "A short way for staff to check group size, rather than asking names or occupations."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "몇 분이세요?",
+          "ttsText": "몇 분이세요?",
+          "vocabulary": [
+            {
+              "term": "몇 분",
+              "meaning": {
+                "ja": "何名様。분 は人を敬って数える単位。",
+                "en": "How many people, with respectful counter 분."
+              }
+            },
+            {
+              "term": "이세요",
+              "meaning": {
+                "ja": "名詞に付く、相手を敬う丁寧な形。",
+                "en": "An honorific polite form attached to a noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "몇 분이세요?",
+              "explanation": {
+                "ja": "人数の疑問句に敬語の語尾を付け、来店客の人数を丁寧に尋ねます。",
+                "en": "An honorific ending attaches to the person-count question to ask customers their party size politely."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここで 분 は人を数えています。時間の「分」も同じ綴りですが、この接客場面では意味が違います。",
+              "en": "분 counts people here. Minutes have the same spelling, but that is not the meaning in this service context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "店で人数を伝える",
+        "en": "Giving the size of your party"
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "二人です。",
+          "ttsText": "ふたりです。",
+          "vocabulary": [
+            {
+              "term": "二人",
+              "meaning": {
+                "ja": "二名。ふたり という特別な読みを使います。",
+                "en": "Two people, using the special reading ふたり."
+              }
+            },
+            {
+              "term": "です",
+              "meaning": {
+                "ja": "人数を丁寧に述べる語尾。",
+                "en": "A polite ending used to state the group size."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "二人です",
+              "explanation": {
+                "ja": "先ほどの人数の質問への短い答えです。私たちは を省き、人数だけを伝えています。",
+                "en": "A short reply to the preceding question, giving only the number and omitting 私たちは."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "数え上げの 二（に）に、単純に 人 の読みを足す形ではありません。",
+              "en": "This is not formed by simply adding a reading of 人 to standalone 二, に."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "There are two of us.",
+          "ttsText": "There are two of us.",
+          "vocabulary": [
+            {
+              "term": "two",
+              "meaning": {
+                "ja": "2。ここでは人の数です。",
+                "en": "Two, counting people here."
+              }
+            },
+            {
+              "term": "of us",
+              "meaning": {
+                "ja": "私たちの中で、ここでは私たちの人数を示します。",
+                "en": "Of us, used here to state the size of our group."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "There are two of us",
+              "explanation": {
+                "ja": "人数を伝える定型的な型です。two に合わせて複数の are を使います。",
+                "en": "A standard pattern for giving group size, with plural are matching two."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この店で席が必要なグループが二人だという返答です。会話では Two, please. と短くも言えます。",
+              "en": "The answer says the party needing seats has two people. Two, please is also possible in conversation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Somos dos.",
+          "ttsText": "Somos dos.",
+          "vocabulary": [
+            {
+              "term": "somos",
+              "meaning": {
+                "ja": "ser の現在・一人称複数形。",
+                "en": "The first-person plural present of ser."
+              }
+            },
+            {
+              "term": "dos",
+              "meaning": {
+                "ja": "2。ここでは二人。",
+                "en": "Two, here two people."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Somos dos",
+              "explanation": {
+                "ja": "動詞から「私たち」だと分かるため nosotros を省略し、dos で人数を述べます。",
+                "en": "The verb identifies we, allowing nosotros to be omitted, while dos states the number."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この人数の答えでは personas などの名詞を付けなくても通じます。",
+              "en": "In this answer about group size, no noun such as personas is needed."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Nous sommes deux.",
+          "ttsText": "Nous sommes deux.",
+          "vocabulary": [
+            {
+              "term": "nous sommes",
+              "meaning": {
+                "ja": "私たちは〜です。être の一人称複数。",
+                "en": "We are, using the first-person plural of être."
+              }
+            },
+            {
+              "term": "deux",
+              "meaning": {
+                "ja": "2。ここではグループの人数。",
+                "en": "Two, the group size here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Nous sommes deux",
+              "explanation": {
+                "ja": "主語、être、数詞で人数を述べます。英語の two of us と同じ語順にする必要はありません。",
+                "en": "Subject, être, and numeral give the group size; there is no need to reproduce English two of us word for word."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店員への返答として、二人の席が必要だと伝わる文です。",
+              "en": "As a reply to staff, this communicates that seating is needed for two."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wir sind zu zweit.",
+          "ttsText": "Wir sind zu zweit.",
+          "vocabulary": [
+            {
+              "term": "wir sind",
+              "meaning": {
+                "ja": "私たちは〜です。sein の一人称複数。",
+                "en": "We are, the first-person plural of sein."
+              }
+            },
+            {
+              "term": "zu zweit",
+              "meaning": {
+                "ja": "二人で、二人一組で。",
+                "en": "As two people, or in a group of two."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "zu zweit",
+              "explanation": {
+                "ja": "人数のまとまりを表す定型的な表現です。単独の数詞 zwei とは形が異なります。",
+                "en": "A set expression for a group of two, differing in form from standalone numeral zwei."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この場面では「私たちは二人です」という返答です。「二番目」という順番ではありません。",
+              "en": "Here it answers that there are two in the party; it does not mean second in order."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Нас двое.",
+          "ttsText": "Нас двое.",
+          "vocabulary": [
+            {
+              "term": "нас",
+              "meaning": {
+                "ja": "мы の生格。ここでは人数を述べる集団を示します。",
+                "en": "The genitive of мы, identifying the group being counted."
+              }
+            },
+            {
+              "term": "двое",
+              "meaning": {
+                "ja": "二人。人のまとまりを表す集合数詞。",
+                "en": "Two people, a collective numeral referring to a group."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Нас двое",
+              "explanation": {
+                "ja": "人を生格で示し、その人数を集合数詞で述べます。現在の動詞は明示しません。",
+                "en": "A genitive person reference combines with a collective numeral to state group size, with no overt present verb."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "人数への簡潔な返答です。この нас と集合数詞の型は、話し手たちが女性二人でも使えます。",
+              "en": "A concise reply about group size. This construction with нас and a collective numeral also works for two women."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "نحن اثنان.",
+          "ttsText": "نحن اثنان.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "naḥnu ithnāni.",
+            "note": {
+              "ja": "続けると naḥnu thnāni、文末で休止すると naḥnu thnān。女性二人の形は ithnatāni です。",
+              "en": "Connected speech gives naḥnu thnāni, or naḥnu thnān with a final pause. The form for two women is ithnatāni."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "نحن",
+              "meaning": {
+                "ja": "私たち。",
+                "en": "We."
+              }
+            },
+            {
+              "term": "اثنان",
+              "meaning": {
+                "ja": "2。ここでは二人を表す主格形。",
+                "en": "Two, in the nominative form referring here to two people."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "نحن اثنان",
+              "explanation": {
+                "ja": "名詞文で人数を述べます。اثنان は二人のまとまりを表す述語で、英語の are に当たる動詞はありません。",
+                "en": "A nominal sentence states group size, with اثنان as the predicate and no overt equivalent of are."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は男性を含む二人を想定しています。女性二人だけなら نحن اثنتان です。",
+              "en": "This assumes a pair including a man. Two women use نحن اثنتان."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "两位。",
+          "ttsText": "两位。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Liǎng wèi."
+          },
+          "vocabulary": [
+            {
+              "term": "两",
+              "meaning": {
+                "ja": "二つ、ここでは二人。量詞の前で使う2の形です。",
+                "en": "Two, here used before a classifier to count people."
+              }
+            },
+            {
+              "term": "位",
+              "meaning": {
+                "ja": "人を丁寧に数える量詞。",
+                "en": "A respectful classifier for people."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "两位",
+              "explanation": {
+                "ja": "前の 几位？ に合わせ、数詞と量詞だけで人数を答えています。数え上げの 二 と使い分けます。",
+                "en": "A numeral and classifier answer the preceding 几位?; 两 contrasts with 二 in the counting sequence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店員の「何名様」に合わせた短い返答です。一般的に自分たちの人数を述べるなら 我们两个人 とも言えます。",
+              "en": "A brief answer echoing the server's polite count. For a general statement about one's group, 我们两个人 is also possible."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "두 명이에요.",
+          "ttsText": "두 명이에요.",
+          "vocabulary": [
+            {
+              "term": "두",
+              "meaning": {
+                "ja": "固有数詞 둘 が単位の前で取る形。",
+                "en": "The form of native numeral 둘 used before a counter."
+              }
+            },
+            {
+              "term": "명",
+              "meaning": {
+                "ja": "人を数える単位。ここでは自分たちを数えます。",
+                "en": "A counter for people, used here for one's own group."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "두 명이에요",
+              "explanation": {
+                "ja": "둘 が 두 になり、単位 명 と名詞の丁寧な語尾 이에요 を続けます。",
+                "en": "둘 becomes 두 before counter 명, followed by polite noun ending 이에요."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店員の質問の 분 は敬語ですが、自分たちを答えるこの文では 명 を使っています。",
+              "en": "The server's question uses honorific 분; this reply about one's own group uses 명."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "한국어기초사전: 명",
+              "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=70812"
+            }
+          ],
+          "audio": {
+            "path": "practical/numbers/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "これはいくらですか？",
+          "ttsText": "これはいくらですか？",
+          "vocabulary": [
+            {
+              "term": "これ",
+              "meaning": {
+                "ja": "店で指し示している品物。",
+                "en": "The item being indicated in the shop."
+              }
+            },
+            {
+              "term": "いくら",
+              "meaning": {
+                "ja": "値段や金額を尋ねる語。",
+                "en": "A word asking a price or monetary amount."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "これはいくらですか",
+              "explanation": {
+                "ja": "品物を話題にし、数量の いくつ ではなく金額の いくら を使います。",
+                "en": "The item is the topic; いくら asks its price, unlike いくつ for an item count."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "品物の価格を聞く短い質問です。この段階では通貨は指定していません。",
+              "en": "A short question asking an item's price, without specifying a currency yet."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "How much does this cost?",
+          "ttsText": "How much does this cost?",
+          "vocabulary": [
+            {
+              "term": "how much",
+              "meaning": {
+                "ja": "ここではいくら、という金額の質問。",
+                "en": "Here, a question asking the monetary amount."
+              }
+            },
+            {
+              "term": "cost",
+              "meaning": {
+                "ja": "値段が〜である。",
+                "en": "To have a particular price."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "does this cost",
+              "explanation": {
+                "ja": "三人称単数 this の疑問文なので does を使い、後ろの cost は原形にします。",
+                "en": "Third-person singular this takes does in the question, followed by base-form cost."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "品物の個数なら how many、価格ならこの文の how much を使います。",
+              "en": "How many asks the number of items; how much here asks the price."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¿Cuánto cuesta esto?",
+          "ttsText": "¿Cuánto cuesta esto?",
+          "vocabulary": [
+            {
+              "term": "cuánto",
+              "meaning": {
+                "ja": "ここではいくら、という金額の疑問語。",
+                "en": "Here, the interrogative asking how much money."
+              }
+            },
+            {
+              "term": "cuesta",
+              "meaning": {
+                "ja": "costar の現在・三人称単数形。",
+                "en": "The third-person singular present of costar."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "cuesta esto",
+              "explanation": {
+                "ja": "指示代名詞 esto を主語にし、値段を costar で尋ねます。cuesta では語幹の o が ue になります。",
+                "en": "Demonstrative esto is the subject of the price question with costar; its stem o changes to ue in cuesta."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "esto は名詞なしで「これ」と指す中性形です。この文では品物の文法上の性を指定しません。",
+              "en": "Esto is neuter this used without a noun; the item's grammatical gender is not specified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Combien ça coûte ?",
+          "ttsText": "Combien ça coûte ?",
+          "vocabulary": [
+            {
+              "term": "combien",
+              "meaning": {
+                "ja": "いくら、どれだけ。ここでは金額です。",
+                "en": "How much, asking an amount of money here."
+              }
+            },
+            {
+              "term": "ça coûte",
+              "meaning": {
+                "ja": "それは〜の値段がする。ça は会話的な「これ・それ」。",
+                "en": "It costs; ça is conversational this or that."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Combien ça coûte ?",
+              "explanation": {
+                "ja": "会話の疑問文で、疑問語の後は主語 ça、動詞 coûte の順です。",
+                "en": "A conversational question with question word followed by subject ça and verb coûte."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "倒置した Combien cela coûte-t-il ? より日常的な言い方を採用しています。",
+              "en": "This uses a more everyday formulation than inverted Combien cela coûte-t-il ?"
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wie viel kostet das?",
+          "ttsText": "Wie viel kostet das?",
+          "vocabulary": [
+            {
+              "term": "wie viel",
+              "meaning": {
+                "ja": "いくら。ここでは金額を尋ねます。",
+                "en": "How much, asking a price here."
+              }
+            },
+            {
+              "term": "kostet",
+              "meaning": {
+                "ja": "kosten の三人称単数現在形。",
+                "en": "The third-person singular present of kosten."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wie viel kostet das?",
+              "explanation": {
+                "ja": "疑問句の後に活用動詞 kostet と主語 das を置きます。",
+                "en": "The question phrase is followed by conjugated kostet and subject das."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "個数の wie viele Äpfel と違い、金額にはこの文の wie viel を使います。",
+              "en": "Unlike wie viele Äpfel for an item count, this price question uses wie viel."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Сколько это стоит?",
+          "ttsText": "Сколько это стоит?",
+          "vocabulary": [
+            {
+              "term": "сколько",
+              "meaning": {
+                "ja": "どれだけ。ここでは価格を尋ねます。",
+                "en": "How much, asking a price here."
+              }
+            },
+            {
+              "term": "стоит",
+              "meaning": {
+                "ja": "стоить（値段が〜である）の三人称単数形。",
+                "en": "The third-person singular of стоить, to cost."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "это стоит",
+              "explanation": {
+                "ja": "это を主語として、стоить で値段を述べる型を質問にしています。",
+                "en": "The question uses the price construction with это as subject and стоить as verb."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "数と金額のどちらにも сколько を使えます。ここでは стоит が価格の話だと明確にしています。",
+              "en": "Сколько can ask either counts or amounts; стоит makes it clear that this question concerns price."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كم ثمن هذا؟",
+          "ttsText": "كم ثمن هذا؟",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "kam thamanu hādhā?"
+          },
+          "vocabulary": [
+            {
+              "term": "كم",
+              "meaning": {
+                "ja": "いくら。ここでは値段を尋ねます。",
+                "en": "How much, asking the price here."
+              }
+            },
+            {
+              "term": "ثمن هذا",
+              "meaning": {
+                "ja": "これの値段。ثمن は価格を表す名詞。",
+                "en": "The price of this; ثمن is the noun for price."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ثمن هذا",
+              "explanation": {
+                "ja": "ثمن と指示代名詞 هذا で「これの値段」という所有関係を作ります。ثمن に定冠詞を重ねません。",
+                "en": "ثمن with demonstrative هذا forms a possessive construction meaning the price of this; no article is added to ثمن."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "品物を指して価格を尋ねる文です。كم の後ろに個数を数える名詞を置く、りんごの質問とは構造が異なります。",
+              "en": "It asks an indicated item's price, unlike the apple question with a counted noun after كم."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这个多少钱？",
+          "ttsText": "这个多少钱？",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè ge duōshao qián?"
+          },
+          "vocabulary": [
+            {
+              "term": "这个",
+              "meaning": {
+                "ja": "これ。指示語 这 と量詞 个 の組み合わせ。",
+                "en": "This one, combining demonstrative 这 and classifier 个."
+              }
+            },
+            {
+              "term": "多少钱",
+              "meaning": {
+                "ja": "いくら。多少 とお金の 钱 を組み合わせます。",
+                "en": "How much money, combining 多少 with 钱."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "这个多少钱？",
+              "explanation": {
+                "ja": "品物を先に示し、多少钱 で値段を尋ねます。ここでは動詞や 是 を加えなくても自然な質問です。",
+                "en": "The item comes first, followed by 多少钱. The question is natural without adding a verb or 是."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "钱 はお金全般です。まだ元やユーロなどの具体的な通貨は指定していません。",
+              "en": "钱 means money generally; no specific currency such as yuan or euros has yet been specified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이건 얼마예요?",
+          "ttsText": "이건 얼마예요?",
+          "vocabulary": [
+            {
+              "term": "이건",
+              "meaning": {
+                "ja": "이것은 の縮約形。これは。",
+                "en": "A contraction of 이것은, as for this."
+              }
+            },
+            {
+              "term": "얼마",
+              "meaning": {
+                "ja": "いくら。ここでは金額を尋ねる語。",
+                "en": "How much, asking the price here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "얼마예요?",
+              "explanation": {
+                "ja": "母音で終わる 얼마 に 예요 を付け、疑問の抑揚で価格を尋ねます。",
+                "en": "Vowel-final 얼마 takes 예요; questioning intonation makes it a price question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "個数の 몇 개 と金額の 얼마 を使い分ける例です。",
+              "en": "This contrasts 얼마 for price with 몇 개 for a number of items."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "値段を尋ねる",
+        "en": "Asking a price"
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "十五ユーロです。",
+          "ttsText": "じゅうごゆーろです。",
+          "vocabulary": [
+            {
+              "term": "十五",
+              "meaning": {
+                "ja": "15。じゅうご と読みます。",
+                "en": "Fifteen, read じゅうご."
+              }
+            },
+            {
+              "term": "ユーロ",
+              "meaning": {
+                "ja": "この例で使う通貨の単位。",
+                "en": "The currency unit used in this example."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "十五ユーロ",
+              "explanation": {
+                "ja": "数の後ろに通貨の単位を置きます。ユーロ の形は金額の大小で変わりません。",
+                "en": "The currency unit follows the number. ユーロ does not change form with the amount."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の質問への練習用の価格です。実在する商品の価格を示しているわけではありません。",
+              "en": "A practice price answering the previous question, not the price of a real product."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "It costs fifteen euros.",
+          "ttsText": "It costs fifteen euros.",
+          "vocabulary": [
+            {
+              "term": "fifteen",
+              "meaning": {
+                "ja": "15。",
+                "en": "Fifteen."
+              }
+            },
+            {
+              "term": "euros",
+              "meaning": {
+                "ja": "euro の複数形。",
+                "en": "The plural of euro."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "It costs",
+              "explanation": {
+                "ja": "三人称単数 It の肯定文では cost に s を付けます。質問の does … cost と比べられます。",
+                "en": "With third-person singular It in a statement, cost takes s; compare does … cost in the question."
+              }
+            },
+            {
+              "point": "fifteen euros",
+              "explanation": {
+                "ja": "数の後に通貨名の複数形 euros を置きます。",
+                "en": "The numeral is followed by plural currency noun euros."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "店で値段を答える例です。短く Fifteen euros. と言うこともできます。",
+              "en": "An example of giving a shop price. The shorter Fifteen euros is also possible."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Cuesta quince euros.",
+          "ttsText": "Cuesta quince euros.",
+          "vocabulary": [
+            {
+              "term": "cuesta",
+              "meaning": {
+                "ja": "それは〜の値段がする。",
+                "en": "It costs."
+              }
+            },
+            {
+              "term": "quince euros",
+              "meaning": {
+                "ja": "15ユーロ。euro を複数形にします。",
+                "en": "Fifteen euros, with euro in the plural."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Cuesta quince euros",
+              "explanation": {
+                "ja": "値段を問う前の文と同じ costar を使います。主語は品物一つなので、金額が複数でも動詞は cuesta です。",
+                "en": "The same costar as in the question states the price. The subject is one item, so the verb remains cuesta despite the plural amount."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "何の値段かは直前の質問から分かるため、esto は繰り返していません。",
+              "en": "Esto is not repeated because the preceding question identifies the item."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Ça coûte quinze euros.",
+          "ttsText": "Ça coûte quinze euros.",
+          "vocabulary": [
+            {
+              "term": "quinze",
+              "meaning": {
+                "ja": "15。",
+                "en": "Fifteen."
+              }
+            },
+            {
+              "term": "euros",
+              "meaning": {
+                "ja": "euro の複数形。書くと s が付きます。",
+                "en": "The plural of euro, written with s."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Ça coûte",
+              "explanation": {
+                "ja": "主語は品物を指す単数の ça です。複数の euros ではなく主語に合わせて coûte を使います。",
+                "en": "The subject is singular ça referring to the item. Coûte agrees with it, not with plural euros."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "quinze euros では quinze の末尾の /z/ を次の母音につなげて読みます。euros の最後の s は発音しません。",
+              "en": "In quinze euros, the final /z/ of quinze links to the next vowel. The final s of euros is silent."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Das kostet fünfzehn Euro.",
+          "ttsText": "Das kostet fünfzehn Euro.",
+          "vocabulary": [
+            {
+              "term": "fünfzehn",
+              "meaning": {
+                "ja": "15。",
+                "en": "Fifteen."
+              }
+            },
+            {
+              "term": "Euro",
+              "meaning": {
+                "ja": "この金額表現での通貨単位。",
+                "en": "The currency unit in this amount expression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "fünfzehn Euro",
+              "explanation": {
+                "ja": "具体的な金額を数詞と述べるこの用法では、単位は Euro の形にします。",
+                "en": "In this use after a numeral specifying an amount, the currency unit has the form Euro."
+              }
+            },
+            {
+              "point": "Das kostet",
+              "explanation": {
+                "ja": "単数の品物を指す Das に合わせて kostet を使います。",
+                "en": "Kostet agrees with Das referring to a single item."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "英語の fifteen euros と違い、このドイツ語の金額表現では Euros としません。",
+              "en": "Unlike English fifteen euros, this German amount expression does not use Euros."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Это стоит пятнадцать евро.",
+          "ttsText": "Это стоит пятнадцать евро.",
+          "vocabulary": [
+            {
+              "term": "пятнадцать",
+              "meaning": {
+                "ja": "15。",
+                "en": "Fifteen."
+              }
+            },
+            {
+              "term": "евро",
+              "meaning": {
+                "ja": "ユーロ。数によって語尾が変わらない名詞。",
+                "en": "Euro, an indeclinable noun whose ending does not change with the number."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "пятнадцать евро",
+              "explanation": {
+                "ja": "数詞の後でも евро の形は変わりません。яблока・яблок のように語尾が変わる語とは異なります。",
+                "en": "Евро remains unchanged after the numeral, unlike nouns with changing forms such as яблока and яблок."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "стоит は主語 Это に対応しています。金額の15に動詞を一致させるわけではありません。",
+              "en": "Стоит agrees with subject Это, not with the number fifteen in the price."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "ثمنه خمسة عشر يورو.",
+          "ttsText": "ثمنه خمسة عشر يورو.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "thamanuhu khamsata ʿashara yūrū.",
+            "note": {
+              "ja": "接尾辞 ـه は男性単数の品物を受ける読みです。女性名詞の品物を受けるなら thamanuhā とします。",
+              "en": "The suffix ـه refers to an item treated as masculine singular. With a feminine noun referent, use thamanuhā."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "ثمنه",
+              "meaning": {
+                "ja": "それの値段。ثمن に「それの」の接尾辞 ـه が付きます。",
+                "en": "Its price, with suffix ـه attached to ثمن."
+              }
+            },
+            {
+              "term": "خمسة عشر يورو",
+              "meaning": {
+                "ja": "15ユーロ。数の後ろに通貨名を置きます。",
+                "en": "Fifteen euros, with the currency name after the number."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ثمنه …",
+              "explanation": {
+                "ja": "「その値段は〜」という名詞文で、現在の価格を述べます。ـه はここで話題の品物を受けます。",
+                "en": "A nominal sentence meaning its price is …; ـه refers to the item under discussion."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この例では15という数を、単独で唱える列から具体的な金額へ移しています。",
+              "en": "This example transfers the numeral fifteen from the standalone sequence to an actual amount expression."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "十五欧元。",
+          "ttsText": "十五欧元。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shíwǔ ōuyuán."
+          },
+          "vocabulary": [
+            {
+              "term": "十五",
+              "meaning": {
+                "ja": "15。十と五を組み合わせます。",
+                "en": "Fifteen, combining ten and five."
+              }
+            },
+            {
+              "term": "欧元",
+              "meaning": {
+                "ja": "ユーロ。この例の通貨名。",
+                "en": "Euro, the currency name used here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "十五欧元",
+              "explanation": {
+                "ja": "数詞の後に通貨単位を直接置きます。この金額表現には、りんごを数えた 个 は使いません。",
+                "en": "The currency unit directly follows the numeral. This amount expression does not use 个 as in the apple count."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "直前の価格の質問に、金額だけで答えています。通貨名は数に合わせて複数形にはなりません。",
+              "en": "The reply gives only the amount. The currency name has no plural form for the number."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "십오 유로예요.",
+          "ttsText": "십오 유로예요.",
+          "vocabulary": [
+            {
+              "term": "십오",
+              "meaning": {
+                "ja": "15の漢数詞。",
+                "en": "Fifteen in Sino-Korean numerals."
+              }
+            },
+            {
+              "term": "유로",
+              "meaning": {
+                "ja": "ユーロ。ここで使う通貨名。",
+                "en": "Euro, the currency name used here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "십오 유로예요",
+              "explanation": {
+                "ja": "金額には漢数詞 십오 を使い、通貨名 유로 に丁寧な 예요 を付けます。",
+                "en": "The amount uses Sino-Korean 십오, with polite 예요 attached to currency name 유로."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "個数の 세 개 や人数の 두 명 と違い、この金額では固有数詞を使いません。",
+              "en": "Unlike object count 세 개 or person count 두 명, this amount uses Sino-Korean rather than native numerals."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "一つ目の入口ですか？",
+          "ttsText": "ひとつめのいりぐちですか？",
+          "vocabulary": [
+            {
+              "term": "一つ目",
+              "meaning": {
+                "ja": "順に見たときの最初のもの。",
+                "en": "The first item in an ordered sequence."
+              }
+            },
+            {
+              "term": "入口",
+              "meaning": {
+                "ja": "建物などに入る場所。",
+                "en": "An entrance to a building or other place."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "一つ目の入口",
+              "explanation": {
+                "ja": "個数の 一つ に 目 を付けて順番にし、の で名詞 入口 を修飾します。",
+                "en": "Adding 目 to quantity 一つ makes an ordinal, which modifies 入口 through の."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "道案内で、使うべき入口が最初の入口なのかを確認する場面です。入口が一個しかないという意味ではありません。",
+              "en": "In directions, this checks whether to use the first entrance; it does not say there is only one entrance."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Is it the first entrance?",
+          "ttsText": "Is it the first entrance?",
+          "vocabulary": [
+            {
+              "term": "first",
+              "meaning": {
+                "ja": "一番目の。one に対応する序数。",
+                "en": "First, the ordinal corresponding to one."
+              }
+            },
+            {
+              "term": "entrance",
+              "meaning": {
+                "ja": "入口。",
+                "en": "An entrance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "the first entrance",
+              "explanation": {
+                "ja": "順番で特定する入口に the を付け、序数 first を名詞の前に置きます。",
+                "en": "The marks the entrance identified by order, with ordinal first before the noun."
+              }
+            },
+            {
+              "point": "Is it …?",
+              "explanation": {
+                "ja": "be を主語 it の前に置いて質問にします。it は文脈で話題の入口を受けます。",
+                "en": "Be precedes subject it to form the question; it refers to the entrance under discussion."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "個数を表す one entrance と、順番を表す the first entrance を区別します。",
+              "en": "Distinguish one entrance as a quantity from the first entrance as a position in order."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¿Es la primera entrada?",
+          "ttsText": "¿Es la primera entrada?",
+          "vocabulary": [
+            {
+              "term": "primera",
+              "meaning": {
+                "ja": "一番目の。primero の女性単数形。",
+                "en": "First, the feminine singular of primero."
+              }
+            },
+            {
+              "term": "entrada",
+              "meaning": {
+                "ja": "入口。女性名詞。",
+                "en": "Entrance, a feminine noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "la primera entrada",
+              "explanation": {
+                "ja": "序数 primera と定冠詞 la を、女性単数の entrada に合わせます。",
+                "en": "Ordinal primera and article la agree with feminine singular entrada."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "uno は個数、primero は順番です。ここでは entrada の性に合わせて primera になっています。",
+              "en": "Uno counts quantity; primero marks order. Here it takes feminine primera to match entrada."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "C'est la première entrée ?",
+          "ttsText": "C'est la première entrée ?",
+          "vocabulary": [
+            {
+              "term": "première",
+              "meaning": {
+                "ja": "一番目の。premier の女性単数形。",
+                "en": "First, the feminine singular of premier."
+              }
+            },
+            {
+              "term": "entrée",
+              "meaning": {
+                "ja": "入口。この場面では料理の前菜ではありません。",
+                "en": "Entrance, rather than a starter course in this context."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "la première entrée",
+              "explanation": {
+                "ja": "女性名詞 entrée に定冠詞 la と序数 première を一致させます。",
+                "en": "Article la and ordinal première agree with feminine noun entrée."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "会話の疑問文として肯定文の語順を保ち、抑揚で確認します。",
+              "en": "The conversational question retains statement order and checks the information through intonation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ist es der erste Eingang?",
+          "ttsText": "Ist es der erste Eingang?",
+          "vocabulary": [
+            {
+              "term": "erste",
+              "meaning": {
+                "ja": "一番目の。序数 erst- に語尾が付いた形。",
+                "en": "First, ordinal stem erst- with an ending."
+              }
+            },
+            {
+              "term": "Eingang",
+              "meaning": {
+                "ja": "入口。男性名詞。",
+                "en": "Entrance, a masculine noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "der erste Eingang",
+              "explanation": {
+                "ja": "sein と結ぶ名詞句はここでは主格です。男性単数の der の後で序数は erste になります。",
+                "en": "The noun phrase linked by sein is nominative here. After masculine singular der, the ordinal takes the form erste."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ein Eingang は一つの入口、der erste Eingang は順に見た最初の入口です。",
+              "en": "Ein Eingang is an entrance or one entrance; der erste Eingang is the first in order."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Это первый вход?",
+          "ttsText": "Это первый вход?",
+          "vocabulary": [
+            {
+              "term": "первый",
+              "meaning": {
+                "ja": "一番目の。男性単数主格の序数。",
+                "en": "First, a masculine singular nominative ordinal."
+              }
+            },
+            {
+              "term": "вход",
+              "meaning": {
+                "ja": "入口。男性名詞。",
+                "en": "Entrance, a masculine noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "первый вход",
+              "explanation": {
+                "ja": "序数は形容詞のように名詞の性・数・格に一致します。ここでは男性単数主格です。",
+                "en": "The ordinal agrees with the noun in gender, number, and case like an adjective; here it is masculine singular nominative."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "один は数量の一、первый は順番の一番目です。質問は抑揚と疑問符で示します。",
+              "en": "Один is one in quantity; первый is first in order. Intonation and the question mark identify the question."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هل هذا هو المدخل الأول؟",
+          "ttsText": "هل هذا هو المدخل الأول؟",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hal hādhā huwa al-madkhalu al-ʾawwalu?",
+            "note": {
+              "ja": "هو المدخل الأول を続けると huwa l-madkhalu l-ʾawwalu。文末休止では最後が al-ʾawwal になります。",
+              "en": "Connected هو المدخل الأول is huwa l-madkhalu l-ʾawwalu. The final pausal form of the ordinal is al-ʾawwal."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "المدخل",
+              "meaning": {
+                "ja": "その入口。مدخل に定冠詞が付きます。",
+                "en": "The entrance, مدخل with the definite article."
+              }
+            },
+            {
+              "term": "الأول",
+              "meaning": {
+                "ja": "一番目の。男性単数の序数。",
+                "en": "First, a masculine singular ordinal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "المدخل الأول",
+              "explanation": {
+                "ja": "序数を名詞の後ろに置き、両方に定冠詞を付けます。男性単数主格で一致しています。",
+                "en": "The ordinal follows the noun; both take the definite article and agree in masculine singular nominative."
+              }
+            },
+            {
+              "point": "هل هذا هو …؟",
+              "explanation": {
+                "ja": "هل で質問にし、هذا と定の名詞句の間の هو が同定を明確にします。",
+                "en": "هل introduces the question; هو between هذا and the definite noun phrase makes the identification explicit."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "入口の個数でなく順番を確かめています。単独の数詞 واحد とは異なる形です。",
+              "en": "This checks order rather than the number of entrances, using a different form from standalone واحد."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "是第一个入口吗？",
+          "ttsText": "是第一个入口吗？",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Shì dì yī ge rùkǒu ma?",
+            "note": {
+              "ja": "第一个 は序数なので、ここでの 一 は yī のまま読みます。",
+              "en": "第一个 is an ordinal, so 一 is read yī here."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "第一个",
+              "meaning": {
+                "ja": "一つ目。第 が順番を表します。",
+                "en": "The first one; 第 marks order."
+              }
+            },
+            {
+              "term": "入口",
+              "meaning": {
+                "ja": "入口。",
+                "en": "Entrance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "第＋一＋个",
+              "explanation": {
+                "ja": "第、数詞、量詞の順で「一つ目」を作ります。数量の 一个 と区別します。",
+                "en": "第, numeral, and classifier form first, contrasting with quantity 一个."
+              }
+            },
+            {
+              "point": "是 … 吗？",
+              "explanation": {
+                "ja": "文脈で分かる主語を省き、是 と文末の 吗 で確認します。",
+                "en": "The understood subject is omitted; 是 with final 吗 forms a confirmation question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "道順に沿って最初にある入口かどうかを確認する場面です。",
+              "en": "This checks whether the entrance is the first one along the route."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "첫 번째 입구예요?",
+          "ttsText": "첫 번째 입구예요?",
+          "vocabulary": [
+            {
+              "term": "첫 번째",
+              "meaning": {
+                "ja": "一番目。順番を表す表現。",
+                "en": "First, an expression of order."
+              }
+            },
+            {
+              "term": "입구",
+              "meaning": {
+                "ja": "入口。漢字語の名詞。",
+                "en": "Entrance, a Sino-Korean noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "첫 번째 입구",
+              "explanation": {
+                "ja": "順番を表す 첫 번째 を名詞 입구 の前に置きます。単独の数の 일 とは形が異なります。",
+                "en": "첫 번째 precedes noun 입구 to mark order, differing from standalone numeral 일."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "入口は母音で終わる 입구 なので、丁寧な語尾は 예요 です。疑問の抑揚で確認します。",
+              "en": "Vowel-final 입구 takes polite 예요; questioning intonation checks the information."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "一つ目・二つ目の入口",
+        "en": "The first and second entrances"
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "いいえ、二つ目の入口です。",
+          "ttsText": "いいえ、ふたつめのいりぐちです。",
+          "vocabulary": [
+            {
+              "term": "いいえ",
+              "meaning": {
+                "ja": "前の質問の内容を否定する返答。",
+                "en": "A reply rejecting the preceding question's proposition."
+              }
+            },
+            {
+              "term": "二つ目",
+              "meaning": {
+                "ja": "順に見たときの二番目。",
+                "en": "The second item in order."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "二つ目の入口",
+              "explanation": {
+                "ja": "個数の 二つ に 目 を加え、の で入口を修飾します。「入口が二つ」とは意味が違います。",
+                "en": "Adding 目 to 二つ makes an ordinal that modifies 入口 through の, unlike saying there are two entrances."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "一つ目ではなく二つ目だと訂正する応答です。基数と序数の違いを、道案内の場面で使います。",
+              "en": "The answer corrects first to second, applying the distinction between cardinal and ordinal numbers to directions."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "No, it's the second entrance.",
+          "ttsText": "No, it's the second entrance.",
+          "vocabulary": [
+            {
+              "term": "second",
+              "meaning": {
+                "ja": "二番目の。two に対応する序数。",
+                "en": "Second, the ordinal corresponding to two."
+              }
+            },
+            {
+              "term": "it's",
+              "meaning": {
+                "ja": "it is の短縮形。",
+                "en": "The contraction of it is."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "the second entrance",
+              "explanation": {
+                "ja": "定冠詞 the と序数 second で、並びの中の特定の入口を指します。",
+                "en": "The definite article and ordinal second identify a particular entrance in the sequence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "No は前の「一つ目か」という質問への否定です。後半は二つ目だと肯定して説明します。",
+              "en": "No rejects the previous question about the first entrance; the following clause affirmatively identifies the second."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "No, es la segunda entrada.",
+          "ttsText": "No, es la segunda entrada.",
+          "vocabulary": [
+            {
+              "term": "segunda",
+              "meaning": {
+                "ja": "二番目の。女性単数の序数。",
+                "en": "Second, a feminine singular ordinal."
+              }
+            },
+            {
+              "term": "entrada",
+              "meaning": {
+                "ja": "入口。",
+                "en": "Entrance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "la segunda entrada",
+              "explanation": {
+                "ja": "女性単数の entrada に合わせ、序数は segundo ではなく segunda です。",
+                "en": "Feminine singular entrada takes segunda rather than segundo."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "文頭の No は独立した「いいえ」という応答で、後ろの es を否定する no es ではありません。",
+              "en": "Initial No is the independent reply no, not the verbal negation no es of the following clause."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Non, c'est la deuxième entrée.",
+          "ttsText": "Non, c'est la deuxième entrée.",
+          "vocabulary": [
+            {
+              "term": "deuxième",
+              "meaning": {
+                "ja": "二番目の。deux に対応する序数。",
+                "en": "Second, the ordinal corresponding to deux."
+              }
+            },
+            {
+              "term": "non",
+              "meaning": {
+                "ja": "いいえ。前の内容を否定する返答。",
+                "en": "No, a reply rejecting the previous proposition."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "la deuxième entrée",
+              "explanation": {
+                "ja": "定冠詞 la と序数で入口を特定します。deuxième はこの単数形で男女同形です。",
+                "en": "Article la and the ordinal identify the entrance. Deuxième has the same masculine and feminine singular form."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の première とは語尾の作り方が異なります。ここでは二番目以降にも入口があるかどうかは述べません。",
+              "en": "Its formation differs from première. This does not specify whether further entrances follow the second."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Nein, es ist der zweite Eingang.",
+          "ttsText": "Nein, es ist der zweite Eingang.",
+          "vocabulary": [
+            {
+              "term": "nein",
+              "meaning": {
+                "ja": "いいえ。質問への否定の返答。",
+                "en": "No, a negative reply to the question."
+              }
+            },
+            {
+              "term": "zweite",
+              "meaning": {
+                "ja": "二番目の。zwei に対応する序数の活用形。",
+                "en": "Second, an inflected ordinal corresponding to zwei."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "der zweite Eingang",
+              "explanation": {
+                "ja": "男性単数主格の定冠詞 der の後で、序数 zweit- に -e を付けます。",
+                "en": "Ordinal zweit- takes -e after masculine singular nominative article der."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の二人の表現 zu zweit と違い、zweite は名詞 Eingang の前で順番を表しています。",
+              "en": "Unlike earlier zu zweit for a group of two, zweite precedes Eingang and expresses order."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Нет, это второй вход.",
+          "ttsText": "Нет, это второй вход.",
+          "vocabulary": [
+            {
+              "term": "нет",
+              "meaning": {
+                "ja": "いいえ。ここでは質問への否定の返答。",
+                "en": "No, here a negative answer to a question."
+              }
+            },
+            {
+              "term": "второй",
+              "meaning": {
+                "ja": "二番目の。男性単数主格の序数。",
+                "en": "Second, a masculine singular nominative ordinal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "второй вход",
+              "explanation": {
+                "ja": "序数 второй が男性名詞 вход に一致します。個数を表す два входа とは別の形です。",
+                "en": "Ordinal второй agrees with masculine вход, unlike quantity phrase два входа for two entrances."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "文頭の Нет は「入口が存在しない」という意味ではなく、先ほどの推測への「いいえ」です。",
+              "en": "Initial Нет rejects the preceding assumption; it does not mean that no entrance exists."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لا، هذا هو المدخل الثاني.",
+          "ttsText": "لا، هذا هو المدخل الثاني.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "lā, hādhā huwa al-madkhalu ath-thānī.",
+            "note": {
+              "ja": "الثاني の冠詞は th に同化して ath-thānī。المدخل الثاني を続けると al-madkhalu th-thānī となります。",
+              "en": "The article in الثاني assimilates to th, giving ath-thānī. Connected المدخل الثاني is al-madkhalu th-thānī."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "لا",
+              "meaning": {
+                "ja": "いいえ。前の質問に対する否定。",
+                "en": "No, rejecting the preceding question."
+              }
+            },
+            {
+              "term": "الثاني",
+              "meaning": {
+                "ja": "二番目の。男性単数の序数。",
+                "en": "Second, a masculine singular ordinal."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "المدخل الثاني",
+              "explanation": {
+                "ja": "序数を名詞の後ろに置き、男性単数・定という点で一致させます。",
+                "en": "The ordinal follows the noun and agrees in masculine singular and definiteness."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "単独の2は اثنان ですが、順番の二番目には الثاني を使います。入口が二つあるという数量の文ではありません。",
+              "en": "Standalone two is اثنان, whereas second is الثاني. This is not a quantity statement that there are two entrances."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "不是，是第二个入口。",
+          "ttsText": "不是，是第二个入口。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Bù shì, shì dì èr ge rùkǒu.",
+            "note": {
+              "ja": "文頭の 不是 は bú shì と発音します。",
+              "en": "Initial 不是 is pronounced bú shì."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "不是",
+              "meaning": {
+                "ja": "違います。前の同定を否定する返答。",
+                "en": "No or that's not it, rejecting the earlier identification."
+              }
+            },
+            {
+              "term": "第二个",
+              "meaning": {
+                "ja": "二つ目。第 と 二 と量詞 个 の組み合わせ。",
+                "en": "The second one, combining 第, 二, and classifier 个."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "第二个",
+              "explanation": {
+                "ja": "序数では2を 二 として 第二个 にします。人数を数えた 两位 の 两 とは使い方が違います。",
+                "en": "Ordinals use 二 for two in 第二个, unlike 两 in person count 两位."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "前の「一つ目か」を 不是 で否定してから、正しい入口を 是 で示します。",
+              "en": "不是 rejects the first-entrance suggestion, then 是 introduces the correct entrance."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "아니요, 두 번째 입구예요.",
+          "ttsText": "아니요, 두 번째 입구예요.",
+          "vocabulary": [
+            {
+              "term": "아니요",
+              "meaning": {
+                "ja": "いいえ。丁寧な否定の返答。",
+                "en": "No, a polite negative reply."
+              }
+            },
+            {
+              "term": "두 번째",
+              "meaning": {
+                "ja": "二番目。둘 が 두 になり、번째 に続きます。",
+                "en": "Second, with 둘 becoming 두 before 번째."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "두 번째 입구",
+              "explanation": {
+                "ja": "数詞を使った順序表現を名詞の前に置きます。두 번째 の間は分けて書きます。",
+                "en": "The ordinal expression precedes the noun; 두 and 번째 are written separately."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "두 명 は人数、두 번째 は順番です。同じ 두 を使っても、後ろの語で数え方が変わります。",
+              "en": "두 명 counts people, while 두 번째 marks order. The following word changes the function of the same 두."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "practical/numbers/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ]
+}

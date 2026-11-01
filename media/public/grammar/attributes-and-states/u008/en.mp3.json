@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2e7413e583ae59b1b0517c8135fe72a001ceb1a2c9d40acdb5004bd48773679b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "I am not a teacher.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ea606a451d9d9f13be87adb64fc037e5b250b53e101be6bf131c68f842dd9834",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:35.247999+00:00"
+}

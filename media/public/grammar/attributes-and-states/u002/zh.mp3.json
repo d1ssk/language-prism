@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1468a5ac77b2d7c209070015849d37c023c2d6515c16baaf55af1a31c145e070",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "她是医生。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "5f9da5ddec00e8b0e19fd30dc8fd9ad96bd3fe3918c233945e01bc1c5f3faeaf",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:13.577736+00:00"
+}

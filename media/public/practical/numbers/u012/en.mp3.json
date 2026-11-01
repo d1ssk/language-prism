@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a760017e43abe038fe04fa04e3156be9dd27d06c04806d36f5817f4823910964",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "No, it's the second entrance.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "538a11b4b3dfccce37b81998e159b8ba6fc78b79c69dfe480ccaf5feea80ef41",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:18:34.946761+00:00"
+}

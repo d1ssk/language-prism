@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "622ecbab266e9696fd53e4caed5ded7294dda36f7597a93c04dc2105c19d0a7c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "십일, 십이, 십삼, 십사, 십오, 십육, 십칠, 십팔, 십구, 이십.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "798c389440ebbfc78455df9264a40e4cf49694c16e23d93e6dfd5a141c9e5019",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:15:21.876477+00:00"
+}

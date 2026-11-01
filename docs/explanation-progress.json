@@ -3,6 +3,10 @@
   "startedAt": "2026-10-27",
   "scope": "All existing content/public entries, including additional original languages and noEquivalent reasons.",
   "works": {
+    "attributes-and-states": {
+      "path": "content/public/grammar/attributes-and-states/content.json",
+      "protectedHash": "1472895fe998e5d2ef87275ea6d0da42330c633a41e895a6f81c9a5f46253362"
+    },
     "existence-and-location": {
       "path": "content/public/grammar/existence-and-location/content.json",
       "protectedHash": "792eea72a9706da53d08cd2a7c762fa9c66915683040ad69edb8023447b3d4f7"
@@ -110,6 +114,10 @@
     "greetings": {
       "path": "content/public/practical/greetings/content.json",
       "protectedHash": "679a29f4b2de57aa07b08454679ccfef70520c7fde639c01ffb1283e4fc1f284"
+    },
+    "numbers": {
+      "path": "content/public/practical/numbers/content.json",
+      "protectedHash": "5dc89c4df09640cb5da4893dba7e3a65b666622ea7fa3c7aea0de2a1c57b19d3"
     },
     "ordering-at-a-cafe": {
       "path": "content/public/practical/ordering-at-a-cafe/content.json",
@@ -24310,6 +24318,1302 @@
       "status": "checked",
       "initialExplanationHash": "3a798a115771de66423b7cb255e50c6f8727abb09f4be327e15c343052bcb7ef",
       "checkedExplanationHash": "3a798a115771de66423b7cb255e50c6f8727abb09f4be327e15c343052bcb7ef"
+    },
+    "attributes-and-states/u001/ja": {
+      "status": "checked",
+      "initialExplanationHash": "d2bc7fd0748c95338a1b3bfa0132e9a451531c67a8638a3145dd65b13d1914ea",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "d2bc7fd0748c95338a1b3bfa0132e9a451531c67a8638a3145dd65b13d1914ea"
+    },
+    "attributes-and-states/u001/en": {
+      "status": "checked",
+      "initialExplanationHash": "efc9811a4f410c5a03629d345b01c713cd6881c523f61db4c168d0fd10c36392",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "efc9811a4f410c5a03629d345b01c713cd6881c523f61db4c168d0fd10c36392"
+    },
+    "attributes-and-states/u001/es": {
+      "status": "checked",
+      "initialExplanationHash": "c998b4934c22471e051f7e03f3261005fab261ef3949088a81ab9811a44d50a8",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c998b4934c22471e051f7e03f3261005fab261ef3949088a81ab9811a44d50a8"
+    },
+    "attributes-and-states/u001/fr": {
+      "status": "checked",
+      "initialExplanationHash": "9cc235566127652ca8c631a5158ac478162cc5e89d74566136e129e5822e304a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9cc235566127652ca8c631a5158ac478162cc5e89d74566136e129e5822e304a"
+    },
+    "attributes-and-states/u001/de": {
+      "status": "checked",
+      "initialExplanationHash": "1cfbeef96640f01b7f31dcb549da74fd62e68b75cf30c7cda3ff84ea8f8878ef",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "1cfbeef96640f01b7f31dcb549da74fd62e68b75cf30c7cda3ff84ea8f8878ef"
+    },
+    "attributes-and-states/u001/ru": {
+      "status": "checked",
+      "initialExplanationHash": "c4146f24b486e50a3c6a6cb2d4416cdd7243d587948a3d74bb0412d72b3c5d30",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c4146f24b486e50a3c6a6cb2d4416cdd7243d587948a3d74bb0412d72b3c5d30"
+    },
+    "attributes-and-states/u001/ar": {
+      "status": "checked",
+      "initialExplanationHash": "4a161c0c8a5eec04e6ea262508dc68e8a35cc9a9f61dc36675e403c76ce46282",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4a161c0c8a5eec04e6ea262508dc68e8a35cc9a9f61dc36675e403c76ce46282"
+    },
+    "attributes-and-states/u001/zh": {
+      "status": "checked",
+      "initialExplanationHash": "03aabdfffc1212c2ac6aee9eb89e76fd5915c5f13f68f059d0c01029d0e4df78",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "03aabdfffc1212c2ac6aee9eb89e76fd5915c5f13f68f059d0c01029d0e4df78"
+    },
+    "attributes-and-states/u001/ko": {
+      "status": "checked",
+      "initialExplanationHash": "c1e28438eaa1962c8b21b3bb476f9cf6c330f53d1f0edf24806c560b14611790",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c1e28438eaa1962c8b21b3bb476f9cf6c330f53d1f0edf24806c560b14611790"
+    },
+    "attributes-and-states/u002/ja": {
+      "status": "checked",
+      "initialExplanationHash": "798b0937d4f3f62afd5a07ffece7584d055c02321cc2fb3b16bd4c155aad6006",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "798b0937d4f3f62afd5a07ffece7584d055c02321cc2fb3b16bd4c155aad6006"
+    },
+    "attributes-and-states/u002/en": {
+      "status": "checked",
+      "initialExplanationHash": "78514c0706f21ab5a4af9f8eae86144bc47715b90a7b59c37ae22cb7e3a6bad2",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "78514c0706f21ab5a4af9f8eae86144bc47715b90a7b59c37ae22cb7e3a6bad2"
+    },
+    "attributes-and-states/u002/es": {
+      "status": "checked",
+      "initialExplanationHash": "dc9b7be67055d435862884b6206ee608f0b4312c8b9321dac1f22a572e7ae128",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "dc9b7be67055d435862884b6206ee608f0b4312c8b9321dac1f22a572e7ae128"
+    },
+    "attributes-and-states/u002/fr": {
+      "status": "checked",
+      "initialExplanationHash": "85dc55e73d2406f1b626a49cd6761ff07db139fe8b35802263b5834dd6d18038",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "85dc55e73d2406f1b626a49cd6761ff07db139fe8b35802263b5834dd6d18038"
+    },
+    "attributes-and-states/u002/de": {
+      "status": "checked",
+      "initialExplanationHash": "30de818153ab3b058ce7cd4b23257a6b01c112bc521d64e8fb320cfe783ca576",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "30de818153ab3b058ce7cd4b23257a6b01c112bc521d64e8fb320cfe783ca576"
+    },
+    "attributes-and-states/u002/ru": {
+      "status": "checked",
+      "initialExplanationHash": "92af177a2f5ac7b827598a80cd2a74c8c6e512ba0ba9ecfed00013376a20b867",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "92af177a2f5ac7b827598a80cd2a74c8c6e512ba0ba9ecfed00013376a20b867"
+    },
+    "attributes-and-states/u002/ar": {
+      "status": "checked",
+      "initialExplanationHash": "5b8ae848ec9443de5539b216c308b22da3943d8285ac891dc133fdeb70078774",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5b8ae848ec9443de5539b216c308b22da3943d8285ac891dc133fdeb70078774"
+    },
+    "attributes-and-states/u002/zh": {
+      "status": "checked",
+      "initialExplanationHash": "b62db47c6ef6e62610d7f3ab5511feebfb413e2769a4f3bc064d34866147d907",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b62db47c6ef6e62610d7f3ab5511feebfb413e2769a4f3bc064d34866147d907"
+    },
+    "attributes-and-states/u002/ko": {
+      "status": "checked",
+      "initialExplanationHash": "4096c0c918448be7bfbe0813b905e49f1da71974fef3c0477bfaa1158a8a6ceb",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4096c0c918448be7bfbe0813b905e49f1da71974fef3c0477bfaa1158a8a6ceb"
+    },
+    "attributes-and-states/u003/ja": {
+      "status": "checked",
+      "initialExplanationHash": "fb42114e5628df1ea34e33d7dedb6818c48d56bd4054b647e4e5aa7a29a37d5e",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "fb42114e5628df1ea34e33d7dedb6818c48d56bd4054b647e4e5aa7a29a37d5e"
+    },
+    "attributes-and-states/u003/en": {
+      "status": "checked",
+      "initialExplanationHash": "514d640c0b24da6371860774d9acf7d57b017ba6a9c464b1195a80f38afc97e7",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "514d640c0b24da6371860774d9acf7d57b017ba6a9c464b1195a80f38afc97e7"
+    },
+    "attributes-and-states/u003/es": {
+      "status": "checked",
+      "initialExplanationHash": "7a54b852dad964ed44c931cc1f4f933ffcb322935a38095453ced3ef85899cfa",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "7a54b852dad964ed44c931cc1f4f933ffcb322935a38095453ced3ef85899cfa"
+    },
+    "attributes-and-states/u003/fr": {
+      "status": "checked",
+      "initialExplanationHash": "f3d3ce868da084e3283b0e36a6a54054478352361fc5d950fc0eb9edfab36738",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f3d3ce868da084e3283b0e36a6a54054478352361fc5d950fc0eb9edfab36738"
+    },
+    "attributes-and-states/u003/de": {
+      "status": "checked",
+      "initialExplanationHash": "97c97317ad2ec83ba7a77d9d4dfed14358ca7ed8f5cf8af72df14b949db61d1d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "97c97317ad2ec83ba7a77d9d4dfed14358ca7ed8f5cf8af72df14b949db61d1d"
+    },
+    "attributes-and-states/u003/ru": {
+      "status": "checked",
+      "initialExplanationHash": "3080571fd331bd37f0a876e156f2fac7fc3342d7108c28446eec6e1bd4c09f9f",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3080571fd331bd37f0a876e156f2fac7fc3342d7108c28446eec6e1bd4c09f9f"
+    },
+    "attributes-and-states/u003/ar": {
+      "status": "checked",
+      "initialExplanationHash": "5f79953f05ef779790f5f77e8608d0c40ea218dd227df151a5fbaf07afa4170f",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5f79953f05ef779790f5f77e8608d0c40ea218dd227df151a5fbaf07afa4170f"
+    },
+    "attributes-and-states/u003/zh": {
+      "status": "checked",
+      "initialExplanationHash": "465786cbe13ac1862e463d4df728f36ec8056c83de9b48db8772c37a4c8195bb",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "465786cbe13ac1862e463d4df728f36ec8056c83de9b48db8772c37a4c8195bb"
+    },
+    "attributes-and-states/u003/ko": {
+      "status": "checked",
+      "initialExplanationHash": "3d6787b0556c415018b199957f6a6d050f5e5e04d4d246fc6a558e1cd714878b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3d6787b0556c415018b199957f6a6d050f5e5e04d4d246fc6a558e1cd714878b"
+    },
+    "attributes-and-states/u004/ja": {
+      "status": "checked",
+      "initialExplanationHash": "42dae6dd2e8b9f30ad4b53c1836085f9817badc1457883cf52dfc407da60f20a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "42dae6dd2e8b9f30ad4b53c1836085f9817badc1457883cf52dfc407da60f20a"
+    },
+    "attributes-and-states/u004/en": {
+      "status": "checked",
+      "initialExplanationHash": "9f6ef15e4420811f53f4a7f4693c7fbda9cb3f15bbbb5acffdb138a3e510524b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9f6ef15e4420811f53f4a7f4693c7fbda9cb3f15bbbb5acffdb138a3e510524b"
+    },
+    "attributes-and-states/u004/es": {
+      "status": "checked",
+      "initialExplanationHash": "9053befa097fc64f2e326d7d6f3b8d88dee1514a9de1c626179d99df746fa344",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9053befa097fc64f2e326d7d6f3b8d88dee1514a9de1c626179d99df746fa344"
+    },
+    "attributes-and-states/u004/fr": {
+      "status": "checked",
+      "initialExplanationHash": "9f25bfde6455b3238628bd1556d55cb374d9fd846b87fbb37ec99913a62b5bfe",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9f25bfde6455b3238628bd1556d55cb374d9fd846b87fbb37ec99913a62b5bfe"
+    },
+    "attributes-and-states/u004/de": {
+      "status": "checked",
+      "initialExplanationHash": "5266f7b1ff797de8c9b05b7557798ca43653d96cc3999c1a419a9de5d22a4fc1",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5266f7b1ff797de8c9b05b7557798ca43653d96cc3999c1a419a9de5d22a4fc1"
+    },
+    "attributes-and-states/u004/ru": {
+      "status": "checked",
+      "initialExplanationHash": "8b2f16fb60ef57d8980aaebf65a461dc7cc1bae48b8fc00cc44675998752c833",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "8b2f16fb60ef57d8980aaebf65a461dc7cc1bae48b8fc00cc44675998752c833"
+    },
+    "attributes-and-states/u004/ar": {
+      "status": "checked",
+      "initialExplanationHash": "844fb4e472b21b3e6944fc22023067d0702a71a9ebdbef5239570528e645d495",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "844fb4e472b21b3e6944fc22023067d0702a71a9ebdbef5239570528e645d495"
+    },
+    "attributes-and-states/u004/zh": {
+      "status": "checked",
+      "initialExplanationHash": "7f44b8a4b9b86d80913e4d1bbf85a9643193d5fa0c742f0760792bc5ab2a2573",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "7f44b8a4b9b86d80913e4d1bbf85a9643193d5fa0c742f0760792bc5ab2a2573"
+    },
+    "attributes-and-states/u004/ko": {
+      "status": "checked",
+      "initialExplanationHash": "b296eee47af2773d76da1639d09099a9b71b00f1e945e053c8651e1d7b81a0a4",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b296eee47af2773d76da1639d09099a9b71b00f1e945e053c8651e1d7b81a0a4"
+    },
+    "attributes-and-states/u005/ja": {
+      "status": "checked",
+      "initialExplanationHash": "fd61badf66d58224743b2a0127a362a532bb407fdbbd3c5caf03df912cde6cca",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "fd61badf66d58224743b2a0127a362a532bb407fdbbd3c5caf03df912cde6cca"
+    },
+    "attributes-and-states/u005/en": {
+      "status": "checked",
+      "initialExplanationHash": "1bdc026e49f9cbdff7e657e70d3c6bdac117fa9cfb2cffb198fe1e2afea26db6",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "1bdc026e49f9cbdff7e657e70d3c6bdac117fa9cfb2cffb198fe1e2afea26db6"
+    },
+    "attributes-and-states/u005/es": {
+      "status": "checked",
+      "initialExplanationHash": "b10e8c983d32c9ce45a471dc6da61b5a91a41b3a4c6e14511dde62c02b14ceed",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b10e8c983d32c9ce45a471dc6da61b5a91a41b3a4c6e14511dde62c02b14ceed"
+    },
+    "attributes-and-states/u005/fr": {
+      "status": "checked",
+      "initialExplanationHash": "492453330ee32def10716239a2ffa9cd0d7880a053275b86a9c5b60717c6d560",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "492453330ee32def10716239a2ffa9cd0d7880a053275b86a9c5b60717c6d560"
+    },
+    "attributes-and-states/u005/de": {
+      "status": "checked",
+      "initialExplanationHash": "6c65c15f9db019aae0358d37537a4f3a275e8228f19d9061c4993c2cd0cf2ab1",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "6c65c15f9db019aae0358d37537a4f3a275e8228f19d9061c4993c2cd0cf2ab1"
+    },
+    "attributes-and-states/u005/ru": {
+      "status": "checked",
+      "initialExplanationHash": "483cd2eada553daea427c6e0972e1deeba6fb4d888c9cd0369c8cfde3f89225d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "483cd2eada553daea427c6e0972e1deeba6fb4d888c9cd0369c8cfde3f89225d"
+    },
+    "attributes-and-states/u005/ar": {
+      "status": "checked",
+      "initialExplanationHash": "57355c9c71bcbe4f2304abc81e95d7f019f07ae7594181ecedf47f8b044d0c5f",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "57355c9c71bcbe4f2304abc81e95d7f019f07ae7594181ecedf47f8b044d0c5f"
+    },
+    "attributes-and-states/u005/zh": {
+      "status": "checked",
+      "initialExplanationHash": "11c2e5ee6d230d381792fa5e36e91e6d1ac45876feac9d29f2c713b7321ce968",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "11c2e5ee6d230d381792fa5e36e91e6d1ac45876feac9d29f2c713b7321ce968"
+    },
+    "attributes-and-states/u005/ko": {
+      "status": "checked",
+      "initialExplanationHash": "4436622c042e86915ce92b48b77f4158a99cd3d5eafab11a6f161bca631e40d4",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4436622c042e86915ce92b48b77f4158a99cd3d5eafab11a6f161bca631e40d4"
+    },
+    "attributes-and-states/u006/ja": {
+      "status": "checked",
+      "initialExplanationHash": "5b851851f445fff52df28c9b49db58ff8d448fb268cc6e96c0638b11d3cdb1d3",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5b851851f445fff52df28c9b49db58ff8d448fb268cc6e96c0638b11d3cdb1d3"
+    },
+    "attributes-and-states/u006/en": {
+      "status": "checked",
+      "initialExplanationHash": "5ba0c9329458f57428be8df1c8bab94e8d7e2ee6fb103f57d91c391369b4a80d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5ba0c9329458f57428be8df1c8bab94e8d7e2ee6fb103f57d91c391369b4a80d"
+    },
+    "attributes-and-states/u006/es": {
+      "status": "checked",
+      "initialExplanationHash": "deee2f3f4fe5c38423dbfeb722af21eca63aa191ece11c6891b16fb3a22c7086",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "deee2f3f4fe5c38423dbfeb722af21eca63aa191ece11c6891b16fb3a22c7086"
+    },
+    "attributes-and-states/u006/fr": {
+      "status": "checked",
+      "initialExplanationHash": "fefb42fa9ee418385bfdb7e03c30bd348a72ca360f2d8df3055b28b89ed69734",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "fefb42fa9ee418385bfdb7e03c30bd348a72ca360f2d8df3055b28b89ed69734"
+    },
+    "attributes-and-states/u006/de": {
+      "status": "checked",
+      "initialExplanationHash": "813f0282f44eb4067ba9b857ae0dc10e25c2c500e1413a20482766de6bf7939c",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "813f0282f44eb4067ba9b857ae0dc10e25c2c500e1413a20482766de6bf7939c"
+    },
+    "attributes-and-states/u006/ru": {
+      "status": "checked",
+      "initialExplanationHash": "8d62c03f76dd8540377222d848fc289ef034bc879c08bea7aec9f9dff7589963",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "8d62c03f76dd8540377222d848fc289ef034bc879c08bea7aec9f9dff7589963"
+    },
+    "attributes-and-states/u006/ar": {
+      "status": "checked",
+      "initialExplanationHash": "47fff96b5373e54f8536c7109206979da943aad54bb2735a40fc9d98fdb21c00",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "47fff96b5373e54f8536c7109206979da943aad54bb2735a40fc9d98fdb21c00"
+    },
+    "attributes-and-states/u006/zh": {
+      "status": "checked",
+      "initialExplanationHash": "af47fabb1cae2a8f124e615b93d8ec42d3c3abbeff092cefaaa85f20b930329d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "af47fabb1cae2a8f124e615b93d8ec42d3c3abbeff092cefaaa85f20b930329d"
+    },
+    "attributes-and-states/u006/ko": {
+      "status": "checked",
+      "initialExplanationHash": "ccd5f7dcd08b13a7ecc3b4fc87ca13c550148d40a75bf2cfb41bd08d56461852",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ccd5f7dcd08b13a7ecc3b4fc87ca13c550148d40a75bf2cfb41bd08d56461852"
+    },
+    "attributes-and-states/u007/ja": {
+      "status": "checked",
+      "initialExplanationHash": "1ec725a82365c92243991bbfd2bf11cfa96336201cba5b0837e31388a7b95b6e",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "1ec725a82365c92243991bbfd2bf11cfa96336201cba5b0837e31388a7b95b6e"
+    },
+    "attributes-and-states/u007/en": {
+      "status": "checked",
+      "initialExplanationHash": "7cdcc2001dc35aacb45f3f7ef824bb03745746d69d74eebc8d5bb4f6796183e7",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "7cdcc2001dc35aacb45f3f7ef824bb03745746d69d74eebc8d5bb4f6796183e7"
+    },
+    "attributes-and-states/u007/es": {
+      "status": "checked",
+      "initialExplanationHash": "0e8d80d7da6d80bea942b90cbb9906913a6b7cf8bc7b01057ab4a49e4f9e2385",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "0e8d80d7da6d80bea942b90cbb9906913a6b7cf8bc7b01057ab4a49e4f9e2385"
+    },
+    "attributes-and-states/u007/fr": {
+      "status": "checked",
+      "initialExplanationHash": "8afc6fc6364b6758891842578626b1f4e6fb8dcecd81811db0fe2d05b219f8b5",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "8afc6fc6364b6758891842578626b1f4e6fb8dcecd81811db0fe2d05b219f8b5"
+    },
+    "attributes-and-states/u007/de": {
+      "status": "checked",
+      "initialExplanationHash": "724cd301ad94872a3af3284fbedad18616ea55ef2d39400ee1bd6eb0cac0149b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "724cd301ad94872a3af3284fbedad18616ea55ef2d39400ee1bd6eb0cac0149b"
+    },
+    "attributes-and-states/u007/ru": {
+      "status": "checked",
+      "initialExplanationHash": "043f46e43e79067b249c4c3a74a69a3c0458054c0cdd365df28cb96114231b06",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "043f46e43e79067b249c4c3a74a69a3c0458054c0cdd365df28cb96114231b06"
+    },
+    "attributes-and-states/u007/ar": {
+      "status": "checked",
+      "initialExplanationHash": "3e91ecfd461757d4e73b275795bc294df073eeda65b07be9331a313c49f9f0b8",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3e91ecfd461757d4e73b275795bc294df073eeda65b07be9331a313c49f9f0b8"
+    },
+    "attributes-and-states/u007/zh": {
+      "status": "checked",
+      "initialExplanationHash": "9152dd48f7f9aa7c7f58d9dc27f8d6d2f240320b06e8e5e013d5728b7dc30b48",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9152dd48f7f9aa7c7f58d9dc27f8d6d2f240320b06e8e5e013d5728b7dc30b48"
+    },
+    "attributes-and-states/u007/ko": {
+      "status": "checked",
+      "initialExplanationHash": "701bcfa2fbff47b42cf7bb7a3100a7e6f6dbf5f303c6868233e4d0fef1adca67",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "701bcfa2fbff47b42cf7bb7a3100a7e6f6dbf5f303c6868233e4d0fef1adca67"
+    },
+    "attributes-and-states/u008/ja": {
+      "status": "checked",
+      "initialExplanationHash": "df35676b190d1b5921e0cba036d8e4f674ac0a10ace8f5ff486c74f3a7912795",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "df35676b190d1b5921e0cba036d8e4f674ac0a10ace8f5ff486c74f3a7912795"
+    },
+    "attributes-and-states/u008/en": {
+      "status": "checked",
+      "initialExplanationHash": "70b1185c6ec09af2e1a13481a32759191aa291f7ca282177dd12493952a460e9",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "70b1185c6ec09af2e1a13481a32759191aa291f7ca282177dd12493952a460e9"
+    },
+    "attributes-and-states/u008/es": {
+      "status": "checked",
+      "initialExplanationHash": "b4eb8f15fa2d26c5aca777d03db0bb1ceff833b43945bc2481122a794834076e",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b4eb8f15fa2d26c5aca777d03db0bb1ceff833b43945bc2481122a794834076e"
+    },
+    "attributes-and-states/u008/fr": {
+      "status": "checked",
+      "initialExplanationHash": "09d236d60eebd5de2e234d64664e396bf7b278cd21788354c4250ada67465b8a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "09d236d60eebd5de2e234d64664e396bf7b278cd21788354c4250ada67465b8a"
+    },
+    "attributes-and-states/u008/de": {
+      "status": "checked",
+      "initialExplanationHash": "c22c000cf9ae8b4b70169ddd0a12633deac66dd258bf02c6d0ba71951d50bff8",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c22c000cf9ae8b4b70169ddd0a12633deac66dd258bf02c6d0ba71951d50bff8"
+    },
+    "attributes-and-states/u008/ru": {
+      "status": "checked",
+      "initialExplanationHash": "c28f8a6c89ec84ec1ade4e707b528de6217d7b02bf1a4a9081990c9321b3f781",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c28f8a6c89ec84ec1ade4e707b528de6217d7b02bf1a4a9081990c9321b3f781"
+    },
+    "attributes-and-states/u008/ar": {
+      "status": "checked",
+      "initialExplanationHash": "f140c6653ff24a6fb8f2dd5fd9874e2b92179f6f495cfac1559f597ab1fd914b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f140c6653ff24a6fb8f2dd5fd9874e2b92179f6f495cfac1559f597ab1fd914b"
+    },
+    "attributes-and-states/u008/zh": {
+      "status": "checked",
+      "initialExplanationHash": "c318344fbca33010e8a2b281ad3a1ce33e4d0b80c93cdd155cfae56437a32ba9",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c318344fbca33010e8a2b281ad3a1ce33e4d0b80c93cdd155cfae56437a32ba9"
+    },
+    "attributes-and-states/u008/ko": {
+      "status": "checked",
+      "initialExplanationHash": "ab42e61dfb873f4c31bf1c681f21966e1cd13447b0c5d525517388ae6a9efff2",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ab42e61dfb873f4c31bf1c681f21966e1cd13447b0c5d525517388ae6a9efff2"
+    },
+    "attributes-and-states/u009/ja": {
+      "status": "checked",
+      "initialExplanationHash": "cf90b99d103e85ebd760686003ce1f109371a7f33aab5e918f6d69bab7f627dc",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "cf90b99d103e85ebd760686003ce1f109371a7f33aab5e918f6d69bab7f627dc"
+    },
+    "attributes-and-states/u009/en": {
+      "status": "checked",
+      "initialExplanationHash": "622df47ca6010c94bbb2f2cfbefa26ac2aa4ac715cdd5c013cf61416418bff9d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "622df47ca6010c94bbb2f2cfbefa26ac2aa4ac715cdd5c013cf61416418bff9d"
+    },
+    "attributes-and-states/u009/es": {
+      "status": "checked",
+      "initialExplanationHash": "17364f6b34868bcb812e374780e60fa6fb4f39e8c9030f24bd13cb456cf9a824",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "17364f6b34868bcb812e374780e60fa6fb4f39e8c9030f24bd13cb456cf9a824"
+    },
+    "attributes-and-states/u009/fr": {
+      "status": "checked",
+      "initialExplanationHash": "325719037a65e30dd36e912c0c63cb02acf4ff4608ee4f6fa4f51c0b8ad328f3",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "325719037a65e30dd36e912c0c63cb02acf4ff4608ee4f6fa4f51c0b8ad328f3"
+    },
+    "attributes-and-states/u009/de": {
+      "status": "checked",
+      "initialExplanationHash": "a494e7da0012269b5fc02ecc9b753f7ffe0c58859d68800a93c7f12e51dfb0a1",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "a494e7da0012269b5fc02ecc9b753f7ffe0c58859d68800a93c7f12e51dfb0a1"
+    },
+    "attributes-and-states/u009/ru": {
+      "status": "checked",
+      "initialExplanationHash": "4a603d75e6f62e7f8f1973168544070e7260deb8131740385d323fdfaafc5953",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4a603d75e6f62e7f8f1973168544070e7260deb8131740385d323fdfaafc5953"
+    },
+    "attributes-and-states/u009/ar": {
+      "status": "checked",
+      "initialExplanationHash": "c6106b29570c2de399813cf08173227d2a5ee3e8a35c52542708f64f2f3c77e8",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c6106b29570c2de399813cf08173227d2a5ee3e8a35c52542708f64f2f3c77e8"
+    },
+    "attributes-and-states/u009/zh": {
+      "status": "checked",
+      "initialExplanationHash": "5adb0384f72175915aa60d581a555e32a8241059682960a90ba0da9683f9a4b3",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5adb0384f72175915aa60d581a555e32a8241059682960a90ba0da9683f9a4b3"
+    },
+    "attributes-and-states/u009/ko": {
+      "status": "checked",
+      "initialExplanationHash": "13dc00908d8c8f72310bfee4c9eec4e7f5ae0c8536dbd3150961a8de32d4d870",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "13dc00908d8c8f72310bfee4c9eec4e7f5ae0c8536dbd3150961a8de32d4d870"
+    },
+    "attributes-and-states/u010/ja": {
+      "status": "checked",
+      "initialExplanationHash": "4df70638d30b773c13898fa1ca6d217b5a993223a1242add8d3e71987421f6ba",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4df70638d30b773c13898fa1ca6d217b5a993223a1242add8d3e71987421f6ba"
+    },
+    "attributes-and-states/u010/en": {
+      "status": "checked",
+      "initialExplanationHash": "a25417e6b18c55fa2f5e6ddd4228f4b24002e7373441c2a24ec1884e8cd82041",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "a25417e6b18c55fa2f5e6ddd4228f4b24002e7373441c2a24ec1884e8cd82041"
+    },
+    "attributes-and-states/u010/es": {
+      "status": "checked",
+      "initialExplanationHash": "603e08331f240e1495326fa76d02d0148cd3d685bbb93bf9eb84f415264cc8a0",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "603e08331f240e1495326fa76d02d0148cd3d685bbb93bf9eb84f415264cc8a0"
+    },
+    "attributes-and-states/u010/fr": {
+      "status": "checked",
+      "initialExplanationHash": "c308b866a14c982bcf5dbd65e91e44d21dd93275dbe9b6d1327ef0fb3e109fa1",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c308b866a14c982bcf5dbd65e91e44d21dd93275dbe9b6d1327ef0fb3e109fa1"
+    },
+    "attributes-and-states/u010/de": {
+      "status": "checked",
+      "initialExplanationHash": "b935c135bce2400ad49b0377a9eb8eeff8d1ad25d67a847240bc42ad004bedb7",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b935c135bce2400ad49b0377a9eb8eeff8d1ad25d67a847240bc42ad004bedb7"
+    },
+    "attributes-and-states/u010/ru": {
+      "status": "checked",
+      "initialExplanationHash": "691c6485ec6b0361fa1daab80fcdcace2c8b3509480e496ffb5b39b285605994",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "691c6485ec6b0361fa1daab80fcdcace2c8b3509480e496ffb5b39b285605994"
+    },
+    "attributes-and-states/u010/ar": {
+      "status": "checked",
+      "initialExplanationHash": "42139a24f5ce20930fbc835a5b07421560b98e5780a578cb84a2763c71a6b160",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "42139a24f5ce20930fbc835a5b07421560b98e5780a578cb84a2763c71a6b160"
+    },
+    "attributes-and-states/u010/zh": {
+      "status": "checked",
+      "initialExplanationHash": "3ece35d9d06c45591fb021200ca1ad1678eee7ca885bca4f7dcef1d5b9be3b29",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3ece35d9d06c45591fb021200ca1ad1678eee7ca885bca4f7dcef1d5b9be3b29"
+    },
+    "attributes-and-states/u010/ko": {
+      "status": "checked",
+      "initialExplanationHash": "d23287d22444f7ba6dc6885049828d1c454c359a3db3185a8b6c17f521ad75cc",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "d23287d22444f7ba6dc6885049828d1c454c359a3db3185a8b6c17f521ad75cc"
+    },
+    "attributes-and-states/u011/ja": {
+      "status": "checked",
+      "initialExplanationHash": "3f5777a7055e9eb706a105c6372d6fb82baed05822c3ed1c962e53275dab4629",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3f5777a7055e9eb706a105c6372d6fb82baed05822c3ed1c962e53275dab4629"
+    },
+    "attributes-and-states/u011/en": {
+      "status": "checked",
+      "initialExplanationHash": "f0361c6622a62316cacb2a92fb000f0d90b879f1672eb863fbed8a134b157948",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f0361c6622a62316cacb2a92fb000f0d90b879f1672eb863fbed8a134b157948"
+    },
+    "attributes-and-states/u011/es": {
+      "status": "checked",
+      "initialExplanationHash": "3f7a2ad134e45bc40cd295e87e4be95616dc144f24652aab3ecee6c2527607f2",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3f7a2ad134e45bc40cd295e87e4be95616dc144f24652aab3ecee6c2527607f2"
+    },
+    "attributes-and-states/u011/fr": {
+      "status": "checked",
+      "initialExplanationHash": "ffaf87b39fd71319a4c63f2a9b8ee267d213fd00070ddd19897b80fe636f501f",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ffaf87b39fd71319a4c63f2a9b8ee267d213fd00070ddd19897b80fe636f501f"
+    },
+    "attributes-and-states/u011/de": {
+      "status": "checked",
+      "initialExplanationHash": "f1d06b2e337a035ea7093c7f6b894e26d47acbc996379ae79388210e937fd8bb",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f1d06b2e337a035ea7093c7f6b894e26d47acbc996379ae79388210e937fd8bb"
+    },
+    "attributes-and-states/u011/ru": {
+      "status": "checked",
+      "initialExplanationHash": "5984c9d210461373c54fc64ffaae60c82d0943794c9d40f806df3cd2f0149a67",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5984c9d210461373c54fc64ffaae60c82d0943794c9d40f806df3cd2f0149a67"
+    },
+    "attributes-and-states/u011/ar": {
+      "status": "checked",
+      "initialExplanationHash": "4d0d6e43c574034b58b5fe2957b0af6b0ae0fd5ccb77a5e8e6681bb391beb186",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4d0d6e43c574034b58b5fe2957b0af6b0ae0fd5ccb77a5e8e6681bb391beb186"
+    },
+    "attributes-and-states/u011/zh": {
+      "status": "checked",
+      "initialExplanationHash": "c43d11d80b332e7da97b0bb92198a0392fcc2d479fc3674411788a7b619a6686",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c43d11d80b332e7da97b0bb92198a0392fcc2d479fc3674411788a7b619a6686"
+    },
+    "attributes-and-states/u011/ko": {
+      "status": "checked",
+      "initialExplanationHash": "478f322ceb0d13b3a81862051a5b7d9daa1adbf61271d528c79a2901b7878b6a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "478f322ceb0d13b3a81862051a5b7d9daa1adbf61271d528c79a2901b7878b6a"
+    },
+    "attributes-and-states/u012/ja": {
+      "status": "checked",
+      "initialExplanationHash": "b75e776144d09b0c27b579267066e6d0cbe7a249c9c26bc3580ce1bd6ad02326",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b75e776144d09b0c27b579267066e6d0cbe7a249c9c26bc3580ce1bd6ad02326"
+    },
+    "attributes-and-states/u012/en": {
+      "status": "checked",
+      "initialExplanationHash": "c4e182c81e4109600518ef35e8b420ff7827916b6ae6094f5eae13d969f6e73e",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c4e182c81e4109600518ef35e8b420ff7827916b6ae6094f5eae13d969f6e73e"
+    },
+    "attributes-and-states/u012/es": {
+      "status": "checked",
+      "initialExplanationHash": "0841cd4f814beb43846ff484b6cca3222e3092e5a425cceee136506fc3b7ffcc",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "0841cd4f814beb43846ff484b6cca3222e3092e5a425cceee136506fc3b7ffcc"
+    },
+    "attributes-and-states/u012/fr": {
+      "status": "checked",
+      "initialExplanationHash": "91e84a98ed9a7d0c2e32ad16c1fe7a17708fa90a98958121bb310b345e2cd01b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "91e84a98ed9a7d0c2e32ad16c1fe7a17708fa90a98958121bb310b345e2cd01b"
+    },
+    "attributes-and-states/u012/de": {
+      "status": "checked",
+      "initialExplanationHash": "7c2cb69e289e4ef3351cbf532323e2bedbaa90c399f2e3b78738ed6096eb5ad9",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "7c2cb69e289e4ef3351cbf532323e2bedbaa90c399f2e3b78738ed6096eb5ad9"
+    },
+    "attributes-and-states/u012/ru": {
+      "status": "checked",
+      "initialExplanationHash": "6abbb80bd20905065057111fe29412a71480b1c409b12c3f730ce5341bb80595",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "6abbb80bd20905065057111fe29412a71480b1c409b12c3f730ce5341bb80595"
+    },
+    "attributes-and-states/u012/ar": {
+      "status": "checked",
+      "initialExplanationHash": "f0c5f4079a1117c3ed7c7d09a98e848323e8e628f0b1721a670a83de466e9300",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f0c5f4079a1117c3ed7c7d09a98e848323e8e628f0b1721a670a83de466e9300"
+    },
+    "attributes-and-states/u012/zh": {
+      "status": "checked",
+      "initialExplanationHash": "198fb3979f3562e56c7e04ebea35c40c2188913667eb8fa71821d9f602681332",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "198fb3979f3562e56c7e04ebea35c40c2188913667eb8fa71821d9f602681332"
+    },
+    "attributes-and-states/u012/ko": {
+      "status": "checked",
+      "initialExplanationHash": "89b56255087bc5983757a9ffb71f2bf36e26dfefac8ec2d033e16c6df3326ade",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "89b56255087bc5983757a9ffb71f2bf36e26dfefac8ec2d033e16c6df3326ade"
+    },
+    "numbers/u001/ja": {
+      "status": "checked",
+      "initialExplanationHash": "579ee78ca2c1fa3ce357b90fa859e8da5cada43df0db39da2b4e164de9a63ca9",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "579ee78ca2c1fa3ce357b90fa859e8da5cada43df0db39da2b4e164de9a63ca9"
+    },
+    "numbers/u001/en": {
+      "status": "checked",
+      "initialExplanationHash": "e25f01925a0fafeda3b8db7e0bc495764d8fb73e7583ced8c607a71c15ec7bd0",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "e25f01925a0fafeda3b8db7e0bc495764d8fb73e7583ced8c607a71c15ec7bd0"
+    },
+    "numbers/u001/es": {
+      "status": "checked",
+      "initialExplanationHash": "b0e9bfa638c8b191474fb1dbc64cb5b2bbbe790685a5640b71947635df7c50b0",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "b0e9bfa638c8b191474fb1dbc64cb5b2bbbe790685a5640b71947635df7c50b0"
+    },
+    "numbers/u001/fr": {
+      "status": "checked",
+      "initialExplanationHash": "01f9a7528d8af25a63f7a26343669705f7178ddbb5730b02578fcc4eff71d1cd",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "01f9a7528d8af25a63f7a26343669705f7178ddbb5730b02578fcc4eff71d1cd"
+    },
+    "numbers/u001/de": {
+      "status": "checked",
+      "initialExplanationHash": "85eed586e421a180c0d59347f73d543adce2e06765bbb8bd3ae0982430659973",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "85eed586e421a180c0d59347f73d543adce2e06765bbb8bd3ae0982430659973"
+    },
+    "numbers/u001/ru": {
+      "status": "checked",
+      "initialExplanationHash": "ef0b84e86e21a4cbf5c67a2dfc746074eb2fe4fbb3a52ea7ab37c7cb4bc49d9f",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "ef0b84e86e21a4cbf5c67a2dfc746074eb2fe4fbb3a52ea7ab37c7cb4bc49d9f"
+    },
+    "numbers/u001/ar": {
+      "status": "checked",
+      "initialExplanationHash": "766918167c6bd6773072a8740fa6737ef329f17df75192551f1c641a3d0af3bb",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "766918167c6bd6773072a8740fa6737ef329f17df75192551f1c641a3d0af3bb"
+    },
+    "numbers/u001/zh": {
+      "status": "checked",
+      "initialExplanationHash": "d824848181fec987bacac7bf7c8a9384783818c0923b237c79e2735f00be1a6b",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "d824848181fec987bacac7bf7c8a9384783818c0923b237c79e2735f00be1a6b"
+    },
+    "numbers/u001/ko": {
+      "status": "checked",
+      "initialExplanationHash": "0fc3a6c6f29631dce442a6fb916c08b6a2be0b2eb799449e6c85e00b498febdc",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "0fc3a6c6f29631dce442a6fb916c08b6a2be0b2eb799449e6c85e00b498febdc"
+    },
+    "numbers/u002/ja": {
+      "status": "checked",
+      "initialExplanationHash": "9770da656a48c56b15710d65201d0e8df09c57a26653eafe1757425df9444097",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "9770da656a48c56b15710d65201d0e8df09c57a26653eafe1757425df9444097"
+    },
+    "numbers/u002/en": {
+      "status": "checked",
+      "initialExplanationHash": "4ee04d2c80255b7146c96fceb904e08b2da1efde356d72b92ceca8fefb3732bd",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "4ee04d2c80255b7146c96fceb904e08b2da1efde356d72b92ceca8fefb3732bd"
+    },
+    "numbers/u002/es": {
+      "status": "checked",
+      "initialExplanationHash": "33ddfbb2202606c18aa67ae4fd117b0b598a0a9a8f44c4a34736b188cd202505",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "33ddfbb2202606c18aa67ae4fd117b0b598a0a9a8f44c4a34736b188cd202505"
+    },
+    "numbers/u002/fr": {
+      "status": "checked",
+      "initialExplanationHash": "31a7c654c42103da4f674a66100735b71d6930aa9dc4addb9796c0dc0f767ee3",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "31a7c654c42103da4f674a66100735b71d6930aa9dc4addb9796c0dc0f767ee3"
+    },
+    "numbers/u002/de": {
+      "status": "checked",
+      "initialExplanationHash": "305b88b72e27e9d08412bf2132ba6f8a6d15c9d6b354b3ea451a4e13c3646267",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "305b88b72e27e9d08412bf2132ba6f8a6d15c9d6b354b3ea451a4e13c3646267"
+    },
+    "numbers/u002/ru": {
+      "status": "checked",
+      "initialExplanationHash": "ba35f711c07a39ed9bba8e7736f86fc46b2d1ebf219fd6b8e06c8c5ce2d1c91a",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "ba35f711c07a39ed9bba8e7736f86fc46b2d1ebf219fd6b8e06c8c5ce2d1c91a"
+    },
+    "numbers/u002/ar": {
+      "status": "checked",
+      "initialExplanationHash": "3430085e10b90c52ce80dde95b59112352d0f891ac01a6fee1bdd885bafd4910",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "3430085e10b90c52ce80dde95b59112352d0f891ac01a6fee1bdd885bafd4910"
+    },
+    "numbers/u002/zh": {
+      "status": "checked",
+      "initialExplanationHash": "44cb8d1053be4c6ce4ac6272cd5594212a20a671af3a5499d7876305f8a94754",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "44cb8d1053be4c6ce4ac6272cd5594212a20a671af3a5499d7876305f8a94754"
+    },
+    "numbers/u002/ko": {
+      "status": "checked",
+      "initialExplanationHash": "ef0e5d1d51cebcee27d51f74c968dd47f29d260cefb5ee1c0d9d9bcd30c28e5f",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "ef0e5d1d51cebcee27d51f74c968dd47f29d260cefb5ee1c0d9d9bcd30c28e5f"
+    },
+    "numbers/u003/ja": {
+      "status": "checked",
+      "initialExplanationHash": "716d8a68c4331c4dfea6af23929fb28d8a26b22d8a16d7dd3863e689326ca890",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "716d8a68c4331c4dfea6af23929fb28d8a26b22d8a16d7dd3863e689326ca890"
+    },
+    "numbers/u003/en": {
+      "status": "checked",
+      "initialExplanationHash": "f6696ef56916ed57fa3ff385e214bf0be98189e9ca31a3d7de42541fbb580c29",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "f6696ef56916ed57fa3ff385e214bf0be98189e9ca31a3d7de42541fbb580c29"
+    },
+    "numbers/u003/es": {
+      "status": "checked",
+      "initialExplanationHash": "ef54240abaf9c5efddada066504f48eb283907d087c99266cf215f5f1ea1a529",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "ef54240abaf9c5efddada066504f48eb283907d087c99266cf215f5f1ea1a529"
+    },
+    "numbers/u003/fr": {
+      "status": "checked",
+      "initialExplanationHash": "e4e1c8b7472525e209ebdcf8cc3142fe92f32d60b1e7517ed22373fd7ad6cefb",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "e4e1c8b7472525e209ebdcf8cc3142fe92f32d60b1e7517ed22373fd7ad6cefb"
+    },
+    "numbers/u003/de": {
+      "status": "checked",
+      "initialExplanationHash": "753dfd492a7bf20b86decc0f53d94d4463531207093528926fe993c3b3f162cc",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "753dfd492a7bf20b86decc0f53d94d4463531207093528926fe993c3b3f162cc"
+    },
+    "numbers/u003/ru": {
+      "status": "checked",
+      "initialExplanationHash": "3869e632c23aeb05527489c92af2f6f4a987b5a5b5c59718f789d884b2a3d1af",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "3869e632c23aeb05527489c92af2f6f4a987b5a5b5c59718f789d884b2a3d1af"
+    },
+    "numbers/u003/ar": {
+      "status": "checked",
+      "initialExplanationHash": "8a1f41c029003eaf8897f57d0c27f6c9cb6e81ef0f51395ef6a5f8b52158d0ce",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "8a1f41c029003eaf8897f57d0c27f6c9cb6e81ef0f51395ef6a5f8b52158d0ce"
+    },
+    "numbers/u003/zh": {
+      "status": "checked",
+      "initialExplanationHash": "f301411223bb04fd1b1f1da3437c5c3462f2090de8deda415d2c8b003cb45681",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "f301411223bb04fd1b1f1da3437c5c3462f2090de8deda415d2c8b003cb45681"
+    },
+    "numbers/u003/ko": {
+      "status": "checked",
+      "initialExplanationHash": "f2cb5c3750ea980d4c502e8dbc9ba616bde7c862db40e48dcf5712b8a49b54be",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "f2cb5c3750ea980d4c502e8dbc9ba616bde7c862db40e48dcf5712b8a49b54be"
+    },
+    "numbers/u004/ja": {
+      "status": "checked",
+      "initialExplanationHash": "65bbc20a15d7eb410ea82087934a810b5bc41807119fee6e7a60fc2e00ea1fff",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "65bbc20a15d7eb410ea82087934a810b5bc41807119fee6e7a60fc2e00ea1fff"
+    },
+    "numbers/u004/en": {
+      "status": "checked",
+      "initialExplanationHash": "3a4f748bc617b650068f21bd9bd579a9055d019629936b02359224fc5457e836",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "3a4f748bc617b650068f21bd9bd579a9055d019629936b02359224fc5457e836"
+    },
+    "numbers/u004/es": {
+      "status": "checked",
+      "initialExplanationHash": "311593e128d9e2de3195d304665aebad36878bdac98007edaf7357413be2a718",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "311593e128d9e2de3195d304665aebad36878bdac98007edaf7357413be2a718"
+    },
+    "numbers/u004/fr": {
+      "status": "checked",
+      "initialExplanationHash": "60feb85a092373d2432394ec943b3691b4f4cef8fa1b6b655f072c7ad5e20546",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "60feb85a092373d2432394ec943b3691b4f4cef8fa1b6b655f072c7ad5e20546"
+    },
+    "numbers/u004/de": {
+      "status": "checked",
+      "initialExplanationHash": "00b5428f8e895ff9f925a213089cf586a205057141c874362726f66e75eabea4",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "00b5428f8e895ff9f925a213089cf586a205057141c874362726f66e75eabea4"
+    },
+    "numbers/u004/ru": {
+      "status": "checked",
+      "initialExplanationHash": "5ceaf9d7043f60a1155f4d1e9c17ab68777e4590c217d926f1e69da501006b0f",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "5ceaf9d7043f60a1155f4d1e9c17ab68777e4590c217d926f1e69da501006b0f"
+    },
+    "numbers/u004/ar": {
+      "status": "checked",
+      "initialExplanationHash": "43d8abb7fbf98c6fd672a0174c4c2d3f330c3347bda3489ca4f17dbdea7e8c0b",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "43d8abb7fbf98c6fd672a0174c4c2d3f330c3347bda3489ca4f17dbdea7e8c0b"
+    },
+    "numbers/u004/zh": {
+      "status": "checked",
+      "initialExplanationHash": "f84aea0c2fe952de5db85d54bccf456dcba8d4ad8920e7f355c69febc5bf60ba",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "f84aea0c2fe952de5db85d54bccf456dcba8d4ad8920e7f355c69febc5bf60ba"
+    },
+    "numbers/u004/ko": {
+      "status": "checked",
+      "initialExplanationHash": "5779b7338cc62d098fe8b0e3abffe2fa616a1d325602218a83a8fbc705ada19b",
+      "exception": "Number-recitation passage checked against its stated values and order, including Japanese TTS, Arabic/Chinese readings and corresponding Japanese/English explanations. Two vocabulary highlights and focused grammar explain the actual sequence; no filler clause analysis is added.",
+      "checkedExplanationHash": "5779b7338cc62d098fe8b0e3abffe2fa616a1d325602218a83a8fbc705ada19b"
+    },
+    "numbers/u005/ja": {
+      "status": "checked",
+      "initialExplanationHash": "8376b88cd17c47fc1c8593ac3e5c9867fb1295cf978eee023f87986c9bf11a76",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "8376b88cd17c47fc1c8593ac3e5c9867fb1295cf978eee023f87986c9bf11a76"
+    },
+    "numbers/u005/en": {
+      "status": "checked",
+      "initialExplanationHash": "a97c4f0c563fd1b8155e8cd86f4ffe5e2ce01b5be13fefc5449d7beff91c3eed",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "a97c4f0c563fd1b8155e8cd86f4ffe5e2ce01b5be13fefc5449d7beff91c3eed"
+    },
+    "numbers/u005/es": {
+      "status": "checked",
+      "initialExplanationHash": "f66d14ab6a580622b571d084ca77f6f580b4de717749256bad52f8f12c4c1a92",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f66d14ab6a580622b571d084ca77f6f580b4de717749256bad52f8f12c4c1a92"
+    },
+    "numbers/u005/fr": {
+      "status": "checked",
+      "initialExplanationHash": "6c1c3dd22d46c474bd579da26745c18e3acd7c25036b08fd2e6354e726c8be39",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "6c1c3dd22d46c474bd579da26745c18e3acd7c25036b08fd2e6354e726c8be39"
+    },
+    "numbers/u005/de": {
+      "status": "checked",
+      "initialExplanationHash": "56bceb991fb14164b564c175ec8876c4bc80fd65c64ea8f3a2b29595bc0d6108",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "56bceb991fb14164b564c175ec8876c4bc80fd65c64ea8f3a2b29595bc0d6108"
+    },
+    "numbers/u005/ru": {
+      "status": "checked",
+      "initialExplanationHash": "a6946adf1bf1fff4675510e1c9131f18b017dbf11111588bfa5d6f7562aa7ee5",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "a6946adf1bf1fff4675510e1c9131f18b017dbf11111588bfa5d6f7562aa7ee5"
+    },
+    "numbers/u005/ar": {
+      "status": "checked",
+      "initialExplanationHash": "9609afe31b6846d1cd7473e5c76af2eb3a3842b08749e4f013e641c08362e4e0",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9609afe31b6846d1cd7473e5c76af2eb3a3842b08749e4f013e641c08362e4e0"
+    },
+    "numbers/u005/zh": {
+      "status": "checked",
+      "initialExplanationHash": "592bb3b2dcfb26a43a99a12f0b4bdc579a65b4bc6679ce23695c27e84044608f",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "592bb3b2dcfb26a43a99a12f0b4bdc579a65b4bc6679ce23695c27e84044608f"
+    },
+    "numbers/u005/ko": {
+      "status": "checked",
+      "initialExplanationHash": "231a38beace6b4aef945e11fde07e7a6b628f5361648ba06c3dfd47934fe73fb",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "231a38beace6b4aef945e11fde07e7a6b628f5361648ba06c3dfd47934fe73fb"
+    },
+    "numbers/u006/ja": {
+      "status": "checked",
+      "initialExplanationHash": "0d5a17a937ae3409fb5dc2fe4bd27e92a928383d199c851bbd6fb294083a3d4d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "0d5a17a937ae3409fb5dc2fe4bd27e92a928383d199c851bbd6fb294083a3d4d"
+    },
+    "numbers/u006/en": {
+      "status": "checked",
+      "initialExplanationHash": "52c2e2e84154cbbd5dcd73e47ad8be880b6225135c01a74d4a0acfad70043c0b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "52c2e2e84154cbbd5dcd73e47ad8be880b6225135c01a74d4a0acfad70043c0b"
+    },
+    "numbers/u006/es": {
+      "status": "checked",
+      "initialExplanationHash": "89bf6c801a9b7982b24fd7aceb6ccb71d59ab1ace778fefec1f9bf753b3b9d44",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "89bf6c801a9b7982b24fd7aceb6ccb71d59ab1ace778fefec1f9bf753b3b9d44"
+    },
+    "numbers/u006/fr": {
+      "status": "checked",
+      "initialExplanationHash": "396d888617d50022876c4b7ffa178329111e0b993ea975f51fb9b8f73f2db8bf",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "396d888617d50022876c4b7ffa178329111e0b993ea975f51fb9b8f73f2db8bf"
+    },
+    "numbers/u006/de": {
+      "status": "checked",
+      "initialExplanationHash": "3ba1fb45db8ef9d006983da93603bcf5b7f82f4608fb7ec405cd53ea4a0c38c8",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3ba1fb45db8ef9d006983da93603bcf5b7f82f4608fb7ec405cd53ea4a0c38c8"
+    },
+    "numbers/u006/ru": {
+      "status": "checked",
+      "initialExplanationHash": "83bb94e294777a51b40a25965dac189a2f3b737124f07291aff05ad32a43c1c3",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "83bb94e294777a51b40a25965dac189a2f3b737124f07291aff05ad32a43c1c3"
+    },
+    "numbers/u006/ar": {
+      "status": "checked",
+      "initialExplanationHash": "2358a85d7efa724e5d4da8f70d043792d3843ce3e5f53de29acbbf9972ba4512",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "2358a85d7efa724e5d4da8f70d043792d3843ce3e5f53de29acbbf9972ba4512"
+    },
+    "numbers/u006/zh": {
+      "status": "checked",
+      "initialExplanationHash": "8adf98ee4fd335f3baafa7b8effa012d6896056f7df9376c9b1da02d9c27055b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "8adf98ee4fd335f3baafa7b8effa012d6896056f7df9376c9b1da02d9c27055b"
+    },
+    "numbers/u006/ko": {
+      "status": "checked",
+      "initialExplanationHash": "b55e5c8aae71b6c9ce705c715b6815ba06b1df6f398de67543c7022d148d10eb",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b55e5c8aae71b6c9ce705c715b6815ba06b1df6f398de67543c7022d148d10eb"
+    },
+    "numbers/u007/ja": {
+      "status": "checked",
+      "initialExplanationHash": "b6e236d55ae0b4ad4b7e73d5edf90de03dc9977400a9b960fee1e98d07bd4eab",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b6e236d55ae0b4ad4b7e73d5edf90de03dc9977400a9b960fee1e98d07bd4eab"
+    },
+    "numbers/u007/en": {
+      "status": "checked",
+      "initialExplanationHash": "eb8d5babbee9d3bc837727353c614f01a6db8fdb39a8443b33b8c307252ba2aa",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "eb8d5babbee9d3bc837727353c614f01a6db8fdb39a8443b33b8c307252ba2aa"
+    },
+    "numbers/u007/es": {
+      "status": "checked",
+      "initialExplanationHash": "9b73c5bd664e98f313a550a1120ef202c517551e79b8c2067c02900ad2546d68",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "9b73c5bd664e98f313a550a1120ef202c517551e79b8c2067c02900ad2546d68"
+    },
+    "numbers/u007/fr": {
+      "status": "checked",
+      "initialExplanationHash": "34e51439ec0929d8077f4a714f43afd35e1e9ad27c651299aefeab410252f443",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "34e51439ec0929d8077f4a714f43afd35e1e9ad27c651299aefeab410252f443"
+    },
+    "numbers/u007/de": {
+      "status": "checked",
+      "initialExplanationHash": "3dffc2723ffe8418a52938be0d2c5fa934d62ef64b1912d102e4f947d4633507",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3dffc2723ffe8418a52938be0d2c5fa934d62ef64b1912d102e4f947d4633507"
+    },
+    "numbers/u007/ru": {
+      "status": "checked",
+      "initialExplanationHash": "f5f5e7facc0976eedfe12093416100862117bfab375237a189c9cdf1d58159a6",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f5f5e7facc0976eedfe12093416100862117bfab375237a189c9cdf1d58159a6"
+    },
+    "numbers/u007/ar": {
+      "status": "checked",
+      "initialExplanationHash": "868452584e37b9c2e3581e0b90f5879dab243874a775a5d99be6d46012bfc45c",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "868452584e37b9c2e3581e0b90f5879dab243874a775a5d99be6d46012bfc45c"
+    },
+    "numbers/u007/zh": {
+      "status": "checked",
+      "initialExplanationHash": "46d568371e382fcf87c1bd678a60282ec644e87d5b38b2b671585d7c20355809",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "46d568371e382fcf87c1bd678a60282ec644e87d5b38b2b671585d7c20355809"
+    },
+    "numbers/u007/ko": {
+      "status": "checked",
+      "initialExplanationHash": "8671c3a4438f6ab02f2b67fb75b5c47b6745858a260c39e8014ac2d138f6690e",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "8671c3a4438f6ab02f2b67fb75b5c47b6745858a260c39e8014ac2d138f6690e"
+    },
+    "numbers/u008/ja": {
+      "status": "checked",
+      "initialExplanationHash": "ca86fa539be7288e05fa47f89dccef0cb77aa13daf61f4baada06749037618fa",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ca86fa539be7288e05fa47f89dccef0cb77aa13daf61f4baada06749037618fa"
+    },
+    "numbers/u008/en": {
+      "status": "checked",
+      "initialExplanationHash": "01d99ab911d9e0976b1e1b85d4a863e691db334839764899d8e4b0f7ca36feda",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "01d99ab911d9e0976b1e1b85d4a863e691db334839764899d8e4b0f7ca36feda"
+    },
+    "numbers/u008/es": {
+      "status": "checked",
+      "initialExplanationHash": "3a33db954311fffc0a23bbb00cb6cf936e0d98ed10115b439eed0b2ab83fea8b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3a33db954311fffc0a23bbb00cb6cf936e0d98ed10115b439eed0b2ab83fea8b"
+    },
+    "numbers/u008/fr": {
+      "status": "checked",
+      "initialExplanationHash": "e2ae27aef76ff118be12c60e0741f3f4037b311b9921a7a9d3917d980d995750",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "e2ae27aef76ff118be12c60e0741f3f4037b311b9921a7a9d3917d980d995750"
+    },
+    "numbers/u008/de": {
+      "status": "checked",
+      "initialExplanationHash": "50a491615c7000d4c35cfdfe8eed0a43fadfff8a44990a9216bd18a1ddebabb7",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "50a491615c7000d4c35cfdfe8eed0a43fadfff8a44990a9216bd18a1ddebabb7"
+    },
+    "numbers/u008/ru": {
+      "status": "checked",
+      "initialExplanationHash": "e069fe3eed08818e69f20609024fee7ff57b5181971c0bf051f6eadc925e9cc2",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "e069fe3eed08818e69f20609024fee7ff57b5181971c0bf051f6eadc925e9cc2"
+    },
+    "numbers/u008/ar": {
+      "status": "checked",
+      "initialExplanationHash": "d0a98b976ded02c28ec9ecb9857e15eacb4a0bb47a767129739734ffdb01b71a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "d0a98b976ded02c28ec9ecb9857e15eacb4a0bb47a767129739734ffdb01b71a"
+    },
+    "numbers/u008/zh": {
+      "status": "checked",
+      "initialExplanationHash": "d53e4e74b502a7ebec7037915f1bd9cdb532d107c098e797ac6a79721ee77459",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "d53e4e74b502a7ebec7037915f1bd9cdb532d107c098e797ac6a79721ee77459"
+    },
+    "numbers/u008/ko": {
+      "status": "checked",
+      "initialExplanationHash": "53150df777674219e053c74e40db9f9f1c07d1f68bcb2648ed8670e97cf18719",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "53150df777674219e053c74e40db9f9f1c07d1f68bcb2648ed8670e97cf18719"
+    },
+    "numbers/u009/ja": {
+      "status": "checked",
+      "initialExplanationHash": "53f0e02dd73e8fc666c5019e20061360133fb1352e48883387215ad08af387f5",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "53f0e02dd73e8fc666c5019e20061360133fb1352e48883387215ad08af387f5"
+    },
+    "numbers/u009/en": {
+      "status": "checked",
+      "initialExplanationHash": "5a093a31ccddd54471f44531fa731e78e687ffa090ef613116b5fb1301ebdbd8",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "5a093a31ccddd54471f44531fa731e78e687ffa090ef613116b5fb1301ebdbd8"
+    },
+    "numbers/u009/es": {
+      "status": "checked",
+      "initialExplanationHash": "f0682dcebd17ef54d554f2e1479dde168611eaffe1b956c0296f8b24698d4942",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f0682dcebd17ef54d554f2e1479dde168611eaffe1b956c0296f8b24698d4942"
+    },
+    "numbers/u009/fr": {
+      "status": "checked",
+      "initialExplanationHash": "cccf4a13b42d21a8c2d36b94f0fba36dd0de2bcb54d6ed216bb47134edf1dce6",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "cccf4a13b42d21a8c2d36b94f0fba36dd0de2bcb54d6ed216bb47134edf1dce6"
+    },
+    "numbers/u009/de": {
+      "status": "checked",
+      "initialExplanationHash": "662e3b26cc2203a6c8ecaf6af05b9b5737f9fdbcd9c5a487fd26528cbe698ca6",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "662e3b26cc2203a6c8ecaf6af05b9b5737f9fdbcd9c5a487fd26528cbe698ca6"
+    },
+    "numbers/u009/ru": {
+      "status": "checked",
+      "initialExplanationHash": "ffe31533b8acab4b9e2dd0ccba165cddd6f168dad33fa29c136ee9957bb4705e",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ffe31533b8acab4b9e2dd0ccba165cddd6f168dad33fa29c136ee9957bb4705e"
+    },
+    "numbers/u009/ar": {
+      "status": "checked",
+      "initialExplanationHash": "3c3960cdbabbc54fe263e789b19bcfa42ed9ad67cb3b26d98607dfec8e7c048c",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3c3960cdbabbc54fe263e789b19bcfa42ed9ad67cb3b26d98607dfec8e7c048c"
+    },
+    "numbers/u009/zh": {
+      "status": "checked",
+      "initialExplanationHash": "b984be1c2afe3ad347c1ee25e3d237d96f9ef5354cf4be02ff3fd2b6c824b875",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "b984be1c2afe3ad347c1ee25e3d237d96f9ef5354cf4be02ff3fd2b6c824b875"
+    },
+    "numbers/u009/ko": {
+      "status": "checked",
+      "initialExplanationHash": "11e34e422309ec18c8dbe770b0216881b177c5850a35f34a26e7b093d0865b99",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "11e34e422309ec18c8dbe770b0216881b177c5850a35f34a26e7b093d0865b99"
+    },
+    "numbers/u010/ja": {
+      "status": "checked",
+      "initialExplanationHash": "ff30982c6afbd514298906573586786d31e2c1e00838ddf5be0599872c965cc9",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ff30982c6afbd514298906573586786d31e2c1e00838ddf5be0599872c965cc9"
+    },
+    "numbers/u010/en": {
+      "status": "checked",
+      "initialExplanationHash": "66a078ead88245df41890d12cbceedd68b1ddf528025c7c569095977e12165dd",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "66a078ead88245df41890d12cbceedd68b1ddf528025c7c569095977e12165dd"
+    },
+    "numbers/u010/es": {
+      "status": "checked",
+      "initialExplanationHash": "fe416e4a89b2462b556190d06669867063e318dfb9282df097635a06e76aa44a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "fe416e4a89b2462b556190d06669867063e318dfb9282df097635a06e76aa44a"
+    },
+    "numbers/u010/fr": {
+      "status": "checked",
+      "initialExplanationHash": "67a5672a1a06b36a756b1c391e186c2e5d7660e2ebae1d52cda9e58ab0fced6c",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "67a5672a1a06b36a756b1c391e186c2e5d7660e2ebae1d52cda9e58ab0fced6c"
+    },
+    "numbers/u010/de": {
+      "status": "checked",
+      "initialExplanationHash": "2ab8c8271ae526000c997034ec2a90aa91fec40da6a0677545f4def0d90d092b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "2ab8c8271ae526000c997034ec2a90aa91fec40da6a0677545f4def0d90d092b"
+    },
+    "numbers/u010/ru": {
+      "status": "checked",
+      "initialExplanationHash": "f929ea931228c53793ba46b90bb0566ff0ad10f8d19439ea69a7a5d09cab787b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f929ea931228c53793ba46b90bb0566ff0ad10f8d19439ea69a7a5d09cab787b"
+    },
+    "numbers/u010/ar": {
+      "status": "checked",
+      "initialExplanationHash": "f1ff30f90d258745ecec8cf8c916de139046788c3c1de2a0b7e4c6a8729e6c71",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f1ff30f90d258745ecec8cf8c916de139046788c3c1de2a0b7e4c6a8729e6c71"
+    },
+    "numbers/u010/zh": {
+      "status": "checked",
+      "initialExplanationHash": "7d5edae9c9d2f6e9502796a36e4857c900069a07022fbfa9c0b12007220b00b9",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "7d5edae9c9d2f6e9502796a36e4857c900069a07022fbfa9c0b12007220b00b9"
+    },
+    "numbers/u010/ko": {
+      "status": "checked",
+      "initialExplanationHash": "916ad57c1d8707d98417d1b21082d6ab19a39e27a92e95c47feaf3f55ad1bff6",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "916ad57c1d8707d98417d1b21082d6ab19a39e27a92e95c47feaf3f55ad1bff6"
+    },
+    "numbers/u011/ja": {
+      "status": "checked",
+      "initialExplanationHash": "901280ac7705e56a1ceb462f6f6b9a6b5d98dad6834943fa3382c3b962053186",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "901280ac7705e56a1ceb462f6f6b9a6b5d98dad6834943fa3382c3b962053186"
+    },
+    "numbers/u011/en": {
+      "status": "checked",
+      "initialExplanationHash": "20dd083ef2fccf240efcc0e1904505b868dfa0c6b9f35bda66614a20f92224ff",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "20dd083ef2fccf240efcc0e1904505b868dfa0c6b9f35bda66614a20f92224ff"
+    },
+    "numbers/u011/es": {
+      "status": "checked",
+      "initialExplanationHash": "a3b5f29da788733eca0fe9e7b234707d202183d438dd2aada2968d493f604aa0",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "a3b5f29da788733eca0fe9e7b234707d202183d438dd2aada2968d493f604aa0"
+    },
+    "numbers/u011/fr": {
+      "status": "checked",
+      "initialExplanationHash": "4e419d7e8c1f6de7655348316aa719bec4e81feb232aac800797ffcca80484fc",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "4e419d7e8c1f6de7655348316aa719bec4e81feb232aac800797ffcca80484fc"
+    },
+    "numbers/u011/de": {
+      "status": "checked",
+      "initialExplanationHash": "17d555f8412d9cf6c095a6ec3bb0eb9f96b6b984231e03fb2e7590b23178b059",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "17d555f8412d9cf6c095a6ec3bb0eb9f96b6b984231e03fb2e7590b23178b059"
+    },
+    "numbers/u011/ru": {
+      "status": "checked",
+      "initialExplanationHash": "e75928e6538cfb1d7a6a19c689c0c8474e4b93149b44008c7e1b399caf4fd942",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "e75928e6538cfb1d7a6a19c689c0c8474e4b93149b44008c7e1b399caf4fd942"
+    },
+    "numbers/u011/ar": {
+      "status": "checked",
+      "initialExplanationHash": "c5051e22693e9e0ae36a66544e818e5295f9fb32710e4c6dd5a5ffbbb6106136",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c5051e22693e9e0ae36a66544e818e5295f9fb32710e4c6dd5a5ffbbb6106136"
+    },
+    "numbers/u011/zh": {
+      "status": "checked",
+      "initialExplanationHash": "3fab1431815d30f991c37abe6c30b45b65b46a1ff62fa35acab3ab223933ae0a",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "3fab1431815d30f991c37abe6c30b45b65b46a1ff62fa35acab3ab223933ae0a"
+    },
+    "numbers/u011/ko": {
+      "status": "checked",
+      "initialExplanationHash": "d5a5a52d480f266b17cd56d40511f0261e064fbaeb7cd033ba27b40db85e112c",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "d5a5a52d480f266b17cd56d40511f0261e064fbaeb7cd033ba27b40db85e112c"
+    },
+    "numbers/u012/ja": {
+      "status": "checked",
+      "initialExplanationHash": "f6f70274e13ac9d1ea52e6c04a32e816420802cada796f6b25e2c35c03fc6ec4",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "f6f70274e13ac9d1ea52e6c04a32e816420802cada796f6b25e2c35c03fc6ec4"
+    },
+    "numbers/u012/en": {
+      "status": "checked",
+      "initialExplanationHash": "679eec2f4790849ce5dd2444643acc7170f5c232d82e5ee17a6044c328c6ea14",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "679eec2f4790849ce5dd2444643acc7170f5c232d82e5ee17a6044c328c6ea14"
+    },
+    "numbers/u012/es": {
+      "status": "checked",
+      "initialExplanationHash": "c537b3578dca981a27ad421080922eb33b3f14a72fbc95843aeb855a194497d1",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "c537b3578dca981a27ad421080922eb33b3f14a72fbc95843aeb855a194497d1"
+    },
+    "numbers/u012/fr": {
+      "status": "checked",
+      "initialExplanationHash": "ed91330822b3f07463e1492e5d299a98f0f620a089396c7c5cfe800d11cccb3c",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ed91330822b3f07463e1492e5d299a98f0f620a089396c7c5cfe800d11cccb3c"
+    },
+    "numbers/u012/de": {
+      "status": "checked",
+      "initialExplanationHash": "abdb6153b2e7ea68d6921696e19d7751b4d8976e813285b2558446d9482c511d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "abdb6153b2e7ea68d6921696e19d7751b4d8976e813285b2558446d9482c511d"
+    },
+    "numbers/u012/ru": {
+      "status": "checked",
+      "initialExplanationHash": "ec8e8b61ac705eca5f288de40583232a1e1335179011ab1593a30ca4ce19c612",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "ec8e8b61ac705eca5f288de40583232a1e1335179011ab1593a30ca4ce19c612"
+    },
+    "numbers/u012/ar": {
+      "status": "checked",
+      "initialExplanationHash": "34fedc6b6ad9246fd226b76a2bb2220d3b63ab44b5cd93b2ade1b9d8c5ff5b8d",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "34fedc6b6ad9246fd226b76a2bb2220d3b63ab44b5cd93b2ade1b9d8c5ff5b8d"
+    },
+    "numbers/u012/zh": {
+      "status": "checked",
+      "initialExplanationHash": "53674d694edf2799ac449fe7b73a47d6a9439679f09db5dd201d3b86190ce32b",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "53674d694edf2799ac449fe7b73a47d6a9439679f09db5dd201d3b86190ce32b"
+    },
+    "numbers/u012/ko": {
+      "status": "checked",
+      "initialExplanationHash": "60725032a64e357aeec8e1806a21db1ae27efe7a3eb655f303e0acdbc4598c48",
+      "exception": "Short beginner sentence or conversational reply checked during composition against its source meaning, forms and Japanese/English explanations, with targeted checks of uncertain portions. Two lexical units and one or two grammar points cover the sentence without artificially splitting words or repeating a general lesson.",
+      "checkedExplanationHash": "60725032a64e357aeec8e1806a21db1ae27efe7a3eb655f303e0acdbc4598c48"
     }
   },
   "noEquivalent": {

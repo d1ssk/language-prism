@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "db5362fd3ef1c8aead2192d4b0ff5620624ad531de2d6434528e5dbeb2b32cce",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "にじゅういち、にじゅうに、さんじゅう、よんじゅう、ごじゅう、ろくじゅう、ななじゅう、はちじゅう、きゅうじゅう、ひゃく。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "85737257cb1dbe218744e564771af29c4043877b59b34fe839220b62b543fa83",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:15:26.445491+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "775ab3dc6373fc4762ec4b802250846a95bf99238db6aff07a07676434f3b38f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هذا الحساء ساخن.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "82e1a6e0242d7640170c61dbabdf2757a5d0c08936a643355fe4fa8d9ff38971",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:58.800167+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a9c8ea52d76721281ff2c24626fc137343248305a4604497f0ec13648028362f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "아니요, 두 번째 입구예요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "17d1d12c5618d02fbf6d3a161e05499c2cbe888132468a37bb2a3a413cc9bad0",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:18:49.935466+00:00"
+}

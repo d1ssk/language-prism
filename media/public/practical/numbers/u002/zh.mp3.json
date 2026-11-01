@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "890e9c20dc5002d2995418186f1dd7642f899c6fd3399a631d56fb1f20c50973",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d48a7bc07e3510038871baf82b7a8a40229a00bd8b2b1ef7fcee987c951bec6c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:15:17.606657+00:00"
+}

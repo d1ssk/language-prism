@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c0fafb408e9548a2a0da08407448c25c6ff1b1a5716de19438029b7a19f96b9b",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "백, 천, 만.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "22390aaf0f1898ec2e9acee7c0d6b8e7ab4061a038d2fa3ffe65d95f4737e0aa",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:16:33.938716+00:00"
+}

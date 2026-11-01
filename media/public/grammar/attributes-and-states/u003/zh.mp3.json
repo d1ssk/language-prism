@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "702cf0e9afb2a0581ccb124fd8454f0c34f6d2676930700b432f40f099b7a66d",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "这是我的书。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "05b9ad3fd90ba6bff492bae24e4b2a3ce82db49448d7594565d760968682d8ad",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:28.113254+00:00"
+}

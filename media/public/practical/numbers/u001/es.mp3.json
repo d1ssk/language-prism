@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c9075298c277761c64670f3f0c718ba73153733db1dc156cf81a517494dbd019",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ee3cc626285ce3574e83435f82e0b89b2f9ff27b1e7864b85bdc437339222e8e",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:14:05.180458+00:00"
+}

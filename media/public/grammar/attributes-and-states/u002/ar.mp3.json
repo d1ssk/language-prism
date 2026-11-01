@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "ec5d245800135d196d795d28ba4a3fc2ac390d2811453e7ad76227dce32a01bc",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هي طبيبة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2b2ba787349c620c788e398255b74692363c38981f0256d62484a60aad34b2ca",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:12.072971+00:00"
+}

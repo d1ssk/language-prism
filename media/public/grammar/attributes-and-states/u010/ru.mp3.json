@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "322521268b0a6d4948f6dfd70d40f7e51eb7acb9f8d7cb1ffb41fe33e87d13ca",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Эта комната не тихая.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2e8e43fe4a3a899b0ecc2d18661af36ecd02610b60d3de23b637e604e008ef0c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:13:13.142191+00:00"
+}

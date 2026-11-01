@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "f5737873df7c67bcc366cef49bcb1f7d948108dee92a75d9cb3238b48d0ecc97",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "かのじょはいしです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "acf6345a724e33e3a852b2a5e00b4d49b065cbf540abbd73241272223bf33e68",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:00.390016+00:00"
+}

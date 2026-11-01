@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "cfdfa5c09e352e7490fe00861ffeb737a1e7ba244f050a283c3bc3641c55907f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 수프는 뜨거워요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "cdbf1fe87e4b955d1f188b2a5a5b22c027ae7f16fb3aaad3e36de77b6440e604",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:02.303435+00:00"
+}

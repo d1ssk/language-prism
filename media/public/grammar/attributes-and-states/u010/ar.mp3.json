@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a38ab330296589531d6f4a420abbf5df1a8e6b9c73faf774ebabe7abf50fcb44",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "هذه الغرفة ليست هادئة.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "9805890ff556e8f06066b691e1c5b8167bfd78fb9ff6fb5463d346468d27b2b9",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:13:15.269239+00:00"
+}

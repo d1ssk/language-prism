@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "bd821ea1ec38bd5517fbceb227eb018f4e7eb4bfd88fcce5c3d85fe5af1d256c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "我累了。",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "e3d3fe1e8aef4cb44f08cde51816acbe43ca8410d46a29440be7bc148ea5c652",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:15.765872+00:00"
+}

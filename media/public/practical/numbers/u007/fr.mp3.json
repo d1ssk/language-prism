@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "c1cdbc758e90ea9100ab9b151a810c3ee93049fc22610ceb9634e87055489b87",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Vous êtes combien ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ced58f210faa2ac8cd4cd887269db17408ec980f04b94fe3db97fbf0a2c40101",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:16.106905+00:00"
+}

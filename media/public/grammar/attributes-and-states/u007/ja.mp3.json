@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "eddd99fe4df4395dd98092ebf430f32bbcebe5f015ce3da0d0bbdb5fdf635674",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "わたしたちはいそがしいです。",
+  "language": "ja",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2ec92b42febf3280cef053624abddec5920b6c4feaec9658a1b96951cd70e3e2",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:19.217549+00:00"
+}

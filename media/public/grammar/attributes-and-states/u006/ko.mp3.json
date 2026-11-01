@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "b4b2227bb410b0f78193aeca65a897ba7229a9dd30cb37d4cf7ef507a6bac40a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "저는 피곤해요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ef19503646bb4d500da0acc3ad0b5d3d8dd05d01f6f96fbb006216460301aa7a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:12:17.161821+00:00"
+}

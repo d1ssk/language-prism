@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "6882b87e8fb8a795fe95fa39d2f9270797addef1ab9459e9ad7d50c11b29db1a",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Нет, это второй вход.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "18a68dc58a890c5b68f6a43239ac7fa8f26f684ac75577447bc85309898a63f4",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:18:43.361112+00:00"
+}

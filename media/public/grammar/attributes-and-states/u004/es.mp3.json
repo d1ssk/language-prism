@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "74266be9e4e593411a984353d38ee9e3dff7e79df02560dfafce3f58f2d282ab",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Esta habitación es tranquila.",
+  "language": "es",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "a85a3ac66610da28f6938d2000024296b2c7bc52a1629bf09ddd66b7cf89d94b",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:35.300623+00:00"
+}

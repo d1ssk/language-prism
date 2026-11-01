@@ -1,0 +1,5344 @@
+{
+  "schemaVersion": 1,
+  "id": "attributes-and-states",
+  "slug": "attributes-and-states",
+  "type": "grammar",
+  "title": {
+    "ja": "属性・状態",
+    "en": "Attributes and states"
+  },
+  "description": {
+    "ja": "身分・所有・性質・状態を表す12組の例文。名詞と形容詞の文、否定・疑問・過去の形を9言語で比べます。",
+    "en": "Twelve examples of identity, ownership, qualities and states, comparing noun and adjective predicates, negation, questions and past forms in nine languages."
+  },
+  "originalLanguage": "ja",
+  "author": "language prism",
+  "sourceTitle": "Original learning examples",
+  "sourceURL": "",
+  "rights": {
+    "ja": "このサイトのためにAIを用いて作成した例文。既存の教材からの転載ではありません。",
+    "en": "Examples created with AI for this site, not reproduced from existing teaching materials."
+  },
+  "license": "Not specified",
+  "attribution": {
+    "ja": "本文・読み表記・日英解説：OpenAI。 音声：Chatterbox。",
+    "en": "Text, pronunciation readings and Japanese/English explanations: OpenAI. Audio: Chatterbox."
+  },
+  "editorialNote": {
+    "ja": "英語のbe動詞だけを共通の型とせず、同じ意味を各言語がどう表すかを比べます。場所・存在は別記事で扱います。 本文・読み・日英解説を収録しています。音声はChatterboxで生成しています。音声の聴取確認は行っていません。専門家による校閲は受けていません。",
+    "en": "The examples compare how languages express the same meanings, without treating English be as a universal template. Location and existence are covered separately. Text, pronunciation readings and Japanese/English explanations are included. Audio is generated with Chatterbox and has not been checked by listening. These examples have not been reviewed by specialists."
+  },
+  "tags": [],
+  "publicationStatus": "ready",
+  "createdAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "units": [
+    {
+      "id": "u001",
+      "languages": {
+        "ja": {
+          "text": "私は学生です。",
+          "ttsText": "わたしはがくせいです。",
+          "vocabulary": [
+            {
+              "term": "私",
+              "meaning": {
+                "ja": "話し手自身。性別を限定しない言い方です。",
+                "en": "The speaker, without specifying gender."
+              }
+            },
+            {
+              "term": "学生",
+              "meaning": {
+                "ja": "学校などで学ぶ人。ここでは身分を述べます。",
+                "en": "A student; here it identifies the speaker's status."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "私は",
+              "explanation": {
+                "ja": "は で話題を提示し、その人が何者かを後ろで説明します。",
+                "en": "は introduces the topic, followed by a statement of who that person is."
+              }
+            },
+            {
+              "point": "学生です",
+              "explanation": {
+                "ja": "名詞 学生 に です を付けた丁寧な文です。英語の a に当たる冠詞は付けません。",
+                "en": "The noun 学生 takes polite です. No article corresponding to English a is used."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "職業や身分を紹介する型です。話し手が明らかな会話では 私は を省けます。",
+              "en": "This pattern introduces an occupation or status. 私は can be omitted when the speaker is clear from context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I am a student.",
+          "ttsText": "I am a student.",
+          "vocabulary": [
+            {
+              "term": "I",
+              "meaning": {
+                "ja": "話し手を主語として示す代名詞。常に大文字です。",
+                "en": "The subject pronoun for the speaker, always capitalized."
+              }
+            },
+            {
+              "term": "a student",
+              "meaning": {
+                "ja": "一人の学生。student は性別を指定しません。",
+                "en": "A student; student does not specify gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "I am",
+              "explanation": {
+                "ja": "be動詞は主語 I に合わせて am になります。会話では I'm と短縮できます。",
+                "en": "Be takes the form am with I. In conversation, I am can contract to I'm."
+              }
+            },
+            {
+              "point": "a student",
+              "explanation": {
+                "ja": "身分を述べる単数可算名詞なので、不定冠詞 a が必要です。",
+                "en": "The singular count noun naming the person's status requires the indefinite article a."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここで am は行動でなく、主語が何者かを述べる役割です。",
+              "en": "Here am links the subject to an identity rather than describing an action."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Soy estudiante.",
+          "ttsText": "Soy estudiante.",
+          "vocabulary": [
+            {
+              "term": "soy",
+              "meaning": {
+                "ja": "ser の現在・一人称単数形。私は〜です。",
+                "en": "The first-person singular present of ser: I am."
+              }
+            },
+            {
+              "term": "estudiante",
+              "meaning": {
+                "ja": "学生。男性にも女性にも同じ形を使えます。",
+                "en": "Student; the same form can refer to a man or a woman."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Soy",
+              "explanation": {
+                "ja": "活用形から話し手だと分かるので、主語 yo を省いています。",
+                "en": "The verb ending identifies the speaker, allowing the subject yo to be omitted."
+              }
+            },
+            {
+              "point": "Soy estudiante",
+              "explanation": {
+                "ja": "身分をそのまま述べるこの文では、estudiante に不定冠詞を付けません。",
+                "en": "In this plain statement of status, estudiante has no indefinite article."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ser はここで学生という身分を示します。「永遠に変わらない」ことを意味するわけではありません。",
+              "en": "Ser identifies the person's status here; it does not mean that this status can never change."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Je suis étudiant.",
+          "ttsText": "Je suis étudiant.",
+          "vocabulary": [
+            {
+              "term": "je",
+              "meaning": {
+                "ja": "話し手を示す主語代名詞。",
+                "en": "The subject pronoun referring to the speaker."
+              }
+            },
+            {
+              "term": "étudiant",
+              "meaning": {
+                "ja": "男性の学生。女性なら étudiante です。",
+                "en": "A male student; the feminine form is étudiante."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Je suis",
+              "explanation": {
+                "ja": "être の現在形 suis を je に合わせます。通常、この文の主語 je は省略しません。",
+                "en": "The present form suis of être agrees with je. The subject je is normally retained in this sentence."
+              }
+            },
+            {
+              "point": "suis étudiant",
+              "explanation": {
+                "ja": "身分を述べる修飾のない名詞なので、不定冠詞を付けません。",
+                "en": "The unmodified noun states a status and takes no indefinite article here."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は男性話者の例です。女性話者は Je suis étudiante. と言います。",
+              "en": "The example uses a male speaker. A female speaker says Je suis étudiante."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich bin Student.",
+          "ttsText": "Ich bin Student.",
+          "vocabulary": [
+            {
+              "term": "ich",
+              "meaning": {
+                "ja": "私。話し手を主語として示します。",
+                "en": "I, referring to the speaker as subject."
+              }
+            },
+            {
+              "term": "Student",
+              "meaning": {
+                "ja": "男性の学生。女性形は Studentin です。",
+                "en": "A male student; Studentin is the feminine form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Ich bin",
+              "explanation": {
+                "ja": "sein の現在形 bin を一人称単数 ich と組み合わせます。",
+                "en": "Bin is the present form of sein used with first-person singular ich."
+              }
+            },
+            {
+              "point": "bin Student",
+              "explanation": {
+                "ja": "職業・身分を述べるこの用法では冠詞を付けません。Student は主格です。",
+                "en": "No article is used in this statement of occupation or status. Student is nominative."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら Ich bin Studentin. です。日本語の本文自体は話し手の性別を指定していません。",
+              "en": "A female speaker says Ich bin Studentin. The Japanese source itself does not specify the speaker's gender."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я студент.",
+          "ttsText": "Я студент.",
+          "vocabulary": [
+            {
+              "term": "я",
+              "meaning": {
+                "ja": "話し手を示す「私」。",
+                "en": "I, referring to the speaker."
+              }
+            },
+            {
+              "term": "студент",
+              "meaning": {
+                "ja": "男性の学生。女性には студентка を使います。",
+                "en": "A male student; студентка is used for a female student."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Я студент",
+              "explanation": {
+                "ja": "現在の身分を述べる文で、英語の am に当たる動詞を明示していません。",
+                "en": "This statement of present status has no overt verb corresponding to English am."
+              }
+            },
+            {
+              "point": "студент",
+              "explanation": {
+                "ja": "ここでは主格の名詞が、主語が何者かを述べています。",
+                "en": "The nominative noun identifies what the subject is."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は男性話者の例で、女性なら Я студентка. です。",
+              "en": "This example has a male speaker; a female speaker says Я студентка."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أنا طالب.",
+          "ttsText": "أنا طالب.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾanā ṭālibun.",
+            "note": {
+              "ja": "男性話者の読みです。女性なら ṭālibatun。文末で休止すると ṭālibun は ṭālib になります。",
+              "en": "The reading is for a male speaker; a female speaker uses ṭālibatun. At a final pause, ṭālibun becomes ṭālib."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "أنا",
+              "meaning": {
+                "ja": "私。男女どちらの話し手にも使う独立代名詞です。",
+                "en": "I, an independent pronoun used by speakers of either gender."
+              }
+            },
+            {
+              "term": "طالب",
+              "meaning": {
+                "ja": "男性の学生。女性形は طالبة です。",
+                "en": "A male student; طالبة is the feminine form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أنا طالب",
+              "explanation": {
+                "ja": "現在の身分を述べる名詞文で、英語の am に当たる動詞を置きません。",
+                "en": "A nominal sentence stating present status, without a verb corresponding to English am."
+              }
+            },
+            {
+              "point": "طالب",
+              "explanation": {
+                "ja": "不定・主格の述語です。ここでは定冠詞 الـ を付けず、学生という身分を述べます。",
+                "en": "An indefinite nominative predicate, without الـ, identifying the speaker as a student."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "学生であることを紹介する文です。性別を示さない日本語に対し、ここでは男性形を選んでいます。",
+              "en": "The sentence introduces the speaker as a student. The Japanese leaves gender unspecified; this version selects the masculine form."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我是学生。",
+          "ttsText": "我是学生。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ shì xuésheng."
+          },
+          "vocabulary": [
+            {
+              "term": "我",
+              "meaning": {
+                "ja": "話し手自身を表す代名詞。",
+                "en": "The pronoun referring to the speaker."
+              }
+            },
+            {
+              "term": "学生",
+              "meaning": {
+                "ja": "学校などで学ぶ人。性別を限定しません。",
+                "en": "A student, without specifying gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "我是学生",
+              "explanation": {
+                "ja": "主語 我 と名詞述語 学生 を 是 で結び、身分を述べます。",
+                "en": "是 links subject 我 to the noun predicate 学生 to state an identity."
+              }
+            },
+            {
+              "point": "学生",
+              "explanation": {
+                "ja": "この文では冠詞も人数を表す数詞も不要です。「一人の」を必ず訳し足す必要はありません。",
+                "en": "Neither an article nor a numeral is required here; English a need not be translated as an explicit one."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この 是 は名詞と結ぶ働きです。後に出る 静か・熱い などの形容詞文も同じ型になるとは限りません。",
+              "en": "是 links to a noun here. The later examples with adjectives such as quiet and hot need not use the same pattern."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "저는 학생이에요.",
+          "ttsText": "저는 학생이에요.",
+          "vocabulary": [
+            {
+              "term": "저",
+              "meaning": {
+                "ja": "丁寧に話すときの「私」。",
+                "en": "The humble first-person pronoun used in polite speech."
+              }
+            },
+            {
+              "term": "학생",
+              "meaning": {
+                "ja": "学生。性別は指定しません。",
+                "en": "A student, without specifying gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "저는",
+              "explanation": {
+                "ja": "저 に話題を示す 는 を付け、話し手の身分を説明します。",
+                "en": "는 marks 저 as the topic whose status is described."
+              }
+            },
+            {
+              "point": "학생이에요",
+              "explanation": {
+                "ja": "子音で終わる名詞 학생 に 이에요 を付けた、丁寧な会話体です。",
+                "en": "학생 ends in a consonant and takes 이에요, a polite conversational ending."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでの 이에요 は名詞と結びます。形容詞の丁寧形を作るときに、同じように付けるわけではありません。",
+              "en": "이에요 attaches to a noun here; it is not added in the same way to form polite adjectives."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u001/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "何者・何であるか",
+        "en": "Identity and classification"
+      }
+    },
+    {
+      "id": "u002",
+      "languages": {
+        "ja": {
+          "text": "彼女は医師です。",
+          "ttsText": "かのじょはいしです。",
+          "vocabulary": [
+            {
+              "term": "彼女",
+              "meaning": {
+                "ja": "ここでは話題の女性を指します。",
+                "en": "Here, the woman being discussed."
+              }
+            },
+            {
+              "term": "医師",
+              "meaning": {
+                "ja": "病気の診断や治療を行う専門職。",
+                "en": "A medical doctor who diagnoses and treats illness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "彼女は医師です",
+              "explanation": {
+                "ja": "彼女を話題にし、名詞 医師 と です で職業を述べます。",
+                "en": "彼女 is the topic; the noun 医師 with です states her occupation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "医師 は性別で形が変わりません。相手を指して本人に話すときの呼びかけではありません。",
+              "en": "医師 does not change with gender. This is a statement about her, not a form of address to her."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "She is a doctor.",
+          "ttsText": "She is a doctor.",
+          "vocabulary": [
+            {
+              "term": "she",
+              "meaning": {
+                "ja": "話題の女性を指す主語代名詞。",
+                "en": "The subject pronoun referring to the woman being discussed."
+              }
+            },
+            {
+              "term": "a doctor",
+              "meaning": {
+                "ja": "一人の医師。doctor 自体に女性形の語尾はありません。",
+                "en": "A medical doctor; doctor itself has no feminine ending."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "She is",
+              "explanation": {
+                "ja": "主語が三人称単数なので be動詞は is です。",
+                "en": "The third-person singular subject takes is."
+              }
+            },
+            {
+              "point": "a doctor",
+              "explanation": {
+                "ja": "職業を表す単数可算名詞に a を付けます。",
+                "en": "The singular count noun naming an occupation takes a."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "この doctor は医師の意味です。博士号の有無を説明する文ではありません。",
+              "en": "Doctor means a physician here; the sentence is not about holding a doctorate."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Ella es médica.",
+          "ttsText": "Ella es médica.",
+          "vocabulary": [
+            {
+              "term": "ella",
+              "meaning": {
+                "ja": "彼女。女性の主語を明示しています。",
+                "en": "She, making the female subject explicit."
+              }
+            },
+            {
+              "term": "médica",
+              "meaning": {
+                "ja": "女性の医師。男性形は médico。",
+                "en": "A female doctor; the masculine form is médico."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Ella es",
+              "explanation": {
+                "ja": "ser の三人称単数 es で職業を述べます。",
+                "en": "Third-person singular es of ser introduces her occupation."
+              }
+            },
+            {
+              "point": "es médica",
+              "explanation": {
+                "ja": "職業名に不定冠詞を付けず、女性を表す médica を使います。",
+                "en": "The occupation noun has no indefinite article and uses feminine médica."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ella は文脈で分かれば省けます。ここでは「彼女」を比較しやすいように明示しています。",
+              "en": "Ella can be omitted when understood from context; it is retained here to make the subject easy to compare."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Elle est médecin.",
+          "ttsText": "Elle est médecin.",
+          "vocabulary": [
+            {
+              "term": "elle",
+              "meaning": {
+                "ja": "女性を指す主語代名詞。",
+                "en": "A subject pronoun referring to a woman."
+              }
+            },
+            {
+              "term": "médecin",
+              "meaning": {
+                "ja": "医師。この文では女性にも médecin を使っています。",
+                "en": "A medical doctor; médecin is used here for a woman too."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Elle est",
+              "explanation": {
+                "ja": "être の三人称単数現在形 est を使います。",
+                "en": "Est is the third-person singular present of être."
+              }
+            },
+            {
+              "point": "est médecin",
+              "explanation": {
+                "ja": "修飾のない職業名を述語にするとき、この文では冠詞を付けません。",
+                "en": "This unmodified occupation noun is used predicatively without an article."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "médecin は医療の職業名です。本文の Elle が人物の性別を示しています。",
+              "en": "Médecin names the medical occupation. Elle identifies the person's gender in this sentence."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Sie ist Ärztin.",
+          "ttsText": "Sie ist Ärztin.",
+          "vocabulary": [
+            {
+              "term": "sie",
+              "meaning": {
+                "ja": "この文では「彼女」。ist が単数の読みを示します。",
+                "en": "Here, she; singular ist identifies this reading."
+              }
+            },
+            {
+              "term": "Ärztin",
+              "meaning": {
+                "ja": "女性の医師。男性形 Arzt に対応します。",
+                "en": "A female doctor, corresponding to masculine Arzt."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Sie ist",
+              "explanation": {
+                "ja": "sein の三人称単数現在形 ist で主語と職業名を結びます。",
+                "en": "Third-person singular ist of sein links the subject to her occupation."
+              }
+            },
+            {
+              "point": "ist Ärztin",
+              "explanation": {
+                "ja": "職業を述べるこの文では、主格の Ärztin に冠詞を付けません。",
+                "en": "Nominative Ärztin takes no article in this statement of occupation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "丁寧な「あなた」の Sie なら動詞は sind です。文頭の大文字だけでは判別せず、動詞も見ます。",
+              "en": "Polite you, Sie, would take sind. The initial capital alone is insufficient; the verb distinguishes them."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Она врач.",
+          "ttsText": "Она врач.",
+          "vocabulary": [
+            {
+              "term": "она",
+              "meaning": {
+                "ja": "彼女。女性の主語を示します。",
+                "en": "She, marking a female subject."
+              }
+            },
+            {
+              "term": "врач",
+              "meaning": {
+                "ja": "医師。男性・女性の医師について使えます。",
+                "en": "A doctor; it can refer to a male or female physician."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Она врач",
+              "explanation": {
+                "ja": "現在の職業を表すので、英語の is に当たる動詞を明示しません。",
+                "en": "No verb corresponding to English is is expressed in this statement of current occupation."
+              }
+            },
+            {
+              "point": "врач",
+              "explanation": {
+                "ja": "述語名詞はここでは主格です。она が女性でも本文の形は врач です。",
+                "en": "The predicate noun is nominative here. It remains врач with feminine она."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "職業名の文法上の性と、その職業の人の性別を分けて考える例です。",
+              "en": "This example separates a noun's grammatical gender from the gender of the person holding the occupation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هي طبيبة.",
+          "ttsText": "هي طبيبة.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hiya ṭabībatun.",
+            "note": {
+              "ja": "文末で休止すると ṭabībatun は ṭabība になります。",
+              "en": "At a final pause, ṭabībatun becomes ṭabība."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "هي",
+              "meaning": {
+                "ja": "彼女。三人称女性単数の独立代名詞。",
+                "en": "She, an independent third-person feminine singular pronoun."
+              }
+            },
+            {
+              "term": "طبيبة",
+              "meaning": {
+                "ja": "女性の医師。男性形は طبيب。",
+                "en": "A female doctor; the masculine form is طبيب."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "هي طبيبة",
+              "explanation": {
+                "ja": "主語と職業名を並べた現在の名詞文で、is に当たる動詞はありません。",
+                "en": "A present nominal sentence placing subject and occupation together without an equivalent of is."
+              }
+            },
+            {
+              "point": "طبيبة",
+              "explanation": {
+                "ja": "女性の主語に対応する名詞で、不定・主格の述語です。",
+                "en": "A feminine noun matching the referent, used as an indefinite nominative predicate."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "現在の職業を述べています。特定の医師を指し示す「彼女がその医師です」とは区別します。",
+              "en": "This states her current occupation, rather than identifying her as a particular previously mentioned doctor."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "她是医生。",
+          "ttsText": "她是医生。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Tā shì yīshēng."
+          },
+          "vocabulary": [
+            {
+              "term": "她",
+              "meaning": {
+                "ja": "女性を指す「彼女」。",
+                "en": "She, referring to a woman."
+              }
+            },
+            {
+              "term": "医生",
+              "meaning": {
+                "ja": "医師。語自体は性別を指定しません。",
+                "en": "A doctor; the noun itself does not specify gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "她是医生",
+              "explanation": {
+                "ja": "是 で人物と職業名を結びます。主語が 我 から 她 になっても 是 の形は変わりません。",
+                "en": "是 links a person to an occupation and does not change when the subject changes from 我 to 她."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "她 と男性を指す 他 は、ともに tā と発音します。この文では文字で女性だと分かります。",
+              "en": "她 and masculine 他 are both pronounced tā; the written character identifies a woman here."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그녀는 의사예요.",
+          "ttsText": "그녀는 의사예요.",
+          "vocabulary": [
+            {
+              "term": "그녀",
+              "meaning": {
+                "ja": "彼女。女性を明示する代名詞。",
+                "en": "She, a pronoun explicitly identifying a woman."
+              }
+            },
+            {
+              "term": "의사",
+              "meaning": {
+                "ja": "医師。性別を指定しない職業名です。",
+                "en": "A doctor, an occupation noun without gender specification."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "그녀는",
+              "explanation": {
+                "ja": "는 でその女性を話題にしています。",
+                "en": "는 marks the woman as the topic."
+              }
+            },
+            {
+              "point": "의사예요",
+              "explanation": {
+                "ja": "母音で終わる 의사 に 예요 を付けます。학생이에요 の 이에요 と形を比べられます。",
+                "en": "Vowel-final 의사 takes 예요, contrasting with 이에요 in 학생이에요."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그녀 は説明文・文章で使いやすい表現です。会話では名前や 그분（その方）などが自然な場合もあります。",
+              "en": "그녀 suits descriptive or written contexts. In conversation, a name or 그분, that person, may be more natural."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u002/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u003",
+      "languages": {
+        "ja": {
+          "text": "これは私の本です。",
+          "ttsText": "これはわたしのほんです。",
+          "vocabulary": [
+            {
+              "term": "これ",
+              "meaning": {
+                "ja": "近くにある、または指し示している物。",
+                "en": "An object nearby or being indicated."
+              }
+            },
+            {
+              "term": "私の本",
+              "meaning": {
+                "ja": "話し手が所有する本。",
+                "en": "A book belonging to the speaker."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "これは〜です",
+              "explanation": {
+                "ja": "指し示した物が何かを、名詞句で説明します。",
+                "en": "A noun phrase identifies the object being indicated."
+              }
+            },
+            {
+              "point": "私の",
+              "explanation": {
+                "ja": "の が所有者 私 と持ち物 本 を結びます。",
+                "en": "の links the owner 私 to the possession 本."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "これは本がどこにあるかではなく、どのような物か・誰の物かを述べる文です。",
+              "en": "This identifies the object and its owner rather than locating the book."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "This is my book.",
+          "ttsText": "This is my book.",
+          "vocabulary": [
+            {
+              "term": "this",
+              "meaning": {
+                "ja": "近くの物を指す代名詞。ここでは単独で主語になります。",
+                "en": "A pronoun pointing to a nearby object, used alone as the subject."
+              }
+            },
+            {
+              "term": "my book",
+              "meaning": {
+                "ja": "私の本。my は book の前に置きます。",
+                "en": "My book; my precedes book."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "This is",
+              "explanation": {
+                "ja": "単数の物を指す this に is を使います。",
+                "en": "Singular this takes is."
+              }
+            },
+            {
+              "point": "my book",
+              "explanation": {
+                "ja": "my が名詞を限定するので、a や the を重ねません。",
+                "en": "My determines the noun, so neither a nor the is added."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "my book は名詞句です。所有だけを述べる This book is mine. と構造を区別できます。",
+              "en": "My book is a noun phrase; compare the different structure of This book is mine."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Este es mi libro.",
+          "ttsText": "Este es mi libro.",
+          "vocabulary": [
+            {
+              "term": "este",
+              "meaning": {
+                "ja": "この物。男性単数 libro に対応する指示代名詞。",
+                "en": "This one, a demonstrative pronoun matching masculine singular libro."
+              }
+            },
+            {
+              "term": "mi libro",
+              "meaning": {
+                "ja": "私の本。mi は所有者を示します。",
+                "en": "My book; mi identifies the owner."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Este es",
+              "explanation": {
+                "ja": "指し示した物を ser の es で名詞句と結びます。",
+                "en": "Es of ser links the indicated object to a noun phrase."
+              }
+            },
+            {
+              "point": "mi libro",
+              "explanation": {
+                "ja": "名詞の前の mi にはアクセント記号を付けません。代名詞 mí とは別です。",
+                "en": "Prenominal mi has no accent mark; it differs from the pronoun mí."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここで este は単独で主語です。este libro（この本）のように名詞に添える用法とも比べられます。",
+              "en": "Este stands alone as subject here, unlike its use before a noun in este libro."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "C'est mon livre.",
+          "ttsText": "C'est mon livre.",
+          "vocabulary": [
+            {
+              "term": "c'est",
+              "meaning": {
+                "ja": "ce est が縮約された、これは〜ですという形。",
+                "en": "The contracted form of ce est, meaning this is."
+              }
+            },
+            {
+              "term": "mon livre",
+              "meaning": {
+                "ja": "私の本。livre は男性名詞です。",
+                "en": "My book; livre is masculine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "C'est",
+              "explanation": {
+                "ja": "物を指して何かを説明する、よく使う提示の型です。",
+                "en": "A common pattern for presenting and identifying an object."
+              }
+            },
+            {
+              "point": "mon livre",
+              "explanation": {
+                "ja": "mon は所有者の性別でなく、所有される名詞 livre に合わせた形です。",
+                "en": "Mon agrees with the possessed noun livre, not with the owner's gender."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性の話し手も、自分の本なら mon livre と言います。",
+              "en": "A female speaker also says mon livre for her own book."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Das ist mein Buch.",
+          "ttsText": "Das ist mein Buch.",
+          "vocabulary": [
+            {
+              "term": "das",
+              "meaning": {
+                "ja": "ここでは物を指す「これ」。冠詞ではなく代名詞です。",
+                "en": "Here, this, a pronoun pointing to an object rather than an article."
+              }
+            },
+            {
+              "term": "mein Buch",
+              "meaning": {
+                "ja": "私の本。Buch は中性名詞。",
+                "en": "My book; Buch is neuter."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Das ist",
+              "explanation": {
+                "ja": "指示代名詞 das と ist で、物を特定します。",
+                "en": "The demonstrative das with ist identifies an object."
+              }
+            },
+            {
+              "point": "mein Buch",
+              "explanation": {
+                "ja": "中性単数主格の Buch に、語尾を加えない mein を使います。",
+                "en": "Neuter singular nominative Buch takes mein without an added ending."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "mein は話し手が所有者であることを示し、話し手の性別を指定しません。",
+              "en": "Mein identifies the speaker as owner without specifying the speaker's gender."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Это моя книга.",
+          "ttsText": "Это моя книга.",
+          "vocabulary": [
+            {
+              "term": "это",
+              "meaning": {
+                "ja": "これは。物を指し示して紹介します。",
+                "en": "This, introducing an indicated object."
+              }
+            },
+            {
+              "term": "моя книга",
+              "meaning": {
+                "ja": "私の本。книга は女性名詞。",
+                "en": "My book; книга is feminine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Это моя книга",
+              "explanation": {
+                "ja": "現在の同定文で、英語の is に当たる動詞を置きません。",
+                "en": "A present identification sentence without an overt equivalent of is."
+              }
+            },
+            {
+              "point": "моя книга",
+              "explanation": {
+                "ja": "моя は女性単数主格 книга に一致します。所有者の性別では決まりません。",
+                "en": "Моя agrees with feminine singular nominative книга, not with the owner's gender."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "これは女性話者に限定した文ではなく、男性話者も同じ形を使います。",
+              "en": "The sentence is not limited to a female speaker; a male speaker uses the same form."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هذا كتابي.",
+          "ttsText": "هذا كتابي.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hādhā kitābī."
+          },
+          "vocabulary": [
+            {
+              "term": "هذا",
+              "meaning": {
+                "ja": "これ。男性単数の指示詞で、كتاب に対応します。",
+                "en": "This, a masculine singular demonstrative corresponding to كتاب."
+              }
+            },
+            {
+              "term": "كتابي",
+              "meaning": {
+                "ja": "私の本。كتاب に所有接尾辞 ـي を付けています。",
+                "en": "My book: كتاب with the possessive suffix ـي."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "هذا كتابي",
+              "explanation": {
+                "ja": "現在の名詞文で、指し示した物を所有者付きの名詞で特定します。",
+                "en": "A present nominal sentence identifying the object with a noun marked for its owner."
+              }
+            },
+            {
+              "point": "ـي",
+              "explanation": {
+                "ja": "一人称の所有接尾辞です。كتابي に定冠詞 الـ は重ねません。",
+                "en": "A first-person possessive suffix. The definite article الـ is not added to كتابي."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "所有者が男性でも女性でも kitābī です。この文の هذا は本の文法上の性に対応します。",
+              "en": "Kitābī is used by owners of either gender. هذا corresponds to the book's grammatical gender."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这是我的书。",
+          "ttsText": "这是我的书。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè shì wǒ de shū."
+          },
+          "vocabulary": [
+            {
+              "term": "这",
+              "meaning": {
+                "ja": "これ。近くの物を指します。",
+                "en": "This, pointing to a nearby object."
+              }
+            },
+            {
+              "term": "我的书",
+              "meaning": {
+                "ja": "私の本。的 が所有関係を示します。",
+                "en": "My book; 的 marks the possessive relationship."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "这是",
+              "explanation": {
+                "ja": "是 で指示語 这 と後ろの名詞句を結びます。",
+                "en": "是 links demonstrative 这 to the following noun phrase."
+              }
+            },
+            {
+              "point": "我的书",
+              "explanation": {
+                "ja": "所有者 我、的、持ち物 书 の順に並べます。",
+                "en": "The order is owner 我, 的, then possession 书."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "书 自体には単複の語尾がありません。ここでは指し示している一冊の本を想定しています。",
+              "en": "书 has no plural ending. The example assumes a particular book being indicated."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이건 제 책이에요.",
+          "ttsText": "이건 제 책이에요.",
+          "vocabulary": [
+            {
+              "term": "이건",
+              "meaning": {
+                "ja": "이것은 の縮約形。これは。",
+                "en": "The contraction of 이것은, meaning as for this."
+              }
+            },
+            {
+              "term": "제 책",
+              "meaning": {
+                "ja": "私の本。제 は 저의 が縮まった丁寧な所有表現。",
+                "en": "My book; 제 contracts 저의, a humble possessive expression."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "이건",
+              "explanation": {
+                "ja": "이것 と話題の 은 が縮まった会話的な形です。",
+                "en": "A conversational contraction of 이것 with topic marker 은."
+              }
+            },
+            {
+              "point": "책이에요",
+              "explanation": {
+                "ja": "子音で終わる 책 に 이에요 を付けて、物を説明します。",
+                "en": "Consonant-final 책 takes 이에요 to identify the object."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "저는 と同じく、제 は丁寧な会話に合います。親しい間柄では 내 책 とも言います。",
+              "en": "Like 저는, 제 suits polite conversation. In familiar speech, 내 책 is another option."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u003/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u004",
+      "languages": {
+        "ja": {
+          "text": "この部屋は静かです。",
+          "ttsText": "このへやはしずかです。",
+          "vocabulary": [
+            {
+              "term": "この部屋",
+              "meaning": {
+                "ja": "話題にしている、または近くの部屋。",
+                "en": "The room being discussed or nearby."
+              }
+            },
+            {
+              "term": "静か",
+              "meaning": {
+                "ja": "音や騒ぎが少ない様子。",
+                "en": "Quiet, with little noise or disturbance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "静かです",
+              "explanation": {
+                "ja": "ナ形容詞 静か に です を付け、部屋の性質・状態を述べます。名詞を修飾するときは 静かな部屋 です。",
+                "en": "The na-adjective 静か takes です to describe the room. Before a noun, it becomes 静かな部屋."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "部屋が存在するかではなく、その部屋がどんな様子かを述べています。",
+              "en": "The sentence describes what the room is like, rather than whether it exists."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "This room is quiet.",
+          "ttsText": "This room is quiet.",
+          "vocabulary": [
+            {
+              "term": "this room",
+              "meaning": {
+                "ja": "この部屋。this が名詞 room を限定しています。",
+                "en": "This room; this determines the noun room."
+              }
+            },
+            {
+              "term": "quiet",
+              "meaning": {
+                "ja": "音が少なく静かな。",
+                "en": "Quiet, with little noise."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "is quiet",
+              "explanation": {
+                "ja": "is の後ろに形容詞 quiet を置きます。名詞 a student と違い、形容詞に a は付けません。",
+                "en": "Is is followed by adjective quiet. Unlike the noun in a student, the adjective does not take a."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "quiet は部屋の性質にも、その時点の状態にも使えます。この一文だけでは恒常的か一時的かを限定しません。",
+              "en": "Quiet can describe either a characteristic or a current state; this sentence alone does not specify which."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Esta habitación es tranquila.",
+          "ttsText": "Esta habitación es tranquila.",
+          "vocabulary": [
+            {
+              "term": "esta habitación",
+              "meaning": {
+                "ja": "この部屋。habitación は女性名詞。",
+                "en": "This room; habitación is feminine."
+              }
+            },
+            {
+              "term": "tranquila",
+              "meaning": {
+                "ja": "静かで落ち着いた。女性単数形です。",
+                "en": "Quiet or peaceful, in the feminine singular."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "es tranquila",
+              "explanation": {
+                "ja": "ser を使い、部屋の特徴として静かさを述べています。tranquila は habitación に一致します。",
+                "en": "Ser presents quietness as a characteristic of the room. Tranquila agrees with habitación."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "今は静かだという状態を前面に出すなら está tranquila とも言えます。ここでは部屋の特徴として紹介します。",
+              "en": "Está tranquila can emphasize its current state. Here the sentence introduces a characteristic of the room."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Cette pièce est calme.",
+          "ttsText": "Cette pièce est calme.",
+          "vocabulary": [
+            {
+              "term": "cette pièce",
+              "meaning": {
+                "ja": "この部屋。女性名詞 pièce に cette を使います。",
+                "en": "This room; feminine pièce takes cette."
+              }
+            },
+            {
+              "term": "calme",
+              "meaning": {
+                "ja": "静かで落ち着いた。この形は男女同形です。",
+                "en": "Quiet or peaceful; the form is the same for masculine and feminine."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "est calme",
+              "explanation": {
+                "ja": "être と形容詞で状態・性質を述べます。calme は単数の pièce を説明しています。",
+                "en": "Être with an adjective describes a state or quality. Calme describes singular pièce."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "pièce はここでは部屋です。硬貨や作品などの別の意味ではありません。",
+              "en": "Pièce means room here, rather than a coin, play, or another of its meanings."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Dieses Zimmer ist ruhig.",
+          "ttsText": "Dieses Zimmer ist ruhig.",
+          "vocabulary": [
+            {
+              "term": "dieses Zimmer",
+              "meaning": {
+                "ja": "この部屋。Zimmer は中性名詞。",
+                "en": "This room; Zimmer is neuter."
+              }
+            },
+            {
+              "term": "ruhig",
+              "meaning": {
+                "ja": "静かな、落ち着いた。",
+                "en": "Quiet or calm."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ist ruhig",
+              "explanation": {
+                "ja": "sein の後ろの述語形容詞 ruhig には、性・数・格に応じた語尾を付けません。",
+                "en": "Predicate adjective ruhig after sein takes no ending for gender, number, or case."
+              }
+            },
+            {
+              "point": "Dieses Zimmer",
+              "explanation": {
+                "ja": "主語の中性単数主格に合わせて dieses を使います。",
+                "en": "Dieses agrees with the neuter singular nominative subject."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "名詞の前なら ein ruhiges Zimmer となり、ruhig に語尾が付きます。",
+              "en": "Before a noun, the adjective takes an ending, as in ein ruhiges Zimmer."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Эта комната тихая.",
+          "ttsText": "Эта комната тихая.",
+          "vocabulary": [
+            {
+              "term": "эта комната",
+              "meaning": {
+                "ja": "この部屋。どちらも女性単数主格。",
+                "en": "This room; both words are feminine singular nominative."
+              }
+            },
+            {
+              "term": "тихая",
+              "meaning": {
+                "ja": "静かな。тихий の女性単数形。",
+                "en": "Quiet, the feminine singular form of тихий."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "комната тихая",
+              "explanation": {
+                "ja": "現在の形容詞述語で、英語の is は明示しません。тихая は комната に一致します。",
+                "en": "A present adjectival predicate without overt is. Тихая agrees with комната."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは長語尾形の形容詞で部屋の特徴を述べています。",
+              "en": "The long adjective form describes a characteristic of the room here."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هذه الغرفة هادئة.",
+          "ttsText": "هذه الغرفة هادئة.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hādhihi al-ghurfatu hādiʾatun.",
+            "note": {
+              "ja": "هذه الغرفة を続けると hādhihi l-ghurfatu。文末で休止すると hādiʾatun は hādiʾa になります。",
+              "en": "Connected هذه الغرفة is hādhihi l-ghurfatu. At a final pause, hādiʾatun becomes hādiʾa."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "هذه الغرفة",
+              "meaning": {
+                "ja": "この部屋。غرفة は女性名詞です。",
+                "en": "This room; غرفة is feminine."
+              }
+            },
+            {
+              "term": "هادئة",
+              "meaning": {
+                "ja": "静かな。部屋に合わせた女性形。",
+                "en": "Quiet, in the feminine form matching the room."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "هذه الغرفة",
+              "explanation": {
+                "ja": "指示詞の後ろの الغرفة は定冠詞付きで、主語の「この部屋」を作ります。",
+                "en": "The demonstrative followed by definite الغرفة forms the subject this room."
+              }
+            },
+            {
+              "point": "هادئة",
+              "explanation": {
+                "ja": "不定・主格の形容詞述語です。現在の is に当たる動詞は置きません。",
+                "en": "An indefinite nominative adjective predicate, without a present-tense equivalent of is."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "هادئة を主語の後ろに置いて、一つの文として部屋の様子を説明します。",
+              "en": "هادئة follows the subject to form a complete statement about the room."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这个房间很安静。",
+          "ttsText": "这个房间很安静。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè ge fángjiān hěn ānjìng."
+          },
+          "vocabulary": [
+            {
+              "term": "这个房间",
+              "meaning": {
+                "ja": "この部屋。个 は部屋を指すときの量詞です。",
+                "en": "This room; 个 is the classifier used when identifying the room."
+              }
+            },
+            {
+              "term": "安静",
+              "meaning": {
+                "ja": "静かで騒がしくない。",
+                "en": "Quiet, without noise or disturbance."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "很安静",
+              "explanation": {
+                "ja": "形容詞述語の前に 很 を置き、是 は使いません。普通の叙述では 很 が強い「とても」を表さないこともあります。",
+                "en": "很 precedes the adjective predicate without 是. In a neutral statement, 很 need not strongly emphasize very."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の「静かです」に自然に対応する文として、ここでは強い程度の意味を付けずに訳しています。",
+              "en": "This is rendered as a natural equivalent of the Japanese statement, without emphasizing a high degree of quietness."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이 방은 조용해요.",
+          "ttsText": "이 방은 조용해요.",
+          "vocabulary": [
+            {
+              "term": "이 방",
+              "meaning": {
+                "ja": "この部屋。이 は名詞の前に置く指示語。",
+                "en": "This room; 이 is a demonstrative before a noun."
+              }
+            },
+            {
+              "term": "조용해요",
+              "meaning": {
+                "ja": "静かです。原形は 조용하다。",
+                "en": "Is quiet; the dictionary form is 조용하다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "조용해요",
+              "explanation": {
+                "ja": "形容詞 조용하다 自体を丁寧な形に活用します。학생이에요 のような名詞の文とは作り方が違います。",
+                "en": "The adjective 조용하다 itself is conjugated politely, unlike the noun sentence 학생이에요."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "방은 の 은 は、子音で終わる 방 に付く話題の助詞です。",
+              "en": "은 in 방은 marks the topic after consonant-final 방."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u004/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "どんな性質・状態か",
+        "en": "Qualities and states"
+      }
+    },
+    {
+      "id": "u005",
+      "languages": {
+        "ja": {
+          "text": "このスープは熱いです。",
+          "ttsText": "このすーぷはあついです。",
+          "vocabulary": [
+            {
+              "term": "スープ",
+              "meaning": {
+                "ja": "液体の料理。ここでは目の前の一杯を想定します。",
+                "en": "Soup, here an individual serving in front of the speaker."
+              }
+            },
+            {
+              "term": "熱い",
+              "meaning": {
+                "ja": "触れたり口に入れたりすると温度が高い。",
+                "en": "Hot to the touch or when tasted."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "熱いです",
+              "explanation": {
+                "ja": "イ形容詞 熱い に丁寧さを添える です を付けています。静かです のナ形容詞とは型が違います。",
+                "en": "です adds politeness to the i-adjective 熱い, a different pattern from the na-adjective in 静かです."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "食べ物の温度なので 熱い と書きます。気温の「暑い」と発音は同じですが表記が違います。",
+              "en": "熱い describes the food's temperature; it differs in writing from 暑い for hot weather, though pronounced the same."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "This soup is hot.",
+          "ttsText": "This soup is hot.",
+          "vocabulary": [
+            {
+              "term": "soup",
+              "meaning": {
+                "ja": "スープ。ここでは不可算名詞として扱います。",
+                "en": "Soup, used as a mass noun here."
+              }
+            },
+            {
+              "term": "hot",
+              "meaning": {
+                "ja": "ここでは温度が高い。",
+                "en": "Here, high in temperature."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "This soup is hot",
+              "explanation": {
+                "ja": "名詞句 This soup を主語にして、is と形容詞 hot で状態を述べます。",
+                "en": "The noun phrase This soup is the subject; is with adjective hot describes its state."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "hot は辛さも表せますが、この例では温度の話です。",
+              "en": "Hot can also mean spicy, but this example concerns temperature."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Esta sopa está caliente.",
+          "ttsText": "Esta sopa está caliente.",
+          "vocabulary": [
+            {
+              "term": "esta sopa",
+              "meaning": {
+                "ja": "このスープ。sopa は女性名詞です。",
+                "en": "This soup; sopa is feminine."
+              }
+            },
+            {
+              "term": "caliente",
+              "meaning": {
+                "ja": "温度が高い。男女同形の形容詞。",
+                "en": "Hot in temperature, an adjective with the same masculine and feminine form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "está caliente",
+              "explanation": {
+                "ja": "estar を使い、このスープの今の温度を述べます。部屋の特徴を述べた es tranquila と比べられます。",
+                "en": "Estar describes this soup's current temperature, contrasting with es tranquila for the room's characteristic."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは辛いという意味ではありません。辛さを明示する場合は picante を使えます。",
+              "en": "This does not mean spicy; picante can explicitly describe spiciness."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Cette soupe est chaude.",
+          "ttsText": "Cette soupe est chaude.",
+          "vocabulary": [
+            {
+              "term": "cette soupe",
+              "meaning": {
+                "ja": "このスープ。soupe は女性名詞。",
+                "en": "This soup; soupe is feminine."
+              }
+            },
+            {
+              "term": "chaude",
+              "meaning": {
+                "ja": "熱い。chaud の女性単数形。",
+                "en": "Hot, the feminine singular of chaud."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "est chaude",
+              "explanation": {
+                "ja": "être の後ろの形容詞も、主語 soupe の性・数に一致させます。",
+                "en": "The adjective after être agrees with the gender and number of subject soupe."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "chaude は温度の表現です。この文は味の辛さを述べていません。",
+              "en": "Chaude describes temperature; the sentence does not describe spiciness."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Diese Suppe ist heiß.",
+          "ttsText": "Diese Suppe ist heiß.",
+          "vocabulary": [
+            {
+              "term": "diese Suppe",
+              "meaning": {
+                "ja": "このスープ。Suppe は女性名詞です。",
+                "en": "This soup; Suppe is feminine."
+              }
+            },
+            {
+              "term": "heiß",
+              "meaning": {
+                "ja": "熱い。温かい warm より温度が高い表現。",
+                "en": "Hot, describing a higher temperature than warm."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ist heiß",
+              "explanation": {
+                "ja": "述語形容詞 heiß は、主語が女性名詞でも語尾を変えません。",
+                "en": "Predicate adjective heiß keeps its form even with a feminine subject."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "diese は主語 Suppe に一致して変化しますが、ist の後ろの heiß は変化しません。",
+              "en": "Diese inflects to agree with Suppe, while heiß after ist does not."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Этот суп горячий.",
+          "ttsText": "Этот суп горячий.",
+          "vocabulary": [
+            {
+              "term": "этот суп",
+              "meaning": {
+                "ja": "このスープ。男性単数主格の名詞句。",
+                "en": "This soup, a masculine singular nominative noun phrase."
+              }
+            },
+            {
+              "term": "горячий",
+              "meaning": {
+                "ja": "熱い。男性単数の形容詞です。",
+                "en": "Hot, a masculine singular adjective."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "суп горячий",
+              "explanation": {
+                "ja": "現在の文で動詞を置かず、горячий を男性名詞 суп に一致させます。",
+                "en": "No verb is expressed in the present statement; горячий agrees with masculine суп."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "辛さではなく温度を説明します。飲む前に熱さを伝える場面にも使えます。",
+              "en": "It describes temperature rather than spiciness and can warn someone before tasting the soup."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هذا الحساء ساخن.",
+          "ttsText": "هذا الحساء ساخن.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hādhā al-ḥasāʾu sākhinun.",
+            "note": {
+              "ja": "هذا الحساء を続けると hādhā l-ḥasāʾu。文末の sākhinun は休止時に sākhin になります。",
+              "en": "Connected هذا الحساء is hādhā l-ḥasāʾu. Final sākhinun becomes sākhin at a pause."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "هذا الحساء",
+              "meaning": {
+                "ja": "このスープ。حساء は男性名詞。",
+                "en": "This soup; حساء is masculine."
+              }
+            },
+            {
+              "term": "ساخن",
+              "meaning": {
+                "ja": "熱い。ここではスープの温度を述べます。",
+                "en": "Hot, describing the soup's temperature here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "هذا الحساء ساخن",
+              "explanation": {
+                "ja": "定の主語と不定の形容詞述語からなる現在の名詞文です。ساخن は男性単数で主語に一致します。",
+                "en": "A present nominal sentence with a definite subject and indefinite adjective predicate. Masculine singular ساخن agrees with the subject."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "温度が高いことを示し、味の辛さを指定する文ではありません。",
+              "en": "It indicates a high temperature without specifying a spicy taste."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这碗汤很烫。",
+          "ttsText": "这碗汤很烫。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè wǎn tāng hěn tàng."
+          },
+          "vocabulary": [
+            {
+              "term": "这碗汤",
+              "meaning": {
+                "ja": "この一杯のスープ。碗 は器一杯を数える量詞。",
+                "en": "This bowl of soup; 碗 measures a bowlful."
+              }
+            },
+            {
+              "term": "烫",
+              "meaning": {
+                "ja": "触れたり飲んだりすると熱い。",
+                "en": "Hot to the touch or when drunk."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "很烫",
+              "explanation": {
+                "ja": "是 を使わず、很 と形容詞 烫 で温度を述べます。",
+                "en": "很 with adjective 烫 describes temperature without 是."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "中国語では器を明示して「この一杯」としています。烫 は飲む際の熱さを感じさせる表現です。",
+              "en": "The Chinese explicitly identifies a bowlful. 烫 suggests heat felt when drinking or touching it."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이 수프는 뜨거워요.",
+          "ttsText": "이 수프는 뜨거워요.",
+          "vocabulary": [
+            {
+              "term": "수프",
+              "meaning": {
+                "ja": "スープ。外来語です。",
+                "en": "Soup, a loanword."
+              }
+            },
+            {
+              "term": "뜨거워요",
+              "meaning": {
+                "ja": "熱いです。原形は 뜨겁다。",
+                "en": "Is hot; the dictionary form is 뜨겁다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "뜨겁다 → 뜨거워요",
+              "explanation": {
+                "ja": "ㅂ不規則活用で、丁寧形を作る際に 뜨거워요 となります。名詞用の 이에요 は付けません。",
+                "en": "The ㅂ-irregular adjective becomes 뜨거워요 in the polite form; noun ending 이에요 is not added."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "뜨겁다 は物に触れたり飲食したりするときの熱さです。暑い天気をいう 덥다 と区別します。",
+              "en": "뜨겁다 describes heat felt in contact with objects or food, unlike 덥다 for hot weather."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u005/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u006",
+      "languages": {
+        "ja": {
+          "text": "私は疲れています。",
+          "ttsText": "わたしはつかれています。",
+          "vocabulary": [
+            {
+              "term": "疲れる",
+              "meaning": {
+                "ja": "活動などによって力や元気が減る。",
+                "en": "To become tired or lose energy through activity."
+              }
+            },
+            {
+              "term": "疲れています",
+              "meaning": {
+                "ja": "疲れた結果が今も続く状態。",
+                "en": "The continuing state resulting from becoming tired."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "疲れています",
+              "explanation": {
+                "ja": "動詞 疲れる のて形に います を続けます。ここでは進行中の動作より、結果としての状態を表します。",
+                "en": "The te-form of 疲れる takes います, expressing a resulting state here rather than an action in progress."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "英語では形容詞 tired を使うところを、日本語では動詞由来の状態表現にしています。",
+              "en": "Where English uses adjective tired, Japanese uses a state expression derived from a verb."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I am tired.",
+          "ttsText": "I am tired.",
+          "vocabulary": [
+            {
+              "term": "am",
+              "meaning": {
+                "ja": "主語 I に対応する be の現在形。",
+                "en": "The present form of be agreeing with I."
+              }
+            },
+            {
+              "term": "tired",
+              "meaning": {
+                "ja": "疲れている。ここでは状態を表す形容詞。",
+                "en": "Tired, used here as an adjective describing a state."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "am tired",
+              "explanation": {
+                "ja": "be と形容詞で今の疲れを述べます。tired の形だけを見て過去時制と判断せず、am が現在だと確認します。",
+                "en": "Be plus an adjective describes current tiredness. Tired alone does not mark past tense; am locates the state in the present."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "疲れの原因はこの文では述べていません。短縮形は I'm tired. です。",
+              "en": "The cause of the tiredness is unspecified. The contracted form is I'm tired."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Estoy cansado.",
+          "ttsText": "Estoy cansado.",
+          "vocabulary": [
+            {
+              "term": "estoy",
+              "meaning": {
+                "ja": "estar の現在・一人称単数形。",
+                "en": "The first-person singular present of estar."
+              }
+            },
+            {
+              "term": "cansado",
+              "meaning": {
+                "ja": "疲れている。男性単数形。",
+                "en": "Tired, in the masculine singular."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Estoy cansado",
+              "explanation": {
+                "ja": "estar で現在の状態を述べます。主語 yo は活用から分かるため省略しています。",
+                "en": "Estar expresses a current state. Subject yo is omitted because the conjugation identifies it."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は男性話者です。女性話者なら Estoy cansada. と形容詞の語尾が変わります。",
+              "en": "This example uses a male speaker. A female speaker says Estoy cansada."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Je suis fatigué.",
+          "ttsText": "Je suis fatigué.",
+          "vocabulary": [
+            {
+              "term": "suis",
+              "meaning": {
+                "ja": "être の現在・一人称単数形。",
+                "en": "The first-person singular present of être."
+              }
+            },
+            {
+              "term": "fatigué",
+              "meaning": {
+                "ja": "疲れている。ここでは男性単数形。",
+                "en": "Tired, masculine singular here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "suis fatigué",
+              "explanation": {
+                "ja": "être と形容詞で今の状態を述べています。この文は過去の出来事を述べる複合過去ではありません。",
+                "en": "Être plus an adjective describes the current state; this sentence is not a passé composé account of a past event."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら fatiguée と書きますが、この語では男性形と女性形の発音は同じです。",
+              "en": "A female speaker writes fatiguée; for this word, the masculine and feminine forms sound the same."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich bin müde.",
+          "ttsText": "Ich bin müde.",
+          "vocabulary": [
+            {
+              "term": "bin",
+              "meaning": {
+                "ja": "sein の現在・一人称単数形。",
+                "en": "The first-person singular present of sein."
+              }
+            },
+            {
+              "term": "müde",
+              "meaning": {
+                "ja": "疲れている、眠気がある。",
+                "en": "Tired or sleepy."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "bin müde",
+              "explanation": {
+                "ja": "主語 Ich と状態を表す形容詞 müde を bin で結びます。述語形容詞には性別による語尾を付けません。",
+                "en": "Bin links subject Ich to state adjective müde, which takes no gender ending in predicate use."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "疲れて休みたい場面にも、眠い場面にも使えます。この文では疲れを表しています。",
+              "en": "It can express wanting rest from fatigue or feeling sleepy; here it conveys tiredness."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я устал.",
+          "ttsText": "Я устал.",
+          "vocabulary": [
+            {
+              "term": "я",
+              "meaning": {
+                "ja": "話し手を示す私。",
+                "en": "I, referring to the speaker."
+              }
+            },
+            {
+              "term": "устал",
+              "meaning": {
+                "ja": "устать（疲れる）の男性単数過去形。",
+                "en": "The masculine singular past form of устать, to become tired."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Я устал",
+              "explanation": {
+                "ja": "動詞の過去形で「疲れた」という変化を表し、現在の疲れを伝えられます。英語の am tired と形は異なります。",
+                "en": "A past verb form describes having become tired and can convey present tiredness, unlike the form of English am tired."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら Я устала. です。過去形の性は話し手に合わせます。",
+              "en": "A female speaker says Я устала. The past-tense gender matches the speaker."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "أنا متعب.",
+          "ttsText": "أنا متعب.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "ʾanā mutʿabun.",
+            "note": {
+              "ja": "「疲れた」の mutʿabun と読み、男性話者を想定します。女性なら mutʿabatun。文末休止は mutʿab です。",
+              "en": "Mutʿabun means tired and assumes a male speaker. A female speaker uses mutʿabatun. The final pausal form is mutʿab."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "أنا",
+              "meaning": {
+                "ja": "私。主語となる独立代名詞。",
+                "en": "I, an independent pronoun serving as subject."
+              }
+            },
+            {
+              "term": "متعب",
+              "meaning": {
+                "ja": "疲れている。ここでは男性単数形。",
+                "en": "Tired, masculine singular here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "أنا متعب",
+              "explanation": {
+                "ja": "現在の状態を述べる名詞文です。متعب が不定・主格の述語で、am に当たる動詞はありません。",
+                "en": "A nominal sentence describing a current state. متعب is an indefinite nominative predicate without an equivalent of am."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "疲れの状態を表し、何が疲れの原因かは述べていません。",
+              "en": "The sentence describes tiredness without stating its cause."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我累了。",
+          "ttsText": "我累了。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ lèi le."
+          },
+          "vocabulary": [
+            {
+              "term": "累",
+              "meaning": {
+                "ja": "疲れている。状態を表す形容詞。",
+                "en": "Tired, an adjective describing a state."
+              }
+            },
+            {
+              "term": "了",
+              "meaning": {
+                "ja": "ここでは疲れた状態になったことを示す文末の助詞。",
+                "en": "Here, a sentence-final particle marking the onset of tiredness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "我累了",
+              "explanation": {
+                "ja": "是 を置かず形容詞で述べ、了 で「今は疲れている」という変化を示します。了 自体が過去時制ではありません。",
+                "en": "An adjective predicates without 是; 了 marks a change to now being tired. 了 is not itself a past-tense marker."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の状態描写に対し、中国語では「疲れてきた・もう疲れた」という変化も含む自然な言い方です。",
+              "en": "Compared with the Japanese state description, this natural Chinese expression also suggests becoming or now being tired."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "저는 피곤해요.",
+          "ttsText": "저는 피곤해요.",
+          "vocabulary": [
+            {
+              "term": "저는",
+              "meaning": {
+                "ja": "丁寧な私 저 に話題の 는 を付けた形。",
+                "en": "Humble I, 저, with topic marker 는."
+              }
+            },
+            {
+              "term": "피곤해요",
+              "meaning": {
+                "ja": "疲れています。原形は 피곤하다。",
+                "en": "Am tired; the dictionary form is 피곤하다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "피곤해요",
+              "explanation": {
+                "ja": "形容詞 피곤하다 を丁寧な会話体に活用します。英語の am に当たる独立した語は加えません。",
+                "en": "피곤하다 is conjugated as a polite adjective; no separate word corresponding to am is added."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "話し手が男性でも女性でも同じ文です。文脈で主語が分かれば 저는 を省けます。",
+              "en": "The sentence is the same for male and female speakers. 저는 can be omitted when understood from context."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u006/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u007",
+      "languages": {
+        "ja": {
+          "text": "私たちは忙しいです。",
+          "ttsText": "わたしたちはいそがしいです。",
+          "vocabulary": [
+            {
+              "term": "私たち",
+              "meaning": {
+                "ja": "話し手を含む複数の人。",
+                "en": "A group including the speaker."
+              }
+            },
+            {
+              "term": "忙しい",
+              "meaning": {
+                "ja": "することが多く、時間に余裕がない。",
+                "en": "Busy, with much to do and little spare time."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "私たちは忙しいです",
+              "explanation": {
+                "ja": "複数の話題でも 忙しいです の形は単数と変わりません。",
+                "en": "忙しいです does not change when its topic is plural rather than singular."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "誰がそのグループに含まれるかは文脈で決まります。聞き手を含むかどうかも、この文だけでは決まりません。",
+              "en": "Context determines the group, including whether the listener is included."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "We are busy.",
+          "ttsText": "We are busy.",
+          "vocabulary": [
+            {
+              "term": "we",
+              "meaning": {
+                "ja": "話し手を含む複数の人を示す主語代名詞。",
+                "en": "The subject pronoun for a group including the speaker."
+              }
+            },
+            {
+              "term": "busy",
+              "meaning": {
+                "ja": "忙しい。形容詞で状態を述べます。",
+                "en": "Busy, an adjective describing a state."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "We are",
+              "explanation": {
+                "ja": "複数の主語 we には be の are を使います。I am、she is と比べられます。",
+                "en": "Plural subject we takes are, contrasting with I am and she is."
+              }
+            },
+            {
+              "point": "are busy",
+              "explanation": {
+                "ja": "形容詞 busy は主語が複数でも複数形になりません。",
+                "en": "Adjective busy does not become plural with a plural subject."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "we が聞き手を含むかどうかは、会話の状況で判断します。",
+              "en": "Whether we includes the listener depends on the conversation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Estamos ocupados.",
+          "ttsText": "Estamos ocupados.",
+          "vocabulary": [
+            {
+              "term": "estamos",
+              "meaning": {
+                "ja": "estar の現在・一人称複数形。",
+                "en": "The first-person plural present of estar."
+              }
+            },
+            {
+              "term": "ocupados",
+              "meaning": {
+                "ja": "忙しい、手がふさがっている。男性複数形。",
+                "en": "Busy or occupied, masculine plural."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Estamos ocupados",
+              "explanation": {
+                "ja": "estar で現在の状態を述べ、形容詞も複数にします。主語 nosotros は省いています。",
+                "en": "Estar expresses the current state and the adjective is plural. Subject nosotros is omitted."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "男性を含むグループの形です。女性だけのグループなら Estamos ocupadas. になります。",
+              "en": "This form is used for a group including men. An all-female group uses Estamos ocupadas."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Nous sommes occupés.",
+          "ttsText": "Nous sommes occupés.",
+          "vocabulary": [
+            {
+              "term": "nous",
+              "meaning": {
+                "ja": "私たち。話し手を含む複数の主語。",
+                "en": "We, a plural subject including the speaker."
+              }
+            },
+            {
+              "term": "occupés",
+              "meaning": {
+                "ja": "忙しい、手がふさがっている。男性複数形。",
+                "en": "Busy or occupied, masculine plural."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Nous sommes",
+              "explanation": {
+                "ja": "être の一人称複数現在形 sommes を使います。",
+                "en": "Sommes is the first-person plural present of être."
+              }
+            },
+            {
+              "point": "occupés",
+              "explanation": {
+                "ja": "形容詞の書き方を複数に合わせます。女性だけのグループでは occupées です。",
+                "en": "The adjective is written in the plural; an all-female group uses occupées."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "occupés と occupées の違いは、この語では通常の発音には現れません。",
+              "en": "For this word, occupés and occupées do not differ in ordinary pronunciation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Wir sind beschäftigt.",
+          "ttsText": "Wir sind beschäftigt.",
+          "vocabulary": [
+            {
+              "term": "wir",
+              "meaning": {
+                "ja": "私たち。話し手を含む複数の主語。",
+                "en": "We, a plural subject including the speaker."
+              }
+            },
+            {
+              "term": "beschäftigt",
+              "meaning": {
+                "ja": "忙しい、何かに取りかかっている。",
+                "en": "Busy or occupied with something."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Wir sind",
+              "explanation": {
+                "ja": "sein は一人称複数で sind になります。",
+                "en": "Sein takes sind in the first-person plural."
+              }
+            },
+            {
+              "point": "sind beschäftigt",
+              "explanation": {
+                "ja": "述語の beschäftigt は、主語が複数でも語尾を変えません。",
+                "en": "Predicate beschäftigt takes no additional ending for the plural subject."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ここでは仕事に就いているかどうかではなく、手がふさがっている状態を表します。",
+              "en": "Here it describes being occupied, rather than whether someone is employed."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Мы заняты.",
+          "ttsText": "Мы заняты.",
+          "vocabulary": [
+            {
+              "term": "мы",
+              "meaning": {
+                "ja": "私たち。話し手を含む複数の人。",
+                "en": "We, a group including the speaker."
+              }
+            },
+            {
+              "term": "заняты",
+              "meaning": {
+                "ja": "忙しい。занятый の短語尾複数形。",
+                "en": "Busy, the plural short form of занятый."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Мы заняты",
+              "explanation": {
+                "ja": "現在の述語に短語尾形容詞を使い、動詞は明示しません。複数形 заняты はグループの性別で変わりません。",
+                "en": "A short-form adjective predicates in the present without an overt verb. Plural заняты does not vary with the group's gender."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "今は手が離せないという返答にも使えます。何をしているかはこの文では述べません。",
+              "en": "It can serve as a response meaning the group is unavailable; the activity itself is unspecified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "نحن مشغولون.",
+          "ttsText": "نحن مشغولون.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "naḥnu mashghūlūna.",
+            "note": {
+              "ja": "文末休止では mashghūlūna は mashghūlūn。女性だけなら述語は mashghūlātun です。",
+              "en": "At a final pause, mashghūlūna becomes mashghūlūn. For an all-female group the predicate is mashghūlātun."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "نحن",
+              "meaning": {
+                "ja": "私たち。男女共通の一人称複数代名詞。",
+                "en": "We, a first-person plural pronoun used regardless of gender."
+              }
+            },
+            {
+              "term": "مشغولون",
+              "meaning": {
+                "ja": "忙しい。男性規則複数の主格形。",
+                "en": "Busy, in the sound masculine plural nominative."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "نحن مشغولون",
+              "explanation": {
+                "ja": "現在の名詞文で、複数の主語に合わせた述語を使います。語尾 ـون が主格複数を表します。",
+                "en": "A present nominal sentence with a predicate matching the plural subject; ـون marks nominative plural."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "男性を含むグループの例です。女性だけなら نحن مشغولات です。",
+              "en": "This example uses a group including men. An all-female group uses نحن مشغولات."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我们很忙。",
+          "ttsText": "我们很忙。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒmen hěn máng."
+          },
+          "vocabulary": [
+            {
+              "term": "我们",
+              "meaning": {
+                "ja": "私たち。我 に複数を示す 们 を付けた代名詞。",
+                "en": "We, a pronoun formed from 我 with plural 们."
+              }
+            },
+            {
+              "term": "忙",
+              "meaning": {
+                "ja": "忙しい。",
+                "en": "Busy."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "很忙",
+              "explanation": {
+                "ja": "很 と形容詞 忙 で状態を述べます。主語が複数になっても 忙 の形は変わりません。",
+                "en": "很 with adjective 忙 describes the state; 忙 does not change with a plural subject."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "很 はこの文で形容詞述語を自然にする働きもあり、必ず強い「とても」を意味するわけではありません。",
+              "en": "很 also helps form a natural adjective predicate here and need not strongly mean very."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "저희는 바빠요.",
+          "ttsText": "저희는 바빠요.",
+          "vocabulary": [
+            {
+              "term": "저희",
+              "meaning": {
+                "ja": "へりくだった「私たち」。通常、聞き手を含みません。",
+                "en": "Humble we, normally excluding the listener."
+              }
+            },
+            {
+              "term": "바빠요",
+              "meaning": {
+                "ja": "忙しいです。原形は 바쁘다。",
+                "en": "Are busy; the dictionary form is 바쁘다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "바쁘다 → 바빠요",
+              "explanation": {
+                "ja": "語幹末の ㅡ が落ちる活用です。形容詞の形は主語の人数では変わりません。",
+                "en": "The stem-final ㅡ drops in conjugation. The adjective does not change according to the number of people."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "他の言語の文が聞き手を含むか未指定なのに対し、この文は聞き手以外の自分たちを丁寧に述べます。",
+              "en": "Unlike versions leaving listener inclusion unspecified, this politely describes the speaker's group apart from the listener."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u007/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u008",
+      "languages": {
+        "ja": {
+          "text": "私は教師ではありません。",
+          "ttsText": "わたしはきょうしではありません。",
+          "vocabulary": [
+            {
+              "term": "教師",
+              "meaning": {
+                "ja": "学校などで教えることを職業とする人。",
+                "en": "A person whose occupation is teaching, for example in a school."
+              }
+            },
+            {
+              "term": "ではありません",
+              "meaning": {
+                "ja": "名詞の文を丁寧に否定する形。",
+                "en": "A polite negative form used with noun predicates."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "教師ではありません",
+              "explanation": {
+                "ja": "教師です を否定しています。イ形容詞の否定と違い、名詞に くない は付けません。",
+                "en": "This negates 教師です. Unlike an i-adjective, the noun does not take くない."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "会話では 教師じゃありません や 教師じゃないです とも言えます。",
+              "en": "Conversational alternatives include 教師じゃありません and 教師じゃないです."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I am not a teacher.",
+          "ttsText": "I am not a teacher.",
+          "vocabulary": [
+            {
+              "term": "not",
+              "meaning": {
+                "ja": "後ろの述語内容を否定する語。",
+                "en": "A word negating the predicate statement."
+              }
+            },
+            {
+              "term": "a teacher",
+              "meaning": {
+                "ja": "一人の教師。性別を限定しません。",
+                "en": "A teacher, without specifying gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "am not",
+              "explanation": {
+                "ja": "be の後ろに not を置きます。この文では do not を加えません。",
+                "en": "Not follows be; do not is not added in this sentence."
+              }
+            },
+            {
+              "point": "a teacher",
+              "explanation": {
+                "ja": "否定文でも単数可算名詞の a を保ちます。",
+                "en": "The singular count noun keeps a even in the negative sentence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "短縮すると I'm not a teacher. です。教師という職業に該当しないことを述べます。",
+              "en": "The contracted form is I'm not a teacher. It denies that teaching is the speaker's occupation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "No soy profesor.",
+          "ttsText": "No soy profesor.",
+          "vocabulary": [
+            {
+              "term": "no",
+              "meaning": {
+                "ja": "文を否定する語。活用した動詞の前に置きます。",
+                "en": "The negator, placed before the conjugated verb."
+              }
+            },
+            {
+              "term": "profesor",
+              "meaning": {
+                "ja": "男性の教師・教員。",
+                "en": "A male teacher or instructor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "No soy profesor",
+              "explanation": {
+                "ja": "soy の直前に no を置き、職業を否定します。職業名にはここでも冠詞を付けません。",
+                "en": "No immediately precedes soy to deny the occupation. The occupation noun again has no article."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本文は男性話者です。女性話者なら No soy profesora. です。",
+              "en": "The speaker is male here. A female speaker says No soy profesora."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Je ne suis pas professeur.",
+          "ttsText": "Je ne suis pas professeur.",
+          "vocabulary": [
+            {
+              "term": "professeur",
+              "meaning": {
+                "ja": "教師・教員。ここでは職業名です。",
+                "en": "A teacher or instructor, used as an occupation noun here."
+              }
+            },
+            {
+              "term": "ne … pas",
+              "meaning": {
+                "ja": "動詞を挟んで否定する組み合わせ。",
+                "en": "A pair surrounding the verb to mark negation."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ne suis pas",
+              "explanation": {
+                "ja": "活用した suis を ne と pas で挟みます。職業名 professeur の前には冠詞を付けません。",
+                "en": "Ne and pas surround conjugated suis. The occupation noun professeur has no article."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "会話では ne を省いた Je suis pas professeur. も聞かれますが、本文は ne を含む形です。",
+              "en": "In speech, Je suis pas professeur may be heard without ne; the text retains it."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich bin kein Lehrer.",
+          "ttsText": "Ich bin kein Lehrer.",
+          "vocabulary": [
+            {
+              "term": "kein",
+              "meaning": {
+                "ja": "名詞を否定する語。ここでは男性単数主格です。",
+                "en": "A noun negator, masculine singular nominative here."
+              }
+            },
+            {
+              "term": "Lehrer",
+              "meaning": {
+                "ja": "男性の教師。女性形は Lehrerin。",
+                "en": "A male teacher; Lehrerin is the feminine form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "kein Lehrer",
+              "explanation": {
+                "ja": "肯定文で冠詞のない職業名を、この文では kein で否定しています。",
+                "en": "Kein negates the occupation noun that has no article in the affirmative sentence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら Ich bin keine Lehrerin. です。名詞に合わせて kein の形も変わります。",
+              "en": "A female speaker says Ich bin keine Lehrerin; the form of kein changes with the noun."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я не учитель.",
+          "ttsText": "Я не учитель.",
+          "vocabulary": [
+            {
+              "term": "не",
+              "meaning": {
+                "ja": "否定を表す語。",
+                "en": "The negative particle."
+              }
+            },
+            {
+              "term": "учитель",
+              "meaning": {
+                "ja": "男性の教師を表す基本形。",
+                "en": "The basic masculine noun for a teacher."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "не учитель",
+              "explanation": {
+                "ja": "現在の名詞述語の前に не を置きます。否定しても英語の am に当たる動詞は現れません。",
+                "en": "Не precedes the present noun predicate. Negation does not introduce an overt equivalent of am."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性教師には учительница も使えます。本文は男性話者を想定しています。",
+              "en": "Учительница can be used for a female teacher. This example assumes a male speaker."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "لست معلما.",
+          "ttsText": "لست معلما.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "lastu muʿalliman.",
+            "note": {
+              "ja": "男性話者の例で、女性なら muʿallimatan。文末休止で男性形 muʿalliman は muʿallimā になります。",
+              "en": "This uses a male speaker; the feminine form is muʿallimatan. At a final pause, masculine muʿalliman becomes muʿallimā."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "لست",
+              "meaning": {
+                "ja": "私は〜ではない。ليس の一人称単数形。",
+                "en": "I am not, the first-person singular form of ليس."
+              }
+            },
+            {
+              "term": "معلما",
+              "meaning": {
+                "ja": "男性の教師。ここでは対格形です。",
+                "en": "A male teacher, in the accusative here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "لست معلما",
+              "explanation": {
+                "ja": "現在の名詞述語を ليس で否定すると、述語は対格になります。肯定の主格述語と比べられます。",
+                "en": "Negating a present nominal predicate with ليس puts the predicate in the accusative, contrasting with the affirmative nominative predicate."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "独立代名詞 أنا はなくても、لست の語尾から話し手だと分かります。",
+              "en": "The ending of لست identifies the speaker without a separate أنا."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我不是老师。",
+          "ttsText": "我不是老师。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ bù shì lǎoshī.",
+            "note": {
+              "ja": "不是 は発音時に bú shì となり、不 が第2声になります。",
+              "en": "不是 is pronounced bú shì, with 不 changing to second tone."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "不是",
+              "meaning": {
+                "ja": "〜ではない。是 を 不 で否定します。",
+                "en": "Is not, formed by negating 是 with 不."
+              }
+            },
+            {
+              "term": "老师",
+              "meaning": {
+                "ja": "教師。性別を指定しません。",
+                "en": "A teacher, without specifying gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "我不是老师",
+              "explanation": {
+                "ja": "主語、不是、職業名の順です。名詞述語を結ぶ 是 は、否定文でも残ります。",
+                "en": "The order is subject, 不是, occupation. 是 remains as the link to the noun predicate in the negative sentence."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "学校の教師という身分を否定しています。先生という呼びかけを断る文とは文脈が異なります。",
+              "en": "This denies being a teacher by occupation, rather than necessarily rejecting a form of address."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "저는 교사가 아니에요.",
+          "ttsText": "저는 교사가 아니에요.",
+          "vocabulary": [
+            {
+              "term": "교사",
+              "meaning": {
+                "ja": "教師。職業名として使う語。",
+                "en": "Teacher, used as an occupation noun."
+              }
+            },
+            {
+              "term": "아니에요",
+              "meaning": {
+                "ja": "〜ではありません。아니다 の丁寧形。",
+                "en": "Is not, the polite form of 아니다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "교사가 아니에요",
+              "explanation": {
+                "ja": "名詞の否定には 아니다 を使います。母音で終わる 교사 に が に相当する 가 を付けます。",
+                "en": "A noun predicate is negated with 아니다. Vowel-final 교사 takes the particle 가."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "肯定の 교사예요 に単に 안 を足す形にはしません。名詞の否定の型として覚える例です。",
+              "en": "This is not formed simply by adding 안 to affirmative 교사예요; it illustrates the noun-negation pattern."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u008/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "否定と疑問",
+        "en": "Negation and questions"
+      }
+    },
+    {
+      "id": "u009",
+      "languages": {
+        "ja": {
+          "text": "彼女は医師ですか？",
+          "ttsText": "かのじょはいしですか？",
+          "vocabulary": [
+            {
+              "term": "彼女",
+              "meaning": {
+                "ja": "話題の女性。",
+                "en": "The woman being discussed."
+              }
+            },
+            {
+              "term": "医師",
+              "meaning": {
+                "ja": "病気の診断・治療をする人。",
+                "en": "A person who diagnoses and treats illness."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "ですか",
+              "explanation": {
+                "ja": "肯定文 彼女は医師です の末尾に か を加え、はい・いいえで答えられる質問にします。",
+                "en": "Adding か to the end of 彼女は医師です makes a yes/no question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "本人への「あなたは医師ですか」ではなく、別の女性について確認しています。",
+              "en": "This checks whether another woman is a doctor, rather than asking the listener about their own occupation."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "Is she a doctor?",
+          "ttsText": "Is she a doctor?",
+          "vocabulary": [
+            {
+              "term": "she",
+              "meaning": {
+                "ja": "話題の女性を指す主語。",
+                "en": "The subject referring to the woman being discussed."
+              }
+            },
+            {
+              "term": "a doctor",
+              "meaning": {
+                "ja": "一人の医師。",
+                "en": "A medical doctor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Is she …?",
+              "explanation": {
+                "ja": "肯定文の She is を Is she に入れ替えます。be動詞の疑問文なので does は使いません。",
+                "en": "Statement order She is becomes Is she. A question with be does not use does."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "職業名の前の a は疑問文でも必要です。",
+              "en": "The article a before the occupation noun is still needed in the question."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "¿Es ella médica?",
+          "ttsText": "¿Es ella médica?",
+          "vocabulary": [
+            {
+              "term": "es",
+              "meaning": {
+                "ja": "ser の三人称単数現在形。",
+                "en": "The third-person singular present of ser."
+              }
+            },
+            {
+              "term": "médica",
+              "meaning": {
+                "ja": "女性の医師。",
+                "en": "A female doctor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "¿Es ella médica?",
+              "explanation": {
+                "ja": "ここでは動詞を主語 ella の前に置いて質問します。疑問符は文の前後に付けます。",
+                "en": "Here the verb precedes subject ella in the question. Question marks appear at both ends."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "文脈があれば ¿Es médica? と主語を省略できます。この文では誰について聞くかを明示しています。",
+              "en": "With context, the subject can be omitted in ¿Es médica? Here the person being asked about is explicit."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Est-ce qu'elle est médecin ?",
+          "ttsText": "Est-ce qu'elle est médecin ?",
+          "vocabulary": [
+            {
+              "term": "est-ce que",
+              "meaning": {
+                "ja": "はい・いいえで答えられる質問を作る表現。",
+                "en": "A phrase introducing a yes/no question."
+              }
+            },
+            {
+              "term": "elle est médecin",
+              "meaning": {
+                "ja": "彼女は医師です、という内容。",
+                "en": "The statement that she is a doctor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Est-ce qu'elle …?",
+              "explanation": {
+                "ja": "est-ce que を肯定文の前に置き、母音で始まる elle の前で que を qu' にします。",
+                "en": "Est-ce que precedes the statement, with que eliding to qu' before vowel-initial elle."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "後半の elle est は肯定文と同じ語順です。職業名 médecin に冠詞は付けません。",
+              "en": "The following elle est keeps statement word order. Occupation noun médecin has no article."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ist sie Ärztin?",
+          "ttsText": "Ist sie Ärztin?",
+          "vocabulary": [
+            {
+              "term": "ist",
+              "meaning": {
+                "ja": "sein の三人称単数現在形。",
+                "en": "The third-person singular present of sein."
+              }
+            },
+            {
+              "term": "Ärztin",
+              "meaning": {
+                "ja": "女性の医師。",
+                "en": "A female doctor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Ist sie …?",
+              "explanation": {
+                "ja": "はい・いいえの疑問文では、活用した動詞 ist を先頭に置き、その後に主語 sie を置きます。",
+                "en": "A yes/no question places conjugated ist first, followed by subject sie."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Sie ist Ärztin. と同じ語を並べ替えた形で、職業名には冠詞を付けません。",
+              "en": "It rearranges the same words as Sie ist Ärztin, retaining the article-free occupation noun."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Она врач?",
+          "ttsText": "Она врач?",
+          "vocabulary": [
+            {
+              "term": "она",
+              "meaning": {
+                "ja": "彼女。",
+                "en": "She."
+              }
+            },
+            {
+              "term": "врач",
+              "meaning": {
+                "ja": "医師。ここでは女性について使います。",
+                "en": "Doctor, here referring to a woman."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Она врач?",
+              "explanation": {
+                "ja": "語順と語形は肯定文のまま、文字では疑問符、話すときは疑問の抑揚で質問にします。",
+                "en": "Word order and forms remain as in the statement; a question mark in writing and questioning intonation in speech mark the question."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "現在の文なので、この質問にも英語の is に当たる動詞は現れません。",
+              "en": "As a present-tense sentence, this question still has no overt equivalent of English is."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هل هي طبيبة؟",
+          "ttsText": "هل هي طبيبة؟",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hal hiya ṭabībatun?",
+            "note": {
+              "ja": "質問の最後で休止すると、ṭabībatun は ṭabība になります。",
+              "en": "At a pause at the end of the question, ṭabībatun becomes ṭabība."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "هل",
+              "meaning": {
+                "ja": "はい・いいえで答えられる質問を導く語。",
+                "en": "A particle introducing a yes/no question."
+              }
+            },
+            {
+              "term": "هي طبيبة",
+              "meaning": {
+                "ja": "彼女は医師です、という名詞文。",
+                "en": "The nominal sentence she is a doctor."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "هل هي طبيبة؟",
+              "explanation": {
+                "ja": "名詞文の前に هل を置いて質問にします。述語 طبيبة は主格のままです。",
+                "en": "Placing هل before the nominal sentence makes a question. Predicate طبيبة remains nominative."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "質問にしても、現在の is に当たる動詞は加えません。",
+              "en": "Making the sentence a question does not add a present-tense equivalent of is."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "她是医生吗？",
+          "ttsText": "她是医生吗？",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Tā shì yīshēng ma?"
+          },
+          "vocabulary": [
+            {
+              "term": "医生",
+              "meaning": {
+                "ja": "医師。",
+                "en": "Doctor."
+              }
+            },
+            {
+              "term": "吗",
+              "meaning": {
+                "ja": "はい・いいえの質問を作る文末の助詞。",
+                "en": "A sentence-final particle forming a yes/no question."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "她是医生吗？",
+              "explanation": {
+                "ja": "肯定文 她是医生 の語順を保ち、最後に 吗 を付けます。",
+                "en": "The statement 她是医生 keeps its word order and takes final 吗."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "英語の Is she …? のように、主語と 是 の位置を入れ替えません。",
+              "en": "The subject and 是 do not exchange positions as in English Is she …?"
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "그녀는 의사예요?",
+          "ttsText": "그녀는 의사예요?",
+          "vocabulary": [
+            {
+              "term": "그녀는",
+              "meaning": {
+                "ja": "彼女を話題として示す形。",
+                "en": "The woman marked as the topic."
+              }
+            },
+            {
+              "term": "의사예요",
+              "meaning": {
+                "ja": "医師です。母音で終わる 의사 に 예요 を付けます。",
+                "en": "Is a doctor; vowel-final 의사 takes 예요."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "의사예요?",
+              "explanation": {
+                "ja": "丁寧な会話体では肯定文と同じ形を使い、疑問の抑揚で質問できます。文字では疑問符を付けます。",
+                "en": "In polite conversation, the same form as the statement becomes a question through intonation, marked in writing with a question mark."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "그녀 は文章的な響きもあります。実際の会話では名前や 그분 に置き換えることもできます。",
+              "en": "그녀 can sound literary; in conversation it may be replaced with a name or 그분."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u009/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u010",
+      "languages": {
+        "ja": {
+          "text": "この部屋は静かではありません。",
+          "ttsText": "このへやはしずかではありません。",
+          "vocabulary": [
+            {
+              "term": "この部屋",
+              "meaning": {
+                "ja": "話題の部屋。",
+                "en": "The room being discussed."
+              }
+            },
+            {
+              "term": "静かではありません",
+              "meaning": {
+                "ja": "静かだという判断を丁寧に否定する形。",
+                "en": "A polite denial that something is quiet."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "静かではありません",
+              "explanation": {
+                "ja": "ナ形容詞 静か の否定です。イ形容詞の 熱くありません とは形が異なります。",
+                "en": "This is the negative of na-adjective 静か, differing from i-adjective negative 熱くありません."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "静かでないことは述べますが、どれほど騒がしいかまでは指定しません。",
+              "en": "It says the room is not quiet without specifying how noisy it is."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "This room is not quiet.",
+          "ttsText": "This room is not quiet.",
+          "vocabulary": [
+            {
+              "term": "this room",
+              "meaning": {
+                "ja": "この部屋。",
+                "en": "This room."
+              }
+            },
+            {
+              "term": "not quiet",
+              "meaning": {
+                "ja": "静かではない。",
+                "en": "Not quiet."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "is not quiet",
+              "explanation": {
+                "ja": "be の後、形容詞の前に not を置きます。isn't quiet と短縮できます。",
+                "en": "Not goes after be and before the adjective; is not quiet can contract to isn't quiet."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "形容詞の否定でも do not は使いません。名詞の文 I am not a teacher と同じく be を否定します。",
+              "en": "Do not is not used here either; be is negated as in the noun sentence I am not a teacher."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Esta habitación no es tranquila.",
+          "ttsText": "Esta habitación no es tranquila.",
+          "vocabulary": [
+            {
+              "term": "esta habitación",
+              "meaning": {
+                "ja": "この部屋。女性単数の名詞句。",
+                "en": "This room, a feminine singular noun phrase."
+              }
+            },
+            {
+              "term": "tranquila",
+              "meaning": {
+                "ja": "静かで落ち着いた。",
+                "en": "Quiet or peaceful."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "no es tranquila",
+              "explanation": {
+                "ja": "活用動詞 es の前に no を置きます。否定しても tranquila の女性単数の一致は保ちます。",
+                "en": "No precedes conjugated es. Tranquila retains feminine singular agreement under negation."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "部屋の特徴として「静かでない」と述べています。今だけの状態を強調する no está tranquila とは見方が異なります。",
+              "en": "This describes the room's characteristic, unlike no está tranquila emphasizing its current state."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Cette pièce n'est pas calme.",
+          "ttsText": "Cette pièce n'est pas calme.",
+          "vocabulary": [
+            {
+              "term": "cette pièce",
+              "meaning": {
+                "ja": "この部屋。",
+                "en": "This room."
+              }
+            },
+            {
+              "term": "calme",
+              "meaning": {
+                "ja": "静かで落ち着いた。",
+                "en": "Quiet or peaceful."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "n'est pas",
+              "explanation": {
+                "ja": "ne … pas で est を挟み、母音の前なので ne を n' にします。",
+                "en": "Ne … pas surrounds est, with ne eliding to n' before a vowel."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "calme の性質を否定しており、何が音を出しているかは述べていません。",
+              "en": "It denies the quality of being quiet without identifying a source of noise."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Dieses Zimmer ist nicht ruhig.",
+          "ttsText": "Dieses Zimmer ist nicht ruhig.",
+          "vocabulary": [
+            {
+              "term": "dieses Zimmer",
+              "meaning": {
+                "ja": "この部屋。中性単数主格。",
+                "en": "This room, neuter singular nominative."
+              }
+            },
+            {
+              "term": "nicht ruhig",
+              "meaning": {
+                "ja": "静かではない。",
+                "en": "Not quiet."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "nicht ruhig",
+              "explanation": {
+                "ja": "形容詞 ruhig を nicht で否定します。職業名を否定した kein Lehrer と使い分けます。",
+                "en": "Nicht negates adjective ruhig, contrasting with kein Lehrer used to negate an occupation noun."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "ruhig は否定されても述語形容詞のままで、語尾は付きません。",
+              "en": "Ruhig remains a predicate adjective under negation and takes no ending."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Эта комната не тихая.",
+          "ttsText": "Эта комната не тихая.",
+          "vocabulary": [
+            {
+              "term": "эта комната",
+              "meaning": {
+                "ja": "この部屋。",
+                "en": "This room."
+              }
+            },
+            {
+              "term": "не тихая",
+              "meaning": {
+                "ja": "静かではない。тихая は女性単数形。",
+                "en": "Not quiet; тихая is feminine singular."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "не тихая",
+              "explanation": {
+                "ja": "ここでは静かだという性質を否定するため、не を形容詞と分けて書いています。",
+                "en": "Не is written separately here to deny the stated quality of being quiet."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "肯定文と同じく、現在の「〜である」に当たる動詞は明示しません。",
+              "en": "As in the affirmative, there is no overt present-tense equivalent of be."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "references": [
+            {
+              "title": "Грамота.ру: не с прилагательными в роли сказуемого",
+              "url": "https://gramota.ru/spravka/vopros/329512"
+            }
+          ],
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "هذه الغرفة ليست هادئة.",
+          "ttsText": "هذه الغرفة ليست هادئة.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "hādhihi al-ghurfatu laysat hādiʾatan.",
+            "note": {
+              "ja": "هذه الغرفة を続けると hādhihi l-ghurfatu。文末休止では hādiʾatan は hādiʾa になります。",
+              "en": "Connected هذه الغرفة is hādhihi l-ghurfatu. At a final pause, hādiʾatan becomes hādiʾa."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "ليست",
+              "meaning": {
+                "ja": "〜ではない。女性単数の主語に対応する否定の形。",
+                "en": "Is not, the form agreeing with a feminine singular subject."
+              }
+            },
+            {
+              "term": "هادئة",
+              "meaning": {
+                "ja": "静かな。ここでは否定述語として対格です。",
+                "en": "Quiet, accusative here as the negated predicate."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "الغرفة ليست هادئة",
+              "explanation": {
+                "ja": "女性単数の الغرفة に laysat を使います。ليس の後の述語は hādiʾatan と対格になります。",
+                "en": "Feminine singular الغرفة takes laysat. The predicate after ليس becomes accusative hādiʾatan."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "肯定の名詞文にはなかった否定の動詞が現れ、述語の格も変わる例です。",
+              "en": "The negative introduces a verb absent from the affirmative nominal sentence and changes the predicate's case."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "这个房间不安静。",
+          "ttsText": "这个房间不安静。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Zhè ge fángjiān bù ānjìng."
+          },
+          "vocabulary": [
+            {
+              "term": "这个房间",
+              "meaning": {
+                "ja": "この部屋。",
+                "en": "This room."
+              }
+            },
+            {
+              "term": "不安静",
+              "meaning": {
+                "ja": "静かではない。",
+                "en": "Not quiet."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "不安静",
+              "explanation": {
+                "ja": "形容詞 安静 の前に 不 を置きます。肯定文 很安静 の 很 は、この普通の否定文では使いません。",
+                "en": "不 precedes adjective 安静. 很 from affirmative 很安静 is absent from this ordinary negative statement."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "不是安静 という形で英語の is not を一語ずつ置き換える文にはしません。",
+              "en": "The sentence is not made by translating English is not word for word as 不是安静."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "이 방은 조용하지 않아요.",
+          "ttsText": "이 방은 조용하지 않아요.",
+          "vocabulary": [
+            {
+              "term": "이 방은",
+              "meaning": {
+                "ja": "この部屋を話題として示します。",
+                "en": "Marks this room as the topic."
+              }
+            },
+            {
+              "term": "조용하다",
+              "meaning": {
+                "ja": "静かだ。本文では否定形の元になる形容詞。",
+                "en": "To be quiet, the adjective underlying the negative form."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "조용하지 않아요",
+              "explanation": {
+                "ja": "語幹 조용하- に -지 않아요 を続け、形容詞を丁寧に否定します。",
+                "en": "The stem 조용하- takes -지 않아요 to form a polite adjective negative."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "名詞を否定した 교사가 아니에요 と違い、ここでは形容詞の否定の型を使います。",
+              "en": "Unlike noun negative 교사가 아니에요, this uses the adjective-negation pattern."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u010/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    },
+    {
+      "id": "u011",
+      "languages": {
+        "ja": {
+          "text": "私は学生でした。",
+          "ttsText": "わたしはがくせいでした。",
+          "vocabulary": [
+            {
+              "term": "学生",
+              "meaning": {
+                "ja": "学校などで学ぶ人。",
+                "en": "A student."
+              }
+            },
+            {
+              "term": "でした",
+              "meaning": {
+                "ja": "名詞の文で過去を表す丁寧な形。",
+                "en": "A polite past form used in noun sentences."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "学生でした",
+              "explanation": {
+                "ja": "現在の 学生です を過去の 学生でした に変えます。学生 という名詞自体は変化しません。",
+                "en": "Present 学生です becomes past 学生でした; the noun 学生 itself does not change."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "過去のある時期の身分を述べます。今も学生なのかは、この文だけでは確定しません。",
+              "en": "It describes status at a past time; the sentence alone does not establish whether the speaker is still a student."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I was a student.",
+          "ttsText": "I was a student.",
+          "vocabulary": [
+            {
+              "term": "was",
+              "meaning": {
+                "ja": "I と使う be の過去形。",
+                "en": "The past form of be used with I."
+              }
+            },
+            {
+              "term": "a student",
+              "meaning": {
+                "ja": "一人の学生。",
+                "en": "A student."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "I was",
+              "explanation": {
+                "ja": "現在の am を過去の was にします。学生という身分を過去の時点に置きます。",
+                "en": "Present am becomes past was, locating the student's status in the past."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "現在の身分は明示していません。文脈によっては「今は学生ではない」と受け取られますが、文法上必ずそうとは限りません。",
+              "en": "The present status is unstated. Context may suggest the speaker is no longer a student, but that is not a grammatical necessity."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Yo era estudiante.",
+          "ttsText": "Yo era estudiante.",
+          "vocabulary": [
+            {
+              "term": "era",
+              "meaning": {
+                "ja": "ser の線過去形。ここでは一人称単数。",
+                "en": "The imperfect of ser, first-person singular here."
+              }
+            },
+            {
+              "term": "estudiante",
+              "meaning": {
+                "ja": "学生。性別を限定しない名詞。",
+                "en": "Student, a noun that does not specify gender."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Yo era estudiante",
+              "explanation": {
+                "ja": "過去の背景となる身分を、終わりの境界を示さずに era で述べます。",
+                "en": "Era presents a background status in the past without marking its endpoint."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "era は三人称単数とも同じ形なので、ここでは Yo で話し手だと明示します。区切られた期間として述べる fui とは捉え方が異なります。",
+              "en": "Era is also third-person singular, so Yo makes the speaker explicit. It differs in viewpoint from fui for a bounded period."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "J'étais étudiant.",
+          "ttsText": "J'étais étudiant.",
+          "vocabulary": [
+            {
+              "term": "j'étais",
+              "meaning": {
+                "ja": "je と être の半過去形 étais を結んだ形。",
+                "en": "Je joined to étais, the imperfect of être."
+              }
+            },
+            {
+              "term": "étudiant",
+              "meaning": {
+                "ja": "男性の学生。",
+                "en": "A male student."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "J'étais étudiant",
+              "explanation": {
+                "ja": "半過去で、過去のある時点に続いていた身分を述べます。母音の前で je は j' になります。",
+                "en": "The imperfect describes a status continuing at a past time. Je elides to j' before a vowel."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら J'étais étudiante. です。本文は学生だった期間の開始・終了を指定しません。",
+              "en": "A female speaker says J'étais étudiante. The sentence does not specify the period's beginning or end."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Ich war Student.",
+          "ttsText": "Ich war Student.",
+          "vocabulary": [
+            {
+              "term": "war",
+              "meaning": {
+                "ja": "sein の過去形。ここでは一人称単数。",
+                "en": "The past form of sein, first-person singular here."
+              }
+            },
+            {
+              "term": "Student",
+              "meaning": {
+                "ja": "男性の学生。",
+                "en": "A male student."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Ich war Student",
+              "explanation": {
+                "ja": "現在の bin を過去の war にします。職業・身分の名詞はここでも冠詞なしの主格です。",
+                "en": "Present bin becomes past war. The status noun remains nominative without an article."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら Ich war Studentin. です。war は会話でも使う自然な過去形です。",
+              "en": "A female speaker says Ich war Studentin. War is a natural past form in conversation too."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Я был студентом.",
+          "ttsText": "Я был студентом.",
+          "vocabulary": [
+            {
+              "term": "был",
+              "meaning": {
+                "ja": "быть（〜である）の男性単数過去形。",
+                "en": "The masculine singular past of быть, to be."
+              }
+            },
+            {
+              "term": "студентом",
+              "meaning": {
+                "ja": "студент の造格。男性の学生。",
+                "en": "The instrumental of студент, a male student."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "был студентом",
+              "explanation": {
+                "ja": "過去では был を明示し、身分を述べる名詞をここでは造格にします。現在の Я студент と形が変わります。",
+                "en": "The past expresses был explicitly and uses an instrumental status noun here, unlike present Я студент."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら Я была студенткой. です。動詞と職業・身分名の両方が変わります。",
+              "en": "A female speaker says Я была студенткой; both the verb and the status noun change."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كنت طالبا.",
+          "ttsText": "كنت طالبا.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "kuntu ṭāliban.",
+            "note": {
+              "ja": "男性話者の読みです。女性なら ṭālibatan。男性形 ṭāliban の文末休止は ṭālibā です。",
+              "en": "The reading is for a male speaker; a female speaker uses ṭālibatan. Masculine ṭāliban has final pausal form ṭālibā."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "كنت",
+              "meaning": {
+                "ja": "私は〜だった。كان の一人称単数過去形。",
+                "en": "I was, the first-person singular past of كان."
+              }
+            },
+            {
+              "term": "طالبا",
+              "meaning": {
+                "ja": "男性の学生。ここでは対格形。",
+                "en": "A male student, accusative here."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كنت طالبا",
+              "explanation": {
+                "ja": "現在の名詞文に対して過去の كان を使い、その述語を対格 ṭāliban にします。",
+                "en": "Past كان replaces the present nominal pattern, putting its predicate in accusative ṭāliban."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "kuntu 自体は話し手の性別で変わりません。学生を表す名詞は性別で変わります。",
+              "en": "Kuntu itself does not vary with the speaker's gender, but the noun for student does."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我以前是学生。",
+          "ttsText": "我以前是学生。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ yǐqián shì xuésheng.",
+            "note": {
+              "ja": "我以前 の 我 と 以 が続くと、第3声の連続により 我 は第2声になり、wó yǐqián と発音します。",
+              "en": "In 我以前, the adjacent third tones make 我 second tone: wó yǐqián."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "以前",
+              "meaning": {
+                "ja": "以前、過去のある時期。",
+                "en": "Previously, at an earlier time."
+              }
+            },
+            {
+              "term": "学生",
+              "meaning": {
+                "ja": "学生。",
+                "en": "A student."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "以前是",
+              "explanation": {
+                "ja": "是 自体を過去形にせず、時間を表す 以前 で過去の身分だと示します。",
+                "en": "是 does not acquire a past-tense form; time expression 以前 places the status in the past."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "日本語の でした が表す過去を、中国語では 以前 という語で明示しています。",
+              "en": "The past conveyed by Japanese でした is made explicit with 以前 in Chinese."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "저는 학생이었어요.",
+          "ttsText": "저는 학생이었어요.",
+          "vocabulary": [
+            {
+              "term": "학생",
+              "meaning": {
+                "ja": "学生。",
+                "en": "A student."
+              }
+            },
+            {
+              "term": "이었어요",
+              "meaning": {
+                "ja": "子音で終わる名詞に付く、丁寧な過去の形。",
+                "en": "A polite past form attached to a consonant-final noun."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "학생이었어요",
+              "explanation": {
+                "ja": "学生だったという過去の身分を表します。現在の 학생이에요 と語尾を比べられます。",
+                "en": "It states the past status of being a student; compare its ending with present 학생이에요."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "話し手の性別で語形は変わりません。いつ学生だったかは文脈から補います。",
+              "en": "The form does not change with the speaker's gender; context supplies when this status held."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u011/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      },
+      "heading": {
+        "ja": "過去の属性・状態",
+        "en": "Past identities and states"
+      }
+    },
+    {
+      "id": "u012",
+      "languages": {
+        "ja": {
+          "text": "昨日は疲れていました。",
+          "ttsText": "きのうはつかれていました。",
+          "vocabulary": [
+            {
+              "term": "昨日",
+              "meaning": {
+                "ja": "今日の一日前。",
+                "en": "Yesterday, the day before today."
+              }
+            },
+            {
+              "term": "疲れていました",
+              "meaning": {
+                "ja": "過去の時点で疲れた状態が続いていた。",
+                "en": "Was in a state of tiredness at a past time."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "疲れていました",
+              "explanation": {
+                "ja": "疲れています の います を過去の いました にして、昨日の状態を述べます。",
+                "en": "います in 疲れています becomes past いました to describe yesterday's state."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "話し手の状態を述べる想定で 私は を省いています。今も疲れているかは述べていません。",
+              "en": "The speaker's state is assumed, with 私は omitted. The sentence does not say whether the tiredness continues now."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/ja.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "en": {
+          "text": "I was tired yesterday.",
+          "ttsText": "I was tired yesterday.",
+          "vocabulary": [
+            {
+              "term": "tired",
+              "meaning": {
+                "ja": "疲れているという状態の形容詞。",
+                "en": "An adjective describing the state of being tired."
+              }
+            },
+            {
+              "term": "yesterday",
+              "meaning": {
+                "ja": "昨日。ここでは時間を示す副詞。",
+                "en": "Yesterday, used as a time adverb."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "was tired",
+              "explanation": {
+                "ja": "am tired の be を過去の was にします。形容詞 tired の形は変わりません。",
+                "en": "Be in am tired becomes past was; adjective tired itself is unchanged."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "yesterday の前に on や in は付けません。過去の状態を述べ、今の状態は未指定です。",
+              "en": "Yesterday takes neither on nor in. The past state is described; the current state is unspecified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/en.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "es": {
+          "text": "Ayer estaba cansado.",
+          "ttsText": "Ayer estaba cansado.",
+          "vocabulary": [
+            {
+              "term": "ayer",
+              "meaning": {
+                "ja": "昨日。",
+                "en": "Yesterday."
+              }
+            },
+            {
+              "term": "estaba cansado",
+              "meaning": {
+                "ja": "疲れていた。estaba は estar の線過去。",
+                "en": "Was tired; estaba is the imperfect of estar."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "estaba cansado",
+              "explanation": {
+                "ja": "昨日のある時点の状態を、背景として線過去で述べます。形容詞は男性単数です。",
+                "en": "The imperfect describes the state at a point yesterday as background; the adjective is masculine singular."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら cansada です。ayer があっても必ず点過去になるわけではなく、状態の捉え方で時制を選びます。",
+              "en": "A female speaker uses cansada. Ayer does not automatically require the preterite; tense depends on how the state is presented."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/es.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "fr": {
+          "text": "Hier, j'étais fatigué.",
+          "ttsText": "Hier, j'étais fatigué.",
+          "vocabulary": [
+            {
+              "term": "hier",
+              "meaning": {
+                "ja": "昨日。",
+                "en": "Yesterday."
+              }
+            },
+            {
+              "term": "fatigué",
+              "meaning": {
+                "ja": "疲れた状態。男性単数の形容詞。",
+                "en": "Tired, a masculine singular adjective."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "j'étais fatigué",
+              "explanation": {
+                "ja": "半過去 étais で昨日の状態を述べます。現在の Je suis fatigué と動詞部分が変わります。",
+                "en": "Imperfect étais describes yesterday's state, changing the verb from present Je suis fatigué."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら fatiguée と書きます。昨日の状態を述べるのであり、今の疲れは明示していません。",
+              "en": "A female speaker writes fatiguée. The statement describes yesterday, leaving current tiredness unspecified."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/fr.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "de": {
+          "text": "Gestern war ich müde.",
+          "ttsText": "Gestern war ich müde.",
+          "vocabulary": [
+            {
+              "term": "gestern",
+              "meaning": {
+                "ja": "昨日。時間を示す副詞。",
+                "en": "Yesterday, a time adverb."
+              }
+            },
+            {
+              "term": "müde",
+              "meaning": {
+                "ja": "疲れている、眠い。",
+                "en": "Tired or sleepy."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "Gestern war ich",
+              "explanation": {
+                "ja": "時間語 Gestern を先頭に置いても、活用動詞 war は文の第2位置です。その後に主語 ich が来ます。",
+                "en": "With time word Gestern first, conjugated war remains in second position and subject ich follows it."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "Ich war gestern müde. としても同じ基本内容です。どちらも形容詞 müde に語尾を付けません。",
+              "en": "Ich war gestern müde expresses the same basic content. In both, adjective müde takes no ending."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/de.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ru": {
+          "text": "Вчера я был уставшим.",
+          "ttsText": "Вчера я был уставшим.",
+          "vocabulary": [
+            {
+              "term": "вчера",
+              "meaning": {
+                "ja": "昨日。",
+                "en": "Yesterday."
+              }
+            },
+            {
+              "term": "уставшим",
+              "meaning": {
+                "ja": "疲れている。уставший の男性単数造格。",
+                "en": "Tired, the masculine singular instrumental of уставший."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "был уставшим",
+              "explanation": {
+                "ja": "был と造格の形容詞で、昨日の疲れた状態を述べます。単に「疲れた」という変化だけに焦点を置いていません。",
+                "en": "Был with an instrumental adjective describes yesterday's tired state rather than focusing only on becoming tired."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "女性話者なら Вчера я была уставшей. です。ここでは過去の状態が見える形を選んでいます。",
+              "en": "A female speaker says Вчера я была уставшей. This version makes the past state explicit."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/ru.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ar": {
+          "text": "كنت متعبا أمس.",
+          "ttsText": "كنت متعبا أمس.",
+          "pronunciation": {
+            "system": "arabic-romanization",
+            "text": "kuntu mutʿaban ʾamsi.",
+            "note": {
+              "ja": "男性話者の形で、女性なら mutʿabatan。最後の ʾamsi は休止時に ʾams になります。",
+              "en": "The form is for a male speaker; a female speaker uses mutʿabatan. Final ʾamsi becomes ʾams at a pause."
+            }
+          },
+          "vocabulary": [
+            {
+              "term": "كنت",
+              "meaning": {
+                "ja": "私は〜だった。過去の状態を導きます。",
+                "en": "I was, introducing a past state."
+              }
+            },
+            {
+              "term": "أمس",
+              "meaning": {
+                "ja": "昨日。ここでは ʾamsi と読む時間表現。",
+                "en": "Yesterday, read ʾamsi in this temporal use."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "كنت متعبا",
+              "explanation": {
+                "ja": "كان の一人称形に対格の述語 mutʿaban を続け、過去の疲れた状態を述べます。",
+                "en": "The first-person form of كان takes accusative predicate mutʿaban to describe a past tired state."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "語順は「私は疲れていた、昨日」です。昨日の状態を表し、今の状態は指定しません。",
+              "en": "The order is I was tired, yesterday. It describes yesterday without specifying the current state."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/ar.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "zh": {
+          "text": "我昨天很累。",
+          "ttsText": "我昨天很累。",
+          "pronunciation": {
+            "system": "pinyin",
+            "text": "Wǒ zuótiān hěn lèi."
+          },
+          "vocabulary": [
+            {
+              "term": "昨天",
+              "meaning": {
+                "ja": "昨日。",
+                "en": "Yesterday."
+              }
+            },
+            {
+              "term": "很累",
+              "meaning": {
+                "ja": "疲れている。很 と形容詞 累 の組み合わせ。",
+                "en": "Tired, with 很 preceding adjective 累."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "昨天很累",
+              "explanation": {
+                "ja": "時間語 昨天 で過去を示します。累 を過去形に変えたり、過去を示すためだけに 了 を足したりしません。",
+                "en": "昨天 marks the past time. 累 does not change form, and 了 is not added merely to mark past tense."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "現在の変化を含む 我累了 と違い、ここでは昨日の状態を時間語で指定しています。",
+              "en": "Unlike 我累了 with its change-of-state meaning, this specifies yesterday's state with a time expression."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/zh.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        },
+        "ko": {
+          "text": "어제는 피곤했어요.",
+          "ttsText": "어제는 피곤했어요.",
+          "vocabulary": [
+            {
+              "term": "어제는",
+              "meaning": {
+                "ja": "昨日は。어제 に話題の 는 を付けています。",
+                "en": "As for yesterday: 어제 with topic marker 는."
+              }
+            },
+            {
+              "term": "피곤했어요",
+              "meaning": {
+                "ja": "疲れていました。피곤하다 の丁寧な過去形。",
+                "en": "Was tired, the polite past of 피곤하다."
+              }
+            }
+          ],
+          "grammar": [
+            {
+              "point": "피곤했어요",
+              "explanation": {
+                "ja": "現在の 피곤해요 を過去にし、昨日の状態を表します。英語の was のような別の語は加えません。",
+                "en": "Present 피곤해요 becomes past 피곤했어요 to describe yesterday, without adding a separate word like English was."
+              }
+            }
+          ],
+          "notes": [
+            {
+              "ja": "話し手の状態を述べる文脈で、저는 を省いています。性別による形の違いはありません。",
+              "en": "The speaker is understood and 저는 is omitted. The form does not vary with gender."
+            }
+          ],
+          "translation": {
+            "method": "ai-assisted",
+            "reviewStatus": "unreviewed",
+            "attribution": "OpenAI"
+          },
+          "audio": {
+            "path": "grammar/attributes-and-states/u012/ko.mp3",
+            "origin": "chatterbox",
+            "qualityStatus": "unreviewed"
+          }
+        }
+      }
+    }
+  ]
+}

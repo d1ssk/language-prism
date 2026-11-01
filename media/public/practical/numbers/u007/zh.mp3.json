@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "21bd9eca7010c09bf1847e941b615a4c1f2c20e7e9efe3c42e7b1718dc5fae64",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "请问，几位？",
+  "language": "zh",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ba615b220616958df37817d3b6bc191fa29f71efbde47c65864e3b854fab9686",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:22.637503+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "71b6872a32cfc11e2c6f6973f317e6ac67cf961b2a753b5bf203ea38f1a52ead",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Combien ça coûte ?",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6b02b075de6f1fbe6d7133bd2cb0c024aac35d094b5951d8e6fcfcf7c314d722",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:46.970730+00:00"
+}

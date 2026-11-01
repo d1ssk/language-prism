@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "3bc904484ad3ba2ba49a429615cd6be514d2369a7ebf148bcce9ca9439707033",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Сто, тысяча, десять тысяч.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "6d1ee8d70908394b9683aaac626c1c6be364ef959cfe9473cefd232947a75640",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:16:27.982196+00:00"
+}

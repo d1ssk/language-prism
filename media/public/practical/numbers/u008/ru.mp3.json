@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "2036e1c882a5f72c9e87bfba920b635ff225321482f45ef75663d5c4c4205e80",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Нас двое.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "0e155773a08260a0a37bd547f26655edae3f70a5f1ef8bce34ab0b8bfcc48707",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:34.926977+00:00"
+}

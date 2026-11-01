@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "36f10eb3a787c453022dde312c95bd908aea49ad2d399969eb6290f31e3072c0",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Три яблока, пожалуйста.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "8f592486a84f5b0f627f20bdc7e4d330e336a846c676f847755bdb301b2a2510",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:17:02.620935+00:00"
+}

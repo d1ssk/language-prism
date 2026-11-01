@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "058fdd277656323a21b2cabc81773f846127e609c19cc7361b4819ef913e3181",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "십오 유로예요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d5f95da1e0591e43cf7f4edcedaa9a4ac1ba0a8d682691b2f35ff135e2dc4a8",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:18:14.234167+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "57359e03f843c3ae32d6272faec49cd1ac9bd5b6af2d7f3fc8df2215305be596",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "이 방은 조용하지 않아요.",
+  "language": "ko",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "27d71675d0e616d6263c59cfb11f2e9fecb135a5fa1f5bab0c11cbbd5eb34a1c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:13:19.143019+00:00"
+}

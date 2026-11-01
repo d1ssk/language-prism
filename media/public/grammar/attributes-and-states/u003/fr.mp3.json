@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "058c774d0e0bcfd15e7f77b2a4a2d25d8b80a99809e69d70737fc4d05f2add0c",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "C'est mon livre.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "3d217fdbbf306b252cfeefc17b634df67979abf3b1f79c4879a9a06ec50403bc",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:22.022802+00:00"
+}

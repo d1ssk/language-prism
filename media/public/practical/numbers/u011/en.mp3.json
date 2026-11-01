@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "8ef4e48a61bc933bcebdbcdb5f328529278dbb528bd39196a87bd1de9a0c730f",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Is it the first entrance?",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "d361d7d94d9387893a25396814407fbfb2c8b148252193c231860bf8c4724d7c",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:18:17.925518+00:00"
+}

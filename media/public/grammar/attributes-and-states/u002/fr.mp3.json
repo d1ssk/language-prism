@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "723a0ed16fa58f8118fcf8979afe605d2a328711f9e9807326960493ebb3d165",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Elle est médecin.",
+  "language": "fr",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "fb46095846596835058c0d95a4643219881418455ba5e2137b54184b3f6dff50",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:11:07.427073+00:00"
+}

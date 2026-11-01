@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "a9412c0585b2ae0b1fc69ba6d1184a28d0c7442ac39d8a9d9ab61277d02e15aa",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "Я был студентом.",
+  "language": "ru",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "afcd6b69dc1b883f0907e5253a89f784ce2547439ac564ea523b0c0d75921e6a",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:13:28.611243+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "34960ba4a7685f878c9876b2f4d6a3694a1feaf04d8332d02a2e84653fa911da",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "It costs fifteen euros.",
+  "language": "en",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "ba27eab5441cd0d2873d96e3dcd7c2da46675e59d77768b81206482900a3de54",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:18:01.021240+00:00"
+}

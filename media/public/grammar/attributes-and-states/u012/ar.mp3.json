@@ -1,0 +1,19 @@
+{
+  "backend": "mlx",
+  "mock": false,
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "revision": "main",
+  "fingerprint": "1701a3727a3195c63270f82c1df57b8bf4e64cbbf0521c5d09b7c5768aec32ad",
+  "model_identity": "f267a7a3f3b0c1a204c6f3d2a1303a0f910bf0df4d0a18640305c207186ccd4b",
+  "text": "كنت متعبا أمس.",
+  "language": "ar",
+  "parameters": {
+    "seed": 42,
+    "max_tokens": 1000,
+    "temperature": 0.8
+  },
+  "reference_sha256": "dbfbc319e27a91d62b63c977830e58a0b2f08ea0fda73cb62e0f4294d3500dc9",
+  "audio_sha256": "2669f9c0c87b23c408b1939ce4558b8393e49696e94a67393016a30817f1a8ce",
+  "backend_version": "0.6.1",
+  "generatedAt": "2026-11-01T13:13:45.882607+00:00"
+}
