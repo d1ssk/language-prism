@@ -779,8 +779,23 @@ body:has(.reader-toolbar:not([hidden])) {
 }
 .reader-toolbar .playback-status > p { flex: 1 1 12rem; }
 .reader-toolbar .playback-status audio { flex: 1 1 18rem; width: 100%; margin-top: 0; }
+.playback-transport { grid-column: 1 / -1; display: flex; align-items: center; gap: 0.25rem; padding: 0.25rem 0.5rem; min-width: 0; border-radius: 28px; background: #f0f1f2; color: #343638; }
+.reader .playback-transport button { display: grid; place-items: center; flex: 0 0 40px; width: 40px; min-height: 40px; padding: 0; border-radius: 50%; color: inherit; }
+.reader .playback-transport button:hover:not(:disabled) { background: #dfe2e4; }
+.reader .playback-transport button:disabled { color: #74787b; opacity: 0.5; }
+.reader .playback-transport button[aria-pressed="true"] { color: var(--accent); background: #e4d9ce; box-shadow: inset 0 0 0 1px currentColor; }
+.playback-time { flex: none; font-size: 0.75rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.playback-transport #playback-position { flex: 1 1 0; width: 0; min-width: 28px; height: 36px; padding: 0; margin: 0 0.25rem; border: 0; background: transparent; accent-color: #53585c; cursor: pointer; }
+.playback-transport .transport-pause, .playback-transport .is-playing .transport-play,
+.playback-transport .transport-muted, #toggle-mute[aria-pressed="true"] .transport-sound { display: none; }
+.playback-transport .is-playing .transport-pause, #toggle-mute[aria-pressed="true"] .transport-muted { display: initial; }
+.reader-toolbar #volume { width: 6rem; padding: 0; accent-color: var(--accent); }
 @media (max-width: 480px) {
   .reader-toolbar { padding: 0.5rem 0.75rem; gap: 0.25rem 0.5rem; }
+  .playback-transport { gap: 0; padding-inline: 0.25rem; }
+  .reader .playback-transport button { flex-basis: 36px; width: 36px; min-height: 40px; }
+  .playback-duration { display: none; }
+  .playback-time { font-size: 0.7rem; }
 }
 /* Plain sentence lists. */
 .reader button { border: 0; border-radius: 0; }

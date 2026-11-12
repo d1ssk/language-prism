@@ -21,6 +21,12 @@ export async function checkAudioStream(browser: Browser, origin: string) {
     for (const locale of ["ja", "en"]) {
       await page.goto(`${origin}/${locale}/read/random-1/`);
       expect(await page.locator("#gap").inputValue()).toBe("0");
+      await expect(page.locator("#seek-backward")).toBeDisabled();
+      await expect(page.locator("#seek-forward")).toBeDisabled();
+      await expect(page.locator("#repeat-playback")).toHaveAttribute("aria-pressed", "false");
+      await expect(page.locator("#toggle-playback")).toBeDisabled();
+      await expect(page.locator("#playback-position")).toBeDisabled();
+      await expect(page.locator("#audio-player")).toBeHidden();
       const units = page.locator(".unit");
       const tail = units.nth(await units.count() - 2);
       const first = await tail.locator("[data-audio]").first().getAttribute("data-audio-key");
@@ -35,12 +41,48 @@ export async function checkAudioStream(browser: Browser, origin: string) {
       await expect.poll(() => page.locator('[data-audio][aria-current="true"]').getAttribute("data-audio-key"), { timeout: 15000 }).not.toBe(first);
       expect(await audio.getAttribute("src")).toBe(src);
       expect(await page.evaluate(() => (window as any).__streamTest.plays)).toBe(1);
-      await audio.evaluate((el: HTMLAudioElement) => { el.playbackRate = 1; el.pause(); });
+      await audio.evaluate((el: HTMLAudioElement) => { el.playbackRate = 1; });
+      await page.locator("#toggle-playback").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.paused)).toBe(true);
+      await expect(page.locator("#toggle-playback")).toHaveAttribute("aria-label", locale === "ja" ? "再生" : "Play");
       await expect(page.locator("#player-status")).toBeHidden();
-      await audio.evaluate((el: HTMLAudioElement) => el.play());
+      await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = 8; });
+      await expect(page.locator("#elapsed-time")).toHaveText("0:08");
+      await page.locator("#seek-backward").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeCloseTo(3, 1);
+      await page.locator("#seek-forward").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeCloseTo(8, 1);
+      await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = 2; });
+      await page.locator("#seek-backward").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBe(0);
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.paused)).toBe(true);
+      await page.locator("#playback-position").focus();
+      await page.keyboard.press("ArrowRight");
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeGreaterThan(0);
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.paused)).toBe(true);
+      await page.locator("#toggle-mute").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.muted)).toBe(true);
+      await expect(page.locator("#toggle-mute")).toHaveAttribute("aria-pressed", "true");
+      await page.locator("#toggle-mute").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.muted)).toBe(false);
+      await page.locator("#repeat-playback").click();
+      await expect(page.locator("#repeat-playback")).toHaveAttribute("aria-pressed", "true");
+      await page.locator("#toggle-playback").focus();
+      await page.keyboard.press("Space");
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.paused)).toBe(false);
+      // Seeking to the beginning above pauses bounded prefetching. Move near
+      // the buffered end so the remaining clips can load before testing repeat.
+      await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = el.buffered.end(el.buffered.length - 1) - 1; });
       await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.duration)).toBeLessThan(Infinity);
       await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = el.duration - 0.1; });
+      await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeLessThan(5);
+      await expect.poll(() => audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeGreaterThan(0.05);
+      expect(await audio.getAttribute("src")).toBe(src);
+      await expect(page.locator('[data-audio][aria-current="true"]')).toHaveAttribute("data-audio-key", first!);
+      await page.locator("#repeat-playback").click();
+      await audio.evaluate((el: HTMLAudioElement) => { el.currentTime = el.duration - 0.1; });
       await expect.poll(() => page.locator("#audio-player").getAttribute("src")).toBeNull();
+      await expect(page.locator("#seek-backward")).toBeDisabled();
       await expect(page.locator("#player-status")).toBeHidden();
     }
 
@@ -158,6 +200,13 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await expect(page.locator(".explanation").first()).toBeHidden();
       await page.screenshot({ path: path.join(screenshots, `${mode}-${locale}-reader-desktop.png`) });
       await page.setViewportSize({ width: 390, height: 844 });
+      expect(await page.locator(".playback-transport").evaluate(el => {
+        const bar = el.getBoundingClientRect();
+        return [...el.children].every(child => {
+          const rect = child.getBoundingClientRect();
+          return rect.left >= bar.left && rect.right <= bar.right && rect.top >= bar.top && rect.bottom <= bar.bottom;
+        });
+      })).toBe(true);
       await expect(page.locator("#u001 .play-from")).toBeVisible();
       await page.locator('#u001 [data-language="ar"] summary').click();
       expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
@@ -172,8 +221,15 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       await page.locator(`[data-audio-key="${key}"]`).click();
       await expect.poll(() => page.locator("#audio-player").evaluate((el: HTMLAudioElement) => el.currentTime)).toBeGreaterThan(0.15);
       expect(await page.locator("#audio-player").evaluate((el: HTMLAudioElement) => Number.isFinite(el.duration) && el.duration > 0)).toBe(true);
+      const audio = page.locator("#audio-player");
+      await audio.evaluate((el: HTMLAudioElement) => { el.pause(); el.currentTime = 0; });
+      await page.locator("#seek-forward").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBeCloseTo(await audio.evaluate((el: HTMLAudioElement) => Math.min(5, el.duration)), 1);
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.paused)).toBe(true);
+      await page.locator("#seek-backward").click();
+      expect(await audio.evaluate((el: HTMLAudioElement) => el.currentTime)).toBe(0);
       await page.evaluate(() => window.dispatchEvent(new Event("pagehide")));
-      await expect(page.locator("#audio-player")).toBeVisible();
+      await expect(page.locator(".playback-transport")).toBeVisible();
     }
     expect(errors).toEqual([]);
   } finally { await page.close(); }
@@ -321,6 +377,31 @@ export async function checkReader(browser: Browser, origin: string, mode: string
     expect(await played()).toEqual(["u001/fr"]);
     await expect.poll(() => mock.locator("#audio-player").getAttribute("src")).toBeNull();
 
+    // Repeat the entire selection, preserving its order and boundary interval.
+    await reset();
+    await mock.locator("#repeat-playback").click();
+    await mock.locator("#u002 .play-unit").click();
+    for (let i = 0; i < 9; i++) await ended();
+    expect(await played()).toEqual([...keys.slice(9, 18), keys[9]]);
+    await mock.locator("#repeat-playback").click();
+    for (let i = 0; i < 9; i++) await ended();
+    expect(await played()).toEqual([...keys.slice(9, 18), ...keys.slice(9, 18)]);
+    expect(await mock.locator("#audio-player").getAttribute("src")).toBeNull();
+    await reset();
+    await setting(mock, "#gap", "0.5");
+    await mock.locator("#repeat-playback").click();
+    await mock.locator('[data-audio-key="u001/fr"]').click();
+    await ended();
+    await expect(mock.locator("#seek-forward")).toBeDisabled();
+    await mock.evaluate(() => (window as any).__mediaTest.actions.pause());
+    await mock.waitForTimeout(650);
+    expect(await played()).toEqual(["u001/fr"]);
+    await mock.evaluate(() => (window as any).__mediaTest.actions.play());
+    expect(await played()).toEqual(["u001/fr", "u001/fr"]);
+    await mock.locator("#repeat-playback").click();
+    await ended();
+    expect(await mock.locator("#audio-player").getAttribute("src")).toBeNull();
+
     await setting(mock, "#gap", "0.5");
     await reset();
     await mock.locator("#play-all").click();
@@ -386,7 +467,7 @@ export async function checkReader(browser: Browser, origin: string, mode: string
       expect(await unitsTop()).toBe(top);
       await ended();
       await expect(mock.locator("#player-status")).toBeHidden();
-      await expect(mock.locator("#audio-player")).toBeVisible();
+      await expect(mock.locator(".playback-transport")).toBeVisible();
       expect(await unitsTop()).toBe(top);
       await expect.poll(played).toEqual(["u001/ja", "u001/en"]);
       expect(await unitsTop()).toBe(top);

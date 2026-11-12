@@ -38,9 +38,26 @@ async function serve(mode: string) {
           ".css": "text/css",
           ".js": "text/javascript",
           ".json": "application/json",
+          ".mp3": "audio/mpeg",
         } as Record<string, string>
       )[path.extname(file)] || "application/octet-stream",
     );
+    // Match static hosting's byte-range support so real MP3 seeking is testable.
+    const size = fs.statSync(file).size;
+    response.setHeader("Accept-Ranges", "bytes");
+    const range = request.headers.range?.match(/^bytes=(\d+)-(\d*)$/);
+    if (range) {
+      const start = Number(range[1]);
+      const end = range[2] ? Math.min(Number(range[2]), size - 1) : size - 1;
+      if (start > end) {
+        response.writeHead(416, { "Content-Range": `bytes */${size}` }).end();
+        return;
+      }
+      response.writeHead(206, { "Content-Range": `bytes ${start}-${end}/${size}`, "Content-Length": end - start + 1 });
+      fs.createReadStream(file, { start, end }).pipe(response);
+      return;
+    }
+    response.setHeader("Content-Length", size);
     fs.createReadStream(file).pipe(response);
   });
   await new Promise<void>((resolve) => server.listen(0, "127.0.0.1", resolve));

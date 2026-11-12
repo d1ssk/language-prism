@@ -8,6 +8,15 @@ if (reader && reader.querySelector("#audio-player")) {
   const speed = reader.querySelector<HTMLSelectElement>("#speed")!;
   const gap = reader.querySelector<HTMLSelectElement>("#gap")!;
   const audio = reader.querySelector<HTMLAudioElement>("#audio-player")!;
+  const seekBackward = reader.querySelector<HTMLButtonElement>("#seek-backward")!;
+  const seekForward = reader.querySelector<HTMLButtonElement>("#seek-forward")!;
+  const repeat = reader.querySelector<HTMLButtonElement>("#repeat-playback")!;
+  const togglePlayback = reader.querySelector<HTMLButtonElement>("#toggle-playback")!;
+  const position = reader.querySelector<HTMLInputElement>("#playback-position")!;
+  const elapsed = reader.querySelector<HTMLElement>("#elapsed-time")!;
+  const total = reader.querySelector<HTMLElement>("#total-time")!;
+  const mute = reader.querySelector<HTMLButtonElement>("#toggle-mute")!;
+  const volume = reader.querySelector<HTMLInputElement>("#volume")!;
   const playAll = reader.querySelector<HTMLButtonElement>("#play-all")!;
   const playbackOrder = reader.querySelector<HTMLSelectElement>("#playback-order")!;
   const continueButton = reader.querySelector<HTMLButtonElement>("#continue-to-end")!;
@@ -28,7 +37,33 @@ if (reader && reader.querySelector("#audio-player")) {
   let playingToEnd = false;
   let shuffled = false;
   let lastPlayed: HTMLButtonElement | undefined;
+  let repeating = false;
+  const formatTime = (time: number) => {
+    const seconds = Math.max(0, Math.floor(time));
+    return `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, "0")}`;
+  };
+  // Match the native seek bar: MSE exposes the combined timeline; the fallback
+  // exposes the current clip. An unfinished stream can have infinite duration.
+  const seekEnd = () => Number.isFinite(audio.duration) ? audio.duration
+    : audio.seekable.length ? audio.seekable.end(audio.seekable.length - 1) : 0;
+  const updateSeek = () => {
+    const unavailable = !active || waiting || audio.readyState === 0 || !(seekEnd() > 0);
+    seekBackward.disabled = unavailable;
+    seekForward.disabled = unavailable;
+    position.disabled = unavailable;
+    position.max = String(seekEnd() || 1);
+    position.value = String(audio.currentTime);
+    elapsed.textContent = formatTime(audio.currentTime);
+    total.textContent = Number.isFinite(audio.duration) ? formatTime(audio.duration) : active ? "–:––" : "0:00";
+    position.setAttribute("aria-valuetext", `${elapsed.textContent} / ${total.textContent}`);
+    togglePlayback.disabled = !active;
+    const playing = active && !paused;
+    togglePlayback.classList.toggle("is-playing", playing);
+    togglePlayback.setAttribute("aria-label", t(playing ? "pausePlayback" : "resumePlayback"));
+    togglePlayback.title = t(playing ? "pausePlayback" : "resumePlayback");
+  };
   const updateActions = () => {
+    updateSeek();
     progress.hidden = !active || !playingToEnd || !lastPlayed;
     progress.textContent = progress.hidden ? "" : shuffled
       ? `${t("shuffledPlayback")} (${queue.indexOf(lastPlayed!) + 1}/${queue.length})`
@@ -40,9 +75,13 @@ if (reader && reader.querySelector("#audio-player")) {
   const session = navigator.mediaSession;
   const setPlaybackState = (state: MediaSessionPlaybackState) => {
     if (session) session.playbackState = state;
+    updateSeek();
   };
   const toolbar = reader.querySelector<HTMLElement>(".reader-toolbar")!;
   toolbar.hidden = false;
+  audio.controls = false;
+  audio.hidden = true;
+  reader.querySelector<HTMLElement>(".playback-transport")!.hidden = false;
   reader.querySelector<HTMLElement>(".article-play-buttons")!.hidden = false;
   updateActions();
   const settingsToggle = toolbar.querySelector<HTMLButtonElement>(".audio-settings-toggle")!;
@@ -202,6 +241,45 @@ if (reader && reader.querySelector("#audio-player")) {
       if (generation === token && active) setPlaybackState("playing");
     } catch { if (generation === token && active) pause(); }
   };
+  const seek = (offset: number) => {
+    if (!active || waiting || audio.readyState === 0 || !(seekEnd() > 0)) return;
+    audio.currentTime = Math.max(0, Math.min(seekEnd(), audio.currentTime + offset));
+    updateSeek();
+  };
+  togglePlayback.addEventListener("click", () => {
+    if (paused) void resume();
+    else pause();
+  });
+  position.addEventListener("input", () => seek(Number(position.value) - audio.currentTime));
+  repeat.addEventListener("click", () => {
+    repeating = !repeating;
+    repeat.setAttribute("aria-pressed", String(repeating));
+  });
+  const updateVolume = () => {
+    const muted = audio.muted || audio.volume === 0;
+    mute.setAttribute("aria-pressed", String(muted));
+    mute.setAttribute("aria-label", t(muted ? "unmute" : "mute"));
+    mute.title = t(muted ? "unmute" : "mute");
+    volume.value = String(audio.volume);
+  };
+  mute.addEventListener("click", () => {
+    if (audio.muted || audio.volume === 0) {
+      audio.muted = false;
+      if (audio.volume === 0) audio.volume = 1;
+    } else audio.muted = true;
+    updateVolume();
+  });
+  volume.addEventListener("input", () => {
+    audio.volume = Number(volume.value);
+    audio.muted = false;
+    updateVolume();
+  });
+  audio.addEventListener("volumechange", updateVolume);
+  seekBackward.addEventListener("click", () => seek(-5));
+  seekForward.addEventListener("click", () => seek(5));
+  for (const event of ["loadedmetadata", "durationchange", "progress", "emptied", "timeupdate", "seeking", "seeked"]) {
+    audio.addEventListener(event, updateSeek);
+  }
   if (session) {
     for (const [action, handler] of [
       ["play", () => { void resume(); }],
@@ -223,10 +301,22 @@ if (reader && reader.querySelector("#audio-player")) {
     if (active && !waiting && audio.paused && !audio.ended) pause();
   });
   audio.addEventListener("ended", () => {
-    if (!active || waiting) return;
-    if (stream) { stop(); return; }
+    // Scrubbing to the end while paused must not advance or restart the queue.
+    if (!active || waiting || paused) return;
+    if (stream) {
+      if (!repeating) { stop(); return; }
+      // Reuse the selected stream and refill its beginning if it was evicted.
+      audio.currentTime = 0;
+      cursor = 0;
+      showClip();
+      void resume();
+      return;
+    }
     cursor++;
-    if (cursor >= queue.length) { stop(); return; }
+    if (cursor >= queue.length) {
+      if (!repeating) { stop(); return; }
+      cursor = 0;
+    }
     waiting = true;
     updateActions();
     clearHighlight();
